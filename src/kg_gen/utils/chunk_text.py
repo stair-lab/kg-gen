@@ -4,8 +4,16 @@ import argparse
 import nltk
 
 # Ensure the punkt tokenizer is downloaded
-nltk.download('punkt', quiet=True)
-nltk.download('punkt_tab', quiet=True)
+#nltk.download('punkt', quiet=True)
+#nltk.download('punkt_tab', quiet=True)
+def ensure_nltk_resource(resource_path, resource_name):
+    try:
+        nltk.data.find(resource_path)
+    except LookupError:
+        nltk.download(resource_name, quiet=True)
+
+ensure_nltk_resource('tokenizers/punkt', 'punkt')
+ensure_nltk_resource('tokenizers/punkt_tab', 'punkt_tab')
 
 def chunk_text(text: str, max_chunk_size=500) -> list[str]:
     """
