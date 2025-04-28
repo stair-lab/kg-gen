@@ -14,9 +14,10 @@ from concurrent.futures import ThreadPoolExecutor
 class KGGen:
   def __init__(
     self,
-    model: str = "openai/gpt-4o",
+    model: str = "gpt-4o-mini",
     temperature: float = 0.0,
-    api_key: str = None
+    api_key: str = None,
+    api_base: str = None # allow for custom API base config
   ):
     """Initialize KGGen with optional model configuration
     
@@ -29,13 +30,15 @@ class KGGen:
     self.model = model
     self.temperature = temperature
     self.api_key = api_key
-    self.init_model(model, temperature, api_key)
+    self.api_base = api_base # allow for custom API base config
+    self.init_model(model, temperature, api_key, api_base)
       
   def init_model(
     self,
     model: str = None,
     temperature: float = None,
     api_key: str = None,
+    api_base: str = None, # allow for custom API base config
   ):
     """Initialize or reinitialize the model with new parameters
     
@@ -51,10 +54,12 @@ class KGGen:
       self.temperature = temperature
     if api_key is not None:
       self.api_key = api_key
+    if api_base is not None:
+      self.api_base = api_base # allow for custom API base config
       
     # Initialize dspy LM with current settings
     if self.api_key:
-      self.lm = dspy.LM(model=self.model, api_key=self.api_key, temperature=self.temperature)
+      self.lm = dspy.LM(model=self.model, api_key=self.api_key, temperature=self.temperature, api_base=self.api_base)
     else:
       self.lm = dspy.LM(model=self.model, temperature=self.temperature)
       
@@ -66,6 +71,7 @@ class KGGen:
     model: str = None,
     api_key: str = None,
     context: str = "",
+    api_base: str = None, # allow for custom API base config
     # example_relations: Optional[Union[
     #   List[Tuple[str, str, str]],
     #   List[Tuple[Tuple[str, str], str, Tuple[str, str]]]
@@ -112,11 +118,12 @@ class KGGen:
     else:
       processed_input = input_data
 
-    if any([model, temperature, api_key]):
+    if any([model, temperature, api_key, api_base]):
       self.init_model(
         model=model or self.model,
         temperature=temperature or self.temperature,
-        api_key=api_key or self.api_key
+        api_key=api_key or self.api_key,
+        api_base=api_base or self.api_base
       )
     
     if not chunk_size:
@@ -172,13 +179,15 @@ class KGGen:
     model: str = None,
     temperature: float = None,
     api_key: str = None,
+    api_base: str = None,
   ) -> Graph:
     # Initialize dspy with new parameters if any are provided
     if any([model, temperature, api_key]):
       self.init_model(
         model=model or self.model,
         temperature=temperature or self.temperature,
-        api_key=api_key or self.api_key
+        api_key=api_key or self.api_key,
+        api_base=api_base or self.api_base
       )
 
     return cluster_graph(self.dspy, graph, context)

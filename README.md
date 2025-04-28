@@ -23,6 +23,19 @@ Examples of models you can pass in:
 - `gemini/gemini-2.0-flash`
 - `ollama_chat/deepseek-r1:14b`
 
+**Custom API base url supported**:
+
+You can also specify a custom API base URL using the `api_base` parameter, first set up the environment:
+   ```bash
+   cp .env.example .env
+   ```
+   Configure the following in your `.env` file:
+   - `OPENAI_API_KEY` - Your API key
+   - `API_BASE` - Model API Base
+   
+   For a working example, check the `tests/test_custom_api_base.py` file in the repository.
+
+
 ## Quick start
 
 Install the module:
