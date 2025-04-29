@@ -2,6 +2,8 @@ from src.kg_gen import KGGen
 import os
 from dotenv import load_dotenv
 
+from tests.utils.visualize_kg import visualize
+
 if __name__ == "__main__":
   # Load environment variables
   load_dotenv()
@@ -25,3 +27,4 @@ if __name__ == "__main__":
   print("Edges:", graph.edges) 
   print("Relations:", graph.relations)
   
+  visualize(graph, "tests/test_chunk_and_cluster.html")

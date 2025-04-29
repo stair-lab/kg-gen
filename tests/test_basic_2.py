@@ -1,6 +1,8 @@
 from src.kg_gen import KGGen 
 import os
 
+from tests.utils.visualize_kg import visualize
+
 if __name__ == "__main__":
   # Load environment variables
   
@@ -57,4 +59,6 @@ if __name__ == "__main__":
   print("Edges:", clustered_graph.edges)
   print("Entity Clusters:", clustered_graph.entity_clusters)
   print("Edge Clusters:", clustered_graph.edge_clusters)
+  
+  visualize(clustered_graph, "tests/test_basic_2.html")
   
