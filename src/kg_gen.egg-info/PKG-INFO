@@ -1,6 +1,6 @@
-Metadata-Version: 2.2
+Metadata-Version: 2.4
 Name: kg-gen
-Version: 0.1.4
+Version: 0.1.6
 Summary: Extract a knowledge graph using LLMs from any text or messages array
 Author-email: Belinda Mo <justanexperimentpark@gmail.com>
 License: MIT
@@ -13,7 +13,7 @@ Classifier: Programming Language :: Python :: 3.12
 Classifier: Programming Language :: Python :: 3.13
 Requires-Python: <4.0,>=3.10
 Description-Content-Type: text/markdown
-Requires-Dist: dspy
+Requires-Dist: dspy==2.6.19
 Requires-Dist: nltk
 Requires-Dist: pydantic>=2.0.0
 
@@ -32,6 +32,15 @@ We support API-based and local model providers via [LiteLLM](https://docs.litell
 - Try it out by running the scripts in [`tests/`](https://github.com/stair-lab/kg-gen/tree/main/tests).
 - Instructions to run our KG benchmark MINE are in [`MINE/`](https://github.com/stair-lab/kg-gen/tree/main/MINE).
 - Read the paper: [KGGen: Extracting Knowledge Graphs from Plain Text with Language Models](https://arxiv.org/abs/2502.09956)
+
+## Powered by a model of your choice
+
+Pass in a `model` string to use a model of your choice. Model calls are routed via LiteLLM, and usually LiteLLM goes by the format of `{model_provider}/{model_name}`. See specifically how to format it at [https://docs.litellm.ai/docs/providers](https://docs.litellm.ai/docs/providers).
+
+Examples of models you can pass in:
+- `openai/gpt-4o`
+- `gemini/gemini-2.0-flash`
+- `ollama_chat/deepseek-r1:14b`
 
 ## Quick start
 
@@ -52,7 +61,7 @@ from kg_gen import KGGen
 kg = KGGen(
   model="openai/gpt-4o",  # Default model
   temperature=0.0,        # Default temperature
-  api_key="YOUR_API_KEY"  # Optional if set in environment
+  api_key="YOUR_API_KEY"  # Optional if set in environment or using a local model
 )
 
 # EXAMPLE 1: Single string with context
@@ -67,7 +76,11 @@ graph_1 = kg.generate(
 # relations={('Ben', 'is brother of', 'Josh'), 
 #           ('Andrew', 'is father of', 'Josh'), 
 #           ('Linda', 'is mother of', 'Josh')}
+```
 
+### More Examples - chunking, clustering, passing in a messages array 
+
+```
 # EXAMPLE 2: Large text with chunking and clustering
 with open('large_text.txt', 'r') as f:
   large_text = f.read()
@@ -150,6 +163,7 @@ clustered_graph = kg.cluster(
 # }
 # edge_clusters={ ... }
 ```
+
 ## Features
 
 ### Chunking Large Texts

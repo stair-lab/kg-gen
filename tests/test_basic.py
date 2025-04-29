@@ -2,6 +2,8 @@ from src.kg_gen import KGGen
 import os
 from dotenv import load_dotenv
 
+from tests.utils.visualize_kg import visualize
+
 if __name__ == "__main__":
   # Load environment variables
   load_dotenv()
@@ -16,4 +18,7 @@ if __name__ == "__main__":
     input_data=text,
     model="openai/gpt-4o"
   )
+
+  visualize(graph, "tests/test_basic.html")
+
   print(graph)
