@@ -1,0 +1,113 @@
+A pothole is a pot-shaped depression in a road surface, usually asphalt pavement, where traffic has removed broken pieces of the pavement. It is usually the result of water in the underlying soil structure and traffic passing over the affected area. Water first weakens the underlying soil; traffic then fatigues and breaks the poorly supported asphalt surface in the affected area. Continued traffic action ejects both asphalt and the underlying soil material to create a hole in the pavement.
+
+Formation
+According to the US Army Corps of Engineers's Cold Regions Research and Engineering Laboratory, pothole formation requires two factors to be present at the same time: water and traffic. Water weakens the soil beneath the pavement while traffic applies the loads that stress the pavement past the breaking point. Potholes form progressively from fatigue of the road surface which can lead to a precursor failure pattern known as crocodile (or alligator) cracking. Eventually, chunks of pavement between the fatigue cracks gradually work loose, and may then be plucked or forced out of the surface by continued wheel loads to create a pothole.
+In areas subject to freezing and thawing, frost heaving can damage a pavement and create openings for water to enter. In the spring, thaw of pavements accelerates this process when the thawing of upper portions of the soil structure in a pavement cannot drain past still-frozen lower layers, thus saturating the supporting soil and weakening it.
+Potholes can grow to several feet in width, though they usually only develop to depths of a few inches. If they become large enough, damage to tires, wheels, and vehicle suspensions is liable to occur. Serious road accidents can occur as a direct result, especially on those roads where vehicle speeds are greater.
+Potholes may result from four main causes:
+
+Insufficient pavement thickness to support traffic during freeze/thaw periods without localized failures
+Insufficient drainage
+Failures at utility trenches and castings (manhole and drain casings)
+Pavement defects and cracks left unmaintained and unsealed so as to admit moisture and compromise the structural integrity of the pavement
+
+Gallery
+Prevention
+The following steps can be taken to avoid pothole formation in existing pavements:
+
+1. Surveying of pavements for risk factors
+2. Providing adequate drainage structures
+3. Preventive maintenance
+4. Utility cut management
+5. Sealing asphalt cracks
+
+Survey of pavements
+At-risk pavement are more often local roads with lower structural standards and more complicating factors, like underground utilities, than major arteries. Pavement condition monitoring can lead to timely preventive action. Surveys address pavement distresses, which both diminishes the strength of the asphalt layer and admits water into the pavement, and effective drainage of water from within and around the pavement structure.
+
+Drainage
+Drainage structures, including ditching and storm sewers are essential for removing water from pavements. Avoiding other risk factors with good construction includes well-draining base and sub-base soils that avoid frost action and promote drying of the soil structure. Adequate crowns promote drainage to the sides. Good crack control prevents water penetration into the pavement soil structure.
+
+Preventive maintenance
+Preventive maintenance adds maintaining pavement structural integrity with thickness and continuity to the mix of preventing water penetration and promoting water migration away from the roadway.
+
+Utility cut management
+Eaton, et al., advocate a permitting process for utility cuts with specifications that avoid loss of structural continuity of pavements and flaws or failures that allow water penetration.
+Some municipalities require contractors to install utility repair tags to identify responsible parties of the deteriorated patches.
+
+Sealing asphalt cracks
+A US Air Force manual advocates semiannual inspection of pavement cracks with crack sealing commencing on cracks that exceed 6.4 millimetres (0.25 in)
+
+Repair
+Pothole patching methods may be either temporary or semi-permanent. Temporary patching is reserved for weather conditions that are not favorable to a more permanent solution and usually uses a cold mix asphalt patching compound placed in an expedient manner to temporarily restore pavement smoothness. Semi-permanent patching uses more care in reconstructing the perimeter of the failed area to blend with the surrounding pavement and usually employs a hot-mix asphalt fill above replacement of appropriate base materials.
+The Federal Highway Administration (FHWA) offers an overview of best practices which includes several repair techniques; throw-and-roll, semi-permanent, spray injection, and edge seal. The FHWA suggests the best patching techniques, at times other than winter, are spray injection, throw-and-roll, semi-permanent, or edge seal procedures. In winter, the throw-and-roll technique may be the only available option. The Council for Scientific and Industrial Research in South Africa offers similar methods for the repair of potholes.
+
+Materials
+Asphaltic patch materials consist of a binder and aggregate that come in two broad categories, hot mix and cold mix. Hot mixes are used by some agencies, they are produced at local asphalt plants. The FHWA manual cites three types of cold mixes, those produced by a local asphalt plant, either 1) using the available aggregate and binder or 2) according to specifications set by the agency that will use the mix. The third type is a proprietary cold mix, which is manufactured to an advertised standard.
+
+Throw-and-roll repair
+The FHWA manual cites the throw-and-roll method as the most basic method, best used as a temporary repair under conditions when it is difficult to control the placement of material, such as winter-time. It consists of:
+
+Placing the hot or cold patch material into a pothole
+Compacting the patch with a vehicle, such as a truck
+Achieving a crown on the compacted patch of between 3 and 6 mm
+This method is widely used due to its simplicity and speed, especially as an expedient method when the material is placed under unfavorable conditions of water or temperature. It can also be employed at times when the pothole is dry and clean with more lasting results. Eaton, et al., noted that the failure rate of expedient repairs is high and that they can cost as much as five times the cost of properly done repairs. They advocate this type of repair only when weather conditions prevent proper techniques.
+Researchers from the University of Minnesota Duluth have tested mixing asphalt with iron ore containing magnetite which is then heated using ferromagnetic resonance (using microwaves at a specific frequency) to heat the mixed asphalt. The mixture used a compound of between 1% and 2% magnetite. The group discovered that material could be heated for a patch to 100 °C (212 °F) in approximately ten minutes which then applied a more effective repair and drove out moisture which improved adhesion.
+
+Semi-permanent repair
+The FHWA manual cites the semi-permanent repair method as one of the best for repairing potholes, short of full-depth roadway replacement.  It consists of:
+
+1. Removing water and debris from the pothole
+2. Making clean cuts along the sides of prospective patch area to assure that vertical sides of the repair are in sound pavement (Eaton, et al., recommend a bituminous tack coat in the open cavity, prior to placement of patch material.)
+3. Placing the hot or cold patch mix material
+4. Compacting the patch with a device that is smaller than the patch area, e.g. vibratory rollers or a vibratory plate
+While this repair procedure provides durable results, it requires more labor and is more equipment-intensive than the throw-and-roll or the spray-injection procedure.
+
+Spray-injection repair
+The FHWA manual cites the spray-injection procedure as an efficient alternative to semi-permanent repair. It requires specialized equipment, however.  It consists of:
+
+1. Blowing water and debris from the pothole
+2. Spraying a tack coat of binder on the sides and bottom of the pothole
+3. Blowing asphalt and aggregate into the pothole
+4. Covering the patched area with a layer of aggregate
+This procedure requires no compaction after the cover aggregate has been placed.
+
+Edge seal repair
+The FHWA manual cites the edge seal method as an alternative to the above techniques.  It consists of:
+
+1. Following the "throw-and-roll" steps
+2. After the repaired section has dried, placing a ribbon of asphaltic tack material on top of the patch edge, overlapping the pavement and the patch
+3. Placing sand on the tack material to prevent tracking by vehicle tires
+In this procedure, waiting for any water to dry may require a second visit to place the tack coat. The tack material prevents water from getting through the edge of the patch and helps bond the patch to the surrounding pavement.
+
+Efficacy of repair methods
+An FHWA-sponsored study determined that the "throw-and-roll technique proved as effective as the semi-permanent procedure when the two procedures were compared directly, using similar materials". It also found the throw-and-roll procedure to be generally more cost-effective when using quality materials. It further found that spray-injection repairs were as effective as control patches, depending on the expertise of the equipment operator.
+
+Costs to the public
+The American Automobile Association estimated in the five years prior to 2016 that 16 million drivers in the United States have suffered damage from potholes to their vehicle including tire punctures, bent wheels, and damaged suspensions with a cost of $3 billion a year. In India, between 2015 and 2017, an average of 3,000 people per year were killed in accidents involving potholes. Britain has estimated that the cost of fixing all roads with potholes in the country would cost £12 billion.  255 cyclists in Britain were killed or seriously injured because of road defects between 2017 and 2023.
+
+Reporting
+Some jurisdictions offer websites or mobile apps for pothole-reporting. These allow citizens to report potholes and other road hazards, optionally including a photograph and GPS coordinates.  It is estimated there are 55 million potholes in the United States.  The self-proclaimed pothole capital, Edmonton, Alberta, Canada reportedly spends $4.8 million on 450,000 potholes annually, as of 2015.
+India has historically lost over 3,000 people per year to accidents caused by potholes. This situation has engendered citizen movement to address the problem.
+In the United Kingdom, more than half a million pot holes were reported in 2017, an increase of 44% on the 2015 figure. There are processes in place to report potholes at different levels of jurisdiction. The process for claiming compensation varies by jurisdiction.
+
+In popular culture
+Potholes have been commented on both in various media.
+
+Visual art
+Two artists, Jim Bachor of Chicago and Baadal Nanjundaswamy of Bangalore, India, have used artwork as a commentary on potholes by placing mosaics (depicting ice cream in various manifestations) or sculpture (in the form of a crocodile) in potholes. Elsewhere, activists in Russia used painted caricatures of local officials with their mouths as potholes, to show their anger about the poor state of the roads. In Manchester, England, a graffiti artist painted  images of penises around potholes, which often resulted in them being repaired within 48 hours.
+
+Song
+The Beatles song "A Day in the Life" references potholes. John Lennon wrote the song's final verse inspired by a Far & Near news brief, in the same 17 January edition of the Daily Mail that had inspired the first two verses. Under the headline "The holes in our roads", the brief stated: "There are 4,000 holes in the road in Blackburn, Lancashire, or one twenty-sixth of a hole per person, according to a council survey. If Blackburn is typical, there are two million holes in Britain's roads and 300,000 in London."
+
+Television
+In the Seinfeld episode The Pothole, George discovers that he has lost his keys, including a commemorative Phil Rizzuto keychain that says "Holy Cow" when activated.  He then retraces his steps, and returns to a street where he had jumped over a pothole, which is now filled in with asphalt.  The "Holy Cow" phrase is heard when a car runs over it.
+
+See also
+Asphalt concrete
+Road surface
+Chicago rat hole
+
+References
+External links
+
+Federal Highway Administration Manual of Practice for Pothole Repair

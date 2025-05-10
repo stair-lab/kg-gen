@@ -1,0 +1,34 @@
+A surveyor's wheel, also called a clickwheel, hodometer, waywiser, trundle wheel,  measuring wheel or perambulator is a device for measuring distance.
+
+Origin
+The origins of the surveyor's wheel are connected to the origins of the odometer. While the latter is derived to measure distances travelled by a vehicle, the former is specialized to measure distances.
+In the 17th century, the surveyor's wheel was re-introduced and used to measure distances. A single wheel is attached to a handle and the device can be pushed or pulled along by a person walking. Early devices were made of wood and may have had an iron rim to provide strength. The wheels themselves would be made in the same manner as wagon wheels and often by the same makers. The measuring devices would be made by makers of scientific instruments and the device and handles would be attached to the wheel by them. The device to read the distance travelled would be mounted either near the hub of the wheel or at the top of the handle.
+In some cases, double-wheel hodometers were constructed.
+Francis Ronalds extended the concept in 1827 to create a device that recorded the distances travelled in graphical form as a survey plan.  The apparatus had a worm on the axle of the two wheels that meshed with a toothed wheel to drive another transverse screw that carried a slider.  A pencil on the slider recorded the distance travelled along the screw on an attached drawing board at a chosen scale.
+Modern surveyor's wheels are constructed primarily of aluminium, with solid or pneumatic tyres on the wheel. Some can fold for transport or storage.
+
+Principle
+The surveyor's wheel is marked in fractional increments of revolution from a reference position.  Thus its current position can be represented as a fraction of a revolution from this reference. If the wheel rotated a full turn (360 angular degrees), the distance traveled would be equal to the circumference of the wheel.  Otherwise, the distance the wheel traveled is the circumference of the wheel multiplied by the fraction of a full turn.  In the figure on the right, the blue line is the reference starting point. As the wheel turns during measurement, it is seen that the wheel sweeps out an angle of ⁠3π/4⁠ radians, which is equal to 135 degrees or ⁠3/8⁠ of a full turn.
+
+Usage
+Each revolution of the wheel measures a specific distance, such as a yard, meter or half-rod. Thus counting revolutions with a mechanical device attached to the wheel measures the distance directly.
+Surveyor's wheels will provide a measure of good accuracy on a smooth surface, such as pavement. On rough terrain, wheel slippage and bouncing can reduce the accuracy. Soft sandy or muddy soil can also affect the rolling of the wheel. As well, obstacles in the way of the path may have to be accounted for separately. Good surveyors will keep track of any circumstance on the path that can influence the accuracy of the distance measured and either measure that portion with an alternative, such as a surveyor's tape or measuring tape, or make a reasonable estimate of the correction to apply.
+Surveyor's wheels are used primarily for lower accuracy surveys. They are often used by road maintenance or underground utility workers and by farmers for fast measures over distances too inconvenient to measure with a surveyor's tape.
+The surveyor's wheel measures the distance along a surface, whereas in normal land surveying, distances between points are usually measured horizontally with vertical measurements indicated in differences in elevation. Thus conventionally surveyed distances will be less than those measured by a surveyor's wheel.
+
+Trundle wheel
+The trundle wheel is a simplified form of a surveyor's wheel. It is commonly used by people who need an easy way to find the rough distance from one place to another. The trundle wheel is composed of a wheel, a handle which is attached to the axle allowing the trundle wheel to be held easily, and a clicking device which is triggered once per revolution of the wheel. Trundle wheels are not as accurate as other methods of measuring distance but are a good way to get a rough estimation of a fairly long distance over a good surface.
+It works by having a wheel which has a circumference  of exactly 1 metre (or other known unit of measure), hence one revolution of the wheel equates to 1 unit of distance traveled on the ground if there is no slip. Every time the wheel makes a rotation, the wheel produces an audible click which is then counted and therefore the number of clicks that are counted by the user is approximately the number of distance units traveled. Due to the design of the trundle wheel, it has the potential to not always travel in a straight line which may add extra distance to the final reading.
+
+See also
+Curvimeter
+Odometer
+
+References
+Gerard L'E. Turner, Nineteenth Century Scientific Instruments, Sotheby Publications, 1983, ISBN 0-85667-170-3
+Gerard L'E. Turner, Antique Scientific Instruments, Blandford Press Ltd. 1980, ISBN 0-7137-1068-3
+
+External links
+Perambulator Information on the use of perambulators in surveying in Queensland, Australia in the 19th century.
+Waywisers at the Smithsonian National Museum of American History
+Example of 16th century German hodometer

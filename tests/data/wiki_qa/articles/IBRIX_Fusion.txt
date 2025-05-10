@@ -1,0 +1,11 @@
+IBRIX Fusion is a parallel file system combined with a logical volume manager, availability features and a management interface.  The software was produced, sold, and supported by IBRIX Incorporated of Billerica, Massachusetts.  HP announced on July 17, 2009 that it had reached a definitive agreement to acquire IBRIX.  Subsequent to the acquisition, the software components of IBRIX have been combined with ProLiant servers to form the X9000 series of storage systems.
+The X9000 storage systems are designed to provide network-attached storage over both standard protocols (SMB, NFS, HTTP and NDMP) as well as a proprietary protocol.  Architecturally, the file system is limited to 16 petabytes under a single namespace, and is based upon a design described in U.S. patent 6,782,389.
+It was used in the HPE StoreOnce (former D2D) products.
+
+See also
+List of file systems
+Distributed file system
+
+References
+External links
+Product information

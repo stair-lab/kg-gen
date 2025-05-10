@@ -1,0 +1,31 @@
+The mini-DIN connectors are a family of multi-pin electrical connectors used in a variety of applications. Mini-DIN 9.5 millimetres (3⁄8 in) is similar to the larger, older 13.2 mm diameter DIN connector.
+
+Design
+Mini-DIN connectors are 9.5 millimetres (3⁄8 in) in diameter and come in seven patterns, with the number of pins from three to nine. Each pattern is keyed in such a way that a plug with one pattern cannot be mated with any socket of another pattern. They are each drastically different from the other, with no simultaneously and directly overlapping similarities in (1) pin arrangement, (2) square key size and position, (3) circular shielding metal skirt notches and metallic additions: in this they differ from the nonstandard mini-DIN connectors which may have directly overlapping characteristics to each other or to the standard mini-DIN connectors.
+
+Notable usage
+Some notable examples of standard mini-DIN connectors include:
+
+Mini-DIN-3 connectors were used in early implementations of Apple LocalTalk.
+Mini-DIN-4 connectors are used for S-video, and were used for Apple Desktop Bus.
+Mini-DIN-6 connectors were used for IBM PC compatible PS/2 keyboard and mouse ports and for Acorn Archimedes keyboards (prior to the RiscPC, this was proprietary, while the RiscPC and later devices uses standardised PS/2 for the keyboard).
+Mini-DIN-8 connectors were used for Sun Microsystems keyboard and mouse ports, as well as for serial printer, modem, and Apple LocalTalk connections. It was also used as the game pad connector for the PC Engine video game system and its variants (except the TurboGrafx-16 USA variant, which used a full sized DIN-8). The connector was used by the controller peripheral for the Philips CD-i video game system. Furthermore, some devices by Keithley Instruments feature it, too.
+Mini-DIN-9 connectors were used for Acorn Archimedes and RiscPC Quadrature Mice and Microsoft InPort Bus Mice (not interchangeable). It is also used as the Audio/Video output port of Sega Genesis/Mega Drive gaming consoles on Model 2 variants, as well as their 32X addon.
+Mini-DIN-7 and Mini-DIN-9 connectors have been used for a variety of audio and video applications. Also, iRobot Roomba Vacuum cleaning robots use a Mini-DIN-7 to expose an interface for custom sensing and control.
+Mini-DIN-6 and Mini-DIN-8 connectors are frequently used in ham radio applications to interface with computers for data packet communications and radio programming.
+
+Non-standard connectors
+Several non-standard sockets are designed to mate with standard mini-DIN plugs. These connectors provide extra conductors and are used to save space by combining functions in one connector that would otherwise require two standard connectors.
+Other non-standard connectors mate only with their matching connectors and are mini-DIN connectors only in the sense of sharing the 9.5 mm plug body. These mini-DIN style plugs are not approved by the Deutsches Institut für Normung, the German standards body, and many applications could be considered proprietary. The Sega Saturn uses a 10-pin non-standard connector.
+
+Other non-standard connectors
+JVC Mini-DIN 8
+Allen-Bradley Micrologix PLC Mini-DIN 8
+Beyerdynamic microphone connector
+Some 3-pin and 4-pin DC power connectors look similar enough to Mini-DIN connectors to be erroneously referred to as "Mini-DIN" connectors sometimes.
+
+See also
+DC connector § Snap and lock DC power connectors
+
+
+== References ==

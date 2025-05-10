@@ -1,0 +1,182 @@
+In atomic physics, the effective nuclear charge of an electron in a multi-electron atom or ion is the number of elementary charges (
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+  
+) an electron experiences by the nucleus. It is denoted by Zeff. The term "effective" is used because the shielding effect of negatively charged electrons prevent higher energy electrons from experiencing the full nuclear charge of the nucleus due to the repelling effect of inner layer. The effective nuclear charge experienced by an electron is also called the core charge. It is possible to determine the strength of the nuclear charge by the oxidation number of the atom. Most of the physical and chemical properties of the elements can be explained on the basis of electronic configuration. Consider the behavior of ionization energies in the periodic table. It is known that the magnitude of ionization potential depends upon the following factors:
+
+The size of an atom
+The nuclear charge; oxidation number
+The screening effect of the inner shells
+The extent to which the outermost electron penetrates into the charge cloud set up by the inner lying electron
+In the periodic table, effective nuclear charge decreases down a group and increases left to right across a period.
+
+Description
+The effective atomic number Zeff, (sometimes referred to as the effective nuclear charge) of an electron in a multi-electron atom is the number of protons that this electron effectively 'sees' due to screening by inner-shell electrons. It is a measure of the electrostatic interaction between the negatively charged electrons and positively charged protons in the atom. One can view the electrons in an atom as being 'stacked' by energy outside the nucleus; the lowest energy electrons (such as the 1s and 2s electrons) occupy the space closest to the nucleus, and electrons of higher energy are located further from the nucleus.
+The binding energy of an electron, or the energy needed to remove the electron from the atom, is a function of the electrostatic interaction between the negatively charged electrons and the positively charged nucleus. For instance, in iron (atomic number 26), the nucleus contains 26 protons. The electrons that are closest to the nucleus will 'see' nearly all of them. However, electrons further away are screened from the nucleus by other electrons in between, and feel less electrostatic interaction as a result. The 1s electron of iron (the closest one to the nucleus) sees an effective atomic number (number of protons) of 25. The reason why it is not 26 is that some of the electrons in the atom end up repelling the others, giving a net lower electrostatic interaction with the nucleus. One way of envisioning this effect is to imagine the 1s electron sitting on one side of the 26 protons in the nucleus, with another electron sitting on the other side; each electron will feel less than the attractive force of 26 protons because the other electron contributes a repelling force. The 4s electrons in iron, which are furthest from the nucleus, feel an effective atomic number of only 5.43 because of the 25 electrons in between it and the nucleus screening the charge.
+Effective atomic numbers are useful not only in understanding why electrons further from the nucleus are so much more weakly bound than those closer to the nucleus, but also because they can tell us when to use simplified methods of calculating other properties and interactions. For instance, lithium, atomic number 3, has two electrons in the 1s shell and one in the 2s shell. Because the two 1s electrons screen the protons to give an effective atomic number for the 2s electron close to 1, we can treat this 2s valence electron with a hydrogenic model.
+Mathematically, the effective atomic number Zeff can be calculated using methods known as "self-consistent field" calculations, but in simplified situations is just taken as the atomic number minus the number of electrons between the nucleus and the electron being considered.
+
+Calculations
+In an atom with one electron, that electron experiences the full charge of the positive nucleus. In this case, the effective nuclear charge can be calculated by Coulomb's law.
+However, in an atom with many electrons, the outer electrons are simultaneously attracted to the positive nucleus and repelled by the negatively charged electrons. The effective nuclear charge on such an electron is given by the following equation:
+
+  
+    
+      
+        
+          Z
+          
+            
+              e
+              f
+              f
+            
+          
+        
+        =
+        Z
+        −
+        S
+      
+    
+    {\displaystyle Z_{\mathrm {eff} }=Z-S}
+  
+
+where
+
+  
+    
+      
+        Z
+      
+    
+    {\displaystyle Z}
+  
+ is the number of protons in the nucleus (atomic number) and
+
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+  
+ is the shielding constant.
+S can be found by the systematic application of various rule sets.
+
+Slater's rules
+The simplest method for determining the shielding constant for a given electron is the use of "Slater's rules", devised by John C. Slater, and published in 1930. These algebraic rules are significantly simpler than finding shielding constants using ab initio calculation.
+
+Hartree–Fock method
+A more theoretically justified method is to calculate the shielding constant using the Hartree-Fock method. Douglas Hartree defined the effective Z of a Hartree–Fock orbital to be:
+
+  
+    
+      
+        
+          Z
+          
+            
+              e
+              f
+              f
+            
+          
+        
+        =
+        
+          
+            
+              ⟨
+              r
+              
+                ⟩
+                
+                  
+                    H
+                  
+                
+              
+            
+            
+              ⟨
+              r
+              
+                ⟩
+                
+                  Z
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle Z_{\mathrm {eff} }={\frac {\langle r\rangle _{\rm {H}}}{\langle r\rangle _{Z}}}}
+  
+
+where 
+
+  
+    
+      
+        ⟨
+        r
+        
+          ⟩
+          
+            
+              H
+            
+          
+        
+      
+    
+    {\displaystyle \langle r\rangle _{\rm {H}}}
+  
+ is the mean radius of the orbital for hydrogen, and
+
+  
+    
+      
+        ⟨
+        r
+        
+          ⟩
+          
+            Z
+          
+        
+      
+    
+    {\displaystyle \langle r\rangle _{Z}}
+  
+ is the mean radius of the orbital for a proton configuration with nuclear charge Z.
+
+Values
+Updated effective nuclear charge values were provided by Clementi et al. in 1963 and 1967. In their work, screening constants were optimized to produce effective nuclear charge values that agree with SCF calculations. Though useful as a predictive model, the resulting screening constants contain little chemical insight as a qualitative model of atomic structure.
+
+Comparison with nuclear charge
+Nuclear charge is the electric charge of a nucleus of an atom, equal to the number of protons in the nucleus times the elementary charge. In contrast, the effective nuclear charge is the attractive positive charge of nuclear protons acting on valence electrons, which is always less than the total number of protons present in a nucleus due to the shielding effect.
+
+See also
+Atomic orbitals
+Core charge
+d-block contraction (or scandide contraction)
+Electronegativity
+Lanthanide contraction
+Shielding effect
+Slater-type orbitals
+Valence electrons
+Weak charge
+
+References
+Resources
+2.5: Effective Nuclear Charge. Chemistry LibreTexts.
+Brown, Theodore; Intekhab Khan, H.E.; & Bursten, Bruce (2002). Chemistry: The Central Science (8th revised edition). Upper Saddle River, New Jersey 07458: Prentice-Hall. ISBN 0-13-061142-5.

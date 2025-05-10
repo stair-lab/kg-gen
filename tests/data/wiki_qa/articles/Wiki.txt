@@ -1,0 +1,132 @@
+A wiki (  WICK-ee) is a form of hypertext publication on the internet which is collaboratively edited and managed by its audience directly through a web browser. A typical wiki contains multiple pages that can either be edited by the public or limited to use within an organization for maintaining its internal knowledge base.
+
+Wikis are powered by wiki software, also known as wiki engines. Being a form of content management system, these differ from other web-based systems such as blog software or static site generators in that the content is created without any defined owner or leader. Wikis have little inherent structure, allowing one to emerge according to the needs of the users. Wiki engines usually allow content to be written using a lightweight markup language and sometimes edited with the help of a rich-text editor. There are dozens of different wiki engines in use, both standalone and part of other software, such as bug tracking systems. Some wiki engines are free and open-source, whereas others are proprietary. Some permit control over different functions (levels of access); for example, editing rights may permit changing, adding, or removing material. Others may permit access without enforcing access control. Further rules may be imposed to organize content. In addition to hosting user-authored content, wikis allow those users to interact, hold discussions, and collaborate.
+There are hundreds of thousands of wikis in use, both public and private, including wikis functioning as knowledge management resources, note-taking tools, community websites, and intranets. Ward Cunningham, the developer of the first wiki software, WikiWikiWeb, originally described wiki as "the simplest online database that could possibly work". "Wiki" (pronounced [wiki]) is a Hawaiian word meaning "quick".
+The online encyclopedia project Wikipedia is the most popular wiki-based website, as well being one of the internet's most popular websites, having been ranked consistently as such since at least 2007. Wikipedia is not a single wiki but rather a collection of hundreds of wikis, with each one pertaining to a specific language, making it the largest reference work of all time. The English-language Wikipedia has the largest collection of articles, standing at 6,991,609 as of May 2025.
+
+Characteristics
+In their 2001 book The Wiki Way: Quick Collaboration on the Web, Cunningham and co-author Bo Leuf described the essence of the wiki concept:
+
+"A wiki invites all users—not just experts—to edit any page or to create new pages within the wiki website, using only a standard 'plain-vanilla' Web browser without any extra add-ons."
+"Wiki promotes meaningful topic associations between different pages by making page link creation intuitively easy and showing whether an intended target page exists or not."
+"A wiki is not a carefully crafted site created by experts and professional writers and designed for casual visitors. Instead, it seeks to involve the typical visitor/user in an ongoing process of creation and collaboration that constantly changes the website landscape."
+
+Editing
+Source editing
+Some wikis will present users with an edit button or link directly on the page being viewed. This will open an interface for writing, formatting, and structuring page content. The interface may be a source editor, which is text-based and employs a lightweight markup language (also known as wikitext, wiki markup, or wikicode), or a visual editor. For example, in a source editor, starting lines of text with asterisks could create a bulleted list.
+The syntax and features of wiki markup languages for denoting style and structure can vary greatly among implementations. Some allow the use of HTMLTooltip Hypertext Markup Language and CSSTooltip Cascading Style Sheets, while others prevent the use of these to foster uniformity in appearance.
+
+Example of syntax
+A short section of Alice's Adventures in Wonderland rendered in wiki markup:
+
+Visual editing
+While wiki engines have traditionally offered source editing to users, in recent years some implementations have added a rich text editing mode. This is usually implemented, using JavaScript, as an interface which translates formatting instructions chosen from a toolbar into the corresponding wiki markup or HTML. This is generated and submitted to the server transparently, shielding users from the technical detail of markup editing and making it easier for them to change the content of pages. An example of such an interface is the VisualEditor in MediaWiki, the wiki engine used by Wikipedia. WYSIWYG editors may not provide all the features available in wiki markup, and some users prefer not to use them, so a source editor will often be available simultaneously.
+
+Version history
+Some wiki implementations keep a record of changes made to wiki pages, and may store every version of the page permanently. This allows authors to revert a page to an older version to rectify a mistake, or counteract a malicious or inappropriate edit to its content.
+These stores are typically presented for each page in a list, called a "log" or "edit history", available from the page via a link in the interface. The list displays metadata for each revision to the page, such as the time and date of when it was stored, and the name of the person who created it, alongside a link to view that specific revision. A diff (short for "difference") feature may be available, which highlights the changes between any two revisions.
+
+Edit summaries
+The edit history view in many wiki implementations will include edit summaries written by users when submitting changes to a page. Similar to the function of a log message in a revision control system, an edit summary is a short piece of text which summarizes and perhaps explains the change, for example "Corrected grammar" or "Fixed table formatting to not extend past page width". It is not inserted into the article's main text.
+
+Navigation
+Traditionally, wikis offer free navigation between their pages via hypertext links in page text, rather than requiring users to follow a formal or structured navigation scheme. Users may also create indexes or table of contents pages, hierarchical categorization via a taxonomy, or other forms of ad hoc content organization. Wiki implementations can provide one or more ways to categorize or tag pages to support the maintenance of such index pages, such as a backlink feature which displays all pages that link to a given page. Adding categories or tags to a page makes it easier for other users to find it.
+Most wikis allow the titles of pages to be searched amongst, and some offer full text search of all stored content.
+
+Navigation between wikis
+Some wiki communities have established navigational networks between each other using a system called WikiNodes. A WikiNode is a page on a wiki which describes and links to other, related wikis. Some wikis operate a structure of neighbors and delegates, wherein a neighbor wiki is one which discusses similar content or is otherwise of interest, and a delegate wiki is one which has agreed to have certain content delegated to it. WikiNode networks act as webrings which may be navigated from one node to another to find a wiki which addresses a specific subject.
+
+Linking to and naming pages
+The syntax used to create internal hyperlinks varies between wiki implementations. Beginning with the WikiWikiWeb in 1995, most wikis used camel case to name pages, which is when words in a phrase are capitalized and the spaces between them removed. In this system, the phrase "camel case" would be rendered as "CamelCase". In early wiki engines, when a page was displayed, any instance of a camel case phrase would be transformed into a link to another page named with the same phrase.
+While this system made it easy to link to pages, it had the downside of requiring pages to be named in a form deviating from standard spelling, and titles of a single word required abnormally capitalizing one of the letters (e.g. "WiKi" instead of "Wiki"). Some wiki implementations attempt to improve the display of camel case page titles and links by reinserting spaces and possibly also reverting to lower case, but this simplistic method is not able to correctly present titles of mixed capitalization. For example, "Kingdom of France" as a page title would be written as "KingdomOfFrance", and displayed as "Kingdom Of France".
+To avoid this problem, the syntax of wiki markup gained free links, wherein a term in natural language could be wrapped in special characters to turn it into a link without modifying it. The concept was given the name in its first implementation, in UseModWiki in February 2001. In that implementation, link terms were wrapped in a double set of square brackets, for example [[Kingdom of France]]. This syntax was adopted by a number of later wiki engines.
+It is typically possible for users of a wiki to create links to pages that do not yet exist, as a way to invite the creation of those pages. Such links are usually differentiated visually in some fashion, such as being colored red instead of the default blue, which was the case in the original WikiWikiWeb, or by appearing as a question mark next to the linked words.
+
+History
+WikiWikiWeb was the first wiki. Ward Cunningham started developing it in 1994, and installed it on the Internet domain c2.com on March 25, 1995. Cunningham gave it the name after remembering a Honolulu International Airport counter employee telling him to take the "Wiki Wiki Shuttle" bus that runs between the airport's terminals, later observing that "I chose wiki-wiki as an alliterative substitute for 'quick' and thereby avoided naming this stuff quick-web."
+Cunningham's system was inspired by his having used Apple's hypertext software HyperCard, which allowed users to create interlinked "stacks" of virtual cards. HyperCard, however, was single-user, and Cunningham was inspired to build upon the ideas of Vannevar Bush, the inventor of hypertext, by allowing users to "comment on and change one another's text." Cunningham says his goals were to link together people's experiences to create a new literature to document programming patterns, and to harness people's natural desire to talk and tell stories with a technology that would feel comfortable to those not used to "authoring".
+Wikipedia became the most famous wiki site, launched in January 2001 and entering the top ten most popular websites in 2007. In the early 2000s, wikis were increasingly adopted in enterprise as collaborative software. Common uses included project communication, intranets, and documentation, initially for technical users. Some companies use wikis as their collaborative software and as a replacement for static intranets, and some schools and universities use wikis to enhance group learning. On March 15, 2007, the word wiki was listed in the online Oxford English Dictionary.
+
+Alternative definitions
+In the late 1990s and early 2000s, the word "wiki" was used to refer to both user-editable websites and the software that powers them, and the latter definition is still occasionally in use.
+By 2014, Ward Cunningham's thinking on the nature of wikis had evolved, leading him to write that the word "wiki" should not be used to refer to a single website, but rather to a mass of user-editable pages or sites so that a single website is not "a wiki" but "an instance of wiki". In this concept of wiki federation, in which the same content can be hosted and edited in more than one location in a manner similar to distributed version control, the idea of a single discrete "wiki" no longer made sense.
+
+Implementations
+The software which powers a wiki may be implemented as a series of scripts which operate an existing web server, a standalone application server that runs on one or more web servers, or in the case of personal wikis, run as a standalone application on a single computer. Some wikis use flat file databases to store page content, while others use a relational database, as indexed database access is faster on large wikis, particularly for searching.
+
+Hosting
+Wikis can also be created on wiki hosting services (also known as wiki farms), where the server-side software is implemented by the wiki farm owner, and may do so at no charge in exchange for advertisements being displayed on the wiki's pages. Some hosting services offer private, password-protected wikis requiring authentication to access. Free wiki farms generally contain advertising on every page.
+
+Trust and security
+Access control
+The four basic types of users who participate in wikis are readers, authors, wiki administrators and system administrators. System administrators are responsible for the installation and maintenance of the wiki engine and the container web server. Wiki administrators maintain content and, through having elevated privileges, are granted additional functions (including, for example, preventing edits to pages, deleting pages, changing users' access rights, or blocking them from editing).
+
+Controlling changes
+Wikis are generally designed with a soft security philosophy in which it is easy to correct mistakes or harmful changes, rather than attempting to prevent them from happening in the first place. This allows them to be very open while providing a means to verify the validity of recent additions to the body of pages. Most wikis offer a recent changes page which shows recent edits, or a list of edits made within a given time frame. Some wikis can filter the list to remove edits flagged by users as "minor" and automated edits. The version history feature allows harmful changes to be reverted quickly and easily.
+Some wiki engines provide additional content control, allowing remote monitoring and management of a page or set of pages to maintain quality. A person willing to maintain pages will be alerted of modifications to them, allowing them to verify the validity of new editions quickly. Such a feature is often called a watchlist.
+Some wikis also implement patrolled revisions, in which editors with the requisite credentials can mark edits as being legitimate. A flagged revisions system can prevent edits from going live until they have been reviewed.
+Wikis may allow any person on the web to edit their content without having to register an account on the site first (anonymous editing), or require registration as a condition of participation. On implementations where an administrator is able to restrict editing of a page or group of pages to a specific group of users, they may have the option to prevent anonymous editing while allowing it for registered users.
+
+Trustworthiness and reliability of content
+Critics of publicly editable wikis argue that they could be easily tampered with by malicious individuals, or even by well-meaning but unskilled users who introduce errors into the content. Proponents maintain that these issues will be caught and rectified by a wiki's community of users. High editorial standards in medicine and health sciences articles, in which users typically use peer-reviewed journals or university textbooks as sources, have led to the idea of expert-moderated wikis. Wiki implementations retaining and allowing access to specific versions of articles has been useful to the scientific community, by allowing expert peer reviewers to provide links to trusted version of articles which they have analyzed.
+
+Security
+Trolling and cybervandalism on wikis, where content is changed to something deliberately incorrect or a hoax, offensive material or nonsense is added, or content is maliciously removed, can be a major problem. On larger wiki sites it is possible for such changes to go unnoticed for a long period.
+In addition to using the approach of soft security for protecting themselves, larger wikis may employ sophisticated methods, such as bots that automatically identify and revert vandalism. For example, on Wikipedia, the bot ClueBot NG uses machine learning to identify likely harmful changes, and reverts these changes within minutes or even seconds.
+Disagreements between users over the content or appearance of pages may cause edit wars, where competing users repetitively change a page back to a version that they favor. Some wiki software allows administrators to prevent pages from being editable until a decision has been made on what version of the page would be most appropriate.
+Some wikis may be subject to external structures of governance which address the behavior of persons with access to the system, for example in academic contexts.
+
+Harmful external links
+As most wikis allow the creation of hyperlinks to other sites and services, the addition of malicious hyperlinks, such as sites infected with malware, can also be a problem. For example, in 2006 a German Wikipedia article about the Blaster Worm was edited to include a hyperlink to a malicious website, and users of vulnerable Microsoft Windows systems who followed the link had their systems infected with the worm. Some wiki engines offer a blacklist feature which prevents users from adding hyperlinks to specific sites that have been placed on the list by the wiki's administrators.
+
+Communities
+Applications
+The English Wikipedia has the largest user base among wikis on the World Wide Web and ranks in the top 10 among all Web sites in terms of traffic. Other large wikis include the WikiWikiWeb, Memory Alpha, Wikivoyage, and previously Susning.nu, a Swedish-language knowledge base. Medical and health-related wiki examples include Ganfyd, an online collaborative medical reference that is edited by medical professionals and invited non-medical experts. Many wiki communities are private, particularly within enterprises. They are often used as internal documentation for in-house systems and applications. Some companies use wikis to allow customers to help produce software documentation. A study of corporate wiki users found that they could be divided into "synthesizers" and "adders" of content. Synthesizers' frequency of contribution was affected more by their impact on other wiki users, while adders' contribution frequency was affected more by being able to accomplish their immediate work. From a study of thousands of wiki deployments, Jonathan Grudin concluded careful stakeholder analysis and education are crucial to successful wiki deployment.
+In 2005, the Gartner Group, noting the increasing popularity of wikis, estimated that they would become mainstream collaboration tools in at least 50% of companies by 2009. Wikis can be used for project management. Wikis have also been used in the academic community for sharing and dissemination of information across institutional and international boundaries. In those settings, they have been found useful for collaboration on grant writing, strategic planning, departmental documentation, and committee work. In the mid-2000s, the increasing trend among industries toward collaboration placed a heavier impetus upon educators to make students proficient in collaborative work, inspiring even greater interest in wikis being used in the classroom.
+Wikis have found some use within the legal profession and within the government. Examples include the Central Intelligence Agency's Intellipedia, designed to share and collect intelligence assessments, DKosopedia, which was used by the American Civil Liberties Union to assist with review of documents about the internment of detainees in Guantánamo Bay; and the wiki of the United States Court of Appeals for the Seventh Circuit, used to post court rules and allow practitioners to comment and ask questions. The United States Patent and Trademark Office operates Peer-to-Patent, a wiki to allow the public to collaborate on finding prior art relevant to the examination of pending patent applications. Queens, New York has used a wiki to allow citizens to collaborate on the design and planning of a local park. Cornell Law School founded a wiki-based legal dictionary called Wex, whose growth has been hampered by restrictions on who can edit.
+In academic contexts, wikis have also been used as project collaboration and research support systems.
+
+City wikis
+A city wiki or local wiki is a wiki used as a knowledge base and social network for a specific geographical locale. The term city wiki is sometimes also used for wikis that cover not just a city, but a small town or an entire region. Such a wiki contains information about specific instances of things, ideas, people and places. Such highly localized information might be appropriate for a wiki targeted at local viewers, and could include:
+
+Details of public establishments such as public houses, bars, accommodation or social centers
+Owner name, opening hours and statistics for a specific shop
+Statistical information about a specific road in a city
+Flavors of ice cream served at a local ice cream parlor
+A biography of a local mayor and other persons
+
+Growth factors
+A study of several hundred wikis in 2008 showed that a relatively high number of administrators for a given content size is likely to reduce growth; access controls restricting editing to registered users tends to reduce growth; a lack of such access controls tends to fuel new user registration; and that a higher ratio of administrators to regular users has no significant effect on content or population growth.
+
+Legal environment
+Joint authorship of articles, in which different users participate in correcting, editing, and compiling the finished product, can also cause editors to become tenants in common of the copyright, making it impossible to republish without permission of all co-owners, some of whose identities may be unknown due to pseudonymous or anonymous editing. Some copyright issues can be alleviated through the use of an open content license. Version 2 of the GNU Free Documentation License includes a specific provision for wiki relicensing, and Creative Commons licenses are also popular. When no license is specified, an implied license to read and add content to a wiki may be deemed to exist on the grounds of business necessity and the inherent nature of a wiki.
+Wikis and their users can be held liable for certain activities that occur on the wiki. If a wiki owner displays indifference and forgoes controls (such as banning copyright infringers) that they could have exercised to stop copyright infringement, they may be deemed to have authorized infringement, especially if the wiki is primarily used to infringe copyrights or obtains a direct financial benefit, such as advertising revenue, from infringing activities. In the United States, wikis may benefit from Section 230 of the Communications Decency Act, which protects sites that engage in "Good Samaritan" policing of harmful material, with no requirement on the quality or quantity of such self-policing. It has also been argued that a wiki's enforcement of certain rules, such as anti-bias, verifiability, reliable sourcing, and no-original-research policies, could pose legal risks. When defamation occurs on a wiki, theoretically, all users of the wiki can be held liable, because any of them had the ability to remove or amend the defamatory material from the "publication". It remains to be seen whether wikis will be regarded as more akin to an internet service provider, which is generally not held liable due to its lack of control over publications' contents, than a publisher. It has been recommended that trademark owners monitor what information is presented about their trademarks on wikis, since courts may use such content as evidence pertaining to public perceptions, and they can edit entries to rectify misinformation.
+
+Conferences
+Active conferences and meetings about wiki-related topics include:
+
+Atlassian Summit, an annual conference for users of Atlassian software, including Confluence.
+OpenSym (called WikiSym until 2014), an academic conference dedicated to research about wikis and open collaboration.
+SMWCon, a bi-annual conference for users and developers of Semantic MediaWiki.
+TikiFest, a frequently held meeting for users and developers of Tiki Wiki CMS Groupware.
+Wikimania, an annual conference dedicated to the research and practice of Wikimedia Foundation projects like Wikipedia.
+Former wiki-related events include:
+
+RecentChangesCamp (2006–2012), an unconference on wiki-related topics.
+RegioWikiCamp (2009–2013), a semi-annual unconference on "regiowikis", or wikis on cities and other geographic areas.
+
+See also
+Notes
+References
+Sources
+Ebersbach, Anja (2008), Wiki: Web Collaboration, Springer Science+Business Media, ISBN 978-3-540-35150-4
+
+Further reading
+External links
+
+Exploring with Wiki, an interview with Ward Cunningham
+Murphy, Paula (April 2006). Topsy-turvy World of Wiki. University of California.
+Ward Cunningham's correspondence with etymologists
+WikiIndex and WikiApiary, directories of wikis
+WikiMatrix, a website for comparing wiki software and hosts
+wikiteam on GitHub

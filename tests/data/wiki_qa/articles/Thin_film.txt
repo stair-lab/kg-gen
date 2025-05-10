@@ -1,0 +1,1398 @@
+A thin film is a layer of materials ranging from fractions of a nanometer (monolayer) to several micrometers in thickness. The controlled synthesis of materials as thin films (a process referred to as deposition) is a fundamental step in many applications. A familiar example is the household mirror, which typically has a thin metal coating on the back of a sheet of glass to form a reflective interface. The process of silvering was once commonly used to produce mirrors, while more recently the metal layer is deposited using techniques such as sputtering. Advances in thin film deposition techniques during the 20th century have enabled a wide range of technological breakthroughs in areas such as magnetic recording media, electronic semiconductor devices, integrated passive devices, light-emitting diodes, optical coatings (such as antireflective coatings), hard coatings on cutting tools, and for both energy generation (e.g. thin-film solar cells) and storage (thin-film batteries). It is also being applied to pharmaceuticals, via thin-film drug delivery. A stack of thin films is called a multilayer.
+In addition to their applied interest, thin films play an important role in the development and study of materials with new and unique properties. Examples include multiferroic materials, and superlattices that allow the study of quantum phenomena.
+
+Nucleation
+Nucleation is an important step in growth that helps determine the final structure of a thin film. Many growth methods rely on nucleation control such as atomic-layer epitaxy (atomic layer deposition). Nucleation can be modeled by characterizing surface process of adsorption, desorption, and surface diffusion.
+
+Adsorption and desorption
+Adsorption is the interaction of a vapor atom or molecule with a substrate surface. The interaction is characterized the sticking coefficient, the fraction of incoming species thermally equilibrated with the surface. Desorption reverses adsorption where a previously adsorbed molecule overcomes the bounding energy and leaves the substrate surface.
+The two types of adsorptions, physisorption and chemisorption, are distinguished by the strength of atomic interactions. Physisorption describes the van der Waals bonding between a stretched or bent molecule and the surface characterized by adsorption energy 
+  
+    
+      
+        
+          E
+          
+            p
+          
+        
+      
+    
+    {\displaystyle E_{p}}
+  
+. Evaporated molecules rapidly lose kinetic energy and reduces its free energy by bonding with surface atoms. Chemisorption describes the strong electron transfer (ionic or covalent bond) of molecule with substrate atoms characterized by adsorption energy 
+  
+    
+      
+        
+          E
+          
+            c
+          
+        
+      
+    
+    {\displaystyle E_{c}}
+  
+. The process of physic- and chemisorption can be visualized by the potential energy as a function of distance. The equilibrium distance for physisorption is further from the surface than chemisorption. The transition from physisorbed to chemisorbed states are governed by the effective energy barrier 
+  
+    
+      
+        
+          E
+          
+            a
+          
+        
+      
+    
+    {\displaystyle E_{a}}
+  
+.
+Crystal surfaces have specific bonding sites with larger 
+  
+    
+      
+        
+          E
+          
+            a
+          
+        
+      
+    
+    {\displaystyle E_{a}}
+  
+ values that would preferentially be populated by vapor molecules to reduce the overall free energy. These stable sites are often found on step edges, vacancies and screw dislocations. After the most stable sites become filled, the adatom-adatom (vapor molecule) interaction becomes important.
+
+Nucleation models
+Nucleation kinetics can be modeled considering only adsorption and desorption. First consider case where there are no mutual adatom interactions, no clustering or interaction with step edges.
+The rate of change of adatom surface density 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+, where 
+  
+    
+      
+        J
+      
+    
+    {\displaystyle J}
+  
+ is the net flux,  
+  
+    
+      
+        
+          τ
+          
+            a
+          
+        
+      
+    
+    {\displaystyle \tau _{a}}
+  
+ is the mean surface lifetime prior to desorption and 
+  
+    
+      
+        σ
+      
+    
+    {\displaystyle \sigma }
+  
+ is the sticking coefficient:
+
+  
+    
+      
+        
+          
+            
+              d
+              n
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        J
+        σ
+        −
+        
+          
+            n
+            
+              τ
+              
+                a
+              
+            
+          
+        
+      
+    
+    {\displaystyle {dn \over dt}=J\sigma -{n \over \tau _{a}}}
+  
+
+  
+    
+      
+        n
+        =
+        J
+        σ
+        
+          τ
+          
+            a
+          
+        
+        
+          [
+          
+            1
+            −
+            exp
+            ⁡
+            
+              (
+              
+                
+                  
+                    −
+                    t
+                  
+                  
+                    τ
+                    
+                      a
+                    
+                  
+                
+              
+              )
+            
+          
+          ]
+        
+        n
+        =
+        J
+        σ
+        
+          τ
+          
+            a
+          
+        
+        
+          [
+          
+            exp
+            ⁡
+            
+              (
+              
+                
+                  
+                    −
+                    t
+                  
+                  
+                    τ
+                    
+                      a
+                    
+                  
+                
+              
+              )
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle n=J\sigma \tau _{a}\left[1-\exp \left({-t \over \tau _{a}}\right)\right]n=J\sigma \tau _{a}\left[\exp \left({-t \over \tau _{a}}\right)\right]}
+  
+
+Adsorption can also be modeled by different isotherms such as Langmuir model and BET model. The Langmuir model derives an equilibrium constant 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+  
+ based on the adsorption reaction of vapor adatom with vacancy on the substrate surface. The BET model expands further and allows adatoms deposition on previously adsorbed adatoms without interaction between adjacent piles of atoms. The resulting derived surface coverage is in terms of the equilibrium vapor pressure and applied pressure.
+Langmuir model where 
+  
+    
+      
+        
+          P
+          
+            A
+          
+        
+      
+    
+    {\displaystyle P_{A}}
+  
+ is the vapor pressure of adsorbed adatoms:
+
+  
+    
+      
+        θ
+        =
+        
+          
+            
+              b
+              
+                P
+                
+                  A
+                
+              
+            
+            
+              (
+              1
+              +
+              b
+              
+                P
+                
+                  A
+                
+              
+              )
+            
+          
+        
+      
+    
+    {\displaystyle \theta ={bP_{A} \over (1+bP_{A})}}
+  
+
+BET model where 
+  
+    
+      
+        
+          p
+          
+            e
+          
+        
+      
+    
+    {\displaystyle p_{e}}
+  
+ is the equilibrium vapor pressure of adsorbed adatoms and 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  
+ is the applied vapor pressure of adsorbed adatoms:
+
+  
+    
+      
+        θ
+        =
+        
+          
+            
+              X
+              p
+            
+            
+              (
+              
+                p
+                
+                  e
+                
+              
+              −
+              p
+              )
+              
+                [
+                
+                  1
+                  +
+                  (
+                  X
+                  −
+                  1
+                  )
+                  
+                    
+                      p
+                      
+                        p
+                        
+                          e
+                        
+                      
+                    
+                  
+                
+                ]
+              
+            
+          
+        
+      
+    
+    {\displaystyle \theta ={Xp \over (p_{e}-p)\left[1+(X-1){p \over p_{e}}\right]}}
+  
+
+As an important note, surface crystallography and differ from the bulk to minimize the overall free electronic and bond energies due to the broken bonds at the surface. This can result in a new equilibrium position known as “selvedge”, where the parallel bulk lattice symmetry is preserved. This phenomenon can cause deviations from theoretical calculations of nucleation.
+
+Surface diffusion
+Surface diffusion describes the lateral motion of adsorbed atoms moving between energy minima on the substrate surface. Diffusion most readily occurs between positions with lowest intervening potential barriers. Surface diffusion can be measured using glancing-angle ion scattering. The average time between events can be describes by:
+
+  
+    
+      
+        
+          τ
+          
+            d
+          
+        
+        =
+        (
+        1
+        
+          /
+        
+        
+          v
+          
+            1
+          
+        
+        )
+        exp
+        ⁡
+        (
+        
+          E
+          
+            d
+          
+        
+        
+          /
+        
+        k
+        
+          T
+          
+            s
+          
+        
+        )
+      
+    
+    {\displaystyle \tau _{d}=(1/v_{1})\exp(E_{d}/kT_{s})}
+  
+
+In addition to adatom migration, clusters of adatom can coalesce or deplete. Cluster coalescence through processes, such as Ostwald ripening and sintering, occur in response to reduce the total surface energy of the system. Ostwald repining describes the process in which islands of adatoms with various sizes grow into larger ones at the expense of smaller ones. Sintering is the coalescence mechanism when the islands contact and join.
+
+Deposition
+The act of applying a thin film to a surface is thin-film deposition – any technique for depositing a thin film of material onto a substrate or onto previously deposited layers. "Thin" is a relative term, but most deposition techniques control layer thickness within a few tens of nanometres. Molecular beam epitaxy, the Langmuir–Blodgett method, atomic layer deposition and molecular layer deposition allow a single layer of atoms or molecules to be deposited at a time.
+It is useful in the manufacture of optics (for reflective, anti-reflective coatings or self-cleaning glass, for instance), electronics (layers of insulators, semiconductors, and conductors form integrated circuits), packaging (i.e., aluminium-coated PET film), and in contemporary art (see the work of Larry Bell). Similar processes are sometimes used where thickness is not important: for instance, the purification of copper by electroplating, and the deposition of silicon and enriched uranium by a chemical vapor deposition-like process after gas-phase processing.
+Deposition techniques fall into two broad categories, depending on whether the process is primarily chemical or physical.
+
+Chemical deposition
+Here, a fluid precursor undergoes a chemical change at a solid surface, leaving a solid layer. An everyday example is the formation of soot on a cool object when it is placed inside a flame. Since the fluid surrounds the solid object, deposition happens on every surface, with little regard to direction; thin films from chemical deposition techniques tend to be conformal, rather than directional.
+Chemical deposition is further categorized by the phase of the precursor:
+Plating relies on liquid precursors, often a solution of water with a salt of the metal to be deposited. Some plating processes are driven entirely by reagents in the solution (usually for noble metals), but by far the most commercially important process is electroplating. In semiconductor manufacturing, an advanced form of electroplating known as electrochemical deposition is now used to create the copper conductive wires in advanced chips, replacing the chemical and physical deposition processes used to previous chip generations for aluminum wires
+Chemical solution deposition or chemical bath deposition uses a liquid precursor, usually a solution of organometallic powders dissolved in an organic solvent. This is a relatively inexpensive, simple thin-film process that produces stoichiometrically accurate crystalline phases. This technique is also known as the sol-gel method because the 'sol' (or solution) gradually evolves towards the formation of a gel-like diphasic system.
+The Langmuir–Blodgett method uses molecules floating on top of an aqueous subphase. The packing density of molecules is controlled, and the packed monolayer is transferred on a solid substrate by controlled withdrawal of the solid substrate from the subphase. This allows creating thin films of various molecules such as nanoparticles, polymers and lipids with controlled particle packing density and layer thickness.
+Spin coating or spin casting, uses a liquid precursor, or sol-gel precursor deposited onto a smooth, flat substrate which is subsequently spun at a high velocity to centrifugally spread the solution over the substrate. The speed at which the solution is spun and the viscosity of the sol determine the ultimate thickness of the deposited film. Repeated depositions can be carried out to increase the thickness of films as desired. Thermal treatment is often carried out in order to crystallize the amorphous spin coated film. Such crystalline films can exhibit certain preferred orientations after crystallization on single crystal substrates.
+Dip coating is similar to spin coating in that a liquid precursor or sol-gel precursor is deposited on a substrate, but in this case the substrate is completely submerged in the solution and then withdrawn under controlled conditions. By controlling the withdrawal speed, the evaporation conditions (principally the humidity, temperature) and the volatility/viscosity of the solvent, the film thickness, homogeneity and nanoscopic morphology are controlled. There are two evaporation regimes: the capillary zone at very low withdrawal speeds, and the draining zone at faster evaporation speeds.
+Chemical vapor deposition generally uses a gas-phase precursor, often a halide or hydride of the element to be deposited. In the case of metalorganic vapour phase epitaxy, an organometallic gas is used. Commercial techniques often use very low pressures of precursor gas.
+Plasma Enhanced Chemical Vapor Deposition uses an ionized vapor, or plasma, as a precursor. Unlike the soot example above, this method relies on electromagnetic means (electric current, microwave excitation), rather than a chemical-reaction, to produce a plasma.
+Atomic layer deposition and its sister technique molecular layer deposition, uses gaseous precursor to deposit conformal thin film's one layer at a time.  The process is split up into two half reactions, run in sequence and repeated for each layer, in order to ensure total layer saturation before beginning the next layer.  Therefore, one reactant is deposited first, and then the second reactant is deposited, during which a chemical reaction occurs on the substrate, forming the desired composition.  As a result of the stepwise, the process is slower than chemical vapor deposition; however, it can be run at low temperatures. When performed on polymeric substrates, atomic layer deposition can become sequential infiltration synthesis, where the reactants diffuse into the polymer and interact with functional groups on the polymer chains.
+
+Physical deposition
+Physical deposition uses mechanical, electromechanical or thermodynamic means to produce a thin film of solid. An everyday example is the formation of frost. Since most engineering materials are held together by relatively high energies, and chemical reactions are not used to store these energies, commercial physical deposition systems tend to require a low-pressure vapor environment to function properly; most can be classified as physical vapor deposition.
+The material to be deposited is placed in an energetic, entropic environment, so that particles of material escape its surface. Facing this source is a cooler surface which draws energy from these particles as they arrive, allowing them to form a solid layer. The whole system is kept in a vacuum deposition chamber, to allow the particles to travel as freely as possible. Since particles tend to follow a straight path, films deposited by physical means are commonly directional, rather than conformal.
+Examples of physical deposition include:
+
+A thermal evaporator that uses an electric resistance heater to melt the material and raise its vapor pressure to a useful range. This is done in a high vacuum, both to allow the vapor to reach the substrate without reacting with or scattering against other gas-phase atoms in the chamber, and reduce the incorporation of impurities from the residual gas in the vacuum chamber. Only materials with a much higher vapor pressure than the heating element can be deposited without contamination of the film. Molecular beam epitaxy is a particularly sophisticated form of thermal evaporation.
+An electron beam evaporator fires a high-energy beam from an electron gun to boil a small spot of material; since the heating is not uniform, lower vapor pressure materials can be deposited. The beam is usually bent through an angle of 270° in order to ensure that the gun filament is not directly exposed to the evaporant flux. Typical deposition rates for electron beam evaporation range from 1 to 10 nanometres per second.
+In molecular beam epitaxy, slow streams of an element can be directed at the substrate, so that material deposits one atomic layer at a time. Compounds such as gallium arsenide are usually deposited by repeatedly applying a layer of one element (i.e., gallium), then a layer of the other (i.e., arsenic), so that the process is chemical, as well as physical; this is known also as atomic layer deposition. If the precursors in use are organic, then the technique is called molecular layer deposition. The beam of material can be generated by either physical means (that is, by a furnace) or by a chemical reaction (chemical beam epitaxy).
+Sputtering relies on a plasma (usually a noble gas, such as argon) to knock material from a "target" a few atoms at a time. The target can be kept at a relatively low temperature, since the process is not one of evaporation, making this one of the most flexible deposition techniques. It is especially useful for compounds or mixtures, where different components would otherwise tend to evaporate at different rates. Note, sputtering's step coverage is more or less conformal. It is also widely used in optical media. The manufacturing of all formats of CD, DVD, and BD are done with the help of this technique. It is a fast technique and also it provides a good thickness control. Presently, nitrogen and oxygen gases are also being used in sputtering.
+Pulsed laser deposition systems work by an ablation process. Pulses of focused laser light vaporize the surface of the target material and convert it to plasma; this plasma usually reverts to a gas before it reaches the substrate. 
+Thermal laser epitaxy uses focused light from a continuous-wave laser to thermally evaporate sources of material. By adjusting the power density of the laser beam, the evaporation of any solid, non-radioactive element is possible. The resulting atomic vapor is then deposited upon a substrate, which is also heated via a laser beam. The vast range of substrate and deposition temperatures allows of the epitaxial growth of various elements considered challenging by other thin film growth techniques.
+Cathodic arc deposition (arc-physical vapor deposition), which is a kind of ion beam deposition where an electrical arc is created that blasts ions from the cathode. The arc has an extremely high power density resulting in a high level of ionization (30–100%), multiply charged ions, neutral particles, clusters and macro-particles (droplets). If a reactive gas is introduced during the evaporation process, dissociation, ionization and excitation can occur during interaction with the ion flux and a compound film will be deposited.
+Electrohydrodynamic deposition (electrospray deposition) is a relatively new process of thin-film deposition. The liquid to be deposited, either in the form of nanoparticle solution or simply a solution, is fed to a small capillary nozzle (usually metallic) which is connected to a high voltage. The substrate on which the film has to be deposited is connected to ground. Through the influence of electric field, the liquid coming out of the nozzle takes a conical shape (Taylor cone) and at the apex of the cone a thin jet emanates which disintegrates into very fine and small positively charged droplets under the influence of Rayleigh charge limit. The droplets keep getting smaller and smaller and ultimately get deposited on the substrate as a uniform thin layer.
+
+Growth modes
+Frank–van der Merwe growth ("layer-by-layer"). In this growth mode the adsorbate-surface and adsorbate-adsorbate interactions are balanced. This type of growth requires lattice matching, and hence considered an "ideal" growth mechanism.
+Stranski–Krastanov growth ("joint islands" or "layer-plus-island"). In this growth mode the adsorbate-surface interactions are stronger than adsorbate-adsorbate interactions.
+Volmer–Weber ("isolated islands"). In this growth mode the adsorbate-adsorbate interactions are stronger than adsorbate-surface interactions, hence "islands" are formed right away.
+There are three distinct stages of stress evolution that arise during Volmer-Weber film deposition. The first stage consists of the nucleation of individual atomic islands. During this first stage, the overall observed stress is very low. The second stage commences as these individual islands coalesce and begin to impinge on each other, resulting in an increase in the overall tensile stress in the film. This increase in overall tensile stress can be attributed to the formation of grain boundaries upon island coalescence that results in interatomic forces acting over the newly formed grain boundaries. The magnitude of this generated tensile stress depends on the density of the formed grain boundaries, as well as their grain-boundary energies. During this stage, the thickness of the film is not uniform because of the random nature of the island coalescence but is measured as the average thickness. The third and final stage of the Volmer-Weber film growth begins when the morphology of the film’s surface is unchanging with film thickness. During this stage, the overall stress in the film can remain tensile, or become compressive.  
+On a stress-thickness vs. thickness plot, an overall compressive stress is represented by a negative slope, and an overall tensile stress is represented by a positive slope. The overall shape of the stress-thickness vs. thickness curve depends on various processing conditions (such as temperature, growth rate, and material). Koch states that there are three different modes of Volmer-Weber growth. Zone I behavior is characterized by low grain growth in subsequent film layers and is associated with low atomic mobility. Koch suggests that Zone I behavior can be observed at lower temperatures. The zone I mode typically has small columnar grains in the final film. The second mode of Volmer-Weber growth is classified as Zone T, where the grain size at the surface of the film deposition increases with film thickness, but the grain size in the deposited layers below the surface does not change. Zone T-type films are associated with higher atomic mobilities, higher deposition temperatures, and V-shaped final grains. The final mode of proposed Volmer-Weber growth is Zone II type growth, where the grain boundaries in the bulk of the film at the surface are mobile, resulting in large yet columnar grains. This growth mode is associated with the highest atomic mobility and deposition temperature. There is also a possibility of developing a mixed Zone T/Zone II type structure, where the grains are mostly wide and columnar, but do experience slight growth as their thickness approaches the surface of the film. Although Koch focuses mostly on temperature to suggest a potential zone mode, factors such as deposition rate can also influence the final film microstructure.
+
+Epitaxy
+A subset of thin-film deposition processes and applications is focused on the so-called epitaxial growth of materials, 
+the deposition of crystalline thin films that grow following the crystalline structure of the substrate. The term epitaxy comes from the Greek roots epi (ἐπί), meaning "above", and taxis (τάξις), meaning "an ordered manner". It can be translated as "arranging upon".
+The term homoepitaxy refers to the specific case in which a film of the same material is grown on a crystalline
+substrate. This technology is used, for instance, to grow a film which is more pure than the substrate, has a lower density
+of defects, and to fabricate layers having different doping levels. Heteroepitaxy refers to the case in which the film being deposited is different from the substrate.
+Techniques used for epitaxial growth of thin films include molecular beam epitaxy, chemical vapor deposition,
+and pulsed laser deposition.
+
+Mechanical Behavior
+Stress
+Thin films may be biaxially loaded via stresses originated from their interface with a substrate. Epitaxial thin films may experience stresses from misfit strains between the coherent lattices of the film and substrate, and from the restructuring of the surface triple junction. Thermal stress is common in thin films grown at elevated temperatures due to differences in thermal expansion coefficients with the substrate. Differences in interfacial energy and the growth and coalescence of grains contribute to intrinsic stress in thin films. These intrinsic stresses can be a function of film thickness. These stresses may be tensile or compressive and can cause cracking, buckling, or delamination along the surface. In epitaxial films, initially deposited atomic layers may have coherent lattice planes with the substrate. However, past a critical thickness misfit dislocations will form leading to relaxation of stresses in the film.
+
+Strain
+Films may experience a dilatational transformation strain 
+  
+    
+      
+        
+          e
+          
+            T
+          
+        
+      
+    
+    {\displaystyle e_{T}}
+  
+ relative to its substrate due to a volume change in the film. Volume changes that cause dilatational strain may come from changes in temperature, defects, or phase transformations. A temperature change will induce a volume change if the film and substrate thermal expansion coefficients are different. The creation or annihilation of defects such as vacancies, dislocations, and grain boundaries will cause a volume change through densification. Phase transformations and concentration changes will cause volume changes via lattice distortions.
+
+Thermal Strain
+A mismatch of thermal expansion coefficients between the film and substrate will cause thermal strain during a temperature change. The elastic strain of the film relative to the substrate is given by:
+
+  
+    
+      
+        ε
+        =
+        −
+        (
+        
+          α
+          
+            f
+          
+        
+        −
+        
+          α
+          
+            s
+          
+        
+        )
+        (
+        T
+        −
+        
+          T
+          
+            0
+          
+        
+        )
+      
+    
+    {\displaystyle \varepsilon =-(\alpha _{f}-\alpha _{s})(T-T_{0})}
+  
+
+where 
+  
+    
+      
+        ε
+      
+    
+    {\displaystyle \varepsilon }
+  
+ is the elastic strain, 
+  
+    
+      
+        
+          α
+          
+            f
+          
+        
+      
+    
+    {\displaystyle \alpha _{f}}
+  
+ is the thermal expansion coefficient of the film, 
+  
+    
+      
+        
+          α
+          
+            s
+          
+        
+      
+    
+    {\displaystyle \alpha _{s}}
+  
+ is the thermal expansion coefficient of the substrate, 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+  
+ is the temperature, and  
+  
+    
+      
+        
+          T
+          
+            0
+          
+        
+      
+    
+    {\displaystyle T_{0}}
+  
+ is the initial temperature of the film and substrate when it is in a stress-free state. For example, if a film is deposited onto a substrate with a lower thermal expansion coefficient at high temperatures, then cooled to room temperature, a positive elastic strain will be created. In this case, the film will develop tensile stresses.
+
+Growth Strain
+A change in density due to the creation or destruction of defects, phase changes, or compositional changes after the film is grown on the substrate will generate a growth strain. Such as in the Stranski–Krastanov mode, where the layer of film is strained to fit the substrate due to an increase in supersaturation and interfacial energy which shifts from island to island. The elastic strain to accommodate these changes is related to the dilatational strain  
+  
+    
+      
+        
+          e
+          
+            T
+          
+        
+      
+    
+    {\displaystyle e_{T}}
+  
+ by:
+
+  
+    
+      
+        ε
+        =
+        −
+        
+          e
+          
+            T
+          
+        
+        
+          /
+        
+        3
+      
+    
+    {\displaystyle \varepsilon =-e_{T}/3}
+  
+
+A film experiencing growth strains will be under biaxial tensile strain conditions, generating tensile stresses in biaxial directions in order to match the substrate dimensions.
+
+Epitaxial Strains
+An epitaxially grown film on a thick substrate will have an inherent elastic strain given by:
+
+  
+    
+      
+        ε
+        ≈
+        
+          
+            
+              
+                a
+                
+                  s
+                
+              
+              −
+              
+                a
+                
+                  f
+                
+              
+            
+            
+              a
+              
+                f
+              
+            
+          
+        
+      
+    
+    {\displaystyle \varepsilon \approx {a_{s}-a_{f} \over a_{f}}}
+  
+
+where 
+  
+    
+      
+        
+          a
+          
+            s
+          
+        
+      
+    
+    {\displaystyle a_{s}}
+  
+ and 
+  
+    
+      
+        
+          a
+          
+            f
+          
+        
+      
+    
+    {\displaystyle a_{f}}
+  
+ are the lattice parameters of the substrate and film, respectively. It is assumed that the substrate is rigid due to its relative thickness. Therefore, all of the elastic strain occurs in the film to match the substrate.
+
+Measuring stress and strain
+The stresses in Films deposited on flat substrates such as wafers can be calculated by measuring the curvature of the wafer due to the strain by the film. Using optical setups, such as those with lasers, allow for whole wafer characterization pre and post deposition. Lasers are reflected off the wafer in a grid pattern and distortions in the grid are used to calculate the curvature as well as measure the optical constants. Strain in thin films can also be measured by x-ray diffraction or by milling a section of the film using a focused ion beam and monitoring the relaxation via scanning electron microscopy.
+
+Wafer Curvature Measurements
+A common method for determining the stress evolution of a film is to measure the wafer curvature during its deposition. Stoney relates a film’s average stress to its curvature through the following expression:  
+
+  
+    
+      
+        κ
+        =
+        
+          
+            
+              6
+              ⟨
+              σ
+              ⟩
+              
+                h
+                
+                  f
+                
+              
+            
+            
+              
+                M
+                
+                  s
+                
+              
+              
+                h
+                
+                  s
+                
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \kappa ={\frac {6\langle \sigma \rangle h_{f}}{M_{s}h_{s}^{2}}}}
+  
+
+where 
+  
+    
+      
+        
+          M
+          
+            s
+          
+        
+        =
+        
+          
+            
+              E
+            
+            
+              1
+              −
+              υ
+            
+          
+        
+      
+    
+    {\displaystyle M_{s}={\frac {\mathrm {E} }{1-\upsilon }}}
+  
+, where 
+  
+    
+      
+        
+          E
+        
+      
+    
+    {\displaystyle \mathrm {E} }
+  
+ is the bulk elastic modulus of the material comprising the film, and 
+  
+    
+      
+        υ
+      
+    
+    {\displaystyle \upsilon }
+  
+ is the Poisson’s ratio of the material comprising the film, 
+  
+    
+      
+        
+          h
+          
+            s
+          
+        
+      
+    
+    {\displaystyle h_{s}}
+  
+ is the thickness of the substrate, 
+  
+    
+      
+        
+          h
+          
+            f
+          
+        
+      
+    
+    {\displaystyle h_{f}}
+  
+ is the height of the film, and 
+  
+    
+      
+        ⟨
+        σ
+        ⟩
+      
+    
+    {\displaystyle \langle \sigma \rangle }
+  
+ is the average stress in the film. The assumptions made regarding the Stoney formula assume that the film and substrate are smaller than the lateral size of the wafer and that the stress is uniform across the surface. Therefore the average stress thickness of a given film can be determined by integrating the stress over a given film thickness:  
+
+  
+    
+      
+        ⟨
+        σ
+        ⟩
+        =
+        
+          
+            1
+            
+              h
+              
+                f
+              
+            
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            
+              h
+              
+                f
+              
+            
+          
+        
+        σ
+        (
+        z
+        )
+        d
+        z
+      
+    
+    {\displaystyle \langle \sigma \rangle ={\frac {1}{h_{f}}}\int _{0}^{h_{f}}\sigma (z)dz}
+  
+
+where 
+  
+    
+      
+        z
+      
+    
+    {\displaystyle z}
+  
+ is the direction normal to the substrate and 
+  
+    
+      
+        σ
+        (
+        z
+        )
+      
+    
+    {\displaystyle \sigma (z)}
+  
+ represents the in-place stress at a particular height of the film. The stress thickness (or force per unit width) is represented by 
+  
+    
+      
+        ⟨
+        σ
+        ⟩
+        
+          h
+          
+            f
+          
+        
+      
+    
+    {\displaystyle \langle \sigma \rangle h_{f}}
+  
+ is an important quantity as it is directionally proportional to the curvature by 
+  
+    
+      
+        
+          
+            6
+            
+              
+                M
+                
+                  s
+                
+              
+              
+                h
+                
+                  s
+                
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {6}{M_{s}h_{s}^{2}}}}
+  
+. Because of this proportionality, measuring the curvature of a film at a given film thickness can directly determine the stress in the film at that thickness. The curvature of a wafer is determined by the average stress of in the film. However, if stress is not uniformly distributed in a film (as it would be for epitaxially grown film layers that have not relaxed so that the intrinsic stress is due to the lattice mismatch of the substrate and the film), it is impossible to determine the stress at a specific film height without continuous curvature measurements. If continuous curvature measurements are taken, the time derivative of the curvature data:  
+  
+    
+      
+        
+          
+            
+              d
+              κ
+            
+            
+              d
+              t
+            
+          
+        
+        ∝
+        σ
+        (
+        
+          h
+          
+            f
+          
+        
+        )
+        
+          
+            
+              ∂
+              
+                h
+                
+                  f
+                
+              
+            
+            
+              ∂
+              t
+            
+          
+        
+        +
+        
+          ∫
+          
+            0
+          
+          
+            
+              h
+              
+                f
+              
+            
+          
+        
+        
+          
+            
+              ∂
+              σ
+              (
+              z
+              ,
+              t
+              )
+            
+            
+              ∂
+              t
+            
+          
+        
+        d
+        z
+      
+    
+    {\displaystyle {\frac {d\kappa }{dt}}\propto \sigma (h_{f}){\frac {\partial h_{f}}{\partial t}}+\int _{0}^{h_{f}}{\frac {\partial \sigma (z,t)}{\partial t}}dz}
+  
+
+can show how the intrinsic stress is changing at any given point. Assuming that stress in the underlying layers of a deposited film remains constant during further deposition, we can represent the incremental stress 
+  
+    
+      
+        σ
+        (
+        
+          h
+          
+            f
+          
+        
+        )
+      
+    
+    {\displaystyle \sigma (h_{f})}
+  
+ as:  
+
+  
+    
+      
+        σ
+        (
+        
+          h
+          
+            f
+          
+        
+        )
+        ∝
+        
+          
+            
+              
+                ∂
+                κ
+              
+              
+                ∂
+                t
+              
+            
+            
+              
+                ∂
+                
+                  h
+                  
+                    f
+                  
+                
+              
+              
+                ∂
+                t
+              
+            
+          
+        
+        =
+        
+          
+            
+              d
+              κ
+            
+            
+              d
+              h
+            
+          
+        
+      
+    
+    {\displaystyle \sigma (h_{f})\propto {\frac {\frac {\partial \kappa }{\partial t}}{\frac {\partial h_{f}}{\partial t}}}={\frac {d\kappa }{dh}}}
+
+Nanoindentation
+Nanoindentation is a popular method of measuring the mechanical properties of films. Measurements can be used to compare coated and uncoated films to reveal the effects of surface treatment on both elastic and plastic responses of the film. Load-displacement curves may reveal information about cracking, delamination, and plasticity in both the film and substrate.
+The Oliver and Pharr method can be used to evaluate nanoindentation results for hardness and elastic modulus evaluation by the use of axisymmetric indenter geometries like a spherical indenter. This method assumes that during unloading, only elastic deformations are recovered (where reverse plastic deformation is negligible). The parameter 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+  
+ designates the load, 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+  
+ is the displacement relative to the undeformed coating surface and 
+  
+    
+      
+        
+          h
+          
+            f
+          
+        
+      
+    
+    {\displaystyle h_{f}}
+  
+ is the final penetration depth after unloading. These are used to approximate the power law relation for unloading curves:
+
+  
+    
+      
+        P
+        =
+        α
+        (
+        h
+        −
+        
+          h
+          
+            f
+          
+        
+        
+          )
+          
+            m
+          
+        
+      
+    
+    {\displaystyle P=\alpha (h-h_{f})^{m}}
+  
+
+After the contact area 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+ is calculated, the hardness is estimated by:
+
+  
+    
+      
+        H
+        =
+        
+          
+            
+              P
+              
+                m
+                a
+                x
+              
+            
+            A
+          
+        
+      
+    
+    {\displaystyle H={\frac {P_{max}}{A}}}
+  
+
+From the relationship of contact area, the unloading stiffness can be expressed by the relation:
+
+  
+    
+      
+        S
+        =
+        β
+        
+          
+            2
+            
+              √
+              π
+            
+          
+        
+        
+          E
+          
+            e
+            f
+            f
+          
+        
+        √
+        A
+      
+    
+    {\displaystyle S=\beta {\frac {2}{\surd \pi }}E_{eff}\surd A}
+  
+
+Where 
+  
+    
+      
+        
+          E
+          
+            e
+            f
+            f
+          
+        
+      
+    
+    {\displaystyle E_{eff}}
+  
+ is the effective elastic modulus and takes into account elastic displacements in the specimen and indenter. This relation can also be applied to elastic-plastic contact, which is not affected by pile-up and sink-in during indentation.
+
+  
+    
+      
+        
+          
+            1
+            
+              E
+              
+                e
+                f
+                f
+              
+            
+          
+        
+        =
+        
+          
+            
+              1
+              −
+              
+                ν
+                
+                  2
+                
+              
+            
+            E
+          
+        
+        +
+        
+          
+            
+              1
+              −
+              
+                ν
+                
+                  2
+                
+              
+            
+            
+              E
+              
+                i
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {1}{E_{eff}}}={\frac {1-\nu ^{2}}{E}}+{\frac {1-\nu ^{2}}{E_{i}}}}
+  
+
+Due to the low thickness of the films, accidental probing of the substrate is a concern. To avoid indenting beyond the film and into the substrate, penetration depths are often kept to less than 10% of the film thickness.  For a conical or pyramidal indenters, the indentation depth scales as 
+  
+    
+      
+        a
+        
+          /
+        
+        t
+      
+    
+    {\displaystyle a/t}
+  
+ where 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+ is the radius of the contact circle and 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  
+ is the film thickness. The ratio of penetration depth 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+  
+ and film thickness can be used as a scale parameter for soft films.
+
+Strain engineering
+Stress and relaxation of stresses in films can influence the materials properties of the film, such as mass transport in microelectronics applications. Therefore precautions are taken to either mitigate or produce such stresses; for example a buffer layer may be deposited between the substrate and film. Strain engineering is also used to produce various phase and domain structures in thin films such as in the domain structure of the ferroelectric Lead Zirconate Titanate (PZT).
+
+Multilayer medium
+In the physical sciences, a multilayer or stratified medium is a stack of different thin films. Typically, a multilayer medium is made for a specific purpose. Since layers are thin with respect to some relevant length scale, interface effects are much more important than in bulk materials, giving rise to novel physical properties.
+The term "multilayer" is not an extension of "monolayer" and "bilayer", which describe a single layer that is one or two molecules thick. A multilayer medium rather consists of several thin films.
+
+Examples
+An optical coating, as used for instance in a dielectric mirror, is made of several layers that have different refractive indexes.
+Giant magnetoresistance is a macroscopic quantum effect observed in alternating ferromagnetic and non-magnetic conductive layers.
+
+Applications
+Decorative coatings
+The usage of thin films for decorative coatings probably represents their oldest application. This encompasses ca. 100 nm thin gold leaves that were already used in ancient India more than 5000 years ago. It may also be understood as any form of painting, although this kind of work is generally considered as an arts craft rather than an engineering or scientific discipline. Today, thin-film materials of variable thickness and high refractive index like titanium dioxide are often applied for decorative coatings on glass for instance, causing a rainbow-color appearance like oil on water. In addition, intransparent gold-colored surfaces may either be prepared by sputtering of gold or titanium nitride.
+
+Optical coatings
+These layers serve in both reflective and refractive systems. Large-area (reflective) mirrors became available during the 19th century and were produced by sputtering of metallic silver or aluminum on glass. Refractive lenses for optical instruments like cameras and microscopes typically exhibit aberrations, i.e. non-ideal refractive behavior. While large sets of lenses had to be lined up along the optical path previously, nowadays, the coating of optical lenses with transparent multilayers of titanium dioxide, silicon nitride or silicon oxide etc. may correct these aberrations. A well-known example for the progress in optical systems by thin-film technology is represented by the only a few mm wide lens in smart phone cameras. Other examples are given by anti-reflection coatings on eyeglasses or solar panels.
+
+Protective coatings
+Thin films are often deposited to protect an underlying work piece from external influences. The protection may operate by minimizing the contact with the exterior medium in order to reduce the diffusion from the medium to the work piece or vice versa. For instance, plastic lemonade bottles are frequently coated by anti-diffusion layers to avoid the out-diffusion of CO2, into which carbonic acid decomposes that was introduced into the beverage under high pressure. Another example is represented by thin TiN films in microelectronic chips separating electrically conducting aluminum lines from the embedding insulator SiO2 in order to suppress the formation of Al2O3. Often, thin films serve as protection against abrasion between mechanically moving parts. Examples for the latter application are diamond-like carbon layers used in car engines or thin films made of nanocomposites.
+
+Electrically operating coatings
+Thin layers from elemental metals like copper, aluminum, gold or silver etc. and alloys have found numerous applications in electrical devices. Due to their high electrical conductivity they are able to transport electrical currents or supply voltages. Thin metal layers serve in conventional electrical system, for instance, as Cu layers on printed circuit boards, as the outer ground conductor in coaxial cables and various other forms like sensors etc. A major field of application became their use in integrated passive devices and integrated circuits, where the electrical network among active and passive devices like transistors and capacitors etc. is built up from thin Al or Cu layers. These layers dispose of thicknesses in the range of a few 100 nm up to a few μm, and they are often embedded into a few nm thin titanium nitride layers in order to block a chemical reaction with the surrounding dielectric like SiO2. The figure shows a micrograph of a laterally structured TiN/Al/TiN metal stack in a microelectronic chip.
+Heterostructures of gallium nitride and similar semiconductors can lead to electrons being bound to a sub-nanometric layer, effectively behaving as a two-dimensional electron gas. Quantum effects in such thin films can significantly enhance electron mobility as compared to that of a bulk crystal, which is employed in high-electron-mobility transistors.
+
+Biosensors and plasmonic devices
+Noble metal thin films are used in plasmonic structures such as surface plasmon resonance (SPR) sensors. Surface plasmon polaritons are surface waves in the optical regime that propagate in between metal-dielectric interfaces; in Kretschmann-Raether configuration for the SPR sensors, a prism is coated with a metallic film through evaporation. Due to the poor adhesive characteristics of metallic films, germanium, titanium or chromium films are used as intermediate layers to promote stronger adhesion. Metallic thin films are also used in plasmonic waveguide designs.
+
+Thin-film photovoltaic cells
+Thin-film technologies are also being developed as a means of substantially reducing the cost of solar cells. The rationale for this is thin-film solar cells are cheaper to manufacture owing to their reduced material costs, energy costs, handling costs and capital costs. This is especially represented in the use of printed electronics (roll-to-roll) processes. Other thin-film technologies, that are still in an early stage of ongoing research or with limited commercial availability, are often classified as emerging or third generation photovoltaic cells and include, organic, dye-sensitized, and polymer solar cells, as well as quantum dot, copper zinc tin sulfide, nanocrystal and perovskite solar cells.
+
+Thin-film batteries
+Thin-film printing technology is being used to apply solid-state lithium polymers to a variety of substrates to create unique batteries for specialized applications. Thin-film batteries can be deposited directly onto chips or chip packages in any shape or size. Flexible batteries can be made by printing onto plastic, thin metal foil, or paper.
+
+Thin-film bulk acoustic wave resonators (TFBARs/FBARs)
+For miniaturising and more precise control of resonance frequency of piezoelectric crystals thin-film bulk acoustic resonators TFBARs/FBARs are developed for oscillators, telecommunication filters and duplexers, and sensor applications.
+
+See also
+References
+Further reading
+Textbooks
+
+Historical

@@ -1,0 +1,411 @@
+The McDonnell Douglas F-15 Eagle is an American twin-engine, all-weather fighter aircraft designed by McDonnell Douglas (now part of Boeing). Following reviews of proposals, the United States Air Force (USAF) selected McDonnell Douglas's design in 1969 to meet the service's need for a dedicated air superiority fighter. The Eagle took its maiden flight in July 1972, and entered service in 1976. It is among the most successful modern fighters, with over 100 victories and no losses in aerial combat, with the majority of the kills by the Israeli Air Force.
+The Eagle has been exported to many countries, including Israel, Japan, and Saudi Arabia. Although the F-15 was originally envisioned as a pure air superiority fighter, its design included a secondary ground-attack capability that was largely unused. It proved flexible enough that an improved all-weather strike derivative, the F-15E Strike Eagle, was later developed, entered service in 1989 and has been exported to several nations. Several additional Eagle and Strike Eagle subvariants have been produced for foreign customers, with production of enhanced variants ongoing.
+The F-15 was the principal air superiority fighter of the USAF and U.S. allies during the late Cold War, replacing the F-4 Phantom II. The Eagle was first used in combat by the Israeli Air Force in 1979 and saw extensive action in the 1982 Lebanon War. In USAF service, the aircraft saw combat action in the 1991 Gulf War and the conflict over Yugoslavia. The USAF began replacing its air superiority F-15A/B/C/D with the F-22 Raptor in the 2000s, but the severely reduced procurement pushed the retirement of the remaining F-15C/D, mostly in the Air National Guard, to 2026 and forced the service to supplement the F-22 with an advanced Eagle variant, the F-15EX, in order to retain an adequate number of air superiority fighters. The F-15 remains in service with numerous countries.
+
+Development
+Early studies
+The F-15 can trace its origins to the early Vietnam War, when the U.S. Air Force and U.S. Navy fought each other over future tactical aircraft. Defense Secretary Robert McNamara was pressing for both services to use as many common aircraft as possible, even if performance compromises were involved. As part of this policy, the USAF and Navy had embarked on the TFX (F-111) program, aiming to deliver a medium-range interdiction aircraft for the Air Force that would also serve as a long-range interceptor aircraft for the Navy.
+In January 1965, Secretary McNamara asked the Air Force to consider a new low-cost tactical fighter design for short-range roles and close air support to replace several types like the F-100 Super Sabre and various light bombers then in service. Several existing designs could fill this role; the Navy favored the Douglas A-4 Skyhawk and LTV A-7 Corsair II, which were pure attack aircraft, while the Air Force was more interested in the Northrop F-5 fighter with a secondary attack capability. The A-4 and A-7 were more capable in the attack role, while the F-5 less so, but could defend itself. If the Air Force chose a pure attack design, maintaining air superiority would be a priority for a new airframe. The next month, a report on light tactical aircraft suggested the Air Force purchase the F-5 or A-7, and consider a new higher-performance aircraft to ensure its air superiority. This point was reinforced after the loss of two Republic F-105 Thunderchief aircraft to obsolete MiG-17s attacking the Thanh Hóa Bridge on 4 April 1965.
+In April 1965, Harold Brown, at that time director of the Department of Defense Research and Engineering, stated the favored position was to consider the F-5 and begin studies of an "F-X". These early studies envisioned a production run of 800 to 1,000 aircraft and stressed maneuverability over speed; it also stated that the aircraft would not be considered without some level of ground-attack capability. On 1 August, General Gabriel Disosway took command of Tactical Air Command and reiterated calls for the F-X, but lowered the required performance from Mach 3.0 to 2.5 to lower costs.
+
+An official requirements document for an air superiority fighter was finalized in October 1965, and sent out as a request for proposals to 13 companies on 8 December. Meanwhile, the Air Force chose the A-7 over the F-5 for the support role on 5 November 1965, giving further impetus for an air superiority design as the A-7 lacked any credible air-to-air capability.
+Eight companies responded with proposals. Following a downselect, four companies were asked to provide further developments. In total, they developed some 500 design concepts. Typical designs featured variable-sweep wings, weight over 60,000 pounds (27,000 kg), included a top speed of Mach 2.7 and a thrust-to-weight ratio of 0.75. When the proposals were studied in July 1966, the aircraft were roughly the size and weight of the TFX F-111, and like that aircraft, were designs that could not be considered an air-superiority fighter.
+
+Smaller, lighter
+Through this period, studies of combat over Vietnam were producing worrying results. Theory had stressed long-range combat using missiles and optimized aircraft for this role. The result was highly loaded aircraft with large radar and excellent speed, but limited maneuverability and often lacking a gun. The canonical example was the McDonnell Douglas F-4 Phantom II, used by the USAF, USN, and U.S. Marine Corps to provide air superiority over Vietnam, the only fighter with enough power, range, and maneuverability to be given the primary task of dealing with the threat of Soviet fighters while flying with visual engagement rules.
+In practice, due to policy and practical reasons, aircraft were closing to visual range and maneuvering, placing the larger US aircraft at a disadvantage to the much less expensive day fighters such as the MiG-21. Missiles proved to be much less reliable than predicted, especially at close range. Although improved training and the introduction of the M61 Vulcan cannon on the F-4 did much to address the disparity, these early outcomes led to considerable re-evaluation of the 1963 Project Forecast doctrine. This led to John Boyd's energy–maneuverability theory, which stressed that extra power and maneuverability were key aspects of a successful fighter design and these were more important than outright speed. Through tireless championing of the concepts and good timing with the "failure" of the initial F-X project, the "fighter mafia" pressed for a lightweight day fighter that could be built and operated in large numbers to ensure air superiority. In early 1967, they proposed that the ideal design had a thrust-to-weight ratio near 1:1, a maximum speed further reduced to Mach 2.3, a weight of 40,000 pounds (18,000 kg), and a wing loading of 80 pounds per square foot (390 kg/m2).
+By this time, the Navy had decided the F-111 would not meet their requirements and began the development of a new dedicated fighter design, the VFAX program. In May 1966, McNamara again asked the forces to study the designs and see whether the VFAX would meet the Air Force's F-X needs. The resulting studies took 18 months and concluded that the desired features were too different; the Navy stressed loiter time and mission flexibility, while the Air Force was now looking primarily for maneuverability.
+
+Focus on air superiority
+In 1967, the Soviet Union revealed the Mikoyan-Gurevich MiG-25 at the Domodedovo airfield near Moscow. The MiG-25 was designed as a high-speed, high-altitude interceptor aircraft, and made many performance tradeoffs to excel in this role. Among these was the requirement for very high speed, over Mach 2.8, which demanded the use of stainless steel instead of aluminum for many parts of the aircraft. The added weight demanded a much larger wing to allow the aircraft to operate at the required high altitudes. However, to observers, it appeared outwardly similar to the very large F-X studies, an aircraft with high speed and a large wing offering high maneuverability, leading to serious concerns throughout the Department of Defense and the various arms that the US was being outclassed. The MiG-23 was likewise a subject of concern, and it was generally believed to be a better aircraft than the F-4. The F-X would outclass the MiG-23, but now the MiG-25 appeared to be superior in speed, ceiling, and endurance to all existing US fighters, even the F-X. Thus, an effort to improve the F-X followed.
+Both Headquarters USAF and TAC continued to call for a multipurpose aircraft, while both Disosway and Air Chief of Staff Bruce K. Holloway pressed for a pure air-superiority design that would be able to meet the expected performance of the MiG-25. During the same period, the Navy had ended its VFAX program and instead accepted a proposal from Grumman for a smaller and more maneuverable design known as VFX, later becoming the Grumman F-14 Tomcat. VFX was considerably closer to the evolving F-X requirements. The Air Force in-fighting was eventually ended by the worry that the Navy's VFAX would be forced on them; in May 1968, it was stated that "We finally decided – and I hope there is no one who still disagrees – that this aircraft is going to be an air superiority fighter".
+
+In September 1968, a request for proposals was released to major aerospace companies. These requirements called for single-seat fighter having a maximum take-off weight of 40,000 pounds (18,000 kg) for the air-to-air role with a maximum speed of Mach 2.5 and a thrust-to-weight ratio of nearly 1:1 at mission weight. It also called for a twin-engined arrangement, as this was believed to respond to throttle changes more rapidly and might offer commonality with the Navy's VFX program. However, details of the avionics were left largely undefined, as whether to build a larger aircraft with a powerful radar that could detect the enemy at longer ranges was not clear, or alternatively a smaller aircraft that would make detecting it more difficult for the enemy.
+Four companies submitted proposals, with the Air Force eliminating General Dynamics and awarding contracts to Fairchild Republic, North American Rockwell, and McDonnell Douglas for the definition phase in December 1968. The companies submitted technical proposals by June 1969. The Air Force announced the selection of McDonnell Douglas on 23 December 1969; like the Navy's VFX, the F-X skipped much of the prototype phase and jumped straight into full-scale development to save time and avoid potential program cancellation. The winning design resembled the twin-tailed F-14, but with fixed wings; both designs were based on configurations studied in wind-tunnel testing by NASA.
+
+Formally named the "Eagle" upon its introduction, the aircraft's initial versions were the F-15 single-seat variant and TF-15 twin-seat variant; after the F-15C was first flown, the designations were changed to "F-15A" and "F-15B". These versions would be powered by new Pratt & Whitney F100 engines to achieve a combat thrust-to-weight ratio in excess of 1:1. A proposed 25-mm Ford-Philco GAU-7 cannon with caseless ammunition suffered development problems and was dropped in favor of the standard M61 Vulcan gun. The F-15 used conformal carriage of four Sparrow missiles like the Phantom. The fixed wing was put onto a flat, wide fuselage that also provided an effective lifting body surface. The airframe was designed with a 4,000 hour service life, although this was later increased through testing and life extension modifications to 8,000 hours and some would fly beyond that. The first F-15A flight was made on 27 July 1972, with the first flight of the two-seat F-15B following in July 1973.
+The F-15 has a "look-down/shoot-down" radar that can distinguish low-flying moving targets from ground clutter. It would use computer technology with new controls and displays to lower pilot workload and require only one pilot to save weight. Unlike the F-14 or F-4, the F-15 has only a single canopy frame with clear vision forward. The USAF introduced the F-15 as "the first dedicated USAF air-superiority fighter since the North American F-86 Sabre".
+The F-15 was favored by customers such as the Israel and Japan air arms. Criticism from the fighter mafia that the F-15 was too large to be a dedicated dogfighter and too expensive to procure in large numbers, led to the Lightweight Fighter (LWF) program, which led to the USAF General Dynamics F-16 Fighting Falcon and the middle-weight Navy McDonnell Douglas F/A-18 Hornet.
+
+Upgrades and further development
+The single-seat F-15C and two-seat F-15D models entered production in 1978 and conducted their first flights in February and June of that year. These models were fitted with the Production Eagle Package (PEP 2000), which included 2,000 pounds (910 kg) of additional internal fuel, provisions for exterior conformal fuel tanks (CFT), and an increased maximum takeoff weight up to 68,000 pounds (31,000 kg). The increased takeoff weight allows internal fuel, a full weapons load, conformal fuel tanks, and three external fuel tanks to be carried. The APG-63 radar uses a programmable signal processor (PSP), enabling the radar to be reprogrammable for additional purposes such as the addition of new armaments and equipment. The PSP was the first of its kind in the world, and the upgraded APG-63 radar was the first radar to use it. Other improvements included strengthened landing gear, a new digital central computer, and an overload warning system (OWS), which allows the pilot to fly up to 9 g at all weights.
+The F-15 Multistage Improvement Program (MSIP) was initiated in February 1983 with the first production MSIP F-15C produced in 1985. Improvements included an upgraded central computer; a Programmable Armament Control Set, allowing for advanced versions of the AIM-7, AIM-9, and AIM-120A missiles; and an expanded Tactical Electronic Warfare System that provides improvements to the ALR-56C radar warning receiver and ALQ-135 countermeasure set. The final 43 F-15Cs included the Hughes APG-70 radar developed for the F-15E (see below); these are sometimes referred as Enhanced Eagles. Earlier MSIP F-15Cs with the APG-63 were upgraded to the APG-63(V)1 to improve maintainability and to perform similar to the APG-70. Existing F-15s were retrofitted with these improvements. Also beginning in 1985, F-15C and D models were equipped with the improved P&W F100-PW-220 engine and digital engine controls, providing quicker throttle response, reduced wear, and lower fuel consumption. Starting in 1997, original F100-PW-100 engines were upgraded to a similar configuration with the designation F100-PW-220E starting. In 2000, the APG-63(V)2 active electronically scanned array (AESA) radar was retrofitted to 18 U.S. Air Force F-15C aircraft. The ZAP (Zone Acquisition Program) missile launch envelope has been integrated into the operational flight program system of all U.S. F-15 aircraft, providing dynamic launch zone and launch acceptability region information for missiles to the pilot by display cues in real-time.
+
+Although the Air Force's F-X requirements were focused on air superiority, McDonnell Douglas had quietly included a basic secondary ground attack capability in the F-15's design since the beginning and also performed early internal studies for enhancing that capability. In 1979, McDonnell Douglas and F-15 radar manufacturer, Hughes, teamed to privately develop a strike fighter version of the F-15. This version competed in the Air Force's Dual-Role Fighter competition starting in 1982. The F-15E strike variant was selected for production over General Dynamics' competing F-16XL in 1984; it is a two-seat, dual-role, totally integrated fighter for all-weather, air-to-air, and deep interdiction missions. The rear cockpit is upgraded to include four multipurpose cathode-ray tube displays for aircraft systems and weapons management. The digital, triple-redundant Lear Siegler aircraft flight control system permits coupled automatic terrain following, enhanced by a ring-laser gyro inertial navigation system. For low-altitude, high-speed penetration and precision attack on tactical targets at night or in adverse weather, the F-15E carries a high-resolution APG-70 radar and LANTIRN pods to provide thermography. The F-15E would be developed into the F-15 Advanced Eagle family, which features fly-by-wire controls; the Advanced Eagle is currently the basis of all current F-15 production.
+
+Beginning in 2006, with the threat of curtailed procurement of the F-22 that was to replace all air superiority F-15s, USAF planned to modernize 179 F-15Cs in the best material condition in order to maintain fighter fleet size by retrofitting the AN/APG-63(V)3 AESA radar and updated cockpit displays; the first upgraded aircraft was delivered in October 2010. A significant number of F-15s were equipped with the Joint Helmet Mounted Cueing System. Lockheed Martin developed an infrared search and track (IRST) sensor system for tactical fighters such the F-15C, eventually resulting in the AN/ASG-34(V)1 IRST21 sensor mounted in the Legion Pod; the AN/AAQ-33 Sniper XR pod was also integrated as a makeshift interim IRST solution. A follow-on upgrade called the Eagle Passive/Active Warning Survivability System (EPAWSS) was planned. Boeing was selected in October 2015 to serve as prime contractor for the EPAWSS, with BAE Systems selected as a subcontractor. The EPAWSS is an all-digital system with advanced electronic countermeasures, radar warning, and increased chaff and flare capabilities in a smaller footprint than the 1980s-era Tactical Electronic Warfare System. More than 400 F-15Cs and F-15Es were planned to have the system installed.
+In September 2015, Boeing unveiled its 2040C Eagle upgrade (also called "Golden Eagle"), designed to keep the F-15 relevant through 2040. Seen as a necessity because of the low numbers of F-22s procured, the upgrade builds upon the company's F-15SE Silent Eagle concept with low-observable features. Most improvements focus on lethality including quad-pack munitions racks to double its missile load to 16, conformal fuel tanks for extended range, "Talon HATE" communications pod to communicate with fifth-generation fighters, the APG-63(V)3 AESA radar, long-range Legion IRST pod, and EPAWSS electronic warfare suite. The 2040C upgrade for the F-15C/D was not pursued, owing to the airframes' age that made it not economically sustainable, but many of the components such as EPAWSS and AESA radar were continued for F-15E upgrades as well as new-build F-15EX Eagle II ordered by USAF in 2020; the F-15EX took advantage of existing Advanced Eagle production line for export customers to minimize lead times and start-up costs to replace the remaining F-15C/Ds, whereas F-22 production restart was considered cost-prohibitive.
+
+Design
+Overview
+The F-15 has an all-metal semi-monocoque fuselage with a large-cantilever, shoulder-mounted wing. The wing planform of the F-15 suggests a modified cropped delta shape with a leading-edge sweepback angle of 45°. Ailerons and a simple high-lift flap are located on the trailing edge. No leading-edge maneuvering flaps are used. This complication was avoided by the combination of low wing loading and fixed leading-edge conical camber that varies with spanwise position along the wing. Airfoil thickness ratios vary from 5.9% at the root to 3% at the tip.
+The empennage is of metal and composite construction, with twin aluminum alloy/composite material honeycomb structure vertical stabilizers with boron-composite skin, resulting in an exceptionally thin tailplane and rudders. Composite horizontal all-moving tails outboard of the vertical stabilizers move independently to provide roll control in some flight maneuvers; the horizontal tails have a dogtooth notch to mitigate flutter. The F-15 has a spine-mounted air brake and retractable tricycle landing gear. It is powered by two Pratt & Whitney F100 axial flow turbofan engines with afterburners, mounted side by side in the fuselage and fed by rectangular inlets with variable intake ramps. The cockpit is mounted high in the forward fuselage with a one-piece windscreen and large canopy for increased visibility and a 360° field of view for the pilot. The airframe consists of 37.3% aluminum, 29.2% honeycomb, 25.8% titanium, 5.5% steel, and 2% composites and fiberglass; the structure began to incorporate advanced superplastically formed titanium components in the 1980s.
+The F-15's maneuverability is derived from low wing loading (weight to wing area ratio) with a high thrust-to-weight ratio, enabling the aircraft to turn tightly at up to 9 g without losing airspeed. The F-15 can climb to 30,000 feet (9,100 m) in around 60 seconds. At certain speeds, the dynamic thrust output of the dual engines is greater than the aircraft's combat weight and drag, so it has the ability to accelerate vertically. The weapons and flight-control systems are designed so that one person can safely and effectively perform air-to-air combat. The A and C models are single-seat variants; these were the main air-superiority versions produced. B and D models add a second seat behind the pilot for training, although they are also fully combat capable. E models use the second seat for a weapon systems officer. Visibly, the F-15 has a unique feature vis-à-vis other modern fighter aircraft; it does not have the distinctive "turkey feather" aerodynamic exhaust petals covering its engine nozzles. Following problems during development of its exhaust petal design, including dislodgment during flight, the decision was made to remove them, resulting in a 3% aerodynamic drag increase.
+The F-15 was shown to be capable of controlled flight with only one wing after an Israeli F-15D suffered a mid-air collision with an A-4 Skyhawk that removed most of the right wing, in the 1983 Negev mid-air collision. While the A-4 was instantly disintegrated with the pilot being automatically ejected, the F-15 was sent into an uncontrollable roll. Through the application of full afterburner as well as a landing at twice the normal speed, pilot Zivi Nedivi managed to land successfully at Ramon Airbase. Subsequent wind-tunnel tests on a one-wing model confirmed that controllable flight was only possible within a very limited speed range of ±20 knots and angle of attack variation of ±20 degrees. The event resulted in research into damage-adaptive technology and a system called "Intelligent Flight Control System".
+
+Avionics
+A multimission avionics system includes a head-up display (HUD), advanced radar, AN/ASN-109 inertial guidance system, flight instruments, ultra high frequency communications, and tactical air navigation system and instrument landing system receivers. It also has an internally mounted, tactical electronic warfare system, Identification friend or foe system, an electronic countermeasures suite, and a central digital computer.
+The HUD projects all essential flight information gathered by the integrated avionics system. This display, visible in any light condition, provides the pilot information necessary to track and destroy an enemy aircraft without having to look down at cockpit instruments.
+The F-15's versatile APG-63 and 70 pulse-Doppler radar systems can look up at high-flying targets and look-down/shoot-down at low-flying targets without being confused by ground clutter. These radars can detect and track aircraft and small high-speed targets at distances beyond visual range down to close range, and at altitudes down to treetop level. The APG-63 has a basic range of 100 miles (87 nmi; 160 km). The radar feeds target information into the central computer for effective weapons delivery. For close-in dogfights, the radar automatically acquires enemy aircraft, and this information is projected on the head-up display. The F-15's electronic warfare system provides both threat warning (radar warning receiver) and automatic countermeasures against selected threats.
+The improved APG-63(V)2 and (V)3 active electronically scanned array (AESA) radar upgrade included most of the hardware from the APG-63(V)1, but added an AESA to provide increased pilot situation awareness. The AESA radar has an exceptionally agile beam, providing nearly instantaneous track updates and enhanced multitarget tracking capability. The APG-63(V)2 and (V)3 are compatible with current F-15C weapon loads and enable pilots to take full advantage of AIM-120 AMRAAM capabilities, simultaneously guiding multiple missiles to several targets widely spaced in azimuth, elevation, or range.
+
+Weaponry and external stores
+A variety of air-to-air weaponry can be carried by the F-15. An automated weapon system enables the pilot to release weapons effectively and safely, using the head-up display and the avionics and weapons controls located on the engine throttles or control stick. When the pilot changes from one weapon system to another, visual guidance for the selected weapon automatically appears on the head-up display.
+The Eagle can be armed with combinations of four different air-to-air weapons: AIM-7F/M Sparrow missiles or AIM-120 AMRAAM advanced medium-range air-to-air missiles on its lower fuselage corners, AIM-9L/M Sidewinder or AIM-120 AMRAAM missiles on two pylons under the wings, and an internal 20 mm (0.79 in) M61 Vulcan Gatling gun in the right wing root.
+
+Low-drag conformal fuel tanks (CFTs), initially called Fuel And Sensor Tactical (FAST) packs, were developed for the F-15C and D models. They can be attached to the sides of the engine air intakes under each wing and are designed to the same load factors and airspeed limits as the basic aircraft. These tanks slightly degrade performance by increasing aerodynamic drag and cannot be jettisoned in-flight. However, they cause less drag than conventional external tanks. Each conformal tank can hold 750 U.S. gallons (2,840 L) of fuel. These CFTs increase range and reduce the need for in-flight refueling. All external stations for munitions remain available with the tanks in use. Moreover, Sparrow or AMRAAM missiles can be attached to the corners of the CFTs. The USAF 57th Fighter-Interceptor Squadron based at NAS Keflavik, Iceland, was the only C-model squadron to use CFTs on a regular basis due to its extended operations over the North Atlantic. With the closure of the 57 FIS, the F-15E is the only variant to carry them on a routine basis. CFTs have also been sold to Israel and Saudi Arabia.
+
+Operational history
+Introduction and early service
+The largest operator of the F-15 is the United States Air Force. The first Eagle, an F-15B, was delivered on 13 November 1974. In January 1976, the first Eagle destined for a combat squadron, the 555th TFS, was delivered. These initial aircraft carried the Hughes Aircraft (now Raytheon) APG-63 radar. The F-15 in early service was plagued by reliability and durability problems of its F100-PW-100 engines, whose ambitious specifications were critical for the aircraft's high performance. Furthermore, the issues were exacerbated by pilots making many more abrupt throttle changes than in previous fighters and engines due to the thrust available. The issues were addressed by the improved F100-PW-220 engines first delivered in 1986.
+
+The first kill by an F-15 was scored by Israeli Air Force (IAF) ace Moshe Melnik in 1979. During IAF raids against Palestinian factions in Lebanon in 1979–1981, F-15As reportedly downed 13 Syrian MiG-21s and two Syrian MiG-25s. Israeli F-15As and Bs participated as escorts in Operation Opera, an air strike on an Iraqi nuclear reactor. In the 1982 Lebanon War, Israeli F-15s were credited with 41 Syrian aircraft destroyed (23 MiG-21s and 17 MiG-23s, and one Aérospatiale SA.342L Gazelle helicopter). During Operation Mole Cricket 19, Israeli F-15s and F-16s together shot down 82 Syrian fighters (MiG-21s, MiG-23s, and MiG-23Ms) without losses.
+Israel was the only operator to use and develop the air-to-ground abilities of the air-superiority F-15 variants, doing so because the fighter's range was well beyond other combat aircraft in the Israeli inventory in the 1980s. The first known use of F-15s for a strike mission was during Operation Wooden Leg on 1 October 1985, with six F-15Ds attacking PLO Headquarters in Tunis with one GBU-15 guided bomb per aircraft and two F-15Cs restriking the ruins with six Mk-82 unguided bombs each. This was one of the few times air-superiority F-15s (A/B/C/D models) were used in tactical strike missions. Israeli air-superiority F-15 variants have since been extensively upgraded to carry a wider range of air-to-ground armaments, including JDAM GPS-guided bombs and Popeye missile.
+The first American combat use of the F-15 was during Operation Urgent Fury. F-15s of the 33rd Tactical Fighter Wing provided air cover alongside U.S. Navy F-14 Tomcats for Marines and the 82nd Airborne Division for contingency operations in Grenada.
+Royal Saudi Air Force F-15C pilots reportedly shot down two Iranian Air Force F-4E Phantom IIs in a skirmish on 5 June 1984.
+
+Anti-satellite trials
+The ASM-135 missile was designed to be a standoff antisatellite (ASAT) weapon, with the F-15 acting as a first stage. The Soviet Union could correlate a U.S. rocket launch with a spy satellite loss, but an F-15 carrying an ASAT would blend in among hundreds of F-15 flights. From January 1984 to September 1986, two F-15As were used as launch platforms for the ASAT missile. The F-15As were modified to carry one ASM-135 on the centerline station with extra equipment within a special centerline pylon. The launch aircraft executed a Mach 1.22, 3.8 g climb at 65° to release the ASAT missile at an altitude of 38,100 ft (11,600 m). The flight computer was updated to control the zoom-climb and missile release.
+The third test flight involved a functional P78-1 solar observatory satellite in a 345-mile (555 km) orbit, which was destroyed by kinetic energy. The pilot, USAF Major Wilbert D. "Doug" Pearson, became the only pilot to destroy a satellite. The ASAT program involved five test launches. The program was officially terminated in 1988.
+
+Gulf War and aftermath
+The USAF began deploying F-15C, D, and E model aircraft to the Persian Gulf region in August 1990 for Operations Desert Shield and Desert Storm. During the Gulf War, the F-15 accounted for 36 of the 39 air-to-air victories by the U.S. Air Force against Iraqi forces. Iraq has confirmed the loss of 23 of its aircraft in air-to-air combat. The F-15C and D fighters were used in the air-superiority role, while F-15E Strike Eagles were used in air-to-ground attacks mainly at night, hunting modified Scud missile launchers and artillery sites using the LANTIRN system. According to the USAF, its F-15Cs had 34 confirmed kills of Iraqi aircraft during the 1991 Gulf War, most of them by missile fire: five Mikoyan MiG-29s, two MiG-25s, eight MiG-23s, two MiG-21s, two Sukhoi Su-25s, four Sukhoi Su-22s, one Sukhoi Su-7, six Dassault Mirage F1s, one Ilyushin Il-76 cargo aircraft, one Pilatus PC-9 trainer, and two Mil Mi-8 helicopters. According to NHHC, F-15s may have also shot down a friendly F-14 Tomcat. In addition, the F-15E achieved its first-ever air-to-air kill on 14 February 1991, destroying an Iraqi Mi-24 "Hind" helicopter with a GBU-10 laser-guided bomb. Air superiority was achieved in the first three days of the conflict; many of the later kills were reportedly of Iraqi aircraft fleeing to Iran, rather than engaging American aircraft. Two F-15Es were lost to ground fire, and another was damaged on the ground by a Scud strike on King Abdulaziz Air Base.
+On 11 November 1990, a Royal Saudi Air Force (RSAF) pilot defected to Sudan with an F-15C fighter during Operation Desert Shield. Saudi Arabia paid US$40 million (~$82.5 million in 2023) for return of the aircraft three months later. RSAF F-15s shot down two Iraqi Mirage F1s during the Operation Desert storm. One Saudi Arabian F-15C was lost to a crash during the Persian Gulf War in 1991. The IQAF claimed this fighter was part of two USAF F-15Cs that engaged two Iraqi MiG-25PDs, and was hit by an R-40 missile before crashing.
+
+They have since been deployed to support Operation Southern Watch, the patrolling of the Iraqi no-fly zones in Southern Iraq; Operation Provide Comfort in Turkey; in support of NATO operations in Bosnia, and recent air expeditionary force deployments. In 1994, two U.S. Army Sikorsky UH-60 Black Hawks were mistakenly downed by USAF F-15Cs in northern Iraq in a friendly-fire incident. USAF F-15Cs shot down four Yugoslav MiG-29s using AIM-120 and AIM-7 Radar guided missiles during NATO's 1999 intervention in Kosovo, Operation Allied Force.
+
+Structural defects
+All F-15s were grounded by the USAF after a Missouri Air National Guard F-15C came apart in flight and crashed on 2 November 2007. The newer F-15E fleet was later cleared for continued operations. The USAF reported on 28 November 2007 that a critical location in the upper longerons on the F-15C was the failure's suspected cause, causing the fuselage forward of the air intakes, including the cockpit and radome, to separate from the airframe.
+F-15A through D-model aircraft were grounded until the location received detailed inspections and repairs as needed. The grounding of F-15s received media attention as it began to place strains on the nation's air-defense efforts. The grounding forced some states to rely on their neighboring states' fighters for air-defense protection, and Alaska to depend on Canadian Forces' fighter support.
+On 8 January 2008, the USAF Air Combat Command (ACC) cleared a portion of its older F-15 fleet for return to flying status. It also recommended a limited return to flight for units worldwide using the affected models. The accident review board report, which was released on 10 January 2008, stated that analysis of the F-15C wreckage determined that the longeron did not meet drawing specifications, which led to fatigue cracks and finally a catastrophic failure of the remaining support structures and breakup of the aircraft in flight. In a report released on 10 January 2008, nine other F-15s were identified to have similar problems in the longeron. As a result, General John D. W. Corley stated, "the long-term future of the F-15 is in question". On 15 February 2008, ACC cleared all its grounded F-15A/B/C/D fighters for flight pending inspections, engineering reviews, and any needed repairs. ACC also recommended release of other U.S. F-15A/B/C/Ds.
+
+Later service
+The F-15 had a combined air-to-air combat record of 104 kills to no losses through 2008. The F-15's air superiority versions, the A/B/C/D models, have not suffered any losses to enemy action. Over half of F-15 kills have been achieved by Israeli Air Force pilots.
+On 16 September 2009, the last F-15A, an Oregon Air National Guard aircraft, was retired, marking the end of service for the F-15A and F-15B models in the United States. With the retirement of those early models, the F-15C and D models continued operational service to supplement the new F-22 Raptor in frontline US service. Because the DOD was primarily focused on asymmetric counterinsurgency warfare in the Middle East in the 2000s, the F-22 procurement was curtailed to just 187 operational aircraft and the USAF had to extend F-15C/D operations well beyond its planned retirement date in order to maintain adequate numbers of air superiority fighters; in 2007, the USAF planned to keep 179 F-15C/Ds along with 224 F-15Es in service beyond 2025. During the 2010s, USAF F-15C/Ds were regularly based overseas with the Pacific Air Forces at Kadena AB in Japan and with the U.S. Air Forces in Europe at RAF Lakenheath in the United Kingdom. Other regular USAF F-15s are operated by ACC as adversary/aggressor platforms at Nellis AFB, Nevada, and by Air Force Materiel Command in test and evaluation roles at Edwards AFB, California, and Eglin AFB, Florida. All remaining combat-coded F-15C/Ds are operated by the Air National Guard.
+
+To keep the F-15C/D viable, the fleet saw a series of upgrades, with 179 aircraft receiving the AN/APG-63(V)3 AESA radar starting in 2010 along with eventual addition of IRST pods and cockpit enhancements. However, problems with the aging fleet meant the F-15C faced cuts or retirement in the USAF's FY 2015 budget in response to sequestration. By the mid-2010s, the aging F-15C/D fleet was no longer economically sustainable to the 2030s as hoped due to structural fatigue, and the USAF chose to forgo the more comprehensive F-15 2040C upgrade proposed by Boeing; in April 2017, USAF officials announced plans to retire the F-15C/D in the mid-2020s and press other aircraft such as F-16s into roles occupied by the F-15 while exploring options to recapitalize its fighter fleet.
+In late 2018 and early 2019, following a series of DoD Cost Analysis and Program Evaluation (CAPE) Office studies on affordably recapitalizing the fighter fleet, the Pentagon in its FY 2020 budget requested new-build F-15EXs — an advanced variant based on the export F-15QA then in production — to replace the F-15Cs and supplement the F-22s to maintain fighter fleet size, with planned total procurement of 144 aircraft. This allowed USAF to use the existing export production line to quickly and affordably bring fighters into operational service, as restarting the F-22 line was considered cost-prohibitive. 
+In 2022, it was announced the USAF plan to retire their fleet of F-15C/Ds by 2026, while the F-15Es would retire in the 2030s. By April 2022, RAF Lakenheath had divested its entire fleet of F-15C/Ds, with its aircraft going on to serve in ANG squadrons. Kadena AB divested its Eagle fleet between December 2022 and January 2025, with the last USAF active duty F-15C flight being flown by 81-0029 on 24 January 2025.
+
+Yemen Civil War
+During the Yemeni Civil War (2015–present), Houthis have used R-27T missiles modified to serve as surface-to-air missiles. A video released on 7 January 2018 also shows a modified R-27T hitting a Saudi F-15 on a forward-looking infrared camera. Houthi sources claim to have downed the F-15, although this has been disputed, as the missile apparently proximity detonated, though the F-15 continued to fly in its trajectory seemingly unaffected. Rebels later released footage showing an aircraft wreck, but serial numbers on the wreckage suggested the aircraft was a Panavia Tornado, also operated by Saudi forces. On 8 January, the Saudi admitted the loss of an aircraft but due to technical reasons.
+On 21 March 2018, Houthi rebels released a video where they hit and possibly shot down a Saudi F-15 in Saada province. In the video a R-27T air-to-air missile adapted for surface-to-air use was launched and appeared to hit a jet. As in the video of the previous similar hit recorded on 8 January, the target, while clearly hit, did not appear to be downed. Saudi forces confirmed the hit, while saying the jet landed at a Saudi base. Saudi official sources confirmed the incident, reporting that it happened at 3:48 pm local time after a surface-to-air defense missile was launched at the fighter jet from inside Saada airport.
+After the Houthi attack on Saudi oil infrastructure on 14 September 2019, Saudi Arabia tasked F-15 fighters armed with missiles to intercept low flying drones, difficult to intercept with ground-based high altitude missile systems like the MIM-104 Patriot with several drones being downed since then. On 2 July 2020, a Saudi F-15 shot down two Houthi Shahed 129 drones above Yemen. On 7 March 2021, during a Houthi attack at several Saudi oil installations, Saudi F-15s shot down several attacking drones using heatseeking AIM-9 Sidewinder missiles, with video evidence showing at least two Samad-3 UAVs and one Qasef-2K downed. On 30 March 2021, a video made by Saudi border guards showed a Saudi F-15 shooting down a Houthi Quasef-2K drone with an AIM-120 AMRAAM fired at short range.
+
+Variants
+Basic models
+F-15A
+Single-seat all-weather air-superiority fighter version, 384 built in 1972–1979
+F-15B
+Two-seat training version, formerly designated TF-15A, 61 built in 1972–1979
+F-15C
+Improved single-seat all-weather air-superiority fighter version, 483 built in 1979–1985. The last 43 F-15Cs were upgraded with AN/APG-70 radar and later the AN/APG-63(V)1 radar.
+F-15D
+Two-seat training version, 92 built in 1979–1985. The Israeli Air Force uses this version as a strike fighter.
+F-15J
+Single-seat all-weather air-superiority fighter version for the Japan Air Self-Defense Force. 139 built under license in Japan by Mitsubishi Heavy Industries from 1981–1997; an additional two built in St. Louis.
+F-15DJ
+Two-seat training version for the Japan Air Self-Defense Force. 12 built in St. Louis, and 25 built under license in Japan by Mitsubishi in the period 1981–1997.
+F-15N Sea Eagle
+The F-15N was a carrier-capable variant proposed in the early 1970s to the U.S. Navy as an alternative to the heavier and, at the time, considered to be "riskier" technology program, the Grumman F-14 Tomcat. It did not have a long-range radar or the long-range missiles used by the F-14. The F-15N-PHX was another proposed naval version capable of carrying the AIM-54 Phoenix missile, but with an enhanced version of the AN/APG-63 radar on the F-15A. These featured folding wingtips, reinforced landing gear and a stronger tailhook for shipboard operation.
+F-15 2040C
+Proposed upgrade to the F-15C, allowing it to supplement the F-22 in the air superiority role. The 2040C concept is an evolution of the Silent Eagle proposed to South Korea and Israel, with some low-observable improvements but mostly a focus on the latest air capabilities and lethality. Proposal includes infra-red search and track, doubling the number of weapon stations, with quad racks for a maximum of 16 air-to-air missiles, Eagle Passive/Active Warning Survivability System (EPAWSS), conformal fuel tanks, upgraded APG-63(V)3 AESA radar and a "Talon HATE" communications pod allowing data transfer with the F-22. This upgrade program was not pursued due to the age of the existing airframes, but some of the upgrades were applied to the new-build F-15EX.
+
+Strike Eagle derivatives
+F-15E Strike Eagle
+Two-seat all-weather multirole strike version, fitted with conformal fuel tanks. It was developed into the F-15I, F-15S, F-15K, F-15SG, and is the basis of the F-15 Advanced Eagle family. Over 400 F-15E and derivative variants produced since 1985.
+F-15F Strike Eagle
+Originally proposed as single-seat F-15E for Saudi Arabia; later reserved for Singaporean F-15Es, delivered as F-15SG.
+F-15SE Silent Eagle
+A proposed F-15E variant from March 2009 with a reduced radar cross-section via changes such as replacing conformal fuel tanks with conformal weapons bays and canting the twin vertical tails 15 degrees outward, which would reduce their radar signature while providing a slight boost to lift to help offset the loss of conformal fuel tanks.
+F-15 Advanced Eagle
+Further development of the F-15E with revised wing structure and digital fly-by-wire and is the basis for the F-15SA, F-15QA, F-15EX, and other variants. Current production baseline.
+
+Prototypes
+Twelve prototypes were built and used for trials by the F-15 Joint Test Force at Edwards Air Force Base using McDonnell Douglas and United States Air Force personnel. Most prototypes were later used by NASA for trials and experiments.
+
+F-15A-1, AF Serial No. 71-0280
+Was the first F-15 to fly on 11 July 1972 from Edwards Air Force Base, it was used as a trial aircraft for exploring the flight envelope, general handling and testing the carriage of external stores.
+F-15A-1, AF Ser. No. 71-0281
+The second prototype first flew on 26 September 1972 and was used to test the F100 engine.
+F-15A-2, AF Ser. No. 71-0282
+First flew on 4 November 1972 and was used to test the APG-63 radar and avionics.
+F-15A-2, AF Ser. No. 71-0283
+First flew on 13 January 1973 and was used as a structural test aircraft, it was the first aircraft to have the smaller wingtips to clear a severe buffet problem found on earlier aircraft.
+F-15A-2, AF Ser. No. 71-0284
+First flew on 7 March 1973 it was used for armament development and was the first aircraft fitted with an internal cannon.
+F-15A-3, AF Ser. No. 71-0285
+First flew on 23 May 1973 and was used to test the missile fire control system and other avionics.
+F-15A-3, AF Ser. No. 71-0286
+First flew on 14 June 1973 and was used for armament trials and testing external fuel stores.
+F-15A-4, AF Ser. No. 71-0287
+First flew on 25 August 1973 and was used for spin recovery, angle of attack and fuel system testing, it was fitted with an anti-spin recovery parachute. The aircraft was loaned to NASA from 1976 for engine development trials.
+F-15A-4, AF Ser. No. 71-0288
+First flew on 20 October 1973 and was used to test integrated aircraft and engine performance, it was later used by McDonnell Douglas as a test aircraft in the 1990s.
+F-15A-4, AF Ser. No. 71-0289
+First flew on 30 January 1974 and was used for trials on the radar, avionics and electronic warfare systems.
+F-15B-1, AF Ser. No. 71-0290
+The first two-seat prototype originally designated the TF-15A, it first flew on 7 July 1973.
+F-15B-2, AF Ser. No. 71-0291
+First flew on 18 October 1973 as a TF-15A and used as a test and demonstration aircraft. In 1976 it made an overseas sales tour painted in markings to celebrate the bicentenary of the United States. Also used as the development aircraft for the F-15E as well as the first F-15 to use Conformal Fuel Tanks.
+
+Research and test
+F-15 Streak Eagle (AF Ser. No.72-0119)
+An unpainted F-15A stripped of most avionics demonstrated the fighter's acceleration capabilities. The aircraft broke eight time-to-climb world records between 16 January and 1 February 1975 at Grand Forks AFB, ND. It was delivered to the National Museum of the United States Air Force in December 1980. The aircraft is currently on display in the museum's Research and Development Hangar.
+F-15 STOL/MTD (AF Ser. No. 71-0290)
+The first F-15B was converted into a short takeoff and landing, maneuver technology demonstrator aircraft. In the late 1980s it received canard flight surfaces in addition to its usual horizontal tail, along with square thrust-vectoring nozzles. It was used as a short-takeoff/maneuver-technology demonstrator (S/MTD).
+F-15 ACTIVE (AF Ser. No. 71-0290)
+The F-15 S/MTD was later converted into an advanced flight control technology research aircraft with thrust vectoring nozzles.
+F-15 IFCS (AF Ser. No. 71-0290)
+The F-15 ACTIVE was then converted into an intelligent flight control systems research aircraft. F-15B 71-0290 was the oldest F-15 still flying when retired in January 2009.
+F-15 MANX
+Concept name for a tailless variant of the F-15 ACTIVE, but the NASA ACTIVE experimental aircraft was never modified to be tailless.
+F-15 Flight Research Facility (AF Ser. No. 71-0281 and AF Ser. No. 71-0287)
+Two F-15A aircraft were acquired in 1976 for use by NASA's Dryden Flight Research Center for numerous experiments. Notable experiments include Highly Integrated Digital Electronic Control (HiDEC), Adaptive Engine Control System (ADECS), Self-Repairing and Self-Diagnostic Flight Control System (SRFCS) and Propulsion Controlled Aircraft System (PCA). 71-0281, the second flight-test F-15A, was returned to the Air Force and became a static display at Langley AFB in 1983.
+F-15B Research Testbed (AF Ser. No. 74-0141)
+Acquired in 1993, it was an F-15B modified and used by NASA's Dryden Flight Research Center for flight tests.
+
+Operators
+This article only covers the F-15A, B, C, D, and related variants. For the operators of other F-15E-based variants, like the F-15E, F-15I, F-15S, F-15K, F-15SG, or F-15EX, see McDonnell Douglas F-15E Strike Eagle and Boeing F-15EX Eagle II.
+
+ Israel
+Israeli Air Force has operated F-15s since 1977. The IAF operates 38 F-15As, 6 F-15Bs, 16 F-15Cs and 11 F-15Ds in service as of 2022.
+
+ Japan
+Japan Air Self-Defense Force operates 155 Mitsubishi F-15J and 44 F-15DJ fighters produced under license by Mitsubishi Heavy Industries.
+ Saudi Arabia
+Royal Saudi Air Force has 46 F-15C and 16 F-15D fighters in operation as of 2024.
+ United States
+United States Air Force operates 168 F-15C and 18 F-15D total aircraft as of mid-2022.
+NASA currently operates one F-15B #836 as a test bed for a variety of flight research experiments and two F-15D, #884 and #897, for research support and pilot proficiency. NASA in the past used an F-15B #835 to test Highly Integrated Digital Engine Control system (HIDEC) at Edwards AFB in 1988.
+
+Notable accidents
+A total of 175 F-15s have been lost to non-combat causes as of June 2016. However, the F-15 aircraft is very reliable with only 1 loss per 50,000 flight hours.
+
+On 1 May 1983, an Israeli Air Force F-15D collided mid-air with an A-4 Skyhawk during a training flight, causing the F-15's right wing to shear off almost completely. Despite the damage, the pilot was able to reach a nearby airbase and land safely – albeit at twice the normal landing speed. The aircraft was subsequently repaired and saw further combat action.
+On 26 March 2001, two US Air Force F-15Cs crashed near the summit of Ben Macdui in the Cairngorms during a low flying training exercise over the Scottish Highlands. Both Lieutenant Colonel Kenneth John Hyvonen and Captain Kirk Jones died in the accident, which resulted in a court martial for an RAF air traffic controller, who was later found not guilty.
+On 2 November 2007, a 27-year-old F-15C (AF Ser. No. 80-0034) of the 131st Fighter Wing, Missouri Air National Guard, crashed following an in-flight breakup due to structural failure during combat training near St. Louis, Missouri. The pilot, Major Stephen W. Stilwell, ejected but suffered serious injuries. On 3 November 2007, all non-mission critical F-15s were grounded pending the crash investigation's outcome. By 13 November 2007, over 1,100 F-15s were grounded worldwide after Israel, Japan and Saudi Arabia grounded their aircraft as well. F-15Es were cleared on 15 November 2007 pending individual inspections. On 8 January 2008, the USAF cleared 60 percent of the F-15A/B/C/D fleet to fly. On 10 January 2008, the accident review board released its report, which attributed the crash to the longeron not meeting specifications. On 15 February 2008, the Air Force cleared all F-15s for flight, pending inspections and any needed repairs. In March 2008, Stilwell filed a lawsuit against Boeing which was later dismissed in April 2009.
+
+Specifications (F-15C)
+Data from USAF fact sheet, Jane's All the World's Aircraft, Combat Legend, F-15 Eagle and Strike Eagle, Florida International University, USAF F-15A/B/C/D Flight Manual (TO 1F-15A-1) Change 5General characteristics
+Crew: 1
+Length: 63 ft 9 in (19.43 m)
+Wingspan: 42 ft 10 in (13.06 m)
+Height: 18 ft 6 in (5.64 m)
+Wing area: 608 sq ft (56.5 m2)
+Airfoil: root: NACA 64A006.6; tip: NACA 64A203
+Empty weight: 29,000 lb (13,154 kg)
+Gross weight: 44,500 lb (20,185 kg)
+Max takeoff weight: 68,000 lb (30,844 kg)
+Fuel capacity: 13,455 lb (6,103 kg) internal, or 25,350 lb (11,500 kg) with 3× 600 U.S. gal external tanks
+Powerplant: 2 × Pratt & Whitney F100-PW-220 afterburning turbofans, 14,590 lbf (64.9 kN) thrust each dry, 23,770 lbf (105.7 kN) with afterburner
+Performance
+
+Maximum speed: Mach 2.5, 1,650 mph (1,434 kn; 2,655 km/h) at altitude
+Mach 1.2, 800 kn (921 mph; 1,482 km/h) at sea level
+Cruise speed: 496 kn (571 mph, 919 km/h)
+Range: 2,144 nmi (2,467 mi, 3,971 km) with three external fuel tanks
+Combat range: 586 nmi (674 mi, 1,085 km) counterair mission with one external fuel tank
+470 nmi (540 mi; 870 km) area intercept with 4× AIM-7, internal fuel
+1,061 nmi (1,221 mi; 1,965 km) for interdiction mission with three external fuel tanks
+Ferry range: 3,000 nmi (3,500 mi, 5,600 km) with conformal fuel tanks and three external fuel tanks
+Service ceiling: 65,000 ft (20,000 m)
+g limits: +9
+Rate of climb: 67,050 ft/min (340.6 m/s) maximum (with 3 pylons)
+Wing loading: 73.1 lb/sq ft (357 kg/m2)
+Thrust/weight: 1.07 (1.26 with loaded weight and 50% internal fuel)
+Armament
+
+Guns: 1× 20 mm (0.787 in) M61A1 Vulcan 6-barrel rotary cannon, 512 rounds
+Hardpoints: Total 9: two under-wing (each with additional two missile launch rails), four under-fuselage (for semi-recessed carriage of AIM-7 or AIM-120) and a single centerline pylon station, optional fuselage pylons (which may include conformal fuel tanks) with a capacity of 16,000 lb (7,300 kg), with provisions to carry combinations of:
+Missiles: 
+4× AIM-7 Sparrow and 4× AIM-9 Sidewinder or
+6× AIM-120 AMRAAM and 2× AIM-9 Sidewinder or
+8× AIM-120 AMRAAM
+Other: 
+up to 3 × 600 US gallons (2,300 L) external drop tanks for ferry flight or extended range/loitering time.
+MXU-648 Cargo/Travel Pod – to carry personal belongings, and small pieces of maintenance equipment.
+ADM-160 MALD - Family of decoy missiles which can be equipped with electronic countermeasures
+Avionics
+
+Radar:
+Hughes (now Raytheon) AN/APG-63 or AN/APG-70 or
+Raytheon AN/APG-63(V)1 or
+Raytheon AN/APG-63(V)2 Active Electronically Scanned Array (AESA) or
+Raytheon AN/APG-63(V)3 Active Electronically Scanned Array (AESA)
+Countermeasures:
+Northrop Grumman Electronic Systems AN/ALQ-131 electronic countermeasures pod
+Magnavox AN/ALQ-128 Electronic Warfare Warning Set (EWWS) – part of Tactical Electronic Warfare Systems (TEWS)
+Loral AN/ALR-56 Radar warning receivers (RWR) – part of TEWS
+Northrop Grumman Electronic Systems AN/ALQ-135 Internal Countermeasures System (ICS) – part of TEWS
+Marconi (now Tracor) AN/ALE-45 Chaff/Flare dispenser system – part of TEWS
+Joint Helmet Mounted Cueing System
+Hazeltine AN/APX-76 or Raytheon AN/APX-119 Identify Friend/Foe (IFF) interrogator
+Lockheed Martin Legion Pod with AN/ASG-34(V)1 IRST21 infrared search and track
+
+Aircraft on display
+Although the F-15 continues to be in use, a number of older USAF and IAF models have been retired, with several placed on outdoor display or in museums.
+
+Germany
+F-15A
+
+74-0085 – Spangdahlem AB
+74-0109 – Auto Technik Museum, Speyer
+
+Netherlands
+F-15A
+
+74-0083 (marked as 77–0132) – Nationaal Militair Museum, Kamp Zeist, former Camp New Amsterdam AB. Aircraft was based at Camp New Amsterdam and left as a gift when the base was closed in 1995.
+
+Japan
+F-15A
+
+74-0088 – Kadena AB
+
+Israel
+F-15A
+
+73-0098 – Israeli Air Museum, Hatzerim
+73-0107 – gate guard at Tel Nof AB
+
+Saudi Arabia
+F-15B
+
+71-0291 - painted in false Saudi markings as '1315' at Royal Saudi Air Force Museum
+
+United Kingdom
+F-15A
+
+74-0131 – Wings of Liberty Memorial Park, RAF Lakenheath
+76-0020 – American Air Museum, Duxford
+
+United States
+F-15A
+71-0280 – 37th Training Wing HQ Parade Ground, Kelly Field (formerly Kelly AFB), San Antonio, Texas.
+71-0281 – Tactical Air Command Memorial Park, Joint Base Langley-Eustis, Hampton, Virginia.
+71-0283 – Defense Supply Center Richmond, Richmond, Virginia.
+71-0285 – Boeing Avionic Antenna Laboratory, St. Charles, Missouri.
+71-0286 – A GF-15A; Saint Louis Science Center, St. Louis, Missouri, in storage. Previously on display at Octave Chanute Aerospace Museum, Rantoul, Illinois
+72-0119 "Streak Eagle" – at the National Museum of the United States Air Force, Wright-Patterson AFB, Dayton, Ohio
+73-0085 – Museum of Aviation, Robins AFB, Warner Robins, Georgia
+73-0086 – Louisiana Military Museum, Jackson Barracks, New Orleans, Louisiana
+73-0099 – Robins AFB, Warner Robins, Georgia
+74-0081 – Elmendorf AFB, Alaska
+74-0084 – Alaska Aviation Heritage Museum, Anchorage, Alaska
+74-0095 – Tyndall AFB, Panama City, Florida. This aircraft was flipped and severely damaged by Hurricane Michael in October 2018.
+74-0114 – Mountain Home AFB, Idaho
+74-0117 – Langley AFB, Virginia
+74-0118 – Pima Air & Space Museum, Tucson, Arizona
+74-0119 – Castle Air Museum, Atwater, California
+74-0124 – Air Force Armament Museum, Eglin AFB, Florida
+75-0026 – National Warplane Museum, Elmira Corning Regional Airport, New York
+75-0033 – Eglin Parkway entrance to 33d Fighter Wing complex, Eglin AFB, Florida
+75-0044 (marked as 33rd Fighter Wing F-15C 82–0034) – Destin - Fort Walton Beach Airport, Eglin AFB, Florida
+75-0045 – USS Alabama Battleship Memorial Park, Mobile, Alabama
+75-0084 – Russell Military Museum, Russell, Illinois
+76-0008 – March Field Air Museum at March ARB, Riverside, California
+76-0009 – Kingsley Field Air National Guard Base, Klamath Falls, Oregon
+76-0012 – Air Heritage Aviation Museum, Beaver County Airport, Beaver Falls, Pennsylvania
+76-0014 – Evergreen Aviation Museum, McMinnville, Oregon
+76-0018 – Hickam Field, Joint Base Pearl Harbor–Hickam, Oahu, Hawaii
+76-0024 – Peterson Air and Space Museum, Peterson AFB, Colorado
+76-0027 – National Museum of the United States Air Force, Wright-Patterson AFB, Dayton, Ohio
+76-0037 – Holloman AFB, New Mexico
+76-0040 – Otis ANGB, Cape Cod, Massachusetts
+76-0042 - United States Air Force Academy, Colorado Springs, Colorado
+76-0048 – McChord Air Museum, McChord AFB, Washington
+76-0057 - Nellis Air Force Base, Las Vegas, Nevada. Aircraft previously bore "Vegas Strong" paint scheme to honor victims of Oct 1, 2017 shooting.
+76-0063 – Pacific Aviation Museum, Ford Island, Joint Base Pearl Harbor–Hickam, Hawaii
+76-0066 – Portland Air National Guard Base, Oregon
+76-0067 – Dyess Air Force Base, Linear Air Park display area on base
+76-0076 (marked as 33rd Fighter Wing F-15C 85–0125) – roadside park, DeBary, Florida
+76-0080 – Jacksonville Air National Guard Base, Florida
+76-0088 – 131st Bomb Wing Heritage Park, Whiteman AFB, Missouri
+76-0108 – Lackland AFB/Kelly Field Annex, Texas
+76-0110 – gate guard, Mountain Home AFB, Idaho
+77-0068 – Arnold AFB, Manchester, Tennessee
+77-0084 – 412th Test Wing at Edwards Air Force Base, California and Nellis Air Force Base, Nevada.
+77-0090 – Hill Aerospace Museum, Hill AFB, Utah
+77-0102 – Pacific Coast Air Museum, Charles M. Schulz-Sonoma County Airport, Santa Rosa, California. One of two Massachusetts Air National Guard 102d Fighter Wing aircraft scrambled in first response to terrorist air attacks on 11 September 2001.
+77-0146 – Veterans Park, Callaway, Florida
+77-0150 – Yanks Air Museum, Chino, California
+
+F-15B
+73-0108 – Luke AFB, Arizona.
+73-0114 – Air Force Flight Test Center Museum, Edwards AFB, California
+77-0154 - Sheppard Air Force Base, Witchita Falls, Texas.
+77-0159 - Volk Field Air National Guard Base, Camp Douglas, Wisconsin.
+77-0161 – Seymour Johnson AFB, Goldsboro, North Carolina.
+
+F-15C
+79-0022 – Pueblo Weisbrod Aircraft Museum, Pueblo, Colorado Credited with a MiG-23 kill during Operation Desert Storm while flown by Donald Watros. It is painted in the colors of the 22nd Fighter Squadron deployed from Bitburg AB, Germany, to Incirlik AB, Turkey.
+79-0078 – Museum of Aviation, Robins AFB, Warner Robins, Georgia Currently stored at the museum, it is awaiting restoration and display. Credited with two MiG-21 kills during Operation Desert Storm while flown by Thomas Dietz, while on deployment with 53rd Fighter Squadron to Al Kharj AB, Saudi Arabia from Bitburg AB, Germany.
+80-0014 – Chico Air Museum, Chico, California; transported from Langley AFB, Virginia
+85-0101 - New England Air Museum, Connecticut; This aircraft, flown by Capt Rick ‘Kluso’ Tollini scored one MiG-25 kill during Operation Desert Storm on January 19, 1991.
+86-0156 - National Museum of the United States Air Force - On display in the Cold War Gallery. This aircraft scored two MiG-29 kills of the Yugoslavia Air Force during Operation Allied Force flown by Captain Jeff "Claw" Hwang of the 493rd Fighter Squadron, 48th Fighter Wing based at RAF Lakenheath, UK.
+
+Notable appearances in media
+The F-15 was the subject of the IMAX movie Fighter Pilot: Operation Red Flag, about the RED FLAG exercises. In Tom Clancy's nonfiction book, Fighter Wing: A Guided Tour of an Air Force Combat Wing (1995), a detailed analysis of the Air Force's premier fighter aircraft, the F-15 Eagle and its capabilities are showcased.
+The F-15 has also been a popular subject as a toy, and a fictional likeness of an aircraft similar to the F-15 has been used in cartoons, books, video games, animated television series, and animated films.
+
+See also
+Fourth-generation jet fighter
+Related development
+
+McDonnell Douglas F-15E Strike Eagle
+McDonnell Douglas F-15 STOL/MTD
+Mitsubishi F-15J  – (Japan, United States)
+Boeing F-15EX Eagle II
+Aircraft of comparable role, configuration, and era
+
+Grumman F-14 Tomcat  – (United States)
+Mikoyan MiG-29M  – (Russia)
+Shenyang J-11  – (China)
+Sukhoi Su-27
+Dassault Mirage 4000  – (France)
+
+Related lists
+
+List of fighter aircraft
+List of active United States military aircraft
+List of military electronics of the United States
+
+References
+Notes
+Citations
+Bibliography
+Aloni, Shlomo. Israeli F-15 Eagle Units in Combat (Osprey Combat Aircraft #67). Oxford, UK: Osprey Publishing Limited, 2006. ISBN 978-1-84603-047-5.
+Bowman, Martin W. US Military Aircraft. London: Bison Books, 1980. ISBN 0-89009-292-3.
+Davies, Steve. Boeing F-15E Strike Eagle, All-Weather Attack Aircraft. London: Airlife Publishing, Ltd., 2003. ISBN 1-84037-378-4.
+Davies, Steve. Combat Legend, F-15 Eagle and Strike Eagle. London: Airlife Publishing, Ltd., 2002. ISBN 1-84037-377-6.
+Davies, Steve. F-15C/E Eagle Units of operation Iraqi Freedom (Osprey Combat Aircraft #47). Oxford, UK: Osprey Publishing Limited, 2004. ISBN 978-1-84176-802-1.
+Davies, Steve and Doug Dildy. F-15 Eagle Engaged, The World's Most Successful Jet Fighter. Oxford, UK: Osprey Publishing Limited, 2007. ISBN 978-1-84603-169-4.
+Eden, Paul and Soph Moeng, eds. The Complete Encyclopedia of World Aircraft. London: Amber Books Ltd., 2002. ISBN 0-7607-3432-1.
+Gething, Michael J. F-15 Eagle (Modern Fighting Aircraft). New York: Arco, 1983. ISBN 0-668-05902-8.
+Green, William and Gordon Swanborough. The Complete Book of Fighters. New York: Barnes & Noble Inc., 1988. ISBN 0-7607-0904-1.
+Gunston, Bill. American Warplanes. New York: Crescent Books. 1986. ISBN 0-517-61351-4.
+Huenecke, Klaus. Modern Combat Aircraft Design. Annapolis, Maryland: Naval Institute Press, 1987. ISBN 0-87021-426-8.
+Jenkins, Dennis R. F/A-18 Hornet: A Navy Success Story. New York: McGraw-Hill, 2000, pp. 1–8. ISBN 0-07-134696-1.
+Jenkins, Dennis R. McDonnell Douglas F-15 Eagle, Supreme Heavy-Weight Fighter. Hinckley, UK: Midland Publishing, 1998. ISBN 1-85780-081-8.
+Lambert, Mark, ed. Jane's All the World's Aircraft 1993–94. Alexandria, Virginia: Jane's Information Group Inc., 1993. ISBN 0-7106-1066-1.
+Neufeld, Jacob (2007) [Spring 2001]. The F-15 Eagle: Origins and Development 1964–1972. Air Power History (Today's Best Military Writing ed.). ISBN 978-1-4299-1069-9. Retrieved 22 April 2017.
+Scutts, Jerry. Supersonic Aircraft of USAF. New York: Mallard Press, 1989. ISBN 0-7924-5013-2.
+Spick, Mike, ed. The Great Book of Modern Warplanes. St. Paul, Minnesota: MBI, 2000. ISBN 0-7603-0893-4.
+
+Further reading
+Braybrook, Roy. F-15 Eagle. London: Osprey Aerospace, 1991. ISBN 1-85532-149-1.
+Crickmore, Paul. McDonnell Douglas F-15 Eagle (Classic Warplanes series). New York: Smithmark Books, 1992. ISBN 0-8317-1408-5.
+Drendel, Lou. Eagle (Modern Military Aircraft Series). Carrollton, Texas: Squadron/Signal Publications, 1985. ISBN 0-8974-7271-3.
+Drendel, Lou and Don Carson. F-15 Eagle in action. Carrollton, Texas: Squadron/Signal Publications, 1976. ISBN 0-89747-023-0.
+Fitzsimons, Bernard. Modern Fighting Aircraft, F-15 Eagle. London: Salamander Books Ltd., 1983. ISBN 0-86101-182-1.
+Gething, Michael J. and Paul Crickmore. F-15 (Combat Aircraft series). New York: Crescent Books, 1992. ISBN 0-517-06734-X.
+Kinzey, Bert. The F-15 Eagle in Detail & Scale (Part 1, Series II). El Paso, Texas: Detail & Scale, Inc., 1978. ISBN 0-8168-5028-3.
+Rininger, Tyson V. F-15 Eagle at War. Minneapolis, Minnesota: Zenith Press, 2009. ISBN 978-0-7603-3350-1.
+
+External links
+
+F-15 Eagle USAF Fact Sheet
+F-15 Eagle history page on Boeing.com Archived 5 June 2023 at the Wayback Machine
+McDonnell Douglas F-15A, and F-15C on USAF National Museum web site
+F-15 Eagle in service with Israel
+The McDonnell Douglas F-15 Eagle page

@@ -1,0 +1,42 @@
+A cooling bath or ice bath, in laboratory chemistry practice, is a liquid mixture which is used to maintain low temperatures, typically between 13 °C and −196 °C.  These low temperatures are used to collect liquids after distillation, to remove solvents using a rotary evaporator, or to perform a chemical reaction below room temperature (see Kinetic control).
+Cooling baths are generally one of two types: (a) a cold fluid (particularly liquid nitrogen, water, or even air) — but most commonly the term refers to (b) a mixture of 3 components: (1) a cooling agent (such as dry ice or ice); (2) a liquid "carrier" (such as liquid water, ethylene glycol, acetone, etc.), which transfers heat between the bath and the vessel; (3) an additive to depress the melting point of the solid/liquid system.
+A familiar example of this is the use of an ice/rock-salt mixture to freeze ice cream. Adding salt lowers the freezing temperature of water, lowering the minimum temperature attainable with only ice.
+
+Mixed-solvent cooling baths
+Mixing solvents creates cooling baths with variable freezing points.  Temperatures between approximately −78 °C and −17 °C can be maintained by placing coolant into a mixture of ethylene glycol and ethanol, while mixtures of methanol and water span the −128 °C to 0 °C temperature range.  Dry ice sublimes at −78 °C, while liquid nitrogen is used for colder baths.
+As water or ethylene glycol freeze out of the mixture, the concentration of ethanol/methanol increases.  This leads to a new, lower freezing point.  With dry ice, these baths will never freeze solid, as pure methanol and ethanol both freeze below −78 °C (−98 °C and −114 °C respectively).
+Relative to traditional cooling baths, solvent mixtures are adaptable for a wide temperature range.  In addition, the solvents necessary are cheaper and less toxic than those used in traditional baths.
+
+Traditional cooling baths
+Water and ice baths
+A bath of ice and water will maintain a temperature 0 °C, since the melting point of water is 0 °C.  However, adding a salt such as sodium chloride will lower the temperature through the property of freezing-point depression.  Although the exact temperature can be hard to control, the weight ratio of salt to ice influences the temperature:
+
+−10 °C can be achieved with a 1:2.5 mass ratio of calcium chloride hemihydrate to ice.
+−20 °C can be achieved with a 1:3 mass ratio of sodium chloride to ice.
+
+Dry ice baths at −78 °C
+Since dry ice will sublime at −78 °C, a mixture such as acetone/dry ice will maintain −78 °C. Also, the solution will not freeze because acetone requires a temperature of about −93 °C to begin freezing.
+
+Safety recommendations
+The American Chemical Society notes that the ideal organic solvents to use in a cooling bath have the following characteristics:
+
+Nontoxic vapors.
+Low viscosity.
+Nonflammability.
+Low volatility.
+Suitable freezing point.
+In some cases, a simple substitution can give nearly identical results while lowering risks. For example, using dry ice in 2-propanol rather than acetone yields a nearly identical temperature but avoids the volatility of acetone (see § Further reading below).
+
+See also
+List of cooling baths
+Pumpable ice technology
+
+References
+Further reading
+Jonathan M. Percy; Christopher J. Moody; Laurence M. Harwood (1998). Experimental Organic Chemistry: standard and microscale. Blackwell Publishing. ISBN 978-0-632-04819-9.
+Wilfred Louis Florio Armarego; Christina Li Lin Chai (2003). Purification of Laboratory Chemicals (5th ed.). Butterworth-Heinemann. ISBN 978-0-7506-7571-0.
+Kenneth P. Fivizzani (2003). Safety in Academic Chemistry Lab, by American Chemical Society, Volume 1: Accident Prevention for College and University Students (7th ed.). American Chemical Society. ISBN 9780841238633.
+
+External links
+Carter Research Group. "Cooling Baths". Oregon State University.
+A. J. Meixner; et al. "10.5.2 Different Freezing Mixtures". University of Siegen.

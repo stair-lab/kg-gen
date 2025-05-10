@@ -1,0 +1,113 @@
+The newton-metre or newton-meter (also non-hyphenated, newton metre or newton meter; symbol N⋅m or N m) is the unit of torque (also called moment) in the International System of Units (SI). One newton-metre is equal to the torque resulting from a force of one newton applied perpendicularly to the end of a moment arm that is one metre long.
+The unit is also used less commonly as a unit of work, or energy, in which case it is equivalent to the more common and standard SI unit of energy, the joule. In this usage the metre term represents the distance travelled or displacement in the direction of the force, and not the perpendicular distance from a fulcrum (i.e. the lever arm length) as it does when used to express torque. This usage is generally discouraged, since it can lead to confusion as to whether a given quantity expressed in newton-metres is a torque or a quantity of energy. "Even though torque has the same dimension as energy (SI unit joule), the joule is never used for expressing torque".
+Newton-metres and joules are dimensionally equivalent in the sense that they have the same expression in SI base units,
+
+  
+    
+      
+        1
+        
+        
+          N
+        
+        
+          ⋅
+        
+        
+          m
+        
+        =
+        1
+        
+        
+          
+            
+              
+                kg
+              
+              
+                ⋅
+              
+              
+                
+                  m
+                
+                
+                  2
+                
+              
+            
+            
+              
+                s
+              
+              
+                2
+              
+            
+          
+        
+        
+        ,
+        
+        1
+        
+        
+          J
+        
+        =
+        1
+        
+        
+          
+            
+              
+                k
+                g
+              
+              
+                ⋅
+              
+              
+                
+                  m
+                
+                
+                  2
+                
+              
+            
+            
+              
+                s
+              
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle 1\,{\text{N}}{\cdot }\mathrm {m} =1\,{\frac {{\text{kg}}{\cdot }{\text{m}}^{2}}{{\text{s}}^{2}}}\quad ,\quad 1\,\mathrm {J} =1\,{\frac {\mathrm {kg} {\cdot }\mathrm {m} ^{2}}{\mathrm {s} ^{2}}}}
+  
+
+but are distinguished in terms of applicable kind of quantity, to avoid misunderstandings when a torque is mistaken for an energy or vice versa. Similar examples of dimensionally equivalent units include Pa versus J/m3, Bq versus Hz, and ohm versus ohm per square.
+
+Conversion factors
+1 kilogram-force metre = 9.80665 N⋅m
+1 newton-metre ≈ 0.73756215 pound-force-feet
+1 pound-foot ≡ 1 pound-force-foot ≈ 1.35581795 N⋅m
+1 ounce-inch ≡ 1 ounce-force-inch ≈ 7.06155181 mN⋅m (millinewton-metres)
+1 dyne-centimetre = 10−7 N⋅m
+
+See also
+Bending moment
+Spring scale
+Torque tester
+Newton-second, the derived SI unit of impulse
+
+Notes
+
+
+== References ==

@@ -1,0 +1,21 @@
+In musical composition, a sound mass or sound collective is the result of compositional techniques, in which "the importance of individual pitches" is minimized "in preference for texture, timbre, and dynamics as primary shapers of gesture and impact", obscuring "the boundary between sound and noise".
+Techniques which may create or be used with sound mass include extended techniques such as muted brass or strings, flutter tonguing, wide vibrato, extreme ranges, and glissandos as the continuum for "sound mass" moves from simultaneously sounding notes – clusters etc., towards stochastic cloud textures, and 'mass structure' compositional textures which evolve over time. In a sound mass, "the traditional concept of 'chord' or vertical 'event' [is] replaced by a shifting, iridescent fabric of sound".
+The use of "chords approaching timbres" begins with Debussy, and Edgard Varèse often carefully scored individual instrumental parts so that they would fuse into one ensemble timbre or sound mass. Explored by Charles Ives and Henry Cowell in the early part of the twentieth century, this technique also developed from the modernist tone clusters and spread to orchestral writing by the mid 1950s and 1960s. "Unlike most tonal and non-tonal linear dissonances, tone clusters are essentially static. The individual pitches are of secondary importance; it is the sound mass that is foremost." One French composer active in this period whose music takes a sound-mass approach directly influenced by both Debussy and Varèse is Maurice Ohana.
+
+Examples
+Examples can be found in Metastasis (1953–54), Pithoprakta (1955–56), and Achorripsis (1956–57), all orchestral works by Iannis Xenakis, as well as in Gesang der Jünglinge for concrete and electronic sounds (1955–56), Zeitmaße for five woodwinds (1955–56), and Gruppen for three orchestras (1955–57), by Karlheinz Stockhausen. Other composers and works include Barbara Kolb, Pauline Oliveros' Sound Patterns for chorus (1961), Norma Beecroft's From Dreams of Brass for chorus (1963–64), and Nancy Van de Vate. Beecroft "blurs individual pitches in favor of a collective timbre through the use of vocal and instrumental clusters, choral speech, narrator, and a wash of sounds from an electronic tape".
+A very early example is the opening of Jean-Féry Rebel's ballet Les Elémens (1737–38), where chaos is represented by a gradually cumulating orchestral cluster of all seven notes of the D minor scale. A later example is the third movement of Ruth Crawford Seeger's String Quartet 1931 while more recently Phill Niblock's multiple drone based music serves as an example.
+Other examples include European "textural" compositions of the fifties and sixties such as Krzysztof Penderecki's Threnody to the Victims of Hiroshima (1959) and György Ligeti's works featuring micropolyphony in works like Atmosphères (1961) and his Requiem (1963–65). Other composers with works using this technique include Henryk Górecki, Karel Husa, Witold Lutosławski, Kazimierz Serocki, Steven Stucky, and George Crumb. Sound-mass techniques also appear in the music of Monic Cecconi-Botella and Harry Freedman.
+
+See also
+Timbre recognition
+Timbral listening
+Spectral music
+Sonorism
+
+References
+Sources
+Further reading
+Kohl, Jerome (2017). Karlheinz Stockhausen: Zeitmaße. Landmarks in Music Since 1950, edited by Wyndham Thomas. Abingdon, Oxon; London; New York: Routledge. ISBN 978-0-7546-5334-9.
+Kokoras, Panayiotis (2005). Towards a Holophonic Musical Texture. In proceedings of the ICMC2005 – International Computer Music Conference. Barcelona, Spain.
+Xenakis, Iannis (1992). Formalized Music: Thought and Mathematics in Composition, second, expanded edition. Harmonologia Series No. 6. Stuyvesant, New York: Pendragon Press. ISBN 1-57647-079-2. Reprinted, Hillsdale, New York: Pendragon Press, 2001.

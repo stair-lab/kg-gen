@@ -1,0 +1,58 @@
+In photography, bracketing is the general technique of taking several shots of the same subject using different camera settings, typically with the aim of combining the images in postprocessing. Bracketing is useful and often recommended in situations that make it difficult to obtain a satisfactory image with a single shot, especially when a small variation in exposure parameters has a comparatively large effect on the resulting image. Given the time it takes to accomplish multiple shots, it is typically, but not always, used for static subjects. Autobracketing is a feature of many modern cameras. When set, it will automatically take several bracketed shots, rather than the photographer altering the settings by hand between each shot.
+
+Types of bracketing
+Exposure bracketing
+Example of exposure bracketing
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+Without further qualifications, the term bracketing usually refers to exposure bracketing: the photographer chooses to take one picture at a given exposure, one or more brighter, and one or more darker, in order to select the most satisfactory image. Technically, this can be accomplished by changing either the shutter speed or the aperture, or, with digital cameras, the ISO speed, or combinations thereof. Exposure can also be changed by altering the light level, for example using neutral-gray filters or changing the degree of illumination of the subject (e.g. artificial light, flash). Since the aim here is to alter the amount of exposure, but not otherwise the visual effect, exposure compensation for static subjects is typically performed by altering the shutter speed, for as long as this is feasible.
+
+Many professional and advanced amateur cameras, including digital cameras, can automatically shoot a bracketed series of pictures, while even the cheaper ones have a less convenient but still effective manual exposure compensation control.
+Exposure bracketing is indicated when dealing with high-contrast subjects and/or media with limited dynamic range, such as transparency film or CCD sensors in many digital cameras.
+Exposure bracketing is also used to create fade-in or fade-out effects, for example in conjunction with multi-vision slide shows, or in combination with multiple exposure or flash.
+When shooting using negative film, the person printing the pictures to paper must not compensate for the deliberately underexposed and overexposed pictures.  If a set of photos are bracketed but are then printed using automated equipment, the equipment may assume that the camera or photographer made an error and automatically "correct" the shots it determines are "improperly" done.
+Images produced using exposure bracketing are often combined in postprocessing to create a high dynamic range image that exposes different portions of the image by different amounts.
+
+Flash bracketing
+Flash bracketing is a technique of working with electronic flash, especially when used as fill flash in combination with existing light, maintaining the overall amount of exposure. The amount of light provided by the flash is varied in a bracketed series in order to find the most pleasing combination of ambient light and fill flash. If used for this purpose, flash bracketing can be differentiated from normal exposure bracketing via flash, although the usage of the term is not strict.
+Alternatively, if the amount of flash light cannot be altered easily (for example with studio flashes), it is also possible to alter the aperture instead, however, this will also affect the depth of field and ambient light exposure. If the flash to ambient light ratio is to be changed in flash bracketing using this technique, it is necessary to counter-shift the shutter speed as well in order to maintain the level of ambient light exposure, however, with focal plane shutters, this is often difficult to achieve given their limited X-sync speed - and flash techniques such as high-speed synchronization are not available with studio flashes.
+
+Depth-of-field bracketing
+DOF (Depth-of-field) bracketing comprises taking a series of pictures in stepped apertures (f-stops), while maintaining the exposure, either by counter-shifting the shutter speed or, with digital cameras, adapting the ISO speed accordingly. In the first case, it will also change the amount of motion blur in the picture. In the second case, it may visibly affect image noise and contrast.
+Combining DOF bracketing with multiple exposure, the so-called STF effect (for Smooth Trans Focus) can be achieved as implemented in the Minolta Maxxum 7's automated STF function. This closely resembles the Bokeh-pleasing optical effect of the apodization filter in the Minolta/Sony STF 135 mm f/2.8 [T4.5]'s special-purpose lens.
+
+Focus bracketing
+Focus bracketing is useful in situations with limited depth of field, such as macro photography, where one may want to make a series of exposures with different positions of the focal plane and then choose the one in which the largest portion of the subject is in focus, or combine the in-focus portions of multiple exposures digitally (focus stacking). Usually this involves the use of software with unsharp masking, a filtering algorithm that removes out-of-focus portions of each exposure. The in-focus portions are then "stacked"; combined into a single image. Focus stacking is challenging, in that the subject (as in all brackets) must stay still and that as the focal point changes, the magnification (and position) of the images change. This must then be corrected in a suitable application by transforming the image.
+
+White balance bracketing
+White balance bracketing, which is specific to digital photography, provides a way of dealing with mixed lighting by shooting several images with different white point settings, often ranging from bluish images to reddish images.
+When shooting in a camera's raw format (if supported), white balance can be arbitrarily changed in postprocessing as well, so white balance bracketing is particularly useful for reviewing different white balance settings in the field.
+In contrast to manual white balance bracketing, which requires the photographer to take multiple shots, automatic white-balance bracketing, as it is implemented in many digital cameras, requires a single exposure only.
+
+ISO bracketing
+ISO bracketing is a form of simulated exposure bracketing in which aperture and shutter speed (thus depth of field and motion blur) remain constant. The brightness levels in this case are only altered by increasing or decreasing gain, or amplification of the digital signal prior to the conversion to an image file such as a JPEG or Tag Image File Format (TIFF). This type of bracketing must be performed with the camera in Manual mode but is easy to implement simply by shooting a single properly exposed image in RAW and applying exposure compensation in post processing. This is analogous to "pushing" or "pulling" in film processing, and as in film processing, will affect the amount of "grain" or image noise.
+It is also possible to apply a type of ISO bracketing which brackets the signal gain while maintaining a constant level of brightness in the finished photograph. In this case the exposure compensation (EV value) setting remains constant while bracketing the ISO value in Av, TV, or P mode, which will have a corresponding effect on the shutter speed, aperture value, or both. This form of ISO bracketing could potentially affect not only image noise, but also depth of field and motion blur.
+In-camera automatic ISO bracketing is uncommon and therefore must usually be performed manually.
+
+See also
+Autobracketing
+Exposure fusion, to merge images of different intensities
+Focus stacking, to merge images of different foci
+
+
+== References ==

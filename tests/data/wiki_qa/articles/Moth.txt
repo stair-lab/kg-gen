@@ -1,0 +1,79 @@
+Moths are a group of insects that includes all members of the order Lepidoptera that are not butterflies. They were previously classified as suborder Heterocera, but the group is paraphyletic with respect to butterflies (suborder Rhopalocera) and neither subordinate taxon is used in modern classifications. Moths make up the vast majority of the order. There are approximately 160,000 species of moth, many of which have yet to be described. Most species of moth are nocturnal, although there are also crepuscular and diurnal species.
+
+Differences between butterflies and moths
+While the butterflies form a monophyletic group, the moths, comprising the rest of the Lepidoptera, do not. Many attempts have been made to group the superfamilies of the Lepidoptera into natural groups, most of which fail because one of the two groups is not monophyletic: Microlepidoptera and Macrolepidoptera, Heterocera and Rhopalocera, Jugatae and Frenatae, Monotrysia, and Ditrysia.
+Although the rules for distinguishing moths from butterflies are not well established, one very good guiding principle is that butterflies have thin antennae and (with the exception of the family Hedylidae) have small balls or clubs at the end of their antennae. Moth antennae are usually feathery with no ball on the end. The divisions are named by this principle: "club-antennae" (Rhopalocera) or "varied-antennae" (Heterocera). Lepidoptera first evolved during the Carboniferous period, but only evolved their characteristic proboscis alongside the rise of angiosperms in the Cretaceous period.
+
+Etymology
+The modern English word moth comes from Old English moððe (cf. Northumbrian mohðe) from Common Germanic (compare Old Norse motti, Dutch mot, and German Motte all meaning 'moth'). Its origins are possibly related to the Old English maða meaning 'maggot' or from the root of midge which until the 16th century was used mostly to indicate the larva, usually in reference to devouring clothes.
+
+Caterpillar
+Moth larvae, or caterpillars, make cocoons from which they emerge as fully grown moths with wings. Some moth caterpillars dig holes in the ground, where they live until they are ready to turn into adult moths.
+
+History
+Moths evolved long before butterflies; moth fossils have been found that may be 190 million years old. Both types of Lepidoptera are thought to have co-evolved with flowering plants, mainly because most modern species, both as adults and larvae, feed on flowering plants. One of the earliest known species that is thought to be an ancestor of moths is Archaeolepis mane. Its fossil fragments show scaled wings that are similar to caddisflies in their veining.
+
+Economics
+Significance to humans
+Some moths, particularly their caterpillars, can be major agricultural pests in many parts of the world. Examples include corn borers and bollworms. The caterpillar of the spongy moth (Lymantria dispar) causes severe damage to forests in the northeastern United States, where it is an invasive species. In temperate climates, the codling moth causes extensive damage, especially to fruit farms. In tropical and subtropical climates, the diamondback moth (Plutella xylostella) is perhaps the most serious pest of brassicaceous crops. Also in sub-Saharan Africa, the African sugarcane borer is a major pest of sugarcane, maize, and sorghum.
+Several moths in the family Tineidae are commonly regarded as pests because their larvae eat fabric such as clothes and blankets made from natural proteinaceous fibers such as wool or silk. They are less likely to eat mixed materials containing some artificial fibers. There are some reports that they may be repelled by the scent of wood from juniper and cedar, by lavender, or by other natural oils; however, many consider this unlikely to prevent infestation. Naphthalene (the chemical used in mothballs) is considered more effective, but there are concerns over its effects on human health.
+Despite being commonly thought to be undertaken by all moths, only the larvae of several moth species eat animal fibres, creating holes in articles of clothing, in particular those made of wool. Most species do not eat fabrics, and some moth adults do not even eat at all. Some, like the Luna, Polyphemus, Atlas, Promethea, cecropia, and other large moths do not have mouth parts. This is possible because they live off the food stores from when they were a caterpillar, and only live a short time as an adult (roughly a week for some species). Many species of adult moths do however eat: for instance, many will drink nectar.
+Items of fabric infested by clothes moth larvae may be treated by freezing them for several days at a temperature below −8 °C (18 °F).
+Some moths are farmed for their economic value. The most notable of these is the silkworm, the larva of the domesticated moth Bombyx mori. It is farmed for the silk with which it builds its cocoon. As of 2002, the silk industry produces more than 130 million kilograms of raw silk, worth about 250 million U.S. dollars, each year.
+Not all silk is produced by Bombyx mori. There are several species of Saturniidae that also are farmed for their silk, such as the ailanthus moth (Samia cynthia group of species), the Chinese oak silkmoth (Antheraea pernyi), the Assam silkmoth (Antheraea assamensis), and the Japanese silk moth (Antheraea yamamai).
+The larvae of many species are used as food, particularly in Africa, where they are an important source of nutrition. The mopane worm, the caterpillar of Gonimbrasia belina, from the family Saturniidae, is a significant food resource in southern Africa. Another saturniid used as food is the cavorting emperor (Usta terpsichore). In one country alone, Congo, more than 30 species of moth larvae are harvested. Some are sold not only in the local village markets, but are shipped by the ton from one country to another.
+
+Predators and parasites
+Nocturnal insectivores often feed on moths; these include some bats, some species of owls and other species of birds. Moths also are eaten by some species of lizards, amphibians, cats, dogs, rodents, and some bears. Moth larvae are vulnerable to being parasitized by Ichneumonidae.
+Baculoviruses are parasite double-stranded DNA insect viruses that are used mostly as biological control agents. They are members of the Baculoviridae, a family that is restricted to insects. Most baculovirus isolates have been obtained from insects, in particular from Lepidoptera.
+There is evidence that ultrasound in the range emitted by bats causes flying moths to make evasive maneuvers. Ultrasonic frequencies trigger a reflex action in the noctuid moth that causes it to drop a few centimeters or inches in its flight to evade attack, and tiger moths can emit clicks to foil bats' echolocation.
+The fungus Ophiocordyceps sinensis infects the larvae of many different species of moths.
+
+Ecological importance
+Moths, like butterflies, bees and other more popularly recognized pollinating insects, serve an essential role as pollinators for many flowering plants, including species that bees do not visit. Nocturnal moths fly from flower to flower to feed on nectar during the night much as their diurnal relatives do during the day. A study conducted in the UK found moths dusted with pollen from 47 different plant species, including seven species largely ignored by bees. Some studies indicate that certain species of moths, such as those belonging to the families Erebidae and Sphingidae, may be the key pollinators for some flowering plants in the Himalayan ecosystem. The roles of moths as pollinators have been studied less frequently than those of diurnal pollinators, but recent studies have established that moths are important, but often overlooked, nocturnal pollinators of a wide range of plants. Some researchers say it is likely that many plants thought to be dependent on bees for pollination also rely on moths, which have historically been less observed because they pollinate mainly at night.
+
+Attraction to light
+Moths frequently appear to circle artificial lights. The reason for this behavior (positive phototaxis) is currently unknown.
+One hypothesis is called celestial or transverse orientation. By maintaining a constant angular relationship to a bright celestial light, such as the moon, they can fly in a straight line. Celestial objects are so far away that, even after travelling great distances, the change in angle between the moth and the light source is negligible; further, the moon will always be in the upper part of the visual field, or on the horizon. When a moth encounters a much closer artificial light and uses it for navigation, the angle changes noticeably after only a short distance, in addition to being often below the horizon. The moth instinctively attempts to correct by turning toward the light, thereby causing airborne moths to come plummeting downward, and resulting in a spiral flight path that gets closer and closer to the light source.
+Studies have found that light pollution caused by increasing use of artificial lights has either led to a severe decline in moth population in some parts of the world or has severely disrupted nocturnal pollination.
+
+Noteworthy moths
+Atlas moth (Attacus atlas), one of the largest moths in the world
+Hercules moth (Coscinocera hercules), largest moth in Australia
+White witch moth (Thysania agrippina), the Lepidopteran with the longest wingspan
+Madagascan sunset moth (Chrysiridia rhipheus), considered to be one of the most impressive and beautiful Lepidoptera
+Death's-head hawkmoth (Acherontia spp.), is associated with the supernatural and evil and has been featured in art and movies
+Peppered moth (Biston betularia), the subject of a well-known study in natural selection
+Luna moth (Actias luna)
+Grease moth (Aglossa cuprina), known to have fed on the rendered fat of humans
+Emperor gum moth (Opodiphthera eucalypti)
+Polyphemus moth (Antheraea polyphemus)
+Bogong moth (Agrotis infusa), known to have been a food source for southeastern indigenous Australians
+Ornate moth (Utetheisa ornatrix), the subject of numerous behavioral studies regarding sexual selection
+
+Moth species that may cause significant economic damage
+Spongy moth (Lymantria dispar), an invasive species pest of hardwood trees in North America
+Winter moth (Operophtera brumata), an invasive species pest of hardwood trees, cranberry and blueberry in northeastern North America
+Corn earworm or cotton bollworm (Helicoverpa zea), a major agricultural pest
+Indianmeal moth (Plodia interpunctella), a major pest of grain and flour
+Codling moth (Cydia pomonella), a pest mostly of apple, pear and walnut trees
+Light brown apple moth (Epiphyas postvittana), a highly polyphagous pest
+Wax moths (Galleria mellonella, Achroia grisella), pests of bee hives
+Duponchelia fovealis, a new invasive pest of vegetables and ornamental plants in the United States
+
+Gallery
+See also
+Baculovirus
+Clothing moth
+Comparison of butterflies and moths
+List of moths
+Lepidopterism
+Pollination
+Mothman
+
+External links
+Wilkes, Benjamin (1749). The English Moths and Butterflies.
+
+References
+
+ Quotations related to Moths at Wikiquote

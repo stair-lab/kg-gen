@@ -1,0 +1,143 @@
+The Employee Retirement Income Security Act of 1974 (ERISA) (Pub. L. 93–406, 88 Stat. 829, enacted September 2, 1974, codified in part at 29 U.S.C. ch. 18) is a U.S. federal tax and labor law that establishes minimum standards for pension plans in private industry. It contains rules on the federal income tax effects of transactions associated with employee benefit plans. ERISA was enacted to protect the interests of employee benefit plan participants and their beneficiaries by:
+
+Requiring the disclosure of financial and other information concerning the plan to beneficiaries;
+Establishing standards of conduct for plan fiduciaries;
+Providing for appropriate remedies and access to the federal courts.
+ERISA is sometimes used to refer to the full body of laws that regulate employee benefit plans, which are mainly in the Internal Revenue Code and ERISA itself.
+Responsibility for interpretation and enforcement of ERISA is divided among the Department of Labor, the Department of the Treasury (particularly the Internal Revenue Service), and the Pension Benefit Guaranty Corporation.
+
+History
+In 1961, U.S. President John F. Kennedy created the President's Committee on Corporate Pension Plans. The movement for pension reform gained some momentum when the Studebaker Corporation, an automobile manufacturer, closed its plant in 1963. Its pension plan was so poorly funded that Studebaker could not afford to provide all employees with their pensions.  The company created a program in which 3,600 workers who had reached the retirement age of 60 received full pension benefits,  4,000 workers aged 40–59 who had ten years with Studebaker received lump sum payments valued at roughly 15% of the actuarial value of their pension benefits, and the remaining 2,900 workers received no pensions.
+In 1963, Senator John L. McClellan (D) of Arkansas began an investigation through the Permanent Investigations Senate Subcommittee into labor leader George Barasch, alleging misuse and diversion of $4,000,000 of union benefit funds. After three years the investigation had failed to find any wrongdoing, but had resulted in several proposed laws, including McClellan's October 12, 1965 bill setting new fiduciary standards for plan trustees. Additionally, due much in part to his "dismay" over Barasch's sole control over union benefit plan funds, Senator Jacob K. Javits (R) of New York also introduced bills in 1965 and 1967 increasing regulation of welfare and pension funds to limit the control of plan trustees and administrators and to address the funding, vesting, reporting, and disclosure issues identified by the presidential committee. His bills were opposed by business groups and labor unions, which sought to retain the flexibility they enjoyed under pre-ERISA law. Provisions from all three bills ultimately evolved into the guidelines enacted in ERISA.
+On September 12, 1972, NBC broadcast an hour-long television special, Pensions: The Broken Promise, that showed millions of Americans the consequences of poorly funded pension plans and onerous vesting requirements. In the following years, Congress held a series of public hearings on pension issues and public support for pension reform grew significantly.
+ERISA was enacted in 1974 and signed into law by President Gerald Ford on September 2, 1974, Labor Day. In the years since 1974, ERISA has been amended repeatedly.
+
+Coverage
+Pension plans
+ERISA does not require employers to establish pension plans. Likewise, as a general rule, it does not require that plans provide a minimum level of benefits. Instead, it regulates the operation of a pension plan once it has been established.
+Under ERISA, pension plans must provide for vesting of employees' pension benefits after a specified minimum number of years. ERISA requires that the employers who sponsor plans satisfy certain minimum funding requirements.
+ERISA also regulates the manner in which a pension plan may pay benefits. For example, a defined benefit plan must pay a married participant's pension as a "joint-and-survivor annuity" that provides continuing benefits to the surviving spouse unless both the participant and the spouse waive the survivor coverage.
+The Pension Benefit Guaranty Corporation was established by ERISA to provide coverage in the event that a terminated defined benefit pension plan does not have sufficient assets to provide the benefits earned by participants. Later amendments to ERISA require an employer who withdraws from participation in a multiemployer pension plan with insufficient assets to pay all participants' vested benefits to contribute the pro rata share of the plan's unfunded vested benefits liability.
+There are two main types of pension plans: defined benefit plans and defined contribution plans.  Defined benefit plans provide retirees with a certain level of benefits based on years of service, salary and other factors.  Defined contribution plans provide retirees with benefits based on the amount and investment performance of contributions made by the employee and/or employer over a number of years.
+
+Health benefit plans
+Likewise, ERISA does not require that an employer provide health insurance to its employees or retirees, but it regulates the operation of a health benefit plan if an employer chooses to establish one.
+ERISA exempts health insurance plans from various state-specific laws, particularly contract and tort law, to create federal uniformity; as of 2017, about 60% of insured employees in the US were in self-funded plans subject to ERISA. ERISA has led to tension with reforms which partner with the states, such as the Patient Protection and Affordable Care Act.
+There have been several significant amendments to ERISA concerning health benefit plans:
+
+The Consolidated Omnibus Budget Reconciliation Act of 1985 (COBRA) provides some employees and beneficiaries with the right to continue their coverage under an employer-sponsored group health benefit plan for a limited time after the occurrence of certain events that would otherwise cause termination of such coverage, such as the loss of employment.
+The Health Insurance Portability and Accountability Act of 1996 (HIPAA) prohibits a health benefit plan from refusing to cover an employee's pre-existing medical conditions in some circumstances. It also bars health benefit plans from certain types of discrimination on the basis of health status, genetic information, or disability.
+Other relevant amendments to ERISA include the Newborns' and Mothers' Health Protection Act, the Mental Health Parity Act, and the Women's Health and Cancer Rights Act.
+During the 1990s and 2000s, many employers who promised lifetime health coverage to their retirees limited or eliminated those benefits. ERISA does not provide for vesting of health care benefits in the way that employees become vested in their accrued pension benefits. Employees and retirees who were promised lifetime health coverage may be able to enforce those promises by suing the employer for breach of contract, or by challenging the right of the health benefit plan to change its plan documents to eliminate promised benefits.
+
+Pension vesting
+Before ERISA, some defined benefit pension plans required decades of service before an employee's benefit became vested. It was not unusual for a plan to provide no benefit at all to an employee who left employment before the specified retirement age (e.g. 65), regardless of the length of the employee's service.
+Under the Pension Protection Act of 2006, employer contributions made after 2006 to a defined contribution plan must become vested at 100% after three years or under a 2nd-6th year gradual-vesting schedule (20% per year beginning with the second year of service, i.e. 100% after six years).   (ref. 120 Stat. 988 of the Pension Protection Act of 2006.)  The Technical Explanation of H.R.4, of the PPA, Page 156 Vesting Rules, states that the PPA amends both the ERISA and Code.  Different rules apply with respect to employer contributions made before 2007. Employee contributions are always 100% vested. Accrued benefits under a defined benefit plan must become vested at 100% after five years or under a 3rd-7th year gradual vesting schedule (20% per year beginning with the third year of vesting service, and 100% after seven years). (ref. 26 U.S.C. 411(a)(1)(B), 29 U.S.C. 203(a)(2).)
+
+Pension funding
+ERISA established minimum funding requirements for pension plans, which includes defined benefit plans and money purchase plans but not profit sharing or stock bonus plans.
+Before the Pension Protection Act of 2006 (PPA), a defined benefit plan maintained a funding standard account, which was charged annually for the cost of benefits earned during the year and credited for employer contributions. Increases in the plan's liabilities due to benefit improvements, changes in actuarial assumptions, and any other reasons were amortized and charged to the account; decreases in the plan's liabilities were amortized and credited to the account. Every year, the employer was required to contribute the amount necessary to keep the funding standard account from falling below $0 at year-end.
+In 2008, when the PPA funding rules went into effect, single-employer pension plans no longer maintain funding standard accounts. The funding requirement under PPA is simply that a plan must stay fully funded (that is, its assets must equal or exceed its liabilities). If a plan is fully funded, the minimum required contribution is the cost of benefits earned during the year. If a plan is not fully funded, the contribution also includes the amount necessary to amortize over seven years the difference between its liabilities and its assets. Stricter rules apply to severely underfunded plans (called "at-risk status").
+The PPA has different funding requirements for multiemployer pension plans, which preserve most of the pre-PPA funding rules, including the funding standard account. Under PPA, increases and decreases in the plan's liabilities are amortized, but the amortization period for benefit improvements adopted after 2007 are shortened. As with single-employer plans, multiemployer pension plans that are significantly underfunded are subject to restrictions. The restrictions, which may limit the plan's ability to improve benefits or require the plan to reduce employees' benefits, vary depending whether a pension plan's funding status is termed "endangered", "seriously endangered", or "critical". The restrictions accompanying each deficient funding status are progressively more severe as funding status worsens.
+
+ERISA preemption
+ERISA Section 514 preempts all state laws that relate to any employee benefit plan, with certain, enumerated exceptions. The most important exceptions (i.e., state laws that survive despite the fact that they may relate to an employee benefit plan) are state insurance, banking, or securities laws, generally applicable criminal laws, and domestic relations orders that meet ERISA's qualification requirements. ERISA also does not govern public pension funds, but it is often looked to for guidance regarding fund duties in addition to state pension codes.
+A major limitation is placed on the insurance exception, known as the "deemer clause", which essentially provides that state insurance law cannot operate on employer self-funded benefit plans. The Supreme Court has created another limitation on the insurance exception, in which even a law that regulates insurance is preempted if it purports to add a remedy to a participant or beneficiary in an employee benefit plan that ERISA did not explicitly provide.
+A three-part analysis is used to decide whether ERISA preempts state law.  First, preemption is presumed if the state law "relates to" any employee benefit plan.  Second, a state law relating to an employee benefit plan may be protected from preemption under ERISA if it regulates insurance, banking, or securities. The third step of the ERISA preemption analysis concerns the "deemer" clause.  State insurance regulation may be saved only to the extent that it regulates genuine insurance companies or insurance contracts. As a result, a state may not "deem" that an employee benefit plan is an insurance plan in an effort to sidestep preemption if the benefit plan would not otherwise meet the requirements as an insurance company or contract. The "deemer" clause therefore restricts the use of the "savings" clause to conventionally insured employee benefit plans.
+The result of ERISA preemption is that the only remedy available to a covered person who has been denied benefits or dropped from coverage altogether is to seek an order from a federal judge (no jury trial is permitted) directing the Plan (in actuality the insurance company that underwrites and administers it) to pay for "medically necessary" care. If a person dies before the case can be heard, however, the claim dies with him or her, since ERISA provides no remedy for injury or wrongful death caused by the withholding of care.
+Even if benefits are improperly denied, the insurance company cannot be sued for any resulting injury or wrongful death, regardless of whether it acted in bad faith in denying benefits. Insurers operating ERISA plans enjoy several immunities not available to other types of insurance companies. ERISA preempts all conflicting state laws, including state statutes prohibiting unfair claims practices and causes of action arising under state common law for insurance bad faith. There is no right to a jury trial in ERISA benefits actions. Although Americans normally take for granted the right to testify on their behalf, plaintiffs have no right to present live testimony in ERISA bench trials, in which the judge simply reads through the documents that formed the record originally before the ERISA plan administrator and performs de novo review. Finally, punitive damages are not allowed in actions for ERISA benefits.
+It has been argued that in the case of health benefits, the effect of all of this may paradoxically have been to leave plan participants worse off than if ERISA had not been enacted.
+Many persons included among the some 26 million people presently without health care coverage in the United States are former ERISA "subscribers", insurance terminology for Plan beneficiaries, who have been denied benefits--usually on the ground that the prescribed care is not medically necessary or is "experimental"--or dropped from coverage, often because they have lost their jobs due to the very illness for which care was denied.
+Many consumer and health care advocates have called for a "restoration of the freedom of contract enforcement," to the 75% of Americans insured under these work place group plans-in effect, a repeal of the ERISA preemption. Permitting these insured persons access to customary state remedies (98% of all civil disputes are resolved in state courts) would, they contend, result in a substantial reduction in arbitrary denial of care benefits, simultaneously alleviating a major burden on state Medicaid systems and clogged federal court dockets.
+
+Hawaii Prepaid Health Care Act exemption
+ERISA contains an exemption specifically regarding the Hawaii Prepaid Health Care Act (Hawaii Revised Statutes Chapter 393), which was enacted by that state a few months before ERISA was signed into law. As a result, private employers in Hawaii are bound by the rules of that state law in addition to ERISA. The exemption also freezes the law in its original 1974 form, meaning the Hawaii legislature is not able to make non-administrative amendments without Congressional approval.
+
+Statute
+Title I: Protection of Employee Benefit Rights
+Title I protects employees' rights to their benefits. The following are some of the ways in which it achieves that goal:
+
+Participants must be provided plan summaries.
+Employers are required to report information about the plan to the Labor Department and provide it to participants upon request. The information is reported on Form 5500, which is available for public inspection.
+If a participant requests, the employer must provide the participant with a calculation of her or his accrued and vested pension benefits.
+Employers have fiduciary responsibility to the participants and to the plan.
+Certain service providers, such as investment managers, have fiduciary responsibilities to the plan.
+Certain transactions between the employer and the plan are prohibited.
+Certain transactions between fiduciary and the plan, or between the plan and certain "parties in interest" are prohibited (unless otherwise exempt).
+A pension plan is barred from investing more than 10% of its assets in employer securities.
+Title I also includes the pension funding and vesting rules described above.
+The United States Department of Labor's Employee Benefits Security Administration ("EBSA") is responsible for overseeing Title I, promulgating regulations implementing and interpreting the statute as well as conducting enforcement.  Plan fiduciaries and plan participants may also bring certain civil causes of action in Federal Court.
+
+Title II: Amendments to the Internal Revenue Code Relating to Retirement Plans
+Title II amended the Internal Revenue Code (IRC). The changes include the following:
+
+Addition of various requirements for a pension plan to be tax-favored ("qualified"), including:
+The plan must offer retirees the option of a joint-and-survivor annuity
+Plan benefits may not discriminate in favor of officers and highly paid employees
+Plans are subject to the pension funding and vesting rules described above.
+Imposition of maximum limits on the annual benefit that may be paid from a qualified defined benefit pension plan and the annual contribution that may be made to a qualified defined contribution pension plan
+The creation of individual retirement accounts (IRAs).
+Revision of rules concerning the maximum tax deduction allowed with respect to a contribution to a pension plan
+Imposition of an excise tax if the employer fails to make a required contribution to a pension plan or engages in transactions prohibited by ERISA
+
+Title III: Jurisdiction, Administration, Enforcement; Joint Pension Task Force, Etc.
+Title III outlines procedures for co-ordination between the Labor and Treasury Departments in enforcing ERISA.
+It also created the Joint Board for the Enrollment of Actuaries, which licenses actuaries to perform a variety of actuarial tasks required of pension plans under ERISA. The Joint Board administers two examinations to prospective Enrolled Actuaries. After an individual passes the two exams and completes sufficient relevant professional experience, she or he becomes an Enrolled Actuary.
+
+Title IV: Plan Termination Insurance
+Title IV created the Pension Benefit Guaranty Corporation (PBGC) to insure benefits of participants in underfunded terminated plans. It also describes the procedures that a pension plan must follow to terminate itself, and for the PBGC to initiate an involuntary termination.
+
+Single-employer plans
+Standard termination
+An employer may terminate a single-employer plan under a standard termination if the plan's assets equal or exceed its liabilities. If the assets are less than the liabilities, the employer must contribute the amount necessary to fully fund the plan. A standard termination is sometimes referred to as a voluntary termination because the employer has chosen to terminate the plan.
+In a standard termination, all accrued benefits under the plan become 100% vested. The plan must purchase annuity contracts for all participants. If the plan permits the payment of lump sums, employees may be offered the choice of a lump sum payment or an annuity.
+If any assets remain in the plan after a standard termination has been completed, the provisions of the plan control their treatment. In some plans, the excess assets revert to the employer; in other plans, the excess assets must be used to increase participants' benefits.
+
+Distress termination
+An employer may terminate a single-employer plan under a distress termination if the employer demonstrates to the PBGC that one of these conditions exists:
+
+Employer faces liquidation under bankruptcy proceedings.
+Costs of continuing the plan will make the business fail.
+Costs of continuing the plan have become unreasonably burdensome solely because of a decline in the employer's workforce.
+If the PBGC finds that a distress termination is appropriate, the plan's liabilities are calculated and compared with its assets. Depending on the difference between the two values, the termination may be treated as if it had been a standard termination or as if it had been initiated by the PBGC.
+
+Termination initiated by the PBGC
+PBGC may initiate proceedings to terminate a single-employer plan if it determines one of the following:
+
+The employer has not made its minimum required contributions to the plan.
+The plan will not be able to pay benefits when due.
+PBGC's long-term cost can be expected to be unreasonably higher if it does not terminate the plan.
+A termination initiated by the PBGC is sometimes called an involuntary termination.
+The benefits paid by the PBGC after a plan termination may be less than those promised by the employer. See Pension Benefit Guaranty Corporation for details.
+
+Multiemployer plans
+A multiemployer plan may be terminated in one of three ways:
+
+It may be amended so that participants receive no credit for future service.
+All contributing employers may withdraw from the plan or stop making contributions to it.
+It may convert into a defined contribution plan.
+
+Non-ERISA status and bankruptcy
+In 2005, the BAPCPA amended the Bankruptcy Code, by exempting most organized retirement plans, even those not subject to ERISA, and accorded them protected status, claimable as exempt property by a debtor declaring bankruptcy under the U.S. Bankruptcy Code.
+Now, most pension plans have the same protection as an ERISA anti-alienation clause giving these pensions the same protection as a spendthrift trust. The only remaining unprotected areas are the SIMPLE IRA and the SEP IRA. The SEP IRA is functionally similar to a self-settle trust, and a sound policy reason would exist to not shield SEP IRAs, but many financial planners argue that a rollover (or direct transfer) from a SEP IRA to a rollover IRA would give those funds protected status, too.
+
+Finding statutes
+Portions of ERISA are codified in various places of the United States Code, including 29 U.S.C. ch. 18, and Internal Revenue Code sections § 219 and § 408 (relating to the Individual Retirement Account) and sections § 410 through § 415, and § 4971, § 4974 and § 4975.
+A cross-reference between the sections of the ERISA law and the corresponding sections in the U.S.Code can be found at http://www.harp.org/erisaxref.htm.
+
+See also
+Bankruptcy in the United States
+Pegram v. Herdrich
+Vivien v. WorldCom
+Fifth Third Bancorp v. Dudenhoeffer
+SECURE Act of 2019
+
+References
+External links
+
+Employee Retirement Income Security Act of 1974 (PDF/details) as amended in the GPO Statute Compilations collection
+Department of Labor 2003 "interpretive bulletin," Field Assistance Bulletin 2003-3, May 19, 2003, concerning allocation of expenses in a defined contribution plan.
+Guide to ERISA rights from the United States Department of Labor
+LA Times, 21 August 2005, "The Safety Net She Believed In Was Pulled Away When She Fell" (registration required)
+List of provision numbers in the original Act, and destinations in the US Code
+Frequently Asked Questions - ERISA Governed Health and Disability Claims

@@ -1,0 +1,167 @@
+DVD-Video is a consumer video format used to store digital video on DVDs. DVD-Video was the dominant consumer home video format in most of the world in the 2000s. As of 2024, it competes with the high-definition Blu-ray Disc, while both receive competition as delivery methods by streaming services such as Netflix and Disney+. Discs using the DVD-Video specification require a DVD drive and an MPEG-2 decoder (e.g., a DVD player, or a computer DVD drive with a software DVD player). Commercial DVD movies are encoded using a combination of MPEG-2 compressed video and audio of varying formats (often multi-channel formats as described below). Typically, the data rate for DVD movies ranges from 3 to 9.5 Mbit/s, and the bit rate is usually adaptive. DVD-Video was first available in Japan on October 19, 1996 (with major releases beginning December 20, 1996), followed by a release on March 24, 1997, in the United States.
+The DVD-Video specification was created by the DVD Forum and was not publicly available. Certain information in the DVD Format Books is proprietary and confidential and Licensees and Subscribers were required to sign a non-disclosure agreement. The DVD-Video Format Book could be obtained from the DVD Format/Logo Licensing Corporation (DVD FLLC) for a fee of $5,000.  It was announced in 2024 that "on December 31, 2024, the current DVD Format/Logo License will expire. On the same date, our Licensing program, which originally started from 2000, will be terminated. There will be no new License program available and thus no License renewal is required".
+In January 2025, the DVD FLLC announced its dissolution on January 31, 2025 and the deposit of the DVD Format Books at the National Diet Library.
+
+Video data
+To record digital video, DVD-Video uses either H.262/MPEG-2 Part 2 compression at up to 9.8 Mbit/s (9,800 kbit/s) or MPEG-1 Part 2 compression at up to 1.856 Mbit/s (1,856 kbit/s). DVD-Video supports video with a bit depth of 8 bits per color, encoded as YCbCr with 4:2:0 chroma subsampling.
+The following formats are allowed for H.262/MPEG-2 Part 2 video:
+
+At a display rate of 25 frames per second, interlaced or progressive scan (commonly used in regions with 50 Hz image scanning frequency, compatible with analog 625-line PAL/SECAM):
+720 × 576 pixels (D-1 resolution, 4:3 fullscreen or 16:9 widescreen aspect ratio)
+704 × 576 pixels (4CIF resolution, 4:3)
+352 × 576 pixels (China Video Disc resolution, 4:3)
+352 × 288 pixels (CIF resolution, 4:3)
+At a display rate of 29.97 frames per second, interlaced or progressive scan (commonly used in regions with 60 Hz image scanning frequency, compatible with analog 525-line NTSC):
+720 × 480 pixels (D-1 resolution, 4:3 or 16:9)
+704 × 480 pixels (4SIF resolution, 4:3)
+352 × 480 pixels (China Video Disc resolution, 4:3)
+352 × 240 pixels (SIF resolution, 4:3)
+The following formats are allowed for MPEG-1 video:
+
+352 × 288 pixels at 25 frame/s, progressive (CIF/VCD resolution, 4:3)
+352 × 240 pixels at 29.97 frame/s, progressive (SIF/VCD resolution, 4:3)
+The MPEG-1 Part 2 format does not support interlaced video. The H.262/MPEG-2 Part 2 format supports both interlaced and progressive-scan content, and can handle different frame rates from the ones mentioned above by using pulldown. This is most commonly used to encode 23.976 frame/s content for playback at 29.97 frame/s. Pulldown can be implemented directly while the disc is mastered, by actually encoding the data on the disc at 29.97 frames/s; however, this practice is uncommon for most commercial film releases, which provide content optimized for display on progressive-scan television sets.
+Alternatively, the content can be encoded on the disc itself at one of several alternative frame rates, and use flags that identify scanning type, field order and field repeating pattern. Such flags can be added in video stream by the H.262/MPEG-2 Part 2 encoder. A DVD player uses these flags to convert progressive content into interlaced video in real time during playback, producing a signal suitable for interlaced TV sets. These flags also allow reproducing progressive content at their original, non-interlaced format when used with compatible DVD players and progressive-scan television sets.
+
+Audio data
+The audio data on a DVD movie can be Dolby Digital (AC-3), DTS, PCM, or MPEG-1 Audio Layer II (MP2) format. In countries using the PAL system standard DVD-Video releases must contain at least one audio track using the PCM, MP2, or AC-3 format, and all standard PAL players must support all three of these formats. A similar standard exists in countries using the NTSC system, though with no requirement mandating the use of or support for the MP2 format. DTS audio is optional for all players, as DTS was not part of the initial draft standard and was added later; thus, many early players are unable to play DTS audio tracks. Only PCM and DTS support 96 kHz sampling rate. Because PCM, being uncompressed, requires a lot of bandwidth and DTS is not universally supported by players, AC-3 is the most common digital audio format for DVDs, and 96 kHz is rare on a DVD. The official allowed formats for the audio tracks on a DVD-Video are:
+
+PCM: 48 kHz or 96 kHz sampling rate, 16 bit or 24 bit Linear PCM, 2 to 6 channels, up to 6,144 kbit/s; N. B. 16-bit 48 kHz 8 channel PCM is allowed by the DVD-Video specification but is not well-supported by authoring applications or players;
+AC-3: 48 kHz sampling rate, 1 to 5.1 (6) channels, up to 448 kbit/s;
+DTS: 48 kHz or 96 kHz sampling rate; channel layouts = 2.0, 2.1, 5.0, 5.1, 6.1; bitrates for 2.0 and 2.1 = 377.25 and 503.25 kbit/s, bitrates for 5.x and 6.1 = 754.5 and 1509.75 kbit/s;
+MP2: 48 kHz sampling rate, 1 to 7.1 channels, up to 912 kbit/s.
+DVDs can contain more than one channel of audio to go together with the video content, supporting a maximum of eight simultaneous audio tracks per video. This is most commonly used for different audio formats—DTS 5.1, AC-3 2.0 etc.—as well as for commentary and audio tracks in different languages.
+
+Data rate
+DVD-Video discs have a raw bitrate of 11.08 Mbit/s, with a 1.0 Mbit/s overhead, leaving a payload bitrate of 10.08 Mbit/s. Of this, up to 3.36 Mbit/s can be used for subtitles, a maximum of 10.08 Mbit/s can be split amongst audio and video, and a maximum of 9.80 Mbit/s can be used for video alone. In the case of multiple angles the data is stored interleaved, and so there is a bitrate penalty leading to a max bitrate of 8 Mbit/s per angle to compensate for additional seek time. This limit is not cumulative, so each additional angle can still have up to 8 Mbit/s of bitrate available.
+Professionally encoded videos average a bitrate of 4–5 Mbit/s with a maximum of 7–8 Mbit/s in high-action scenes. Encoding at less than the max bitrate (like this) is typically done to allow greater compatibility among players, and to help prevent buffer underruns in the case of dirty or scratched discs.
+In October 2001, aiming to improve picture quality over standard editions, Columbia TriStar Home Entertainment offered "Superbit"—a premium line of DVD-Video titles having average bitrates closer to 6 Mbit/s. Audio quality was also improved by the mandatory inclusion of both Dolby Digital and DTS 5.1 surround audio tracks. Multiple languages, angles, and extra audio tracks were eliminated to free up more space for the main title and thereby to ensure the highest data rate possible. In January 2007 the Superbit line was discontinued.
+
+Other features
+Some DVD hardware or software players may play discs whose MPEG files do not conform to the above standards; commonly this is used to support discs authored with formats such as VCD and SVCD. While VCD and CVD video is supported by the DVD standard, neither SVCD video nor VCD, CVD, or SVCD audio is compatible with the DVD standard.
+Some hardware players will also play DVD-ROMs or CD-ROMs containing "raw" MPEG video files; these are "unauthored" and lack the file and header structure that defines DVD-Video. Standard DVD-Video files contain extra information (such as the number of video tracks, chapters and links to extra features) that DVD players use to navigate the disc.
+The maximum chapters allowed per title is 99 and the maximum titles allowed per DVD is 99.
+
+File system
+Almost all DVD-Video discs use the UDF bridge format, which is a combination of the DVD MicroUDF (a subset of UDF 1.02) and ISO 9660 file systems.
+The UDF bridge format provides backwards compatibility for operating systems that support only ISO 9660. Most DVD players read the UDF filesystem from a DVD-Video disc and ignore the ISO9660 filesystem.
+
+Directory and file structure
+A DVD volume for the DVD-Video format has the following structure of directories and files:
+
+AUDIO_TS directory: empty or not present on DVD-Video discs; contains files only on DVD-Audio discs; it is also known as an Audio Title Sets directory; included on DVD-Video discs for compatibility reasons
+VIDEO_TS directory: stores all data for the DVD-Video; it is also known as a Video Title Sets directory. This directory is required to be present on a DVD-compliant disc.
+Video Manager (VMG) files:
+VIDEO_TS.IFO file: the Video Manager (VMG) information file – stores control and playback information for the entire DVD – e. g. the First Play PGC (Program Chain), locations of all Video Title Sets (VTS), table of titles, number of volumes, domains for multiple languages and regional and parental control settings, information about subtitles, audio tracks, etc. This file is required to be present on a DVD-compliant disc.
+VIDEO_TS.BUP file: the backup copy of the VIDEO_TS.IFO file. It is part of Video Manager.
+VIDEO_TS.VOB file: the first-play Video Object of the DVD-Video disc, usually a copyright notice or a menu. It is part of Video Manager. This file is not required to be present on a DVD-compliant disc.
+Video Title Set (VTS) files:
+VTS_01_0.IFO file: stores control and playback information for the Video Title Set 01—e. g. information about chapters, subtitles and audio tracks. A VTS_zz_0.IFO file (where zz is from 01 to 99) is required to be present on each VTS.
+VTS_01_0.BUP file: a backup copy of the VTS_01_0.IFO file. This file is required to be present on a DVD-compliant disc. It is part of the Video Title Set.
+VTS_01_0.VOB file: "Video Title Set 01, Video Object 0" contains the menu for this title. This file is not required to be present on a DVD-compliant disc.
+VTS_01_1.VOB file: "Video Title Set 01, Video Object 1" contains the video for this title. At least one file VTS_zz_1.VOB is required in the Video Title Set and each VTS_zz_x. DVD-Video can contain up to 99 (1–99) titles with a maximum of 10 (0–9) VOB files each. The last possible VOB file is VTS_99_9.VOB.
+… etc.
+IFO files store control and playback information – e. g. information about chapters, subtitles and audio tracks. They do not store any video or audio data or subtitles.
+BUP files are only backups of the IFO files.
+
+Domains
+Data structures recorded on a DVD-compliant disc are components of one of the four data groups called domains:
+
+First-play (FP): First Play PGC located in the VIDEO_TS.IFO file
+Video Manager (VMG): contains VIDEO_TS.IFO, VIDEO_TS.BUP and VIDEO_TS.VOB
+Video Title Set (VTS): contains VTS_zz_x.IFO, VTS_zz_x.BUP and VTS_zz_x.VOB files (where x is from 1 to 9)
+Video Title Set Menu (VTSM): uses VTS_zz_0.VOB files
+
+Container
+Video, audio, subtitle and navigation streams are multiplexed and stored on a DVD-Video disc in the VOB container format (Video Object). VOB is based on the MPEG program stream format, but with additional limitations and specifications in the private streams. The MPEG program stream has provisions for non-standard data (as AC-3, DTS, LPCM or subtitles used in VOB files) in the form of so-called private streams. VOB files are a very strict subset of the MPEG program stream standard. While all VOB files are MPEG program streams, not all MPEG program streams comply with the definition for a VOB file.
+DVD recorders can use DVD-VR or DVD+VR format instead of DVD-Video. DVD-VR format store multiplexed audiovisual content in VRO containers. VRO file is an equivalent to a collection of DVD-Video VOB files. Fragmented VRO files are not widely supported by hardware or software players and video editing software. DVD+VR standard defines a logical format for DVD-Video compliant recording on optical discs and is commonly used on DVD+R/RW media.
+
+Subtitles
+DVD-Video may also include up to 32 subtitle or subpicture tracks. Subtitles are usually offered as a visual aid for deaf and hearing impaired viewers, for displaying translated dialogue into other languages, or for displaying karaoke lyrics. They are sometimes used to present additional information about the video being played. Subtitles are stored as bitmap images and therefore can contain any arbitrary text or simple image. They are restricted to a 16-color palette, but are usually implemented with a limit of 4 colors. 16 levels of transparency are also supported to allow blending, but this is also not always implemented. The subtitle tracks are contained within the VOB file of the DVD.
+DVD-Video may also contain closed captioning material which can only be viewed on a television set with a decoder.
+
+Chapters and angles
+DVD-Video may contain chapters for easy navigation, and continuation of a partially watched film. If space permits, it is also possible to include several versions of certain scenes, called "angles". Today, the multi-angle feature is mostly used for internationalization. For example, it can be used to supply different language versions of images containing written text when subtitles would not do (e. g., the Queen's spell book in Snow White, and the scrolling text in the openings of the Star Wars films). Multiple angles have found a niche in markets such as yoga, erotica, animation (e. g. for storyboards), and live performances.
+
+Extra features
+A significant selling point of DVD-Video is that the storage capacity allows for a wide variety of extra, or bonus, features in addition to the feature film. These extra features can include
+
+audio commentary,
+documentary features (commonly about the making of the main title),
+interviews,
+deleted footage,
+outtakes,
+photo galleries,
+storyboards,
+isolated music scores,
+trivia text commentary,
+simple games,
+film shorts,
+TV spots,
+radio spots,
+theatrical trailers (which were used to promote the main title) and
+teaser trailers (advertising related movies or DVDs).
+Extra features often provide entertainment or add depth and understanding to the film. Games, bloopers, and galleries provide entertainment. Deleted scenes and alternative endings allow the audience to view additional content which was not included in a theatrical release. Directors cuts allow the audience to see how the director envisioned the main title without the constraints which are placed on a theatrical release.
+Other extras that can be included on DVDs are motion menus, still pictures, up to 32 selectable subtitles, seamless branching for multiple storylines, up to 9 camera angles, and DVD-ROM / data files that can be accessed on a computer.
+Extra features require additional storage space, which often means encoding the main title with lower than possible data rate to fit both the main title and the extras on one disc. Lower data rate may decrease visual and sound quality, which manifests itself in various compression artifacts. To maintain quality the main title and the extras may be released on several discs, or the extras may be omitted completely like in the "Superbit" line of DVDs.
+
+Restrictions
+DVD-Video has four complementary systems designed to restrict the DVD user in various ways: Macrovision, Content Scramble System (CSS), region codes, and disabled user operations (UOPs). There are also anti-ripping techniques intended to foil ripping software.
+
+Content Scramble System
+Many DVD-Video titles use Content Scramble System (CSS) encryption, which is intended to discourage people from copying the disc. Usually, users need to install software provided on the DVD or downloaded from the Internet such as MPlayer, TotalMedia Theatre, PowerDVD, VLC or WinDVD to be able to view the disc in a computer system.
+CSS does not make it difficult (any more) to copy the digital content now that a decoder (DeCSS) has been released, nor is it possible to distinguish between legal and illegal copies of a work, but CSS does restrict the playback software that may be used.
+CSS has caused major problems for the inclusion of DVD players in any open source operating systems, since open source player implementations are not officially given access to the decryption keys or license to the patents involved in CSS. Proprietary software players were also difficult to find on some platforms. However, a successful effort has been made to write a decoder by reverse engineering, resulting in DeCSS. This has led to long-running legal battles and the arrest of some of those involved in creating or distributing the DeCSS code, through the use of the controversial U.S. Digital Millennium Copyright Act (DMCA), on the grounds that such software could also be used to facilitate unauthorized copying of the data on the discs. The Videolan team, however, went on to make the libdvdcss library. Unlike DeCSS, libdvdcss can access a CSS-encrypted DVD without the need of a cracked key, thus enabling playback of such discs on opensource players without legal restraints (although DVD rippers using this library may still be subject to restrictions).
+The DMCA currently affects only the United States, however many other countries are signatories to the similar WIPO Treaty. In some countries it is not illegal to use de-scrambling software to bypass the DVD restrictions. A number of software programs have since appeared on the Web to view DVDs on a number of different platforms.
+Other measures such as anti-ripping, as well as U.S. and non-U.S. copyright law, may be used to prevent making unauthorized copies of DVDs. CSS decrypting software, or ripping software, such as DVD Decrypter, AnyDVD, MacTheRipper, and DVD Shrink allows a disc to be copied to hard disk unscrambled. Some DeCSS applications also remove Macrovision, region codes, and disabled user operations (UOPs).
+
+Anti-ripping
+After DeCSS ripping software became available, companies developed techniques to introduce errors in DVD-Video discs that do not normally affect playback and navigation of a disc, but can cause problems in software that attempts to copy the entire disc. These approaches, which are not part of the official DVD-Video specification, include Sony ARccOS Protection, Macrovision RipGuard, X-protect, ProtectDisc SecureBurn, Anaho, Fortium, and others. All of these methods have been circumvented (as might have been expected, since all standard DVD players naturally circumvent them to play and navigate the discs normally). Riplock is a feature that reduces drive noise during playback but inadvertently reduces ripping speed.
+
+Disabled user operations
+DVD-Video allows the disc to specify whether or not the user may perform any operation, such as selecting a menu, skipping chapters, forwarding or rewinding –  essentially any function on the remote control. This is known as User Operation Prohibitions, or Prohibited User Operations (UOPs or PUOs). Most DVD players respect these commands (e. g., by preventing skipping or fast-forwarding through a copyright message or an advertisement at the beginning of a disc). However, grey market players ignore UOPs and some DVD "re-authoring" software packages allow the user to produce a copy without these restrictions. The legality of these activities varies by jurisdiction and is the subject of debate. (See fair use.)
+
+Region codes
+Each DVD-Video disc contains one or more region codes, denoting the area(s) of the world in which distribution and playback are intended. The commercial DVD player specification dictates that a player must only play discs that contain its region code. In theory, this allows the motion picture studios to control the various aspects of a release (including content, date and price) on a region-by-region basis, or ensure the success of "staggered" or delayed cinema releases from country to country. For example, the British movie 28 Days Later was released on DVD in Europe several months prior to the film's release in North American movie theaters. Regional coding kept the European DVD unplayable for most North American consumers, thereby ensuring that ticket sales would be relatively unaffected. 
+In practice, many DVD players allow playback of any disc, or can be modified to do so. Entirely independent of encryption, region coding pertains to regional lockout, which originated in the video game industry.
+From a worldwide perspective regional coding may be seen as a failure. A huge percentage of players outside of North America can be easily modified (and are even sold pre-modified by e-commerce websites) to ignore the regional codes on a disc. This, coupled with the fact that almost all televisions in Europe and Australasia are capable of displaying NTSC video (at the very least, in black and white), means that consumers in these regions have a huge choice of discs. Contrary to popular belief, this practice is not illegal and in some countries that strongly support free trade it is encouraged.
+A normal DVD player can only play region-coded discs designated for the player's own particular region. However, a code-free or region-free DVD player is capable of playing DVDs from any of the six regions around the world.
+The CSS license prohibits manufacturing of DVD players that are not set to a single region by default. While the same license prohibits manufacturers from including prominent interfaces to change the region setting it does not clearly prevent them from including "hidden" menus that enable the player's region to be changed; as such, many high-end models in the U.S. include password-protected or otherwise hidden methods to enable multi-region playback. Conversely in the UK and Ireland many cheap DVD players are multi-region while more expensive systems, including the majority of home cinema systems, are preset to play only region 2 discs.
+In China, DVDs for television series are usually released in MPEG-1 video, with MP2 audio. By forgoing Dolby standards, manufacturers cut costs considerably; encoding in lower bit-rates also allows a TV series to be squeezed onto fewer discs. There is no region coding in such cases.
+There are also two additional region codes, region 7, which is reserved, and region 8, which is used exclusively for passenger transport such as airlines and cruise ships.
+
+Programming interface
+A virtual machine implemented by the DVD player runs bytecode contained on the DVD. This is used to control playback and display special effects on the menus. The instruction set is called the Virtual Machine (VM) DVD command set. There are 16 general parameter registers (GPRM) to hold temporary values and 24 system parameters (SPRM). As a result of a moderately flexible programming interface, DVD players can be used to play games, such as the DVD re-release of Dragon's Lair, along with more sophisticated and advanced games such as Scene It?, all of which can be run on standard DVD players.
+
+Players and recorders
+Modern DVD recorders often support additional disc and file formats, including DVD+/-R/RW, CD-R/RW, MP3, WMA, SVCD, JPEG, PNG, SVG, KAR and MPEG-4 (DivX/Xvid). Some also include USB ports or flash memory readers. Player prices range from as low as US$20 (£10) to as high as US$2,700 (£1,350).
+DVD drives for computers usually come with one of two kinds of Regional Playback Control (RPC), either RPC-1 or RPC-2. This is used to enforce the publisher's restrictions on what regions of the world the DVD can be played. (See Regional lockout and DVD region codes.) While open-source software DVD players allow everything, commercial ones (both standalone models and software players) come further encumbered with restrictions forbidding the viewer from skipping (or in some cases fast-forwarding) certain content such as copyright warnings or advertisements. (See User operation prohibition.)
+When DVD drives first became commercially available in 1997, they often came with special encoder/decoder cards, which were designed to pass through either the integrated video on the computer motherboard or the video card. The cards were necessary since most computers did not have sufficient processing power to handle the decoding on the discs. As CPU speeds and video card memory drastically increased in the late 1990s, in addition to software alternatives such as PowerDVD becoming readily available, the decoder cards quickly became obsolete; however, before the introduction of GPU video encoding technology (such as Intel Quick Sync Video), a proprietary MPEG2 / MPEG4 encoder card may be used.
+Video game systems with DVD-Video playback functionality include: Panasonic Q (a variation of the GameCube sold exclusively in Japan), PlayStation 2, PlayStation 3, PlayStation 4, PlayStation 5, Wii (with an unsupported hack), Xbox (additional remote required), Xbox 360, Xbox One, and Xbox Series X.
+
+Competitors and successors
+In April 2000, Sonic Solutions and Ravisent announced hDVD, a high-definition extension to DVD. However, hDVD failed to gain much popularity.
+On November 18, 2003, the Chinese news agency Xinhua reported the final standard of the Chinese government-sponsored Enhanced Versatile Disc (EVD) which is another extension of standard DVD. Shortly thereafter the development of the format was halted by a licensing dispute between Chinese companies and On2 Technologies, but on December 6, 2006, 20 Chinese electronic firms unveiled 54 prototype EVD players and announced their intention for the format to completely replace DVDs in China by 2008. However, due to a lack of sales, support for EVD was dropped by the Xinhua Bookstore in Wuhan, which was a major supporter of the format.
+
+Blu-ray Disc and HD DVD
+Two competing high-definition (HD) optical-disc formats, HD DVD and Blu-ray, were introduced in 2006. The HD DVD format, promoted by Toshiba, was backed by the DVD Forum, which voted to make it the official successor to DVD. Opposing HD DVD was the Blu-ray format, led by the Blu-ray Disc Association, which shares many members with the DVD forum.
+With HD DVD launched in March 2006 and Blu-ray launched in June of the same year, a format war started. Industry analysts likened the situation to the VHS/Betamax format war of the 1980s. At the time of their launch, consumer awareness of either high-definition format was severely limited, with the result that most consumers avoided both formats, already content with DVD. In February 2008, Toshiba capitulated, citing low demand for HD DVD and the faster growth of Blu-ray, and the inclusion of the format in the video game system PlayStation 3 (PS3), among other reasons. Toshiba ended production of their HD DVD players and discontinued promotion of the format, while the HD DVD movie release schedule concluded by June 2008.
+After HD DVD was discontinued, Blu-ray became the de facto high-definition optical disc format. However, sales figures suggest that DVD is in no immediate danger of disappearing. All standard DVDs will play on existing Blu-ray players, making the switch to Blu-ray much easier than the switch from VHS to DVD. Moreover, some labels are cutting back on Blu-ray Disc releases in favor of DVD-Video, claiming that low sales do not justify the more expensive Blu-ray Disc format. In addition, a growing number of hardware vendors are enhancing their Blu-ray players with Internet connectivity for subscription-based video downloads.
+Ultra HD Blu-ray is the latest version available, supporting 4K resolution content.
+
+CBHD
+China Blue High-definition Disc (CBHD) was introduced in September 2007. This format is based on HD DVD. While the Blu-ray format is marketed internationally, CBHDs are exclusively marketed in China.
+
+See also
+Comparison of video player software
+DVD-VR
+DVD+VR
+DVD authoring
+List of DVD authoring applications
+Superbit
+VR mode
+
+References
+External links
+
+DVD-Video information including virtual machine instruction set information.

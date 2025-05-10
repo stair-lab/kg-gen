@@ -1,0 +1,83 @@
+A proxy auto-config (PAC) file defines how web browsers and other user agents can automatically choose the appropriate proxy server (access method) for fetching a given URL.
+A PAC file contains a JavaScript function FindProxyForURL(url, host). This function returns a string with one or more access method specifications. These specifications cause the user agent to use a particular proxy server or to connect directly.
+Multiple specifications provide a fallback when a proxy fails to respond. The browser fetches this PAC file before requesting other URLs. The URL of the PAC file is either configured manually or determined automatically by the Web Proxy Auto-Discovery Protocol.
+
+Context
+Modern web browsers implement several levels of automation; users can choose the level that is appropriate to their needs. The following methods are commonly implemented:
+
+Automatic proxy selection: Specify a host-name and a port number to be used for all URLs. Most browsers allow you to specify a list of domains (such as localhost) that will bypass this proxy.
+Proxy auto-configuration (PAC): Specify the URL for a PAC file with a JavaScript function that determines the appropriate proxy for each URL. This method is more suitable for laptop users who need several different proxy configurations, or complex corporate setups with many different proxies.
+Web Proxy Auto-Discovery Protocol (WPAD): Let the browser guess the location of the PAC file through DHCP and DNS lookups.
+
+History
+The Proxy auto-config file format was originally designed by Netscape in 1996 for the Netscape Navigator 2.0 and is a text file that defines at least one JavaScript function.
+
+The PAC file
+By convention, the PAC file is normally named proxy.pac. The WPAD standard uses wpad.dat.  The .pac file is expected to contain at least one function:
+
+FindProxyForURL(url, host), with two arguments and return value in specific format:
+* url is the URL of the object
+* host is the host-name derived from that URL. Syntactically it is the same string as between :// and the first : or / after that.
+*  return "..." is a string of signatures in the following format (see examples below):
+
+To use it, a PAC file is published to a HTTP server, and client user agents are instructed to use it, either by entering the URL in the proxy connection settings of the browser or through the use of the WPAD protocol. The URL may also reference a local file as for example: file:///etc/proxy.pac.
+Even though most clients will process the script regardless of the MIME type returned in the HTTP reply, for the sake of completeness and to maximize compatibility, the HTTP server should be configured to declare the MIME type of this file to be either application/x-ns-proxy-autoconfig or application/x-javascript-config.
+There is little evidence to favor the use of one MIME type over the other. It would be, however, reasonable to assume that application/x-ns-proxy-autoconfig will be supported in more clients than application/x-javascript-config as it was defined in the original Netscape specification, the latter type coming into use more recently.
+
+Example
+A very simple example of a PAC file is:
+
+This function instructs the browser to retrieve all pages through the proxy on port 8080 of the server proxy.example.com. Should this proxy fail to respond, the browser contacts the Web-site directly, without using a proxy. The latter may fail if firewalls, or other intermediary network devices, reject requests from sources other than the proxy—a common configuration in corporate networks.
+A more complicated example demonstrates some available JavaScript functions to be used in the FindProxyForURL function:
+
+By default, the PROXY keyword means that a proxy corresponding to the protocol of the original request, be it http, https, or ftp, is used. Other supported keyword and proxy types include:
+
+SOCKS
+Use a SOCKS proxy.
+HTTP, HTTPS
+Introduced in more recent versions of Firefox. Specifies an HTTP(S) proxy.
+SOCKS4, SOCKS5
+Introduced in more recent versions of Firefox. Specifies the SOCKS protocol version.
+
+Limitations
+PAC Character-Encoding
+The encoding of PAC scripts is generally unspecified, and different browsers and network stacks have different rules for how PAC scripts may be encoded.  In general, wholly ASCII PAC scripts will work with any browser or network stack.  Mozilla Firefox 66 and later additionally supports PAC scripts encoded as UTF-8.
+
+DnsResolve
+The function dnsResolve (and similar other functions) performs a DNS lookup that can block the browser for a long time if the DNS server does not respond.
+
+myIpAddress
+The myIpAddress function has often been reported to give incorrect or unusable results, e.g. 127.0.0.1, the IP address of the localhost.
+It may help to remove on the system's host file (e.g. /etc/hosts on Linux) any lines referring to the machine host-name, while the line 127.0.0.1 localhost can, and should, stay.
+
+Security
+In 2013, researchers began warning about the security risks of proxy auto-config. The threat involves using a PAC, discovered automatically by the system, to redirect the victim's browser traffic to an attacker-controlled server instead.
+Another issue with pac-file is that the typical implementation involve clear text http retrieval, which does not include any security features such as code signing or web certificates. Attackers can perform man-in-the-middle attacks easily.
+
+Old Microsoft problems
+Caching of proxy auto-configuration results by domain name in Microsoft's Internet Explorer 5.5 or newer limits the flexibility of the PAC standard. In effect, you can choose the proxy based on the domain name, but not on the path of the URL. Alternatively, you need to disable caching of proxy auto-configuration results by editing the registry.
+It is recommended to always use IP addresses instead of host domain names in the isInNet function for compatibility with other Windows components which make use of the Internet Explorer PAC configuration, such as .NET 2.0 Framework. For example,
+
+The current convention is to fail over to direct connection when a PAC file is unavailable.
+Shortly after switching between network configurations (e.g. when entering or leaving a VPN), dnsResolve may give outdated results due to DNS caching.
+For instance, Firefox usually keeps 20 domain entries cached for 60 seconds. This may be configured via the network.dnsCacheEntries and network.dnsCacheExpiration configuration variables. Flushing the system's DNS cache may also help, which can be achieved e.g. in Linux with sudo service dns-clean start or in Windows with ipconfig /flushdns.
+On Internet Explorer 9, isInNet('localHostName', 'second.ip', '255.255.255.255') returns true and can be used as a workaround.
+The myIpAddress function assumes that the device has a single IPv4 address. The results are undefined if the device has more than one IPv4 address or has IPv6 addresses.
+
+Others
+Further limitations are related to the JavaScript engine on the local machine.
+
+Advanced functionality
+More advanced PAC files can reduce load on proxies, perform load balancing, fail over, or even black/white listing before the request is sent through the network.
+One can return multiple proxies:
+
+The above will try proxy1 first and if unavailable it will then try proxy2.
+
+Notes
+References
+External links
+"Proxy Auto-Configuration (PAC) file". developer.mozilla.org. 2019-01-27.
+"Using the Client Autoconfiguration File". Netscape Proxy Server Administrator's Guide: Chapter 11. 1998-02-25. Archived from the original on 2004-08-10.
+"Chapter 26 - Using Automatic Configuration, Automatic Proxy, and Automatic Detection". Microsoft TechNet. Retrieved 2013-07-05.
+"Proxy Auto Config for Firefox (PAC). Fully working examples including anti-ad and anti-adult filter rules". 2012-05-12. Archived from the original on 2015-07-01. Retrieved 2009-05-24.
+de Boyne Pollard, Jonathan (2004). "Automatic proxy HTTP server configuration in web browsers". Frequently Given Answers. Retrieved 2013-07-05.

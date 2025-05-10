@@ -1,0 +1,131 @@
+A mnemonic device ( nə-MON-ik) or memory device is any learning technique that aids information retention or retrieval in the human memory, often by associating the information with something that is easier to remember.
+It makes use of elaborative encoding, retrieval cues and imagery as specific tools to encode information in a way that allows for efficient storage and retrieval. It aids original information in becoming associated with something more accessible or meaningful—which in turn provides better retention of the information.
+Commonly encountered mnemonics are often used for lists and in auditory form such as short poems, acronyms, initialisms or memorable phrases. They can also be used for other types of information and in visual or kinesthetic forms. Their use is based on the observation that the human mind more easily remembers spatial, personal, surprising, physical, sexual, humorous and otherwise "relatable" information rather than more abstract or impersonal forms of information.
+Ancient Greeks and Romans distinguished between two types of memory: the "natural" memory and the "artificial" memory. The former is inborn and is the one that everyone uses instinctively. The latter in contrast has to be trained and developed through the learning and practice of a variety of mnemonic techniques.
+Mnemonic systems are techniques or strategies consciously used to improve memory. They help use information already stored in long-term memory to make memorization an easier task.
+
+Etymology
+Mnemonic is derived from the Ancient Greek word μνημονικός (mnēmonikos) which means 'of memory' or 'relating to memory'. It is related to Mnemosyne, the name of the goddess of memory in Greek mythology. Both of these words are derived from μνήμη (mnēmē), 'remembrance, memory'. Mnemonics in antiquity were most often considered in the context of what is today known as the art of memory.
+
+History
+The general name of mnemonics, or memoria technica, was the name applied to devices for aiding the memory, to enable the mind to reproduce a relatively unfamiliar idea, and especially a series of dissociated ideas, by connecting it, or them, in some artificial whole, the parts of which are mutually suggestive. Mnemonic devices were much cultivated by Greek sophists and philosophers and are frequently referred to by Plato and Aristotle.
+Philosopher Charmadas was famous for his outstanding memory and for his ability to memorize whole books and then recite them.
+In later times, the poet Simonides was credited for development of these techniques, perhaps for no reason other than that the power of his memory was famous. Cicero, who attaches considerable importance to the art, but more to the principle of order as the best help to memory, speaks of Carneades (perhaps Charmades) of Athens and Metrodorus of Scepsis as distinguished examples of people who used well-ordered images to aid the memory. The Romans valued such helps in order to support facility in public speaking.
+The Greek and the Roman system of mnemonics was founded on the use of mental places and signs or pictures, known as "topical" mnemonics. The most usual method was to choose a large house, of which the apartments, walls, windows, statues, furniture, etc., were each associated with certain names, phrases, events or ideas, by means of symbolic pictures. To recall these, an individual had only to search over the apartments of the house until discovering the places where images had been placed by the imagination.
+
+In accordance with this system, if it were desired to fix a historic date in memory, it was localised in an imaginary town divided into a certain number of districts, each with ten houses, each house with ten rooms, and each room with a hundred quadrates or memory-places, partly on the floor, partly on the four walls, partly on the ceiling. Therefore, if it were desired to fix in the memory the date of the invention of printing (1436), an imaginary book, or some other symbol of printing, would be placed in the thirty-sixth quadrate or memory-place of the fourth room of the first house of the historic district of the town. Except that the rules of mnemonics are referred to by Martianus Capella, nothing further is known regarding the practice until the 13th century.
+Among the voluminous writings of Roger Bacon is a tractate De arte memorativa. Ramon Llull devoted special attention to mnemonics in connection with his ars generalis. The first important modification of the method of the Romans was that invented by the German poet Conrad Celtes, who, in his Epitoma in utramque Ciceronis rhetoricam cum arte memorativa nova (1492), used letters of the alphabet for associations, rather than places. About the end of the 15th century, Peter of Ravenna (b. 1448) provoked such astonishment in Italy by his mnemonic feats that he was believed by many to be a necromancer. His Phoenix artis memoriae (Venice, 1491, 4 vols.) went through as many as nine editions, the seventh being published at Cologne in 1608.
+About the end of the 16th century, Lambert Schenkel (Gazophylacium, 1610), who taught mnemonics in France, Italy and Germany, similarly surprised people with his memory. He was denounced as a sorcerer by the University of Louvain, but in 1593 he published his tractate De memoria at Douai with the sanction of that celebrated theological faculty. The most complete account of his system is given in two works by his pupil Martin Sommer, published in Venice in 1619. In 1618 John Willis (d. 1628?) published Mnemonica; sive ars reminiscendi, containing a clear statement of the principles of topical or local mnemonics. Giordano Bruno included a memoria technica in his treatise De umbris idearum, as part of his study of the ars generalis of Llull. Other writers of this period are the Florentine Publicius (1482); Johannes Romberch (1533); Hieronimo Morafiot, Ars memoriae (1602);and B. Porta, Ars reminiscendi (1602).
+In 1648 Stanislaus Mink von Wennsshein revealed what he called the "most fertile secret" in mnemonics—using consonants for figures, thus expressing numbers by words (vowels being added as required), in order to create associations more readily remembered. The philosopher Gottfried Wilhelm Leibniz adopted an alphabet very similar to that of Wennsshein for his scheme of a form of writing common to all languages.
+Wennsshein's method was adopted with slight changes afterward by the majority of subsequent "original" systems. It was modified and supplemented by Richard Grey (1694–1771), a priest who published a Memoria technica in 1730. The principal part of Grey's method is briefly this:
+
+To remember anything in history, chronology, geography, etc., a word is formed, the beginning whereof, being the first syllable or syllables of the thing sought, does, by frequent repetition, of course draw after it the latter part, which is so contrived as to give the answer. Thus, in history, the Deluge happened in the year before Christ two thousand three hundred forty-eight; this is signified by the word Del-etok, Del standing for Deluge and etok for 2348.Wennsshein's method is comparable to a Hebrew system by which letters also stand for numerals, and therefore words for dates.
+To assist in retaining the mnemonical words in the memory, they were formed into memorial lines. Such strange words in difficult hexameter scansion, are by no means easy to memorise. The vowel or consonant, which Grey connected with a particular figure, was chosen arbitrarily.
+A later modification was made in 1806 Gregor von Feinaigle, a German monk from Salem near Constance. While living and working in Paris, he expounded a system of mnemonics in which (as in Wennsshein) the numerical figures are represented by letters chosen due to some similarity to the figure or an accidental connection with it. This alphabet was supplemented by a complicated system of localities and signs. Feinaigle, who apparently did not publish any written documentation of this method, travelled to England in 1811. The following year one of his pupils published The New Art of Memory (1812), giving Feinaigle's system. In addition, it contains valuable historical material about previous systems.
+Other mnemonists later published simplified forms, as the more complicated mnemonics were generally abandoned. Methods founded chiefly on the so-called laws of association (cf. Mental association) were taught with some success in Germany.
+
+Types
+1. Music mnemonics
+Songs and jingles can be used as a mnemonic. A common example is how children remember the alphabet by singing the ABCs. Another example are book tunes.
+2. Name mnemonics (acronym)
+The first letter of each word is combined into a new word. For example: VIBGYOR (or ROY G BIV) for the colours of the rainbow or H O M E S (Lake Huron, Lake Ontario, Lake Michigan, Lake Erie, Lake Superior) for the Great Lakes.
+3. Acrostic mnemonics
+The first letter of each word is combined to form a phrase or sentence – e.g. "Richard of York gave battle in vain" for the colours of the rainbow.
+4. Model mnemonics
+A model is used to help recall information. Applications of this method involve the use of diagrams, cycles, graphs, and flowcharts to help understand or memorize an idea. e.g. Freytag's Pyramid to show the different parts of a five-act dramatic structure.
+5. Ode mnemonics
+The information is placed into a poem or doggerel, – e.g. "Note socer, gener, liberi, and Liber god of revelry, like puer these retain the 'e'" (most Latin nouns of the second declension ending in -er drop the -e in all of the oblique cases except the vocative, these are the exceptions).
+6. Note organization mnemonics
+The method of note organization can be used as a memorization technique. Applications of this method involve the use of flash cards and lists. Flash cards are used by putting a question or word on one side of a paper and the answer or definition on the other side of the paper. Lists involve the organization of data from broad to detailed. e.g. Earth → Continent → Country.
+7. Image mnemonics
+The information is constructed into a picture.
+8. Connection mnemonics
+New knowledge is connected to knowledge already known.
+9. Visualization mnemonics
+Techniques such as the method of loci allow the user to create unique associations in an imagined space.
+
+Applications and examples
+A wide range of mnemonics are used for several purposes. The most commonly used mnemonics are those for lists, numerical sequences, foreign-language acquisition, and medical treatment for patients with memory deficits.
+
+For lists
+A common mnemonic technique for remembering a list is to create an easily remembered acronym. Another is to create a memorable phrase with words which share the same first letter(s) (i.e.: the same initialism) as the list members. Mnemonic techniques can be applied to most memorization of novel materials.
+
+Some common examples for first-letter mnemonics:
+
+Mnemonics for spelling mnemonic include "memory needs every method of nurturing its capacity" and "maybe not every mnemonic oozes nuisance intensely concentrated".
+To memorize the metric prefixes after giga, think of the candy, and this mnemonic. "Tangiest Pez? Yellow!" TPEZY: tera, peta, exa, zetta, yotta.
+The order of sharps in key signature notation is F, C, G, D, A, E and B, giving the mnemonic "Father Charles goes down and ends battle". The order of flats is the reverse: B♭, E♭, A♭, D♭, G♭, C♭ and F♭ ("Battle ends and down goes Charles's father").
+The colours of the rainbow in "Richard of York gave battle in vain", "Run over your granny because it's violent" or the fictional name "Roy G. Biv" (red, orange, yellow, green, blue, indigo, violet).
+The acronym HOMES for the North American Great Lakes: Huron, Ontario, Michigan, Erie, and Superior
+Electronic colour codes are remembered with a wide range of mnemonic phrases, owing to multiple colours beginning with b and g and shifts from sexist phrases once common in traditionally male-dominated professions.
+For effects of an inductor or capacitor in alternating current circuits, the phrase "Eli the iceman" or "Eli on ice" has been used by electrical engineers. With an inductor present (the symbol L indicating inductance), the peak value of voltage (E) precedes the peak value of the current (I), so E precedes I in "Eli". With a capacitor present (the symbol C indicating capacitance), the peak current leads the peak voltage, with I leading E when C is present in "ice". Another common mnemonic is "civil": in a capacitor (C) current (I) leads voltage (V), while voltage leads current in a inductor (L).
+For redox chemical reactions, where oxidation and reduction can be confused, the phrase "Leo says ger" (lose electron oxidation, gain electron reduction) or acronym "oil rig" (oxidation is losing, reduction is gaining) can be used.
+Planetary mnemonics include: "My very educated mother just served us nachos" or "my very easy method just speeds up naming planets" (Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, [Pluto]).
+The sequence of stellar classification: "Oh, be a fine girl [or guy], kiss me!" – where O, B, A, F, G, K, M are categories of stars.
+For the layers of the OSI Model: "Please do not teach students pointless acronyms" (physical, data link, network, transport, session, presentation, application).
+Taxonomy mnemonics include "Do kings play chess on funny glass stairs?" and "Do kindly please come over for green soup." (domain, kingdom, phylum, class, order, family, genus, species)
+For diatomic elements: Br I N Cl H O F (pronounced 'brinkelhoff') or "have no fear of ice cold beer".
+For adjective order in English grammar: OPSHACOM (opinion, shape, age, colour, origin, material).
+For the British English spelling of diarrhoea: "Dash in a real rush! Hurry, or else accident!"
+For the parts of the brain associated with memory: "herds of animals cause panic" (hippocampus, amygdala, cerebellum, prefrontal cortex)
+For types of memory encoding: SAVE (semantic, acoustic, and visual encoding)
+For parts of the digestive system: "mother eats squirrel guts because she is living in rural Arkansas" (mouth, esophagus, stomach, gall bladder, small intestine, large intestine, rectum, anus)
+
+For numerical sequences and mathematical operations
+Mnemonic phrases or poems can be used to encode numeric sequences by various methods, one common one is to create a new phrase in which the number of letters in each word represents the according digit of pi. For example, the first 15 digits of the mathematical constant pi (3.14159265358979) can be encoded as "Now I need a drink, alcoholic of course, after the heavy lectures involving quantum mechanics"; "Now", having 3 letters, represents the first number, 3. Piphilology is the practice dedicated to creating mnemonics for pi.
+Another is used for "calculating" the multiples of 9 up to 9 × 10 using one's fingers. Begin by holding out both hands with all fingers stretched out. Now count left to right the number of fingers that indicates the multiple. For example, to figure 9 × 4, count four fingers from the left, ending at your left-hand index finger. Bend this finger down and count the remaining fingers. Fingers to the left of the bent finger represent tens, fingers to the right are ones. There are three fingers to the left and six to the right, which indicates 9 × 4 = 36. This works for 9 × 1 up through 9 × 10.
+For remembering the rules in adding and multiplying two signed numbers, Balbuena and Buayan (2015) made the letter strategies LAUS (like signs, add; unlike signs, subtract) and LPUN (like signs, positive; unlike signs, negative), respectively.
+PUIMURI ('thresher') is a Finnish mnemonic regarding electricity: the first and last three letters can be arranged into the equations 
+  
+    
+      
+        P
+        =
+        U
+        ×
+        I
+      
+    
+    {\displaystyle P=U\times I}
+  
+ and 
+  
+    
+      
+        U
+        =
+        R
+        ×
+        I
+      
+    
+    {\displaystyle U=R\times I}
+  
+. (The letter M is ignored, which can be explained with another, politically incorrect mnemonic.)
+
+For foreign-language acquisition
+Mnemonics may be helpful in learning foreign languages, for example by transposing difficult foreign words with words in a language the learner knows already, also called "cognates" which are very common in Romance languages and other Germanic languages. A useful such technique is to find linkwords, words that have the same pronunciation in a known language as the target word, and associate them visually or auditorially with the target word.
+For example, in trying to assist the learner to remember ohel (אוהל‎), the Hebrew word for tent, the linguist Ghil'ad Zuckermann proposes the memorable sentence "Oh hell, there's a raccoon in my tent". The memorable sentence "There's a fork in Ma's leg" helps the learner remember that the Hebrew word for fork is mazleg (מזלג‎). Similarly, to remember the Hebrew word bayit (בית‎), meaning house, one can use the sentence "that's a lovely house, I'd like to buy it." The linguist Michel Thomas taught students to remember that estar is the Spanish word for to be by using the phrase "to be a star".
+Another Spanish example is by using the mnemonic "Vin Diesel Has Ten Weapons" to teach irregular command verbs in the you (tú) form. Spanish verb forms and tenses are regularly seen as the hardest part of learning the language. With a high number of verb tenses, and many verb forms that are not found in English, Spanish verbs can be hard to remember and then conjugate. The use of mnemonics has been proven to help students better learn foreign languages, and this holds true for Spanish verbs. A particularly hard verb tense to remember is command verbs. Command verbs in Spanish are conjugated differently depending on who the command is being given to. The phrase, when pronounced with a Spanish accent, is used to remember "Ven Di Sal Haz Ten Ve Pon Sé", all of the irregular Spanish command verbs in the you (tú) form. This mnemonic helps students attempting to memorize different verb tenses.
+Another technique is for learners of gendered languages to associate their mental images of words with a colour that matches the gender in the target language. An example here is to remember the Spanish word for "foot", pie, [pee-eh] with the image of a foot stepping on a pie, which then spills blue filling (blue representing the male gender of the noun in this example).
+For French verbs which use être as an auxiliary verb for compound tenses: DR and MRS VANDERTRAMPP: descendre, rester, monter, revenir, sortir, venir, arriver, naître, devenir, entrer, rentrer, tomber, retourner, aller, mourir, partir, passer.
+Masculine countries in French (le): "Neither can a breeze make a sane Japanese chilly in the USA." (les) Netherlands (Pays-Bas), Canada, Brazil (Brésil), Mexico (Mexique), Senegal, Japan (Japon), Chile (Chili), & (les) USA (États-Unis d'Amérique).
+
+For patients with memory deficits
+Mnemonics can be used in aiding patients with memory deficits that could be caused by head injuries, strokes, epilepsy, multiple sclerosis and other neurological conditions.
+In a study conducted by Doornhein and De Haan, the patients were treated with six different memory strategies including the mnemonics technique. The results concluded that there were significant improvements on the immediate and delayed subtest of the RBMT, delayed recall on the Appointments test, and relatives rating on the MAC from the patients that received mnemonics treatment. However, in the case of stroke patients, the results did not reach statistical significance.
+
+Effectiveness
+Academic study of the use of mnemonics has shown their effectiveness. In one such experiment, subjects of different ages who applied mnemonic techniques to learn novel vocabulary outperformed control groups that applied contextual learning and free-learning styles.
+Mnemonics were seen to be more effective for groups of people who struggled with or had weak long-term memory, like the elderly. Five years after a mnemonic training study, a research team followed-up 112 community-dwelling older adults, 60 years of age and over. Delayed recall of a word list was assessed prior to, and immediately following mnemonic training, and at the 5-year follow-up. Overall, there was no significant difference between word recall prior to training and that exhibited at follow-up. However, pre-training performance gains scores in performance immediately post-training and use of the mnemonic predicted performance at follow-up. Individuals who self-reported using the mnemonic exhibited the highest performance overall, with scores significantly higher than at pre-training. The findings suggest that mnemonic training has long-term benefits for some older adults, particularly those who continue to employ the mnemonic.
+This contrasts with a study from surveys of medical students that approximately only 20% frequently used mnemonic acronyms.
+In humans, the process of aging particularly affects the medial temporal lobe and hippocampus, in which the episodic memory is synthesized. The episodic memory stores information about items, objects, or features with spatiotemporal contexts. Since mnemonics aid better in remembering spatial or physical information rather than more abstract forms, its effect may vary according to a subject's age and how well the subject's medial temporal lobe and hippocampus function.
+This could be further explained by one recent study which indicates a general deficit in the memory for spatial locations in aged adults (mean age 69.7 with standard deviation of 7.4 years) compared to young adults (mean age 21.7 with standard deviation of 4.2 years). At first, the difference in target recognition was not significant.
+The researchers then divided the aged adults into two groups, aged unimpaired and aged impaired, according to a neuropsychological testing. With the aged groups split, there was an apparent deficit in target recognition in aged impaired adults compared to both young adults and aged unimpaired adults. This further supports the varying effectiveness of mnemonics in different age groups.
+Moreover, different research was done previously with the same notion, which presented with similar results to that of Reagh et al. in a verbal mnemonics discrimination task.
+Studies (notably "The Magical Number Seven, Plus or Minus Two") have suggested that the short-term memory of adult humans can hold only a limited number of items; grouping items into larger chunks such as in a mnemonic might be part of what permits the retention of a larger total amount of information in short-term memory, which in turn can aid in the creation of long-term memories.
+
+See also
+References
+External links
+ The dictionary definition of mnemonic at Wiktionary

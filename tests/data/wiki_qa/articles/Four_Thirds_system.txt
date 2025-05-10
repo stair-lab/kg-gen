@@ -1,0 +1,81 @@
+The Four Thirds System is a standard created by Olympus and Eastman Kodak for digital single-lens reflex camera (DSLR) design and development. Four Thirds refers to both the size of the image sensor (4/3") as well as the aspect ratio (4:3). The Olympus E-1 was the first Four Thirds DSLR, announced and released in 2003. In 2008, Olympus and Panasonic began publicizing the Micro Four Thirds system, a mirrorless camera system which used the same sensor size; by eliminating the reflex mirror, the Micro Four Thirds cameras were significantly smaller than the Four Thirds cameras. The first Micro Four Thirds cameras were released in 2009 and the final Four Thirds cameras were released in 2010; by that time, approximately 15 Four Thirds camera models had been released by Olympus and Panasonic in total. The Four Thirds system was quietly discontinued in 2017, six years after the final cameras were released.
+The system provides a standard that permits interoperability of digital cameras and lenses made by different manufacturers. Proponents describe it as an open standard, but companies may use it only under a non-disclosure agreement.
+Unlike older single-lens reflex (SLR) systems, Four Thirds was designed from the start for digital cameras.  Many lenses are extensively computerised, to the point that Olympus offers firmware updates for many of them. Lens design has been tailored to the requirements of digital sensors, most notably through telecentric designs. 
+The image sensor format, between those of larger SLRs using "full-frame" and APS-C sensors, and smaller point-and-shoot compact digital cameras, yields intermediate levels of cost, performance, and convenience. The size of the sensor is smaller than most DSLRs and this implies that lenses, especially telephoto lenses, can be smaller. For example, a Four Thirds lens with a 300 mm focal length would cover about the same angle of view as a 600 mm focal length lens for the 35 mm film standard, and is correspondingly more compact. Thus, the Four Thirds System has crop factor (aka focal length multiplier) of about 2, and while this enables longer focal length for greater magnification, it does not necessarily aid the manufacture of wide angle lenses.
+
+History
+Kodak and Olympus announced in February 2001 they would share digital camera technologies; Olympus committed to purchase high-resolution charge-coupled device (CCD) sensors which would be jointly developed by the two companies and manufactured by Kodak. A few months later, an internal Kodak presentation revealed that Olympus was developing a DSLR using Kodak's KAF-C5100E 5.1 megapixel 4/3" sensor, with a tentative schedule to announce the camera at the 2002 Photo Marketing Association exposition; Olympus confirmed they were developing a "concept camera" with that sensor size.
+The Four Thirds System was announced jointly by Olympus and Kodak at photokina in September 2002. The first camera was the Olympus E-1, announced on June 24, 2003, and aimed at the professional market, with shipments to commence in September. In February 2004, Olympus announced that Panasonic, Sanyo, and Sigma Corporation had joined the consortium. The second Four Thirds DSLR, the Olympus E-300, was introduced that year, without the typical protrusion on the top deck, as the designers had chosen to use a "porro finder" which had four mirrors instead of a standard pentaprism, similar to the design of the viewfinder used in the Olympus Pen F half-frame film SLR.
+In 2006, Olympus and Panasonic announced they had collaborated on the design of a new sensor, branded Live MOS, using a body design similar to that of the E-300; the result was three similar cameras, sold as the Olympus E-330, Panasonic DMC-L1, and Leica Digilux 3. Nearly all of the successive Four Thirds camera models would use sensors from Panasonic, with the sole exception of the Olympus E-400 (2006), which was equipped with a CCD but sold only in Europe.
+
+Micro Four Thirds System
+In August 2008, Olympus and Panasonic introduced a new format, Micro Four Thirds.
+The new system uses the same sensor, but removes the mirror box from the camera design. A live preview is shown on either the camera's main liquid-crystal display or via an electronic viewfinder, as in digital compact cameras. Autofocus may be accomplished via a contrast detection process using the main imager, again similar to digital compact cameras. Some Olympus and Panasonic manufactured camera bodies also feature phase detection auto focus built into the sensor. The goal of the new system was to allow for even smaller cameras, competing directly with higher-end point-and-shoot compact digital cameras and DSLRs.  The smaller flange focal distance allows for more compact normal and wide angle lenses. It also facilitates the use, with an adapter, of lenses based on other mounting systems, including many manual focus lenses from the seventies and eighties.
+In particular, Four Thirds lenses can be used on Micro Four Thirds bodies with an adapter; however, "all of the functions of the Micro Four Thirds System may not always be available."
+With the emphasis shifted to the Micro Four Thirds system, member companies began discontinuing manufacturing and support for Four Thirds system products. The final Four Thirds camera, the Olympus E-5, was released in 2010. In 2013, Olympus released the Olympus E-M1, which is a Micro Four Thirds camera with enhanced support for legacy Four Thirds lenses using on-chip phase detection autofocus. Olympus discontinued production of the Zuiko Digital lenses for Four Thirds in 2017.
+
+Design
+The standard for the lens mount is described in US Patent 6,910,814.
+
+Sensor size and aspect ratio
+The name of the system stems from the size of the image sensor used in the cameras, which is commonly referred to as a 4/3" type or 4/3 type sensor.  The common inch-based sizing system is derived from vacuum image-sensing video camera tubes, which are now obsolete.  The imaging area of a Four Thirds sensor is equal to that of a video camera tube of 4/3 inch diameter.
+
+The usual size of the sensor is 18 mm × 13.5 mm (22.5 mm diagonal), with an imaging area of 17.3 mm × 13.0 mm, giving a diagonal of 21.64 mm. The sensor's area is about 30–40% smaller than APS-C sensors used in most other DSLRs, but still around 9 times larger than the 1/2.5" sensors typically used in compact digital cameras. Incidentally, the imaging area of a Four Thirds sensor is almost identical to that of 110 film.
+The emphasis on the 4:3 image aspect ratio sets Four Thirds apart from other DSLR systems, which usually adhere to the 3:2 aspect ratio of the traditional 35mm format. However, the standard only specifies the sensor diagonal, thus Four Thirds cameras using the standard 3:2 aspect ratio would be possible; notably newer Panasonic Micro Four Thirds models even offer shooting at multiple aspect ratios while maintaining the same image diagonal.  For instance, the Panasonic GH1 uses a multi-aspect sensor designed to maximize use of the image circle at 4:3, 3:2, and 16:9; each ratio having a diagonal of 22.5 mm.
+Sensor aspect ratio influences lens design.  For example, many lenses designed by Olympus for the Four Thirds System contain internal rectangular baffles or permanently mounted "petal" lens hoods that optimise their operation for the 4:3 aspect ratio.
+In an interview John Knaur, a Senior Product Manager at Olympus, stated that "The FourThirds refers to both the size of the imager and the aspect ratio of the sensor".  He also pointed out the similarities between 4:3 and the standard printing size of 8×10 as well as medium format 6×4.5 and 6×7 cameras, thus helping explain Olympus' rationale on choosing 4:3 rather than 3:2.
+
+Advantages
+The smaller sensor size makes it possible to produce smaller, lighter camera bodies and lenses. In particular, the Four-Thirds system allows the development of compact, large aperture lenses. Lenses with equivalent field of view for larger sensor formats tend to be larger, heavier and more expensive.
+Telecentric optical path means that light hitting the sensor is traveling closer to perpendicular to the sensor, resulting in brighter corners, and improved off-center resolution, particularly on wide angle lenses.
+Because the flange focal distance is shorter than those of legacy film SLR lens mounts, such as Canon FD, Canon EF, Nikon F, Olympus OM, and Pentax K, lenses for many other SLR types may be fitted to Four Thirds cameras using simple mechanical adapter rings. Such mechanical adapter rings typically require manual setting of focus and aperture.
+
+Disadvantages
+Compared to a larger sensor with equivalent pixel count, a Four Thirds sensor gathers disproportionately less light per pixel. Not only are the individual photosites smaller, but each loses more of its total area to support circuitry and edge shading than a larger photosite would. With less captured light to work with, each photosite requires additional amplification, with associated higher noise as well as reduced dynamic range. A telecentric lens design can mitigate this problem, but the sensor remains more sensitive to the angle of incoming light, and has more pronounced image corner light falloff.
+The resolution of a sensor is often measured as the total sensor pixel count in megapixels, and this is often a primary decision-making factor in choosing a camera. Smaller sensors are tougher to manufacture with the same pixel count as larger sensors, and place a greater demand on optics, since a lens must achieve greater absolute resolving power to produce an adequate picture on a smaller sensor, compared to a larger sensor of the same pixel resolution. A smaller pixel active area reduces the averaging effect and allows a better sampling of high spatial frequencies, mitigating this problem.
+To get the same angle of view as with a larger sensor, the focal length of the lens used with a Four Thirds sensor needs to be shorter. However, to get the same depth of field and light gathering capability as with a larger sensor, the lens aperture needs to be kept constant. In other words, the focal ratio of the lens must be smaller on the Four Thirds system to give the same depth of field and image noise. Since it is more difficult to produce faster lenses (lenses with smaller focal ratios), it can be difficult or impossible to find a lens that produces as shallow a depth of field, and gathers as much light, as an equivalent lens on larger formats. For instance, a 35mm "full-frame" DSLR can match the depth of field of a Four Thirds camera by closing down the aperture by two stops; but it may be more difficult or impossible for a Four Thirds System to match the shallow depth of field of a 35mm camera using a fast lens.
+
+Differences
+Most Four Thirds cameras (notably those manufactured by Olympus) use an aspect ratio of 4:3 rather than 3:2; newer models offer cropping to 3:2, but this results in a reduced image diagonal (i.e., the effective crop factor is then 2.08).
+
+Members and products
+Four Thirds System companies
+As of the 2006 Photo Marketing Association Annual Convention and Trade Show, the Four Thirds consortium consisted of the following companies:
+
+Fuji
+Kodak
+Leica
+Olympus
+Panasonic
+Sanyo
+Sigma
+This does not imply a commitment to end user products by each company.  Historically, only Leica, Olympus, and Panasonic have produced bodies. Olympus and Leica/Panasonic have made dedicated Four Thirds lenses, and Sigma makes adapted versions of their "DC" lenses for APS-C format DSLRs.  Kodak once sold sensors to Olympus for use in their Four Thirds bodies, but the newer Olympus Four Thirds cameras used Panasonic sensors.
+
+Four Thirds System cameras
+The majority of Four Thirds System cameras and Four Thirds lenses are made by Olympus. Many Four Thirds cameras use "sensor-shift" in-body image stabilization, making the need for image stabilization technology in its lenses unnecessary. All Four Thirds cameras also incorporate an automatic sensor cleaning device, in which a thin glass filter in front of the sensor vibrates at 30 kHz, causing dust to fall off and adhere to a piece of sticky material below. Olympus' E-system camera bodies are noted for their inclusion of a wide range of firmware-level features and customization, good JPEG engine, and compact size. Because of the smaller format of Four Thirds, the viewfinders tend to be smaller than on comparable cameras.
+Manufacture of Four Thirds cameras came to an end after the introduction of the mirrorless Micro Four Thirds format. The models that were marketed include:
+
+Four Thirds System lenses
+The Four Thirds lens mount is specified to be a bayonet type with a flange focal distance of 38.67 mm.
+There were 41 lenses made for the Four Thirds System standard, including two that were modified and re-released in approximately 2009 with improved mechanisms but otherwise identical optics.
+Before announcing that it would stop production of Four Thirds lenses in early 2017, Olympus produced 24 lenses for the Four Thirds System under their "Zuiko Digital" brand. They are divided into three grades — Standard, High Grade and Super High Grade.  High Grade lenses have faster maximum apertures, but are significantly more expensive and larger, and the Super High Grade zooms have constant maximum aperture over the full zoom range; all but the Standard grade are weather-sealed.  Lenses within each grade cover the range from wide-angle to super telephoto. The Zuiko Digital lenses are well regarded for their consistently good optics. The following table lists all Zuiko Digital lenses available at the time Olympus stopped Four Thirds production:
+
+Olympus also made 1.4× and 2× teleconverters and an electronically coupled extension tube.
+Sigma has adapted 13 lenses for the Four Thirds System, ranging from 10 mm to 800 mm, including several for which no equivalent exists: the fast primes (30 mm f/1.4 and 50 mm f/1.4) and extreme telephoto (300–800 mm f/5.6). As of 2014 all Sigma lenses for the Four Thirds System have been discontinued.
+Leica has designed four lenses for the Four Thirds System: fast and slow normal zooms and a 14–150 mm super-zoom, all with Panasonic's image stabilization system, and an unstabilized f/1.4 25 mm prime.  These are manufactured and sold by Panasonic.
+An official list of available lenses can be found on Four-Thirds.org web site.
+As for the system itself, it was silently discontinued in favor of the Micro Four Thirds System.
+
+See also
+Lenses for SLR and DSLR cameras
+Lens mount — list of lens mounts
+Video camera tube § Size, origin of 4/3 inch sensor measurement
+
+Notes
+References
+External links
+
+Official Four Thirds System site Archived 2020-11-01 at the Wayback Machine
+Four Thirds US patent 6,910,814 Archived 2018-12-16 at the Wayback Machine; PDF version (1.7 MiB)
+Andrzej Wrotniak's pages about the Four Thirds System — includes a complete lens list
+Four Thirds User — independent site and user-community dedicated to the Four Thirds System, including Micro Four Thirds

@@ -1,0 +1,34 @@
+Letter-boxing is the practice of transferring film shot in a widescreen aspect ratio to standard-width video formats while preserving the film's original aspect ratio. The resulting video-graphic image has mattes of empty space above and below it; these mattes are part of each frame of the video signal.
+
+Etymology
+The term refers to the shape of a letter-box, a slot in a wall or door through which mail is delivered, being rectangular and wider than it is high.
+
+Early home video use
+The first use of letter-boxing in consumer video appeared with the RCA Capacitance Electronic Disc (CED) videodisc format. Initially, letter-boxing was limited to several key sequences of a film such as opening and closing credits, but was later used for entire films. The first fully letter-boxed CED release was Amarcord, and several others followed including The Long Goodbye, Monty Python and the Holy Grail and The King of Hearts. Each disc contains a label noting the use of "RCA's innovative wide-screen mastering technique".
+
+In cinema and home video
+The term "SmileBox" is a registered trademark used to describe a type of letter-boxing for Cinerama films, such as on the Blu-ray release of How the West Was Won. The image is produced by using a map projection-like technique to approximate how the picture might look if projected onto a curved Cinerama screen.
+
+On television
+Digital broadcasting allows 1.78:1 widescreen format transmissions without losing resolution, and thus widescreen is the television norm. Most television channels in Europe are broadcasting standard-definition programming in 1.78:1, while in the USA, these are down-scaled to letterbox. When using a 1.33:1 screen, it is possible to display such programming in either a letter-boxing format or in a 1.33:1 center-cut format (where the edges of the picture are lost).
+A letter-boxed 1.56:1 compromise ratio was often broadcast in analogue transmissions in European countries making the transition from 1.33:1 to 1.78:1. In addition, recent years have seen an increase of "fake" 2.40:1 letterbox mattes on television to give the impression of a cinema film, often seen in adverts, trailers or tv such as Top Gear.
+Current high-definition television systems use video displays with a wider aspect ratio than older television sets, making it easier to accurately display widescreen films. In addition to films produced for the cinema, since the late 2000s a growing majority of television programming is produced in high definition widescreen.
+On a widescreen television set, a 1.78:1 image fills the screen; however, 21:9 aspect ratio films are letter-boxed with narrow mattes. Because the 1.85:1 aspect ratio does not match the 1.78:1 aspect ratio of widescreen video, slight letter-boxing occurs. Usually, such matting of 1.85:1 film is eliminated to match the 1.78:1 aspect ratio in the image transference.
+Letterbox mattes are not necessarily black. IBM has used blue mattes for many of their TV ads, yellow mattes in their "I am Superman" Lotus ads, and green mattes in ads about efficiency & environmental sustainability. Others uses of colored mattes appear in ads from Allstate, Aleve, and Kodak among others, and in music videos such as Zebrahead's "Playmate of the Year". In other instances mattes are animated, such as in the music video for Rob Zombie's "Never Gonna Stop (The Red Red Kroovy)", and even parodied such as the final scene of the Crazy Frog Axel F music video in which Crazy Frog peeks over the matte on the lower edge of the screen with part of his hands overlapping the matte. Similar to breaking the border of a comic's panel, it is a form of breaking the fourth wall. The 2016 Ghostbusters exploited the edges for its 3D effects, with visual effects that "spilled over" into the letter-boxed areas.
+The table below shows which TV lines will contain picture information when letterbox pictures are displayed on either 1.33:1 or 1.78:1 screens.
+
+Pillar-boxing and window-boxing
+Pillar-boxing is the display of an image within a wider image frame by adding lateral mattes (vertical bars at the sides); for example, a 1.33:1 image has lateral mattes when displayed on a 16:9 aspect ratio television screen.
+An alternative to pillar-boxing is "tilt-and-scan" (like pan and scan, but vertical), horizontally matting the original 1.33:1 television images to the 1.78:1 aspect ratio. At any given moment this crops part of the top and/or bottom of the frame, hence the need for the "tilt" component. A tilt is a camera move in which the camera tilts up or down, or in this case a selection of the upper and/or lower part of the image to omit.
+Window-boxing occurs when an image appears centered in a television screen, with blank space on all four sides of the image, such as when a widescreen image that has been previously letter-boxed to fit 1.33:1 is then pillar-boxed to fit 1.78:1. It is also called "matchbox", "gutter box", and "postage stamp" display. This occurs on the DVD editions of the Star Trek films on a 1.33:1 tv when the included widescreen documentaries show footage from the original series. It is also seen in The Crocodile Hunter: Collision Course, which displays widescreen pillar-boxing with 1.85:1 scenes in a 2.40:1 frame that is subsequently letter-boxed. It is common to see window-boxed commercials on tv networks, because many commercials are shot in 1.78:1 but distributed to networks in non-widescreen, letter-boxed to fit 1.33:1.
+
+See also
+Active Format Description
+List of film formats
+Motion picture terminology
+Tor browser uses windowboxing in order to offer a simplified fingerprint.
+
+References
+External links
+
+The Widescreen and Letterbox Advocacy Page

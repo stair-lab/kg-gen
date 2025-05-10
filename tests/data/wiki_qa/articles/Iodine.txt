@@ -1,0 +1,306 @@
+Iodine is a chemical element; it has symbol I and atomic number 53. The heaviest of the stable halogens, it exists at standard conditions as a semi-lustrous, non-metallic solid that melts to form a deep violet liquid at 114 °C (237 °F), and boils to a violet gas at 184 °C (363 °F). The element was discovered by the French chemist Bernard Courtois in 1811 and was named two years later by Joseph Louis Gay-Lussac, after the Ancient Greek Ιώδης, meaning 'violet'.
+Iodine occurs in many oxidation states, including iodide (I−), iodate (IO−3), and the various periodate anions. As the heaviest essential mineral nutrient, iodine is required for the synthesis of thyroid hormones. Iodine deficiency affects about two billion people and is the leading preventable cause of intellectual disabilities.
+The dominant producers of iodine today are Chile and Japan. Due to its high atomic number and ease of attachment to organic compounds, it has also found favour as a non-toxic radiocontrast material. Because of the specificity of its uptake by the human body, radioactive isotopes of iodine can also be used to treat thyroid cancer. Iodine is also used as a catalyst in the industrial production of acetic acid and some polymers.
+It is on the World Health Organization's List of Essential Medicines.
+
+History
+In 1811, iodine was discovered by French chemist Bernard Courtois, who was born to a family of manufacturers of saltpetre (an essential component of gunpowder). At the time of the Napoleonic Wars, saltpetre was in great demand in France. Saltpetre produced from French nitre beds required sodium carbonate, which could be isolated from seaweed collected on the coasts of Normandy and Brittany. To isolate the sodium carbonate, seaweed was burned and the ashes washed with water. While investigating the cause of corrosion to the copper vessels used in the process, Courtois added an excess of sulfuric acid to the waste remaining and a cloud of violet vapour arose. He noted that the vapour crystallised on cold surfaces, forming dark black crystals. Courtois suspected that this material was a new element but lacked funding to pursue it further.
+Courtois gave samples to his friends, Charles Bernard Desormes (1777–1838) and Nicolas Clément (1779–1841), to continue research. He also gave some of the substance to chemist Joseph Louis Gay-Lussac (1778–1850), and to physicist André-Marie Ampère (1775–1836). On 29 November 1813, Desormes and Clément made Courtois' discovery public by describing the substance to a meeting of the Imperial Institut de France. On 6 December 1813, Gay-Lussac found and announced that the new substance was either an element or a compound of oxygen and he found that it is an element. Gay-Lussac suggested the name "iode" (anglicised as "iodine"), from the Ancient Greek Ιώδης (iodēs, "violet"), because of the colour of iodine vapour. Ampère had given some of his sample to British chemist Humphry Davy (1778–1829), who experimented on the substance and noted its similarity to chlorine and also found it as an element. Davy sent a letter dated 10 December to the Royal Society stating that he had identified a new element called iodine. Arguments erupted between Davy and Gay-Lussac over who identified iodine first, but both scientists found that both of them identified iodine first and also knew that Courtois is the first one to isolate the element.
+In 1873, the French medical researcher Casimir Davaine (1812–1882) discovered the antiseptic action of iodine. Antonio Grossich (1849–1926), an Istrian-born surgeon, was among the first to use sterilisation of the operative field. In 1908, he introduced tincture of iodine as a way to rapidly sterilise the human skin in the surgical field.
+In early periodic tables, iodine was often given the symbol J, for Jod, its name in German; in German texts, J is still frequently used in place of I.
+
+Properties
+Iodine is the fourth halogen, being a member of group 17 in the periodic table, below fluorine, chlorine, and bromine; since astatine and tennessine are radioactive, iodine is the heaviest stable halogen. Iodine has an electron configuration of [Kr]5s24d105p5, with the seven electrons in the fifth and outermost shell being its valence electrons. Like the other halogens, it is one electron short of a full octet and is hence an oxidising agent, reacting with many elements in order to complete its outer shell, although in keeping with periodic trends, it is the weakest oxidising agent among the stable halogens: it has the lowest electronegativity among them, just 2.66 on the Pauling scale (compare fluorine, chlorine, and bromine at 3.98, 3.16, and 2.96 respectively; astatine continues the trend with an electronegativity of 2.2). Elemental iodine hence forms diatomic molecules with chemical formula I2, where two iodine atoms share a pair of electrons in order to each achieve a stable octet for themselves; at high temperatures, these diatomic molecules reversibly dissociate a pair of iodine atoms. Similarly, the iodide anion, I−, is the strongest reducing agent among the stable halogens, being the most easily oxidised back to diatomic I2. (Astatine goes further, being indeed unstable as At− and readily oxidised to At0 or At+.)
+The halogens darken in colour as the group is descended: fluorine is a very pale yellow, chlorine is greenish-yellow, bromine is reddish-brown, and iodine is violet.
+Elemental iodine is slightly soluble in water, with one gram dissolving in 3450 mL at 20 °C and 1280 mL at 50 °C; potassium iodide may be added to increase solubility via formation of triiodide ions, among other polyiodides. Nonpolar solvents such as hexane and carbon tetrachloride provide a higher solubility. Polar solutions, such as aqueous solutions, are brown, reflecting the role of these solvents as Lewis bases; on the other hand, nonpolar solutions are violet, the color of iodine vapour. Charge-transfer complexes form when iodine is dissolved in polar solvents, hence changing the colour. Iodine is violet when dissolved in carbon tetrachloride and saturated hydrocarbons but deep brown in alcohols and amines, solvents that form charge-transfer adducts.
+The melting and boiling points of iodine are the highest among the halogens, conforming to the increasing trend down the group, since iodine has the largest electron cloud among them that is the most easily polarised, resulting in its molecules having the strongest Van der Waals interactions among the halogens. Similarly, iodine is the least volatile of the halogens, though the solid still can be observed to give off purple vapour. Due to this property iodine is commonly used to demonstrate sublimation directly from solid to gas, which gives rise to a misconception that it does not melt in atmospheric pressure. Because it has the largest atomic radius among the halogens, iodine has the lowest first ionisation energy, lowest electron affinity, lowest electronegativity and lowest reactivity of the halogens.
+
+The interhalogen bond in diiodine is the weakest of all the halogens. As such, 1% of a sample of gaseous iodine at atmospheric pressure is dissociated into iodine atoms at 575 °C. Temperatures greater than 750 °C are required for fluorine, chlorine, and bromine to dissociate to a similar extent. Most bonds to iodine are weaker than the analogous bonds to the lighter halogens. Gaseous iodine is composed of I2 molecules with an I–I bond length of 266.6 pm. The I–I bond is one of the longest single bonds known. It is even longer (271.5 pm) in solid orthorhombic crystalline iodine, which has the same crystal structure as chlorine and bromine. (The record is held by iodine's neighbour xenon: the Xe–Xe bond length is 308.71 pm.) As such, within the iodine molecule, significant electronic interactions occur with the two next-nearest neighbours of each atom, and these interactions give rise, in bulk iodine, to a shiny appearance and semiconducting properties. Iodine is a two-dimensional semiconductor with a band gap of 1.3 eV (125 kJ/mol): it is a semiconductor in the plane of its crystalline layers and an insulator in the perpendicular direction.
+
+Isotopes
+Of the forty known isotopes of iodine, only one occurs in nature, iodine-127. The others are radioactive and have half-lives too short to be primordial. As such, iodine is both monoisotopic and mononuclidic and its atomic weight is known to great precision, as it is a constant of nature.
+The longest-lived of the radioactive isotopes of iodine is iodine-129, which has a half-life of 15.7 million years, decaying via beta decay to stable xenon-129. Some iodine-129 was formed along with iodine-127 before the formation of the Solar System, but it has by now completely decayed away, making it an extinct radionuclide. Its former presence may be determined from an excess of its daughter xenon-129, but early attempts to use this characteristic to date the supernova source for elements in the Solar System are made difficult by alternative nuclear processes giving iodine-129 and by iodine's volatility at higher temperatures. Due to its mobility in the environment iodine-129 has been used to date very old groundwaters. Traces of iodine-129 still exist today, as it is also a cosmogenic nuclide, formed from cosmic ray spallation of atmospheric xenon: these traces make up 10−14 to 10−10 of all terrestrial iodine. It also occurs from open-air nuclear testing, and is not hazardous because of its very long half-life, the longest of all fission products. At the peak of thermonuclear testing in the 1960s and 1970s, iodine-129 still made up only about 10−7 of all terrestrial iodine. Excited states of iodine-127 and iodine-129 are often used in Mössbauer spectroscopy.
+The other iodine radioisotopes have much shorter half-lives, no longer than days. Some of them have medical applications involving the thyroid gland, where the iodine that enters the body is stored and concentrated. Iodine-123 has a half-life of thirteen hours and decays by electron capture to tellurium-123, emitting gamma radiation; it is used in nuclear medicine imaging, including single photon emission computed tomography (SPECT) and X-ray computed tomography (X-Ray CT) scans. Iodine-125 has a half-life of fifty-nine days, decaying by electron capture to tellurium-125 and emitting low-energy gamma radiation; the second-longest-lived iodine radioisotope, it has uses in biological assays, nuclear medicine imaging and in radiation therapy as brachytherapy to treat a number of conditions, including prostate cancer, uveal melanomas, and brain tumours. Finally, iodine-131, with a half-life of eight days, beta decays to an excited state of stable xenon-131 that then converts to the ground state by emitting gamma radiation. It is a common fission product and thus is present in high levels in radioactive fallout. It may then be absorbed through contaminated food, and will also accumulate in the thyroid. As it decays, it may cause damage to the thyroid. The primary risk from exposure to high levels of iodine-131 is the chance occurrence of radiogenic thyroid cancer in later life. Other risks include the possibility of non-cancerous growths and thyroiditis.
+Protection usually used against the negative effects of iodine-131 is by saturating the thyroid gland with stable iodine-127 in the form of potassium iodide tablets, taken daily for optimal prophylaxis. However, iodine-131 may also be used for medicinal purposes in radiation therapy for this very reason, when tissue destruction is desired after iodine uptake by the tissue. Iodine-131 is also used as a radioactive tracer.
+
+Chemistry and compounds
+Iodine is quite reactive, but it is less so than the lighter halogens, and it is a weaker oxidant. For example, it does not halogenate carbon monoxide, nitric oxide, and sulfur dioxide, which chlorine does. Many metals react with iodine. By the same token, however, since iodine has the lowest ionisation energy among the halogens and is the most easily oxidised of them, it has a more significant cationic chemistry and its higher oxidation states are rather more stable than those of bromine and chlorine, for example in iodine heptafluoride.
+
+Charge-transfer complexes
+The iodine molecule, I2, dissolves in CCl4 and aliphatic hydrocarbons to give bright violet solutions. In these solvents the absorption band maximum occurs in the 520 – 540 nm region and is assigned to a π* to σ* transition.   When I2 reacts with Lewis bases in these solvents a blue shift in I2 peak is seen and the new peak (230 – 330 nm) arises that is due to the formation of adducts, which are referred to as charge-transfer complexes.
+
+Hydrogen iodide
+The simplest compound of iodine is hydrogen iodide, HI. It is a colourless gas that reacts with oxygen to give water and iodine. Although it is useful in iodination reactions in the laboratory, it does not have large-scale industrial uses, unlike the other hydrogen halides. Commercially, it is usually made by reacting iodine with hydrogen sulfide or hydrazine:
+
+2 I2 + N2H4 H2O⟶ 4 HI + N2
+At room temperature, it is a colourless gas, like all of the hydrogen halides except hydrogen fluoride, since hydrogen cannot form strong hydrogen bonds to the large and only mildly electronegative iodine atom. It melts at −51.0 °C (−59.8 °F) and boils at −35.1 °C (−31.2 °F). It is an endothermic compound that can exothermically dissociate at room temperature, although the process is very slow unless a catalyst is present: the reaction between hydrogen and iodine at room temperature to give hydrogen iodide does not proceed to completion. The H–I bond dissociation energy is likewise the smallest of the hydrogen halides, at 295 kJ/mol.
+Aqueous hydrogen iodide is known as hydroiodic acid, which is a strong acid. Hydrogen iodide is exceptionally soluble in water: one litre of water will dissolve 425 litres of hydrogen iodide, and the saturated solution has only four water molecules per molecule of hydrogen iodide. Commercial so-called "concentrated" hydroiodic acid usually contains 48–57% HI by mass; the solution forms an azeotrope with boiling point 126.7 °C (260.1 °F) at 56.7 g HI per 100 g solution. Hence hydroiodic acid cannot be concentrated past this point by evaporation of water. Unlike gaseous hydrogen iodide, hydroiodic acid has major industrial use in the manufacture of acetic acid by the Cativa process.
+
+Other binary iodine compounds
+With the exception of the noble gases, nearly all elements on the periodic table up to einsteinium (EsI3 is known) are known to form binary compounds with iodine. Until 1990, nitrogen triiodide was only known as an ammonia adduct. Ammonia-free NI3 was found to be isolable at –196 °C but spontaneously decomposes at 0 °C. For thermodynamic reasons related to electronegativity of the elements, neutral sulfur and selenium iodides that are stable at room temperature are also nonexistent, although S2I2 and SI2 are stable up to 183 and 9 K, respectively.  As of 2022, no neutral binary selenium iodide has been unambiguously identified (at any temperature). Sulfur-iodine and selenium-iodine polyatomic cations (e.g., [S2I42+][AsF6–]2 and [Se2I42+][Sb2F11–]2) have been prepared and characterised crystallographically.
+Given the large size of the iodide anion and iodine's weak oxidising power, high oxidation states are difficult to achieve in binary iodides, the maximum known being in the pentaiodides of niobium, tantalum, and protactinium. Iodides can be made by reaction of an element or its oxide, hydroxide, or carbonate with hydroiodic acid, and then dehydrated by mildly high temperatures combined with either low pressure or anhydrous hydrogen iodide gas. These methods work best when the iodide product is stable to hydrolysis. Other syntheses include high-temperature oxidative iodination of the element with iodine or hydrogen iodide, high-temperature iodination of a metal oxide or other halide by iodine, a volatile metal halide, carbon tetraiodide, or an organic iodide. For example, molybdenum(IV) oxide reacts with aluminium(III) iodide at 230 °C to give molybdenum(II) iodide. An example involving halogen exchange is given below, involving the reaction of tantalum(V) chloride with excess aluminium(III) iodide at 400 °C to give tantalum(V) iodide:
+
+  
+    
+      
+        
+          3
+          
+          
+            TaCl
+            
+              5
+            
+            
+              
+            
+          
+          +
+          
+            
+              
+                5
+                
+                
+                  AlI
+                  
+                    3
+                  
+                  
+                    
+                  
+                
+              
+              
+                (
+                excess
+                )
+              
+            
+          
+          ⟶
+          3
+          
+          
+            TaI
+            
+              5
+            
+            
+              
+            
+          
+          +
+          5
+          
+          
+            AlCl
+            
+              3
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {3TaCl5 + {\underset {(excess)}{5AlI3}}-> 3TaI5 + 5AlCl3}}}
+  
+
+Lower iodides may be produced either through thermal decomposition or disproportionation, or by reducing the higher iodide with hydrogen or a metal, for example:
+
+  
+    
+      
+        
+          
+            TaI
+            
+              5
+            
+            
+              
+            
+          
+          
+
+          
+          +
+          Ta
+          
+            
+              →
+              
+                
+                  630
+                  
+                    
+                    
+                      ∘
+                    
+                  
+                  C
+                   
+                  ⟶
+                   
+                  575
+                  
+                    
+                    
+                      ∘
+                    
+                  
+                  C
+                
+              
+              
+                
+                  thermal gradient
+                
+              
+            
+          
+          
+            Ta
+            
+              6
+            
+            
+              
+            
+          
+          
+            I
+            
+              14
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {TaI5{}+Ta->[{\text{thermal gradient}}][{\ce {630^{\circ }C\ ->\ 575^{\circ }C}}]Ta6I14}}}
+  
+
+Most metal iodides with the metal in low oxidation states (+1 to +3) are ionic. Nonmetals tend to form covalent molecular iodides, as do metals in high oxidation states from +3 and above. Both ionic and covalent iodides are known for metals in oxidation state +3 (e.g. scandium iodide is mostly ionic, but aluminium iodide is not). Ionic iodides MIn tend to have the lowest melting and boiling points among the halides MXn of the same element, because the electrostatic forces of attraction between the cations and anions are weakest for the large iodide anion. In contrast, covalent iodides tend to instead have the highest melting and boiling points among the halides of the same element, since iodine is the most polarisable of the halogens and, having the most electrons among them, can contribute the most to van der Waals forces. Naturally, exceptions abound in intermediate iodides where one trend gives way to the other. Similarly, solubilities in water of predominantly ionic iodides (e.g. potassium and calcium) are the greatest among ionic halides of that element, while those of covalent iodides (e.g. silver) are the lowest of that element. In particular, silver iodide is very insoluble in water and its formation is often used as a qualitative test for iodine.
+
+Iodine halides
+The halogens form many binary, diamagnetic interhalogen compounds with stoichiometries XY, XY3, XY5, and XY7 (where X is heavier than Y), and iodine is no exception. Iodine forms all three possible diatomic interhalogens, a trifluoride and trichloride, as well as a pentafluoride and, exceptionally among the halogens, a heptafluoride. Numerous cationic and anionic derivatives are also characterised, such as the wine-red or bright orange compounds of ICl+2 and the dark brown or purplish black compounds of I2Cl+. Apart from these, some pseudohalides are also known, such as cyanogen iodide (ICN), iodine thiocyanate (ISCN), and iodine azide (IN3).
+
+Iodine monofluoride (IF) is unstable at room temperature and disproportionates very readily and irreversibly to iodine and iodine pentafluoride, and thus cannot be obtained pure. It can be synthesised from the reaction of iodine with fluorine gas in trichlorofluoromethane at −45 °C, with iodine trifluoride in trichlorofluoromethane at −78 °C, or with silver(I) fluoride at 0 °C. Iodine monochloride (ICl) and iodine monobromide (IBr), on the other hand, are moderately stable. The former, a volatile red-brown compound, was discovered independently by Joseph Louis Gay-Lussac and Humphry Davy in 1813–1814 not long after the discoveries of chlorine and iodine, and it mimics the intermediate halogen bromine so well that Justus von Liebig was misled into mistaking bromine (which he had found) for iodine monochloride. Iodine monochloride and iodine monobromide may be prepared simply by reacting iodine with chlorine or bromine at room temperature and purified by fractional crystallisation. Both are quite reactive and attack even platinum and gold, though not boron, carbon, cadmium, lead, zirconium, niobium, molybdenum, and tungsten. Their reaction with organic compounds depends on conditions. Iodine chloride vapour tends to chlorinate phenol and salicylic acid, since when iodine chloride undergoes homolytic fission, chlorine and iodine are produced and the former is more reactive. However, iodine chloride in carbon tetrachloride solution results in iodination being the main reaction, since now heterolytic fission of the I–Cl bond occurs and I+ attacks phenol as an electrophile. However, iodine monobromide tends to brominate phenol even in carbon tetrachloride solution because it tends to dissociate into its elements in solution, and bromine is more reactive than iodine. When liquid, iodine monochloride and iodine monobromide dissociate into I2X+ and IX−2 ions (X = Cl, Br); thus they are significant conductors of electricity and can be used as ionising solvents.
+Iodine trifluoride (IF3) is an unstable yellow solid that decomposes above −28 °C. It is thus little-known. It is difficult to produce because fluorine gas would tend to oxidise iodine all the way to the pentafluoride; reaction at low temperature with xenon difluoride is necessary. Iodine trichloride, which exists in the solid state as the planar dimer I2Cl6, is a bright yellow solid, synthesised by reacting iodine with liquid chlorine at −80 °C; caution is necessary during purification because it easily dissociates to iodine monochloride and chlorine and hence can act as a strong chlorinating agent. Liquid iodine trichloride conducts electricity, possibly indicating dissociation to ICl+2 and ICl−4 ions.
+Iodine pentafluoride (IF5), a colourless, volatile liquid, is the most thermodynamically stable iodine fluoride, and can be made by reacting iodine with fluorine gas at room temperature. It is a fluorinating agent, but is mild enough to store in glass apparatus. Again, slight electrical conductivity is present in the liquid state because of dissociation to IF+4 and IF−6. The pentagonal bipyramidal iodine heptafluoride (IF7) is an extremely powerful fluorinating agent, behind only chlorine trifluoride, chlorine pentafluoride, and bromine pentafluoride among the interhalogens: it reacts with almost all the elements even at low temperatures, fluorinates Pyrex glass to form iodine(VII) oxyfluoride (IOF5), and sets carbon monoxide on fire.
+
+Iodine oxides and oxoacids
+Iodine oxides are the most stable of all the halogen oxides, because of the strong I–O bonds resulting from the large electronegativity difference between iodine and oxygen, and they have been known for the longest time. The stable, white, hygroscopic iodine pentoxide (I2O5) has been known since its formation in 1813 by Gay-Lussac and Davy. It is most easily made by the dehydration of iodic acid (HIO3), of which it is the anhydride. It will quickly oxidise carbon monoxide completely to carbon dioxide at room temperature, and is thus a useful reagent in determining carbon monoxide concentration. It also oxidises nitrogen oxide, ethylene, and hydrogen sulfide. It reacts with sulfur trioxide and peroxydisulfuryl difluoride (S2O6F2) to form salts of the iodyl cation, [IO2]+, and is reduced by concentrated sulfuric acid to iodosyl salts involving [IO]+. It may be fluorinated by fluorine, bromine trifluoride, sulfur tetrafluoride, or chloryl fluoride, resulting iodine pentafluoride, which also reacts with iodine pentoxide, giving iodine(V) oxyfluoride, IOF3. A few other less stable oxides are known, notably I4O9 and I2O4; their structures have not been determined, but reasonable guesses are IIII(IVO3)3 and [IO]+[IO3]− respectively.
+
+More important are the four oxoacids: hypoiodous acid (HIO), iodous acid (HIO2), iodic acid (HIO3), and periodic acid (HIO4 or H5IO6). When iodine dissolves in aqueous solution, the following reactions occur:
+
+Hypoiodous acid is unstable to disproportionation. The hypoiodite ions thus formed disproportionate immediately to give iodide and iodate:
+
+Iodous acid and iodite are even less stable and exist only as a fleeting intermediate in the oxidation of iodide to iodate, if at all. Iodates are by far the most important of these compounds, which can be made by oxidising alkali metal iodides with oxygen at 600 °C and high pressure, or by oxidising iodine with chlorates. Unlike chlorates, which disproportionate very slowly to form chloride and perchlorate, iodates are stable to disproportionation in both acidic and alkaline solutions. From these, salts of most metals can be obtained. Iodic acid is most easily made by oxidation of an aqueous iodine suspension by electrolysis or fuming nitric acid. Iodate has the weakest oxidising power of the halates, but reacts the quickest.
+Many periodates are known, including not only the expected tetrahedral IO−4, but also square-pyramidal IO3−5, octahedral orthoperiodate IO5−6, [IO3(OH)3]2−, [I2O8(OH2)]4−, and I2O4−9. They are usually made by oxidising alkaline sodium iodate electrochemically (with lead(IV) oxide as the anode) or by chlorine gas:
+
+They are thermodymically and kinetically powerful oxidising agents, quickly oxidising Mn2+ to MnO−4, and cleaving glycols, α-diketones, α-ketols, α-aminoalcohols, and α-diamines. Orthoperiodate especially stabilises high oxidation states among metals because of its very high negative charge of −5. Orthoperiodic acid, H5IO6, is stable, and dehydrates at 100 °C in a vacuum to Metaperiodic acid, HIO4. Attempting to go further does not result in the nonexistent iodine heptoxide (I2O7), but rather iodine pentoxide and oxygen. Periodic acid may be protonated by sulfuric acid to give the I(OH)+6 cation, isoelectronic to Te(OH)6 and Sb(OH)−6, and giving salts with bisulfate and sulfate.
+
+Polyiodine compounds
+When iodine dissolves in strong acids, such as fuming sulfuric acid, a bright blue paramagnetic solution including I+2 cations is formed. A solid salt of the diiodine cation may be obtained by oxidising iodine with antimony pentafluoride:
+
+The salt I2Sb2F11 is dark blue, and the blue tantalum analogue I2Ta2F11 is also known. Whereas the I–I bond length in I2 is 267 pm, that in I+2 is only 256 pm as the missing electron in the latter has been removed from an antibonding orbital, making the bond stronger and hence shorter. In fluorosulfuric acid solution, deep-blue I+2 reversibly dimerises below −60 °C, forming red rectangular diamagnetic I2+4. Other polyiodine cations are not as well-characterised, including bent dark-brown or black I+3 and centrosymmetric C2h green or black I+5, known in the AsF−6 and AlCl−4 salts among others.
+The only important polyiodide anion in aqueous solution is linear triiodide, I−3. Its formation explains why the solubility of iodine in water may be increased by the addition of potassium iodide solution:
+
+Many other polyiodides may be found when solutions containing iodine and iodide crystallise, such as I−5, I−9, I2−4, and I2−8, whose salts with large, weakly polarising cations such as Cs+ may be isolated.
+
+Organoiodine compounds
+Organoiodine compounds have been fundamental in the development of organic synthesis, such as in the Hofmann elimination of amines, the Williamson ether synthesis, the Wurtz coupling reaction, and in Grignard reagents.
+The carbon–iodine bond is a common functional group that forms part of core organic chemistry; formally, these compounds may be thought of as organic derivatives of the iodide anion. The simplest organoiodine compounds, alkyl iodides, may be synthesised by the reaction of alcohols with phosphorus triiodide; these may then be used in nucleophilic substitution reactions, or for preparing Grignard reagents. The C–I bond is the weakest of all the carbon–halogen bonds due to the minuscule difference in electronegativity between carbon (2.55) and iodine (2.66). As such, iodide is the best leaving group among the halogens, to such an extent that many organoiodine compounds turn yellow when stored over time due to decomposition into elemental iodine; as such, they are commonly used in organic synthesis, because of the easy formation and cleavage of the C–I bond. They are also significantly denser than the other organohalogen compounds thanks to the high atomic weight of iodine. A few organic oxidising agents like the iodanes contain iodine in a higher oxidation state than −1, such as 2-iodoxybenzoic acid, a common reagent for the oxidation of alcohols to aldehydes, and iodobenzene dichloride (PhICl2), used for the selective chlorination of alkenes and alkynes. One of the more well-known uses of organoiodine compounds is the so-called iodoform test, where iodoform (CHI3) is produced by the exhaustive iodination of a methyl ketone (or another compound capable of being oxidised to a methyl ketone), as follows:
+
+Some drawbacks of using organoiodine compounds as compared to organochlorine or organobromine compounds is the greater expense and toxicity of the iodine derivatives, since iodine is expensive and organoiodine compounds are stronger alkylating agents. For example, iodoacetamide and iodoacetic acid denature proteins by irreversibly alkylating cysteine residues and preventing the reformation of disulfide linkages.
+Halogen exchange to produce iodoalkanes by the Finkelstein reaction is slightly complicated by the fact that iodide is a better leaving group than chloride or bromide. The difference is nevertheless small enough that the reaction can be driven to completion by exploiting the differential solubility of halide salts, or by using a large excess of the halide salt. In the classic Finkelstein reaction, an alkyl chloride or an alkyl bromide is converted to an alkyl iodide by treatment with a solution of sodium iodide in acetone. Sodium iodide is soluble in acetone and sodium chloride and sodium bromide are not. The reaction is driven toward products by mass action due to the precipitation of the insoluble salt.
+
+Occurrence and production
+Iodine is the least abundant of the stable halogens, comprising only 0.46 parts per million of Earth's crustal rocks (compare: fluorine: 544 ppm, chlorine: 126 ppm, bromine: 2.5 ppm) making it the 60th most abundant element. Iodide minerals are rare, and most deposits that are concentrated enough for economical extraction are iodate minerals instead. Examples include lautarite, Ca(IO3)2, and dietzeite, 7Ca(IO3)2·8CaCrO4. These are the minerals that occur as trace impurities in the caliche, found in Chile, whose main product is sodium nitrate. In total, they can contain at least 0.02% and at most 1% iodine by mass. Sodium iodate is extracted from the caliche and reduced to iodide by sodium bisulfite. This solution is then reacted with freshly extracted iodate, resulting in comproportionation to iodine, which may be filtered off.
+The caliche was the main source of iodine in the 19th century and continues to be important today, replacing kelp (which is no longer an economically viable source), but in the late 20th century brines emerged as a comparable source. The Japanese Minami Kantō gas field east of Tokyo and the American Anadarko Basin gas field in northwest Oklahoma are the two largest such sources. The brine is hotter than 60 °C from the depth of the source. The brine is first purified and acidified using sulfuric acid, then the iodide present is oxidised to iodine with chlorine. An iodine solution is produced, but is dilute and must be concentrated. Air is blown into the solution to evaporate the iodine, which is passed into an absorbing tower, where sulfur dioxide reduces the iodine. The hydrogen iodide (HI) is reacted with chlorine to precipitate the iodine. After filtering and purification the iodine is packed.
+
+These sources ensure that Chile and Japan are the largest producers of iodine today. Alternatively, the brine may be treated with silver nitrate to precipitate out iodine as silver iodide, which is then decomposed by reaction with iron to form metallic silver and a solution of iron(II) iodide. The iodine is then liberated by displacement with chlorine.
+
+Applications
+About half of all produced iodine goes into various organoiodine compounds, another 15% remains as the pure element, another 15% is used to form potassium iodide, and another 15% for other inorganic iodine compounds. Among the major uses of iodine compounds are catalysts, animal feed supplements, stabilisers, dyes, colourants and pigments, pharmaceutical, sanitation (from tincture of iodine), and photography; minor uses include smog inhibition, cloud seeding, and various uses in analytical chemistry.
+
+X-ray imaging
+As an element with high electron density and atomic number, iodine efficiently absorbs X-rays.  X-ray radiocontrast agents is the top application for iodine.  In this application, Organoiodine compounds are injected intravenously. This application is often in conjunction with advanced X-ray techniques such as angiography and CT scanning. At present, all water-soluble radiocontrast agents rely on iodine-containing compounds.
+Iodine absorbs X-rays with energies less than 33.3 keV due to the photoelectric effect of the innermost electrons.
+
+Biocide
+Use of iodine as a biocide represents a major application of the element, ranked 2nd by weight. Elemental iodine (I2) is used as an antiseptic in medicine. A number of water-soluble compounds, from triiodide (I3−, generated in situ by adding iodide to poorly water-soluble elemental iodine) to various iodophors, slowly decompose to release I2 when applied.
+
+Optical polarising films
+Thin-film-transistor liquid crystal displays rely on  polarisation. The liquid crystal transistor is sandwiched between two polarising films and illuminated from behind. The two films prevent light transmission unless the transistor in the middle of the sandwich rotates the light. Iodine-impregnated polymer films are used in   polarising optical components with the highest transmission and degree of polarisation.
+
+Co-catalyst
+Another significant use of iodine is as a cocatalyst for the production of acetic acid by the Monsanto and Cativa processes. In these technologies, hydroiodic acid converts the methanol feedstock into methyl iodide, which undergoes carbonylation. Hydrolysis of the resulting acetyl iodide regenerates hydroiodic acid and gives acetic acid. The majority of acetic acid is produced by these approaches.
+
+Nutrition
+Salts of iodide and iodate are used extensively in human and animal nutrition. This application reflects the status of iodide as an essential element, being required for two hormones.  The production of ethylenediamine dihydroiodide, provided as a nutritional supplement for livestock, consumes a large portion of available iodine. Iodine is a component of iodised salt. 
+A saturated solution of potassium iodide is used to treat acute thyrotoxicosis. It is also used to block uptake of iodine-131 in the thyroid gland (see isotopes section above), when this isotope is used as part of radiopharmaceuticals (such as iobenguane) that are not targeted to the thyroid or thyroid-type tissues.
+
+Others
+Inorganic iodides find specialised uses. Titanium, zirconium, hafnium, and thorium are purified by the Van Arkel–de Boer process, which involves the reversible formation of the tetraiodides of these elements. Silver iodide is a major ingredient to traditional photographic film. Thousands of kilograms of silver iodide are used annually for cloud seeding to induce rain.
+The organoiodine compound erythrosine is an important food colouring agent. Perfluoroalkyl iodides are precursors to important surfactants, such as perfluorooctanesulfonic acid.
+125I is used as the radiolabel in investigating which ligands go to which plant pattern recognition receptors (PRRs).
+An iodine based thermochemical cycle has been evaluated for hydrogen production using energy from nuclear power. The cycle has  three steps. At 120 °C (248 °F), iodine reacts with sulfur dioxide and water to give hydrogen iodide and sulfuric acid:
+
+I2 + SO2 + 2 H2O  →   2 HI + H2SO4
+After a separation stage, at 830–850 °C (1,530–1,560 °F) sulfuric acid splits in sulfur dioxide and oxygen:
+
+2 H2SO4  →   SO2 + 2 H2O + O2
+Hydrogen iodide, at 300–320 °C (572–608 °F), gives hydrogen and the initial element, iodine:
+
+2 HI  →  I2 + H2
+The yield of the cycle (ratio between lower heating value of the produced hydrogen and the consumed energy for its production, is approximately 38%. As of 2020, the cycle is not a competitive means of producing hydrogen.
+
+Spectroscopy
+The spectrum of the iodine molecule, I2, consists of (not exclusively) tens of thousands of sharp spectral lines in the wavelength range 500–700 nm. It is therefore a commonly used wavelength reference (secondary standard). By measuring with a spectroscopic Doppler-free technique while focusing on one of these lines, the hyperfine structure of the iodine molecule reveals itself. A line is now resolved such that either 15 components (from even rotational quantum numbers, Jeven), or 21 components (from odd rotational quantum numbers, Jodd) are measurable.
+Caesium iodide and thallium-doped sodium iodide are used in crystal scintillators for the detection of gamma rays. The efficiency is high and energy dispersive spectroscopy is possible, but the resolution is rather poor.
+
+Chemical analysis
+The iodide and iodate anions can be used for quantitative volumetric analysis, for example in iodometry. Iodine and starch form a blue complex, and this reaction is often used to test for either starch or iodine and as an indicator in iodometry. The iodine test for starch is still used to detect counterfeit banknotes printed on starch-containing paper.
+The iodine value is the mass of iodine in grams that is consumed by 100 grams of a chemical substance typically fats or oils. Iodine numbers are often used to determine the amount of unsaturation in fatty acids. This unsaturation is in the form of double bonds, which react with iodine compounds.
+Potassium tetraiodomercurate(II), K2HgI4, is also known as Nessler's reagent. It is once was used as a sensitive spot test for ammonia. Similarly, Mayer's reagent (potassium tetraiodomercurate(II) solution) is used as a precipitating reagent to test for alkaloids. Aqueous alkaline iodine solution is used in the iodoform test for methyl ketones.
+
+Biological role
+Iodine is an essential element for life and, at atomic number Z = 53, is the heaviest element commonly needed by living organisms. (Lanthanum and the other lanthanides, as well as tungsten with Z = 74 and uranium with Z = 92, are used by a few microorganisms.) It is required for the synthesis of the growth-regulating thyroid hormones tetraiodothyronine and triiodothyronine (T4 and T3 respectively, named after their number of iodine atoms). A deficiency of iodine leads to decreased production of T3 and T4 and a concomitant enlargement of the thyroid tissue in an attempt to obtain more iodine, causing the disease goitre. The major form of thyroid hormone in the blood is tetraiodothyronine (T4), which has a longer life than triiodothyronine (T3). In humans, the ratio of T4 to T3 released into the blood is between 14:1 and 20:1. T4 is converted to the active T3 (three to four times more potent than T4) within cells by deiodinases (5'-iodinase). These are further processed by decarboxylation and deiodination to produce iodothyronamine (T1a) and thyronamine (T0a'). All three isoforms of the deiodinases are selenium-containing enzymes; thus metallic selenium is needed for triiodothyronine and tetraiodothyronine production.
+Iodine accounts for 65% of the molecular weight of T4 and 59% of T3. Fifteen to 20 mg of iodine is concentrated in thyroid tissue and hormones, but 70% of all iodine in the body is found in other tissues, including mammary glands, eyes, gastric mucosa, thymus, cerebrospinal fluid, choroid plexus, arteries, cervix, salivary glands. During pregnancy, the placenta is able to store and accumulate iodine. In the cells of those tissues, iodine enters directly by sodium-iodide symporter (NIS). The action of iodine in mammal tissues is related to fetal and neonatal development, and in the other tissues, it is known.
+
+Dietary recommendations and intake
+The daily levels of intake recommended by the United States National Academy of Medicine are between 110 and 130 μg for infants up to 12 months, 90 μg for children up to eight years, 130 μg for children up to 13 years, 150 μg for adults, 220 μg for pregnant women and 290 μg for lactating women. The Tolerable Upper Intake Level (TUIL) for adults is 1,100 μg/day. This upper limit was assessed by analysing the effect of supplementation on thyroid-stimulating hormone.
+The European Food Safety Authority (EFSA) refers to the collective set of information as Dietary Reference Values, with Population Reference Intake (PRI) instead of RDA, and Average Requirement instead of EAR; AI and UL are defined the same as in the United States. For women and men ages 18 and older, the PRI for iodine is set at 150 μg/day; the PRI during pregnancy and lactation is 200 μg/day. For children aged 1–17 years, the PRI increases with age from 90 to 130 μg/day. These PRIs are comparable to the U.S. RDAs with the exception of that for lactation.
+The thyroid gland needs 70 μg/day of iodine to synthesise the requisite daily amounts of T4 and T3. The higher recommended daily allowance levels of iodine seem necessary for optimal function of a number of body systems, including mammary glands, gastric mucosa, salivary glands, brain cells, choroid plexus, thymus, arteries.
+Natural food sources of iodine include seafood which contains fish, seaweeds, kelp, shellfish and other foods which contain dairy products, eggs, meats, vegetables, so long as the animals ate iodine richly, and the plants are grown on iodine-rich soil. Iodised salt is fortified with potassium iodate, a salt of iodine, potassium, oxygen.
+As of 2000, the median intake of iodine from food in the United States was 240 to 300 μg/day for men and 190 to 210 μg/day for women. The general US population has adequate iodine nutrition, with lactating women and pregnant women having a mild risk of deficiency. In Japan, consumption was considered much higher, ranging between 5,280 μg/day to 13,800 μg/day from wakame and kombu that are eaten, both in the form of kombu and wakame and kombu and wakame umami extracts for soup stock and potato chips. However, new studies suggest that Japan's consumption is closer to 1,000–3,000 μg/day. The adult UL in Japan was last revised to 3,000 μg/day in 2015.
+After iodine fortification programs such as iodisation of salt have been done, some cases of iodine-induced hyperthyroidism have been observed (so-called Jod-Basedow phenomenon). The condition occurs mainly in people above 40 years of age, and the risk is higher when iodine deficiency is high and the first rise in iodine consumption is high.
+
+Deficiency
+In areas where there is little iodine in the diet, which are remote inland areas and faraway mountainous areas where no iodine rich foods are eaten, iodine deficiency gives rise to hypothyroidism, symptoms of which are extreme fatigue, goitre, mental slowing, depression, low weight gain, and low basal body temperatures. Iodine deficiency is the leading cause of preventable intellectual disability, a result that occurs primarily when babies or small children are rendered hypothyroidic by no iodine. The addition of iodine to salt has largely destroyed this problem in wealthier areas, but iodine deficiency remains a serious public health problem in poorer areas today. Iodine deficiency is also a problem in certain areas of all continents of the world. Information processing, fine motor skills, and visual problem solving are normalised by iodine repletion in iodine-deficient people.
+
+Precautions
+Toxicity
+Elemental iodine (I2) is toxic if taken orally undiluted. The lethal dose for an adult human is 30 mg/kg, which is about 2.1–2.4 grams for a human weighing 70 to 80 kg (even when experiments on rats demonstrated that these animals could survive after eating a 14000 mg/kg dose and are still living after that). Excess iodine is more cytotoxic in the presence of selenium deficiency. Iodine supplementation in selenium-deficient populations is problematic for this reason. The toxicity derives from its oxidising properties, through which it denaturates proteins (including enzymes).
+Elemental iodine is also a skin irritant. Solutions with high elemental iodine concentration, such as tincture of iodine and Lugol's solution, are capable of causing tissue damage if used in prolonged cleaning or antisepsis; similarly, liquid Povidone-iodine (Betadine) trapped against the skin resulted in chemical burns in some reported cases.
+
+Occupational exposure
+The U.S. Occupational Safety and Health Administration (OSHA) has set the legal limit (Permissible exposure limit) for iodine exposure in the workplace at 0.1 ppm (1 mg/m3) during an 8-hour workday. The National Institute for Occupational Safety and Health (NIOSH) has set a Recommended exposure limit (REL) of 0.1 ppm (1 mg/m3) during an 8-hour workday. At levels of 2 ppm, iodine is immediately dangerous to life and health.
+
+Allergic reactions
+Some people develop a hypersensitivity to products and foods containing iodine. Applications of tincture of iodine or Betadine can cause rashes, sometimes severe. Parenteral use of iodine-based contrast agents (see above) can cause reactions ranging from a mild rash to fatal anaphylaxis. Such reactions have led to the misconception (widely held, even among physicians) that some people are allergic to iodine itself; even allergies to iodine-rich foods have been so construed. In fact, there has never been a confirmed report of a true iodine allergy, as an allergy to iodine or iodine salts is biologically impossible. Hypersensitivity reactions to products and foods containing iodine are apparently related to their other molecular components; thus, a person who has demonstrated an allergy to one food or product containing iodine may not have an allergic reaction to another. Patients with various food allergies (fishes, shellfishes, eggs, milk, seaweeds, kelp, meats, vegetables, kombu, wakame) do not have an increased risk for a contrast medium hypersensitivity. The patient's allergy history is relevant.
+
+US DEA List I status
+Phosphorus reduces iodine to hydroiodic acid, which is a reagent effective for reducing ephedrine and pseudoephedrine to methamphetamine. For this reason, iodine was designated by the United States Drug Enforcement Administration as a List I precursor chemical under 21 CFR 1310.02.
+
+Notes
+References
+Bibliography
+Greenwood NN, Earnshaw A (1997). Chemistry of the Elements (2nd ed.). Butterworth-Heinemann. ISBN 978-0-08-037941-8.

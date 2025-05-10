@@ -1,0 +1,22 @@
+A pilot experiment, pilot study, pilot test or pilot project is a small-scale preliminary study conducted to evaluate feasibility, duration, cost, adverse events, and improve upon the study design prior to performance of a full-scale research project.
+
+Implementation
+Pilot experiments are frequently carried out before large-scale quantitative research, in an attempt to avoid time and money being used on an inadequately designed project. A pilot study is usually carried out on members of the relevant population. A pilot study is used to formulate the design of the full-scale experiment which then can be adjusted. The pilot study is potentially a critical insight to clinical trial design, 
+recruitment and sample size of participants, treatment testing, and statistical analysis to improve the power of testing the hypothesis of the study. Analysis from the pilot experiment can be added to the full-scale (and more expensive) experiment to improve the chances of a clear outcome.
+
+Applications
+In sociology, pilot studies can be referred to as small-scale studies that will help identify design issues before the main research is done. Although pilot experiments have a well-established tradition, their usefulness as a strategy for change has been questioned, at least in the domain of environmental management. Extrapolation from a pilot study to large scale strategy may not be assumed as possible, partly due to the exceptional resources and favorable conditions that accompany a pilot study.
+In clinical research, studies conducted in preparation for a future randomized controlled trial are known as "pilot" and "feasibility" studies, where pilot studies are a subset of feasibility studies. A feasibility study asks whether the study should proceed, and if so, how. A pilot study asks the same questions, but also has a specific design feature: in a pilot study, a future study is conducted on a smaller scale, which, if having produced positive results, may lead to a Phase I clinical trial. The use of pilot and feasibility studies to estimate treatment effect is controversial, with ongoing methodologic discussion about appropriateness.
+A checklist was published in 2016 to provide guidance on how to report pilot trials.
+In engineering, a pilot trial may be conducted to understand the design problems, learn the correct technique’s or to capture unknown requirements prior to building a prototype.  It may use prototype parts or simply samples to see which are successful and which are not, prior to more significant development effort.  A pilot can typically be differentiated from a prototype by being significantly different in build, if not in function i.e. it is not intended to be developed into the end product, but to learn how to design and build the end product successfully.
+
+See also
+Dry run (testing)
+Mass production
+Mock-up
+Pilot plant
+Proof of concept
+Prototype
+
+
+== References ==

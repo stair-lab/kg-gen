@@ -1,0 +1,38 @@
+A payment card number, primary account number (PAN), or simply a card number, is the card identifier found on payment cards, such as credit cards and debit cards, as well as stored-value cards, gift cards and other similar cards. In some situations the card number is referred to as a bank card number.  The card number is primarily a card identifier and may not directly identify the bank account number(s) to which the card is/are linked by the issuing entity. The card number prefix identifies the issuer of the card, and the digits that follow are used by the issuing entity to identify the cardholder as a customer and which is then associated by the issuing entity with the customer's designated bank accounts. In the case of stored-value type cards, the association with a particular customer is only made if the prepaid card is reloadable. Card numbers are allocated in accordance with ISO/IEC 7812. The card number is typically embossed on the front of a payment card, and is encoded on the magnetic stripe and chip, but may also be imprinted on the back of the card.
+The payment card number differs from the Business Identifier Code (BIC/ISO 9362, a normalized code—also known as Business Identifier Code, Bank International Code or SWIFT code). It also differs from Universal Payment Identification Code, another identifier for a bank account in the United States.
+
+Structure
+Payment card numbers are composed of 8 to 19 digits, The leading six or eight digits are the issuer identification number (IIN) sometimes referred to as the bank identification number (BIN).: 33  The remaining numbers, except the last digit, are the individual account identification number. The last digit is the Luhn check digit. IINs and PANs have a certain level of internal structure and share a common numbering scheme set by ISO/IEC 7812. The parts of the number are as follows:
+
+a six or eight-digit Issuer Identification Number (IIN), the first digit of which is the major industry identifier (MII)
+a variable length (up to 12 digits) individual account identifier
+a single check digit calculated using the Luhn algorithm
+
+Issuer identification number (IIN)
+The first six or eight digits of a card number (including the initial MII digit) are known as the issuer identification number (IIN). These identify the card issuing institution that issued the card to the card holder. The rest of the number is allocated by the card issuer. The card number's length is its number of digits. Many card issuers print the entire IIN and account number on their card.
+In some circumstances, the issuer identification number (IIN) or bank identification number (BIN) may not be licensed directly from the issuing network (such as Mastercard or Visa). Obtaining an IIN/BIN number can be costly, time consuming and demand intensive operational burdens on in-house regulatory and compliance teams. For this reason, some new card programmes may use a 'BIN sponsor', in which case the IIN/BIN number is effectively sub-licensed from a scheme regulated entity. This is known as BIN sponsorship, and is a popular way for financial institutions to fast-track access to market.
+In the United States, IINs are also used in NCPDP pharmacy claims to identify processors, and are printed on all pharmacy insurance cards. IINs are the primary routing mechanism for real-time claims.
+The ISO Register of Issuer Identification Numbers database is managed by the American Bankers Association. ABA is the Registration Authority for this standard and is responsible for allocating IINs to issuers.
+Online merchants may use IIN lookups to help validate transactions. For example, if a card's IIN indicates a bank in one country, while the customer's billing address is in another, the transaction may call for extra scrutiny.
+
+On 8 November 2004, Mastercard and Diners Club formed an alliance. Diners Club cards issued in Canada and the United States start with 54 or 55 and are treated as Mastercards worldwide. International cards use the 36 prefix and are treated as Mastercards in Canada and the United States, but are treated as Diners Club cards elsewhere. Diners Club International's website makes no reference to old 38 prefix numbers, and they can be presumed reissued under the 55 or 36 IIN prefix. Effective 16 October 2009, Diners Club cards beginning with 30, 36, 38 or 39 have been processed by Discover Card.
+On 3 November 2014, Mastercard announced that they were introducing a new series of BIN ranges that begin with a "2" (222100–272099). The "2" series BINs will be processed the same as the "51–55" series BINs are today. They became active 14 October 2016.
+On 23 July 2014 JSC NSPK was established in the Russian Federation. The joint stock company National System of Payment Cards (NSPK) is the operator of the Mir National Payment System. The main initiatives of NSPK are to create the national payment system infrastructure and to issue a national payment card, Mir.
+Effective 1 October 2006, Discover began using the entire 65 prefix, not just 650. Also, similar to the Mastercard/Diners agreement, China UnionPay cards are now treated as Discover cards and accepted on the Discover network.
+While the vast majority of Visa's account ranges describe 16 digit card numbers there are still a few account ranges (forty as of 11 December 2013) 
+dedicated to 13 digit PANs and several (439 as of 11 December2013) account ranges where the issuer can mix 13 and 16 digit card numbers. Visa's VPay brand can specify PAN lengths from 13 to 19 digits and so card numbers of more than 16 digits are now being seen.
+Switch was re-branded as Maestro in mid-2007. In 2011, UK domestic Maestro (formerly Switch) was aligned with the standard international Maestro proposition with the retention of a few residual country specific rules.
+EMV Certification requires acceptance of a 19-digit Visa card (ADVT 6.1.1 Test Case 2) and Discover Card (E2E Test Plan v1.3, Test Case 06).
+
+Canadian bank card numbering
+Bank card numbers issued by Canadian banks also follow a pattern for their systems:
+
+Security measures
+To reduce the risk of credit card fraud, various techniques are used to prevent the dissemination of bank card numbers. These include:
+
+Format-preserving encryption: in which the account number is replaced with a strongly encrypted version which retains the format of the card data including non sensitive parts of the field such as first six and last four digits. This permits data field protection without changing payment IT systems and applications. A common use is for protecting card data from the point of capture in a secure reader to the payment processing host end-to-end to mitigate risk of data compromise in systems such as the Point of Sale (POS). AES-FF1 Format-Preserving Encryption is defined in NIST Specification SP800-38G.
+PAN truncation: in which only some of the digits on a card are displayed or printed on receipts.  The PCI DSS standard dictates that only the first six and last four digits of the PAN may be printed on a receipt or displayed in cases other than where a business need requires the full PAN. US federal law (FACTA) allows only the display of the last 5 digits. In order to comply with both PCI DSS requirements and US federal law, generally only the last four digits are provided elsewhere to allow an individual to identify the card used.
+Tokenization: in which an artificial account number (token) is printed, stored or transmitted in place of the true account number.
+
+
+== References ==

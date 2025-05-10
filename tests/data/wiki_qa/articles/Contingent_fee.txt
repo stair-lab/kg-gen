@@ -1,0 +1,84 @@
+A contingent fee (also known as a contingency fee in the United States or a conditional fee in England and Wales) is any fee for services provided where the fee is payable only if there is a favourable result. Although such a fee may be used in many fields, it is particularly well associated with legal practice.
+In the law, a contingent fee is defined as a fee charged for a lawyer's services that is payable only if a lawsuit is successful or results in a favorable settlement, usually in the form of a percentage of the amount recovered on behalf of the client. Contingent fees may make it easier for people of limited means to pursue their civil rights since otherwise, to sue someone for a tort, one must first be wealthy enough to pursue such litigation in the first place. Due to the risk of loss, attorneys will not take cases on a contingency basis unless they believe that the case has merit, although accepting cases on a contingency is not without risk.
+
+Contingent legal fees
+Under a traditional contingency fee arrangement, a client is not charged attorney fees if he loses the case. If the client recovers damages from settlement or a favorable verdict, the attorney receives the fee from the recovery. The attorney's permitted fee varies depending on the country, and even local jurisdictions.
+For example, in the U.S. a contingency fee is based on the contractual agreement between the attorney and the party. The fee is calculated as a share of the eventual damage judgment or settlement obtained by the client. The percentage allowable as a contingency fee is subject to the ethical rules of professional conduct that require legal fees to be reasonable and, in some circumstances, by statutory limitations. In some jurisdictions, contingent fees as high as 33% to 50% of recovery may be deemed reasonable. Attorneys charging unreasonable fees may be subject to professional sanctions.
+In the alternative, the contingency may come in the form of an additional charge that is added to a negotiated attorney fee in the event of success as defined by the parties in their fee contract. For example, in the UK a client may enter into a fee agreement pursuant to which the client is liable for an hourly fee, plus a contingent success fee of no more than 100% of the hourly fee. Most lawyers who utilize this type of fee agreement charge a success fee in the range of 25-50%. In English law, fees are subject to compliance with the statutory scheme.
+
+Advantages and limitations
+A contingency fee arrangement provides access to the courts for those who cannot afford to pay the attorneys fees and costs of civil litigation. Contingency fees also provide a powerful motivation to the attorney to work diligently on the client's case. In other types of litigation where clients pay the attorney by the hour for their time, it makes little economic difference to the attorney whether the client has a successful outcome to the litigation. Finally, because lawyers assume the financial risk of litigation, the number of speculative or non meritorious cases may be reduced.
+Although contingency fees may improve some litigants' ability to afford to pursue a case, they do not guarantee civil justice or equal access to civil courts. Attorneys who practice in the area of civil litigation typically will not accept a case on a contingency fee bases without clear liability and a means of collecting a judgment or settlement, such as through a defendant's insurance coverage. Some cases require extensive investigation before the chance of success may be accurately assessed, and such a case might be declined by a law firm because even the initial assessment of the strength of a case may be costly.
+
+Legal expenses insurance
+This can also be referred to as "before the event" insurance (BTE), and is insurance that the client may already hold as part of household contents or car insurance, either free or for a small fee. Some credit cards also include BTE insurance and it can also be taken out as a separate insurance policy. BTE insurance may pay for the legal costs when making a claim for compensation, whether the client wins or loses.
+The solicitor will be able to identify if a client holds this type of policy and complete the necessary claim form.
+A 2008 report from the Ministry of Justice found that in 2007, 48% of those who took part had BTE insurance incorporated into their car insurance, 35% had BTE Insurance as part of their home insurance policy and a further 17% had the insurance as part of their travel insurance. This insurance covers any legal expenses in addition to costs for pursuing a personal injury claim and cost for legal expenses from the other side if the client's claim is unsuccessful.
+
+Legal aid
+Legal Aid is financial assistance which is funded by the Government. It is not usually awarded in cases of personal injury unless under extreme circumstances. But through all the circumstances it is still available for Clinical Negligence cases.
+
+Hourly fees
+Even though it is possible, it is rare for individuals to fund their own personal injury claims by retaining a lawyer on an hourly basis. In some jurisdictions, if the client's claim is successful, the client will be able to recover attorney fees from the defendant. In jurisdictions that follow the American rule for attorney fees, even successful clients must normally bear the cost of their own legal fees.
+
+Regulation
+The legality of contingent fee arrangements is often subject to restrictions, particularly in relation to contingent legal fees.
+According to law professor Herbert Kritzer, as of 2004 contingent fees for legal services were allowed in the following countries: Australia, Brazil, Canada, the Dominican Republic, France, Greece, Ireland, Japan, New Zealand,  the United Kingdom and the United States. They are also allowed in personal injury actions in Lithuania.
+
+Australia
+In Australia, conditional fee agreements are permitted under the Uniform Law, applied in NSW and Victoria by local application Acts. Where a favourable outcome is reached, an additional uplift fee (success fee) of up to 25% of the costs agreed to in the costs agreement may be charged. However, contingency fees based on a percentage of a client's net recovery are banned.
+
+Canada
+Contingent fee agreements are legal in all provinces of Canada, but with some restrictions on what cases are eligible to be handled on a contingent fee basis. In some cases, an attorney may collect a percentage of recovery in case of a victory but must otherwise charge an hourly fee.
+
+Russia
+Contingent fees are not enforceable under the Russian law. They are not defined in law but the Constitutional Court ruled that fees for the services provided can not be contingent on the decisions that might be taken in the future by the government or courts, including the amount of the compensation awarded as a result of a court hearing. For that reason the European Court of Human Rights does not award legal fees incurred by applicants under a contingency-fee arrangement under the Russian law to applicants in cases against Russia.
+
+South Africa
+Contingent fees have been allowed in South Africa since 1997, as discussed by K. G. Druker in "The law of contingency fees in South Africa".
+Any fees higher than the normal fees of the legal practitioner concerned may not exceed such normal fees by more than 100%. However, in claims sounding in money, the total of any such success fee payable by the client to the legal practitioner may not exceed 25% of the total amount awarded or any amount obtained by the client in consequence of the proceedings concerned, which may not, for the purposes of calculating such excess, include any costs.
+
+South Korea
+Contingent fees or "success fees" (성공보수금) are a widespread practice in South Korea.  Until 2015, they were used in both criminal and civil litigation.  In some civil cases, courts have rejected fees exceeding 10% of the award as unjust enrichment of the attorney, requiring the attorney to refund the excess to the client.
+On July 23, 2015, the Supreme Court of Korea ruled that contingent fee agreements for criminal representation were void as against public policy, under Article 103 of the Civil Act of South Korea.  The judgment was unanimous, with four justices concurring separately.  The decision provoked widespread outcry from criminal defense lawyers, particularly former judges and prosecutors who had been able to charge very high success fees due to clients' belief that their connections could help them win the case.
+
+Spain
+On November 4, 2008, the Supreme Court of Spain annulled a prohibition originated from the General Council of Spanish Bar that forbade the use of contingency fees, known in Spain as cuota litis. The rationale of the annulment was that the prohibition did not respect the principles of free competition. From that year onward, lawyers can pursue legal claims based on that type of retribution.
+
+Turkey
+Contingency fees, or more generally conditional fee agreements, are permitted under Turkish Law, but are capped at 25% of the claimed amount in the original complaint.
+
+United Kingdom
+In the English legal system, a contingent fee is generally referred to as a conditional fee agreement (CFA) or, informally by the public and press, as "no win no fee". The usual form of this agreement is that the solicitor will take a law case on the understanding that if lost, no payment is made. In the alternative, the client may enter into a fee contract with the lawyer based upon hourly billing with an additional success fee to be paid in the event of a successful outcome to the litigation. In England, the success fee must be a percentage, no greater than 100% of the contractual hourly fee. This contrasts with the contingency fee in the US, which gives the successful attorney a percentage of the damages recovered by the attorney's client.
+In 19th century English law, conditional fees were controversial, especially in the Swynfen will case, as they were held to offend ancient prohibitions against champerty and maintenance. However, conditional fees were introduced by the Courts and Legal Services Act 1990 (section 58), and were recognized by statute in 1995.
+Initially, the success fee was not recoverable from the losing party, but on 1 April 2000, section 27 of the Access to Justice Act 1999 amended the Courts and Legal Services Act 1990 to allow recovery of success fees from the losing party. The regulations that accompanied this change in the law (the Conditional Fee Agreements Regulations 2000) were far from clear, and the result was that a great deal of satellite litigation took place. On 1 November 2005, these regulations were revoked, and now it is much easier to enter into conditional fee agreements than before. The chances of having a case accepted on conditional fee are greatly increased if the case is investigated by a legally qualified professional.
+On 29 March 2011, Justice Secretary Kenneth Clarke announced plans to reform contingent fee arrangements, as part of reforms to the justice system prompted by a review of civil litigation costs carried out by Lord Justice Jackson. The changes were prompted by large rises in litigation costs and the proliferation of ambulance chasing advertisements and claim farmers. Following the introduction of contingent fees, the National Health Service had to pay out hundreds of millions of pounds in compensation for malpractice claims.
+Fee reforms were implemented in the Legal Aid, Sentencing and Punishment of Offenders Act 2012. Under the new arrangements, claimants with contingent fee agreements still do not pay upfront fees or have to cover their lawyers' costs if the case is lost. If they win then they pay a "success fee" that is capped at 25% of the awarded damages.
+The status of contingent fees is different in Scotland, where it is lawful to agree that the lawyer gets paid only if the case is won (the speculative action). It is not lawful to fix a percentage of the client's winnings as the amount of the fee, but has been legal since 1990 for the lawyer and client to agree to an initial fee with a percentage increase in the lawyer's fee in case of success in the action.
+
+United States
+Most jurisdictions in the United States prohibit working for a contingent fee in criminal cases or certain types of family law claims, as made clear in Rule 1.5(d) of the Model Rules of Professional Conduct of the American Bar Association. Some jurisdictions, however do allow contingent fees in criminal cases. It depends on the attorney, the type of case and the fee agreement. In the United States, contingency fees are standard in personal injury cases and are less common in other types of litigation.
+Most jurisdictions require contingent fees to be "reasonable", resulting in a typical contingent fee of 33-45% of any eventual recovery.
+
+Medical malpractice
+Many states impose additional restrictions on contingent attorney fees in medical malpractice cases. As of 2003 16 states (California, Connecticut, Delaware, Florida, Illinois, Indiana, Maine, Massachusetts, Michigan, New Jersey, New York, Oklahoma, Tennessee, Utah, Wisconsin, and Wyoming) have regulated contingency fees for medical malpractice cases.
+Some states cap fees at a flat rate; for example, 33.33% of net judgment or recovery in Tennessee and Utah.
+Other states utilize a sliding scale fee structure. For example, Connecticut utilizes a sliding scale fee structure but that can be waived in complex cases with a cap of 33.33%. California permits contingency fees in the amount of 40% of the first $50,000 of recovered damages, 33.33% of the next $50,000, 25% of the next $500,000 and 15% of any recovery in excess of $500,000.
+Florida establishes different fee limits depending on the stage of the case at the time damages are recovered. For example, it allows a higher limit if the case goes to trial and even more if the case is appealed.
+Four of the states that limit attorney fees (Illinois, Maine, New York, and Wisconsin) explicitly allow a court to authorize a larger fee. Wyoming explicitly allows the client and attorney to contract for a larger fee.
+Instead of a specific limit or a sliding scale, six states (Hawaii, Iowa, Maryland, Nebraska, New Hampshire, and Washington) require or authorize court approval of the reasonableness of attorney fees under various circumstances.
+
+See also
+Attorney's fee
+Pay for performance
+Tort reform in the United States
+Pricing
+Pricing strategies
+
+References
+Further reading
+Black, Stephen; Black, Katherine D.; Black, Michael D. (2009). "Taxation of Contingency Fees After Banks and Banaitis". Tax Notes (229–4). SSRN 1530181.
+
+External links
+CLS Direct Information Leaflet 12, Oct 2006
+The Law Society - No win no fee arrangements

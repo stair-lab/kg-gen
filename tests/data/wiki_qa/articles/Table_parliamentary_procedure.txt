@@ -1,0 +1,48 @@
+In parliamentary procedure, the verb to table has the opposite meaning in the United States from that of the rest of the world:
+
+In the United States, to "table" usually means to postpone or suspend consideration of a pending motion. Generally, to avoid spending time on debate and consideration.
+In the rest of the English-speaking world, to "table" means to begin consideration (or reconsideration) of a proposal.
+Motions which use the word "table" have specific meanings and functions, depending on the parliamentary authority used. The meaning of "table" also depends on the context in which it is used.
+
+Difference between American and British usage
+Both the American and the British dialects have the expression "to table a topic" as a short way of saying "to lay a topic on the table" and "to make a topic lie on the table", but these have opposite meanings in the different varieties of the languages. The British meaning is based on the idea of parliamentarians gathering around a table with the bill laid upon so that all may point to sections for discussion. The American sense draws on the image of taking a paper that one is holding in ones hand and laying it aside, ending any discussion about it.
+
+The British and Commonwealth meaning of to "table" is to begin consideration of a proposal. This comes from the use of the term to describe physically laying legislation on the table in the British Parliament; once an item on the order paper has been laid on the table, it becomes the current subject for debate.
+The American meaning of "to table" is to postpone or suspend consideration of a motion. In American usage, to be considered again the topic would have to be "taken from the table", which is rarely done.  To make the intent clear internationally, the Congressional Quarterly and its associated CQ publications usually follow the word "table" (as used in Congress) with the word "kill" in parentheses in reporting congressional votes.
+To add to the confusion, while the dialects disagree about the meaning of "lay on the table", both use the phrases "on the table" to mean "available for negotiation", and "off the table" to mean unavailable. According to the American Heritage Dictionary, on the table in American English always has the two opposite meanings up for discussion and put aside for consideration at a later date depending on the context.
+
+Use in the United States
+Organizations
+Robert's Rules of Order Newly Revised (RONR)
+Under Robert's Rules of Order Newly Revised, the subsidiary motion to lay on the table is properly used only when it is necessary to suspend consideration of a main motion in order to deal with another matter that has come up unexpectedly and which must be dealt with before the pending motion can be properly addressed. It has, however, become common to misuse this motion to end consideration of the pending main motion without debate, or to mistakenly assume that its adoption prevents further consideration of the main motion at all, or until a specified time. Using "table" as a verb usually indicates misuse of this motion. The book states, "It is preferable to avoid moving 'to table' a motion, or 'that the motion be tabled.'"A main motion that has been laid on the table may be taken up again by adoption of a motion to take from the table. A motion can be taken from the table at the same session (or meeting) or at the next session (or meeting) if that session occurs within a quarterly time interval. Otherwise, the motion dies.
+The use of the motion to lay on the table to kill a motion is improper; instead, a motion to postpone indefinitely should be used. Similarly, it is improper to use the motion to lay on the table to postpone something; a motion to postpone to a certain time should be used in this case. If debate is not desired, a motion to close debate (the previous question) should be used. One of the disadvantages of trying to kill a measure by laying it on the table is that, if some opponents of the measure subsequently leave the meeting, a temporary majority favoring the measure can then take it from the table and act on it; or they may do so at the next session if held within a quarterly time interval.
+Although the motion to lay on the table is not debatable, the chair can ask the maker of the motion to state his reason in order to establish the urgency and legitimate intent of the motion or the maker can state it on his own initiative.
+
+The Standard Code of Parliamentary Procedure (TSC)
+The Standard Code of Parliamentary Procedure has a motion to table. It can temporarily set aside a main motion (in which case it is also called the motion to postpone temporarily, a motion not in RONR) or it can kill the main motion without a direct vote or further debate. TSC uses the short form, "table", which is discouraged by RONR. If the motion to table is used in circumstances suggesting that the purpose is to kill the main motion, a two-thirds vote should be required.
+In TSC, the motion to take from the table must be made prior to the end of the current session, unlike RONR, which permits the motion to be made prior to the end of the following session if it is held within a quarterly time interval. The preferred name of the motion to take from the table, under TSC, is the motion to resume consideration.
+
+Demeter's Manual of Parliamentary Law and Procedure
+Demeter's Manual of Parliamentary Law and Procedure generally follows the model of TSC where the motion may be used to delay consideration of a main motion or to kill a motion without direct vote. This book also differs from RONR in that it allows the verbiage "to table". It ranks as the highest subsidiary motion and is not debatable, amendable, or eligible for reconsideration. Generally speaking, Demeter's allows all motions to be tabled except subsidiary motions, privileged motions, appeals of any kind, and motions concerning nominations or polls.
+
+Legislative bodies
+Congress
+In both houses of the United States Congress, the motion to table is used to kill a motion without debate or a vote on the merits of the resolution. The rules do not provide for taking the motion from the table, and therefore consideration of the motion may be resumed only by a two-thirds vote to suspend the rules.
+
+Mason's Manual of Legislative Procedure
+Most state legislatures use Mason's Manual of Legislative Procedure. In this book, the motions to lay on the table and to take from the table have the same characteristics as under RONR. Mason's Manual has another motion, take from the desk, which a member uses when they desire to take up a matter that is on the desk, but on which no action has yet been taken. The differences between the two motions are that the motion to take from the table is used after an item has been placed on the desk by a previous use of a motion to lay on the table and the motion is given a preference over new main motions offered at the same time. Take from the desk is used when an item is taken up that has not yet been introduced and this motion has no preference over new main motions that may be made at the same time.
+
+Example of Anglo-American confusion
+In the Parliament of the United Kingdom and other parliaments based on the Westminster system, to "table" a measure means to propose it for consideration, as in bringing it to the table. In his book (The Second World War, Volume III, The Grand Alliance), Winston Churchill relates the confusion that arose between American and British military leaders during the Second World War:
+
+The enjoyment of a common language was of course a supreme advantage in all British and American discussions. The delays and often partial misunderstandings which occur when interpreters are used were avoided. There were however differences of expression, which in the early days led to an amusing incident. The British Staff prepared a paper which they wished to raise as a matter of urgency, and informed their American colleagues that they wished to "table it." To the American Staff "tabling" a paper meant putting it away in a drawer and forgetting it. A long and even acrimonious argument ensued before both parties realized that they were agreed on the merits and wanted the same thing.
+
+Use in Canada
+The Canadian meaning of to "table" in a parliamentary context is the British meaning to begin consideration of a proposal. In a non-parliamentary context the British meaning is generally preferred but the American meaning of to "table" is also occasionally encountered; to prevent confusion over the contradictory meanings, the Canadian Oxford Dictionary recommends using a different verb altogether in non-parliamentary contexts.
+
+See also
+"Table (verb)" in List of words having different meanings in British and American English: M–Z#T
+Previous question – a motion that also has different meanings in British and American use
+
+
+== References ==

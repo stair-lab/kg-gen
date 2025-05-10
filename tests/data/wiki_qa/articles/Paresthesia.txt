@@ -1,0 +1,60 @@
+Paresthesia is a sensation of the skin that may feel like numbness (technically called hypoesthesia), tingling, pricking, chilling, or burning. It can be temporary or chronic and has many possible underlying causes. Paresthesia is usually painless and can occur anywhere on the body, but most commonly in the arms and legs.
+The most familiar kind of paresthesia is the sensation known as pins and needles after having a limb "fall asleep" (technically called obdormition). A less common kind is formication, the sensation of insects crawling on the skin.
+
+Causes
+Transient
+Paresthesias of the hands, feet, legs, and arms are common transient symptoms. The briefest electric shock type of paresthesia can be caused by tweaking the ulnar nerve near the elbow; this phenomenon is colloquially known as bumping one's "funny bone". Similar brief shocks can be experienced when any other nerve is tweaked (e.g. a pinched neck nerve may cause a brief shock-like paresthesia toward the scalp). In the older age group, spinal column irregularities may tweak the spinal cord briefly when the head or back is turned, flexed, or extended into brief uncommon positions (Lhermitte's sign).
+The most common everyday cause is temporary restriction of nerve impulses to an area of nerves, commonly caused by leaning or resting on parts of the body such as the legs (often followed by a pins and needles tingling sensation). Other causes include conditions such as hyperventilation syndrome and panic attacks. A cold sore outside the mouth (not a canker sore inside the mouth) can be preceded by tingling due to activity of the causative herpes simplex virus. The varicella zoster virus (shingles) also notably may cause recurring pain and tingling in skin or tissue along the distribution path of that nerve (most commonly in the skin, along a dermatome pattern, but sometimes feeling like a headache, chest or abdominal pain, or pelvic pain).
+Other common examples occur when sustained pressure has been applied over a nerve, inhibiting or stimulating its function. Removing the pressure typically results in gradual relief of these paresthesias. Most pressure-induced paraesthesia results from awkward posture, such as engaging in cross-legged sitting for prolonged periods of time.
+Reactive hyperaemia, which occurs when blood flow is restored after a period of ischemia, may be accompanied by paresthesia, e.g. when patients with Raynaud's disease rewarm after a cold episode.
+Cases of paresthesia have also been reported at varying frequencies following anthrax, flu, HPV and COVID-19 vaccine intake. Benzodiazepine withdrawal may also cause paresthesia, as the drug removal leaves the GABA receptors stripped bare and possibly malformed.
+
+Chronic
+Chronic paresthesia (Berger's paresthesia, Sinagesia, or Bernhardt paresthesia) indicates either a problem with the functioning of neurons, or poor circulation.
+In the elderly, paresthesia is often the result of poor circulation in the limbs (such as in peripheral vascular disease), most often caused by atherosclerosis, the build-up of plaque within artery walls over decades, with eventual plaque ruptures, internal clots over the ruptures, and subsequent clot healing, but leaving behind narrowing or closure of the artery openings, locally and/or in downstream smaller branches. Without a proper supply of blood and nutrients, nerve cells can no longer adequately send signals to the brain. Because of this, paresthesia can also be a symptom of vitamin deficiency or other malnutrition, as well as metabolic disorders like diabetes, hypothyroidism, or hypoparathyroidism. It can also be a symptom of mercury poisoning.
+Irritation to the nerve can also come from inflammation to the tissue. Joint conditions such as rheumatoid arthritis, psoriatic arthritis, and carpal tunnel syndrome are common sources of paresthesia. Nerves below the head may be compressed where chronic neck and spine problems exist, and can be caused by, among other things, muscle cramps that may be a result of clinical anxiety or excessive mental stress, bone disease, poor posture, unsafe heavy lifting practices, or physical trauma such as whiplash.
+Another cause of paresthesia may be direct damage to the nerves themselves, i.e., neuropathy, which itself can stem from injury, such as from frostbite; infections such as Lyme disease; or may be indicative of a current neurological disorder. Neuropathy is also a side effect of some chemotherapies, such as in the case of chemotherapy-induced peripheral neuropathy. Chronic paresthesia can sometimes be symptomatic of serious conditions, such as a transient ischemic attack; or autoimmune diseases such as multiple sclerosis, complex regional pain syndrome, or lupus erythematosus. The use of fluoroquinolones can also cause paresthesia. Stroke survivors and those with traumatic brain injury (TBI) may experience paresthesia from damage to the central nervous system.
+
+Acroparesthesia
+Acroparesthesia is severe pain in the extremities, and may be caused by Fabry disease, a type of sphingolipidosis.
+It can also be a sign of hypocalcemia.
+
+Dentistry
+Dental paresthesia is loss of sensation caused by maxillary or mandibular anesthetic administration before dental treatment.
+Potential causes include trauma introduced to the nerve sheath during administration of the injection, hemorrhage about the sheath, more side-effect-prone types of anesthetic being used, or administration of anesthetic contaminated with alcohol or sterilizing solutions.
+
+Drugs
+Anticonvulsant pharmaceutical drugs, such as topiramate, sultiame, or acetazolamide
+Antidepressant discontinuation syndrome
+Benzodiazepine withdrawal syndrome
+Beta alanine
+Dextromethorphan (recreational use)
+Intravenous administering of strong pharmaceutical drugs acting on the central nervous system (CNS), mainly opiates, opioids, or other narcotics, especially in non-medical use (drug abuse)
+Ketorolac
+Lidocaine poisoning
+Lomotil
+Nitrous oxide, long-term exposure
+Ritonavir
+
+Other
+Other causes may include:
+
+Diagnostics
+A nerve conduction study usually provides useful information for making a diagnosis. An MRI or a CT scan is sometimes used to rule out certain causes stemming from central nervous system issues.
+
+Treatment
+Medications offered can include the immunosuppressant prednisone, intravenous gamma globulin (IVIG), anticonvulsants such as gabapentin or tiagabine, or antiviral medication, depending on the underlying cause.
+In addition to treatment of the underlying disorder, palliative care can include the use of topical numbing creams, such as lidocaine or prilocaine. Ketamine has also been successfully used, but is generally not approved by insurance. Careful consideration must be taken to apply only the necessary amount, as excess can contribute to these conditions. Otherwise, these products generally offer extremely effective, but short-lasting relief from these conditions.
+Paresthesia caused by stroke may receive some temporary benefit from high doses of baclofen multiple times a day. HIV patients who self-medicate with cannabis report that it reduces their symptoms.
+Paresthesia caused by shingles is treated with appropriate antiviral medication.
+
+Etymology
+The word paresthesia (; British English paraesthesia; plural paraesthesiae  or paraesthesias) comes from the Greek para ("beside", i.e., abnormal) and aisthesia ("sensation").
+
+References
+Bibliography
+G. Cicarelli; G. Della Rocca; M. Amboni; C. Ciacci; G. Mazzacca; A. Filla; P. Barone (December 2003). "Clinical and neurological abnormalities in adult celiac disease". Neurol Sci. 24 (5): 311–317. doi:10.1007/s10072-003-0181-4. PMID 14716525.
+
+External links
+
+paresthesia at NINDS

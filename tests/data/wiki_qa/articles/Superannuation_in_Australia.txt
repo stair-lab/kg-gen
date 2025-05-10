@@ -1,0 +1,244 @@
+Superannuation in Australia, or "super", is a savings system for workplace pensions in retirement. It involves money earned by an employee being placed into an investment fund to be made legally available to members upon retirement. Employers make compulsory payments to these funds at a proportion of their employee's wages. Currently set at 11.5%, from 1 July 2025, the mandatory minimum "guarantee" contribution is 12%. The superannuation guarantee was introduced by the Hawke government to promote self-funded retirement savings, reducing reliance on a publicly funded pension system. Legislation to support the introduction of the superannuation guarantee was passed by the Keating Government in 1992. 
+Contributions to superannuation accounts are subject to a concessional income tax rate of 15%. This means that for most Australians, the tax on their earned income sent to a superannuation account is less than the income tax on earned income sent to their bank account. Australians can contribute additional superannuation beyond the 11.5% minimum, subject to limits. The maximum amount that may be contributed per year is $30,000. Contributions higher than this are taxed at the person's ordinary marginal tax rate, meaning there is no tax benefit for contributing beyond that amount. Ultimately, superannuation is a system of mandatory saving coupled with tax concessions. 
+As of 31 December 2024, Australians have AU$4.2 trillion invested as superannuation assets, making Australia as a nation the 5th largest holder of pension fund assets in the world. The vast majority of this money is in defined contribution funds.
+
+History
+Occupational superannuation in Australia began in the mid-19th century and has evolved significantly. Prior to 1992's mandatory superannuation, it developed in three phases. Initially, from the 19th century to the 1940s, it provided retirement income to select salaried employees. From the 1950s to the 1970s, it supplemented the age pension, primarily benefiting white-collar workers. By the 1970s, superannuation became a widespread fringe benefit, particularly among professionals, public sector employees, and the financial sector. By 1974, 32.2% of wage earners had coverage. 
+For many years until 1976, what superannuation arrangements were in place were set up under industrial awards negotiated by the union movement or individual unions. A change to superannuation arrangements came about in 1983 through an agreement between the government and the trade unions; in the Prices and Incomes Accord, the trade unions agreed to forgo a national 3% pay increase which would be put into the new superannuation system for all employees in Australia. 
+In 1992, employee contributions were matched by employers' contributions at 3% of the employees' income, and has been gradually increased. Though there is general widespread support for compulsory superannuation today, at the time of its introduction it was met with strong resistance by small business groups who were fearful of the burden associated with its implementation and its ongoing costs.
+In 1992, under the Keating Labor government, the compulsory employer contribution scheme became a part of a wider reform package addressing Australia's retirement income dilemma. It had been demonstrated that Australia, along with many other Western nations, would experience a major demographic shift in the coming as the population aged, and it was claimed that this would result in increased age pension payments that would place an unaffordable strain on the Australian economy. The proposed solution was a "three pillars" approach to retirement income:
+
+compulsory employer contributions to superannuation funds,
+further contributions to superannuation funds and other investments, and
+if insufficient, a safety net consisting of a means-tested government-funded age pension.
+The compulsory employer contributions were branded "Superannuation Guarantee" (SG) contributions.
+The Keating Labor government had also intended for a compulsory employee contribution beginning in 1997-98, with employee contributions beginning at 1%, then rising to 2% in 1998-99 and reaching 3% in 1999-2000. However this planned compulsory 3% employee contribution was cancelled by the Howard Liberal government when it took office in 1996. The employer SG contribution was allowed to continue to rise to 9%, which it did in 2002-03. The Howard government also limited employer SG contributions from 1 July 2002 to an employee's ordinary time earnings (OTE), which includes wages and salaries, as well as bonuses, commissions, shift loading and casual loadings, but does not include overtime.
+The SG rate was 9% from 2002-03 to 2013-14 when the Rudd-Gillard Labor government passed legislation to increase SG contributions slowly to 12% starting on 1 July 2015 and ending on 1 July 2019. However, the succeeding Abbott Liberal government deferred starting this planned increase by six years, to 1 July 2021. The SG was 9.5% of employee earnings on 1 July 2014, and after 30 June 2021 increased by 0.5% each year until it reached 12% in 2025.
+Initially, superannuation accounts were considered an employer matter but over time this attitude has shifted. Superannaution is portable mainly through a system of preservation until a condition of release occurs (typically retirement) but a superannuation account maintains benefits while retired such as concessional tax on earnings. A member may move from fund to fund and can consolidate accounts. The October 2020 budget included a proposal (to become law) to mandate portability to encourage and support each Australian holding one account, which would remain portable. Further proposals are to mandate underperforming funds to be barred from accepting new members. The intention is to encourage performance to benchmarks for returns and fees.
+Significant updates were made to the superannuation system in Australia in 2023 and 2024. The Superannuation Guarantee (SG) rate, which had been gradually increasing over the years, reached 10.5% in 2022 and is set to continue rising by 0.5% each year until it hits 12% by 2025. This change aims to enhance retirement savings for Australian workers, ensuring better financial security in retirement.
+
+Operation
+Accumulation phase
+Superannuation is compulsory for all employed people working and residing in Australia. Federal law dictates minimum amounts that employers must contribute to the superannuation accounts of their employees, on top of standard wages or salaries.
+Most employees have their superannuation contributed to large funds - either industry funds (not-for-profit mutual funds, managed by boards composed of industry stakeholders), or retail funds (for-profit commercial funds, principally managed by financial institutions). However, some Australians can have their superannuation deposited into self-managed superannuation funds.
+The Australian Government outlines a set percentage of employee income that should be paid into a superannuation account. Since July 2002, this rate has increased from 9% to 10% in July 2021, and will stop increasing at 12% in July 2025. Employees are also encouraged to supplement compulsory superannuation contributions with voluntary contributions, including diverting their wages or salary income into superannuation contributions under so-called salary sacrifice arrangements.
+
+Retirement phase
+There is no standard retirement age in Australia. As of July 2023, members can start to draw some money from their superannuation once they reach age 60 (people born before 1 July 1964 will have already reached their required age under older rules). On reaching age 65, or on ceasing employment after age 60 members have total access to their superannuation balance. In most cases this can be taken as a tax-free lump sum or a tax-free income stream.
+Decisions on when to retire are likely to be influenced by the government Age Pension which, as of July 2023, commences at age 67.
+At retirement, each member has a lump sum balance. Most superannuation funds offer an account-based (drawdown) product for drawing retirement income. Some funds provide access to lifetime annuities purchased using the member's balance.
+An individual can withdraw funds out of a superannuation fund when the person meets one of the conditions of release, such as retirement, terminal medical condition, or permanent incapacity, contained in Schedule 1 of the Superannuation Industry (Supervision) Regulations 1994. As of 1 July 2018, members have also been able to withdraw voluntary contributions made as part of the First Home Super Saver Scheme (FHSS).
+
+Employer contributions
+Superannuation guarantee contributions
+Under Australian federal law, employers must pay superannuation contributions to approved superannuation funds. Called the "superannuation guarantee" (SG), the contribution percentage as of 2025 is 12 per cent of the employees' ordinary time earnings, generally consisting of salaries/wages, commissions, allowances, but not overtime. SG is only mandated for employees that generally make more than $450 in a calendar month, or when working more than 30 hours a week for minors and domestic workers. The main exception is under the NDIS where an individual manages their own insurance plan, and therefore hires their own carers. SG is not required for non-Australians working for an Australian business overseas, for some foreign executives, for members of the Australian Defence Force working in that role, or for employees covered under bilateral superannuation agreements.
+SG contributions are paid on top of an employee's pay packet, meaning that they do not form part of wage or salaries. Contributions must be paid at least once every quarter, and can only be paid into approved superannuation funds registered with the Australian Securities and Investments Commission.
+Initially, between 1993-1996, a higher contribution rate applied for employers whose annual national payroll for the base year exceeded $1 million, with the employer's minimum superannuation contribution percentage set out in the adjacent table with an asterisk. The contribution rate increased over time. The SG rate was 9.5% on 1 July 2014, and was supposed to increase to 10% on 1 July 2018; and then increase by 0.5% each year until it reached 12% on 1 July 2022. The 2014 federal budget deferred the proposed 2018 SG rate increases by 3 years, with the 9.5% rate remaining until 30 June 2021, and is set to have five annual increases, where the SG rate will increase to 12% by July 2025. However, there have been lobbying that suggests that the SG rate should remain at the current rate of 9.5% or make superannuation voluntary.
+
+“Defined benefit" superannuation schemes
+Special rules apply in relation to employers operating "defined benefit" superannuation schemes, which are less common traditional employer funds where benefits are determined by a formula usually based on an employee's final average salary and length of service. Essentially, instead of minimum contributions, employers need to make contributions to provide a minimum level of benefit.
+
+Salary sacrifices contributions
+An employee may request that their employer makes all or part of future payments of earnings into superannuation in lieu of making payment to the employee. Such an arrangement is known as "salary sacrifice", and for income tax purposes the payments are treated as employer superannuation contributions, which are generally tax deductible to the employer, and are not subject to the superannuation guarantee (SG) rules. The arrangement offers a benefit to the employee because the amount so sacrificed does not form part of the taxable income of the employee.
+For some purposes, however, such contributions are called "reportable superannuation contributions", and for those purposes they are counted back as a benefit of the employee, such as for calculation of "income for Medicare levy surcharge purposes".
+To be valid, a salary sacrifice arrangement must be agreed between employer and employee before the work is performed. This agreement is usually documented in writing in pro forma form.
+
+Personal contributions
+People can make additional voluntary contributions to their superannuation and receive tax benefits for doing so, subject to limits. Since the 2021/22 financial year, the concessional contribution cap has been $27,500. This figure is indexed to the Average Weekly Ordinary Times Earnings (AWOTE), but will only increase in increments of $2,500. Any contributions above the limit are called "excess concessional contributions".
+Unused concessional contributions cap space can be carried forward from 1 July 2018, if the total superannuation balance is less than $500,000 at the end of 30 June in the previous year. Unused amounts are available for a maximum of five years.
+
+Access to superannuation
+Employer and personal superannuation contributions are income of the superannuation fund and are invested over the period of the employees' working life and the sum of compulsory and voluntary contributions, plus earnings, less taxes and fees are paid to the person when they retire.
+As superannuation is money invested for a person's retirement, strict government rules prevent early access to preserved benefits except in very limited and restricted circumstances. These include major dental, and drug and alcohol addiction recovery. In general people can seek early release superannuation for severe financial hardship or on compassionate grounds, such as for medical treatment not available through Medicare.
+Generally, superannuation benefits fall into three categories: 
+
+Preserved benefits
+Restricted non-preserved benefits
+Unrestricted non-preserved benefits
+Preserved benefits are benefits that must be retained in a superannuation fund until the employee's "preservation age". Currently, all workers must wait until they are at least 55 before they may access these funds. The actual preservation age varies depending on the date of birth of the employee. All contributions made after 1 July 1999 fall into this category.
+Restricted non-preserved benefits although not preserved, cannot be accessed until an employee meets a condition of release, such as terminating their employment in an employer superannuation scheme.
+Unrestricted non-preserved benefits do not require the fulfilment of a condition of release, and may be accessed upon the request of the worker. For example, where a worker has previously satisfied a condition of release and decided not to access the money in their superannuation fund.
+
+Preservation age and conditions of release
+Benefit payments may be a lump sum or an income stream (pension) or a combination of both, provided the payment is allowed under superannuation law and the fund's trust deed. Withholding tax applies to payments to members who are under 60 or over 60 and the benefit is from an untaxed source. In either case, eligibility for access to preserved benefits depends on a member's preservation age and meeting one of the conditions of release. Until 1999, any Australian could access their preserved benefits once they reached 55 years of age.  In 1997, the Howard Liberal government changed the preservation rules to induce Australians to stay in the workforce for a longer period of time, delaying the effect of population ageing. The new rules progressively increased the preservation age based on a member's date of birth, and came into effect in 1999. The result is that from 2025 onwards all Australian workers would need to be at least 60 years of age to access their superannuation.
+To access their super, a member must also meet one of the following "conditions of release". Before age 60, workers must be retired — i.e., cease employment — and sign off that they intend never to work again (not work more than 40 hours in a 30-day period). Those aged 60 to 65 can access superannuation if they cease employment regardless of their future employment intentions, so long as they are not working at the time. Members over 65 years of age can access their superannuation regardless of employment status. Employed individuals who have reached preservation but are under age 65 may access up to 10% of their superannuation under the Transition to Retirement (TRIS) pension rules.
+An Australian worker who has transferred funds from their New Zealand KiwiSaver scheme into their Australian superannuation scheme, cannot access the ex-New Zealand portion of their superannuation until they reach the age of 65, regardless of their preservation age. This rule also applies to New Zealand citizens who have transferred funds from their New Zealand KiwiSaver scheme into an Australian superannuation fund.
+
+Reasonable benefit limits
+Reasonable benefit limits (RBL) were applied to limit the amount of retirement and termination of employment benefits that individuals may receive over their lifetime at concessional tax rates.  There were two types of RBLs - a lump sum RBL and a higher pension RBL. For the financial year ending 30 June 2005, the lump sum RBL was $619,223 and the pension RBL was $1,238,440.  RBLs were indexed each year in line with movements in Average Weekly Ordinary Time Earnings published by the Australian Bureau of Statistics. The lump sum RBL applied to most people. Generally, the higher pension RBL applied to people who took 50% or more of their benefits in the form of pensions or annuities that met certain conditions (for example, restrictions on the ability to convert the pension back into a lump sum). RBLs were abolished from 1 July 2007.
+
+Superannuation taxes
+Contributions
+Contributions made to superannuation, either by an individual or on behalf of an individual, are taxed differently depending on whether that contribution was made from "pre-tax" or "post-tax" money. "Pre-tax" contributions are contributions on which no income tax has been paid at time of contribution, and are also known as "before-tax" contributions or as "concessional" contributions. They are mainly compulsory employer SG ("Superannuation Guarantee", see above) contributions and additional salary sacrifice contributions. These contributions are taxed by the superannuation fund at a "contributions tax" rate of 15%, which is regarded as "concessional" rate. For individuals who earn more than $250,000, the contributions tax is levied at 30%.
+"Post-tax" contributions are also referred to as "after-tax" contributions, "non-concessional" contributions or as "undeducted" contributions. These contributions are made from money on which income tax or contributions tax has already been paid, and typically no further tax is required to be withheld from that contribution when it is made to a fund.
+Both contribution types are subject to annual caps. Where the annual cap is exceeded, additional tax is payable, either at the marginal tax rate for concessional contributions, or an additional 31.5% for non-concessional contributions, which is in addition to the standard tax rate of 15% payable on contributions, making a total of 46.5%.
+Over time various measures have allowed other forms of contribution to encourage saving for retirement. These include small business CGT contributions and rollovers and Downsizer superannuation contributions Each contribution type has specific rules and limits.
+
+Investments in the fund
+Investment earnings of the superannuation fund (i.e. dividends, rental income etc.) are taxed at a flat rate of 15% by the superannuation fund. In addition, where an investment is sold, capital gains tax is payable by the superannuation fund at 15%.
+Much like the discount available to individuals and other trusts, a superannuation fund can claim a capital gains tax discount where the investment has been owned for at least 12 months. The discount applicable to superannuation fund is 33%, reducing the effective capital gains tax from 15% to 10%.
+Superannuation funds pool the contributions from multiple individuals and invest these funds in a wide range of assets such as stocks, bonds, real estate, and more. These investments aim to generate returns and grow the fund over time.
+A fund which is paying a pension to a  member aged 60+ has exempt pension income and pays no tax on that portion of the earnings of the fund. Its deductions for that same percentage is denied and cannot create a tax loss. An actuarial certificate may be required to support the proportion of exempt pension income based on member balances and numbers of days. Earnings on accumulation (i.e., non pension) balances remain proportionately subject to tax. Asset segregation may be used by some funds so that specific income is attributed to a specific member.  A fund with only pension member accounts which pay the minimum complying pension for the whole year have a tax rate of 0%.
+These taxes contribute over $6 billion in annual government revenue. Superannuation is a tax-advantaged method of saving as the 15% tax rate on contributions is lower than the rate an employee would have paid if they received the money as income. The federal government announced in its 2006/07 budget that from 1 July 2007, Australians over the age of 60 will face no taxes on withdrawing monies out of their superannuation fund if it is from a taxed source.
+
+Discontinued superannuation surcharge
+In 1996, the federal government imposed a "superannuation surcharge" on higher income earners as a temporary revenue measure. During the 2001 election campaign, the Howard government proposed to reduce the surcharge from 15% to 10.5% over three years. The superannuation surcharge was abolished by the Howard government from 1 July 2005.
+
+Superannuation co-contribution scheme
+From 1 July 2003, the Howard Liberal government made available incentives of a Government co-contribution with a maximum value of $1,000.
+From the 2012-2013 financial year to the 2016-2017 financial year, superannuation contributions are available for individuals with income not in excess of $37,000.  The Government offsets a maximum of $500 and a minimum of $20, calculated at 15% of a low income earners total superannuation contributions.
+As at 1 July 2017, The Low Income Superannuation Contribution (LISC) scheme will be replaced with the renamed Low Income Superannuation Tax Offset (LISTO).  Under this new scheme, the minimum amount of Government contributions for low income earners with income not in excess of $37,000 is lowered to $10 but the $500 maximum remains.
+
+Effect on income tax
+One of the reasons that people contribute to superannuation is to reduce their income tax liability, and possibly to be able to receive an age pension while still receiving supplementary income.
+The following is a general summary of the tax rules relating to superannuation. The full details are extremely complex.
+
+Employer superannuation contributions
+Employer superannuation contributions are generally tax deductible if paid to a "complying superannuation fund". This includes compulsory employer contributions as well as "salary sacrifice" contributions. Employees may choose to make additional contributions at the same rate as a "salary sacrifice", but only if their employer agrees to do so.
+
+Taxation of superannuation fund (contributions)
+Employer contributions received by a superannuation fund and income earned in the fund are taxed at the concessional rate of 15%, or more for higher income earners. Additional contributions made without the cooperation of an employer or paid to a non-complying superannuation fund are taxed at the top marginal tax rates and are subject to different rules.
+
+Taxation of superannuation in the US
+Under the U.S.-Australia Income Tax Treaty, there is an opportunity to lawfully avoid U.S. taxation on gains within Australian superannuation funds. By taking this legal position, Australia would have exclusive taxing rights over Australian superannuation funds, which effectively allows Australian nationals residing in the U.S. to lawfully exclude from their U.S federal income tax returns any gain from their Australian Superannuation Fund or even future distributions.
+
+Benefits paid
+Income retrieved from the fund by a member after preservation age is generally tax free.[1]
+
+Exceeding the concessional contributions cap
+The concessional contribution cap for the 2017-2018 financial year is $25,000. For later financial years, the cap is worked out by indexing annually this amount. From 1 July 2019 a taxpayer who meets a maximum  balance condition who does not use their cap in full may carry forward the unused cap for a limited time period. The tax laws and rules concerning concessional contributions are complex and not  automatic entitlement. In the 2021 year a theoretical concessional contribution (tax deductible) of three years could be permitted ($75,000) representing unused caps from 2019 and 2020 in addition to the 2021 cap.
+Excess concessional contribution (ECC) is included in the assessable income for corresponding income year, and the taxpayer is entitled to a tax offset for that income year equal to 15% of the excess concessional contributions (S 291-15  of the Income Tax Assessment Act 1997). This offset cannot be refunded, transferred, or carried forward. Excess Contributions Tax can be paid by the member by release of funds from the superannuation account.
+
+Excess concessional contribution charge
+ECC charge is applied to the additional income tax liability arising due to excess concessional contributions included in the income tax return- Division 95 in Schedule 1 to the Taxation Administration Act 1953. The ECC charge period is calculated from the start of the income year in which the excess concessional contributions were made and ends the day before the tax is due to be paid under the first income tax assessment for that year. The compounding interest formula is applied against the base amount (the additional income tax liability) for each day of the ECC charge period. The ECC charge rates are updated quarterly and for January - March 2019 it is 4.94% per annum.
+
+Concessional contributions and taxable income, exceeding the threshold - Division 293 tax
+Division 293 tax (additional tax on concessional contributions) is payable if income for surcharge purposes (other than reportable superannuation contributions), plus concessionally taxed superannuation contributions (also known as low tax contributions) are greater than $250,000. Division 293 tax levies 15% tax on either the earner's total concessional contributions, or the amount (Concessional Contributions + Gross Income) that is over the $250,000 threshold – whichever amount is lower. Div 293 tax can be paid by the member by a release from the superannuation fund account.
+
+Non-concessional contributions
+Non-concessional contributions include excess concessional contributions for the financial year. Non-concessional contributions are amounts contributed which an employer or taxpayer has not claimed a tax deduction. They do not include superannuation co-contributions, structured settlements and orders for personal injury or capital gains tax (CGT) related payments that the member has validly elected to exclude from their non-concessional contributions. 
+Non-concessional contributions are made into the superannuation fund from after-tax income. These contributions are not taxed in the superannuation fund.
+As of 1 July 2021, the non-concessional contributions cap is $110,000 per annum. Members 66 years or younger have the option of utilizing the "bring-forward" rule which allows an eligible person to contribute 3 years' worth of contributions in the one year. If a member's non-concessional contributions exceed the cap, they are taxed at the top marginal tax rate.
+
+Effect on age pensions
+Australian resident citizens over 67 years of age are entitled to an age pension if their income and assets are below specified levels. The full pension, as at March 2022, is $882.20 per fortnight for singles, and $665 each for couples. 
+Pension recipients are assessed under an Asset test and an Income test and their pension is reduced by whichever test lowers their pension amount the most. As at March 2022, to be eligible for the full pension single homeowners must have assets less than $270,500 and single non-homeowners assets less than $487,000. Couple homeowners must have assets less than $405,000 and non-homeowners $621,500. The Income test will apply to singles who earn more than $180 per fortnight and couples who earn more than $320 per fortnight. Pension payments will by reduced by 50 cents for each dollar over these limits.
+
+Superannuation funds
+Trustee structure
+Superannuation funds operate as trusts with trustees being responsible for the prudential operation of their funds and in formulating and implementing an investment strategy. Some specific duties and obligations are codified in the Superannuation Industry (Supervision) Act 1993 - other obligations are the subject of general trust law.  Trustees are liable under law for breaches of obligations. Superannuation trustees have, inter alia, an obligation to ensure that superannuation monies are invested prudently with consideration given to diversification and liquidity.
+
+Investments
+Other than a few very specific provisions in the Superannuation Industry (Supervision) Act 1993 (largely related to investments in assets related to the employer or impacting a self-managed superannuation fund) funds are not subject to  specific asset requirements or investment rules. A fund must maintain an investment strategy and comply with specific covenants contained in law at all times.  A fund must not lend to a related party and must not acquire investments from a related party unless permitted. There are no minimum rate of return requirements, nor a government guarantee of benefits. There are some restrictions on borrowing and the use of derivatives and investments in the shares and property of employer sponsors of funds.
+As a result, superannuation funds tend to invest in a wide variety of assets with a mix of duration and risk/return characteristics. The recent investment performance of superannuation funds compares favourably with alternative assets such as ten year bonds.
+
+Types of superannuation funds
+There are 93 APRA regulated superannuation funds which are classified as corporate, industry, public sector or retail. These 93 funds manage $2.9 trillion (or 70%) of the $4.2 trillion funds within superannuation.
+There are different types of superannuation funds:
+
+Industry Funds are multiemployer funds run by employer associations and/or unions. Unlike Retail/Wholesale funds they are run solely for the benefit of members, as there are no shareholders.
+Wholesale Master Trusts are multiemployer funds run by financial institutions for groups of employees. These are also classified as Retail funds by APRA.
+Retail Master Trusts/Wrap platforms are funds run by financial institutions for individuals.
+Employer Funds are funds established by employers for their employees. Each fund has its own trust structure that is not necessarily shared by other employers. APRA has been encouraging employer funds to windup and are less popular in recent years. The cost of compliance and maintaining services at a competitive cost is the key driver.
+Public Sector Funds are largely funds establish by Governments. Some are unfunded and the Future Fund was specifically established to set aside savings to meet this future liability. Many but not all schemes are defined benefit funds which give a life pension rather than a balance that is paid down as a pension. Newer employees in Public Sector jobs are typically members of a modern accumulation scheme.
+Self Managed Superannuation Funds (SMSFs) are funds established under a specific portion of the same laws that govern larger funds. A SMSF allows a small number of individuals (limited to 6) and is regulated by the Australian Taxation Office, not APRA.  Generally the Trustees (OR Trustee Directors) of the fund are the fund members and the members are all trustees (or Trustee Directors). Where there is a Corporate Trustee, the members are the directors of that company. SMSFs are the most numerous funds in the Australian superannuation industry, with 99% of the number of funds and 24% of the $4.2 trillion total superannuation assets as of December 2024. SMSFs may be specially structured so that they are an accepted QROPS fund capable of receiving a transfer of a UK pension benefit.
+2015 changes to the SIS act has allowed SMSFs to borrow under limited recourse borrowing rules. Lenders have developed SMSF loans to enable SMSF's to borrow for residential property, commercial property and industrial property, however funds cannot acquire vacant land or change the asset eg develop, improve or construct using borrowed money. Trustees are also require to value the assets in their funds on a regular basis to ensure accurate reporting. SMSF Property Valuation services are required from independent parties to ensure arms length valuations. There are restrictions placed upon the fund that the trustees of the fund cannot gain a personal advantage from asset acquired by the fund, or purchase from what's known as a "related party". For example, earners would not be able to live in the home that is owned by their SMSF. SMSF loans are generally available up to 80% of the purchase price and attract a high margin to the interest rate in comparison to standard occupier home loans. Major Banks have withdrawn from the SMSF loan market and loans are costly versus traditional loans as the loan must be a limited recourse loan product that also uses a bare trust to hold the property until the loan is repaid. 
+
+SMSF property investment has gained considerable momentum since the amendment of borrowing provisions in 2007 to allow for the purchase of all types of real property including residential, commercial and industrial property.  The ability to obtain a limited recourse loan to buy income-producing property in a favourably low tax environment has influenced a rapidly emerging incidence of direct property investment within SMSF structures in recent times. Seeing $92 billion in commercial and $50 billion in residential SMSF property investment in 2023. 
+Small APRA Funds (SAFs) are funds established for a small number of individuals (fewer than 5) but unlike SMSFs the Trustee is an Approved Trustee, not the member/s, and the funds are regulated by APRA.  This structure is often used for members who want control of their superannuation investments but are unable or unwilling to meet the requirements of Trusteeship of an SMSF.
+Public Sector Employees Funds are funds established by governments for their employees.
+Industry, Retail and Wholesale Master Trusts are the largest sectors of the Australian Superannuation Market by net asset with 217 funds.
+SMSFs are the largest number of funds with 596,225 funds (2019) representing 32.8% of the $2.7 trillion market.
+
+Choice of superannuation funds
+From 1 July 2005, many Australian employees have been able to choose the fund their employer's future superannuation guarantee contributions are paid into. Employees may change a superannuation fund. They may choose to change funds, for example, because:
+
+one when their current fund is not available with a new employer,
+consolidate superannuation accounts to cut costs and paperwork,
+a lower-fee and/or better service superannuation fund,
+a better performing superannuation fund, or
+a fund invests in assets and companies that align with their personal beliefs.
+Where an employee has not elected to choose their own fund, employers must since 1 January 2014 make "default contributions" only into an authorised MySuper product, which is designed to be a simple, low-cost superannuation fund with few, standardised fees and a single balanced investment option.
+
+List of superannuation entities by funds under management
+Below is a list of superannuation funds by Total member benefits. Most figures are derived from APRA's 2024 Annual fund-level superannuation statistics.
+
+Superannuation industry
+Legislation
+Superannuation funds are principally regulated under the Superannuation Industry (Supervision) Act 1993 and the Financial Services Reform Act 2002.  Compulsory employer contributions are regulated via the Superannuation Guarantee (Administration) Act 1992
+
+Superannuation Industry (Supervision) Act 1993 (SIS)
+The Superannuation Industry (Supervision) Act sets all the rules that a complying superannuation fund must obey (adherence to these rules is called compliance). The rules cover general areas relating to the trustee, investments, management, fund accounts and administration, enquiries and complaints.
+SIS also:
+
+regulates the operation of superannuation funds; and
+sets penalties for trustees when the rules of operation are not met.
+In June 2004 the SIS Act and Regulations were amended to require all superannuation trustees to apply to become a Registrable Superannuation Entity Licensee (RSE Licensee) in addition each of the superannuation funds the trustee operates is also required to be registered.  The transition period is intended to end 30 June 2006.  The new licensing regime requires trustees of superannuation funds to demonstrate to APRA that they have adequate resources (human, technology and financial), risk management systems and appropriate skills and expertise to manage the superannuation fund.  The licensing regime has lifted the bar for superannuation trustees with a significant number of small to medium size superannuation funds exiting the industry due to the increasing risk and compliance demands.
+
+MySuper
+MySuper is part of the Stronger Super reforms announced in 2011 by the Julia Gillard Government for the Australian superannuation industry.  From 1 January 2014, employers must only pay default superannuation contributions to an authorised MySuper product. Superannuation funds have until July 2017 to transfer accrued default balances to MySuper.
+A MySuper default is one which complies to a regulated set of features, including:
+
+a single investment option (although lifecycle strategies are permitted),
+a minimum level of insurance cover,
+an easily comparable fee structure, with a short prescribed list of allowable fee types,
+restrictions on how advice is provided and paid for, and
+rules governing fund governance and transparency.
+
+The Financial Services Reform Act 2002 (FSR)
+The Financial Services Reform Act covers a very broad area of finance and is designed to provide standardisation within the financial services industry. Under the FSR, to operate a superannuation fund, the trustee must have a licence to run a fund and the individuals within the funds require a licence to perform their job.
+With regard to superannuation, FSR:
+
+provides licensing of "dealers" (providers of financial products and services);
+oversees the training of agents representing dealers;
+sets out the requirements regarding what information must be provided on any financial product to members and prospective members; and
+sets out the requirements that determine good-conduct and misconduct rules for superannuation funds.
+
+Regulatory bodies
+Four main regulatory bodies keep watch over superannuation funds to ensure they comply with the legislation:
+
+The Australian Prudential Regulation Authority (APRA) is responsible for ensuring that superannuation funds behave in a prudent manner. APRA also reviews a fund's annual accounts to assess their compliance with the SIS.
+The Australian Securities and Investments Commission (ASIC) ensures that trustees of superannuation funds comply with their obligations regarding the provision of information to fund members during their membership. ASIC is also responsible for consumer protection in the financial services area (including superannuation). It also monitors funds' compliance with the FSR. MoneySmart is a website run by the Australian Securities and Investments Commission (ASIC) to help people make smart choices about their personal finances. They provide a number of tools such as the Superannuation Calculator.
+The Australian Taxation Office (ATO) ensures that self-managed superannuation funds adhere to the rules and regulations. It also makes sure that the right amount of tax is taken from the superannuation savings of all Australians.
+The Superannuation Complaints Tribunal (SCT) administers the Superannuation (Resolution of Complaints) Act. This Act provides the formal process for the resolution of complaints. The SCT will try to resolve any complaints between a member and the superannuation fund by negotiation or conciliation. The SCT only deals with complaints when no satisfactory resolution has been reached. The SCT ceased handling new complaints from 31 October 2018.
+The Australian Financial Complaints Authority (AFCA) now manages superannuation complaints from November 2018. AFCA manages complaints concerning financial products.
+
+Similar schemes in other countries
+Registered Retirement Savings Plan (RRSP) and Tax-Free Savings Account (TSFA) (Canada)
+Individual Retirement Account (IRA) and 401K (United States)
+Self-Invested Personal Pension (SIPP) and Stakeholder Pension (United Kingdom)
+Personal Retirement Savings Account (PRSA) - (Ireland)
+KiwiSaver (New Zealand) – Australia and New Zealand have a reciprocal agreement allowing Australians moving to New Zealand to transfer their KiwiSaver funds to an approved Australian superannuation scheme, and vice versa.
+Nippon individual savings account (NISA) (Japan)
+Mandatory Provident Fund (Hong Kong)
+Vanuatu National Provident Fund (Vanuatu) - The Vanuatu National Provident Fund is a compulsory savings scheme for Employees who receive a salary of Vt3, 000 or more a month, to help them financially at retirement.
+Central Provident Fund (Singapore)
+Employees Provident Fund (Malaysia)
+Pensions in Chile
+
+Criticism and issues
+The interaction between superannuation, tax and pension eligibility is complex, meaning that many Australians struggle to engage with their superannuation accounts and utilise them effectively.
+The Australian superannuation industry has been criticised for pursuing self-interested re-investment strategies, and some funds have been accused of choosing investments that benefit related parties ahead of the investor.
+Some superannuation providers provide minimal information to account holders about how their money has been invested. Usually, only vague categories are provided, such as "Australian Shares", with no indication of which shares were purchased.
+Losses to the superannuation funds from the 2008 financial crisis have also been a cause for concern, said to be around $75 billion.
+An avoidable issue with Australia's superannuation system is employees failing to consolidate multiple accounts, thus being charged multiple account fees. In 2018, of Australia's 15 million superannuation fund members, 40% had multiple accounts, which collectively cost them $2.6 billion in additional fees per year. Government initiatives to make consolidating accounts easier have reduced the percentage to 24% in 2022.
+
+See also
+Industry superannuation fund
+Australian Government Future Fund
+German pensions
+Pension system
+Social Security (Australia)
+UK pensions
+US pensions
+
+Notes
+References
+External links
+ASIC's consumer and investor website MoneySmart - Superannuation and Retirement
+Australian Taxation Office - Superannuation
+Super bailout of $59m - excludes DIY investors
+Government compensates most trio capital losses
+Business Spectator - Legality and Constitutional grounds for Mandatory Superannuation in Australia
+Road Map Release My Super
+Proactive superannuation planning

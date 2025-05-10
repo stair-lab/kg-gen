@@ -1,0 +1,19 @@
+A telephone prefix is the first set of digits after the country, and area codes of a telephone number. In the North American Numbering Plan countries (country code 1), it is the first three digits of a seven-digit local phone number, the second three digits of the 3-3-4 scheme.  In other countries, both the prefix and the number may have different lengths. It shows which exchange the remaining numbers refer to. A full telephone number is usually made up of a country code (required for international calls only), area code (required for calls between telephone areas), prefix, and subscriber number.
+Some places restrict certain prefixes to fax numbers or cell phones only; in other places such dedicated prefixes are not used.
+As telephone technology advanced, the precise significance of the prefix became blurred in many places; for instance, 485 in London, UK, was once the GULliver exchange, but now 44-20-7485-xxxx is just considered one of many number blocks served by the CLKEN Kentish Town exchange.
+
+History
+In the earliest days of telephony an operator at the exchange connected calls to a named subscriber; later, numbers were allocated to each subscriber on an exchange, but users on different exchanges could not speak to each other. As progress was made, exchanges were connected together, initially connected by the operator by name, and later dialed by users with prefixes such as WHI (for the WHItehall exchange, hence the famous Whitehall 1212 number for Scotland Yard), with letters corresponding to numbers on the dial (WHI was equivalent to # 944), later replaced by the numerical prefixes which remain in use.
+
+United States prefixes
+In most but not all telephone areas, the prefix 555 is reserved for special services. In particular, 555-1212 is telephone information in most areas. When telephone numbers are used in television programs and movies, a significant number of viewers dial them. Numbers prefixed 555 are usually used for such fictitious use, as they are not allocated to subscribers. When the song 867-5309/Jenny was released, hundreds of calls were made to various people and organizations in the U.S. with that number.  In the film Bruce Almighty a phone number belonging to a real user was shown, leading to a lawsuit.
+
+Prefixes ending in 11 (211, 311, 411, 511, 611, 711, 811 and 911) are disallowed prefixes because they are service codes. The prefix 958 and 959 are for ANAC use and remain unavailable to the general public.
+
+See also
+Telephone numbering plan
+List of international call prefixes
+List of country calling codes
+
+
+== References ==

@@ -1,0 +1,98 @@
+Amoxicillin is an antibiotic medication belonging to the aminopenicillin class of the penicillin family. The drug is used to treat bacterial infections such as middle ear infection, strep throat, pneumonia, skin infections, odontogenic infections, and urinary tract infections. It is taken orally (swallowed by mouth), or less commonly by either intramuscular injection or by an IV bolus injection, which is a relatively quick intravenous injection lasting from a couple of seconds to a few minutes.
+Common adverse effects include nausea and rash. It may also increase the risk of yeast infections and, when used in combination with clavulanic acid, diarrhea. It should not be used in those who are allergic to penicillin. While usable in those with kidney problems, the dose may need to be decreased. Its use in pregnancy and breastfeeding does not appear to be harmful. Amoxicillin is in the β-lactam family of antibiotics.
+Amoxicillin was discovered in 1958 and came into medical use in 1972. Amoxil was approved for medical use in the United States in 1974, and in the United Kingdom in 1977. It is on the World Health Organization's List of Essential Medicines. It is one of the most commonly prescribed antibiotics in children. Amoxicillin is available as a generic medication. In 2022, it was the 26th most commonly prescribed medication in the United States, with more than 20 million prescriptions.
+
+Medical uses
+Amoxicillin is used in the treatment of a number of infections, including acute otitis media, streptococcal pharyngitis, pneumonia, skin infections, urinary tract infections, Salmonella infections, Lyme disease, and chlamydia infections.
+
+Acute otitis media
+Children with acute otitis media who are younger than six months of age are generally treated with amoxicillin or other antibiotics. Although most children with acute otitis media who are older than two years old do not benefit from treatment with amoxicillin or other antibiotics, such treatment may be helpful in children younger than two years old with acute otitis media that is bilateral or accompanied by ear drainage. In the past, amoxicillin was dosed three times daily when used to treat acute otitis media, which resulted in missed doses in routine ambulatory practice. There is now evidence that two-times daily dosing or once-daily dosing has similar effectiveness.
+
+Respiratory infections
+Most sinusitis infections are caused by viruses, for which amoxicillin and amoxicillin-clavulanate are ineffective, and the small benefit gained by amoxicillin may be overridden by the adverse effects.
+Amoxicillin is considered the first-line empirical treatment for most cases of uncomplicated bacterial sinusitis in children and adults when culture data is unavailable. Amoxicillin is recommended as the preferred first-line treatment for community-acquired pneumonia in adults by the National Institute for Health and Care Excellence, either alone (mild to moderate severity disease) or in combination with a macrolide. Research suggests that is as effective as co-amoxiclav (a broad-spectrum antibiotic) for people admitted to hospital with pneumonia, regardless of its severity. The World Health Organization (WHO) recommends amoxicillin as first-line treatment for pneumonia that is not "severe". Amoxicillin is used in post-exposure inhalation of anthrax to prevent disease progression and for prophylaxis.
+
+H. pylori
+It is effective as one part of a multi-drug regimen for the treatment of stomach infections of Helicobacter pylori. It is typically combined with a proton-pump inhibitor (such as omeprazole) and a macrolide antibiotic (such as clarithromycin); other drug combinations are also effective.
+
+Lyme borreliosis
+Amoxicillin is effective for the treatment of early cutaneous Lyme borreliosis; the effectiveness and safety of oral amoxicillin is neither better nor worse than common alternatively-used antibiotics.
+
+Odontogenic infections
+Amoxicillin is used to treat odontogenic infections, infections of the tongue, lips, and other oral tissues. It may be prescribed following a tooth extraction, particularly in those with compromised immune systems.
+
+Skin infections
+Amoxicillin is occasionally used for the treatment of skin infections, such as acne vulgaris. It is often an effective treatment for cases of acne vulgaris that have responded poorly to other antibiotics, such as doxycycline and minocycline.
+
+Infections in infants in resource-limited settings
+Amoxicillin is recommended by the World Health Organization for the treatment of infants with signs and symptoms of pneumonia in resource-limited situations when the parents are unable or unwilling to accept hospitalization of the child. Amoxicillin in combination with gentamicin is recommended for the treatment of infants with signs of other severe infections when hospitalization is not an option.
+
+Prevention of bacterial endocarditis
+It is also used to prevent bacterial endocarditis and as a pain-reliever in high-risk people having dental work done, to prevent Streptococcus pneumoniae and other encapsulated bacterial infections in those without spleens, such as people with sickle-cell disease, and for both the prevention and the treatment of anthrax. The United Kingdom recommends against its use for infectious endocarditis prophylaxis. These recommendations do not appear to have changed the rates of infection for infectious endocarditis.
+
+Combination treatment
+Amoxicillin is susceptible to degradation by β-lactamase-producing bacteria, which are resistant to most β-lactam antibiotics, such as penicillin. For this reason, it may be combined with clavulanic acid, a β-lactamase inhibitor. This drug combination is commonly called co-amoxiclav.
+
+Spectrum of activity
+It is a moderate-spectrum, bacteriolytic, β-lactam antibiotic in the aminopenicillin family used to treat susceptible Gram-positive and Gram-negative bacteria. It is usually the drug of choice within the class because it is better absorbed, following oral administration, than other β-lactam antibiotics.
+In general, Streptococcus, Bacillus subtilis, Enterococcus, Haemophilus, Helicobacter, and Moraxella are susceptible to amoxicillin, whereas Citrobacter, Klebsiella and Pseudomonas aeruginosa are resistant to it. Some E. coli and most clinical strains of Staphylococcus aureus have developed resistance to amoxicillin to varying degrees.
+
+Adverse effects
+Adverse effects are similar to those for other β-lactam antibiotics, including nausea, vomiting, rashes, and antibiotic-associated colitis. Diarrhea (loose bowel movements) may also occur.
+Rarer adverse effects include mental and behavioral changes, lightheadedness, insomnia, hyperactivity, agitation, confusion, anxiety, sensitivity to lights and sounds, and unclear thinking. Immediate medical care is required upon the first signs of these adverse effects. Similarly to other penicillins, amoxicillin has been associated with an increased risk of seizures. Amoxicillin-induced neurotoxicity has been especially associated with concentrations of greater than 110 mg/L.
+The onset of an allergic reaction to amoxicillin can be very sudden and intense; emergency medical attention must be sought as quickly as possible. The initial phase of such a reaction often starts with a change in mental state, skin rash with intense itching (often beginning in the fingertips and around the groin area and rapidly spreading), and sensations of fever, nausea, and vomiting. Any other symptoms that seem even remotely suspicious must be taken very seriously.  However, more mild allergy symptoms, such as a rash, can occur at any time during treatment, even up to a week after treatment has ceased.  For some people allergic to amoxicillin, the adverse effects can be fatal due to anaphylaxis.
+Use of the amoxicillin/clavulanic acid combination for more than one week has caused a drug-induced immunoallergic-type hepatitis in some patients. Young children having ingested acute overdoses of amoxicillin manifested lethargy, vomiting, and renal dysfunction.
+There is poor reporting of adverse effects of amoxicillin from clinical trials. For this reason, the severity and frequency of adverse effects from amoxicillin are probably higher than reported in clinical trials.
+
+Nonallergic rash
+Between 3 and 10% of children taking amoxicillin (or ampicillin) show a late-developing (>72 hours after beginning medication and having never taken penicillin-like medication previously) rash, which is sometimes referred to as the "amoxicillin rash". The rash can also occur in adults and may rarely be a component of the DRESS syndrome.
+The rash is described as maculopapular or morbilliform (measles-like; therefore, in medical literature, it is called "amoxicillin-induced morbilliform rash".). It starts on the trunk and can spread from there. This rash is unlikely to be a true allergic reaction and is not a contraindication for future amoxicillin usage, nor should the current regimen necessarily be stopped. However, this common amoxicillin rash and a dangerous allergic reaction cannot easily be distinguished by inexperienced persons, so a healthcare professional is often required to distinguish between the two.
+A nonallergic amoxicillin rash may also be an indicator of infectious mononucleosis. Some studies indicate about 80–90% of patients with acute Epstein–Barr virus infection treated with amoxicillin or ampicillin develop such a rash.
+
+Interactions
+Amoxicillin may interact with these drugs:
+
+Anticoagulants (dabigatran, warfarin).
+Methotrexate (chemotherapy and immunosuppressant).
+Typhoid, Cholera and BCG vaccines.
+Probenecid reduces renal excretion and increases blood levels of amoxicillin.
+Oral contraceptives potentially become less effective.
+Allopurinol (gout treatment).
+Mycophenolate (immunosuppressant)
+When given intravenously or intramuscularly:
+
+It should not be mixed with blood products, or proteinaceous fluids (including protein hydrolysates) or with intravenous lipid emulsions
+aminoglycoside should be injected at a separate site from amoxicillin if the patient is prescribed both medications at the same time. Neither drug should be mixed in a syringe. Neither should they be mixed in an intravenous fluid container or giving set because of loss of activity of the aminoglycoside under these conditions.
+ciprofloxacin should not be mixed with amoxicillin.
+Infusions containing dextran or bicarbonate should not be mixed with amoxicillin solutions.
+
+Pharmacology
+Amoxicillin (α-amino-p-hydroxybenzyl penicillin) is a semisynthetic derivative of penicillin with a structure similar to ampicillin but with better absorption when taken by mouth, thus yielding higher concentrations in blood and in urine. Amoxicillin diffuses easily into tissues and body fluids. It will cross the placenta and is excreted into breastmilk in small quantities. It is metabolized by the liver and excreted into the urine. It has an onset of 30 minutes and a half-life of 3.7 hours in newborns and 1.4 hours in adults.
+Amoxicillin attaches to the cell wall of susceptible bacteria and results in their death. It is effective against streptococci, pneumococci, enterococci, Haemophilus influenzae, Escherichia coli, Proteus mirabilis, Neisseria meningitidis, Neisseria gonorrhoeae, Shigella, Chlamydia trachomatis, Salmonella, Borrelia burgdorferi, and Helicobacter pylori. As a derivative of ampicillin, amoxicillin is a member of the penicillin family and, like penicillins, is a β-lactam antibiotic. It inhibits cross-linkage between the linear peptidoglycan polymer chains that make up a major component of the bacterial cell wall. It has two ionizable groups in the physiological range (the amino group in alpha-position to the amide carbonyl group and the carboxyl group).
+
+Chemistry
+Amoxicillin is a β-lactam and aminopenicillin antibiotic in terms of chemical structure. It is structurally related to ampicillin.
+The experimental log P of amoxicillin is 0.87. It is described as an "ambiphilic"—between hydrophilic and lipophilic—antibiotic.
+
+History
+Amoxicillin was one of several semisynthetic derivatives of 6-aminopenicillanic acid (6-APA) developed by the Beecham Group in the 1960s. It was invented by Anthony Alfred Walter Long and John Herbert Charles Nayler, two British scientists. It became available in 1972 and was the second aminopenicillin to reach the market (after ampicillin in 1961). Co-amoxiclav became available in 1981.
+
+Society and culture
+Economics
+Amoxicillin is relatively inexpensive. In 2022, a survey of eight generic antibiotics commonly prescribed in the United States found their average cost to be about $42.67, while amoxicillin was sold for $12.14 on average.
+
+Modes of delivery
+Pharmaceutical manufacturers make amoxicillin in trihydrate form, for oral use available as capsules, regular, chewable and dispersible tablets, syrup and pediatric suspension for oral use, and as the sodium salt for intravenous administration.
+An extended-release is available. The intravenous form of amoxicillin is not sold in the United States. When an intravenous aminopenicillin is required in the United States, ampicillin is typically used. When there is an adequate response to ampicillin, the course of antibiotic therapy may often be completed with oral amoxicillin.
+Research with mice indicated successful delivery using intraperitoneally injected amoxicillin-bearing microparticles.
+
+Names
+Amoxicillin is the international nonproprietary name (INN), British Approved Name (BAN), and United States Adopted Name (USAN), while amoxycillin is the Australian Approved Name (AAN).
+Amoxicillin is one of the semisynthetic penicillins discovered by the former pharmaceutical company Beecham Group. The patent for amoxicillin has expired, thus amoxicillin and co-amoxiclav preparations are marketed under various brand names across the world.
+
+Veterinary uses
+Amoxicillin is also sometimes used as an antibiotic for animals. The use of amoxicillin for animals intended for human consumption (chickens, cattle, and swine for example) has been approved.
+
+References
+Further reading
+Neal MJ (2002). Medical Pharmacology at a Glance (4th ed.). Oxford: Blackwell Science. ISBN 978-0-632-05244-8.

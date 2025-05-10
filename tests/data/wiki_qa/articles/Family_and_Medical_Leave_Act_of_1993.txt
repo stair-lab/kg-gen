@@ -1,0 +1,146 @@
+The Family and Medical Leave Act of 1993 (FMLA) is a United States labor law requiring covered employers to provide employees with job-protected, unpaid leave for qualified medical and family reasons. The FMLA was a major part of President Bill Clinton's first-term domestic agenda, and he signed it into law on February 5, 1993. The FMLA is administered by the Wage and Hour Division of the United States Department of Labor.
+The FMLA allows eligible employees to take up to 12 work weeks of unpaid leave during any 12-month period to care for a new child, care for a seriously ill family member, or recover from a serious illness. The FMLA covers both public- and private-sector employees, but certain categories of employees, including elected officials and highly compensated employees, are excluded or face certain limitations. To be eligible for FMLA leave, an employee must have worked for their employer for at least 12 months, have worked at least 1,250 hours over the past 12 months, and work for an employer with at least 50 employees within a 75-mile radius. Several states have passed laws providing additional family and medical leave protections for workers.
+
+Background
+Before the 1992 presidential election, a family medical leave act had been vetoed twice by President George H. W. Bush. After Bill Clinton won the 1992 election, a law protecting family medical leave became one of his major first-term domestic priorities. Rapid growth in the workforce, including a large number of women joining, suggested a federal regulation that would support workers who wanted to raise a family and/or needed time off for illness-related situations. Clinton signed the bill into law on February 5, 1993 (codified under Pub. L. 103–3, 29 U.S.C. § 2601, and 29 CFR 825), with enforcement of the bill to start on August 5, 1993.
+The United States Congress passed the Act with the understanding that "it is important for the development of children and the family unit that fathers and mothers be able to participate in early childrearing ... [and] the lack of employment policies to accommodate working parents can force individuals to choose between job security and parenting." It also stressed the Act was intended to provide leave protection "in a manner that accommodates the legitimate interests of employers."
+On December 20, 2019, as part of the National Defense Authorization Act (NDAA) for Fiscal Year 2020, the Federal Employee Paid Leave Act (FEPLA) amended the FMLA to grant federal government employees up to 12 weeks of paid time off for the birth, adoption, or foster of a new child. The law applies to births or placements occurring on or after October 1, 2020.
+
+Contents
+Scope of rights
+The Family and Medical Leave Act of 1993 generally applies to employers of 50 or more employees in 20 weeks of the last year. An employee must have worked over 12 months and 1,250 hours in the last year (around 25 hours a week), and they must have worked at a work site where the total number of employees employed by the employer within 75 miles of that work site is at least 50. 
+For employees with no fixed work site, their work site is considered to be the location where they are assigned as their "home base", where their work is assigned, or where they report. A work site is never considered the employee's home, even if they work from home; in these cases, their worksite is considered the location where they report and that assigns them work. Employees who are not employed in U.S. nor its territories are not counted. For educational institutions, teachers who are employed permanently or under contract are counted even when school is not in session.  Work sites include public agencies, including schools and state, local, and federal employers. After a private employer meets the 50 employees in 20 workweeks threshold, the employer continues to be covered by FMLA until the employer no longer has employed 50 employees for 20 workweeks in both the current and the preceding calendar year. The 50-employee threshold does not apply to public agency employees or local educational agencies. There are special hours rules for certain airline employees.
+The 75-mile radius is measured using the shortest route using surface roads or waterways. 
+Employees must give employers 30 days' notice if birth or adoption is "foreseeable", and for serious health conditions if practicable. Treatments should be arranged "so as not to disrupt unduly the operations of the employer" according to medical advice.
+Along with the 30 days' notice, there are other requirements when seeking the FMLA rights. If an employee wants to leave the first time using their FMLA rights, they must first claim the Family and Medical Leave Act. In the case that an employee were to take FMLA leave again, the same process must proceed.
+With the release of employees, there is also a certification. The absence of an employee due to the conditions they may have may require certification as proof of the verification of absence. To certify an employee's leave, the employer may ask for other requirements, such as multiple medical opinions. All these prerequisites are at the employer's expense. Certain additional rules may apply to employees of local education agencies.
+In most of the United States, employers and employees cannot refuse the application of the FMLA to FMLA-qualifying absences. But since Escriba v. Foster Poultry Farms, Inc., 743 F.3d 1236, 1244 (9th Cir. 2014), in those states under the jurisdiction of the Ninth Circuit, an "employee can affirmatively decline to use FMLA leave, even if the underlying reason for seeking the leave would have invoked FMLA protection."
+
+Rights during leave
+Employees can have up to 12 weeks of unpaid leave for childbirth, adoption, to care for a close relative in poor health, or because of an employee's own poor health. In full, the purposes for leave are:
+
+to care for a new child, whether for the birth, the adoption, or placement of a child in foster care;
+to care for a seriously ill family member (spouse, son, daughter, or parent) (Note: Son/daughter has been clarified by the Department of Labor to mean a child under the age of 18 or a child over the age of 18 with a mental or physical disability as defined by the Americans With Disabilities Act, which excludes, among other conditions, pregnancy and post-partum recovery from childbirth);
+to recover from a worker's own serious health condition;
+to care for an injured service member in the family;
+to address qualifying exigencies arising out of a family member's deployment; or
+twenty-six work weeks of leave during a single 12-month period to care for a covered servicemember with a serious injury or illness if the eligible employee is the servicemember's spouse, son, daughter, parent, or next of kin (military caregiver leave).
+A serious health condition may be an illness, injury, impairment, physical condition, or mental condition that involves inpatient care or involves continuing treatment by a health care provider. A health condition is considered serious if it involves an overnight stay in a medical facility or if it requires continuing treatment by a health care provider. 
+Child care leave should be taken in one lump, unless an employer agrees otherwise. If a father and mother have the same employer, they must share their leave, in effect halving each person's rights, if the employer so chooses.
+Employers must continue to provide all employment benefits during the leave that the employee had accrued prior to the leave. Under §2652(b) states are empowered to provide "greater family or medical leave rights".
+Since 2008, the Department of Labor has allowed the spouse, child, or parent of an active-duty military member who is deployed overseas for 12 or more months to take up to 12 weeks of leave. Also, a military caregiver provision was added that would allow a caregiver to take up to 26 weeks of leave in order to actively care for a military member who requires medical attention for acute or ongoing conditions.
+
+Substitute leave
+Under §2612(d)(2)(A) an employer can make an employee substitute the right to 12 unpaid weeks of leave for "accrued paid vacation leave, personal leave or family leave" in an employer's personnel policy. Originally the Department of Labor had a penalty to make employers notify employees that this might happen. However, five judges in the US Supreme Court in Ragsdale v Wolverine World Wide, Inc held that the statute precluded the right of the Department of Labor to do so. Four dissenting judges would have held that nothing prevented the rule, and it was the Department of Labor's job to enforce the law.
+
+Right to return to job
+After unpaid leave, an employee generally has the right to return to their job, except for employees who are in the top 10% of highest paid and the employer can argue refusal "is necessary to prevent substantial and grievous economic injury to the operations of the employer." In full, the rights during and after unpaid leave are to:
+
+the same group health insurance benefits, including employer contributions to premiums, that would exist if the employee were not on leave.
+restoration to the same position upon return to work. If the same position is unavailable, the employer must provide the worker with a position that is substantially equal in pay, benefits, and responsibility.
+protection of employee benefits while on leave. An employee is entitled to reinstatement of all benefits to which the employee was entitled before going on leave.
+protection of the employee to not have their rights under the Act interfered with or denied by an employer.
+protection of the employee from retaliation by an employer for exercising rights under the Act.
+intermittent FMLA leave for their own serious health condition, or the serious health condition of a family member. This includes occasional leave for doctors' appointments for a chronic condition, treatment (e.g., physical therapy, psychological counseling, chemotherapy), or temporary periods of incapacity (e.g., severe morning sickness, asthma attack).
+"Highly compensated employees" have limited rights to return to their jobs. They are defined as "a salaried eligible employee who is among the highest paid 10 percent of the employees employed by the employer within 75 miles of the facility at which the employee is employed." Their employers are not required to restore them to their original position (or an equivalent position with equivalent pay and benefits, as is guaranteed to other employees) if the employer determines that denying the employee their position is "necessary to prevent substantial and grievous economic injury to the operations of the employer"  and the employer provides the worker with notice of this decision, though no time frame for providing this notice is established.
+
+Enforcement
+Employees or the Secretary of Labor can bring enforcement actions, but there is no right to a jury for reinstatement claims. Employees can seek damages for lost wages and benefits, or the cost of child care, plus an equal amount of liquidated damages unless an employer can show it acted in good faith and reasonable cause to believe it was not breaking the law. There is a two-year limit on bringing claims, or three years for willful violations.
+
+Non-eligible workers and types of leave
+The federal FMLA does not apply to:
+
+workers in businesses with fewer than 50 employees (this threshold does not apply to public agency employers and local educational agencies as they are covered employers by name but there still must be at least 50 employees with a 75-mile radius for the employee to be eligible for FMLA leave);
+part-time workers who have worked fewer than 1,250 hours within the 12 months preceding the leave and a paid vacation;
+workers who need time off to care for seriously ill elderly relatives (other than parents), unless the relative was acting in loco parentis at the time the worker turned 18;
+workers who need time off to recover from short-term or common illness like a cold, or to care for a family member with a short-term illness;
+elected officials;
+workers who need time off for routine medical care, such as check-ups; and
+workers who need time off to care for pets.
+
+State family leave
+Some states have enacted laws that mandate additional family and medical leave for workers in a variety of ways. By 2017 five states and DC had laws for paid family leave: California since 2002, New Jersey since 2008, Rhode Island since 2013, New York since 2016, and the District of Columbia since 2019. Washington state passed a paid family and medical leave law in 2007. In 2015 Governor Jay Inslee secured a federal grant to begin designing a paid family leave program. The Washington State Legislature approved Senate Bill 5975 during the 2017 legislative session and the new law went into effect on October 19, 2017.
+
+Dropping the employer threshold
+The federal FMLA only applies to employers with 50 or more employees within 75 miles. Some states have enacted their own FMLAs that have a lower threshold for employer coverage:
+
+Maine: 15 or more employees (private employers) and 25 or more (state or municipal employers).
+Maryland: 15 or more employees (private employers): up to seven days for bone marrow donation, 30 days for organ donation.
+Minnesota: 21 or more employees (parental leave only).
+Oregon: 25 or more employees. An employee must have worked at least 180 days, and averaged 25 hours per week at the time medical leave is requested
+Rhode Island: 50 or more employees (private employers) and 30 or more employees (public employers).
+Vermont: 10 or more employees (parental leave only) and 15 or more employees (family and medical leave).
+Washington: 50 or more employees (FMLA reasons besides insured parental leave); all employers are required to provide insured parental leave.
+District of Columbia: 20 or more employees.
+
+Expanded coverage
+The federal FMLA only applies to immediate family—parent, spouse, and child. The 2008 amendments to the FMLA for military family members extend the FMLA's protection to next of kin and to adult children. The Department of Labor on June 22, 2010, clarified the definition of "son and daughter" under the FMLA "to ensure that an employee who assumes the role of caring for a child receives parental rights to family leave regardless of the legal or biological  relationship" and specifying that "an employee who intends to share in the parenting of a child with their same sex partner will be able to exercise the right to FMLA leave to bond with that child."
+In February 2015, the Department of Labor issued its final rule (effective March 27, 2015) amending the definition of spouse under the FMLA in response to the 2013 decision in United States v. Windsor. The revised definition of "spouse" extends FMLA leave rights and job protections to eligible employees in a same-sex marriage or a common-law marriage entered into in a state where those statuses are legally recognized, regardless of the state in which the employee works or resides. Even if an employee works where same-sex or common law marriage is not recognized, that employee's spouse triggers FMLA coverage if the employee married in a state that recognized same-sex marriage or common law marriage. Some states had already expanded the definition of family in their own FMLAs:
+
+California: Domestic partner and domestic partner's child.
+Connecticut: Civil union partner, parent-in-law.
+Hawaii: Grandparent, parent-in-law, grandparent-in-law or an employee's reciprocal beneficiary.
+Maine: Domestic partner and domestic partner's child, siblings.
+Maryland: Allows the employee to use time for immediate family under the same rules if taking it for themselves. Includes step, adopted and even people who were primary caregivers even if not related.
+New Jersey: Civil union partner and child of civil union partner, parent-in-law, step parent.
+Oregon: Domestic partner, grandparent, grandchild or parent-in-law.
+Rhode Island: Domestic partners of state employees, parent-in-law.
+Vermont: Civil union partner, parent-in-law.
+Wisconsin: Parent-in-law.
+District of Columbia: Related to the worker by blood, legal custody, or marriage; person with whom the employee lives and has a committed relationship; child who lives with employee and for whom employee permanently assumes and discharges parental responsibility.
+In June 2015, Obergefell v. Hodges required states to perform and recognize same-sex marriages. This eliminated the need for FMLA to distinguish which states perform and recognize same-sex marriage.
+
+Increasing the uses for FMLA leave
+FMLA leave can be used for a worker's serious health condition, the serious health condition of a family member, or upon the arrival of a new child. State FMLA laws and the new military family provisions of the FMLA have broadened these categories:
+
+Connecticut: Organ or bone marrow donor.
+Maine: Organ donor; death of employee's family member if that family member is a servicemember killed while on active duty.
+Maryland: Maryland Family Leave Act (MFLA) – Organ donor, Person Standing in Loco Parentis, For Service Leave, and added a specific anti-retaliation penalty on top of FMLA recovery. Runs parallel to FMLA.
+Oregon: Care for the non-serious injury or illness of a child requiring home care.
+
+Unpaid leave for other related purposes
+Several states have passed FMLA-type statutes to give parents unpaid leave for other related purposes, including:
+
+Attending child's school or educational activities. Examples include California, District of Columbia, Massachusetts, Minnesota, Rhode Island, Vermont, and others.
+Taking family members to routine medical visits. Massachusetts and Vermont.
+Addressing the effects of domestic violence, stalking, or sexual assault. Examples include Colorado, Florida, Hawaii, and Illinois.
+
+Significance
+In 2003, Han and Waldfogel found that "only about 60% of private sector workers are covered"  due to the clause stipulating a minimum number of employees, and once the clause stipulating a minimum number of hours worked is added, only 46% of private sector workers are eligible for leave under the FMLA. In June 2007, the Department of Labor's Employment Standards Administration estimated that of 141.7 million workers in the United States, 94.4 million worked at FMLA-covered worksites, and 76.1 million were eligible for FMLA leave. Only eight to 17.1 percent of covered, eligible workers (or between 6.1 million and 13.0 million workers) took FMLA leave in 2005. The 2008 National Survey of Employers found no statistically significant difference between the proportion of small employers (79%) and large employers (82%) that offer full FMLA coverage. A 2012 Department of Labor study which was assisted through workplace surveys found that "employees' use of leave, and employers' granting and administration of leave, have achieved a level of stability. Employees actively make use of the intended benefits
+established by the Act, but appear to have limited knowledge of what the Act specifically entails and
+covers. At the same time, most employers report that complying with the FMLA imposes minimal
+burden on their operations, although a subset of employers reported difficulty complying."
+Although much of the research has been conducted on populations in other countries, Berger et al. found that children in the United States whose mothers return to work within the first 3 months after giving birth are less likely to be breastfed, have all of their immunizations up to date (by 18 months), and receive all of their regular medical checkups; they are also more likely to exhibit behavioral problems by four years of age. Chatterji and Markowitz  also found an association between longer lengths of maternity leave and lesser incidence of depression among mothers.
+In spite of the FMLA's lack of requirements to provide paid leave, the 2012 Department of Labor study found that by that point in time, most employees who were surveyed reported receiving some sort of paid leave, with 48% reported as receiving full pay and another 17% receive
+partial pay, usually but not exclusively through regular paid vacation leave, sick leave, or other "paid
+time off" hours. However, despite the FMLA's expansion of rights to take leave, it did guarantee a right to free child care or day care at the federal level. This has encouraged several proposals to create a public system of free child care, or for the government to subsidize parents' costs.
+
+Controversy
+The act was controversial at its passage. Much of the controversy focused on its impact on the business community, and on whether the law should be gender neutral or not. 
+In order to make the law more acceptable,  it was argued that the law would reduce abortions.  Proponents  of  the  law  focused on  its  benefit  to men and children, in order to counter the claim that it was giving women "special treatment."  Other controversies focused on whether the leave should be paid or not.
+The law was finally approved, mandating unpaid gender-neutral leave; nevertheless it was still criticized.
+Critics of the act have suggested that by mandating various forms of leave that are used more often by female than male employees, the Act, like the Pregnancy Discrimination Act of 1978, makes women more expensive to employ than men. They argue that employers will engage in subtle discrimination against women in the hiring process, discrimination which is much less obvious to detect than pregnancy discrimination against the already hired. Throughout history, gender discrimination towards women was common; certain laws were placed that would restrict a woman's option in choosing a working position, as well as, how many hours she could work ei. Employers  Supporters counter that the act, in contrast to the Pregnancy Discrimination Act of 1978, is aimed at both women and men, and is part of an overall strategy to encourage both men and women to take family-related leave. However, this is based on the assumption that men will take advantage of the opportunity of unpaid leave at comparable rates to women. According to Grossman, there is no basis for this assumption upon the inception of the legislation and no evidence has been found today to support this assumption. Therefore, the employer incentive to prefer male employees is preserved despite the equal opportunity for both sexes to take leave.
+Moreover, the FMLA is much less comprehensive than Western European leave policies. Namely, the United States is the only industrialized country without paid leave for parents. This illustrates the lack of provisions offered in the United States as compared to that of other industrialized countries. For instance, all Western European nations have maternity paid leave and over half have paternity and sick child care paid leave, while the United States has no paid leave.
+Additionally, workplace fairness has been questioned under the Act. For instance, any woman-specific benefits provided by the legislation were considered special treatment and thus unacceptable, and ignoring the idea that women may have a greater share of burden of caregiving in reality. In retort, supporters may argue that creating such legislation that recognizes the female's greater role in child care,  stereotype would be reinforced.
+The success of the implementation of the policy is also controversial because it is questioned whether the policy is actually going to those who need the benefits. For instance, since the leave offered is unpaid, majorities of eligible employees can not take time off because they can not afford to do so. And according to Pyle and Pelletier, eligible workers may not even know about this policy and the benefits allotted to them.
+Under law, women are protected from sex discrimination in the workplace but a large stigma against women still exists in terms of them being equally skilled as their male co-workers, and ultimately testing the federal protection of rights in a work environment. Like any other federal regulation, it is strictly prohibited for an employer to discriminate towards an employee (especially if the employee is using their FMLA rights), and to strain from providing accurate information for all employees to access.
+
+Signing ceremony
+Vicki Yandle, a receptionist who was fired after asking for a few weeks of time off to care for a daughter with cancer, was on stage with President Clinton when the law was signed.
+
+See also
+United States labor law
+Cleveland Board of Education v. LaFleur (1974)
+
+Notes
+External links
+Family and Medical Leave Act of 1993 (PDF/details) as amended in the GPO Statute Compilations collection
+Family and Medical Leave Act of 1993 29 U.S. Code Chapter 28
+Department of Labor Family & Medical Leave information pages
+Senate roll call vote
+House roll call vote
+Nevada Dept. of Human Resources v. Hibbs
+Your Rights Under the Federal Family and Medical Leave Act (FMLA)
+A Child's Wish at IMDb  – A made-for-TV film about the act in which President Clinton appears briefly as himself.
+https://web.archive.org/web/20090703173531/http://paidsickdays.nationalpartnership.org/site/PageServer?pagename=ourwork_fmla_FamilyandMedicalLeave
+http://www.nationalpartnership.org/site/DocServer/WF_PL_FactSheet_PaidFamilyLeave_2009.pdf?docID=4682&autologin=true

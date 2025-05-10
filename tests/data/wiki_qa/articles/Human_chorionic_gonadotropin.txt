@@ -1,0 +1,116 @@
+Human chorionic gonadotropin (hCG) is a hormone for the maternal recognition of pregnancy produced by trophoblast cells that are surrounding a growing embryo (syncytiotrophoblast initially), which eventually forms the placenta after implantation. The presence of hCG is detected in some pregnancy tests (HCG pregnancy strip tests). Some cancerous tumors produce this hormone; therefore, elevated levels measured when the patient is not pregnant may lead to a cancer diagnosis and, if high enough, paraneoplastic syndromes, however, it is unknown whether this production is a contributing cause or an effect of carcinogenesis. The pituitary analog of hCG, known as luteinizing hormone (LH), is produced in the pituitary gland of males and females of all ages.
+Beta-hCG is initially secreted by the syncytiotrophoblast.
+
+Structure
+Human chorionic gonadotropin is a glycoprotein composed of 237 amino acids with a molecular mass of 36.7 kDa, approximately 14.5kDa αhCG and 22.2kDa βhCG.
+It is heterodimeric, with an α (alpha) subunit identical to that of luteinizing hormone (LH), follicle-stimulating hormone (FSH), thyroid-stimulating hormone (TSH), and a β (beta) subunit that is unique to hCG.
+
+The α (alpha) subunit is 92 amino acids long.
+The β-subunit of hCG gonadotropin (beta-hCG) contains 145 amino acids, encoded by six highly homologous genes that are arranged in tandem and inverted pairs on chromosome 19q13.3 - CGB (1, 2, 3, 5, 7, 8). It is known that CGB7 has a sequence slightly different from that of the others.
+The two subunits create a small hydrophobic core surrounded by a high surface area-to-volume ratio: 2.8 times that of a sphere.  The vast majority of the outer amino acids are hydrophilic.
+beta-hCG is mostly similar to beta-LH, with the exception of a Carboxy Terminus Peptide (beta-CTP) containing four glycosylated serine residues that is responsible for hCG's longer half-life.
+
+Function
+Human chorionic gonadotropin interacts with the LHCG receptor of the ovary and promotes the maintenance of the corpus luteum for the maternal recognition of pregnancy at the beginning of pregnancy. This allows the corpus luteum to secrete the hormone progesterone during the first trimester. Progesterone enriches the uterus with a thick lining of blood vessels and capillaries so that it can sustain the growing fetus.
+It has been hypothesized that hCG may be a placental link for the development of local maternal immunotolerance. For example, hCG-treated endometrial cells induce an increase in T cell apoptosis (dissolution of T cells).  These results suggest that hCG may be a link in the development of peritrophoblastic immune tolerance, and may facilitate the trophoblast invasion, which is known to expedite fetal development in the endometrium. It has also been suggested that hCG levels are linked to the severity of morning sickness or hyperemesis gravidarum in pregnant women.
+Because of its similarity to LH, hCG can also be used clinically to induce ovulation in the ovaries as well as testosterone production in the testes. As the most abundant biological source is in women who are presently pregnant, some organizations collect urine from pregnant women to extract hCG for use in fertility treatment.
+Human chorionic gonadotropin also plays a role in cellular differentiation/proliferation and may activate apoptosis.
+
+Production
+Naturally, it is produced in the human placenta by the syncytiotrophoblast.
+Like any other gonadotropins, it can be extracted from the urine of pregnant women or produced from cultures of genetically modified cells using recombinant DNA technology.
+In Pubergen, Pregnyl, Follutein, Profasi, Choragon and Novarel, it is extracted from the urine of pregnant women. In Ovidrel, it is produced with recombinant DNA technology.
+
+hCG forms
+Three major forms of hCG are produced by humans, with each having distinct physiological roles. These include regular hCG, hyperglycosylated hCG, and the free beta-subunit of hCG. Degradation products of hCG have also been detected, including nicked hCG, hCG missing the C-terminal peptide from the beta-subunit, and free alpha-subunit, which has no known biological function. Some hCG is also made by the pituitary gland with a pattern of glycosylation that differs from placental forms of hCG.
+Regular hCG is the main form of hCG associated with the majority of pregnancy and in non-invasive molar pregnancies.  This is produced in the trophoblast cells of the placental tissue. Hyperglycosylated hCG is the main form of hCG during the implantation phase of pregnancy, with invasive molar pregnancies, and with choriocarcinoma.
+Gonadotropin preparations of hCG can be produced for pharmaceutical use from animal or synthetic sources.
+
+Testing
+Blood or urine tests measure hCG. These can be pregnancy tests. hCG-positive can indicate an implanted blastocyst and mammalian embryogenesis or can be detected for a short time following  childbirth or pregnancy loss. Tests can be done to diagnose and monitor germ cell tumors and gestational trophoblastic diseases.
+Concentrations are commonly reported in thousandth international units per milliliter (mIU/mL). The international unit of hCG was originally established in 1938 and has been redefined in 1964 and in 1980. At the present time, 1 international unit is equal to approximately 2.35×10−12 moles, or about 6×10−8 grams.
+It is also possible to test for hCG to have an approximation of the gestational age.
+
+Methodology
+Most tests employ a monoclonal antibody, which is specific to the β-subunit of hCG (β-hCG). This procedure is employed to ensure that tests do not make false positives by confusing hCG with LH and FSH. (The latter two are always present at varying levels in the body, whereas the presence of hCG almost always indicates pregnancy.)
+Many hCG immunoassays are based on the sandwich principle, which uses antibodies to hCG labeled with an enzyme or a conventional or luminescent dye.
+Pregnancy urine dipstick tests are based on the lateral flow technique.
+
+The urine test may be a chromatographic immunoassay or any of several other test formats, home-, physician's office-, or laboratory-based.  Published detection thresholds range from 20 to 100 mIU/mL, depending on the brand of test. Early in pregnancy, more accurate results may be obtained by using the first urine of the morning (when urine is most concentrated). When the urine is dilute (specific gravity less than 1.015), the hCG concentration may not be representative of the blood concentration, and the test may be falsely negative.
+The serum test, using 2-4 mL of venous blood, is typically a chemiluminescent or fluorimetric immunoassay that can detect βhCG levels as low as 5 mIU/mL and allows quantification of the βhCG concentration.
+
+Reference levels in normal pregnancy
+The hCG levels grow exponentially after conception and implantation. hCG levels typically peak around weeks 8-11 of pregnancy and are generally higher in the first trimester compared to the second trimester.
+The following is a list of serum hCG levels:
+LMP is the last menstrual period dated from the first day of the last menstrual period 
+
+If a pregnant woman has serum hCG levels that are higher than expected, they may be experiencing a multiple pregnancy or an abnormal uterine growth. Falling hCG levels may indicate the possibility of a miscarriage. hCG levels which are rising at a slower rate than expected may indicate an ectopic pregnancy.
+
+Interpretation
+The ability to quantitate the βhCG level is useful in monitoring germ cell and trophoblastic tumors, follow-up care after miscarriage, and diagnosis of and follow-up care after treatment of ectopic pregnancy. The lack of a visible fetus on vaginal ultrasound after βhCG levels reach 1500 mIU/mL is strongly indicative of an ectopic pregnancy. Still, even an hCG over 2000 IU/L does not necessarily exclude the presence of a viable intrauterine pregnancy in such cases.
+As pregnancy tests, quantitative blood tests and the most sensitive urine tests usually detect hCG between 6 and 12 days after ovulation. It must be taken into account, however, that total hCG levels may vary in a very wide range within the first 4 weeks of gestation, leading to false results during this period. A rise of 35% over 48 hours is proposed as the minimal rise consistent with a viable intrauterine pregnancy.
+
+Associations with pathologies
+Gestational trophoblastic disease like hydatidiform moles ("molar pregnancy") or choriocarcinoma may produce high levels of βhCG due to the presence of syncytiotrophoblasts, part of the villi that make up the placenta, and despite the absence of an embryo. This, as well as several other conditions, can lead to elevated hCG readings in the absence of pregnancy.
+hCG levels are also a component of the triple test, a screening test for certain fetal chromosomal abnormalities/birth defects. High hCG levels in the maternal serum could suggest Down syndrome, potentially due to continued hCG production by the placenta beyond the first trimester.
+A study of 32 normal pregnancies came to the result that a gestational sac of 1–3 mm was detected at a mean hCG level of 1150 IU/L (range 800–1500), a yolk sac was detected at a mean level of 6000 IU/L (range 4500–7500) and fetal heartbeat was visible at a mean hCG level of 10,000 IU/L (range 8650–12,200).
+
+Uses
+Tumor marker
+Human chorionic gonadotropin can be used as a tumor marker, as its β subunit is secreted by some cancers including seminoma, choriocarcinoma, teratoma with elements of choriocarcinoma, other germ cell tumors, hydatidiform mole, and islet cell tumor. For this reason, a positive result in males can be a test for testicular cancer. The normal range for men is between 0-5 mIU/mL. Combined with alpha-fetoprotein, β-HCG is an excellent tumor marker for the monitoring of germ cell tumors.
+
+Fertility
+Human chorionic gonadotropin injection is extensively used for final maturation induction in lieu of luteinizing hormone. In the presence of one or more mature ovarian follicles, ovulation can be triggered by the administration of HCG. As ovulation will happen between 38 and 40 hours after a single HCG injection, procedures can be scheduled to take advantage of this time sequence, such as intrauterine insemination or sexual intercourse. Also, patients that undergo IVF, in general, receive HCG to trigger the ovulation process, but have an oocyte retrieval performed at about 34 to 36 hours after injection, a few hours before the eggs actually would be released from the ovary.
+As hCG supports the corpus luteum, administration of hCG is used in certain circumstances to enhance the production of progesterone.
+Several vaccines against human chorionic gonadotropin (hCG) for the prevention of pregnancy are currently in clinical trials.
+
+Use in males
+In males, hCG injections are used to stimulate the Leydig cells to synthesize testosterone. The intratesticular testosterone is necessary for spermatogenesis from the sertoli cells. Typical medical uses for hCG in males include treating certain types of hypogonadism (either as monotherapy, or, more commonly, in combination with exogenous testosterone), as well as to either treat or prevent infertility, for example, during testosterone replacement therapy hCG is often used to restore or maintain fertility and prevent testicular atrophy.
+
+HCG Pubergen, Pregnyl warnings
+In the case of female patients who want to be treated with HCG Pubergen, Pregnyl:
+a) Since infertile female patients who undergo medically assisted reproduction (especially those who need in vitro fertilization), are known to often be suffering from tubal abnormalities, after a treatment with this drug they might experience many more ectopic pregnancies. This is why early ultrasound confirmation at the beginning of a pregnancy (to see whether the pregnancy is intrauterine or not) is crucial. Pregnancies that have occurred after a treatment with this drug have a higher risk of multiple pregnancy. Female patients who have thrombosis, severe obesity, or thrombophilia should not be prescribed this medicine as they have a higher risk of arterial or venous thromboembolic events after or during a treatment with HCG Pubergen, Pregnyl. b)Female patients who have been treated with this medicine are usually more prone to pregnancy losses.
+In the case of male patients: A prolonged treatment with HCG Pubergen, Pregnyl is known to regularly lead to increased production of androgen. Therefore: Patients who have overt or latent cardiac failure, hypertension, renal dysfunction, migraines, or epilepsy might not be allowed to start using this medicine or may require a lower dose of HCG Pubergen, Pregnyl. This drug should be used with extreme caution in the treatment of prepubescent teenagers in order to reduce the risk of precocious sexual development or premature epiphyseal closure. This type of patients' skeletal maturation should be closely and regularly monitored.
+Both male and female patients who have the following medical conditions must not start a treatment with HCG Pubergen, Pregnyl: (1) Hypersensitivity to this drug or to any of its main ingredients. (2) Known or possible androgen-dependent tumors for example male breast carcinoma or prostatic carcinoma.
+
+Anabolic steroid adjunct
+HCG is included in some sports' banned substances lists.
+When exogenous AAS (Anabolic Androgenic Steroids) are put into the male body, natural negative-feedback loops cause the body to shut down its own production of testosterone via shutdown of the hypothalamic-pituitary-gonadal axis (HPGA). This causes testicular atrophy, among other things. HCG is commonly used during and after steroid cycles to maintain and restore testicular size as well as normal testosterone production.
+High levels of AASs, that mimic the body's natural testosterone, trigger the hypothalamus to shut down its production of gonadotropin-releasing hormone (GnRH) from the hypothalamus. Without GnRH, the pituitary gland stops releasing luteinizing hormone (LH). LH normally travels from the pituitary via the blood stream to the testes, where it triggers the production and release of testosterone. Without LH, the testes shut down their production of testosterone. In males, HCG helps restore and maintain testosterone production in the testes by mimicking LH and triggering the production and release of testosterone.
+Professional athletes who have tested positive for HCG have been temporarily banned from their sport, including a 50-game ban from MLB for Manny Ramirez in 2009 and a 4-game ban from the NFL for Brian Cushing for a positive urine test for HCG. Mixed Martial Arts fighter Dennis Siver was fined $19,800 and suspended 9 months for being tested positive after his bout at UFC 168. Jurickson Profar tested positive for the substance and was suspended for 80-games on 3/31/2025.
+
+HCG diet
+British endocrinologist Albert T. W. Simeons proposed HCG as an adjunct to an ultra-low-calorie weight-loss diet (fewer than 500 calories). Simeons, while studying pregnant women in India on a calorie-deficient diet, and obese boys with pituitary issues (Frölich's syndrome) treated with low-dose HCG, observed that both lost fat rather than lean (muscle) tissue. He reasoned that HCG must be programming the hypothalamus to do this in the former cases in order to protect the developing fetus by promoting mobilization and consumption of abnormal, excessive adipose deposits.  Simeons in 1954 published a book entitled Pounds and Inches, designed to combat obesity. Simeons, practicing at Salvator Mundi International Hospital in Rome, Italy, recommended low-dose daily HCG injections (125 IU) in combination with a customized ultra-low-calorie (500 cal/day, high-protein, low-carbohydrate/fat) diet, which was supposed to result in a loss of adipose tissue without loss of lean tissue.
+Other researchers did not find the same results when attempting experiments to confirm Simeons' conclusions, and in 1976 in response to complaints the FDA required Simeons and others to include the following disclaimer on all advertisements:
+
+These weight reduction treatments include the injection of HCG, a drug which has not been approved by the Food and Drug Administration as safe and effective in the treatment of obesity or weight control. There is no substantial evidence that HCG increases weight loss beyond that resulting from caloric restriction, that it causes a more attractive or "normal" distribution of fat, or that it decreases the hunger and discomfort associated with calorie-restrictive diets.
+There was a resurgence of interest in the "HCG diet" following promotion by Kevin Trudeau, who was banned  from making HCG diet weight-loss claims by the U.S. Federal Trade Commission in 2008, and eventually jailed over such claims.
+A 1976 study in the American Journal of Clinical Nutrition concluded that HCG is not more effective as a weight-loss aid than dietary restriction alone.
+A 1995 meta analysis found that studies supporting HCG for weight loss were of poor methodological quality and concluded that "there is no scientific evidence that HCG is effective in the treatment of obesity; it does not bring about weight-loss or fat-redistribution, nor does it reduce hunger or induce a feeling of well-being".
+On November 15, 2016, the American Medical Association (AMA) passed policy that "The use of human chorionic gonadotropin (HCG) for weight loss is inappropriate."
+
+There is no scientific evidence that HCG is effective in the treatment of obesity. The meta-analysis found insufficient evidence supporting the claims that HCG is effective in altering fat-distribution, hunger reduction, or in inducing a feeling of well-being. The authors stated "…the use of HCG should be regarded as an inappropriate therapy for weight reduction…" In the authors opinion, "Pharmacists and physicians should be alert on the use of HCG for Simeons therapy. The results of this meta-analysis support a firm standpoint against this improper indication. Restraints on physicians practicing this therapy can be based on our findings."
+According to the American Society of Bariatric Physicians, no new clinical trials have been published since the definitive 1995 meta-analysis.
+The scientific consensus is that any weight loss reported by individuals on an "HCG diet" may be attributed entirely to the fact that such diets prescribe calorie intake of between 500 and 1,000 calories per day, substantially below recommended levels for an adult, to the point that this may risk health effects associated with malnutrition.
+
+Homeopathic HCG for weight control
+Controversy about, and shortages of, injected HCG for weight loss have led to substantial Internet promotion of "homeopathic HCG" for weight control. The ingredients in these products are often obscure, but if prepared from true HCG via homeopathic dilution, they contain either no HCG at all or only trace amounts. Moreover, it is highly unlikely that oral HCG is bioavailable due to the fact that digestive protease enzymes and hepatic metabolism renders peptide-based molecules (such as insulin and human growth hormone) biologically inert. HCG can likely only enter the bloodstream through injection.
+The United States Food and Drug Administration has stated that over-the-counter products containing HCG are fraudulent and ineffective for weight loss. They are also not protected as homeopathic drugs and have been deemed illegal substances. HCG is classified as a prescription drug in the United States and it has not been approved for over-the-counter sales by the FDA as a weight loss product or for any other purposes, and therefore neither HCG in its pure form nor any preparations containing HCG may be sold legally in the country except by prescription. In December 2011, FDA and FTC started to take actions to pull unapproved HCG products from the market. In the aftermath, some suppliers started to switch to "hormone-free" versions of their weight loss products, where the hormone is replaced with an unproven mixture of free amino acids or where radionics is used to transfer the "energy" to the final product.
+As of December 6, 2011, the United States Food and Drug Administration has prohibited the sale of homeopathic and over-the-counter hCG diet products and declared them fraudelent and banned.
+
+Tetanus vaccine conspiracy theory
+Catholic Bishops in Kenya are among those who have spread a conspiracy theory asserting that HCG forms part of a covert sterilization program, forcing denials from the Kenyan government.
+In order to induce a stronger immune response, some versions of human chorionic gonadotropin-based anti-fertility vaccines were designed as conjugates of the β subunit of HCG covalently linked to tetanus toxoid. It was alleged that a non-conjugated tetanus vaccine used in developing countries was laced with a human chorionic gonadotropin-based anti-fertility drug and was distributed as a means of mass sterilization.  This charge has been vigorously denied by the World Health Organization (WHO) and UNICEF.  Others have argued that an hCG-laced vaccine could not possibly be used for sterilization, since the effects of the anti-fertility vaccines are reversible (requiring booster doses to maintain infertility) and a non-conjugated vaccine is likely to be ineffective. Finally, independent testing of the tetanus vaccine by Kenya's health authorities revealed no traces of the human chorionic gonadotropin hormone.
+
+See also
+Equine chorionic gonadotropin
+Gonadotropin preparations
+Human placental lactogen
+Pregnancy hormones
+Triple test, a screening test in pregnancy
+The Weight-Loss Cure "They" Don't Want You to Know About, a book written by Kevin Trudeau
+
+References
+External links
+Chorionic+Gonadotropin at the U.S. National Library of Medicine Medical Subject Headings (MeSH)
+"History of pregnancy test". U.S. National Institutes of Health. Archived from the original on 2011-01-13. Retrieved 2011-01-10.

@@ -1,0 +1,64 @@
+In statistics, stepwise regression is a method of fitting regression models in which the choice of predictive variables is carried out by an automatic procedure. In each step, a variable is considered for addition to or subtraction from the set of explanatory variables based on some prespecified criterion. Usually, this takes the form of a forward, backward, or combined sequence of F-tests or t-tests.
+The frequent practice of fitting the final selected model followed by reporting estimates and confidence intervals without adjusting them to take the model building process into account has led to calls to stop using stepwise model building altogether or to at least make sure model uncertainty is correctly reflected by using prespecified, automatic criteria together with more complex standard error estimates that remain unbiased.
+
+Main approaches
+The main approaches for stepwise regression are:
+
+Forward selection, which involves starting with no variables in the model, testing the addition of each variable using a chosen model fit criterion, adding the variable (if any) whose inclusion gives the most statistically significant improvement of the fit, and repeating this process until none improves the model to a statistically significant extent.
+Backward elimination, which involves starting with all candidate variables, testing the deletion of each variable using a chosen model fit criterion, deleting the variable (if any) whose loss gives the most statistically insignificant deterioration of the model fit, and repeating this process until no further variables can be deleted without a statistically significant loss of fit.
+Bidirectional elimination, a combination of the above, testing at each step for variables to be included or excluded.
+
+Alternatives
+A widely used algorithm was first proposed by Efroymson (1960). This is an automatic procedure for statistical model selection in cases where there is a large number of potential explanatory variables, and no underlying theory on which to base the model selection. The procedure is used primarily in regression analysis, though the basic approach is applicable in many forms of model selection. This is a variation on forward selection. At each stage in the process, after a new variable is added, a test is made to check if some variables can be deleted without appreciably increasing the residual sum of squares (RSS). The procedure terminates when the measure is (locally) maximized, or when the available improvement falls below some critical value.
+One of the main issues with stepwise regression is that it searches a large space of possible models.  Hence it is prone to overfitting the data.  In other words, stepwise regression will often fit much better in sample than it does on new out-of-sample data. Extreme cases have been noted where models have achieved statistical significance working on random numbers. This problem can be mitigated if the criterion for adding (or deleting) a variable is stiff enough. The key line in the sand is at what can be thought of as the Bonferroni point: namely how significant the best spurious variable should be based on chance alone. On a t-statistic scale, this occurs at about 
+  
+    
+      
+        
+          
+            2
+            log
+            ⁡
+            p
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2\log p}}}
+  
+, where p is the number of predictors. Unfortunately, this means that many variables which actually carry signal will not be included. This fence turns out to be the right trade-off between over-fitting and missing signal. If we look at the risk of different cutoffs, then using this bound will be within a 
+  
+    
+      
+        2
+        log
+        ⁡
+        p
+      
+    
+    {\displaystyle 2\log p}
+  
+ factor of the best possible risk. Any other cutoff will end up having a larger such risk inflation.
+
+Model accuracy
+A way to test for errors in models created by step-wise regression, is to not rely on the model's F-statistic, significance, or multiple R, but instead assess the model against a set of data that was not used to create the model. This is often done by building a model based on a sample of the dataset available (e.g., 70%) – the “training set” – and use the remainder of the dataset (e.g., 30%) as a validation set to assess the accuracy of the model. Accuracy is then often measured as the actual standard error (SE), MAPE (Mean absolute percentage error), or mean error between the predicted value and the actual value in the hold-out sample. This method is particularly valuable when data are collected in different settings (e.g., different times, social vs. solitary situations) or when models are assumed to be generalizable.
+
+Criticism
+Stepwise regression procedures are used in data mining, but are controversial. Several points of criticism have been made.
+
+The tests themselves are biased, since they are based on the same data. Wilkinson and Dallal (1981) computed percentage points of the multiple correlation coefficient by simulation and showed that a final regression obtained by forward selection, said by the F-procedure to be significant at 0.1%, was in fact only significant at 5%.
+When estimating the degrees of freedom, the number of the candidate independent variables from the best fit selected may be smaller than the total number of final model variables, causing the fit to appear better than it is when adjusting the r2 value for the number of degrees of freedom. It is important to consider how many degrees of freedom have been used in the entire model, not just count the number of independent variables in the resulting fit.
+Models that are created may be over-simplifications of the real models of the data.
+Such criticisms, based upon limitations of the relationship between a model and procedure and data set used to fit it, are usually addressed by verifying the model on an independent data set, as in the PRESS procedure.
+Critics regard the procedure as a paradigmatic example of data dredging, intense computation often being an inadequate substitute for subject area expertise. Additionally, the results of stepwise regression are often used incorrectly without adjusting them for the occurrence of model selection. Especially the practice of fitting the final selected model as if no model selection had taken place and reporting of estimates and confidence intervals as if least-squares theory were valid for them, has been described as a scandal. Widespread incorrect usage and the availability of alternatives such as ensemble learning, leaving all variables in the model, or using expert judgement to identify relevant variables have led to calls to totally avoid stepwise model selection.
+
+See also
+Freedman's paradox
+Logistic regression
+Least-angle regression
+Occam's razor
+Regression validation
+Lasso (statistics)
+
+
+== References ==

@@ -1,0 +1,188 @@
+A sonic boom is a sound associated with shock waves created when an object travels through the air faster than the speed of sound. Sonic booms generate enormous amounts of sound energy, sounding similar to an explosion or a thunderclap to the human ear.
+The crack of a supersonic bullet passing overhead or the crack of a bullwhip are examples of a small sonic boom.
+Sonic booms due to large supersonic aircraft can be particularly loud and startling, tend to awaken people, and may cause minor damage to some structures. This led to the prohibition of routine supersonic flight overland. Although sonic booms cannot be completely prevented, research suggests that with careful shaping of the vehicle, the nuisance due to sonic booms may be reduced to the point that overland supersonic flight may become a feasible option.
+A sonic boom does not occur only at the moment an object crosses the sound barrier and neither is it heard in all directions emanating from the supersonic object. Rather, the boom is a continuous effect that occurs while the object is traveling at supersonic speeds and affects only observers that are positioned at a point that intersects a region in the shape of a geometrical cone behind the object. As the object moves, this conical region also moves behind it and when the cone passes over observers, they will briefly experience the "boom".
+
+Causes
+When an aircraft passes through the air, it creates a series of pressure waves in front of the aircraft and behind it, similar to the bow and stern waves created by a boat. These waves travel at the speed of sound and, as the speed of the object increases, the waves are forced together, or compressed, because they cannot get out of each other's way quickly enough. Eventually, they merge into a single shock wave, which travels at the speed of sound, a critical speed known as Mach 1, which is approximately 1,192 km/h (741 mph) at sea level and 20 °C (68 °F).
+In smooth flight, the shock wave starts at the nose of the aircraft and ends at the tail.  Because the different radial directions around the aircraft's direction of travel are equivalent (given the "smooth flight" condition), the shock wave forms a Mach cone, similar to a vapour cone, with the aircraft at its tip. The half-angle 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+  
+ between the direction of flight and the shock wave is given by:
+
+  
+    
+      
+        sin
+        ⁡
+        α
+        =
+        
+          
+            
+              v
+              
+                sound
+              
+            
+            
+              v
+              
+                object
+              
+            
+          
+        
+      
+    
+    {\displaystyle \sin \alpha ={\frac {v_{\text{sound}}}{v_{\text{object}}}}}
+  
+,
+where  
+  
+    
+      
+        
+          
+            
+              
+                v
+                
+                  sound
+                
+              
+              
+                v
+                
+                  object
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {v_{\text{sound}}}{v_{\text{object}}}}}
+  
+ is the inverse 
+  
+    
+      
+        
+          
+            
+              1
+              
+                M
+                a
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {1}{\mathrm {Ma} }}}
+  
+ of the plane's Mach number 
+  
+    
+      
+        
+          M
+          a
+        
+        =
+        
+          
+            
+              
+                v
+                
+                  object
+                
+              
+              
+                v
+                
+                  sound
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {Ma} ={\tfrac {v_{\text{object}}}{v_{\text{sound}}}}}
+  
+.  Thus the faster the plane travels, the finer and more pointed the cone is.
+There is a rise in pressure at the nose, decreasing steadily to a negative pressure at the tail, followed by a sudden return to normal pressure after the object passes. This "overpressure profile" is known as an N-wave because of its shape. The "boom" is experienced when there is a sudden change in pressure; therefore, an N-wave causes two booms – one when the initial pressure rise reaches an observer, and another when the pressure returns to normal. This leads to a distinctive "double boom" from a supersonic aircraft. When the aircraft is maneuvering, the pressure distribution changes into different forms, with a characteristic U-wave shape.
+Since the boom is being generated continually as long as the aircraft is supersonic, it fills out a narrow path on the ground following the aircraft's flight path, a bit like an unrolling red carpet, and hence known as the boom carpet.  Its width depends on the altitude of the aircraft. The distance from the point on the ground where the boom is heard to the aircraft depends on its altitude and the angle 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+  
+.
+For today's supersonic aircraft in normal operating conditions, the peak overpressure varies from less than 50 to 500 Pa (1 to 10 psf (pound per square foot)) for an N-wave boom. Peak overpressures for U-waves are amplified two to five times the N-wave, but this amplified overpressure impacts only a very small area when compared to the area exposed to the rest of the sonic boom. The strongest sonic boom ever recorded was 7,000 Pa (144 psf) and it did not cause injury to the researchers who were exposed to it. The boom was produced by an F-4 flying just above the speed of sound at an altitude of 100 feet (30 m). In recent tests, the maximum boom measured during more realistic flight conditions was 1,010 Pa (21 psf). There is a probability that some damage—shattered glass, for example—will result from a sonic boom. Buildings in good condition should suffer no damage by pressures of 530 Pa (11 psf) or less. And, typically, community exposure to sonic boom is below 100 Pa (2 psf). Ground motion resulting from the sonic boom is rare and is well below structural damage thresholds accepted by the U.S. Bureau of Mines and other agencies.
+The power, or volume, of the shock wave, depends on the quantity of air that is being accelerated, and thus the size and shape of the aircraft. As the aircraft increases speed the shock cone gets tighter around the craft and becomes weaker to the point that at very high speeds and altitudes, no boom is heard.  The "length" of the boom from front to back depends on the length of the aircraft to a power of 3/2. Longer aircraft therefore "spread out" their booms more than smaller ones, which leads to a less powerful boom.
+Several smaller shock waves can and usually do form at other points on the aircraft, primarily at any convex points, or curves, the leading wing edge, and especially the inlet to engines. These secondary shockwaves are caused by the air being forced to turn around these convex points, which generates a shock wave in supersonic flow.
+The later shock waves are somewhat faster than the first one, travel faster, and add to the main shockwave at some distance away from the aircraft to create a much more defined N-wave shape. This maximizes both the magnitude and the "rise time" of the shock which makes the boom seem louder. On most aircraft designs the characteristic distance is about 40,000 feet (12,000 m), meaning that below this altitude the sonic boom will be "softer". However, the drag at this altitude or below makes supersonic travel particularly inefficient, which poses a serious problem.
+
+Supersonic aircraft
+Supersonic aircraft are any aircraft that can achieve flight faster than Mach 1, which refers to the speed of sound. "Supersonic includes speeds up to five times Mach than the speed of sound, or Mach 5." (Dunbar, 2015) The top mileage per hour for a supersonic aircraft normally ranges from 700 to 1,500 miles per hour (1,100 to 2,400 km/h). Typically, most aircraft do not exceed 1,500 mph (2,414 km/h). There are many variations of supersonic aircraft. Some models of supersonic aircraft make use of better-engineered aerodynamics that allow a few sacrifices in the aerodynamics of the model for thruster power. Other models use the efficiency and power of the thruster to allow a less aerodynamic model to achieve greater speeds.
+
+Measurement and examples
+The pressure from sonic booms caused by aircraft is often a few pounds per square foot. A vehicle flying at greater altitude will generate lower pressures on the ground because the shock wave reduces in intensity as it spreads out away from the vehicle, but the sonic booms are less affected by vehicle speed.
+
+Abatement
+In the late 1950s when supersonic transport (SST) designs were being actively pursued, it was thought that although the boom would be very large, the problems could be avoided by flying higher. This assumption was proven false when the North American XB-70 Valkyrie first flew, and it was found that the boom was a problem even at 70,000 feet (21,000 m). It was during these tests that the N-wave was first characterized.
+Richard Seebass and his colleague Albert George at Cornell University studied the problem extensively and eventually defined a "figure of merit" (FM) to characterize the sonic boom levels of different aircraft. FM is a function of the aircraft's weight and the aircraft length. The lower this value, the less boom the aircraft generates, with figures of about 1 or lower being considered acceptable. Using this calculation, they found FMs of about 1.4 for Concorde and 1.9 for the Boeing 2707. This eventually doomed most SST projects as public resentment, mixed with politics, eventually resulted in laws that made any such aircraft less useful (flying supersonically only over water for instance). Small airplane designs like business jets are favored and tend to produce minimal to no audible booms.
+Building on the earlier research of L. B. Jones, Seebass, and George identified conditions in which sonic boom shockwaves could be eliminated. This work was extended by Christine. M. Darden and described as the Jones-Seebass-George-Darden theory of sonic boom minimization. This theory, approached the problem from a different angle, trying to spread out the N-wave laterally and temporally (longitudinally), by producing a strong and downwards-focused (SR-71 Blackbird, Boeing X-43) shock at a sharp, but wide angle nose cone, which will travel at slightly supersonic speed (bow shock), and using a swept back flying wing or an oblique flying wing to smooth out this shock along the direction of flight (the tail of the shock travels at sonic speed). To adapt this principle to existing planes, which generate a shock at their nose cone and an even stronger one at their wing leading edge, the fuselage below the wing is shaped according to the area rule. Ideally, this would raise the characteristic altitude from 40,000 feet (12,000 m) to 60,000 feet (from 12,000 m to 18,000 m), which is where most SST aircraft were expected to fly.
+
+This remained untested for decades, until DARPA started the Quiet Supersonic Platform project and funded the Shaped Sonic Boom Demonstration (SSBD) aircraft to test it. SSBD used an F-5 Freedom Fighter.  The F-5E was modified with a highly refined shape which lengthened the nose to that of the F-5F model.  The fairing extended from the nose back to the inlets on the underside of the aircraft.  The SSBD was tested over two years culminating in 21 flights and was an extensive study on sonic boom characteristics. After measuring the 1,300 recordings, some taken inside the shock wave by a chase plane, the SSBD demonstrated a reduction in boom by about one-third. Although one-third is not a huge reduction, it could have reduced Concorde's boom to an acceptable level below FM = 1.
+As a follow-on to SSBD, in 2006 a NASA-Gulfstream Aerospace team tested the Quiet Spike on NASA Dryden's F-15B aircraft 836.  The Quiet Spike is a telescoping boom fitted to the nose of an aircraft specifically designed to weaken the strength of the shock waves forming on the nose of the aircraft at supersonic speeds. Over 50 test flights were performed.  Several flights included probing of the shockwaves by a second F-15B, NASA's Intelligent Flight Control System testbed, aircraft 837.
+Some theoretical designs do not appear to create sonic booms at all, such as the Busemann biplane. However, creating a shockwave is inescapable if it generates aerodynamic lift.
+In 2018, NASA awarded Lockheed Martin a $247.5 million contract to construct a design known as the Low Boom Flight Demonstrator, which aims to reduce the boom to the sound of a car door closing. As of October 2023, the first flight was expected in 2024.
+
+Perception, noise, and other concerns
+The sound of a sonic boom depends largely on the distance between the observer and the aircraft shape producing the sonic boom. A sonic boom is usually heard as a deep double "boom" as the aircraft is usually some distance away. The sound is much like that of mortar bombs, commonly used in firework displays. It is a common misconception that only one boom is generated during the subsonic to supersonic transition; rather, the boom is continuous along the boom carpet for the entire supersonic flight. As a former Concorde pilot puts it, "You don't actually hear anything on board. All we see is the pressure wave moving down the airplane – it indicates the instruments. And that's what we see around Mach 1. But we don't hear the sonic boom or anything like that. That's rather like the wake of a ship – it's behind us."
+In 1964, NASA and the Federal Aviation Administration began the Oklahoma City sonic boom tests, which caused eight sonic booms per day over six months. Valuable data was gathered from the experiment, but 15,000 complaints were generated and ultimately entangled the government in a class-action lawsuit, which it lost on appeal in 1969.
+Sonic booms were also a nuisance in North Cornwall and North Devon in the UK as these areas were underneath the flight path of Concorde. Windows would rattle and in some cases, the "torching" (masonry mortar underneath roof slates) would be dislodged with the vibration.
+There has been recent work in this area, notably under DARPA's Quiet Supersonic Platform studies.  Research by acoustics experts under this program began looking more closely at the composition of sonic booms, including the frequency content.  Several characteristics of the traditional sonic boom "N" wave can influence how loud and irritating it can be perceived by listeners on the ground.  Even strong N-waves such as those generated by Concorde or military aircraft can be far less objectionable if the rise time of the over-pressure is sufficiently long.  A new metric has emerged, known as perceived loudness, measured in PLdB. This takes into account the frequency content, rise time, etc. A well-known example is the snapping of one's fingers in which the "perceived" sound is nothing more than an annoyance.
+The energy range of sonic boom is concentrated in the 0.1–100 hertz frequency range that is considerably below that of subsonic aircraft, gunfire and most industrial noise. Duration of sonic boom is brief; less than a second, 100 milliseconds (0.1 second) for most fighter-sized aircraft and 500 milliseconds for the space shuttle or Concorde jetliner. The intensity and width of a sonic boom path depend on the physical characteristics of the aircraft and how it is operated. In general, the greater an aircraft's altitude, the lower the over-pressure on the ground. Greater altitude also increases the boom's lateral spread, exposing a wider area to the boom. Over-pressures in the sonic boom impact area, however, will not be uniform. Boom intensity is greatest directly under the flight path, progressively weakening with greater horizontal distance away from the aircraft flight track.  Ground width of the boom exposure area is approximately 1 statute mile (1.6 km) for each 1,000 feet (300 m) of altitude (the width is about five times the altitude); that is, an aircraft flying supersonic at 30,000 feet (9,100 m) will create a lateral boom spread of about 30 miles (48 km). For steady supersonic flight, the boom is described as a carpet boom since it moves with the aircraft as it maintains supersonic speed and altitude. Some maneuvers, diving, acceleration, or turning, can cause the focus of the boom. Other maneuvers, such as deceleration and climbing, can reduce the strength of the shock. In some instances, weather conditions can distort sonic booms.
+Depending on the aircraft's altitude, sonic booms reach the ground 2 to 60 seconds after flyover. However, not all booms are heard at ground level. The speed of sound at any altitude is a function of air temperature. A decrease or increase in temperature results in a corresponding decrease or increase in sound speed. Under standard atmospheric conditions, air temperature decreases with increased altitude. For example, when the sea-level temperature is 59 degrees Fahrenheit (15 °C), the temperature at 30,000 feet (9,100 m) drops to minus 49 degrees Fahrenheit (−45 °C). This temperature gradient helps bend the sound waves upward. Therefore, for a boom to reach the ground, the aircraft's speed relative to the ground must be greater than the speed of sound at the ground. For example, the speed of sound at 30,000 feet (9,100 m) is about 670 miles per hour (1,080 km/h), but an aircraft must travel at least 750 miles per hour (1,210 km/h) (Mach 1.12) for a boom to be heard on the ground.
+The composition of the atmosphere is also a factor. Temperature variations, humidity, atmospheric pollution, and winds can all affect how a sonic boom is perceived on the ground.  Even the ground itself can influence the sound of a sonic boom. Hard surfaces such as concrete, pavement, and large buildings can cause reflections that may amplify the sound of a sonic boom. Conversely, grassy fields and profuse foliage can help attenuate the strength of the overpressure of a sonic boom.
+Currently, there are no industry-accepted standards for the acceptability of a sonic boom. However, work is underway to create metrics that will help in understanding how humans respond to the noise generated by sonic booms. Until such metrics can be established, either through further study or supersonic overflight testing, it is doubtful that legislation will be enacted to remove the current prohibition on supersonic overflight in place in several countries, including the United States.
+
+Bullwhip
+The cracking sound of a bullwhip is a small sonic boom. The end of the whip, known as the "cracker", moves faster than the speed of sound, thus creating a sonic boom.
+A bullwhip tapers down from the handle section to the cracker. The cracker has much less mass than the handle section. When the whip is sharply swung, the momentum is transferred down the length of the tapering whip, the declining mass being made up for with increasing speed. Goriely and McMillen showed that the physical explanation is complex, involving the way that a loop travels down a tapered filament under tension.
+
+See also
+Cherenkov radiation
+Hypersonic
+Supershear earthquake
+Ground vibration boom
+Christine Darden
+
+References
+Banse, Tom. "Supersonic Jets Could Return To Inland Northwest Skies". OPB. Oregon Public Broadcasting. Retrieved 8 February 2022.
+Vázquez, M.; Dervieux, A.; Koobus, B. (September 2004). "Multilevel optimization of a supersonic aircraft". Finite Elements in Analysis and Design. 40 (15): 2101–2124. doi:10.1016/j.finel.2004.01.010.
+Fox, Chris (4 June 2021). "United plans supersonic passenger flights by 2029". BBC News. Retrieved 30 November 2022.
+Cooper, J.E. (2001), "Aeroelastic Response", Encyclopedia of Vibration, Elsevier, pp. 87–97, doi:10.1006/rwvb.2001.0125, ISBN 978-0-12-227085-7, retrieved 30 November 2022
+Smith, Heather R. (7 August 2017). May, Sandra (ed.). "What Is Supersonic Flight?". NASA.
+F.S., Billig (August 1993). "Research on Supersonic Combustion". Journal of Propulsion and Power. 9 (4). Johns Hopkins University: John Hopkin University: 4. doi:10.2514/3.23652. Retrieved 6 February 2022.
+
+External links
+
+Archived at Ghostarchive and the Wayback Machine: "Audio Recording of SR-71 Blackbird Sonic Booms – YouTube". YouTube. 6 February 2010. Retrieved 12 February 2015.
+Boston Globe profile of Spike Aerospace planned S-521 supersonic jet Archived 22 June 2016 at the Wayback Machine

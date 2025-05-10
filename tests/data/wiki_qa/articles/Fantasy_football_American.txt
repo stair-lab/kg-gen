@@ -1,0 +1,149 @@
+Fantasy football is a game in which the participants serve as owners and general managers of virtual gridiron football teams. The competitors select their rosters by participating in a draft in which all relevant National Football League (NFL) players are available. Fantasy points are awarded in weekly matchups based on the actual performances of football players in real-world competition. The game typically involves the NFL, but can also involve other leagues, such as the Canadian Football League or NCAA.
+There are three main types of fantasy football:
+
+Traditional (redraft) – Leagues in which the competition can run for an entire season, normally culminating in playoffs. Participants engage in a draft once yearly and emerge with completely new teams.
+Keeper or dynasty leagues – These leagues are initially drafted in the same fashion as a traditional season-long league, however, each team in a keeper league is able to retain a certain number of players from one year to the next, and in a dynasty league, each team retains all players who have not retired. All subsequent drafts solely involve rookie players who are joining the NFL for the first time.
+Daily – Daily fantasy sports are accelerated versions of the traditional fantasy format in which contests are conducted over shorter periods, such as a week or a single day. Online daily fantasy football is typically managed by companies running widespread betting pools that can involve thousands of players. In the United States, the two largest daily fantasy firms are DraftKings and FanDuel.
+Fantasy football is often played in small groups of mutually familiar individuals who may or may not be playing for money. However, online fantasy contests, particularly those run by daily fantasy companies, regularly involve large groups of people who otherwise do not know each other contributing to a shared betting pool. The structure of these games has led some jurisdictions to characterize and regulate online fantasy contents as a form of gambling.
+
+History
+Modern fantasy football can be traced back to Wilfred "Bill" Winkenbach, an Oakland, California businessman and limited partner in the Oakland Raiders. In a New York City hotel room during a 1962 Raiders cross-country trip, Winkenbach, along with Raiders public relations employee Bill Tunnel and Oakland Tribune reporter Scotty Stirling, developed the rules that would eventually be the basis of modern fantasy football.
+The inaugural league was called the Greater Oakland Professional Pigskin Prognosticators League (GOPPPL), and its first draft took place in Winkenbach's home in Oakland in August 1963. The league consisted of eight members, made up of administrative affiliates of the American Football League, pro football journalists, and individuals who had purchased or sold 10 season tickets for the Raiders' 1963 season. Each roster consisted of two quarterbacks, four halfbacks, two fullbacks, four wide receivers or tight ends, two return specialists, two kickers, two defensive backs or linebackers, and two defensive linemen. The scoring system was entirely dependent on real-life scoring. It awarded 25 points for a touchdown pass, rush, or reception, 25 for a field goal, 10 for an extra point, and 200 for a kickoff, punt, or interception that was returned for a touchdown. As of 2015, the GOPPPL was still active and had maintained the original scoring system.
+In 1969, Andy Mousalimas, an original creator of GOPPPL and participant in the inaugural draft, brought the game to his Oakland sports bar, the King's X, where the first public fantasy football league was founded. From this point onward, the idea spread by word of mouth when the patrons of other Bay Area bars visited the King's X for trivia contests.
+
+Fantasy football slowly spread across the country in the following decades. Early leagues whose existence has been documented were typically founded by groups of friends attending school together. Examples include leagues founded at DePaul University of Chicago, Illinois in 1978, Case Western Reserve University of Cleveland, Ohio in 1980, and Marist School of Atlanta, Georgia in 1983. Each of these leagues maintained continuous operation for several decades after their founding.
+In 1985, the Grandstand Sports Services launched the first nationally available fantasy football leagues online through Q-Link (later America Online). In 1987, Fantasy Football Index, the first national magazine dedicated to fantasy football, was launched by Ian Allan and Bruce Taylor.
+A national fantasy football game, Pigskin Playoff, was launched in 1990 in a number of newspapers throughout the United States, including the Arizona Republic, the Detroit Free Press, the Los Angeles Times, and the Miami Herald. Players chose their teams by calling a toll-free phone number and entering four-digit codes for each of their selections. Pigskin Playoff served as an early version of today's daily fantasy football by rewarding each week's highest-scoring participant with a trip to Hawaii.
+In 1997, CBS launched an online fantasy football competition, with other sports networks and websites quickly following suit. Yahoo was the first site to launch a free competition, giving it an advantage over its industry competitors. The NFL launched its own official game on the league's website in 2010. Online growth has fueled both the fantasy football industry and interest in the NFL itself. As of 2022, an estimated 62.5 million people played fantasy sports in the United States and Canada, per the Fantasy Sports & Gaming Association, and around four out of five fantasy participants played fantasy football.
+On May 27, 2022, Cincinnati Reds player Tommy Pham slapped Joc Pederson of the San Francisco Giants in the face prior to a game; he would later receive a three-game suspension and a $5,000 fine. Pham said that the slap was prompted by his belief that Pederson had broken the rules of a fantasy football league in which they had both participated during the previous football season. Pham said that he did not regret the slap, stating: "It's a matter of principle, man."
+
+League types
+A fantasy football league may be organized in a variety of ways. The most popular league type is head-to-head, in which each team is matched up against an opponent each week, with the team that scores the most fantasy points earning a win in the standings. A less common form of league is a total points league, in which the league standings are determined by the number of points each team scores over an entire season. In addition to scoring variations, league organization may also differ based on the structure of each team's roster.
+
+Competition variations
+In head-to-head leagues, a fantasy team matches up against a different fantasy team from the league each week. The team that receives the most points of the two receives a win for that week, while the other team receives a loss. Points are dictated by a common scoring system that can be adjusted in a variety of ways (see Scoring configurations). A team's total is the sum of all points accumulated by players who were placed in a starting slot by the team owner for the day they were playing (as opposed to being on the bench, in which any points gained would not count). Teams with the best win–loss record may advance to the playoffs in the final weeks of the season. If two teams have the same record, playoff qualification tiebreakers are employed based on league preference.
+Total points leagues are leagues in which teams accumulate points on an ongoing basis. The league standings are determined by the teams' total points. Total points leagues are often also best ball leagues, in which owners do not need to set a starting lineup, as their weekly point totals automatically reflect their highest-scoring players at each position. Other forms of roster management, such as player trades and the waiver wire, are traditionally eliminated in best ball leagues. This is often the structure on platforms such as DraftKings and Underdog.
+All-play leagues are leagues in which all teams play each other each week. For example, if there are 14 teams in the league, the highest-scoring team in each week would post a 13–0 record, the next highest-scoring team would post a 12–1 record, and so on.
+Pirate leagues are leagues in which a winning owner gets to choose a player from his or her opponent's roster.
+In guillotine leagues, the lowest scoring team is eliminated from the league each week. All of the players on the eliminated team's roster become free agents and may be subsequently added to any remaining team. This process continues until only one team remains and is crowned the league winner.
+
+Roster variations
+Keeper leagues allow teams to keep a set number of players on their roster from one year to the next and sometimes assign them contracts for a certain number of years. In the first season of a keeper league, the draft is performed the same as any other standard league draft would be performed. At the end of each season, each roster is cut down to a predetermined limit. Teams in keeper leagues can retain as few as one player or as many as every player on the roster except one, though generally the number of retained players is five or fewer.
+In dynasty leagues, a team keeps all players from one year to the next and replenishes rosters through rookie drafts. Unlike keeper leagues, each team's roster limit is unchanged during the offseason, though it may increase temporarily to allow the addition of rookies.
+Developmental or devy leagues are dynasty leagues in which owners are allowed to draft college players in addition to the standard pool of NFL players.
+Campus 2 Canton (c2c) leagues are a form of devy league in which each owner controls two teams. One team is composed of college players (Campus) and the other NFL players (Canton). The teams score points independently of each other, which creates two separate leagues running simultaneously. Once the college players graduate, they are eligible to be used on the Canton team.
+Salary cap leagues implement a salary cap, which also exists in the NFL. Each player has an associated salary, and the combined salary of each roster may not exceed the predetermined cap.
+Superflex leagues are leagues in which teams can start a quarterback in the flex position, which is normally limited to running backs, wide receivers, and tight ends. The superflex slot may exist on its own or in addition to a traditional flex position.
+In two-quarterback leagues, each team has the ability to start two quarterbacks in their weekly lineup, rather than one, thus creating a premium on value at the quarterback position. Along with superflex, both of these roster variations are particularly popular in dynasty leagues.
+Individual Defensive Player (IDP) leagues are leagues in which teams draft defensive players as individuals, rather than as an entire unit. In rare cases, it is also possible to draft individual players at other positions that are not typically included on fantasy rosters, such as offensive linemen, punters, and return specialists.
+In empire leagues, teams compete in a dynasty format, with each year's winner receiving a portion of that year's entrance fees. The rest of the fees go into a special pot known as the empire pot. Once an owner wins the league in two consecutive seasons, he or she wins the empire pot.
+
+Draft
+Before each season, fantasy football leagues hold a draft in which each team drafts NFL players or, in the case of dynasty leagues, NFL rookies. These players are kept on the roster of the team that drafted them unless they are traded for other players or dropped, whereby they enter a pool of unowned players that any team may claim. The order of draft picks may be determined randomly or by the league standings from the previous year, in which the team with the worst record picks first, followed by the team with the second-worst record, etc. In some cases, owners retain the same draft position in each round. In contrast, in a traditional "serpentine" or "snake" draft, owners draft players in a "snake" method, in which the owner who picks first in the odd rounds picks last in the even rounds, the owner who picks second in the odd rounds picks second to last in the even rounds, etc. in the interest of fairness.
+In an auction draft, each owner has a budget which he or she must use to purchase all of his or her players in an auction format. Owners take turns nominating players for open bid, and the owner who bids the highest on each player receives that player, reducing his or her remaining budget accordingly. One proposed advantage of auction drafts is their ability to offer every owner equal access to every player, whereas in a traditional format, a certain owner's desired player may be selected by another team before his or her turn to pick.
+Drafts can be conducted in "live" or "auto" formats. Live drafts involve team owners selecting players in real time, while auto drafts are those in which selections are made automatically by computer based on pre-draft rankings set by each owner. Often, owners who are not present at the chosen time of the draft will "auto-draft" while the rest of the league makes their selections live.
+
+Whether live or auto, the vast majority of fantasy football drafts take place online, but some leagues hold in-person drafts in which selections are made on computers or physical draft boards.
+A variety of strategies may be employed by owners when making their selections. Fantasy football websites routinely release projections for the number of points each player will score during an upcoming season. The concept of value-based drafting entails comparing the projected fantasy point value for a given player and comparing this value to those of other players at his position. A player with a high value and a low average draft position (ADP) is likely to be undervalued by fantasy owners; the concept of value-based drafting is designed to find such players. Some positions are considered more valuable than others, with running backs, wide receivers, and quarterbacks often selected in early rounds and team defenses and kickers almost always selected in late rounds. The type of league may also influence draft strategy. In leagues with points per reception (PPR) scoring, running backs who often catch passes are considered more valuable than they would be in a league with standard scoring.
+
+Team rosters
+Each team is allowed a set number of players on each roster, as well as a specified number of starters at each position that can be used in a matchup. Each week, owners determine which players will start and which will be "benched." Just like in real football, players who are usually benched can become starters for various reasons: due to a starting player's injury, poor performance, or if the starter's NFL team has a bye that week. Whether to sit or start a player is also based on strategic considerations, such as the player's past and expected performance, defensive matchups, and the team he is playing that week.
+
+Starters
+Each team owner must designate which players from the overall roster will be starters each week. Only players in the starting lineup may earn fantasy points. The following is a standard starting lineup configuration and is used as the default setting on NFL.com, ESPN, and Yahoo except where noted:
+
+1 Quarterback (QB)
+2 Running backs (RB)
+2 Wide receivers (WR)
+1 Tight end (TE)
+1 Flex (RB, WR, or TE)
+1 Placekicker (K)
+1 Team defense/special teams unit (D/ST)
+6 Bench players (BN)
+There exist numerous possible variants of the traditional roster alignment. The number of starter, bench, and injured reserve slots can be altered. Sleeper, a recent upstart fantasy football platform, defaults to two flex spots. The eligible positions for the flex slot are variable. For example, in leagues with a superflex position, any offensive player, including quarterbacks, may fill the slot. Other leagues have a two-quarterback requirement for each starting lineup. In individual defensive player (IDP) leagues, the defensive portion of rosters is composed of individual players from various teams rather than an entire NFL team's defensive and special teams unit.
+
+Scoring configurations
+League managers earn fantasy points based on the performance of their starting players' performances in NFL games. Players accumulate points based purely on their statistical output. This means that, for example, each real-life yard gained or touchdown scored correlates to a certain number of fantasy points. On the other hand, yards lost and turnovers result in negative fantasy points as well.
+While rare, it is possible for players to earn points for plays not traditionally associated with their position. For example, a wide receiver who completes a pass would earn the same number of points as a quarterback completing the same pass.
+
+Standard and PPR scoring
+A key distinction in scoring systems is between standard and points per reception (PPR) scoring. Leagues with standard scoring award no points for receptions, though players still earn points for receiving yards gained. PPR leagues award one point for each reception, while half-PPR leagues award half a point. PPR leagues are higher-scoring and place a greater emphasis on wide receivers, tight ends, and running backs who catch a large number of passes, while half-PPR leagues attempt to provide more balance between rushing and receiving. The majority of leagues employ either PPR or half-PPR scoring. Many major fantasy football websites use PPR as their default setting, including ESPN and NFL.com.
+The following is the default scoring system on NFL.com and is identical to the default scoring systems of ESPN and Yahoo except where noted. Negative points are awarded for yards lost at the same rate that positive points are awarded for yards gained.
+
+1 point for every 25 passing yards
+1 point for every 10 rushing or receiving yards
+1 point for each reception
+4 points for each passing touchdown
+6 points for each rushing or receiving touchdown
+6 points for each fumble recovered for a touchdown by the offense
+2 points for each passing, rushing, or receiving two-point conversion
+-2 points for each interception thrown or fumble lost
+1 point for each extra point made
+3 points for each 0-49 yard field goal
+5 points for each 50+ yard field goal
+1 point for each sack by the defense
+2 points for each interception or fumble recovered by the defense
+2 points for each safety by the defense
+6 points for each touchdown scored by the defense
+6 points for each touchdown scored by a player returning a kickoff or punt
+A team defense can also gain or lose fantasy points based on the number of real-life points that they allow. The following is the default defensive scoring system on NFL.com and Yahoo.
+
+10 points for a shutout
+7 points for allowing 1-6 points
+4 points for allowing 7-13 points
+1 point for allowing 14-20 points
+0 points for allowing 21-27 points
+-1 point for allowing 28-34 points
+-4 points for allowing 35+ points
+
+Pure-scoring and pure-yardage leagues
+A pure-scoring system awards fantasy points based solely on touchdowns, field goals, and extra points scored by a team's players. Many of the original fantasy football leagues were pure-scoring leagues as this provided for easier tracking of team points throughout the season. As the game matured and moved online, tracking yardage became easier and more sophisticated scoring configurations were adopted. In pure-yardage leagues, points may only be scored by accumulating passing, rushing, or receiving yards.
+
+Individual defensive player (IDP)
+An alternative method for scoring defense is individual defensive player (IDP) scoring. Rather than awarding points for the on-field actions of entire defensive units, IDP scoring awards points for plays made by individual players. Such plays may include tackles, sacks, interceptions, quarterback hits, safeties, and other defensive statistics.
+
+Additional customization
+Most fantasy websites allow leagues to customize their own scoring options. Some leagues award bonus points to players for exceptional performances. For example, NFL.com allows leagues to customize scoring to award bonus points for a player who passes for over 300 yards in a game or scores a touchdown of over 40 yards, among others. NFL.com also allows players to earn points in statistical categories that are not traditionally a part of fantasy scoring, such as pass attempts or yards gained on kickoff and punt returns. In addition to earning or losing fantasy points based on real-life points allowed, team defenses may also earn or lose points based on real-life yards allowed. ESPN even allows custom scoring for punting yards, touchbacks, and punting average. Sleeper offers similar customization options, but also allows the commissioner to adjust the number points awarded from a reception based on position.
+
+Demographics
+According to the Fantasy Sports & Gaming Association (FSGA), an estimated 62.5 million people played fantasy sports in the US and Canada in 2022. The FSGA estimated that 19% of American adults played fantasy sports in 2023, compared to 13% in 2014. A 2023 FSGA survey found that 64% of fantasy sports players were male, 48% were between the ages of 18 and 34, and 84% had a college degree or higher. A 2015 analysis found that 89.8% were white and 51.5% were unmarried.
+
+Effect on American economy
+Many fantasy leagues require an entry fee that is given to or used to fund prizes for the top player or players in the league. Daily fantasy platforms, such as FanDuel, manage games with thousands of players and collect a percentage of each entry fee before distributing winnings. For example, FanDuel's revenue includes 10% of its entry fee intake.
+Fantasy football players also contribute to the economy via spending on industry products and services, such as advanced scouting reports and player rankings. In 2012, an estimated $1.67 billion was spent on fantasy sports in the United States and Canada, not including league entry fees. In 2019, the size of the American and Canadian fantasy sports industry was estimated at more than $7 billion by the FSGA.
+
+Ad revenue
+Advertising is one of the largest sources of fantasy football revenue. Many sports websites that offer free entry into leagues use advertising to support their fantasy offerings. Though difficult to quantify, revenue generated by ads on fantasy football programming is estimated at $2 to $5 billion annually. This form of revenue can be especially lucrative because fantasy team managers are often frequent Internet users. In 2012, on average, fantasy players generated four times more page views and spent six times as long on NFL.com, compared to non-fantasy players.
+
+Complementary and derivative industries
+Fantasy football has given rise to a number of complementary and derivative industries. Subscription-based information sites, such as Rotoworld, offer advanced data and player rankings marketed as providing an informational advantage. Fantasy-specific escrow companies, such as LeagueSafe, may hold league entry fees in secure accounts until the end of the season. Other websites offer the ability to have disputes between players solved by a third party via fantasy football arbitration.
+The rise of fantasy football has contributed to a rise in interest in applying high-level mathematics and computer science to the fantasy industry. A small number of fantasy players, usually with advanced degrees in mathematics, statistics, or computer science, apply algorithms and advanced statistics in order to hypothesize the best possible lineup for a given week or season. These advanced players are often far more successful than casual fans; a 2015 study found that 91% of daily fantasy baseball profits over the first half of the season were won by the top 1.3% of players.
+
+Popular culture
+Fantasy football has occasionally featured as a theme or plot point in popular media. The FX show The League, once described as a prime example of "fantasy football hooliganism," depicts six friends competing in a fantasy football league. The show ran for seven seasons from 2009 to 2015 and featured frequent cameos from then-current and former NFL players.
+In 2019, For The Win profiled a pair of exclusive and highly competitive celebrity leagues, Bloodsport and the AGBO Superhero League. Both leagues were created by figures associated with the Marvel Cinematic Universe and counted numerous actors, including Robert Downey Jr., Chris Hemsworth, and Tom Holland, as members. In the AGBO league, each participant played for a share of $100,000 to be donated to the charitable organization of their choice.
+
+Gambling
+Fantasy sports are generally considered to be a form of gambling, though they are far less strictly regulated than other forms of sports betting. In the United States, Montana is the only state with a prohibition against online fantasy sports that is codified in statute. Louisiana and Arizona, states with bans previously not explicitly outlined by law, launched online fantasy offerings in their states in 2021. In contrast, as of May 2023, only 33 US states have operational legalized sports betting. Unlike traditional sports betting, fantasy football is generally viewed as a "game of skill," rather than a "game of chance," thus exempting it from gambling bans and regulations in many jurisdictions.
+As of May 2023, daily fantasy sports operate in 45 US states, as well as in several other countries around the world.
+According to a 2023 survey by the FSGA, 23% of American adults participate in sports betting, while 19% of American adults participate in fantasy sports.
+
+Effect on spectatorship
+Fantasy football affects viewership for the NFL, as fantasy owners have rooting interests that go beyond those of traditional fans. While most individuals will follow a specific team, fantasy players follow the entire league due to the nature of the game, in which players on their roster may play for any team in the NFL. Despite leading to some conflict of interests between rooting interests and fantasy success, fantasy football has been shown to have a positive impact on NFL spectatorship.
+NFL executives have recognized the importance of fantasy football's success to the league. A 2019 survey found that people who had played fantasy football were more than twice as likely to follow the NFL "very closely" or "somewhat closely" compared to those who had not. Nearly a quarter of fantasy players reported that the primary reason that they watched NFL games was to keep up with their fantasy teams. Fantasy participants are also reported to attend 0.22 to 0.57 more NFL games in person per season than non-fantasy players. The NFL entered into a reported five-year, $600 million deal with Sprint in 2006 that was driven at least in part by fantasy sports, allowing subscribers to draft and monitor their teams using their cellphones. In 2011, the NFL directed teams to show fantasy statistics during games on stadium video boards.
+
+"Hey, great game last week.""Yeah, but we lost."
+"But you threw five touchdowns, and that's all I need from you.
+@thrasherjt: you fucked me over in fantasy bro
+@k1: @thrasherjt I could give 2 shits.
+NFL players have displayed mixed reactions on the impact of fantasy football on fans' habits and preferences. In 2006, then-Denver Broncos quarterback Jake Plummer told ESPN, "I think it's ruined the game" due to fan allegiance shifting away from teams and towards individual player performance. Then-New York Giants running back Tiki Barber said that "in a game solely designed around the team concept, it's nice to have some individual recognition every now and then. Fantasy football does that." Fans frequently ask players on their fantasy rosters to score more often; Peyton Manning reported that only autograph requests exceeded fan requests for "more fantasy touchdowns" from him. Several NFL players have stated that they play fantasy football as well.
+A key component of fantasy football team management is tracking player injuries throughout the season. Critics charge that this leads to fantasy players being more concerned with the amount of game time missed by an injured player than the nature or extent of the injury. David Chao said that when he was team doctor for the San Diego Chargers, "The first 10 to 12 years, I would be asked 'Is LT (LaDainian Tomlinson) healthy?' to help our team win this Sunday. The last five years there, the question would be 'Is (Antonio) Gates healthy? He’s on my fantasy team!'"
+
+Wasted productivity
+While its precise impact is difficult to quantify, estimates of American workplace productivity lost due to fantasy football range from $6.5 billion to $17 billion annually. As of 2019, an estimated 7.5 million Americans play fantasy football at work. However, according to John Challenger, an executive at a research firm that produces an annual report on the subject, measuring the precise impact of fantasy football on employers is difficult because "there is no way to determine how many people are managing their teams from work or how long they are spending on these activities."
+Researchers have noted that fantasy football's benefits towards motivation and workplace culture may offset these losses. "It might cost employers a little bit in lost productivity, but we think it makes up for it in spades in terms of building up the culture in an organization," said Andrew Challenger, whose firm estimated in 2019 that fantasy football cost employers $9 billion. "It helps transform jobs that have become more and more transactional into communities."
+
+Notes
+
+
+== References ==

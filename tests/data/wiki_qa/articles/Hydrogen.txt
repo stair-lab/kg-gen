@@ -1,0 +1,286 @@
+Hydrogen is a chemical element; it has symbol H and atomic number 1. It is the lightest and most abundant chemical element in the universe, constituting about 75% of all normal matter. Stars, including the Sun, mainly consist of hydrogen in a plasma state, while on Earth, hydrogen is found in water and organic compounds as the gas H2 (dihydrogen), and in other molecular forms. The most common isotope of hydrogen (1H) consists of one proton, one electron, and no neutrons.
+Under standard conditions, hydrogen is a gas of diatomic molecules with the formula H2, called dihydrogen, or sometimes hydrogen gas, molecular hydrogen, or simply hydrogen. Dihydrogen is colorless, odorless, non-toxic, and highly combustible.
+Hydrogen gas was first produced artificially in the 17th century by the reaction of acids with metals. Henry Cavendish, in 1766–1781, identified hydrogen gas as a distinct substance and discovered its property of producing water when burned; hence its name means 'water-former' in Greek. Understanding the colors of light absorbed and emitted by hydrogen was a crucial part of developing quantum mechanics.
+Hydrogen, typically nonmetallic except under extreme pressure, readily forms covalent bonds with most nonmetals, contributing to the formation of compounds like water and various organic substances. Its role is crucial in acid-base reactions, which mainly involve proton exchange among soluble molecules. In ionic compounds, hydrogen can take the form of either a negatively charged anion, where it is known as hydride, or as a positively charged cation, H+, called a proton. Although tightly bonded to water molecules, protons strongly affect the behavior of aqueous solutions, as reflected in the importance of pH. Hydride, on the other hand, is rarely observed because it tends to deprotonate solvents, yielding H2.
+In the early universe, neutral hydrogen atoms formed about 370,000 years after the Big Bang as the universe expanded and plasma had cooled enough for electrons to remain bound to protons. Once stars formed most of the atoms in the intergalactic medium re-ionized.
+Nearly all hydrogen production is done by transforming fossil fuels, particularly steam reforming of natural gas. It can also be produced from electricity by electrolysis, however this process is more expensive. Its main industrial uses include fossil fuel processing and ammonia production for fertilizer. Emerging uses for hydrogen include the use of fuel cells to generate electricity.
+
+Properties
+Atomic hydrogen
+Electron energy levels
+The ground state energy level of the electron in a hydrogen atom is −13.6 eV, equivalent to an ultraviolet photon of roughly 91 nm wavelength. The energy levels of hydrogen are referred to by consecutive quantum numbers, with 
+  
+    
+      
+        n
+        =
+        1
+      
+    
+    {\displaystyle n=1}
+  
+ being the ground state. The hydrogen spectral series corresponds to emission of light due to transitions from higher to lower energy levels.: 105  Each energy level is further split by  spin interactions between the electron and proton into 4 hyperfine levels. 
+High precision values for the hydrogen atom energy levels are required for definitions of physical constants. Quantum calculations have identified 9 contributions to the energy levels. The eigenvalue from the Dirac equation is the largest contribution. Other terms include relativistic recoil, the self-energy, and the vacuum polarization terms.
+
+Isotopes
+Hydrogen has three naturally occurring isotopes, denoted 1H, 2H and 3H. Other, highly unstable nuclei (4H to 7H) have been synthesized in the laboratory but not observed in nature.
+1H is the most common hydrogen isotope, with an abundance of >99.98%. Because the nucleus of this isotope consists of only a single proton, it is given the descriptive but rarely used formal name protium. It is the only stable isotope with no neutrons; see diproton for a discussion of why others do not exist.
+2H, the other stable hydrogen isotope, is known as deuterium and contains one proton and one neutron in the nucleus. Nearly all deuterium nuclei in the universe is thought to have been produced at the time of the Big Bang, and has endured since then.: 24.2  Deuterium is not radioactive, and is not a significant toxicity hazard. Water enriched in molecules that include deuterium instead of normal hydrogen is called heavy water. Deuterium and its compounds are used as a non-radioactive label in chemical experiments and in solvents for 1H-NMR spectroscopy. Heavy water is used as a neutron moderator and coolant for nuclear reactors. Deuterium is also a potential fuel for commercial nuclear fusion. 
+3H is known as tritium and contains one proton and two neutrons in its nucleus. It is radioactive, decaying into helium-3 through beta decay with a half-life of 12.32 years. It is radioactive enough to be used in luminous paint to enhance the visibility of data displays, such as for painting the hands and dial-markers of watches. The watch glass prevents the small amount of radiation from escaping the case. Small amounts of tritium are produced naturally by cosmic rays striking atmospheric gases; tritium has also been released in nuclear weapons tests. It is used in nuclear fusion, as a tracer in isotope geochemistry, and in specialized self-powered lighting devices. Tritium has also been used in chemical and biological labeling experiments as a radiolabel.
+Unique among the elements, distinct names are assigned to its isotopes in common use. During the early study of radioactivity, heavy radioisotopes were given their own names, but these are mostly no longer used. The symbols D and T (instead of 2H and 3H) are sometimes used for deuterium and tritium, but the symbol P was already used for phosphorus and thus was not available for protium. In its nomenclatural guidelines, the International Union of Pure and Applied Chemistry (IUPAC) allows any of D, T, 2H, and 3H to be used, though 2H and 3H are preferred.
+Antihydrogen (H) is the antimatter counterpart to hydrogen. It consists of an antiproton with a positron. Antihydrogen is the only type of antimatter atom to have been produced as of 2015. The exotic atom muonium (symbol Mu), composed of an antimuon and an electron, is analogous hydrogen and IUPAC nomenclature incorporates such hypothetical compounds as muonium chloride (MuCl) and sodium muonide (NaMu), analogous to hydrogen chloride and sodium hydride respectively.
+
+Dihydrogen
+Under standard conditions, hydrogen is a gas of diatomic molecules with the formula H2, officially called "dihydrogen",: 308  but also called "molecular hydrogen", or simply hydrogen. Dihydrogen is a colorless, odorless, flammable gas.
+
+Combustion
+Hydrogen gas is highly flammable, reacting with oxygen in air, to produce liquid water:
+
+2 H2(g) + O2(g) → 2 H2O(l)
+The amount of heat released per mole of hydrogen is −286 kJ or 141.865 MJ for a kilogram mass.
+Hydrogen gas forms explosive mixtures with air in concentrations from 4–74% and with chlorine at 5–95%. The hydrogen autoignition temperature, the temperature of spontaneous ignition in air, is 500 °C (932 °F). In a high-pressure hydrogen leak, the shock wave from the leak itself can heat air to the autoignition temperature, leading to flaming and possibly explosion.
+Hydrogen flames emit faint blue and ultraviolet light.  Flame detectors are used to detect hydrogen fires as they are nearly invisible to the naked eye in daylight.
+
+Spin isomers
+Molecular H2 exists as two nuclear isomers that differ in the spin states of their nuclei. In the orthohydrogen form, the spins of the two nuclei are parallel, forming a spin triplet state having a total molecular spin 
+  
+    
+      
+        S
+        =
+        1
+      
+    
+    {\displaystyle S=1}
+  
+; in the parahydrogen form the spins are antiparallel and form a spin singlet state having spin 
+  
+    
+      
+        S
+        =
+        0
+      
+    
+    {\displaystyle S=0}
+  
+. The equilibrium ratio of ortho- to para-hydrogen depends on temperature. At room temperature or warmer, equilibrium hydrogen gas contains about 25% of the para form and 75% of the ortho form. The ortho form is an excited state, having higher energy than the para form by 1.455 kJ/mol, and it converts to the para form over the course of several minutes when cooled to low temperature. The thermal properties of these isomers differ because each has distinct rotational quantum states.
+The ortho-to-para ratio in H2 is an important consideration in the liquefaction and storage of liquid hydrogen: the conversion from ortho to para is exothermic and produces sufficient heat to evaporate most of the liquid if not converted first to parahydrogen during the cooling process. Catalysts for the ortho-para interconversion, such as ferric oxide and activated carbon compounds, are used during hydrogen cooling to avoid this loss of liquid.
+
+Phases
+Liquid hydrogen can exist at temperatures below hydrogen's critical point of 33 K. However, for it to be in a fully liquid state at atmospheric pressure, H2 needs to be cooled to 20.28 K (−252.87 °C; −423.17 °F). Hydrogen was liquefied by James Dewar in 1898 by using regenerative cooling and his invention, the vacuum flask.
+Liquid hydrogen becomes solid hydrogen at standard pressure below hydrogen's melting point of 14.01 K (−259.14 °C; −434.45 °F). Distinct solid phases exist, known as Phase I through Phase V, each exhibiting a characteristic molecular arrangement. Liquid and solid phases can exist in combination at the triple point, a substance known as slush hydrogen.
+Metallic hydrogen, a phase obtained at extremely high pressures (in excess of 400 gigapascals (3,900,000 atm; 58,000,000 psi)), is an electrical conductor. It is believed to exist deep within giant planets like Jupiter.
+When ionized, hydrogen becomes a plasma. This is the form in which hydrogen exists within stars.
+
+Thermal and physical properties
+History
+18th century
+In 1671, Irish scientist Robert Boyle discovered and described the reaction between iron filings and dilute acids, which results in the production of hydrogen gas.
+Boyle did not note that the gas was inflammable, but hydrogen would play a key role in overturning the phlogiston theory of combustion.
+In 1766, Henry Cavendish was the first to recognize hydrogen gas as a discrete substance, by naming the gas from a metal-acid reaction "inflammable air". He speculated that "inflammable air" was in fact identical to the hypothetical substance "phlogiston" and further finding in 1781 that the gas produces water when burned. He is usually given credit for the discovery of hydrogen as an element.
+
+In 1783, Antoine Lavoisier identified the element that came to be known as hydrogen when he and Laplace reproduced Cavendish's finding that water is produced when hydrogen is burned. Lavoisier produced hydrogen for his experiments on mass conservation by treating metallic iron with a stream of H2O through an incandescent iron tube heated in a fire. Anaerobic oxidation of iron by the protons of water at high temperature can be schematically represented by the set of following reactions:
+
+Fe + H2O  →  FeO + H2
+2Fe + 3 H2O  →  Fe2O3 + 3 H2
+3Fe + 4 H2O  →  Fe3O4 + 4 H2
+Many metals react similarly with water leading to the production of hydrogen.  In some situations, this H2-producing process is problematic as is the case of zirconium cladding on nuclear fuel rods.
+
+19th century
+By 1806 hydrogen was used to fill balloons.
+François Isaac de Rivaz built the first de Rivaz engine, an internal combustion engine powered by a mixture of hydrogen and oxygen in 1806. Edward Daniel Clarke invented the hydrogen gas blowpipe in 1819. The Döbereiner's lamp and limelight were invented in 1823. Hydrogen was liquefied for the first time by James Dewar in 1898 by using regenerative cooling and his invention, the vacuum flask. He produced solid hydrogen the next year.
+One of the first quantum effects to be explicitly noticed (but not understood at the time) was James Clerk Maxwell's observation that the specific heat capacity of H2 unaccountably departs from that of a diatomic gas below room temperature and begins to increasingly resemble that of a monatomic gas at cryogenic temperatures. According to quantum theory, this behavior arises from the spacing of the (quantized) rotational energy levels, which are particularly wide-spaced in H2 because of its low mass. These widely spaced levels inhibit equal partition of heat energy into rotational motion in hydrogen at low temperatures. Diatomic gases composed of heavier atoms do not have such widely spaced levels and do not exhibit the same effect.
+
+20th century
+The existence of the hydride anion was suggested by Gilbert N. Lewis in 1916 for group 1 and 2 salt-like compounds.  In 1920, Moers electrolyzed molten lithium hydride (LiH), producing a stoichiometric quantity of hydrogen at the anode.
+
+Because of its simple atomic structure, consisting only of a proton and an electron, the hydrogen atom, together with the spectrum of light produced from it or absorbed by it, has been central to the development of the theory of atomic structure. The energy levels of hydrogen can be calculated fairly accurately using the Bohr model of the atom, in which the electron "orbits" the proton, like how Earth orbits the Sun. However, the electron and proton are held together by electrostatic attraction, while planets and celestial objects are held by gravity. Due to the discretization of angular momentum postulated in early quantum mechanics by Bohr, the electron in the Bohr model can only occupy certain allowed distances from the proton, and therefore only certain allowed energies.
+Hydrogen's unique position as the only neutral atom for which the Schrödinger equation can be directly solved, has significantly contributed to the understanding of quantum mechanics through the exploration of its energetics. Furthermore, study of the corresponding simplicity of the hydrogen molecule and the corresponding cation H+2 brought understanding of the nature of the chemical bond, which followed shortly after the quantum mechanical treatment of the hydrogen atom had been developed in the mid-1920s.
+
+Hydrogen-lifted airship
+Because H2 is only 7% the density of air, it was once widely used as a lifting gas in balloons and airships. The first hydrogen-filled balloon was invented by Jacques Charles in 1783. Hydrogen provided the lift for the first reliable form of air-travel following the 1852 invention of the first hydrogen-lifted airship by Henri Giffard. German count Ferdinand von Zeppelin promoted the idea of rigid airships lifted by hydrogen that later were called Zeppelins; the first of which had its maiden flight in 1900. Regularly scheduled flights started in 1910 and by the outbreak of World War I in August 1914, they had carried 35,000 passengers without a serious incident. Hydrogen-lifted airships in the form of blimps were used as observation platforms and bombers during the War II, especially on the US Eastern seaboard.
+The first non-stop transatlantic crossing was made by the British airship R34 in 1919 and  regular passenger service resumed in the 1920s. Hydrogen was used in the Hindenburg airship, which caught fire over New Jersey on 6 May 1937.  The hydrogen that filled the airship was ignited, possibly by static electricity, and burst into flames. Following this Hindenburg disaster, commercial hydrogen airship travel ceased. Hydrogen is still used, in preference to non-flammable but more expensive helium, as a lifting gas for weather balloons.
+
+Deuterium and tritium
+Deuterium was discovered in December 1931 by Harold Urey, and tritium was prepared in 1934 by Ernest Rutherford, Mark Oliphant, and Paul Harteck. Heavy water, which consists of deuterium in the place of regular hydrogen, was discovered by Urey's group in 1932.
+
+Chemistry
+Reactions of H2
+H2 is relatively unreactive. The thermodynamic basis of this low reactivity is the very strong H–H bond, with a bond dissociation energy of 435.7 kJ/mol.  It does form coordination complexes called dihydrogen complexes.  These species provide insights into the early steps in the interactions of hydrogen with metal catalysts.  According to neutron diffraction, the metal and two H atoms form a triangle in these complexes.  The H-H bond remains intact but is elongated.  They are acidic.
+Although exotic on Earth, the H+3 ion is common in the universe. It is a triangular species, like the aforementioned dihydrogen complexes. It is known as protonated molecular hydrogen or the trihydrogen cation.
+Hydrogen reacts with chlorine to produce HCl and with bromine to produce HBr by a chain reaction. The reaction requires initiation. For example in the case of Br2, the diatomic molecule is broken into atoms, Br2 + (UV light) →  2Br. Propagating reactions consume hydrogen molecules and produce HBr, as well as Br and H atoms: 
+
+Br + H2  →  HBr + H
+H + Br2  →  HBr +Br
+Finally the terminating reaction:
+
+H + HBr  →  H2 + Br
+2Br  →  Br2.
+consumes the remaining atoms.: 289 
+The addition of H2 to unsaturated organic compounds, such as alkenes and alkynes, is called hydrogenation. Even if the reaction is energitically favorable, it does not take place even at higher temperatures. In the presence of a catalyst like finely divided platinum or nickel, the reaction proceeds at room temperature.: 477
+
+Hydrogen-containing compounds
+Most known compounds contain hydrogen, not as H2, but as covalently bonded H atoms.  This interaction is the basis of organic chemistry and biochemistry. Hydrogen forms many compounds with carbon, called the hydrocarbons. Hydrocarbons are organic compounds. In nature, organic compounds almost always contain "heteroatoms" such as nitrogen, oxygen, and sulfur. The study of their properties is known as organic chemistry and their study in the context of living organisms is called biochemistry. By some definitions, "organic" compounds are only required to contain carbon. However, most of them also contain hydrogen, and because it is the carbon-hydrogen bond that gives this class of compounds most of its particular chemical characteristics, carbon-hydrogen bonds are required in some definitions of the word "organic" in chemistry.
+
+Hydrides
+Hydrogen forms hydrides with many metals. The hydrides can be ionic (aka saline), covalent, nor metallic.
+With heating, H2 reacts efficiently with the alkali and alkaline earth metals to give the ionic hydrides of the formula MH and MH2, respectively. These salt-like crystalline compounds have high melting points and all react with water to liberate hydrogen. Covalent hydrides are include boranes and polymeric aluminium hydride. Transition metals form metal hydrides via continuous dissolution of hydrogen into the metal. A well known hydride is lithium aluminium hydride, the [AlH4]− anion carries hydridic centers firmly attached to the Al(III).  Perhaps the most extensive series of hydrides are the boranes, compounds consisting only of boron and hydrogen.
+Hydrides can bond to these electropositive elements not only as a terminal ligand but also as bridging ligands.  In diborane (B2H6), four H's are terminal and two bridge between the two B atoms.
+
+Hydrogen bonding
+When bonded to a more electronegative element, particularly fluorine, oxygen, or nitrogen, hydrogen can participate in a form of medium-strength noncovalent bonding with another electronegative element with a lone pair like oxygen or nitrogen, a phenomenon called hydrogen bonding that is critical to the stability of many biological molecules.: 375  Hydrogen bonding alters molecule structures, viscosity, solubility, as well as melting and boiling points even protein folding dynamics.
+
+Protons and acids
+In water, hydrogen bonding plays an important role in reaction thermodynamics. A hydrogen bond can shift over to proton transfer.
+Under the Brønsted–Lowry acid–base theory, acids are proton donors, while bases are proton acceptors.: 28 
+A bare proton, H+ essentially cannot exist in anything other than a vacuum. Otherwise it attaches to other atoms, ions, or molecules.  Even species as inert as methane can be protonated. The term 'proton' is used loosely and metaphorically to refer to refer to solvated H+" without any implication that any single protons exist freely as a species.  To avoid the implication of the naked proton in solution, acidic aqueous solutions are sometimes considered to contain the "hydronium ion" ([H3O]+) or still more accurately, [H9O4]+. Other oxonium ions are found when water is in acidic solution with other solvents.
+
+Occurrence
+Cosmic
+Hydrogen, as atomic H, is the most abundant chemical element in the universe, making up 75% of normal matter by mass and >90% by number of atoms. In the early universe, the protons formed in the first second after the Big Bang; neutral hydrogen atoms formed about 370,000 years later during the recombination epoch as the universe expanded and plasma had cooled enough for electrons to remain bound to protons. 
+In astrophysics, neutral hydrogen in the interstellar medium is called H I and ionized hydrogen is called H II. Radiation from stars ionizes H I to H II, creating spheres of ionized H II around stars. In the chronology of the universe neutral hydrogen dominated until the birth of stars during the era of reionization led to bubbles of ionized hydrogen that grew and merged over 500  million of years.
+They are the source of the 21-cm hydrogen line at 1420 MHz that is detected in order to probe primordial hydrogen. The large amount of neutral hydrogen found in the damped Lyman-alpha systems is thought to dominate the cosmological baryonic density of the universe up to a redshift of z = 4.
+Hydrogen is found in great abundance in stars and gas giant planets. Molecular clouds of H2 are associated with star formation. Hydrogen plays a vital role in powering stars through the proton-proton reaction in lower-mass stars, and through the CNO cycle of nuclear fusion in case of stars more massive than the Sun.
+A molecular form called protonated molecular hydrogen (H+3) is found in the interstellar medium, where it is generated by ionization of molecular hydrogen from cosmic rays. This ion has also been observed in the upper atmosphere of Jupiter. The ion is long-lived in outer space due to the low temperature and density. H+3 is one of the most abundant ions in the universe, and it plays a notable role in the chemistry of the interstellar medium. Neutral triatomic hydrogen H3 can exist only in an excited form and is unstable.
+
+Terrestrial
+Hydrogen is the third most abundant element on the Earth's surface, mostly in the form of chemical compounds such as hydrocarbons and water.  Elemental hydrogen is normally in the form of a gas, H2. It is present in a very low concentration in Earth's atmosphere (around 0.53 ppm on a molar basis) because of its light weight, which enables it to escape the atmosphere more rapidly than heavier gases. Despite its low concentration in our atmosphere, terrestrial hydrogen is sufficiently abundant to support the metabolism of several bacteria.
+Large underground deposits of hydrogen gas have been discovered in several countries including Mali, France and Australia. As of 2024, it is uncertain how much underground hydrogen can be extracted economically.
+
+Production and storage
+Industrial routes
+Nearly all of the world's current supply of hydrogen gas (H2) is created from fossil fuels.: 1  Many methods exist for producing H2, but three dominate commercially: steam reforming often coupled to water-gas shift, partial oxidation of hydrocarbons, and water electrolysis.
+
+Steam reforming
+Hydrogen is mainly produced by steam methane reforming (SMR), the reaction of water and methane. Thus, at high temperature (1000–1400 K, 700–1100 °C or 1300–2000 °F), steam (water vapor) reacts with methane to yield carbon monoxide and H2.
+
+CH4 + H2O → CO + 3 H2
+Producing one tonne of hydrogen through this process emits 6.6–9.3 tonnes of carbon dioxide. The production of natural gas feedstock also produces emissions such as vented and fugitive methane, which further contributes to the overall carbon footprint of hydrogen.
+This reaction is favored at low pressures, Nonetheless, conducted at high pressures (2.0 MPa, 20 atm or 600 inHg) because high-pressure H2 is the most marketable product, and pressure swing adsorption (PSA) purification systems work better at higher pressures. The product mixture is known as "synthesis gas" because it is often used directly for the production of methanol and many other compounds. Hydrocarbons other than methane can be used to produce synthesis gas with varying product ratios. One of the many complications to this highly optimized technology is the formation of coke or carbon:
+
+CH4 → C + 2 H2
+Therefore, steam reforming typically employs an excess of H2O. Additional hydrogen can be recovered from the steam by using carbon monoxide through the water gas shift reaction (WGS).  This process requires an iron oxide catalyst:
+
+CO + H2O → CO2 + H2
+Hydrogen is sometimes produced and consumed in the same industrial process, without being separated. In the Haber process for ammonia production, hydrogen is generated from natural gas.
+
+Partial oxidation of hydrocarbons
+Other methods for CO and H2 production include partial oxidation of hydrocarbons:
+
+2 CH4 + O2 → 2 CO + 4 H2
+Although less important commercially, coal can serve as a prelude to the shift reaction above:
+
+C + H2O → CO + H2
+Olefin production units may produce substantial quantities of byproduct hydrogen particularly from cracking light feedstocks like ethane or propane.
+
+Water electrolysis
+Electrolysis of water is a conceptually simple method of producing hydrogen.  
+
+2 H2O(l) → 2 H2(g) + O2(g)
+Commercial electrolyzers use nickel-based catalysts in strongly alkaline solution. Platinum is a better catalyst but is expensive. The hydrogen created through electrolysis using renewable energy is commonly referred to as "green hydrogen".
+Electrolysis of brine to yield chlorine also produces high purity hydrogen as a co-product, which is used for a variety of transformations such as hydrogenations.
+The electrolysis process is more expensive than producing hydrogen from methane without carbon capture and storage.
+Innovation in hydrogen electrolyzers could make large-scale production of hydrogen from electricity more cost-competitive.
+
+Methane pyrolysis
+Hydrogen can be produced by pyrolysis of natural gas (methane), producing hydrogen gas and solid carbon with the aid a catalyst and 74 kJ/mol input heat:
+
+CH4(g) → C(s) + 2 H2(g) (ΔH° = 74 kJ/mol)
+The carbon may be sold as a manufacturing feedstock or fuel, or landfilled.
+This route could have a lower carbon footprint than existing hydrogen production processes, but mechanisms for removing the carbon and preventing it from reacting with the catalyst remain obstacles for industrial scale use.: 17
+
+Thermochemical
+Water splitting is the process by which water is decomposed into its components.  Relevant to the biological scenario is this simple equation:
+
+2 H2O   →   4 H+ + O2 + 4e−
+The reaction occurs in the light reactions in all photosynthetic organisms. A few organisms, including the alga Chlamydomonas reinhardtii and cyanobacteria, have evolved a second step in the dark reactions in which protons and electrons are reduced to form H2 gas by specialized hydrogenases in the chloroplast.
+Efforts have been undertaken to genetically modify cyanobacterial hydrogenases to more efficiently generate H2 gas even in the presence of oxygen. Efforts have also been undertaken with genetically modified alga in a bioreactor.
+Relevant to the thermal water-splitting scenario is this simple equation:
+
+2 H2O   →   2 H2 + O2
+More than 200 thermochemical cycles can be used for water splitting. Many of these cycles such as the iron oxide cycle, cerium(IV) oxide–cerium(III) oxide cycle, zinc zinc-oxide cycle, sulfur-iodine cycle, copper-chlorine cycle and hybrid sulfur cycle have been evaluated for their commercial potential to produce hydrogen and oxygen from water and heat without using electricity. A number of labs (including in France, Germany, Greece, Japan, and the United States) are developing thermochemical methods to produce hydrogen from solar energy and water.
+
+Natural routes
+Biohydrogen
+H2 is produced by enzymes called hydrogenases. This  process allows the host organism to use fermentation as a source of energy.  These same enzymes also can oxidize H2, such that the host organisms can subsist by reducing oxidized substrates using electrons extracted from H2.
+The hydrogenase enzyme feature iron or nickel-iron centers at their active sites. The natural cycle of hydrogen production and consumption by organisms is called the hydrogen cycle.
+Some bacteria such as Mycobacterium smegmatis can use the small amount of hydrogen in the atmosphere as a source of energy when other sources are lacking. Their hydrogenase are designed with small channels that exclude oxygen and so permits the reaction to occur even though the hydrogen concentration is very low and the oxygen concentration is as in normal air.
+Confirming the existence of hydrogenases in the human gut, H2 occurs in human breath. The concentration in the breath of fasting people at rest is typically less than 5 parts per million (ppm) but can be 50 ppm when people with intestinal disorders consume molecules they cannot absorb during diagnostic hydrogen breath tests.
+
+Serpentinization
+Serpentinization is a geological mechanism that produce highly reducing conditions. Under these conditions, water is capable of oxidizing ferrous (Fe2+) ions in fayalite, generating hydrogen gas:
+
+Fe2SiO4 + H2O → 2 Fe3O4 + SiO2 +H2
+Closely related to this geological process is the Schikorr reaction:
+
+3 Fe(OH)2 → Fe3O4 + 2 H2O + H2
+This process also is relevant to the corrosion of iron and steel in oxygen-free groundwater and in reducing soils below the water table.
+
+Storage
+If H2 is to be used as an energy source, its storage is important. It dissolves only poorly in solvents.  For example, at room temperature and 0.1 Mpascal, ca. 0.05 moles dissolves in one kilogram of diethyl ether. The H2 can be stored in compressed form, although compressing costs energy.  Liquifaction is impractical given its low critical temperature.  In contrast, ammonia and many hydrocarbons can be liquified at room temperature under pressure.  For these reasons, hydrogen carriers - materials that reversibly bind H2 - have attracted much attention.  The key question is then the weight percent of H2-equivalents within the carrier material.  For example, hydrogen can be reversibly absorbed into many rare earth and transition metals and is soluble in both nanocrystalline and amorphous metals. Hydrogen solubility in metals is influenced by local distortions or impurities in the crystal lattice. These properties may be useful when hydrogen is purified by passage through hot palladium disks, but the gas's high solubility is also a metallurgical problem, contributing to the embrittlement of many metals, complicating the design of pipelines and storage tanks.
+The most problematic aspect of metal hydrides for storage is their modest H2 content, often on the order of 1%.  For this reason, there is interest in storage of H2 in compounds of low molecular weight.  For example, ammonia borane (H3N−BH3) contains 19.8 weight percent of H2.  The problem with this material is that after release of H2, the resulting boron nitride does not re-add H2, i.e. ammonia borane is an irreversible hydrogen carrier.  More attractive, somewhat ironically, are hydrocarbons such as tetrahydroquinoline, which reversibly release some H2 when heated in the presence of a catalyst:
+
+C9H10NH  ⇌  C9H7N  +  2H2
+
+Applications
+Petrochemical industry
+Large quantities of H2 are used in the "upgrading" of fossil fuels. Key consumers of H2 include hydrodesulfurization, and hydrocracking. Many of these reactions can be classified as hydrogenolysis, i.e., the cleavage of bonds by hydrogen. Illustrative is the separation of sulfur from liquid fossil fuels:
+
+R2S + 2 H2 → H2S + 2 RH
+
+Hydrogenation
+Hydrogenation, the addition of H2 to various substrates, is done on a large scale. Hydrogenation of N2 to produce ammonia by the Haber process, consumes a few percent of the energy budget in the entire industry. The resulting ammonia is used in fertilizers critical to the supply of protein consumed by humans. Hydrogenation is used to convert unsaturated fats and oils to saturated fats and oils. The major application is the production of margarine. Methanol is produced by hydrogenation of carbon dioxide. It is similarly the source of hydrogen in the manufacture of hydrochloric acid. H2 is also used as a reducing agent for the conversion of some ores to the metals.
+
+Coolant
+Hydrogen-cooled turbogenerator
+Hydrogen is used in  as a coolant in large power stations generators because it is 1/14th as dense as air but has 6.7 times the thermal conductivity. The reduced density reduces the internal wind resistance, improving efficiency by 1%, noise is reduced, and the cooling surface required for hydrogen is much smaller than air coolers due the high heat transfer. The first hydrogen-cooled turbogenerator went into service using gaseous hydrogen as a coolant in the rotor and the stator in 1937 at Dayton, Ohio, owned by the Dayton Power & Light Co.
+
+Fuel
+The potential for using hydrogen (H2)  as a fuel has been widely discussed. Hydrogen can be used in fuel cells to produce electricity, or burned to generate heat. When hydrogen is consumed in fuel cells, the only emission at the point of use is water vapor. When burned, hydrogen produces relatively little pollution at the point of combustion, but can lead to thermal formation of harmful nitrogen oxides.
+If hydrogen is produced with low or zero greenhouse gas emissions (green hydrogen), it can play a significant role in decarbonizing energy systems where there are challenges and limitations to replacing fossil fuels with direct use of electricity.
+Hydrogen fuel can produce the intense heat required for industrial production of steel, cement, glass, and chemicals, thus contributing to the decarbonization of industry alongside other technologies, such as electric arc furnaces for steelmaking. However, it is likely to play a larger role in providing industrial feedstock for cleaner production of ammonia and organic chemicals. For example, in steelmaking, hydrogen could function as a clean fuel and also as a low-carbon catalyst, replacing coal-derived coke (carbon):
+
+2FeO  +  C  →  2Fe  +  CO2
+vs
+FeO  +  H2  →  Fe  +  H2O
+Hydrogen used to decarbonize transportation is likely to find its largest applications in shipping, aviation and, to a lesser extent, heavy goods vehicles, through the use of hydrogen-derived synthetic fuels such as ammonia and methanol and fuel cell technology. For light-duty vehicles including cars, hydrogen is far behind other alternative fuel vehicles, especially compared with the rate of adoption of battery electric vehicles, and may not play a significant role in future.
+
+Liquid hydrogen and liquid oxygen together serve as cryogenic propellants in liquid-propellant rockets, as in the Space Shuttle main engines. NASA has investigated the use of rocket propellant made from atomic hydrogen, boron or carbon that is frozen into solid molecular hydrogen particles suspended in liquid helium. Upon warming, the mixture vaporizes to allow the atomic species to recombine, heating the mixture to high temperature.
+Hydrogen produced when there is a surplus of variable renewable electricity could in principle be stored and later used to generate heat or to re-generate electricity.  It can be further transformed into synthetic fuels such as ammonia and methanol. Disadvantages of hydrogen fuel include high costs of storage and distribution due to hydrogen's explosivity, its large volume compared to other fuels, and its tendency to make pipes brittle.
+
+Nickel–hydrogen battery
+The very long-lived, rechargeable nickel–hydrogen battery developed for satellite power systems uses pressurized gaseous H2. The International Space Station, Mars Odyssey and the Mars Global Surveyor are equipped with nickel-hydrogen batteries. In the dark part of its orbit, the Hubble Space Telescope is also powered by nickel-hydrogen batteries, which were finally replaced in May 2009, more than 19 years after launch and 13 years beyond their design life.
+
+Semiconductor industry
+Hydrogen is employed to saturate broken ("dangling") bonds of amorphous silicon and amorphous carbon that helps stabilizing material properties. Hydrogen, introduced as a unintended side-effect of production, acts as a shallow electron donor leading to n-type conductivity in ZnO, with important uses in transducers and phosphors. Detailed analysis of ZnO and of MgO show evidence of four and six-fold hydrogen multicentre bonds.
+The doping behavior of hydrogen varies with the material.
+
+Niche and evolving uses
+Shielding gas: Hydrogen is used as a shielding gas in welding methods such as atomic hydrogen welding.
+Cryogenic research: Liquid H2 is used in cryogenic research, including superconductivity studies.
+Leak detection: Pure or mixed with nitrogen (sometimes called forming gas), hydrogen is a tracer gas for detection of minute leaks. Applications can be found in the automotive, chemical, power generation, aerospace, and telecommunications industries. Hydrogen is an authorized food additive (E 949) that allows food package leak testing, as well as having anti-oxidizing properties.
+Neutron moderation: Deuterium (hydrogen-2) is used in nuclear fission applications as a moderator to slow neutrons.
+Nuclear fusion fuel: Deuterium is used in nuclear fusion reactions.
+Isotopic labeling: Deuterium compounds have applications in chemistry and biology in studies of isotope effects on reaction rates.
+Tritium uses: Tritium (hydrogen-3), produced in nuclear reactors, is used in the production of hydrogen bombs, as an isotopic label in the biosciences, and as a source of beta radiation in radioluminescent paint for instrument dials and emergency signage.
+
+Safety and precautions
+In hydrogen pipelines and steel storage vessels, hydrogen molecules are prone to react with metals, causing hydrogen embrittlement and leaks in the pipeline or storage vessel. Since it is lighter than air, hydrogen does not easily accumulate to form a combustible gas mixture.  However, even without ignition sources, high-pressure hydrogen leakage may cause spontaneous combustion and detonation.
+Hydrogen is flammable when mixed even in small amounts with air. Ignition can occur at a volumetric ratio of hydrogen to air as low as 4%. In approximately 70% of hydrogen ignition accidents, the ignition source cannot be found, and it is widely believed by scholars that spontaneous ignition of hydrogen occurs.
+Hydrogen fire, while being extremely hot, is almost invisible, and thus can lead to accidental burns.  Hydrogen is non-toxic, but like most gases it can cause asphyxiation in the absence of adequate ventilation.
+
+See also
+References
+Further reading
+Chart of the Nuclides (17th ed.). Knolls Atomic Power Laboratory. 2010. ISBN 978-0-9843653-0-2.
+Newton, David E. (1994). The Chemical Elements. New York: Franklin Watts. ISBN 978-0-531-12501-4.
+Rigden, John S. (2002). Hydrogen: The Essential Element. Cambridge, Massachusetts: Harvard University Press. ISBN 978-0-531-12501-4.
+Romm, Joseph J. (2004). The Hype about Hydrogen, Fact and Fiction in the Race to Save the Climate. Island Press. ISBN 978-1-55963-703-9.
+Scerri, Eric (2007). The Periodic System, Its Story and Its Significance. New York: Oxford University Press. ISBN 978-0-19-530573-9.
+
+External links
+Basic Hydrogen Calculations of Quantum Mechanics
+Hydrogen at The Periodic Table of Videos (University of Nottingham)
+High temperature hydrogen phase diagram
+Wavefunction of hydrogen

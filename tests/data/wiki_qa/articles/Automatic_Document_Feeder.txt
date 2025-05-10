@@ -1,0 +1,9 @@
+In multifunction or all-in-one printers, fax machines, photocopiers and scanners, an automatic document feeder or ADF is a feature which takes several pages and feeds the paper one page at a time into a scanner or copier, allowing the user to scan, and thereby copy, print, or fax, multiple-page documents without having to manually replace each page.
+Most copiers allow scanning on the flatbed or platen (the "glass") or through a document feeder. The vast majority of fax machines have an ADF, allowing the unattended sending of multi-page faxes. ADF is so ubiquitous in fax machines that some fax machine owners use the machine as a scanner, faxing multi-page documents to themselves. Document feeders are described by speed, in pages per minute or ppm, and capacity, usually in a range from 10 sheets to 200.
+There are two kinds of document feeders capable of two-sided (duplex) scanning: a reversing automatic document feeder or RADF scans one side of a page, then flips it and scans the other side. A duplexing automatic document feeder or DADF scans both sides in one pass. The advantage of the DADF is faster speed for two-sided originals. RADFs and DADFs are rated in images per minute (IPM), the number of sides they can scan each minute; this may depend upon the resolution being used (rather than the maximum resolution supported).
+
+See also
+Duplex printing
+
+
+== References ==

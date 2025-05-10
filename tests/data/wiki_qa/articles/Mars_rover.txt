@@ -1,0 +1,90 @@
+A Mars rover is a remote-controlled motor vehicle designed to travel on the surface of Mars. Rovers have several advantages over stationary landers: they examine more territory, they can be directed to interesting features, they can place themselves in sunny positions to weather winter months, and they can advance the knowledge of how to perform very remote robotic vehicle control. They serve a different purpose than orbital spacecraft like Mars Reconnaissance Orbiter. A more recent development is the Mars helicopter.
+As of May 2021, there have been six successful robotically operated Mars rovers; the first five, managed by the American NASA Jet Propulsion Laboratory, were (by date of Mars landing): Sojourner (1997), Spirit (2004–2010), Opportunity (2004–2018), Curiosity (2012–present), and Perseverance (2021–present). The sixth, managed by the China National Space Administration, is Zhurong (2021–2022).
+On January 24, 2016, NASA reported that then current studies on Mars by Opportunity  and Curiosity would be searching for evidence of ancient life, including a biosphere based on autotrophic, chemotrophic or chemolithoautotrophic microorganisms, as well as ancient water, including fluvio-lacustrine environments (plains related to ancient rivers or lakes) that may have been habitable. The search for evidence of habitability, taphonomy (related to fossils), and organic carbon on Mars is now a primary NASA objective.
+The Soviet probes, Mars 2 and Mars 3, were physically tethered probes; Sojourner was dependent on the Mars Pathfinder base station for communication with Earth; Opportunity, Spirit and Curiosity were on their own. As of 27 April 2025, Curiosity is still active, while Spirit, Opportunity, and Sojourner completed their missions before losing contact. On February 18, 2021, Perseverance, the newest American Mars rover, successfully landed.  On May 14, 2021, China's Zhurong became the first non-American rover to successfully operate on Mars.
+
+Missions
+Multiple rovers have been dispatched to Mars:
+
+Active
+Curiosity of the Mars Science Laboratory (MSL) mission by NASA, was launched November 26, 2011 and landed at the Aeolis Palus plain near Aeolis Mons (informally "Mount Sharp") in Gale Crater on August 6, 2012. The Curiosity rover is still operational as of 2025.
+ Perseverance is NASA's rover based on the successful Curiosity design. Launched with the Mars 2020 mission on July 30, 2020, it landed on February 18, 2021. It carried the Mars helicopter Ingenuity attached to its belly. Although Ingenuity's mission has ended, Perseverance remains operational as of March 2025.
+
+Past
+Sojourner rover, Mars Pathfinder, landed successfully on July 4, 1997. Communications were lost on September 27, 1997. Sojourner had traveled a distance of just over 100 meters (330 ft).
+ Spirit (MER-A), Mars Exploration Rover (MER), launched on June 10, 2003, and landed on January 4, 2004. Nearly six years after the original mission limit, Spirit had covered a total distance of 7.73 km (4.80 mi) but its wheels became trapped in sand. The last communication received from the rover was on March 22, 2010, and NASA ceased attempts to re-establish communication on May 25, 2011.
+ Opportunity (MER-B), Mars Exploration Rover, launched on July 7, 2003 and landed on January 25, 2004. Opportunity surpassed the previous records for longevity at 5,352 sols (5498 Earth days from landing to mission end; 15 Earth years or 8 Martian years) and covered 45.16 km (28.06 mi). The rover sent its last status on 10 June 2018 when a global 2018 Mars dust storm blocked the sunlight needed to recharge its batteries. After hundreds of attempts to reactivate the rover, NASA declared the mission complete on February 13, 2019.
+ Zhurong launched with the Tianwen-1 CNSA Mars mission on July 23, 2020, landed on May 14, 2021, in the southern region of Utopia Planitia, and deployed on May 22, 2021, while dropping a remote selfie camera on 1 June 2021. Designed for a lifespan of 90 sols (93 Earth days), Zhurong had been active for 347 sols (356.5 days) since its deployment and traveled on Mars's surface for 1,921 m (6,302 ft). Since 20 May 2022, the rover was deactivated due to approaching sandstorms and Martian winter. But the larger-than-expected build-up of dust covering its solar panels prevented it from self-reactivation. On 25 April 2023, the mission designer Zhang Rongqiao announced that the buildup of dust from the last inactivation is greater than planned, indicating the rover could be inactive "forever".
+
+Failed
+Mars 2, PrOP-M rover, 1971, Mars 2 landing failed, destroying Prop-M with it. The Mars 2 and 3 spacecraft from the Soviet Union had identical 4.5 kilograms (9.9 lb) Prop-M rovers. They were to move on skis while connected to the landers with cables.
+ Mars 3, PrOP-M rover, landed successfully on December 2, 1971. 4.5 kilograms (9.9 lb) rover tethered to the Mars 3 lander. Lost when the Mars 3 lander stopped communicating about 110 seconds after landing. The loss of communication may have been due to the extremely powerful Martian dust storm taking place at the time, or an issue with the Mars 3 orbiter's ability to relay communications.
+
+Planned
+ESA's ExoMars rover Rosalind Franklin was confirmed technically ready for launch in March 2022 and planned to launch in September 2022, but due to the suspension of cooperation with Roscosmos this is delayed until at least 2028. A fast-track study was started to determine alternative launch options.
+  The Russian Moscow Aviation Institute and the Indian IIT are jointly developing a fixed-wing Mars UAV which as of March 2023 is scheduled for launch in late 2025.
+
+Proposed
+The JAXA Melos rover was supposed to be launched in 2022. JAXA has not given an update since 2015.
+ NASA Mars Geyser Hopper
+ ISRO has proposed a Mars rover as part of Mars Lander Mission, its second Mars mission in 2030.
+Mars Tumbleweed Rover, a spherical wind-propelled rover. The concept was first investigated by NASA in the early 2000s. Since 2017, Team Tumbleweed has been developing a series of Tumbleweed Rovers. The research organization aims to land a swarm of 90 Tumbleweed rovers on the Martian surface by 2034.
+
+Undeveloped
+Marsokhod was proposed to be a part of Russian Mars 96 mission.
+Astrobiology Field Laboratory, proposed in the 2000-2010 period as a follow on to MSL.
+Mars Astrobiology Explorer-Cacher (MAX-C), cancelled 2011
+Mars Surveyor 2001 rover
+Cushion-air rovers
+
+Timeline of rover surface operations
+Examples of instruments
+Examples of instruments onboard landed rovers include:
+
+Alpha particle X-ray spectrometer (MPF + MER + MSL)
+CheMin (MSL)
+Chemistry and Camera complex (MSL)
+Dynamic Albedo of Neutrons (MSL)
+Hazcam (MER + MSL + M20)
+MarsDial (MER + MSL + M20)
+Materials Adherence Experiment (MPF)
+MIMOS II (MER)
+Mini-TES (MER)
+Mars Hand Lens Imager (MSL)
+Navcam (MER + MSL + M20+TW1)
+Pancam (MER)
+Rock Abrasion Tool (MER)
+Radiation assessment detector (MSL)
+Rover Environmental Monitoring Station (MSL)
+Sample Analysis at Mars (MSL)
+EDL cameras on Rover (MSL + M20+TW1)
+Cachecam (M20)
+Mastcam-Z (M20)
+MEDA (M20)
+Microphones (M20+TW1)
+MOXIE (M20)
+PIXL (M20)
+RIMFAX (M20)
+SHERLOC (M20)
+SuperCam (M20)
+Remote Camera (TW1)
+
+NASA Mars rover goals
+Circa the 2010s, NASA had established certain goals for the rover program.
+NASA distinguishes between "mission" objectives and "science" objectives. Mission objectives are related to progress in space technology and development processes. Science objectives are met by the instruments during their mission in space.
+The science instruments are chosen and designed based on the science objectives and goals. The primary goal of the Spirit and Opportunity rovers was to investigate "the history of water on Mars".
+The four science goals of NASA's long-term Mars Exploration Program are:
+
+Determine whether life ever arose on Mars
+Characterize the climate of Mars
+Characterize the geology of Mars
+Prepare for human exploration of Mars
+
+Gallery
+See also
+References
+External links
+NASA official Mars Rover website
+Mars Pathfinder Gallery (NASA)
+Pictures of Mars by Rovers
+All Rovers on Mars

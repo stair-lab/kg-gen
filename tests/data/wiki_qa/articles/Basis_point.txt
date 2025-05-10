@@ -1,0 +1,36 @@
+A basis point (often abbreviated as bp, often pronounced as "bip" or "beep") is one hundredth of 1 percentage point. Changes of interest rates are often stated in basis points. For example, if an existing interest rate of 10 percent is increased by 1 basis point, the new interest rate would be 10.01 percent.
+The related term permyriad means one part per ten thousand.
+
+Definition
+1 basis point (bp) = 1‱, 0.1‰, 0.01%, 10−4, ⁠1/10,000⁠, or 0.0001.
+10 bp = 10‱, 1‰, 0.1%, 10−3, ⁠1/1,000⁠, or 0.001.
+100 bp = 100‱, 10‰, 1%, 10−2, ⁠1/100⁠, or 0.01.
+Basis points are used as a convenient unit of measurement in contexts where percentage differences of less than 1% are discussed. The most common example is interest rates, where differences in interest rates of less than 1% per year are usually meaningful to talk about. For example, a difference of 0.10 percentage points is equivalent to a change of 10 basis points (e.g., a 4.67% rate increases by 10 basis points to 4.77%). In other words, an increase of 100 basis points means a rise by 1 percentage point.
+Like percentage points, basis points avoid the ambiguity between relative and absolute discussions about interest rates by dealing only with the absolute change in numeric value of a rate. For example,  if a report says there has been a "1% increase" from a 10% interest rate, this could refer to an increase either from 10% to 10.1% (relative, 1% of 10%), or from 10% to 11% (absolute, 1% plus 10%).  However, if the report says there has been a "100 basis point increase" from a 10% interest rate, then the interest rate of 10% has increased by 1.00% (the absolute change) to an 11% rate.
+It is common practice in the financial industry to use basis points to denote a rate change in a financial instrument, or the difference (spread) between two interest rates, including the yields of fixed-income securities.
+Since certain loans and bonds may commonly be quoted in relation to some index or underlying security, they will often be quoted as a spread over (or under) the index. For example, a loan that bears interest of 0.50% per annum above the Secured Overnight Financing Rate (SOFR) is said to be 50 basis points over SOFR, which is commonly expressed as "S+50bps" or simply "S+50".
+The term "basis point" has its origins in trading the "basis" or the spread between two interest rates.  Since the basis is usually small, these are quoted multiplied up by 10,000, and hence a "full point" movement in the "basis" is a basis point.  Contrast with pips in FX forward markets.
+Expense ratios of investment funds are often quoted in basis points.
+
+Permyriad
+A related concept is one part per ten thousand, ⁠1/10,000⁠. The same unit is also (rarely) called a permyriad, literally meaning "for (every) myriad (ten thousand)".  If used interchangeably with basis point, the permyriad is potentially confusing because an increase of one basis point to a 10 basis point value is generally understood to mean an increase to 11 basis points; not an increase of one part in ten thousand, meaning an increase to 10.001 basis points. This is akin to the difference between percentage and percentage point.
+
+Unicode
+A permyriad is written with U+2031 ‱ PER TEN THOUSAND SIGN (&pertenk;) which looks like a percent sign % with three zeroes to the right of the slash. (It can be regarded as a stylized form of the four zeros in the denominator of "⁠1/10,000⁠", although it originates as a natural extension of the percent % and permille ‰ signs). There also exists an Arabic-Indic permyriad: U+060A ؊ ARABIC-INDIC PER TEN THOUSAND SIGN.
+
+Related units
+Percentage point difference of 1 part in 100
+Percentage (%) 1 part in 100
+Per mille (‰) 1 part in 1,000
+Per cent mille (pcm) 1 part in 100,000
+Parts per million (ppm) 1 part in 1,000,000
+
+See also
+Parts-per notation
+Per-unit system
+Percent point function
+Tick size
+
+References
+External links
+ Media related to Basis point at Wikimedia Commons

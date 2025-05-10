@@ -1,0 +1,257 @@
+Advanced Video Coding (AVC), also referred to as H.264 or MPEG-4 Part 10, is a video compression standard based on block-oriented, motion-compensated coding. It is by far the most commonly used format for the recording, compression, and distribution of video content, used by 84-86% of video industry developers as of November 2023. It supports a maximum resolution of 8K UHD.
+The intent of the H.264/AVC project was to create a standard capable of providing good video quality at substantially lower bit rates than previous standards (i.e., half or less the bit rate of MPEG-2, H.263, or MPEG-4 Part 2), without increasing the complexity of design so much that it would be impractical or excessively expensive to implement. This was achieved with features such as a reduced-complexity integer discrete cosine transform (integer DCT), variable block-size segmentation, and multi-picture inter-picture prediction. An additional goal was to provide enough flexibility to allow the standard to be applied to a wide variety of applications on a wide variety of networks and systems, including low and high bit rates, low and high resolution video, broadcast, DVD storage, RTP/IP packet networks, and ITU-T multimedia telephony systems. The H.264 standard can be viewed as a "family of standards" composed of a number of different profiles, although its "High profile" is by far the most commonly used format. A specific decoder decodes at least one, but not necessarily all profiles. The standard describes the format of the encoded data and how the data is decoded, but it does not specify algorithms for encoding—that is left open as a matter for encoder designers to select for themselves, and a wide variety of encoding schemes have been developed. H.264 is typically used for lossy compression, although it is also possible to create truly lossless-coded regions within lossy-coded pictures or to support rare use cases for which the entire encoding is lossless.
+H.264 was standardized by the ITU-T Video Coding Experts Group (VCEG) of Study Group 16 together with the ISO/IEC JTC 1 Moving Picture Experts Group (MPEG). The project partnership effort is known as the Joint Video Team (JVT). The ITU-T H.264 standard and the ISO/IEC MPEG-4 AVC standard (formally, ISO/IEC 14496-10 – MPEG-4 Part 10, Advanced Video Coding) are jointly maintained so that they have identical technical content. The final drafting work on the first version of the standard was completed in May 2003, and various extensions of its capabilities have been added in subsequent editions. High Efficiency Video Coding (HEVC), a.k.a. H.265 and MPEG-H Part 2 is a successor to H.264/MPEG-4 AVC developed by the same organizations, while earlier standards are still in common use.
+H.264 is perhaps best known as being the most commonly used video encoding format on Blu-ray Discs. It is also widely used by streaming Internet sources, such as videos from Netflix, Hulu, Amazon Prime Video, Vimeo, YouTube, and the iTunes Store, Web software such as the Adobe Flash Player and Microsoft Silverlight, and also various HDTV broadcasts over terrestrial (ATSC, ISDB-T, DVB-T or DVB-T2), cable (DVB-C), and satellite (DVB-S and DVB-S2) systems.
+H.264 is restricted by patents owned by various parties. A license covering most (but not all) patents essential to H.264 is administered by a patent pool formerly administered by MPEG LA. Via Licensing Corp acquired MPEG LA in April 2023 and formed a new patent pool administration company called Via Licensing Alliance.  The commercial use of patented H.264 technologies requires the payment of royalties to Via and other patent owners. MPEG LA has allowed the free use of H.264 technologies for streaming Internet video that is free to end users, and Cisco paid royalties to MPEG LA on behalf of the users of binaries for its open source H.264 encoder openH264.
+
+Naming
+The H.264 name follows the ITU-T naming convention, where Recommendations are given a letter corresponding to their series and a recommendation number within the series. H.264 is part of "H-Series Recommendations: Audiovisual and multimedia systems". H.264 is further categorized into "H.200-H.499: Infrastructure of audiovisual services" and "H.260-H.279: Coding of moving video". The MPEG-4 AVC name relates to the naming convention in ISO/IEC MPEG, where the standard is part 10 of ISO/IEC 14496, which is the suite of standards known as MPEG-4. The standard was developed jointly in a partnership of VCEG and MPEG, after earlier development work in the ITU-T as a VCEG project called H.26L. It is thus common to refer to the standard with names such as H.264/AVC, AVC/H.264, H.264/MPEG-4 AVC, or MPEG-4/H.264 AVC, to emphasize the common heritage. Occasionally, it is also referred to as "the JVT codec", in reference to the Joint Video Team (JVT) organization that developed it. (Such partnership and multiple naming is not uncommon. For example, the video compression standard known as MPEG-2 also arose from the partnership between MPEG and the ITU-T, where MPEG-2 video is known to the ITU-T community as H.262.) Some software programs (such as VLC media player) internally identify this standard as AVC1.
+
+History
+Overall history
+In early 1998, the Video Coding Experts Group (VCEG – ITU-T SG16 Q.6) issued a call for proposals on a project called H.26L, with the target to double the coding efficiency (which means halving the bit rate necessary for a given level of fidelity) in comparison to any other existing video coding standards for a broad variety of applications. VCEG was chaired by Gary Sullivan (Microsoft, formerly PictureTel, U.S.). The first draft design for that new standard was adopted in August 1999. In 2000, Thomas Wiegand (Heinrich Hertz Institute, Germany) became VCEG co-chair.
+In December 2001, VCEG and the Moving Picture Experts Group (MPEG – ISO/IEC JTC 1/SC 29/WG 11) formed a Joint Video Team (JVT), with the charter to finalize the video coding standard. Formal approval of the specification came in March 2003. The JVT was (is) chaired by Gary Sullivan, Thomas Wiegand, and Ajay Luthra (Motorola, U.S.: later Arris, U.S.). In July 2004, the Fidelity Range Extensions (FRExt) project was finalized. From January 2005 to November 2007, the JVT was working on an extension of H.264/AVC towards scalability by an Annex (G) called Scalable Video Coding (SVC). The JVT management team was extended by Jens-Rainer Ohm (RWTH Aachen University, Germany). From July 2006 to November 2009, the JVT worked on Multiview Video Coding (MVC), an extension of H.264/AVC towards 3D television and limited-range free-viewpoint television. That work included the development of two new profiles of the standard: the Multiview High Profile and the Stereo High Profile.
+Throughout the development of the standard, additional messages for containing supplemental enhancement information (SEI) have been developed. SEI messages can contain various types of data that indicate the timing of the video pictures or describe various properties of the coded video or how it can be used or enhanced. SEI messages are also defined that can contain arbitrary user-defined data. SEI messages do not affect the core decoding process, but can indicate how the video is recommended to be post-processed or displayed. Some other high-level properties of the video content are conveyed in video usability information (VUI), such as the indication of the color space for interpretation of the video content. As new color spaces have been developed, such as for high dynamic range and wide color gamut video, additional VUI identifiers have been added to indicate them.
+
+Fidelity range extensions and professional profiles
+The standardization of the first version of H.264/AVC was completed in May 2003. In the first project to extend the original standard, the JVT then developed what was called the Fidelity Range Extensions (FRExt). These extensions enabled higher quality video coding by supporting increased sample bit depth precision and higher-resolution color information, including the sampling structures known as Y′CBCR 4:2:2 (a.k.a. YUV 4:2:2) and 4:4:4. Several other features were also included in the FRExt project, such as adding an 8×8 integer discrete cosine transform (integer DCT) with adaptive switching between the 4×4 and 8×8 transforms, encoder-specified perceptual-based quantization weighting matrices, efficient inter-picture lossless coding, and support of additional color spaces. The design work on the FRExt project was completed in July 2004, and the drafting work on them was completed in September 2004.
+Five other new profiles (see version 7 below) intended primarily for professional applications were then developed, adding extended-gamut color space support, defining additional aspect ratio indicators, defining two additional types of "supplemental enhancement information" (post-filter hint and tone mapping), and deprecating one of the prior FRExt profiles (the High 4:4:4 profile) that industry feedback indicated should have been designed differently.
+
+Scalable video coding
+The next major feature added to the standard was Scalable Video Coding (SVC). Specified in Annex G of H.264/AVC, SVC allows the construction of bitstreams that contain layers of sub-bitstreams that also conform to the standard, including one such bitstream known as the "base layer" that can be decoded by a H.264/AVC codec that does not support SVC. For temporal bitstream scalability (i.e., the presence of a sub-bitstream with a smaller temporal sampling rate than the main bitstream), complete access units are removed from the bitstream when deriving the sub-bitstream. In this case, high-level syntax and inter-prediction reference pictures in the bitstream are constructed accordingly. On the other hand, for spatial and quality bitstream scalability (i.e. the presence of a sub-bitstream with lower spatial resolution/quality than the main bitstream), the NAL (Network Abstraction Layer) is removed from the bitstream when deriving the sub-bitstream. In this case, inter-layer prediction (i.e., the prediction of the higher spatial resolution/quality signal from the data of the lower spatial resolution/quality signal) is typically used for efficient coding. The Scalable Video Coding extensions were completed in November 2007.
+
+Multiview video coding
+The next major feature added to the standard was Multiview Video Coding (MVC). Specified in Annex H of H.264/AVC, MVC enables the construction of bitstreams that represent more than one view of a video scene. An important example of this functionality is stereoscopic 3D video coding. Two profiles were developed in the MVC work: Multiview High profile supports an arbitrary number of views, and Stereo High profile is designed specifically for two-view stereoscopic video. The Multiview Video Coding extensions were completed in November 2009.
+
+3D-AVC and MFC stereoscopic coding
+Additional extensions were later developed that included 3D video coding with joint coding of depth maps and texture (termed 3D-AVC), multi-resolution frame-compatible (MFC) stereoscopic and 3D-MFC coding, various additional combinations of features, and higher frame sizes and frame rates.
+
+Versions
+Versions of the H.264/AVC standard include the following completed revisions, corrigenda, and amendments (dates are final approval dates in ITU-T, while final "International Standard" approval dates in ISO/IEC are somewhat different and slightly later in most cases). Each version represents changes relative to the next lower version that is integrated into the text.
+
+Version 1 (Edition 1): (May 30, 2003) First approved version of H.264/AVC containing Baseline, Main, and Extended profiles.
+Version 2 (Edition 1.1): (May 7, 2004) Corrigendum containing various minor corrections.
+Version 3 (Edition 2): (March 1, 2005) Major addition containing the first amendment, establishing the Fidelity Range Extensions (FRExt). This version added the High, High 10, High 4:2:2, and High 4:4:4 profiles. After a few years, the High profile became the most commonly used profile of the standard.
+Version 4 (Edition 2.1): (September 13, 2005) Corrigendum containing various minor corrections and adding three aspect ratio indicators.
+Version 5 (Edition 2.2): (June 13, 2006) Amendment consisting of removal of prior High 4:4:4 profile (processed as a corrigendum in ISO/IEC).
+Version 6 (Edition 2.2): (June 13, 2006) Amendment consisting of minor extensions like extended-gamut color space support (bundled with above-mentioned aspect ratio indicators in ISO/IEC).
+Version 7 (Edition 2.3): (April 6, 2007) Amendment containing the addition of the High 4:4:4 Predictive profile and four Intra-only profiles (High 10 Intra, High 4:2:2 Intra, High 4:4:4 Intra, and CAVLC 4:4:4 Intra).
+Version 8 (Edition 3): (November 22, 2007) Major addition to H.264/AVC containing the amendment for Scalable Video Coding (SVC) containing Scalable Baseline, Scalable High, and Scalable High Intra profiles.
+Version 9 (Edition 3.1): (January 13, 2009) Corrigendum containing minor corrections.
+Version 10 (Edition 4): (March 16, 2009) Amendment containing definition of a new profile (the Constrained Baseline profile) with only the common subset of capabilities supported in various previously specified profiles.
+Version 11 (Edition 4): (March 16, 2009) Major addition to H.264/AVC containing the amendment for Multiview Video Coding (MVC) extension, including the Multiview High profile.
+Version 12 (Edition 5): (March 9, 2010) Amendment containing definition of a new MVC profile (the Stereo High profile) for two-view video coding with support of interlaced coding tools and specifying an additional supplemental enhancement information (SEI) message termed the frame packing arrangement SEI message.
+Version 13 (Edition 5): (March 9, 2010) Corrigendum containing minor corrections.
+Version 14 (Edition 6): (June 29, 2011) Amendment specifying a new level (Level 5.2) supporting higher processing rates in terms of maximum macroblocks per second, and a new profile (the Progressive High profile) supporting only the frame coding tools of the previously specified High profile.
+Version 15 (Edition 6): (June 29, 2011) Corrigendum containing minor corrections.
+Version 16 (Edition 7): (January 13, 2012) Amendment containing definition of three new profiles intended primarily for real-time communication applications: the Constrained High, Scalable Constrained Baseline, and Scalable Constrained High profiles.
+Version 17 (Edition 8): (April 13, 2013) Amendment with additional SEI message indicators.
+Version 18 (Edition 8): (April 13, 2013) Amendment to specify the coding of depth map data for 3D stereoscopic video, including a Multiview Depth High profile.
+Version 19 (Edition 8): (April 13, 2013) Corrigendum to correct an error in the sub-bitstream extraction process for multiview video.
+Version 20 (Edition 8): (April 13, 2013) Amendment to specify additional color space identifiers (including support of ITU-R Recommendation BT.2020 for UHDTV) and an additional model type in the tone mapping information SEI message.
+Version 21 (Edition 9): (February 13, 2014) Amendment to specify the Enhanced Multiview Depth High profile.
+Version 22 (Edition 9): (February 13, 2014) Amendment to specify the multi-resolution frame compatible (MFC) enhancement for 3D stereoscopic video, the MFC High profile, and minor corrections.
+Version 23 (Edition 10): (February 13, 2016) Amendment to specify MFC stereoscopic video with depth maps, the MFC Depth High profile, the mastering display color volume SEI message, and additional color-related VUI codepoint identifiers.
+Version 24 (Edition 11): (October 14, 2016) Amendment to specify additional levels of decoder capability supporting larger picture sizes (Levels 6, 6.1, and 6.2), the green metadata SEI message, the alternative depth information SEI message, and additional color-related VUI codepoint identifiers.
+Version 25 (Edition 12): (April 13, 2017) Amendment to specify the Progressive High 10 profile, hybrid log–gamma (HLG), and additional color-related VUI code points and SEI messages.
+Version 26 (Edition 13): (June 13, 2019) Amendment to specify additional SEI messages for ambient viewing environment, content light level information, content color volume, equirectangular projection, cubemap projection, sphere rotation, region-wise packing, omnidirectional viewport, SEI manifest, and SEI prefix.
+Version 27 (Edition 14): (August 22, 2021) Amendment to specify additional SEI messages for annotated regions and shutter interval information, and miscellaneous minor corrections and clarifications.
+Version 28 (Edition 15): (August 13, 2024) Amendment to specify additional SEI messages for neural-network postfilter characteristics, neural-network post-filter activation, and phase indication, additional colour type identifiers, and miscellaneous minor corrections and clarifications.
+
+Applications
+The H.264 video format has a very broad application range that covers all forms of digital compressed video from low bit-rate Internet streaming applications to HDTV broadcast and Digital Cinema applications with nearly lossless coding. With the use of H.264, bit rate savings of 50% or more compared to MPEG-2 Part 2 are reported. For example, H.264 has been reported to give the same Digital Satellite TV quality as current MPEG-2 implementations with less than half the bitrate, with current MPEG-2 implementations working at around 3.5 Mbit/s and H.264 at only 1.5 Mbit/s. Sony claims that 9 Mbit/s AVC recording mode is equivalent to the image quality of the HDV format, which uses approximately 18–25 Mbit/s.
+To ensure compatibility and problem-free adoption of H.264/AVC, many standards bodies have amended or added to their video-related standards so that users of these standards can employ H.264/AVC. Both the Blu-ray Disc format and the now-discontinued HD DVD format include the H.264/AVC High Profile as one of three mandatory video compression formats. The Digital Video Broadcast project (DVB) approved the use of H.264/AVC for broadcast television in late 2004.
+The Advanced Television Systems Committee (ATSC) standards body in the United States approved the use of H.264/AVC for broadcast television in July 2008, although the standard is not yet used for fixed ATSC broadcasts within the United States. It has also been approved for use with the more recent ATSC-M/H (Mobile/Handheld) standard, using the AVC and SVC portions of H.264.
+The closed-circuit-television and video-surveillance markets have included the technology in many products.
+Many common DSLRs use H.264 video wrapped in QuickTime MOV containers as the native recording format.
+
+Derived formats
+AVCHD is a high-definition recording format designed by Sony and Panasonic that uses H.264 (conforming to H.264 while adding additional application-specific features and constraints).
+AVC-Intra is an intraframe-only compression format, developed by Panasonic.
+XAVC is a recording format designed by Sony that uses level 5.2 of H.264/MPEG-4 AVC, which is the highest level supported by that video standard. XAVC can support 4K resolution (4096 × 2160 and 3840 × 2160) at up to 60 frames per second (fps). Sony has announced that cameras that support XAVC include two CineAlta cameras—the Sony PMW-F55 and Sony PMW-F5. The Sony PMW-F55 can record XAVC with 4K resolution at 30 fps at 300 Mbit/s and 2K resolution at 30 fps at 100 Mbit/s. XAVC can record 4K resolution at 60 fps with 4:2:2 chroma sampling at 600 Mbit/s.
+
+Design
+Features
+H.264/AVC/MPEG-4 Part 10 contains a number of new features that allow it to compress video much more efficiently than older standards and to provide more flexibility for application to a wide variety of network environments. In particular, some such key features include:
+
+Multi-picture inter-picture prediction including the following features:
+Using previously encoded pictures as references in a much more flexible way than in past standards, allowing up to 16 reference frames (or 32 reference fields, in the case of interlaced encoding) to be used in some cases. In profiles that support non-IDR frames, most levels specify that sufficient buffering should be available to allow for at least 4 or 5 reference frames at maximum resolution. This is in contrast to prior standards, where the limit was typically one; or, in the case of conventional "B pictures" (B-frames), two.
+Variable block-size motion compensation (VBSMC) with block sizes as large as 16×16 and as small as 4×4, enabling precise segmentation of moving regions. The supported luma prediction block sizes include 16×16, 16×8, 8×16, 8×8, 8×4, 4×8, and 4×4, many of which can be used together in a single macroblock. Chroma prediction block sizes are correspondingly smaller when chroma subsampling is used.
+The ability to use multiple motion vectors per macroblock (one or two per partition) with a maximum of 32 in the case of a B macroblock constructed of 16 4×4 partitions. The motion vectors for each 8×8 or larger partition region can point to different reference pictures.
+The ability to use any macroblock type in B-frames, including I-macroblocks, resulting in much more efficient encoding when using B-frames. This feature was notably left out from MPEG-4 ASP.
+Six-tap filtering for derivation of half-pel luma sample predictions, for sharper subpixel motion-compensation. Quarter-pixel motion is derived by linear interpolation of the halfpixel values, to save processing power.
+Quarter-pixel precision for motion compensation, enabling precise description of the displacements of moving areas. For chroma the resolution is typically halved both vertically and horizontally (see 4:2:0) therefore the motion compensation of chroma uses one-eighth chroma pixel grid units.
+Weighted prediction, allowing an encoder to specify the use of a scaling and offset when performing motion compensation, and providing a significant benefit in performance in special cases—such as fade-to-black, fade-in, and cross-fade transitions. This includes implicit weighted prediction for B-frames, and explicit weighted prediction for P-frames.
+Spatial prediction from the edges of neighboring blocks for "intra" coding, rather than the "DC"-only prediction found in MPEG-2 Part 2 and the transform coefficient prediction found in H.263v2 and MPEG-4 Part 2. This includes luma prediction block sizes of 16×16, 8×8, and 4×4 (of which only one type can be used within each macroblock).
+Integer discrete cosine transform (integer DCT), a type of discrete cosine transform (DCT) where the transform is an integer approximation of the standard DCT. It has selectable block sizes and exact-match integer computation to reduce complexity, including:
+An exact-match integer 4×4 spatial block transform, allowing precise placement of residual signals with little of the "ringing" often found with prior codec designs. It is similar to the standard DCT used in previous standards, but uses a smaller block size and simple integer processing. Unlike the cosine-based formulas and tolerances expressed in earlier standards (such as H.261 and MPEG-2), integer processing provides an exactly specified decoded result.
+An exact-match integer 8×8 spatial block transform, allowing highly correlated regions to be compressed more efficiently than with the 4×4 transform. This design is based on the standard DCT, but simplified and made to provide exactly specified decoding.
+Adaptive encoder selection between the 4×4 and 8×8 transform block sizes for the integer transform operation.
+A secondary Hadamard transform performed on "DC" coefficients of the primary spatial transform applied to chroma DC coefficients (and also luma in one special case) to obtain even more compression in smooth regions.
+Lossless macroblock coding features including:
+A lossless "PCM macroblock" representation mode in which video data samples are represented directly, allowing perfect representation of specific regions and allowing a strict limit to be placed on the quantity of coded data for each macroblock.
+An enhanced lossless macroblock representation mode allowing perfect representation of specific regions while ordinarily using substantially fewer bits than the PCM mode.
+Flexible interlaced-scan video coding features, including:
+Macroblock-adaptive frame-field (MBAFF) coding, using a macroblock pair structure for pictures coded as frames, allowing 16×16 macroblocks in field mode (compared with MPEG-2, where field mode processing in a picture that is coded as a frame results in the processing of 16×8 half-macroblocks).
+Picture-adaptive frame-field coding (PAFF or PicAFF) allowing a freely selected mixture of pictures coded either as complete frames where both fields are combined for encoding or as individual single fields.
+A quantization design including:
+Logarithmic step size control for easier bit rate management by encoders and simplified inverse-quantization scaling
+Frequency-customized quantization scaling matrices selected by the encoder for perceptual-based quantization optimization
+An in-loop deblocking filter that helps prevent the blocking artifacts common to other DCT-based image compression techniques, resulting in better visual appearance and compression efficiency
+An entropy coding design including:
+Context-adaptive binary arithmetic coding (CABAC), an algorithm to losslessly compress syntax elements in the video stream knowing the probabilities of syntax elements in a given context. CABAC compresses data more efficiently than CAVLC but requires considerably more processing to decode.
+Context-adaptive variable-length coding (CAVLC), which is a lower-complexity alternative to CABAC for the coding of quantized transform coefficient values. Although lower complexity than CABAC, CAVLC is more elaborate and more efficient than the methods typically used to code coefficients in other prior designs.
+A common simple and highly structured variable length coding (VLC) technique for many of the syntax elements not coded by CABAC or CAVLC, referred to as Exponential-Golomb coding (or Exp-Golomb).
+Loss resilience features including:
+A Network Abstraction Layer (NAL) definition allowing the same video syntax to be used in many network environments. One very fundamental design concept of H.264 is to generate self-contained packets, to remove the header duplication as in MPEG-4's Header Extension Code (HEC). This was achieved by decoupling information relevant to more than one slice from the media stream. The combination of the higher-level parameters is called a parameter set. The H.264 specification includes two types of parameter sets: Sequence Parameter Set (SPS) and Picture Parameter Set (PPS). An active sequence parameter set remains unchanged throughout a coded video sequence, and an active picture parameter set remains unchanged within a coded picture. The sequence and picture parameter set structures contain information such as picture size, optional coding modes employed, and macroblock to slice group map.
+Flexible macroblock ordering (FMO), also known as slice groups, and arbitrary slice ordering (ASO), which are techniques for restructuring the ordering of the representation of the fundamental regions (macroblocks) in pictures. Typically considered an error/loss robustness feature, FMO and ASO can also be used for other purposes.
+Data partitioning (DP), a feature providing the ability to separate more important and less important syntax elements into different packets of data, enabling the application of unequal error protection (UEP) and other types of improvement of error/loss robustness.
+Redundant slices (RS), an error/loss robustness feature that lets an encoder send an extra representation of a picture region (typically at lower fidelity) that can be used if the primary representation is corrupted or lost.
+Frame numbering, a feature that allows the creation of "sub-sequences", enabling temporal scalability by optional inclusion of extra pictures between other pictures, and the detection and concealment of losses of entire pictures, which can occur due to network packet losses or channel errors.
+Switching slices, called SP and SI slices, allowing an encoder to direct a decoder to jump into an ongoing video stream for such purposes as video streaming bit rate switching and "trick mode" operation. When a decoder jumps into the middle of a video stream using the SP/SI feature, it can get an exact match to the decoded pictures at that location in the video stream despite using different pictures, or no pictures at all, as references prior to the switch.
+A simple automatic process for preventing the accidental emulation of start codes, which are special sequences of bits in the coded data that allow random access into the bitstream and recovery of byte alignment in systems that can lose byte synchronization.
+Supplemental enhancement information (SEI) and video usability information (VUI), which are extra information that can be inserted into the bitstream for various purposes such as indicating the color space used the video content or various constraints that apply to the encoding. SEI messages can contain arbitrary user-defined metadata payloads or other messages with syntax and semantics defined in the standard.
+Auxiliary pictures, which can be used for such purposes as alpha compositing.
+Support of monochrome (4:0:0), 4:2:0, 4:2:2, and 4:4:4 chroma sampling (depending on the selected profile).
+Support of sample bit depth precision ranging from 8 to 14 bits per sample (depending on the selected profile).
+The ability to encode individual color planes as distinct pictures with their own slice structures, macroblock modes, motion vectors, etc., allowing encoders to be designed with a simple parallelization structure (supported only in the three 4:4:4-capable profiles).
+Picture order count, a feature that serves to keep the ordering of the pictures and the values of samples in the decoded pictures isolated from timing information, allowing timing information to be carried and controlled/changed separately by a system without affecting decoded picture content.
+These techniques, along with several others, help H.264 to perform significantly better than any prior standard under a wide variety of circumstances in a wide variety of application environments. H.264 can often perform radically better than MPEG-2 video—typically obtaining the same quality at half of the bit rate or less, especially on high bit rate and high resolution video content.
+Like other ISO/IEC MPEG video standards, H.264/AVC has a reference software implementation that can be freely downloaded. Its main purpose is to give examples of H.264/AVC features, rather than being a useful application per se. Some reference hardware design work has also been conducted in the Moving Picture Experts Group.
+The above-mentioned aspects include features in all profiles of H.264. A profile for a codec is a set of features of that codec identified to meet a certain set of specifications of intended applications. This means that many of the features listed are not supported in some profiles. Various profiles of H.264/AVC are discussed in next section.
+
+Profiles
+The standard defines several sets of capabilities, which are referred to as profiles, targeting specific classes of applications. These are declared using a profile code (profile_idc) and sometimes a set of additional constraints applied in the encoder. The profile code and indicated constraints allow a decoder to recognize the requirements for decoding that specific bitstream. (And in many system environments, only one or two profiles are allowed to be used, so decoders in those environments do not need to be concerned with recognizing the less commonly used profiles.) By far the most commonly used profile is the High Profile.
+Profiles for non-scalable 2D video applications include the following:
+
+Constrained Baseline Profile (CBP, 66 with constraint set 1)
+Primarily for low-cost applications, this profile is most typically used in videoconferencing and mobile applications. It corresponds to the subset of features that are in common between the Baseline, Main, and High Profiles.
+Baseline Profile (BP, 66)
+Primarily for low-cost applications that require additional data loss robustness, this profile is used in some videoconferencing and mobile applications. This profile includes all features that are supported in the Constrained Baseline Profile, plus three additional features that can be used for loss robustness (or for other purposes such as low-delay multi-point video stream compositing). The importance of this profile has faded somewhat since the definition of the Constrained Baseline Profile in 2009. All Constrained Baseline Profile bitstreams are also considered to be Baseline Profile bitstreams, as these two profiles share the same profile identifier code value.
+Extended Profile (XP, 88)
+Intended as the streaming video profile, this profile has relatively high compression capability and some extra tricks for robustness to data losses and server stream switching.
+Main Profile (MP, 77)
+This profile is used for standard-definition digital TV broadcasts that use the MPEG-4 format as defined in the DVB standard. It is not, however, used for high-definition television broadcasts, as the importance of this profile faded when the High Profile was developed in 2004 for that application.
+High Profile (HiP, 100)
+The primary profile for broadcast and disc storage applications, particularly for high-definition television applications (for example, this is the profile adopted by the Blu-ray Disc storage format and the DVB HDTV broadcast service).
+Progressive High Profile (PHiP, 100 with constraint set 4)
+Similar to the High profile, but without support of field coding features.
+Constrained High Profile (100 with constraint set 4 and 5)
+Similar to the Progressive High profile, but without support of B (bi-predictive) slices.
+High 10 Profile (Hi10P, 110)
+Going beyond typical mainstream consumer product capabilities, this profile builds on top of the High Profile, adding support for up to 10 bits per sample of decoded picture precision.
+High 4:2:2 Profile (Hi422P, 122)
+Primarily targeting professional applications that use interlaced video, this profile builds on top of the High 10 Profile, adding support for the 4:2:2 chroma sampling format while using up to 10 bits per sample of decoded picture precision.
+High 4:4:4 Predictive Profile (Hi444PP, 244)
+This profile builds on top of the High 4:2:2 Profile, supporting up to 4:4:4 chroma sampling, up to 14 bits per sample, and additionally supporting efficient lossless region coding and the coding of each picture as three separate color planes.
+For camcorders, editing, and professional applications, the standard contains four additional Intra-frame-only profiles, which are defined as simple subsets of other corresponding profiles. These are mostly for professional (e.g., camera and editing system) applications:
+
+High 10 Intra Profile (110 with constraint set 3)
+The High 10 Profile constrained to all-Intra use.
+High 4:2:2 Intra Profile (122 with constraint set 3)
+The High 4:2:2 Profile constrained to all-Intra use.
+High 4:4:4 Intra Profile (244 with constraint set 3)
+The High 4:4:4 Profile constrained to all-Intra use.
+CAVLC 4:4:4 Intra Profile (44)
+The High 4:4:4 Profile constrained to all-Intra use and to CAVLC entropy coding (i.e., not supporting CABAC).
+As a result of the Scalable Video Coding (SVC) extension, the standard contains five additional scalable profiles, which are defined as a combination of a H.264/AVC profile for the base layer (identified by the second word in the scalable profile name) and tools that achieve the scalable extension:
+
+Scalable Baseline Profile (83)
+Primarily targeting video conferencing, mobile, and surveillance applications, this profile builds on top of the Constrained Baseline profile to which the base layer (a subset of the bitstream) must conform. For the scalability tools, a subset of the available tools is enabled.
+Scalable Constrained Baseline Profile (83 with constraint set 5)
+A subset of the Scalable Baseline Profile intended primarily for real-time communication applications.
+Scalable High Profile (86)
+Primarily targeting broadcast and streaming applications, this profile builds on top of the H.264/AVC High Profile to which the base layer must conform.
+Scalable Constrained High Profile (86 with constraint set 5)
+A subset of the Scalable High Profile intended primarily for real-time communication applications.
+Scalable High Intra Profile (86 with constraint set 3)
+Primarily targeting production applications, this profile is the Scalable High Profile constrained to all-Intra use.
+As a result of the Multiview Video Coding (MVC) extension, the standard contains two multiview profiles:
+
+Stereo High Profile (128)
+This profile targets two-view stereoscopic 3D video and combines the tools of the High profile with the inter-view prediction capabilities of the MVC extension.
+Multiview High Profile (118)
+This profile supports two or more views using both inter-picture (temporal) and MVC inter-view prediction, but does not support field pictures and macroblock-adaptive frame-field coding.
+The Multi-resolution Frame-Compatible (MFC) extension added two more profiles:
+
+MFC High Profile (134)
+A profile for stereoscopic coding with two-layer resolution enhancement.
+MFC Depth High Profile (135)
+
+The 3D-AVC extension added two more profiles:
+
+Multiview Depth High Profile (138)
+This profile supports joint coding of depth map and video texture information for improved compression of 3D video content.
+Enhanced Multiview Depth High Profile (139)
+An enhanced profile for combined multiview coding with depth information.
+
+Feature support in particular profiles
+Levels
+As the term is used in the standard, a "level" is a specified set of constraints that indicate a degree of required decoder performance for a profile. For example, a level of support within a profile specifies the maximum picture resolution, frame rate, and bit rate that a decoder may use. A decoder that conforms to a given level must be able to decode all bitstreams encoded for that level and all lower levels.
+
+The maximum bit rate for the High Profile is 1.25 times that of the Constrained Baseline, Baseline, Extended and Main Profiles; 3 times for Hi10P, and 4 times for Hi422P/Hi444PP.
+The number of luma samples is 16×16=256 times the number of macroblocks (and the number of luma samples per second is 256 times the number of macroblocks per second).
+
+Decoded picture buffering
+Previously encoded pictures are used by H.264/AVC encoders to provide predictions of the values of samples in other pictures. This allows the encoder to make efficient decisions on the best way to encode a given picture. At the decoder, such pictures are stored in a virtual decoded picture buffer (DPB). The maximum capacity of the DPB, in units of frames (or pairs of fields), as shown in parentheses in the right column of the table above, can be computed as follows:
+
+DpbCapacity = min(floor(MaxDpbMbs / (PicWidthInMbs * FrameHeightInMbs)), 16)
+Where MaxDpbMbs is a constant value provided in the table below as a function of level number, and PicWidthInMbs and FrameHeightInMbs are the picture width and frame height for the coded video data, expressed in units of macroblocks (rounded up to integer values and accounting for cropping and macroblock pairing when applicable). This formula is specified in sections A.3.1.h and A.3.2.f of the 2017 edition of the standard.
+
+For example, for an HDTV picture that is 1,920 samples wide (PicWidthInMbs = 120) and 1,080 samples high (FrameHeightInMbs = 68), a Level 4 decoder has a maximum DPB storage capacity of floor(32768/(120*68)) = 4 frames (or 8 fields). Thus, the value 4 is shown in parentheses in the table above in the right column of the row for Level 4 with the frame size 1920×1080.
+The current picture being decoded is not included in the computation of DPB fullness (unless the encoder has indicated for it to be stored for use as a reference for decoding other pictures or for delayed output timing). Thus, a decoder needs to actually have sufficient memory to handle (at least) one frame more than the maximum capacity of the DPB as calculated above.
+
+Implementations
+In 2009, the HTML5 working group was split between supporters of Ogg Theora, a free video format which is thought to be unencumbered by patents, and H.264, which contains patented technology. As late as July 2009, Google and Apple were said to support H.264, while Mozilla and Opera support Ogg Theora (now Google, Mozilla and Opera all support Theora and WebM with VP8). Microsoft, with the release of Internet Explorer 9, has added support for HTML 5 video encoded using H.264. At the Gartner Symposium/ITXpo in November 2010, Microsoft CEO Steve Ballmer answered the question "HTML 5 or Silverlight?" by saying "If you want to do something that is universal, there is no question the world is going HTML5." In January 2011, Google announced that they were pulling support for H.264 from their Chrome browser and supporting both Theora and WebM/VP8 to use only open formats.
+On March 18, 2012, Mozilla announced support for H.264 in Firefox on mobile devices, due to prevalence of H.264-encoded video and the increased power-efficiency of using dedicated H.264 decoder hardware common on such devices. On February 20, 2013, Mozilla implemented support in Firefox for decoding H.264 on Windows 7 and above. This feature relies on Windows' built in decoding libraries. Firefox 35.0, released on January 13, 2015, supports H.264 on OS X 10.6 and higher.
+On October 30, 2013, Rowan Trollope from Cisco Systems announced that Cisco would release both binaries and source code of an H.264 video codec called OpenH264 under the Simplified BSD license, and pay all royalties for its use to MPEG LA for any software projects that use Cisco's precompiled binaries, thus making Cisco's OpenH264 binaries free to use. However, any software projects that use Cisco's source code instead of its binaries would be legally responsible for paying all royalties to MPEG LA. Target CPU architectures include x86 and ARM, and target operating systems include Linux, Windows XP and later, Mac OS X, and Android; iOS was notably absent from this list, because it does not allow applications to fetch and install binary modules from the Internet. Also on October 30, 2013, Brendan Eich from Mozilla wrote that it would use Cisco's binaries in future versions of Firefox to add support for H.264 to Firefox where platform codecs are not available. Cisco published the source code to OpenH264 on December 9, 2013.
+Although iOS was not supported by the 2013 Cisco software release, Apple updated its Video Toolbox Framework with iOS 8 (released in September 2014) to provide direct access to hardware-based H.264/AVC video encoding and decoding.
+
+Software encoders
+Hardware
+Because H.264 encoding and decoding requires significant computing power in specific types of arithmetic operations, software implementations that run on general-purpose CPUs are typically less power efficient. However, the latest quad-core general-purpose x86 CPUs have sufficient computation power to perform real-time SD and HD encoding. Compression efficiency depends on video algorithmic implementations, not on whether hardware or software implementation is used. Therefore, the difference between hardware and software based implementation is more on power-efficiency, flexibility and cost. To improve the power efficiency and reduce hardware form-factor, special-purpose hardware may be employed, either for the complete encoding or decoding process, or for acceleration assistance within a CPU-controlled environment.
+CPU based solutions are known to be much more flexible, particularly when encoding must be done concurrently in multiple formats, multiple bit rates and resolutions (multi-screen video), and possibly with additional features on container format support, advanced integrated advertising features, etc. CPU based software solution generally makes it much easier to load balance multiple concurrent encoding sessions within the same CPU.
+The 2nd generation Intel "Sandy Bridge" Core i3/i5/i7 processors introduced at the January 2011 CES (Consumer Electronics Show) offer an on-chip hardware full HD H.264 encoder, known as Intel Quick Sync Video.
+A hardware H.264 encoder can be an ASIC or an FPGA.
+ASIC encoders with H.264 encoder functionality are available from many different semiconductor companies, but the core design used in the ASIC is typically licensed from one of a few companies such as Chips&Media, Allegro DVT, On2 (formerly Hantro, acquired by Google), Imagination Technologies, NGCodec. Some companies have both FPGA and ASIC product offerings.
+Texas Instruments manufactures a line of ARM + DSP cores that perform DSP H.264 BP encoding 1080p at 30 fps. This permits flexibility with respect to codecs (which are implemented as highly optimized DSP code) while being more efficient than software on a generic CPU.
+
+Licensing
+In countries where patents on software algorithms are upheld, vendors and commercial users of products that use H.264/AVC are expected to pay patent licensing royalties for the patented technology that their products use. This applies to the Baseline Profile as well.
+A private organization known as MPEG LA, which is not affiliated in any way with the MPEG standardization organization, administers the licenses for patents applying to this standard, as well as other patent pools, such as for MPEG-4 Part 2 Video, HEVC and MPEG-DASH. The patent holders include Fujitsu, Panasonic, Sony, Mitsubishi, Apple, Columbia University, KAIST, Dolby, Google, JVC Kenwood, LG Electronics, Microsoft, NTT Docomo, Philips, Samsung, Sharp, Toshiba and ZTE, although the majority of patents in the pool are held by Panasonic (1,197 patents), Godo Kaisha IP Bridge (1,130 patents) and LG Electronics (990 patents).
+On August 26, 2010, MPEG LA announced that royalties would not be charged for H.264 encoded Internet video that is free to end users. All other royalties remain in place, such as royalties for products that decode and encode H.264 video as well as to operators of free television and subscription channels. The license terms are updated in 5-year blocks.
+Since the first version of the standard was completed in May 2003 (21–22 years ago) and the most commonly used profile (the High profile) was completed in June 2004 (20 years ago), some of the relevant patents are expired by now,  while others are still in force in jurisdictions around the world and one of the US patents in the MPEG LA H.264 pool (granted in 2016, priority from 2001) lasts at least until November 2030.
+In 2005, Qualcomm sued Broadcom in US District Court, alleging that Broadcom infringed on two of its patents by making products that were compliant with the H.264 video compression standard. In 2007, the District Court found that the patents were unenforceable because Qualcomm had failed to disclose them to the JVT prior to the release of the H.264 standard in May 2003. In December 2008, the US Court of Appeals for the Federal Circuit affirmed the District Court's order that the patents be unenforceable but remanded to the District Court with instructions to limit the scope of unenforceability to H.264 compliant products.
+In October 2023 Nokia sued HP and Amazon for H.264/H.265 patent infringement in USA, UK and other locations.
+
+See also
+VC-1, a standard designed by Microsoft and approved as a SMPTE standard in 2006
+Comparison of H.264 and VC-1
+Dirac (video compression format), a video coding design by BBC Research & Development, released in 2008
+VP8, a video coding design by On2 Technologies (later purchased by Google), released in 2008
+VP9, a video coding design by Google, released in 2013
+High Efficiency Video Coding (ITU-T H.265 or ISO/IEC 23008-2), an ITU/ISO/IEC standard, released in 2013
+AV1, a video coding design by the Alliance for Open Media, released in 2018
+Versatile Video Coding (ITU-T H.266 or ISO/IEC 23091-3), an ITU/ISO/IEC standard, released in 2020
+Internet Protocol television
+Group of pictures
+Intra-frame coding
+Inter frame
+
+References
+Further reading
+External links
+ITU-T publication page: H.264: Advanced video coding for generic audiovisual services
+MPEG-4 AVC/H.264 Information Doom9's Forum
+H.264/MPEG-4 Part 10 Tutorials (Richardson)
+"Part 10: Advanced Video Coding". ISO publication page: ISO/IEC 14496-10:2010 – Information technology — Coding of audio-visual objects.
+"H.264/AVC JM Reference Software". IP Homepage. Retrieved April 15, 2007.
+"JVT document archive site". Archived from the original on August 8, 2010. Retrieved May 6, 2007.
+"Publications". Thomas Wiegand. Retrieved June 23, 2007.
+"Publications". Detlev Marpe. Retrieved April 15, 2007.
+"Fourth Annual H.264 video codecs comparison". Moscow State University. (dated December 2007)
+"Discussion on H.264 with respect to IP cameras in use within the security and surveillance industries". April 3, 2009. (dated April 2009)
+"Sixth Annual H.264 video codecs comparison". Moscow State University. (dated May 2010)
+"SMPTE QuickGuide". ETC. May 14, 2018.
+
+[[Category:ISO stand

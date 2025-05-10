@@ -1,0 +1,25 @@
+The SI base units are the standard units of measurement defined by the International System of Units (SI) for the seven base quantities of what is now known as the International System of Quantities: they are notably a basic set from which all other SI units can be derived. The units and their physical quantities are the second for time, the metre (sometimes spelled meter) for length or distance, the kilogram for mass, the ampere for electric current, the kelvin for thermodynamic temperature, the mole for amount of substance, and the candela for luminous intensity. The SI base units are a fundamental part of modern metrology, and thus part of the foundation of modern science and technology.
+The SI base units form a set of mutually independent dimensions as required by dimensional analysis commonly employed in science and technology.
+The names and symbols of SI base units are written in lowercase, except the symbols of those named after a person, which are written with an initial capital letter.  For example, the metre has the symbol m, but the kelvin has symbol K, because it is named after Lord Kelvin and the ampere with symbol A is named after André-Marie Ampère.
+
+Definitions
+On 20 May 2019, as the final act of the 2019 revision of the SI, the BIPM officially introduced the following new definitions, replacing the preceding definitions of the SI base units.
+
+2019 revision of the SI
+New base unit definitions were adopted on 16 November 2018, and they became effective on 20 May 2019. The definitions of the base units have been modified several times since the Metre Convention in 1875, and new additions of base units have occurred. Since the redefinition of the metre in 1960, the kilogram had been the only base unit still defined directly in terms of a physical artefact, rather than a property of nature. This led to a number of the other SI base units being defined indirectly in terms of the mass of the same artefact; the mole, the ampere, and the candela were linked through their definitions to the mass of the International Prototype of the Kilogram, a roughly golfball-sized platinum–iridium cylinder stored in a vault near Paris.
+It has long been an objective in metrology to define the kilogram in terms of a fundamental constant, in the same way that the metre is now defined in terms of the speed of light. The 21st General Conference on Weights and Measures (CGPM, 1999) placed these efforts on an official footing, and recommended "that national laboratories continue their efforts to refine experiments that link the unit of mass to fundamental or atomic constants with a view to a future redefinition of the kilogram". Two possibilities attracted particular attention: the Planck constant and the Avogadro constant.
+In 2005, the International Committee for Weights and Measures (CIPM) approved preparation of new definitions for the kilogram, the ampere, and the kelvin and it noted the possibility of a new definition of the mole based on the Avogadro constant. The 23rd CGPM (2007) decided to postpone any formal change until the next General Conference in 2011.
+In a note to the CIPM in October 2009, Ian Mills, the President of the CIPM Consultative Committee – Units (CCU) catalogued the uncertainties of the fundamental constants of physics according to the current definitions and their values under the proposed new definition.  He urged the CIPM to accept the proposed changes in the definition of the kilogram, ampere, kelvin, and mole so that they are referenced to the values of the fundamental constants, namely the Planck constant (h), the elementary charge (e), the Boltzmann constant (k), and the Avogadro constant (NA). This approach was approved in 2018, only after measurements of these constants were achieved with sufficient accuracy.
+
+See also
+International vocabulary of metrology
+International System of Quantities
+Non-SI units mentioned in the SI
+Metric prefix
+Physical constant
+
+References
+External links
+International Bureau of Weights and Measures
+National Physical Laboratory
+NIST – SI

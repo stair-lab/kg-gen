@@ -1,0 +1,98 @@
+A premature ventricular contraction (PVC) is a common event where the heartbeat is initiated by Purkinje fibers in the ventricles rather than by the sinoatrial node. PVCs may cause no symptoms or may be perceived as a "skipped beat" or felt as palpitations in the chest. PVCs do not usually pose any danger.
+The electrical events of the heart detected by the electrocardiogram (ECG) allow a PVC to be easily distinguished from a normal heart beat. However, very frequent PVCs can be symptomatic of an underlying heart condition (such as arrhythmogenic right ventricular cardiomyopathy). Furthermore, very frequent (over 20% of all heartbeats) PVCs are considered a risk factor for arrhythmia-induced cardiomyopathy, in which the heart muscle becomes less effective and symptoms of heart failure may develop. Ultrasound of the heart is therefore recommended in people with frequent PVCs.
+If PVCs are frequent or troublesome, medication (beta blockers or certain calcium channel blockers) may be used. Very frequent PVCs in people with dilated cardiomyopathy may be treated with radiofrequency ablation.
+
+Signs and symptoms
+Although there are many possible symptoms associated with PVCs, PVCs may also have no symptoms at all. PVCs may be perceived as a skipped heart beat, a strong beat, palpitations, or lightheadedness. They may also cause chest pain, a faint feeling, fatigue, or hyperventilation after exercise. Symptoms may be more pronounced at times of stress. Women may be more aware of PVCs at the time of the menstrual period.
+Premature ventricular contractions may be associated with underlying heart disease, and certain characteristics are therefore elicited routinely: the presence of signs of heart disease or a known history of heart disease (e.g. previous myocardial infarction), as well as heart disease or sudden cardiac death in close relatives. PVCs and palpitation associated with syncope (transient loss of consciousness) or provoked by exertion are also concerning. Physical examination is focused on identifying evidence of underlying heart disease.
+
+Causes
+Premature ventricular contractions occur in healthy persons of any age, but are more prevalent in the elderly and in men. In a very significant proportion of people they occur spontaneously with no known cause. 
+Some possible underlying causes of PVCs include:
+
+Non-cardiac causes
+Adrenaline excess
+Anemia
+Catecholamine excess
+Certain medicines such as tricyclic antidepressants, digoxin, sympathomimetics, aminophylline
+Chemical (electrolyte) abnormalities in the blood (for example hypokalemia (low blood potassium), which can occur in those taking diuretics ("water pills") and hypomagnesaemia (magnesium deficiency)).
+Contact with the carina (trachea/bronchi) when performing medical suctioning stimulates vagus nerve
+Drugs/substances such as:
+Amphetamines
+Alcohol
+Caffeine
+Cocaine
+Nicotine
+Theobromine
+Hypercapnia (CO2 poisoning)
+Hypertension (high blood pressure)
+Hyperthyroidism
+High blood calcium
+Hypoxia and/or hypercapnia
+Lack of sleep/exhaustion
+Sarcoidosis
+Smoking
+Stress
+Anxiety
+
+Cardiac causes
+Any structural heart disease which alters electrical conduction pathways due to tissue alterations
+Cardiomyopathy, hypertrophic or dilated
+Myocardial infarction
+Myocarditis
+Myocardial contusion
+Mitral valve prolapse
+
+Pathophysiology
+Normally, impulses pass through both ventricles almost at the same time and the depolarization waves of the two ventricles partially cancel each other out in the ECG. However, when a PVC occurs the impulse nearly always travels through only one bundle fiber, so there is no neutralization effect; this results in the high voltage QRS wave in the electrocardiograph.
+There are three main physiological explanations for premature ventricular contractions: enhanced ectopic nodal automaticity, re-entry signaling, and toxic/reperfusion triggered.
+Ectopic enhanced nodal automaticity suggests foci of sub-pulmonic valvular pacemaker cells that have a subthreshold potential for firing. The basic rhythm of the heart raises these cells to threshold, which precipitates an ectopic beat. This process is the underlying mechanism for arrhythmias due to excess catecholamines and some electrolyte deficiencies, particularly low blood potassium, known as hypokalemia.
+Reentry occurs when an area of 1-way block in the Purkinje fibers and a second area of slow conduction are present. This condition is frequently seen in patients with underlying heart disease that creates areas of differential conduction and recovery due to myocardial scarring or ischemia. During ventricular activation, one bundle tract's area of slow conduction activates the other tract's bundle fibers post block after the rest of the ventricle has recovered. This resulting in an extra beat. Reentry can produce single ectopic beats, or it can trigger paroxysmal tachycardia.
+Triggered beats are considered to be due to after-depolarizations triggered by the preceding action potential. These are often seen in patients with ventricular arrhythmias due to digoxin toxicity and reperfusion therapy after myocardial infarction (MI).
+This ectopy of the ventricles when associated with a structurally normal heart most commonly occurs from the right ventricular outflow tract (RVOT) under the pulmonic valve. The mechanism behind this is thought to be enhanced automaticity versus triggered activity.
+
+Molecular basis
+There are a number of different molecular explanations for PVCs.
+
+calcium excess:  One explanation is most basically due to an increased amount of cyclic AMP(cAMP) in the muscle cells of the heart's ventricles leading to increased flow of calcium ions into the cell. This may happen for the following reasons:
+Activation of the sympathetic nervous system, due to anxiety and/or physiological stress, for example hypovolemia caused by dehydration or bleeding. This activation can cause a release of catecholamines such as epinephrine (adrenaline) which can bind to beta-1 adrenergic receptor (β1 receptors) on cardiac myocytes, activating a type of guanosine nucleotide-binding protein called Gs protein. This type of protein stimulates the production of cAMP, ultimately increasing the flow of calcium ions from the extracellular space and from the sarcoplasmic reticulum into the cytosol. This has the effect of (1) increasing the strength of contraction (inotropy) and (2) depolarizing the myocyte more rapidly (chronotropy). The ventricular myocytes are therefore more irritable than usual, and may depolarize spontaneously before the SA node depolarizes. Other sympathomimetic molecules such as amphetamines and cocaine will also cause this effect.
+Phosphodiesterase inhibitors such as caffeine directly affect the G-coupled signal transduction cascade by inhibiting the enzyme that catalyzes the breakdown of cAMP, again leading to the increased concentration of calcium ions in the cytosol.
+potassium deficiency: Potassium ion concentrations are a major determinant in the magnitude of the electrochemical potential of cells, and hypokalemia makes it more likely that cells will depolarize spontaneously. Hypercalcemia has a similar effect, although clinically it is of less concern.
+magnesium deficiency: Magnesium ions affect the flow of calcium ions, and they affect the function of the Na+/K+ ATPase, and are necessary for maintaining potassium levels. Low blood magnesium therefore also makes spontaneous depolarization more likely.
+myocardium damage:  Existing damage to the myocardium can also provoke PVCs. The myocardial scarring that occurs in myocardial infarction and also in the surgical repair of congenital heart disease can disrupt the conduction system of the heart and may also irritate surrounding viable ventricular myocytes, make them more likely to depolarize spontaneously. Inflammation of the myocardium (as occurs in myocarditis) and systemic inflammation cause surges of cytokines, which can affect the electrical properties of myocytes and may be ultimately responsible for causing irritability of myocytes.
+
+Diagnosis
+PVCs may be found incidentally on cardiac tests such as a 12-lead electrocardiogram (ECG/EKG) performed for another reason. In those with symptoms suggestive of premature ventricular complexes, the ECG/EKG is the first investigation that may identify PVCs as well as other cardiac rhythm issues that may cause similar symptoms. If symptoms are infrequent, other forms of continuous heart beat recording may be used, such as a 24 or 48-hour Holter monitor  or even 14- to 30-day recorders if the symptoms are very occasional. Consumer-grade wearable devices such as the Apple Watch, KardiaMobile, and Fitbit also offer intermittent ECG recording capabilities, allowing users to capture symptomatic episodes outside of traditional clinical settings.  
+The advantage of these monitors is that they allow a quantification of the amount of abnormal beats ("burden") and ensure that there are no heart arrhythmias present that might require attention, such as ventricular tachycardia. If symptoms are associated with exercise, a supervised cardiac stress test may be required to reproduce the abnormality. Specifically, if this shows exercise-induced ventricular tachycardia this would require specific treatment. If PVCs are suppressed by exercise, this is an encouraging finding.
+On electrocardiography (ECG or Holter) premature ventricular contractions have a specific appearance of the QRS complexes and T waves, which are different from normal readings. By definition, a PVC occurs earlier than the regular normally conducted beat. Subsequently, the time between the PVC and the next normal beat is longer as the result of a compensatory pause. PVCs can be distinguished from premature atrial contractions because the compensatory pause is longer following premature ventricular contractions, in addition to a difference in QRS appearance.
+In some people, PVCs occur in a predictable pattern. Two PVCs in a row are called doublets and three PVCs in a rows are triplets. Depending whether there are one, two, or three normal (sinus) beats between each PVC, the rhythm is called bigeminy, trigeminy, or quadrigeminy. If 3 or more consecutive PVCs occur in a row it may be called ventricular tachycardia. The precise shape of the QRS can give an indication as to where precisely in the heart muscle the abnormal electrical activity arises. If someone has PVCs that all have the same appearance, they are considered "monofocal", if PVC’s have different appearance, they are considered “multifocal”.
+
+Treatment
+Isolated PVCs with benign characteristics and no underlying heart disease require no treatment, especially if there are limited symptoms.
+The most effective treatment is the elimination of triggers (particularly stopping the use of substances such as caffeine and certain drugs, like tobacco). If frequent, it’s possible to use:
+
+Medications
+Antiarrhythmics: these agents alter the electrophysiologic mechanisms responsible for PVCs. In CAST study of survivors of myocardial infarction encainide and flecainide, it was shown that, though those drugs could suppress PVC, they also increased the risk of death. However, while moricizine increased the death rate when used with diuretics, it reduced the frequency of deaths when it was used alone.
+Beta blockers: do not directly affect or reduce the occurrence of PVCs, but reduce cardiac contractility which makes PVCs less obvious to a person; possibly reduce catecholamine induced PVCs (in catecholamine-sensitive people) due to adrenaline not reaching sinus node as much.
+Calcium channel blockers
+Electrolytes replacement
+Magnesium supplements (e.g. magnesium citrate, orotate, Maalox, etc.)
+Potassium supplements (e.g. chloride potassium with citrate ion)
+Radiofrequency catheter ablation treatment. It is advised for people with ventricular dysfunction and/or tachyarrhythmia or very frequent PVC (>20% in 24 h) and normal ventricular function. This procedure is a way to destroy the area of the heart tissue that is causing the irregular contractions characteristic of PVCs using radio frequency energy.
+Implantable cardioverter-defibrillator
+Lifestyle modification
+Frequently stressed individuals should consider therapy, or joining a support group.
+
+Prognosis
+In general, PVCs are harmless. For patients with more than 1,000 PVCs per day, the risk of developing left ventricular systolic dysfunction after 5 years follow-up is low. Frequent PVCs may increase the risk of developing cardiomyopathy, which can greatly impair heart function. A PVC burden greater than 10% is the minimal threshold for development of PVC-induced cardiomyopathy. The risk is higher with a PVC burden greater than 20%. PVC burden often decreases spontaneously over time.
+People who do not have heart disease (with ejection fractions greater than 40%) have the same long-term prognoses as the minority of people without PVCs on the 24 hours. Emerging data also suggest that very frequent ventricular ectopy may be associated with cardiomyopathy through a mechanism thought to be similar to that of chronic right ventricular pacing associated cardiomyopathy. For patients with underlying chronic structural heart disease and complex ectopy, mortality is significantly increased.
+In meta-analysis of 11 studies, people with frequent PVCs (≥ once during a standard electrocardiographic recording or ≥30 times over a 1-hour recording) had risk of cardiac death twice as great as that of participants with occasional PVCs. Although most researchers attempted to exclude high-risk subjects, such as those with histories of cardiovascular disease, they did not test participants for underlying structural heart disease.
+
+Epidemiology
+Single PVCs are common in healthy persons. When 24-hour ambulatory monitoring is used, up to 80 percent of apparently healthy people have occasional PVCs. Rates vary by age with extremely rare for those under the age of 11 and extremely common in those older than 75 years. These differences may be due to rates of high blood pressure and atherosclerosis, which are more easy to find in older persons. In 101 people free of heart disease during 24 hours Holter monitoring, 39 had at least 1 PVC, and 4 at least 100. Heart disease was excluded after physical examination, chest x-ray, ECG, echocardiography, maximal exercise stress test, right- and left-heart catheterization and coronary angiography. In 122,043 United States Air Force flyers and cadet applicants during approximately 48 seconds of ECG 0.78% (952 males) had PVC within all age groups, but with increased incidence with increasing age. Ventricular ectopy is more prevalent in men than in women of the same age; data from large, population-based studies indicate that the prevalence is less for young white women without heart disease and greater for older African American individuals with hypertension.
+
+References
+Further reading
+
+
+== External links ==

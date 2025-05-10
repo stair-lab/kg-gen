@@ -1,0 +1,83 @@
+Ischemia or ischaemia is a restriction in blood supply to any tissue, muscle group, or organ of the body, causing a shortage of oxygen that is needed for cellular metabolism (to keep tissue alive).  Ischemia is generally caused by problems with blood vessels, with resultant damage to or dysfunction of tissue, i.e., hypoxia and microvascular dysfunction. It also implies local hypoxia in a part of a body resulting from constriction (such as vasoconstriction, thrombosis, or embolism). 
+Ischemia causes not only insufficiency of oxygen but also reduced availability of nutrients and inadequate removal of metabolic wastes. Ischemia can be partial (poor perfusion) or total blockage. The inadequate delivery of oxygenated blood to the organs must be resolved either by treating the cause of the inadequate delivery or reducing the oxygen demand of the system that needs it. For example, patients with myocardial ischemia have a decreased blood flow to the heart and are prescribed with medications that reduce chronotropic and inotropic effect to meet the new level of blood delivery supplied by the stenosed vasculature so that it is adequate.
+
+Signs and symptoms
+The signs and symptoms of ischemia vary, as they can occur anywhere in the body and depend on the degree to which blood flow is interrupted. For example, clinical manifestations of acute limb ischemia (which can be summarized as the "six Ps") include pain, pallor, pulseless, paresthesia, paralysis, and poikilothermia.
+Without immediate intervention, ischemia may progress quickly to tissue necrosis and gangrene within a few hours. Paralysis is a very late sign of acute arterial ischemia and signals the death of nerves supplying the extremity. Foot drop may occur as a result of nerve damage. Because nerves are extremely sensitive to hypoxia, limb paralysis or ischemic neuropathy may persist after revascularization and may be permanent.
+
+Cardiac ischemia
+Cardiac ischemia may be asymptomatic or may cause chest pain, known as angina pectoris. It occurs when the heart muscle, or myocardium, receives insufficient blood flow. This most frequently results from atherosclerosis, which is the long-term accumulation of cholesterol-rich plaques in the coronary arteries. In most Western countries, ischemic heart disease is the most common cause of death in both men and women, and a major cause of hospital admissions.
+
+Bowel
+Both large and small intestines can be affected by ischemia. The blockage of blood flow to the large intestine (colon) is called ischemic colitis. Ischemia of the small bowel is called mesenteric ischemia.
+
+Brain
+Brain ischemia is insufficient blood flow to the brain, and can be acute or chronic. Acute ischemic stroke is a neurological emergency typically caused by a blood clot blocking blood flow in a vessel in the brain. Chronic ischemia of the brain may result in a form of dementia called vascular dementia. A sudden, brief episode (symptoms lasting only minutes) of ischemia affecting the brain is called a transient ischemic attack (TIA), often called a mini-stroke. TIAs can be a warning of future strokes, with approximately 1/3 of TIA patients having a serious stroke within one year.
+
+Limb
+Inadequate blood supply to a limb may result in acute limb ischemia or chronic limb threatening ischemia.
+
+Cutaneous
+Reduced blood flow to the skin layers may result in mottling or uneven, patchy discoloration of the skin.
+
+Kidney ischemia
+Kidney ischemia is a loss of blood flow to the kidney cells. Several physical symptoms include shrinkage of one or both kidneys, renovascular hypertension, acute renal failure, progressive azotemia, and acute pulmonary edema. It is a disease with high mortality rate and high morbidity. Failure to treat could cause chronic kidney disease and a need for renal surgery.
+
+Causes
+Ischemia is a vascular disease involving an interruption in the arterial blood supply to a tissue, organ, or extremity that, if untreated, can lead to tissue death. It can be caused by embolism, thrombosis of an atherosclerotic artery, or trauma. Venous problems like venous outflow obstruction and low-flow states can cause acute arterial ischemia.  An aneurysm is one of the most frequent causes of acute arterial ischemia. Other causes are heart conditions including myocardial infarction, mitral valve disease, chronic atrial fibrillation, cardiomyopathies, and prosthesis, in all of which thrombi are prone to develop.
+
+Occlusion
+The thrombi may dislodge and may travel anywhere in the circulatory system, where they may lead to pulmonary embolus, an acute arterial occlusion causing the oxygen and blood supply distal to the embolus to decrease suddenly. The degree and extent of symptoms depend on the size and location of the obstruction, the occurrence of clot fragmentation with embolism to smaller vessels, and the degree of peripheral arterial disease (PAD).
+
+Thromboembolism (blood clots)
+Embolism (foreign bodies in the circulation, e.g. amniotic fluid embolism)
+
+Trauma
+Traumatic injury to an extremity may produce partial or total occlusion of a vessel from compression, shearing, or laceration. Acute arterial occlusion may develop as a result of arterial dissection in the carotid artery or aorta or as a result of iatrogenic arterial injury (e.g., after angiography).
+
+Other
+An inadequate flow of blood to a part of the body may be caused by any of the following:
+
+Thoracic outlet syndrome (compression of the brachial plexus)
+Atherosclerosis (lipid-laden plaques obstructing the lumen of arteries)
+Hypoglycemia (lower than normal level of glucose)
+Tachycardia (abnormally rapid beating of the heart)
+Radiotherapy, therapeutic radiation used to treat cancer can cause a delayed side effect injury in adjacent tissue via progressive, proliferative endarteritis, inflamed arterial linings that disrupt the tissue's blood supply.
+Hypotension (low blood pressure, e.g. in septic shock, heart failure)
+Outside compression of a blood vessel, e.g. by a tumor or in the case of superior mesenteric artery syndrome
+Sickle cell disease (abnormally shaped red blood cells)
+Induced g-forces which restrict the blood flow and force the blood to the extremities of the body, as in acrobatics and military flying
+Localized extreme cold, such as by frostbite or improper cold compression therapy
+Tourniquet application
+An increased level of glutamate receptor stimulation 
+Arteriovenous malformations and peripheral artery occlusive disease
+rupture of significant blood vessels supplying a tissue or organ.
+Anemia vasoconstricts the periphery so that red blood cells cannot work internally on vital organs such as the heart, brain, etc., thus causing lack of oxygen to the periphery.
+Premature discontinuation of any oral anticoagulant.
+Unconsciousness, such as due to the ingestion of excessive doses of central depressants like alcohol or opioids, can result in ischemia of the extremities due to unusual body positions that prevent normal circulation
+
+Pathophysiology
+Ischemia results in tissue damage in a process known as ischemic cascade. The damage is the result of the build-up of metabolic waste products, inability to maintain cell membranes, mitochondrial damage, and eventual leakage of autolyzing proteolytic enzymes into the cell and surrounding tissues.
+Restoration of blood supply to ischemic tissues can cause additional damage known as reperfusion injury that can be more damaging than the initial ischemia. Reintroduction of blood flow brings oxygen back to the tissues, causing a greater production of free radicals and reactive oxygen species that damage cells.  It also brings more calcium ions to the tissues causing further calcium overloading and can result in potentially fatal cardiac arrhythmias and also accelerates cellular apoptosis. The restored blood flow also exaggerates the inflammation response of damaged tissues, causing white blood cells to destroy damaged cells that may otherwise still be viable.
+
+Treatment
+Early treatment is essential to keep the affected organ viable. The treatment options include injection of an anticoagulant, thrombolysis, embolectomy, surgical revascularization, or partial amputation. Anticoagulant therapy is initiated to prevent further enlargement of the thrombus. Continuous IV unfractionated heparin has been the traditional agent of choice.
+If the condition of the ischemic limb is stabilized with anticoagulation, recently formed emboli may be treated with catheter-directed thrombolysis using intra-arterial infusion of a thrombolytic agent (e.g., recombinant tissue plasminogen activator (tPA), streptokinase, or urokinase). A percutaneous catheter inserted into the femoral artery and threaded to the site of the clot is used to infuse the drug. Unlike anticoagulants, thrombolytic agents work directly to resolve the clot over a period of 24 to 48 hours.
+Direct arteriotomy may be necessary to remove the clot. Surgical revascularization may be used in the setting of trauma (e.g., laceration of the artery). Amputation is reserved for cases where limb salvage is not possible. If the patient continues to have a risk of further embolization from some persistent source, such as chronic atrial fibrillation, treatment includes long-term oral anticoagulation to prevent further acute arterial ischemic episodes.
+Decrease in body temperature reduces the aerobic metabolic rate of the affected cells, reducing the immediate effects of hypoxia.  Reduction of body temperature also reduces the inflammation response and reperfusion injury. For frostbite injuries, limiting thawing and warming of tissues until warmer temperatures can be sustained may reduce reperfusion injury.
+Ischemic stroke is at times treated with various levels of statin therapy at hospital discharge, followed by home time, in an attempt to lower the risk of adverse events.
+
+Society and culture
+The Infarct Combat Project (ICP) is an international nonprofit organization founded in 1998 to fight ischemic heart disease through education and research.
+
+Etymology and pronunciation
+The word ischemia () is from Greek ἴσχαιμος iskhaimos 'staunching blood', from ἴσχω iskhο 'keep back, restrain' and αἷμα haima 'blood'.
+
+See also
+References
+Bibliography
+Elizabeth (editor). Oxford Reference: Concise Medical Dictionary (1990, 3rd ed.). Oxford University Press: Market House Books, 1987, 2nd ed., pp. 107, ISBN 978-0-19-281991-8
+
+External links
+
+ Media related to Ischemia at Wikimedia Commons

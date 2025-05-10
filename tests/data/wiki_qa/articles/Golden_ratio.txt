@@ -1,0 +1,6544 @@
+In mathematics, two quantities are in the golden ratio if their ratio is the same as the ratio of their sum to the larger of the two quantities. Expressed algebraically, for quantities ⁠
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+⁠ and ⁠
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+  
+⁠ with ⁠
+  
+    
+      
+        a
+        >
+        b
+        >
+        0
+      
+    
+    {\displaystyle a>b>0}
+  
+⁠, ⁠
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+⁠ is in a golden ratio to ⁠
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+  
+⁠ if
+
+  
+    
+      
+        
+          
+            
+              a
+              +
+              b
+            
+            a
+          
+        
+        =
+        
+          
+            a
+            b
+          
+        
+        =
+        φ
+        ,
+      
+    
+    {\displaystyle {\frac {a+b}{a}}={\frac {a}{b}}=\varphi ,}
+  
+
+where the Greek letter phi (⁠
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+⁠ or ⁠
+  
+    
+      
+        ϕ
+      
+    
+    {\displaystyle \phi }
+  
+⁠) denotes the golden ratio. The constant ⁠
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+⁠ satisfies the quadratic equation ⁠
+  
+    
+      
+        
+          
+            φ
+            
+              2
+            
+          
+          =
+          φ
+          +
+          1
+        
+      
+    
+    {\displaystyle \textstyle \varphi ^{2}=\varphi +1}
+  
+⁠ and is an irrational number with a value of
+
+The golden ratio was called the extreme and mean ratio by Euclid, and the divine proportion by Luca Pacioli; it also goes by other names.
+Mathematicians have studied the golden ratio's properties since antiquity. It is the ratio of a regular pentagon's diagonal to its side and thus appears in the construction of the dodecahedron and icosahedron. A golden rectangle—that is, a rectangle with an aspect ratio of ⁠
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+⁠—may be cut into a square and a smaller rectangle with the same aspect ratio. The golden ratio has been used to analyze the proportions of natural objects and artificial systems such as financial markets, in some cases based on dubious fits to data. The golden ratio appears in some patterns in nature, including the spiral arrangement of leaves and other parts of vegetation.
+Some 20th-century artists and architects, including Le Corbusier and Salvador Dalí, have proportioned their works to approximate the golden ratio, believing it to be aesthetically pleasing. These uses often appear in the form of a golden rectangle.
+
+Calculation
+Two quantities ⁠
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+⁠ and ⁠
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+  
+⁠ are in the golden ratio ⁠
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+⁠ if
+
+  
+    
+      
+        
+          
+            
+              a
+              +
+              b
+            
+            a
+          
+        
+        =
+        
+          
+            a
+            b
+          
+        
+        =
+        φ
+        .
+      
+    
+    {\displaystyle {\frac {a+b}{a}}={\frac {a}{b}}=\varphi .}
+  
+
+Thus, if we want to find ⁠
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+⁠, we may use that the definition above holds for arbitrary ⁠
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+  
+⁠; thus, we just set ⁠
+  
+    
+      
+        b
+        =
+        1
+      
+    
+    {\displaystyle b=1}
+  
+⁠, in which case ⁠
+  
+    
+      
+        φ
+        =
+        a
+      
+    
+    {\displaystyle \varphi =a}
+  
+⁠ and we get the equation
+⁠
+  
+    
+      
+        (
+        φ
+        +
+        1
+        )
+        
+          /
+        
+        φ
+        =
+        φ
+      
+    
+    {\displaystyle (\varphi +1)/\varphi =\varphi }
+  
+⁠,
+which becomes a quadratic equation after multiplying by ⁠
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+⁠:
+
+  
+    
+      
+        φ
+        +
+        1
+        =
+        
+          φ
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \varphi +1=\varphi ^{2}}
+  
+
+which can be rearranged to
+
+  
+    
+      
+        
+          
+            φ
+          
+          
+            2
+          
+        
+        −
+        φ
+        −
+        1
+        =
+        0.
+      
+    
+    {\displaystyle {\varphi }^{2}-\varphi -1=0.}
+  
+
+The quadratic formula yields two solutions:
+
+Because ⁠
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+⁠ is a ratio between positive quantities, ⁠
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+⁠ is necessarily the positive root. The negative root is in fact the negative inverse ⁠
+  
+    
+      
+        −
+        1
+        
+          /
+        
+        φ
+      
+    
+    {\displaystyle -1/\varphi }
+  
+⁠, which shares many properties with the golden ratio.
+
+History
+According to Mario Livio,
+
+Some of the greatest mathematical minds of all ages, from Pythagoras and Euclid in ancient Greece, through the medieval Italian mathematician Leonardo of Pisa and the Renaissance astronomer Johannes Kepler, to present-day scientific figures such as Oxford physicist Roger Penrose, have spent endless hours over this simple ratio and its properties. ... Biologists, artists, musicians, historians, architects, psychologists, and even mystics have pondered and debated the basis of its ubiquity and appeal. In fact, it is probably fair to say that the Golden Ratio has inspired thinkers of all disciplines like no other number in the history of mathematics.
+Ancient Greek mathematicians first studied the golden ratio because of its frequent appearance in geometry; the division of a line into "extreme and mean ratio" (the golden section) is important in the geometry of regular pentagrams and pentagons. According to one story, 5th-century BC mathematician Hippasus discovered that the golden ratio was neither a whole number nor a fraction (it is irrational), surprising Pythagoreans. Euclid's Elements (c. 300 BC) provides several propositions and their proofs employing the golden ratio, and contains its first known definition which proceeds as follows:
+
+A straight line is said to have been cut in extreme and mean ratio when, as the whole line is to the greater segment, so is the greater to the lesser.
+
+The golden ratio was studied peripherally over the next millennium. Abu Kamil (c. 850–930) employed it in his geometric calculations of pentagons and decagons; his writings influenced that of Fibonacci (Leonardo of Pisa) (c. 1170–1250), who used the ratio in related geometry problems but did not observe that it was connected to the Fibonacci numbers.
+Luca Pacioli named his book Divina proportione (1509) after the ratio; the book, largely plagiarized from Piero della Francesca, explored its properties including its appearance in some of the Platonic solids. Leonardo da Vinci, who illustrated Pacioli's book, called the ratio the sectio aurea ('golden section'). Though it is often said that Pacioli advocated the golden ratio's application to yield pleasing, harmonious proportions, Livio points out that the interpretation has been traced to an error in 1799, and that Pacioli actually advocated the Vitruvian system of rational proportions. Pacioli also saw Catholic religious significance in the ratio, which led to his work's title. 16th-century mathematicians such as Rafael Bombelli solved geometric problems using the ratio.
+
+German mathematician Simon Jacob (d. 1564) noted that consecutive Fibonacci numbers converge to the golden ratio; this was rediscovered by Johannes Kepler in 1608. The first known decimal approximation of the (inverse) golden ratio was stated as "about ⁠
+  
+    
+      
+        0.6180340
+      
+    
+    {\displaystyle 0.6180340}
+  
+⁠" in 1597 by Michael Maestlin of the University of Tübingen in a letter to Kepler, his former student. The same year, Kepler wrote to Maestlin of the Kepler triangle, which combines the golden ratio with the Pythagorean theorem. Kepler said of these:Geometry has two great treasures: one is the theorem of Pythagoras, the other the division of a line into extreme and mean ratio. The first we may compare to a mass of gold, the second we may call a precious jewel.
+Eighteenth-century mathematicians Abraham de Moivre, Nicolaus I Bernoulli, and Leonhard Euler used a golden ratio-based formula which finds the value of a Fibonacci number based on its placement in the sequence; in 1843, this was rediscovered by Jacques Philippe Marie Binet, for whom it was named "Binet's formula". Martin Ohm first used the German term goldener Schnitt ('golden section') to describe the ratio in 1835. James Sully used the equivalent English term in 1875.
+By 1910, inventor Mark Barr began using the Greek letter phi (⁠
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+⁠) as a symbol for the golden ratio. It has also been represented by tau (⁠
+  
+    
+      
+        τ
+      
+    
+    {\displaystyle \tau }
+  
+⁠), the first letter of the ancient Greek τομή ('cut' or 'section').
+
+The zome construction system, developed by Steve Baer in the late 1960s, is based on the symmetry system of the icosahedron/dodecahedron, and uses the golden ratio ubiquitously. Between 1973 and 1974, Roger Penrose developed Penrose tiling, a pattern related to the golden ratio both in the ratio of areas of its two rhombic tiles and in their relative frequency within the pattern. This gained in interest after Dan Shechtman's Nobel-winning 1982 discovery of quasicrystals with icosahedral symmetry, which were soon afterwards explained through analogies to the Penrose tiling.
+
+Mathematics
+Irrationality
+The golden ratio is an irrational number. Below are two short proofs of irrationality:
+
+Contradiction from an expression in lowest terms
+This is a proof by infinite descent. Recall that:
+
+If we call the whole ⁠
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+⁠ and the longer part ⁠
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  
+⁠, then the second statement above becomes
+
+To say that the golden ratio ⁠
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+⁠ is rational means that ⁠
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+⁠ is a fraction ⁠
+  
+    
+      
+        n
+        
+          /
+        
+        m
+      
+    
+    {\displaystyle n/m}
+  
+⁠ where ⁠
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+⁠ and ⁠
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  
+⁠ are integers. We may take ⁠
+  
+    
+      
+        n
+        
+          /
+        
+        m
+      
+    
+    {\displaystyle n/m}
+  
+⁠ to be in lowest terms and ⁠
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+⁠ and ⁠
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  
+⁠ to be positive. But if ⁠
+  
+    
+      
+        n
+        
+          /
+        
+        m
+      
+    
+    {\displaystyle n/m}
+  
+⁠ is in lowest terms, then the equally valued ⁠
+  
+    
+      
+        m
+        
+          /
+        
+        (
+        n
+        −
+        m
+        )
+      
+    
+    {\displaystyle m/(n-m)}
+  
+⁠ is in still lower terms. That is a contradiction that follows from the assumption that ⁠
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+⁠ is rational.
+
+By irrationality of the square root of 5
+Another short proof – perhaps more commonly known – of the irrationality of the golden ratio makes use of the closure of rational numbers under addition and multiplication. If ⁠
+  
+    
+      
+        φ
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+        
+          
+            (
+          
+        
+        1
+        +
+        
+          
+            5
+          
+        
+         
+        
+        
+          
+            )
+          
+        
+      
+    
+    {\displaystyle \varphi ={\tfrac {1}{2}}{\bigl (}1+{\sqrt {5}}~\!{\bigr )}}
+  
+⁠ is assumed to be rational, then ⁠
+  
+    
+      
+        2
+        φ
+        −
+        1
+        =
+        
+          
+            5
+          
+        
+      
+    
+    {\displaystyle 2\varphi -1={\sqrt {5}}}
+  
+⁠, the square root of ⁠
+  
+    
+      
+        5
+      
+    
+    {\displaystyle 5}
+  
+⁠, must also be rational. This is a contradiction, as the square roots of all non-square natural numbers are irrational.
+
+Minimal polynomial
+The golden ratio is also an algebraic number and even an algebraic integer. It has minimal polynomial
+
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        −
+        x
+        −
+        1.
+      
+    
+    {\displaystyle x^{2}-x-1.}
+  
+
+This quadratic polynomial has two roots, ⁠
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+⁠ and ⁠
+  
+    
+      
+        
+          −
+          
+            φ
+            
+              −
+              1
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle -\varphi ^{-1}}
+  
+⁠.
+The golden ratio is also closely related to the polynomial ⁠
+  
+    
+      
+        
+          
+            x
+            
+              2
+            
+          
+          +
+          x
+          −
+          1
+        
+      
+    
+    {\displaystyle \textstyle x^{2}+x-1}
+  
+⁠, which has roots ⁠
+  
+    
+      
+        −
+        φ
+      
+    
+    {\displaystyle -\varphi }
+  
+⁠ and ⁠
+  
+    
+      
+        
+          
+            φ
+            
+              −
+              1
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle \varphi ^{-1}}
+  
+⁠. As the root of a quadratic polynomial, the golden ratio is a constructible number.
+
+Golden ratio conjugate and powers
+The conjugate root to the minimal polynomial ⁠
+  
+    
+      
+        
+          
+            x
+            
+              2
+            
+          
+          −
+          x
+          −
+          1
+        
+      
+    
+    {\displaystyle \textstyle x^{2}-x-1}
+  
+⁠ is
+
+  
+    
+      
+        −
+        
+          
+            1
+            φ
+          
+        
+        =
+        1
+        −
+        φ
+        =
+        
+          
+            
+              1
+              −
+              
+                
+                  5
+                
+              
+            
+            2
+          
+        
+        =
+        −
+        0.618033
+        …
+        .
+      
+    
+    {\displaystyle -{\frac {1}{\varphi }}=1-\varphi ={\frac {1-{\sqrt {5}}}{2}}=-0.618033\dots .}
+  
+
+The absolute value of this quantity (⁠
+  
+    
+      
+        0.618
+        …
+      
+    
+    {\displaystyle 0.618\ldots }
+  
+⁠) corresponds to the length ratio taken in reverse order (shorter segment length over longer segment length, ⁠
+  
+    
+      
+        b
+        
+          /
+        
+        a
+      
+    
+    {\displaystyle b/a}
+  
+⁠).
+This illustrates the unique property of the golden ratio among positive numbers, that
+
+  
+    
+      
+        
+          
+            1
+            φ
+          
+        
+        =
+        φ
+        −
+        1
+        ,
+      
+    
+    {\displaystyle {\frac {1}{\varphi }}=\varphi -1,}
+  
+
+or its inverse,
+
+  
+    
+      
+        
+          
+            1
+            
+              1
+              
+                /
+              
+              φ
+            
+          
+        
+        =
+        
+          
+            1
+            φ
+          
+        
+        +
+        1.
+      
+    
+    {\displaystyle {\frac {1}{1/\varphi }}={\frac {1}{\varphi }}+1.}
+  
+
+The conjugate and the defining quadratic polynomial relationship lead to decimal values that have their fractional part in common with ⁠
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+⁠:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  φ
+                  
+                    2
+                  
+                
+              
+              
+                
+                =
+                φ
+                +
+                1
+                =
+                2.618033
+                …
+                ,
+              
+            
+            
+              
+                
+                  
+                    1
+                    φ
+                  
+                
+              
+              
+                
+                =
+                φ
+                −
+                1
+                =
+                0.618033
+                …
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\varphi ^{2}&=\varphi +1=2.618033\dots ,\\[5mu]{\frac {1}{\varphi }}&=\varphi -1=0.618033\dots .\end{aligned}}}
+  
+
+The sequence of powers of ⁠
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+⁠ contains these values ⁠
+  
+    
+      
+        0.618033
+        …
+      
+    
+    {\displaystyle 0.618033\ldots }
+  
+⁠, ⁠
+  
+    
+      
+        1.0
+      
+    
+    {\displaystyle 1.0}
+  
+⁠, ⁠
+  
+    
+      
+        1.618033
+        …
+      
+    
+    {\displaystyle 1.618033\ldots }
+  
+⁠, ⁠
+  
+    
+      
+        2.618033
+        …
+      
+    
+    {\displaystyle 2.618033\ldots }
+  
+⁠; more generally,
+any power of ⁠
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+⁠ is equal to the sum of the two immediately preceding powers:
+
+  
+    
+      
+        
+          φ
+          
+            n
+          
+        
+        =
+        
+          φ
+          
+            n
+            −
+            1
+          
+        
+        +
+        
+          φ
+          
+            n
+            −
+            2
+          
+        
+        =
+        φ
+        ⋅
+        
+          F
+          
+            n
+          
+        
+        +
+        
+          F
+          
+            n
+            −
+            1
+          
+        
+        .
+      
+    
+    {\displaystyle \varphi ^{n}=\varphi ^{n-1}+\varphi ^{n-2}=\varphi \cdot \operatorname {F} _{n}+\operatorname {F} _{n-1}.}
+  
+
+As a result, one can easily decompose any power of ⁠
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+⁠ into a multiple of ⁠
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+⁠ and a constant. The multiple and the constant are always adjacent Fibonacci numbers. This leads to another property of the positive powers of ⁠
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+⁠:
+If ⁠
+  
+    
+      
+        
+          
+            ⌊
+          
+        
+        
+          
+            
+              1
+              2
+            
+          
+        
+        n
+        −
+        1
+        
+          
+            ⌋
+          
+        
+        =
+        m
+      
+    
+    {\displaystyle {\bigl \lfloor }{\tfrac {1}{2}}n-1{\bigr \rfloor }=m}
+  
+⁠, then:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  φ
+                  
+                    n
+                  
+                
+              
+              
+                
+                =
+                
+                  φ
+                  
+                    n
+                    −
+                    1
+                  
+                
+                +
+                
+                  φ
+                  
+                    n
+                    −
+                    3
+                  
+                
+                +
+                ⋯
+                +
+                
+                  φ
+                  
+                    n
+                    −
+                    1
+                    −
+                    2
+                    m
+                  
+                
+                +
+                
+                  φ
+                  
+                    n
+                    −
+                    2
+                    −
+                    2
+                    m
+                  
+                
+              
+            
+            
+              
+                
+                  φ
+                  
+                    n
+                  
+                
+                −
+                
+                  φ
+                  
+                    n
+                    −
+                    1
+                  
+                
+              
+              
+                
+                =
+                
+                  φ
+                  
+                    n
+                    −
+                    2
+                  
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\varphi ^{n}&=\varphi ^{n-1}+\varphi ^{n-3}+\cdots +\varphi ^{n-1-2m}+\varphi ^{n-2-2m}\\[5mu]\varphi ^{n}-\varphi ^{n-1}&=\varphi ^{n-2}.\end{aligned}}}
+
+Continued fraction and square root
+The formula ⁠
+  
+    
+      
+        φ
+        =
+        1
+        +
+        1
+        
+          /
+        
+        φ
+      
+    
+    {\displaystyle \varphi =1+1/\varphi }
+  
+⁠ can be expanded recursively to obtain a simple continued fraction for the golden ratio:
+
+  
+    
+      
+        φ
+        =
+        [
+        1
+        ;
+        1
+        ,
+        1
+        ,
+        1
+        ,
+        …
+        ]
+        =
+        1
+        +
+        
+          
+            
+              
+                
+              
+              
+                
+                  1
+                
+              
+            
+            
+              
+                
+              
+              
+                
+                  1
+                  +
+                  
+                    
+                      
+                        
+                          
+                        
+                        
+                          
+                            1
+                          
+                        
+                      
+                      
+                        
+                          
+                        
+                        
+                          
+                            1
+                            +
+                            
+                              
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+                                      1
+                                    
+                                  
+                                
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+                                      1
+                                      +
+                                      
+                                        
+                                          
+                                            
+                                              
+                                                
+                                                  1
+                                                
+                                              
+                                            
+                                          
+                                          ⋱
+                                        
+                                      
+                                    
+                                  
+                                
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \varphi =[1;1,1,1,\dots ]=1+{\cfrac {1}{1+{\cfrac {1}{1+{\cfrac {1}{1+{{\vphantom {1}} \atop \ddots }}}}}}}}
+  
+
+It is in fact the simplest form of a continued fraction, alongside its reciprocal form:
+
+  
+    
+      
+        
+          φ
+          
+            −
+            1
+          
+        
+        =
+        [
+        0
+        ;
+        1
+        ,
+        1
+        ,
+        1
+        ,
+        …
+        ]
+        =
+        0
+        +
+        
+          
+            
+              
+                
+              
+              
+                
+                  1
+                
+              
+            
+            
+              
+                
+              
+              
+                
+                  1
+                  +
+                  
+                    
+                      
+                        
+                          
+                        
+                        
+                          
+                            1
+                          
+                        
+                      
+                      
+                        
+                          
+                        
+                        
+                          
+                            1
+                            +
+                            
+                              
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+                                      1
+                                    
+                                  
+                                
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+                                      1
+                                      +
+                                      
+                                        
+                                          
+                                            
+                                              
+                                                
+                                                  1
+                                                
+                                              
+                                            
+                                          
+                                          ⋱
+                                        
+                                      
+                                    
+                                  
+                                
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \varphi ^{-1}=[0;1,1,1,\dots ]=0+{\cfrac {1}{1+{\cfrac {1}{1+{\cfrac {1}{1+{{\vphantom {1}} \atop \ddots }}}}}}}}
+  
+
+The convergents of these continued fractions, ⁠
+  
+    
+      
+        
+          
+            
+              1
+              1
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {1}{1}}}
+  
+⁠, ⁠
+  
+    
+      
+        
+          
+            
+              2
+              1
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {2}{1}}}
+  
+⁠, ⁠
+  
+    
+      
+        
+          
+            
+              3
+              2
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {3}{2}}}
+  
+⁠, ⁠
+  
+    
+      
+        
+          
+            
+              5
+              3
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {5}{3}}}
+  
+⁠, ⁠
+  
+    
+      
+        
+          
+            
+              8
+              5
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {8}{5}}}
+  
+⁠, ⁠
+  
+    
+      
+        
+          
+            
+              13
+              8
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {13}{8}}}
+  
+⁠, ... or ⁠
+  
+    
+      
+        
+          
+            
+              1
+              1
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {1}{1}}}
+  
+⁠, ⁠
+  
+    
+      
+        
+          
+            
+              1
+              2
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {1}{2}}}
+  
+⁠, ⁠
+  
+    
+      
+        
+          
+            
+              2
+              3
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {2}{3}}}
+  
+⁠, ⁠
+  
+    
+      
+        
+          
+            
+              3
+              5
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {3}{5}}}
+  
+⁠, ⁠
+  
+    
+      
+        
+          
+            
+              5
+              8
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {5}{8}}}
+  
+⁠, ⁠
+  
+    
+      
+        
+          
+            
+              8
+              13
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {8}{13}}}
+  
+⁠, ..., are ratios of successive Fibonacci numbers. The consistently small terms in its continued fraction explain why the approximants converge so slowly. This makes the golden ratio an extreme case of the Hurwitz inequality for Diophantine approximations, which states that for every irrational ⁠
+  
+    
+      
+        ξ
+      
+    
+    {\displaystyle \xi }
+  
+⁠, there are infinitely many distinct fractions ⁠
+  
+    
+      
+        p
+        
+          /
+        
+        q
+      
+    
+    {\displaystyle p/q}
+  
+⁠ such that,
+
+  
+    
+      
+        
+          |
+          
+            ξ
+            −
+            
+              
+                p
+                q
+              
+            
+          
+          |
+        
+        <
+        
+          
+            1
+            
+              
+                
+                  5
+                
+              
+              
+                q
+                
+                  2
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \left|\xi -{\frac {p}{q}}\right|<{\frac {1}{{\sqrt {5}}q^{2}}}.}
+  
+
+This means that the constant ⁠
+  
+    
+      
+        
+          
+            5
+          
+        
+      
+    
+    {\displaystyle {\sqrt {5}}}
+  
+⁠ cannot be improved without excluding the golden ratio. It is, in fact, the smallest number that must be excluded to generate closer approximations of such Lagrange numbers.
+A continued square root form for ⁠
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+⁠ can be obtained from ⁠
+  
+    
+      
+        
+          
+            φ
+            
+              2
+            
+          
+          =
+          1
+          +
+          φ
+        
+      
+    
+    {\displaystyle \textstyle \varphi ^{2}=1+\varphi }
+  
+⁠, yielding:
+
+  
+    
+      
+        φ
+        =
+        
+          
+            1
+            +
+            
+              
+                
+                  1
+                  +
+                  
+                    
+                      1
+                      +
+                      ⋯
+                      
+                        
+                          
+                            
+                              )
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \varphi ={\sqrt {1+{\sqrt {\textstyle 1+{\sqrt {1+\cdots {\vphantom {)}}}}}}}}.}
+
+Relationship to Fibonacci and Lucas numbers
+Fibonacci numbers and Lucas numbers have an intricate relationship with the golden ratio. In the Fibonacci sequence, each term 
+  
+    
+      
+        
+          F
+          
+            n
+          
+        
+      
+    
+    {\displaystyle F_{n}}
+  
+ is equal to the sum of the preceding two terms 
+  
+    
+      
+        
+          F
+          
+            n
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle F_{n-1}}
+  
+ and 
+  
+    
+      
+        
+          F
+          
+            n
+            −
+            2
+          
+        
+      
+    
+    {\displaystyle F_{n-2}}
+  
+, starting with the base sequence ⁠
+  
+    
+      
+        0
+        ,
+        1
+      
+    
+    {\displaystyle 0,1}
+  
+⁠ as the 0th and 1st terms 
+  
+    
+      
+        
+          F
+          
+            0
+          
+        
+      
+    
+    {\displaystyle F_{0}}
+  
+ and 
+  
+    
+      
+        
+          F
+          
+            1
+          
+        
+      
+    
+    {\displaystyle F_{1}}
+  
+:
+
+The sequence of Lucas numbers (not to be confused with the generalized Lucas sequences, of which this is part) is like the Fibonacci sequence, in that each term 
+  
+    
+      
+        
+          L
+          
+            n
+          
+        
+      
+    
+    {\displaystyle L_{n}}
+  
+ is the sum of the previous two terms 
+  
+    
+      
+        
+          L
+          
+            n
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle L_{n-1}}
+  
+ and 
+  
+    
+      
+        
+          L
+          
+            n
+            −
+            2
+          
+        
+      
+    
+    {\displaystyle L_{n-2}}
+  
+, however instead starts with ⁠
+  
+    
+      
+        2
+        ,
+        1
+      
+    
+    {\displaystyle 2,1}
+  
+⁠ as the 0th and 1st terms 
+  
+    
+      
+        
+          L
+          
+            0
+          
+        
+      
+    
+    {\displaystyle L_{0}}
+  
+ and 
+  
+    
+      
+        
+          L
+          
+            1
+          
+        
+      
+    
+    {\displaystyle L_{1}}
+  
+:
+
+Exceptionally, the golden ratio is equal to the limit of the ratios of successive terms in the Fibonacci sequence and sequence of Lucas numbers:
+
+  
+    
+      
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          
+            
+              F
+              
+                n
+                +
+                1
+              
+            
+            
+              F
+              
+                n
+              
+            
+          
+        
+        =
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          
+            
+              L
+              
+                n
+                +
+                1
+              
+            
+            
+              L
+              
+                n
+              
+            
+          
+        
+        =
+        φ
+        .
+      
+    
+    {\displaystyle \lim _{n\to \infty }{\frac {F_{n+1}}{F_{n}}}=\lim _{n\to \infty }{\frac {L_{n+1}}{L_{n}}}=\varphi .}
+  
+
+In other words, if a Fibonacci and Lucas number is divided by its immediate predecessor in the sequence, the quotient approximates ⁠
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+⁠. For example,
+
+These approximations are alternately lower and higher than ⁠
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+⁠, and converge to ⁠
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+⁠ as the Fibonacci and Lucas numbers increase.
+Closed-form expressions for the Fibonacci and Lucas sequences that involve the golden ratio are:
+
+  
+    
+      
+        F
+        
+          (
+          n
+          )
+        
+        =
+        
+          
+            
+              
+                φ
+                
+                  n
+                
+              
+              −
+              (
+              −
+              φ
+              
+                )
+                
+                  −
+                  n
+                
+              
+            
+            
+              5
+            
+          
+        
+        =
+        
+          
+            
+              
+                φ
+                
+                  n
+                
+              
+              −
+              (
+              1
+              −
+              φ
+              
+                )
+                
+                  n
+                
+              
+            
+            
+              5
+            
+          
+        
+        =
+        
+          
+            1
+            
+              5
+            
+          
+        
+        
+          [
+          
+            
+              
+                (
+                
+                  
+                    
+                      1
+                      +
+                      
+                        
+                          5
+                        
+                      
+                    
+                    2
+                  
+                
+                )
+              
+              
+                n
+              
+            
+            −
+            
+              
+                (
+                
+                  
+                    
+                      1
+                      −
+                      
+                        
+                          5
+                        
+                      
+                    
+                    2
+                  
+                
+                )
+              
+              
+                n
+              
+            
+          
+          ]
+        
+        ,
+      
+    
+    {\displaystyle F\left(n\right)={\frac {\varphi ^{n}-(-\varphi )^{-n}}{\sqrt {5}}}={\frac {\varphi ^{n}-(1-\varphi )^{n}}{\sqrt {5}}}={\frac {1}{\sqrt {5}}}\left[\left({1+{\sqrt {5}} \over 2}\right)^{n}-\left({1-{\sqrt {5}} \over 2}\right)^{n}\right],}
+  
+
+  
+    
+      
+        L
+        
+          (
+          n
+          )
+        
+        =
+        
+          φ
+          
+            n
+          
+        
+        +
+        (
+        −
+        φ
+        
+          )
+          
+            −
+            n
+          
+        
+        =
+        
+          φ
+          
+            n
+          
+        
+        +
+        (
+        1
+        −
+        φ
+        
+          )
+          
+            n
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  1
+                  +
+                  
+                    
+                      5
+                    
+                  
+                
+                2
+              
+            
+            )
+          
+          
+            n
+          
+        
+        +
+        
+          
+            (
+            
+              
+                
+                  1
+                  −
+                  
+                    
+                      5
+                    
+                  
+                
+                2
+              
+            
+            )
+          
+          
+            n
+          
+        
+        .
+      
+    
+    {\displaystyle L\left(n\right)=\varphi ^{n}+(-\varphi )^{-n}=\varphi ^{n}+(1-\varphi )^{n}=\left({1+{\sqrt {5}} \over 2}\right)^{n}+\left({1-{\sqrt {5}} \over 2}\right)^{n}.}
+  
+
+Combining both formulas above, one obtains a formula for ⁠
+  
+    
+      
+        
+          
+            φ
+            
+              n
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle \varphi ^{n}}
+  
+⁠ that involves both Fibonacci and Lucas numbers:
+
+  
+    
+      
+        
+          φ
+          
+            n
+          
+        
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+        
+          
+            (
+          
+        
+        
+          L
+          
+            n
+          
+        
+        +
+        
+          F
+          
+            n
+          
+        
+        
+          
+            5
+          
+        
+         
+        
+        
+          
+            )
+          
+        
+        .
+      
+    
+    {\displaystyle \varphi ^{n}={\tfrac {1}{2}}{\bigl (}L_{n}+F_{n}{\sqrt {5}}~\!{\bigr )}.}
+  
+
+Between Fibonacci and Lucas numbers one can deduce ⁠
+  
+    
+      
+        
+          
+            L
+            
+              2
+              n
+            
+          
+          =
+          5
+          
+            F
+            
+              n
+            
+            
+              2
+            
+          
+          +
+          2
+          (
+          −
+          1
+          
+            )
+            
+              n
+            
+          
+          =
+          
+            L
+            
+              n
+            
+            
+              2
+            
+          
+          −
+          2
+          (
+          −
+          1
+          
+            )
+            
+              n
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle L_{2n}=5F_{n}^{2}+2(-1)^{n}=L_{n}^{2}-2(-1)^{n}}
+  
+⁠, which simplifies to express the limit of the quotient of Lucas numbers by Fibonacci numbers as equal to the square root of five:
+
+  
+    
+      
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          
+            
+              L
+              
+                n
+              
+            
+            
+              F
+              
+                n
+              
+            
+          
+        
+        =
+        
+          
+            5
+          
+        
+        .
+      
+    
+    {\displaystyle \lim _{n\to \infty }{\frac {L_{n}}{F_{n}}}={\sqrt {5}}.}
+  
+
+Indeed, much stronger statements are true:
+
+  
+    
+      
+        
+          
+            
+              
+              
+                
+                
+                  
+                    |
+                  
+                
+                
+                  L
+                  
+                    n
+                  
+                
+                −
+                
+                  
+                    5
+                  
+                
+                
+                  F
+                  
+                    n
+                  
+                
+                
+                  
+                    |
+                  
+                
+                =
+                
+                  
+                    2
+                    
+                      φ
+                      
+                        n
+                      
+                    
+                  
+                
+                →
+                0
+                ,
+              
+            
+            
+              
+              
+                
+                
+                  
+                    (
+                  
+                
+                
+                  
+                    
+                      1
+                      2
+                    
+                  
+                
+                
+                  L
+                  
+                    3
+                    n
+                  
+                
+                
+                  
+                    
+                      )
+                    
+                  
+                  
+                    2
+                  
+                
+                =
+                5
+                
+                  
+                    (
+                  
+                
+                
+                  
+                    
+                      1
+                      2
+                    
+                  
+                
+                
+                  F
+                  
+                    3
+                    n
+                  
+                
+                
+                  
+                    
+                      )
+                    
+                  
+                  
+                    2
+                  
+                
+                +
+                (
+                −
+                1
+                
+                  )
+                  
+                    n
+                  
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}&{\bigl \vert }L_{n}-{\sqrt {5}}F_{n}{\bigr \vert }={\frac {2}{\varphi ^{n}}}\to 0,\\[5mu]&{\bigl (}{\tfrac {1}{2}}L_{3n}{\bigr )}^{2}=5{\bigl (}{\tfrac {1}{2}}F_{3n}{\bigr )}^{2}+(-1)^{n}.\end{aligned}}}
+  
+
+These values describe ⁠
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+⁠ as a fundamental unit of the algebraic number field ⁠
+  
+    
+      
+        
+          Q
+        
+        
+          
+            (
+          
+        
+        
+          
+            5
+          
+        
+         
+        
+        
+          
+            )
+          
+        
+      
+    
+    {\displaystyle \mathbb {Q} {\bigl (}{\sqrt {5}}~\!{\bigr )}}
+  
+⁠.
+Successive powers of the golden ratio obey the Fibonacci recurrence, ⁠
+  
+    
+      
+        
+          
+            φ
+            
+              n
+              +
+              1
+            
+          
+          =
+          
+            φ
+            
+              n
+            
+          
+          +
+          
+            φ
+            
+              n
+              −
+              1
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle \varphi ^{n+1}=\varphi ^{n}+\varphi ^{n-1}}
+  
+⁠.
+The reduction to a linear expression can be accomplished in one step by using:
+
+  
+    
+      
+        
+          φ
+          
+            n
+          
+        
+        =
+        
+          F
+          
+            n
+          
+        
+        φ
+        +
+        
+          F
+          
+            n
+            −
+            1
+          
+        
+        .
+      
+    
+    {\displaystyle \varphi ^{n}=F_{n}\varphi +F_{n-1}.}
+  
+
+This identity allows any polynomial in ⁠
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+⁠ to be reduced to a linear expression, as in:
+
+  
+    
+      
+        
+          
+            
+              
+                3
+                
+                  φ
+                  
+                    3
+                  
+                
+                −
+                5
+                
+                  φ
+                  
+                    2
+                  
+                
+                +
+                4
+              
+              
+                
+                =
+                3
+                (
+                
+                  φ
+                  
+                    2
+                  
+                
+                +
+                φ
+                )
+                −
+                5
+                
+                  φ
+                  
+                    2
+                  
+                
+                +
+                4
+              
+            
+            
+              
+              
+                
+                =
+                3
+                
+                  
+                    (
+                  
+                
+                (
+                φ
+                +
+                1
+                )
+                +
+                φ
+                
+                  
+                    )
+                  
+                
+                −
+                5
+                (
+                φ
+                +
+                1
+                )
+                +
+                4
+              
+            
+            
+              
+              
+                
+                =
+                φ
+                +
+                2
+                ≈
+                3.618033.
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}3\varphi ^{3}-5\varphi ^{2}+4&=3(\varphi ^{2}+\varphi )-5\varphi ^{2}+4\\[5mu]&=3{\bigl (}(\varphi +1)+\varphi {\bigr )}-5(\varphi +1)+4\\[5mu]&=\varphi +2\approx 3.618033.\end{aligned}}}
+  
+
+Consecutive Fibonacci numbers can also be used to obtain a similar formula for the golden ratio, here by infinite summation:
+
+  
+    
+      
+        
+          ∑
+          
+            n
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          
+            |
+          
+        
+        
+          F
+          
+            n
+          
+        
+        φ
+        −
+        
+          F
+          
+            n
+            +
+            1
+          
+        
+        
+          
+            |
+          
+        
+        =
+        φ
+        .
+      
+    
+    {\displaystyle \sum _{n=1}^{\infty }{\bigl |}F_{n}\varphi -F_{n+1}{\bigr |}=\varphi .}
+  
+
+In particular, the powers of ⁠
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+⁠ themselves round to Lucas numbers (in order, except for the first two powers, ⁠
+  
+    
+      
+        
+          
+            φ
+            
+              0
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle \varphi ^{0}}
+  
+⁠ and ⁠
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+⁠, are in reverse order):
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  φ
+                  
+                    0
+                  
+                
+              
+              
+                
+                =
+                1
+                ,
+              
+            
+            
+              
+                
+                  φ
+                  
+                    1
+                  
+                
+              
+              
+                
+                =
+                1.618033989
+                …
+                ≈
+                2
+                ,
+              
+            
+            
+              
+                
+                  φ
+                  
+                    2
+                  
+                
+              
+              
+                
+                =
+                2.618033989
+                …
+                ≈
+                3
+                ,
+              
+            
+            
+              
+                
+                  φ
+                  
+                    3
+                  
+                
+              
+              
+                
+                =
+                4.236067978
+                …
+                ≈
+                4
+                ,
+              
+            
+            
+              
+                
+                  φ
+                  
+                    4
+                  
+                
+              
+              
+                
+                =
+                6.854101967
+                …
+                ≈
+                7
+                ,
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\varphi ^{0}&=1,\\[5mu]\varphi ^{1}&=1.618033989\ldots \approx 2,\\[5mu]\varphi ^{2}&=2.618033989\ldots \approx 3,\\[5mu]\varphi ^{3}&=4.236067978\ldots \approx 4,\\[5mu]\varphi ^{4}&=6.854101967\ldots \approx 7,\end{aligned}}}
+  
+
+and so forth. The Lucas numbers also directly generate powers of the golden ratio; for ⁠
+  
+    
+      
+        n
+        ≥
+        2
+      
+    
+    {\displaystyle n\geq 2}
+  
+⁠:
+
+  
+    
+      
+        
+          φ
+          
+            n
+          
+        
+        =
+        
+          L
+          
+            n
+          
+        
+        −
+        (
+        −
+        φ
+        
+          )
+          
+            −
+            n
+          
+        
+        .
+      
+    
+    {\displaystyle \varphi ^{n}=L_{n}-(-\varphi )^{-n}.}
+  
+
+Rooted in their interconnecting relationship with the golden ratio is the notion that the sum of third consecutive Fibonacci numbers equals a Lucas number, that is ⁠
+  
+    
+      
+        
+          
+            L
+            
+              n
+            
+          
+          =
+          
+            F
+            
+              n
+              −
+              1
+            
+          
+          +
+          
+            F
+            
+              n
+              +
+              1
+            
+          
+          
+        
+      
+    
+    {\displaystyle \textstyle L_{n}=F_{n-1}+F_{n+1}\!}
+  
+⁠; and, importantly, that ⁠
+  
+    
+      
+        
+          
+            L
+            
+              n
+            
+          
+          
+            F
+            
+              n
+            
+          
+          =
+          
+            F
+            
+              2
+              n
+            
+          
+          
+        
+      
+    
+    {\displaystyle \textstyle L_{n}F_{n}=F_{2n}\!}
+  
+⁠.
+Both the Fibonacci sequence and the sequence of Lucas numbers can be used to generate approximate forms of the golden spiral (which is a special form of a logarithmic spiral) using quarter-circles with radii from these sequences, differing only slightly from the true golden logarithmic spiral. Fibonacci spiral is generally the term used for spirals that approximate golden spirals using Fibonacci number-sequenced squares and quarter-circles.
+
+Geometry
+The golden ratio features prominently in geometry. For example, it is intrinsically involved in the internal symmetry of the pentagon, and extends to form part of the coordinates of the vertices of a regular dodecahedron, as well as those of a regular icosahedron. It features in the Kepler triangle and Penrose tilings too, as well as in various other polytopes.
+
+Construction
+Dividing by interior division
+
+Having a line segment ⁠
+  
+    
+      
+        A
+        B
+      
+    
+    {\displaystyle AB}
+  
+⁠, construct a perpendicular ⁠
+  
+    
+      
+        B
+        C
+      
+    
+    {\displaystyle BC}
+  
+⁠ at point ⁠
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+  
+⁠, with ⁠
+  
+    
+      
+        B
+        C
+      
+    
+    {\displaystyle BC}
+  
+⁠ half the length of ⁠
+  
+    
+      
+        A
+        B
+      
+    
+    {\displaystyle AB}
+  
+⁠. Draw the hypotenuse ⁠
+  
+    
+      
+        A
+        C
+      
+    
+    {\displaystyle AC}
+  
+⁠.
+Draw an arc with center ⁠
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+  
+⁠ and radius ⁠
+  
+    
+      
+        B
+        C
+      
+    
+    {\displaystyle BC}
+  
+⁠. This arc intersects the hypotenuse ⁠
+  
+    
+      
+        A
+        C
+      
+    
+    {\displaystyle AC}
+  
+⁠ at point ⁠
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+  
+⁠.
+Draw an arc with center ⁠
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+⁠ and radius ⁠
+  
+    
+      
+        A
+        D
+      
+    
+    {\displaystyle AD}
+  
+⁠. This arc intersects the original line segment ⁠
+  
+    
+      
+        A
+        B
+      
+    
+    {\displaystyle AB}
+  
+⁠ at point ⁠
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+  
+⁠. Point ⁠
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+  
+⁠ divides the original line segment ⁠
+  
+    
+      
+        A
+        B
+      
+    
+    {\displaystyle AB}
+  
+⁠ into line segments ⁠
+  
+    
+      
+        A
+        S
+      
+    
+    {\displaystyle AS}
+  
+⁠ and ⁠
+  
+    
+      
+        S
+        B
+      
+    
+    {\displaystyle SB}
+  
+⁠ with lengths in the golden ratio.
+Dividing by exterior division
+
+Draw a line segment ⁠
+  
+    
+      
+        A
+        S
+      
+    
+    {\displaystyle AS}
+  
+⁠ and construct off the point ⁠
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+  
+⁠ a segment ⁠
+  
+    
+      
+        S
+        C
+      
+    
+    {\displaystyle SC}
+  
+⁠ perpendicular to ⁠
+  
+    
+      
+        A
+        S
+      
+    
+    {\displaystyle AS}
+  
+⁠ and with the same length as ⁠
+  
+    
+      
+        A
+        S
+      
+    
+    {\displaystyle AS}
+  
+⁠.
+Do bisect the line segment ⁠
+  
+    
+      
+        A
+        S
+      
+    
+    {\displaystyle AS}
+  
+⁠ with ⁠
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  
+⁠.
+A circular arc around ⁠
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  
+⁠ with radius ⁠
+  
+    
+      
+        M
+        C
+      
+    
+    {\displaystyle MC}
+  
+⁠ intersects in point ⁠
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+  
+⁠ the straight line through points ⁠
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+⁠ and ⁠
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+  
+⁠ (also known as the extension of ⁠
+  
+    
+      
+        A
+        S
+      
+    
+    {\displaystyle AS}
+  
+⁠). The ratio of ⁠
+  
+    
+      
+        A
+        S
+      
+    
+    {\displaystyle AS}
+  
+⁠ to the constructed segment ⁠
+  
+    
+      
+        S
+        B
+      
+    
+    {\displaystyle SB}
+  
+⁠ is the golden ratio.
+Application examples you can see in the articles Pentagon with a given side length, Decagon with given circumcircle and Decagon with a given side length.
+Both of the above displayed different algorithms produce geometric constructions that determine two aligned line segments where the ratio of the longer one to the shorter one is the golden ratio.
+
+Golden angle
+When two angles that make a full circle have measures in the golden ratio, the smaller is called the golden angle, with measure ⁠
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+  
+⁠:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    
+                      2
+                      π
+                      −
+                      g
+                    
+                    g
+                  
+                
+              
+              
+                
+                =
+                
+                  
+                    
+                      2
+                      π
+                    
+                    
+                      2
+                      π
+                      −
+                      g
+                    
+                  
+                
+                =
+                φ
+                ,
+              
+            
+            
+              
+                2
+                π
+                −
+                g
+              
+              
+                
+                =
+                
+                  
+                    
+                      2
+                      π
+                    
+                    φ
+                  
+                
+                ≈
+                
+                  222.5
+                  
+                    ∘
+                  
+                
+                
+                ,
+              
+            
+            
+              
+                g
+              
+              
+                
+                =
+                
+                  
+                    
+                      2
+                      π
+                    
+                    
+                      φ
+                      
+                        2
+                      
+                    
+                  
+                
+                ≈
+                
+                  137.5
+                  
+                    ∘
+                  
+                
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}{\frac {2\pi -g}{g}}&={\frac {2\pi }{2\pi -g}}=\varphi ,\\[8mu]2\pi -g&={\frac {2\pi }{\varphi }}\approx 222.5^{\circ }\!,\\[8mu]g&={\frac {2\pi }{\varphi ^{2}}}\approx 137.5^{\circ }\!.\end{aligned}}}
+  
+
+This angle occurs in patterns of plant growth as the optimal spacing of leaf shoots around plant stems so that successive leaves do not block sunlight from the leaves below them.
+
+Pentagonal symmetry system
+Pentagon and pentagram
+In a regular pentagon the ratio of a diagonal to a side is the golden ratio, while intersecting diagonals section each other in the golden ratio. The golden ratio properties of a regular pentagon can be confirmed by applying Ptolemy's theorem to the quadrilateral formed by removing one of its vertices. If the quadrilateral's long edge and diagonals are ⁠
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+⁠, and short edges are ⁠
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+  
+⁠, then Ptolemy's theorem gives ⁠
+  
+    
+      
+        
+          
+            a
+            
+              2
+            
+          
+          =
+          
+            b
+            
+              2
+            
+          
+          +
+          a
+          b
+        
+      
+    
+    {\displaystyle \textstyle a^{2}=b^{2}+ab}
+  
+⁠. Dividing both sides by ⁠
+  
+    
+      
+        a
+        b
+      
+    
+    {\displaystyle ab}
+  
+⁠ yields (see § Calculation above),
+
+  
+    
+      
+        
+          
+            a
+            b
+          
+        
+        =
+        
+          
+            
+              a
+              +
+              b
+            
+            a
+          
+        
+        =
+        φ
+        .
+      
+    
+    {\displaystyle {\frac {a}{b}}={\frac {a+b}{a}}=\varphi .}
+  
+
+The diagonal segments of a pentagon form a pentagram, or five-pointed star polygon, whose geometry is quintessentially described by ⁠
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+⁠. Primarily, each intersection of edges sections other edges in the golden ratio. The ratio of the length of the shorter segment to the segment bounded by the two intersecting edges (that is, a side of the inverted pentagon in the pentagram's center) is ⁠
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+⁠, as the four-color illustration shows.
+Pentagonal and pentagrammic geometry permits us to calculate the following values for ⁠
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+⁠:
+
+  
+    
+      
+        
+          
+            
+              
+                φ
+              
+              
+                
+                =
+                1
+                +
+                2
+                sin
+                ⁡
+                (
+                π
+                
+                  /
+                
+                10
+                )
+                =
+                1
+                +
+                2
+                sin
+                ⁡
+                
+                  18
+                  
+                    ∘
+                  
+                
+                
+                ,
+              
+            
+            
+              
+                φ
+              
+              
+                
+                =
+                
+                  
+                    
+                      1
+                      2
+                    
+                  
+                
+                csc
+                ⁡
+                (
+                π
+                
+                  /
+                
+                10
+                )
+                =
+                
+                  
+                    
+                      1
+                      2
+                    
+                  
+                
+                csc
+                ⁡
+                
+                  18
+                  
+                    ∘
+                  
+                
+                
+                ,
+              
+            
+            
+              
+                φ
+              
+              
+                
+                =
+                2
+                cos
+                ⁡
+                (
+                π
+                
+                  /
+                
+                5
+                )
+                =
+                2
+                cos
+                ⁡
+                
+                  36
+                  
+                    ∘
+                  
+                
+                
+                ,
+              
+            
+            
+              
+                φ
+              
+              
+                
+                =
+                2
+                sin
+                ⁡
+                (
+                3
+                π
+                
+                  /
+                
+                10
+                )
+                =
+                2
+                sin
+                ⁡
+                
+                  54
+                  
+                    ∘
+                  
+                
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\varphi &=1+2\sin(\pi /10)=1+2\sin 18^{\circ }\!,\\[5mu]\varphi &={\tfrac {1}{2}}\csc(\pi /10)={\tfrac {1}{2}}\csc 18^{\circ }\!,\\[5mu]\varphi &=2\cos(\pi /5)=2\cos 36^{\circ }\!,\\[5mu]\varphi &=2\sin(3\pi /10)=2\sin 54^{\circ }\!.\end{aligned}}}
+
+Golden triangle and golden gnomon
+The triangle formed by two diagonals and a side of a regular pentagon is called a golden triangle or sublime triangle. It is an acute isosceles triangle with apex angle ⁠
+  
+    
+      
+        
+          36
+          
+            ∘
+          
+        
+      
+    
+    {\displaystyle 36^{\circ }}
+  
+⁠ and base angles ⁠
+  
+    
+      
+        
+          72
+          
+            ∘
+          
+        
+        
+      
+    
+    {\displaystyle 72^{\circ }\!}
+  
+⁠. Its two equal sides are in the golden ratio to its base. The triangle formed by two sides and a diagonal of a regular pentagon is called a golden gnomon. It is an obtuse isosceles triangle with apex angle ⁠
+  
+    
+      
+        
+          108
+          
+            ∘
+          
+        
+      
+    
+    {\displaystyle 108^{\circ }}
+  
+⁠ and base angle ⁠
+  
+    
+      
+        
+          36
+          
+            ∘
+          
+        
+        
+      
+    
+    {\displaystyle 36^{\circ }\!}
+  
+⁠. Its base is in the golden ratio to its two equal sides. The pentagon can thus be subdivided into two golden gnomons and a central golden triangle. The five points of a regular pentagram are golden triangles, as are the ten triangles formed by connecting the vertices of a regular decagon to its center point.
+Bisecting one of the base angles of the golden triangle subdivides it into a smaller golden triangle and a golden gnomon. Analogously, any acute isosceles triangle can be subdivided into a similar triangle and an obtuse isosceles triangle, but the golden triangle is the only one for which this subdivision is made by the angle bisector, because it is the only isosceles triangle whose base angle is twice its apex angle. The angle bisector of the golden triangle subdivides the side that it meets in the golden ratio, and the areas of the two subdivided pieces are also in the golden ratio.
+If the apex angle of the golden gnomon is trisected, the trisector again subdivides it into a smaller golden gnomon and a golden triangle. The trisector subdivides the base in the golden ratio, and the two pieces have areas in the golden ratio. Analogously, any obtuse triangle can be subdivided into a similar triangle and an acute isosceles triangle, but the golden gnomon is the only one for which this subdivision is made by the angle trisector, because it is the only isosceles triangle whose apex angle is three times its base angle.
+
+Penrose tilings
+The golden ratio appears prominently in the Penrose tiling, a family of aperiodic tilings of the plane developed by Roger Penrose, inspired by Johannes Kepler's remark that pentagrams, decagons, and other shapes could fill gaps that pentagonal shapes alone leave when tiled together. Several variations of this tiling have been studied, all of whose prototiles exhibit the golden ratio:
+
+Penrose's original version of this tiling used four shapes: regular pentagons and pentagrams, "boat" figures with three points of a pentagram, and "diamond" shaped rhombi.
+The kite and dart Penrose tiling uses kites with three interior angles of ⁠
+  
+    
+      
+        
+          72
+          
+            ∘
+          
+        
+      
+    
+    {\displaystyle 72^{\circ }}
+  
+⁠ and one interior angle of ⁠
+  
+    
+      
+        
+          144
+          
+            ∘
+          
+        
+        
+      
+    
+    {\displaystyle 144^{\circ }\!}
+  
+⁠, and darts, concave quadrilaterals with two interior angles of ⁠
+  
+    
+      
+        
+          36
+          
+            ∘
+          
+        
+        
+      
+    
+    {\displaystyle 36^{\circ }\!}
+  
+⁠, one of ⁠
+  
+    
+      
+        
+          72
+          
+            ∘
+          
+        
+        
+      
+    
+    {\displaystyle 72^{\circ }\!}
+  
+⁠, and one non-convex angle of ⁠
+  
+    
+      
+        
+          216
+          
+            ∘
+          
+        
+        
+      
+    
+    {\displaystyle 216^{\circ }\!}
+  
+⁠. Special matching rules restrict how the tiles can meet at any edge, resulting in seven combinations of tiles at any vertex. Both the kites and darts have sides of two lengths, in the golden ratio to each other. The areas of these two tile shapes are also in the golden ratio to each other.
+The kite and dart can each be cut on their symmetry axes into a pair of golden triangles and golden gnomons, respectively. With suitable matching rules, these triangles, called in this context Robinson triangles, can be used as the prototiles for a form of the Penrose tiling.
+The rhombic Penrose tiling contains two types of rhombus, a thin rhombus with angles of ⁠
+  
+    
+      
+        
+          36
+          
+            ∘
+          
+        
+      
+    
+    {\displaystyle 36^{\circ }}
+  
+⁠ and ⁠
+  
+    
+      
+        
+          144
+          
+            ∘
+          
+        
+        
+      
+    
+    {\displaystyle 144^{\circ }\!}
+  
+⁠, and a thick rhombus with angles of ⁠
+  
+    
+      
+        
+          72
+          
+            ∘
+          
+        
+      
+    
+    {\displaystyle 72^{\circ }}
+  
+⁠ and ⁠
+  
+    
+      
+        
+          108
+          
+            ∘
+          
+        
+        
+      
+    
+    {\displaystyle 108^{\circ }\!}
+  
+⁠. All side lengths are equal, but the ratio of the length of sides to the short diagonal in the thin rhombus equals ⁠
+  
+    
+      
+        1
+        
+          :
+        
+        φ
+      
+    
+    {\displaystyle 1\mathbin {:} \varphi }
+  
+⁠, as does the ratio of the sides of to the long diagonal of the thick rhombus. As with the kite and dart tiling, the areas of the two rhombi are in the golden ratio to each other. Again, these rhombi can be decomposed into pairs of Robinson triangles.
+
+In triangles and quadrilaterals
+Odom's construction
+George Odom found a construction for ⁠
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+⁠ involving an equilateral triangle: if the line segment joining the midpoints of two sides is extended to intersect the circumcircle, then the two midpoints and the point of intersection with the circle are in golden proportion.
+
+Kepler triangle
+The Kepler triangle, named after Johannes Kepler, is the unique right triangle with sides in geometric progression:
+
+  
+    
+      
+        1
+        
+          :
+        
+        
+          
+            φ
+            
+              
+                
+                  
+                    +
+                  
+                
+              
+            
+          
+        
+        
+          :
+        
+        φ
+        .
+      
+    
+    {\displaystyle 1\mathbin {:} {\sqrt {\varphi {\vphantom {+}}}}\mathbin {:} \varphi .}
+  
+
+These side lengths are the three Pythagorean means of the two numbers ⁠
+  
+    
+      
+        φ
+        ±
+        1
+      
+    
+    {\displaystyle \varphi \pm 1}
+  
+⁠. The three squares on its sides have areas in the golden geometric progression ⁠
+  
+    
+      
+        
+          1
+          
+            :
+          
+          φ
+          
+            :
+          
+          
+            φ
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle 1\mathbin {:} \varphi \mathbin {:} \varphi ^{2}}
+  
+⁠.
+Among isosceles triangles, the ratio of inradius to side length is maximized for the triangle formed by two reflected copies of the Kepler triangle, sharing the longer of their two legs. The same isosceles triangle maximizes the ratio of the radius of a semicircle on its base to its perimeter.
+For a Kepler triangle with smallest side length ⁠
+  
+    
+      
+        s
+      
+    
+    {\displaystyle s}
+  
+⁠, the area and acute internal angles are:
+
+  
+    
+      
+        
+          
+            
+              
+                A
+              
+              
+                
+                =
+                
+                  
+                    
+                      1
+                      2
+                    
+                  
+                
+                
+                  s
+                  
+                    2
+                  
+                
+                
+                  
+                    φ
+                    
+                      
+                        
+                          
+                            +
+                          
+                        
+                      
+                    
+                  
+                
+                ,
+              
+            
+            
+              
+                θ
+              
+              
+                
+                =
+                
+                  sin
+                  
+                    −
+                    1
+                  
+                
+                ⁡
+                
+                  
+                    1
+                    φ
+                  
+                
+                ≈
+                
+                  38.1727
+                  
+                    ∘
+                  
+                
+                
+                ,
+              
+            
+            
+              
+                θ
+              
+              
+                
+                =
+                
+                  cos
+                  
+                    −
+                    1
+                  
+                
+                ⁡
+                
+                  
+                    1
+                    φ
+                  
+                
+                ≈
+                
+                  51.8273
+                  
+                    ∘
+                  
+                
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}A&={\tfrac {1}{2}}s^{2}{\sqrt {\varphi {\vphantom {+}}}},\\[5mu]\theta &=\sin ^{-1}{\frac {1}{\varphi }}\approx 38.1727^{\circ }\!,\\[5mu]\theta &=\cos ^{-1}{\frac {1}{\varphi }}\approx 51.8273^{\circ }\!.\end{aligned}}}
+
+Golden rectangle
+The golden ratio proportions the adjacent side lengths of a golden rectangle in ⁠
+  
+    
+      
+        1
+        
+          :
+        
+        φ
+      
+    
+    {\displaystyle 1\mathbin {:} \varphi }
+  
+⁠ ratio. Stacking golden rectangles produces golden rectangles anew, and removing or adding squares from golden rectangles leaves rectangles still proportioned in ⁠
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+⁠ ratio. They can be generated by golden spirals, through successive Fibonacci and Lucas number-sized squares and quarter circles. They feature prominently in the icosahedron as well as in the dodecahedron (see section below for more detail).
+
+Golden rhombus
+A golden rhombus is a rhombus whose diagonals are in proportion to the golden ratio, most commonly ⁠
+  
+    
+      
+        1
+        
+          :
+        
+        φ
+      
+    
+    {\displaystyle 1\mathbin {:} \varphi }
+  
+⁠. For a rhombus of such proportions, its acute angle and obtuse angles are:
+
+  
+    
+      
+        
+          
+            
+              
+                α
+              
+              
+                
+                =
+                2
+                arctan
+                ⁡
+                
+                  
+                    1
+                    φ
+                  
+                
+                ≈
+                
+                  63.43495
+                  
+                    ∘
+                  
+                
+                
+                ,
+              
+            
+            
+              
+                β
+              
+              
+                
+                =
+                2
+                arctan
+                ⁡
+                φ
+                =
+                π
+                −
+                arctan
+                ⁡
+                2
+                =
+                arctan
+                ⁡
+                1
+                +
+                arctan
+                ⁡
+                3
+                ≈
+                
+                  116.56505
+                  
+                    ∘
+                  
+                
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\alpha &=2\arctan {1 \over \varphi }\approx 63.43495^{\circ }\!,\\[5mu]\beta &=2\arctan \varphi =\pi -\arctan 2=\arctan 1+\arctan 3\approx 116.56505^{\circ }\!.\end{aligned}}}
+  
+
+The lengths of its short and long diagonals ⁠
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+  
+⁠ and ⁠
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+  
+⁠, in terms of side length ⁠
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+⁠ are:
+
+  
+    
+      
+        
+          
+            
+              
+                d
+              
+              
+                
+                =
+                
+                  
+                    
+                      2
+                      a
+                    
+                    
+                      2
+                      +
+                      φ
+                    
+                  
+                
+                =
+                2
+                
+                  
+                    
+                      
+                        3
+                        −
+                        φ
+                      
+                      5
+                    
+                  
+                
+                a
+                ≈
+                1.05146
+                a
+                ,
+              
+            
+            
+              
+                D
+              
+              
+                
+                =
+                2
+                
+                  
+                    
+                      
+                        2
+                        +
+                        φ
+                      
+                      5
+                    
+                  
+                
+                a
+                ≈
+                1.70130
+                a
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}d&={\frac {2a}{\sqrt {2+\varphi }}}=2{\sqrt {\frac {3-\varphi }{5}}}a\approx 1.05146a,\\[5mu]D&=2{\sqrt {\frac {2+\varphi }{5}}}a\approx 1.70130a.\end{aligned}}}
+  
+
+Its area, in terms of ⁠
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+⁠ and ⁠
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+  
+⁠:
+
+  
+    
+      
+        
+          
+            
+              
+                A
+              
+              
+                
+                =
+                sin
+                ⁡
+                (
+                arctan
+                ⁡
+                2
+                )
+                ⋅
+                
+                  a
+                  
+                    2
+                  
+                
+                =
+                
+                  
+                    2
+                    
+                      
+                        5
+                      
+                    
+                  
+                
+                 
+                
+                  a
+                  
+                    2
+                  
+                
+                ≈
+                0.89443
+                
+                  a
+                  
+                    2
+                  
+                
+                ,
+              
+            
+            
+              
+                A
+              
+              
+                
+                =
+                
+                  
+                    
+                      φ
+                    
+                    2
+                  
+                
+                
+                  d
+                  
+                    2
+                  
+                
+                ≈
+                0.80902
+                
+                  d
+                  
+                    2
+                  
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}A&=\sin(\arctan 2)\cdot a^{2}={2 \over {\sqrt {5}}}~a^{2}\approx 0.89443a^{2},\\[5mu]A&={{\varphi } \over 2}d^{2}\approx 0.80902d^{2}.\end{aligned}}}
+  
+
+Its inradius, in terms of side ⁠
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+⁠:
+
+  
+    
+      
+        r
+        =
+        
+          
+            a
+            
+              5
+            
+          
+        
+        .
+      
+    
+    {\displaystyle r={\frac {a}{\sqrt {5}}}.}
+  
+
+Golden rhombi form the faces of the rhombic triacontahedron, the two golden rhombohedra, the Bilinski dodecahedron, and the rhombic hexecontahedron.
+
+Golden spiral
+Logarithmic spirals are self-similar spirals where distances covered per turn are in geometric progression. A logarithmic spiral whose radius increases by a factor of the golden ratio for each quarter-turn is called the golden spiral. These spirals can be approximated by quarter-circles that grow by the golden ratio, or their approximations generated from Fibonacci numbers, often depicted inscribed within a spiraling pattern of squares growing in the same ratio. The exact logarithmic spiral form of the golden spiral can be described by the polar equation with ⁠
+  
+    
+      
+        (
+        r
+        ,
+        θ
+        )
+      
+    
+    {\displaystyle (r,\theta )}
+  
+⁠:
+
+  
+    
+      
+        r
+        =
+        
+          φ
+          
+            2
+            θ
+            
+              /
+            
+            π
+          
+        
+        .
+      
+    
+    {\displaystyle r=\varphi ^{2\theta /\pi }.}
+  
+
+Not all logarithmic spirals are connected to the golden ratio, and not all spirals that are connected to the golden ratio are the same shape as the golden spiral. For instance, a different logarithmic spiral, encasing a nested sequence of golden isosceles triangles, grows by the golden ratio for each ⁠
+  
+    
+      
+        
+          108
+          
+            ∘
+          
+        
+      
+    
+    {\displaystyle 108^{\circ }}
+  
+⁠ that it turns, instead of the ⁠
+  
+    
+      
+        
+          90
+          
+            ∘
+          
+        
+      
+    
+    {\displaystyle 90^{\circ }}
+  
+⁠ turning angle of the golden spiral. Another variation, called the "better golden spiral", grows by the golden ratio for each half-turn, rather than each quarter-turn.
+
+Dodecahedron and icosahedron
+The regular dodecahedron and its dual polyhedron the icosahedron are Platonic solids whose dimensions are related to the golden ratio. A dodecahedron has ⁠
+  
+    
+      
+        12
+      
+    
+    {\displaystyle 12}
+  
+⁠ regular pentagonal faces, whereas an icosahedron has ⁠
+  
+    
+      
+        20
+      
+    
+    {\displaystyle 20}
+  
+⁠ equilateral triangles; both have ⁠
+  
+    
+      
+        30
+      
+    
+    {\displaystyle 30}
+  
+⁠ edges.
+For a dodecahedron of side ⁠
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+⁠, the radius of a circumscribed and inscribed sphere, and midradius are (⁠
+  
+    
+      
+        
+          r
+          
+            u
+          
+        
+      
+    
+    {\displaystyle r_{u}}
+  
+⁠, ⁠
+  
+    
+      
+        
+          r
+          
+            i
+          
+        
+      
+    
+    {\displaystyle r_{i}}
+  
+⁠, and ⁠
+  
+    
+      
+        
+          r
+          
+            m
+          
+        
+      
+    
+    {\displaystyle r_{m}}
+  
+⁠, respectively):
+
+While for an icosahedron of side ⁠
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+⁠, the radius of a circumscribed and inscribed sphere, and midradius are:
+
+The volume and surface area of the dodecahedron can be expressed in terms of ⁠
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+⁠:
+
+As well as for the icosahedron:
+
+These geometric values can be calculated from their Cartesian coordinates, which also can be given using formulas involving ⁠
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+⁠. The coordinates of the dodecahedron are displayed on the figure to the right, while those of the icosahedron are:
+
+  
+    
+      
+        (
+        0
+        ,
+        ±
+        1
+        ,
+        ±
+        φ
+        )
+        ,
+         
+        (
+        ±
+        1
+        ,
+        ±
+        φ
+        ,
+        0
+        )
+        ,
+         
+        (
+        ±
+        φ
+        ,
+        0
+        ,
+        ±
+        1
+        )
+        .
+      
+    
+    {\displaystyle (0,\pm 1,\pm \varphi ),\ (\pm 1,\pm \varphi ,0),\ (\pm \varphi ,0,\pm 1).}
+  
+
+Sets of three golden rectangles intersect perpendicularly inside dodecahedra and icosahedra, forming Borromean rings. In dodecahedra, pairs of opposing vertices in golden rectangles meet the centers of pentagonal faces, and in icosahedra, they meet at its vertices. The three golden rectangles together contain all ⁠
+  
+    
+      
+        12
+      
+    
+    {\displaystyle 12}
+  
+⁠ vertices of the icosahedron, or equivalently, intersect the centers of all ⁠
+  
+    
+      
+        12
+      
+    
+    {\displaystyle 12}
+  
+⁠ of the dodecahedron's faces.
+A cube can be inscribed in a regular dodecahedron, with some of the diagonals of the pentagonal faces of the dodecahedron serving as the cube's edges; therefore, the edge lengths are in the golden ratio. The cube's volume is ⁠
+  
+    
+      
+        2
+        
+          /
+        
+        (
+        2
+        +
+        φ
+        )
+      
+    
+    {\displaystyle 2/(2+\varphi )}
+  
+⁠ times that of the dodecahedron's. In fact, golden rectangles inside a dodecahedron are in golden proportions to an inscribed cube, such that edges of a cube and the long edges of a golden rectangle are themselves in ⁠
+  
+    
+      
+        
+          φ
+          
+            :
+          
+          
+            φ
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle \varphi \mathbin {:} \varphi ^{2}}
+  
+⁠ ratio. On the other hand, the octahedron, which is the dual polyhedron of the cube, can inscribe an icosahedron, such that an icosahedron's ⁠
+  
+    
+      
+        12
+      
+    
+    {\displaystyle 12}
+  
+⁠ vertices touch the ⁠
+  
+    
+      
+        12
+      
+    
+    {\displaystyle 12}
+  
+⁠ edges of an octahedron at points that divide its edges in golden ratio.
+
+Other properties
+The golden ratio's decimal expansion can be calculated via root-finding methods, such as Newton's method or Halley's method, on the equation ⁠
+  
+    
+      
+        
+          
+            x
+            
+              2
+            
+          
+          −
+          x
+          −
+          1
+          =
+          0
+        
+      
+    
+    {\displaystyle \textstyle x^{2}-x-1=0}
+  
+⁠ or on ⁠
+  
+    
+      
+        
+          
+            x
+            
+              2
+            
+          
+          −
+          5
+          =
+          0
+        
+      
+    
+    {\displaystyle \textstyle x^{2}-5=0}
+  
+⁠ (to compute ⁠
+  
+    
+      
+        
+          
+            5
+          
+        
+      
+    
+    {\displaystyle {\sqrt {5}}}
+  
+⁠ first). The time needed to compute ⁠
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+⁠ digits of the golden ratio using Newton's method is essentially ⁠
+  
+    
+      
+        O
+        (
+        M
+        (
+        n
+        )
+        )
+      
+    
+    {\displaystyle O(M(n))}
+  
+⁠, where ⁠
+  
+    
+      
+        M
+        (
+        n
+        )
+      
+    
+    {\displaystyle M(n)}
+  
+⁠ is the time complexity of multiplying two ⁠
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+⁠-digit numbers. This is considerably faster than known algorithms for π and e. An easily programmed alternative using only integer arithmetic is to calculate two large consecutive Fibonacci numbers and divide them. The ratio of Fibonacci numbers ⁠
+  
+    
+      
+        
+          F
+          
+            25001
+          
+        
+      
+    
+    {\displaystyle F_{25001}}
+  
+⁠ and ⁠
+  
+    
+      
+        
+          F
+          
+            25000
+          
+        
+      
+    
+    {\displaystyle F_{25000}}
+  
+⁠, each over ⁠
+  
+    
+      
+        5000
+      
+    
+    {\displaystyle 5000}
+  
+⁠ digits, yields over ⁠
+  
+    
+      
+        10,000
+      
+    
+    {\displaystyle 10{,}000}
+  
+⁠ significant digits of the golden ratio. The decimal expansion of the golden ratio ⁠
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+⁠ has been calculated to an accuracy of twenty trillion (⁠
+  
+    
+      
+        
+          2
+          ×
+          
+            10
+            
+              13
+            
+          
+          =
+          20,000,000,000,000
+        
+      
+    
+    {\displaystyle \textstyle 2\times 10^{13}=20{,}000{,}000{,}000{,}000}
+  
+⁠) digits.
+In the complex plane, the fifth roots of unity ⁠
+  
+    
+      
+        
+          z
+          =
+          
+            e
+            
+              2
+              π
+              k
+              i
+              
+                /
+              
+              5
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle z=e^{2\pi ki/5}}
+  
+⁠ (for an integer ⁠
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  
+⁠) satisfying ⁠
+  
+    
+      
+        
+          
+            z
+            
+              5
+            
+          
+          =
+          1
+        
+      
+    
+    {\displaystyle \textstyle z^{5}=1}
+  
+⁠ are the vertices of a pentagon. They do not form a ring of quadratic integers, however the sum of any fifth root of unity and its complex conjugate, ⁠
+  
+    
+      
+        z
+        +
+        
+          
+            
+              z
+              ¯
+            
+          
+        
+      
+    
+    {\displaystyle z+{\bar {z}}}
+  
+⁠, is a quadratic integer, an element of ⁠
+  
+    
+      
+        
+          Z
+        
+        [
+        φ
+        ]
+      
+    
+    {\displaystyle \mathbb {Z} [\varphi ]}
+  
+⁠. Specifically,
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  e
+                  
+                    0
+                  
+                
+                +
+                
+                  e
+                  
+                    −
+                    0
+                  
+                
+              
+              
+                
+                =
+                2
+                ,
+              
+            
+            
+              
+                
+                  e
+                  
+                    2
+                    π
+                    i
+                    
+                      /
+                    
+                    5
+                  
+                
+                +
+                
+                  e
+                  
+                    −
+                    2
+                    π
+                    i
+                    
+                      /
+                    
+                    5
+                  
+                
+              
+              
+                
+                =
+                
+                  φ
+                  
+                    −
+                    1
+                  
+                
+                =
+                −
+                1
+                +
+                φ
+                ,
+              
+            
+            
+              
+                
+                  e
+                  
+                    4
+                    π
+                    i
+                    
+                      /
+                    
+                    5
+                  
+                
+                +
+                
+                  e
+                  
+                    −
+                    4
+                    π
+                    i
+                    
+                      /
+                    
+                    5
+                  
+                
+              
+              
+                
+                =
+                −
+                φ
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}e^{0}+e^{-0}&=2,\\[5mu]e^{2\pi i/5}+e^{-2\pi i/5}&=\varphi ^{-1}=-1+\varphi ,\\[5mu]e^{4\pi i/5}+e^{-4\pi i/5}&=-\varphi .\end{aligned}}}
+  
+
+This also holds for the remaining tenth roots of unity satisfying ⁠
+  
+    
+      
+        
+          
+            z
+            
+              10
+            
+          
+          =
+          1
+        
+      
+    
+    {\displaystyle \textstyle z^{10}=1}
+  
+⁠,
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  e
+                  
+                    π
+                    i
+                  
+                
+                +
+                
+                  e
+                  
+                    −
+                    π
+                    i
+                  
+                
+              
+              
+                
+                =
+                −
+                2
+                ,
+              
+            
+            
+              
+                
+                  e
+                  
+                    π
+                    i
+                    
+                      /
+                    
+                    5
+                  
+                
+                +
+                
+                  e
+                  
+                    −
+                    π
+                    i
+                    
+                      /
+                    
+                    5
+                  
+                
+              
+              
+                
+                =
+                φ
+                ,
+              
+            
+            
+              
+                
+                  e
+                  
+                    3
+                    π
+                    i
+                    
+                      /
+                    
+                    5
+                  
+                
+                +
+                
+                  e
+                  
+                    −
+                    3
+                    π
+                    i
+                    
+                      /
+                    
+                    5
+                  
+                
+              
+              
+                
+                =
+                −
+                
+                  φ
+                  
+                    −
+                    1
+                  
+                
+                =
+                1
+                −
+                φ
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}e^{\pi i}+e^{-\pi i}&=-2,\\[5mu]e^{\pi i/5}+e^{-\pi i/5}&=\varphi ,\\[5mu]e^{3\pi i/5}+e^{-3\pi i/5}&=-\varphi ^{-1}=1-\varphi .\end{aligned}}}
+  
+
+For the gamma function ⁠
+  
+    
+      
+        Γ
+      
+    
+    {\displaystyle \Gamma }
+  
+⁠, the only solutions to the equation ⁠
+  
+    
+      
+        Γ
+        (
+        z
+        −
+        1
+        )
+        =
+        Γ
+        (
+        z
+        +
+        1
+        )
+      
+    
+    {\displaystyle \Gamma (z-1)=\Gamma (z+1)}
+  
+⁠ are ⁠
+  
+    
+      
+        z
+        =
+        φ
+      
+    
+    {\displaystyle z=\varphi }
+  
+⁠ and ⁠
+  
+    
+      
+        
+          z
+          =
+          −
+          
+            φ
+            
+              −
+              1
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle z=-\varphi ^{-1}}
+  
+⁠.
+When the golden ratio is used as the base of a numeral system (see golden ratio base, sometimes dubbed phinary or ⁠
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+⁠-nary), quadratic integers in the ring ⁠
+  
+    
+      
+        
+          Z
+        
+        [
+        φ
+        ]
+      
+    
+    {\displaystyle \mathbb {Z} [\varphi ]}
+  
+⁠ – that is, numbers of the form ⁠
+  
+    
+      
+        a
+        +
+        b
+        φ
+      
+    
+    {\displaystyle a+b\varphi }
+  
+⁠ for ⁠
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+⁠ and ⁠
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+  
+⁠ in ⁠
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+  
+⁠ – have terminating representations, but rational fractions have non-terminating representations.
+The golden ratio also appears in hyperbolic geometry, as the maximum distance from a point on one side of an ideal triangle to the closer of the other two sides: this distance, the side length of the equilateral triangle formed by the points of tangency of a circle inscribed within the ideal triangle, is ⁠
+  
+    
+      
+        4
+        log
+        ⁡
+        (
+        φ
+        )
+      
+    
+    {\displaystyle 4\log(\varphi )}
+  
+⁠.
+The golden ratio appears in the theory of modular functions as well. For 
+  
+    
+      
+        
+          |
+        
+        q
+        
+          |
+        
+        <
+        1
+        ,
+      
+    
+    {\displaystyle |q|<1,}
+  
+ let
+
+  
+    
+      
+        R
+        (
+        q
+        )
+        =
+        
+          
+            
+              
+                
+              
+              
+                
+                  
+                    q
+                    
+                      1
+                      
+                        /
+                      
+                      5
+                    
+                  
+                
+              
+            
+            
+              
+                
+              
+              
+                
+                  1
+                  +
+                  
+                    
+                      
+                        
+                          
+                        
+                        
+                          
+                            q
+                          
+                        
+                      
+                      
+                        
+                          
+                        
+                        
+                          
+                            1
+                            +
+                            
+                              
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+                                      
+                                        q
+                                        
+                                          2
+                                        
+                                      
+                                    
+                                  
+                                
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+                                      1
+                                      +
+                                      
+                                        
+                                          
+                                            
+                                              
+                                            
+                                            
+                                              
+                                                
+                                                  q
+                                                  
+                                                    3
+                                                  
+                                                
+                                              
+                                            
+                                          
+                                          
+                                            
+                                              
+                                            
+                                            
+                                              
+                                                1
+                                                +
+                                                
+                                                  
+                                                    
+                                                      
+                                                        
+                                                          
+                                                            1
+                                                          
+                                                        
+                                                      
+                                                    
+                                                    ⋱
+                                                  
+                                                
+                                              
+                                            
+                                          
+                                        
+                                      
+                                    
+                                  
+                                
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle R(q)={\cfrac {q^{1/5}}{1+{\cfrac {q}{1+{\cfrac {q^{2}}{1+{\cfrac {q^{3}}{1+{{\vphantom {1}} \atop \ddots }}}}}}}}}.}
+  
+
+Then
+
+  
+    
+      
+        R
+        (
+        
+          e
+          
+            −
+            2
+            π
+          
+        
+        )
+        =
+        
+          
+            φ
+            
+              
+                5
+              
+            
+          
+        
+        −
+        φ
+        ,
+        
+        R
+        (
+        −
+        
+          e
+          
+            −
+            π
+          
+        
+        )
+        =
+        
+          φ
+          
+            −
+            1
+          
+        
+        −
+        
+          
+            2
+            −
+            
+              φ
+              
+                −
+                1
+              
+            
+          
+        
+      
+    
+    {\displaystyle R(e^{-2\pi })={\sqrt {\varphi {\sqrt {5}}}}-\varphi ,\quad R(-e^{-\pi })=\varphi ^{-1}-{\sqrt {2-\varphi ^{-1}}}}
+  
+
+and
+
+  
+    
+      
+        R
+        (
+        
+          e
+          
+            −
+            2
+            π
+            i
+            
+              /
+            
+            τ
+          
+        
+        )
+        =
+        
+          
+            
+              1
+              −
+              φ
+              R
+              (
+              
+                e
+                
+                  2
+                  π
+                  i
+                  τ
+                
+              
+              )
+            
+            
+              φ
+              +
+              R
+              (
+              
+                e
+                
+                  2
+                  π
+                  i
+                  τ
+                
+              
+              )
+            
+          
+        
+      
+    
+    {\displaystyle R(e^{-2\pi i/\tau })={\frac {1-\varphi R(e^{2\pi i\tau })}{\varphi +R(e^{2\pi i\tau })}}}
+  
+
+where ⁠
+  
+    
+      
+        Im
+        ⁡
+        τ
+        >
+        0
+      
+    
+    {\displaystyle \operatorname {Im} \tau >0}
+  
+⁠ and ⁠
+  
+    
+      
+        
+          (
+          
+            e
+            
+              z
+            
+          
+          
+            )
+            
+              1
+              
+                /
+              
+              5
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle (e^{z})^{1/5}}
+  
+⁠ in the continued fraction should be evaluated as ⁠
+  
+    
+      
+        
+          
+            e
+            
+              z
+              
+                /
+              
+              5
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle e^{z/5}}
+  
+⁠. The function ⁠
+  
+    
+      
+        
+          τ
+          ↦
+          R
+          (
+          
+            e
+            
+              2
+              π
+              i
+              τ
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \textstyle \tau \mapsto R(e^{2\pi i\tau })}
+  
+⁠ is invariant under ⁠
+  
+    
+      
+        Γ
+        (
+        5
+        )
+      
+    
+    {\displaystyle \Gamma (5)}
+  
+⁠, a congruence subgroup of the modular group. Also for positive real numbers ⁠
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+⁠ and ⁠
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+  
+⁠ such that ⁠
+  
+    
+      
+        
+          a
+          b
+          =
+          
+            π
+            
+              2
+            
+          
+          ,
+        
+      
+    
+    {\displaystyle \textstyle ab=\pi ^{2},}
+  
+⁠
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    (
+                  
+                
+                φ
+                +
+                R
+                
+                  
+                    
+                      (
+                    
+                  
+                  
+                    e
+                    
+                      −
+                      2
+                      a
+                    
+                  
+                  
+                    
+                      )
+                    
+                  
+                
+                
+                  
+                    )
+                  
+                
+                
+                  
+                    (
+                  
+                
+                φ
+                +
+                R
+                
+                  
+                    
+                      (
+                    
+                  
+                  
+                    e
+                    
+                      −
+                      2
+                      b
+                    
+                  
+                  
+                    
+                      )
+                    
+                  
+                
+                
+                  
+                    )
+                  
+                
+              
+              
+                
+                =
+                φ
+                
+                  
+                    5
+                  
+                
+                ,
+              
+            
+            
+              
+                
+                  
+                    (
+                  
+                
+                
+                  φ
+                  
+                    −
+                    1
+                  
+                
+                −
+                R
+                
+                  
+                    
+                      (
+                    
+                  
+                  
+                    −
+                    
+                      e
+                      
+                        −
+                        a
+                      
+                    
+                  
+                  
+                    
+                      )
+                    
+                  
+                
+                
+                  
+                    )
+                  
+                
+                
+                  
+                    (
+                  
+                
+                
+                  φ
+                  
+                    −
+                    1
+                  
+                
+                −
+                R
+                
+                  
+                    
+                      (
+                    
+                  
+                  
+                    −
+                    
+                      e
+                      
+                        −
+                        b
+                      
+                    
+                  
+                  
+                    
+                      )
+                    
+                  
+                
+                
+                  
+                    )
+                  
+                
+              
+              
+                
+                =
+                
+                  φ
+                  
+                    −
+                    1
+                  
+                
+                
+                  
+                    5
+                  
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}{\Bigl (}\varphi +R{{\bigl (}e^{-2a}{\bigr )}}{\Bigr )}{\Bigl (}\varphi +R{{\bigl (}e^{-2b}{\bigr )}}{\Bigr )}&=\varphi {\sqrt {5}},\\[5mu]{\Bigl (}\varphi ^{-1}-R{{\bigl (}{-e^{-a}}{\bigr )}}{\Bigr )}{\Bigl (}\varphi ^{-1}-R{{\bigl (}{-e^{-b}}{\bigr )}}{\Bigr )}&=\varphi ^{-1}{\sqrt {5}}.\end{aligned}}}
+  
+
+⁠
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+⁠ is a Pisot–Vijayaraghavan number.
+
+Applications and observations
+Architecture
+The Swiss architect Le Corbusier, famous for his contributions to the modern international style, centered his design philosophy on systems of harmony and proportion. Le Corbusier's faith in the mathematical order of the universe was closely bound to the golden ratio and the Fibonacci series, which he described as "rhythms apparent to the eye and clear in their relations with one another. And these rhythms are at the very root of human activities. They resound in man by an organic inevitability, the same fine inevitability which causes the tracing out of the Golden Section by children, old men, savages and the learned."
+Le Corbusier explicitly used the golden ratio in his Modulor system for the scale of architectural proportion. He saw this system as a continuation of the long tradition of Vitruvius, Leonardo da Vinci's "Vitruvian Man", the work of Leon Battista Alberti, and others who used the proportions of the human body to improve the appearance and function of architecture.
+In addition to the golden ratio, Le Corbusier based the system on human measurements, Fibonacci numbers, and the double unit. He took suggestion of the golden ratio in human proportions to an extreme: he sectioned his model human body's height at the navel with the two sections in golden ratio, then subdivided those sections in golden ratio at the knees and throat; he used these golden ratio proportions in the Modulor system. Le Corbusier's 1927 Villa Stein in Garches exemplified the Modulor system's application. The villa's rectangular ground plan, elevation, and inner structure closely approximate golden rectangles.
+Another Swiss architect, Mario Botta, bases many of his designs on geometric figures. Several private houses he designed in Switzerland are composed of squares and circles, cubes and cylinders. In a house he designed in Origlio, the golden ratio is the proportion between the central section and the side sections of the house.
+
+Art
+Leonardo da Vinci's illustrations of polyhedra in Pacioli's Divina proportione have led some to speculate that he incorporated the golden ratio in his paintings. But the suggestion that his Mona Lisa, for example, employs golden ratio proportions, is not supported by Leonardo's own writings. Similarly, although Leonardo's Vitruvian Man is often shown in connection with the golden ratio, the proportions of the figure do not actually match it, and the text only mentions whole number ratios.
+Salvador Dalí, influenced by the works of Matila Ghyka, explicitly used the golden ratio in his masterpiece, The Sacrament of the Last Supper. The dimensions of the canvas are a golden rectangle. A huge dodecahedron, in perspective so that edges appear in golden ratio to one another, is suspended above and behind Jesus and dominates the composition.
+A statistical study on 565 works of art of different great painters, performed in 1999, found that these artists had not used the golden ratio in the size of their canvases. The study concluded that the average ratio of the two sides of the paintings studied is ⁠
+  
+    
+      
+        1.34
+      
+    
+    {\displaystyle 1.34}
+  
+⁠, with averages for individual artists ranging from ⁠
+  
+    
+      
+        1.04
+      
+    
+    {\displaystyle 1.04}
+  
+⁠ (Goya) to ⁠
+  
+    
+      
+        1.46
+      
+    
+    {\displaystyle 1.46}
+  
+⁠ (Bellini). On the other hand, Pablo Tosto listed over 350 works by well-known artists, including more than 100 which have canvasses with golden rectangle and ⁠
+  
+    
+      
+        
+          
+            5
+          
+        
+      
+    
+    {\displaystyle {\sqrt {5}}}
+  
+⁠ proportions, and others with proportions like ⁠
+  
+    
+      
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}}
+  
+⁠, ⁠
+  
+    
+      
+        3
+      
+    
+    {\displaystyle 3}
+  
+⁠, ⁠
+  
+    
+      
+        4
+      
+    
+    {\displaystyle 4}
+  
+⁠, and ⁠
+  
+    
+      
+        6
+      
+    
+    {\displaystyle 6}
+  
+⁠.
+
+Books and design
+According to Jan Tschichold,
+
+There was a time when deviations from the truly beautiful page proportions ⁠
+  
+    
+      
+        2
+        
+          :
+        
+        3
+      
+    
+    {\displaystyle 2\mathbin {:} 3}
+  
+⁠, ⁠
+  
+    
+      
+        1
+        
+          :
+        
+        
+          
+            3
+          
+        
+      
+    
+    {\displaystyle 1\mathbin {:} {\sqrt {3}}}
+  
+⁠, and the Golden Section were rare. Many books produced between 1550 and 1770 show these proportions exactly, to within half a millimeter.
+According to some sources, the golden ratio is used in everyday design, for example in the proportions of playing cards, postcards, posters, light switch plates, and widescreen televisions.
+
+Flags
+The aspect ratio (width to height ratio) of the flag of Togo was intended to be the golden ratio, according to its designer.
+
+Music
+Ernő Lendvai analyzes Béla Bartók's works as being based on two opposing systems, that of the golden ratio and the acoustic scale, though other music scholars reject that analysis. French composer Erik Satie used the golden ratio in several of his pieces, including Sonneries de la Rose+Croix. The golden ratio is also apparent in the organization of the sections in the music of Debussy's Reflets dans l'eau (Reflections in water), from Images (1st series, 1905), in which "the sequence of keys is marked out by the intervals 34, 21, 13 and 8, and the main climax sits at the phi position".
+The musicologist Roy Howat has observed that the formal boundaries of Debussy's La Mer correspond exactly to the golden section. Trezise finds the intrinsic evidence "remarkable", but cautions that no written or reported evidence suggests that Debussy consciously sought such proportions.
+Music theorists including Hans Zender and Heinz Bohlen have experimented with the 833 cents scale, a musical scale based on using the golden ratio as its fundamental musical interval. When measured in cents, a logarithmic scale for musical intervals, the golden ratio is approximately 833.09 cents.
+
+Nature
+Johannes Kepler wrote that "the image of man and woman stems from the divine proportion. In my opinion, the propagation of plants and the progenitive acts of animals are in the same ratio".
+The psychologist Adolf Zeising noted that the golden ratio appeared in phyllotaxis and argued from these patterns in nature that the golden ratio was a universal law. Zeising wrote in 1854 of a universal orthogenetic law of "striving for beauty and completeness in the realms of both nature and art".
+However, some have argued that many apparent manifestations of the golden ratio in nature, especially in regard to animal dimensions, are fictitious.
+
+Physics
+The quasi-one-dimensional Ising ferromagnet 
+  
+    
+      
+        
+          
+            CoNb
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              6
+            
+            
+              
+            
+          
+        
+      
+    
+    {\textstyle {\ce {CoNb2O6}}}
+  
+ (cobalt niobate) has ⁠
+  
+    
+      
+        8
+      
+    
+    {\displaystyle 8}
+  
+⁠ predicted excitation states (with ⁠
+  
+    
+      
+        
+          E
+          
+            8
+          
+        
+      
+    
+    {\displaystyle E_{8}}
+  
+⁠ symmetry), that when probed with neutron scattering, showed its lowest two were in golden ratio. Specifically, these quantum phase transitions during spin excitation, which occur at near absolute zero temperature, showed pairs of kinks in its ordered-phase to spin-flips in its paramagnetic phase; revealing, just below its critical field, a spin dynamics with sharp modes at low energies approaching the golden mean.
+
+Optimization
+There is no known general algorithm to arrange a given number of nodes evenly on a sphere, for any of several definitions of even distribution (see, for example, Thomson problem or Tammes problem). However, a useful approximation results from dividing the sphere into parallel bands of equal surface area and placing one node in each band at longitudes spaced by a golden section of the circle, i.e. ⁠
+  
+    
+      
+        
+          360
+          
+            ∘
+          
+        
+         
+        
+        
+          /
+        
+        φ
+        ≈
+        
+          222.5
+          
+            ∘
+          
+        
+        
+      
+    
+    {\displaystyle 360^{\circ }~\!/\varphi \approx 222.5^{\circ }\!}
+  
+⁠. This method was used to arrange the ⁠
+  
+    
+      
+        1500
+      
+    
+    {\displaystyle 1500}
+  
+⁠ mirrors of the student-participatory satellite Starshine-3.
+
+The golden ratio is a critical element to golden-section search as well.
+
+Disputed observations
+Examples of disputed observations of the golden ratio include the following:
+
+Specific proportions in the bodies of vertebrates (including humans) are often claimed to be in the golden ratio; for example the ratio of successive phalangeal and metacarpal bones (finger bones) has been said to approximate the golden ratio. There is a large variation in the real measures of these elements in specific individuals, however, and the proportion in question is often significantly different from the golden ratio.
+The shells of mollusks such as the nautilus are often claimed to be in the golden ratio. The growth of nautilus shells follows a logarithmic spiral, and it is sometimes erroneously claimed that any logarithmic spiral is related to the golden ratio, or sometimes claimed that each new chamber is golden-proportioned relative to the previous one. However, measurements of nautilus shells do not support this claim.
+Historian John Man states that both the pages and text area of the Gutenberg Bible were "based on the golden section shape". However, according to his own measurements, the ratio of height to width of the pages is ⁠
+  
+    
+      
+        1.45
+      
+    
+    {\displaystyle 1.45}
+  
+⁠.
+Studies by psychologists, starting with Gustav Fechner c. 1876, have been devised to test the idea that the golden ratio plays a role in human perception of beauty. While Fechner found a preference for rectangle ratios centered on the golden ratio, later attempts to carefully test such a hypothesis have been, at best, inconclusive.
+In investing, some practitioners of technical analysis use the golden ratio to indicate support of a price level, or resistance to price increases, of a stock or commodity; after significant price changes up or down, new support and resistance levels are supposedly found at or near prices related to the starting price via the golden ratio. The use of the golden ratio in investing is also related to more complicated patterns described by Fibonacci numbers (e.g. Elliott wave principle and Fibonacci retracement). However, other market analysts have published analyses suggesting that these percentages and patterns are not supported by the data.
+
+Egyptian pyramids
+The Great Pyramid of Giza (also known as the Pyramid of Cheops or Khufu) has been analyzed by pyramidologists as having a doubled Kepler triangle as its cross-section. If this theory were true, the golden ratio would describe the ratio of distances from the midpoint of one of the sides of the pyramid to its apex, and from the same midpoint to the center of the pyramid's base. However, imprecision in measurement caused in part by the removal of the outer surface of the pyramid makes it impossible to distinguish this theory from other numerical theories of the proportions of the pyramid, based on pi or on whole-number ratios. The consensus of modern scholars is that this pyramid's proportions are not based on the golden ratio, because such a basis would be inconsistent both with what is known about Egyptian mathematics from the time of construction of the pyramid, and with Egyptian theories of architecture and proportion used in their other works.
+
+The Parthenon
+The Parthenon's façade (c. 432 BC) as well as elements of its façade and elsewhere are said by some to be circumscribed by golden rectangles. Other scholars deny that the Greeks had any aesthetic association with golden ratio. For example, Keith Devlin says, "Certainly, the oft repeated assertion that the Parthenon in Athens is based on the golden ratio is not supported by actual measurements. In fact, the entire story about the Greeks and golden ratio seems to be without foundation." Midhat J. Gazalé affirms that "It was not until Euclid ... that the golden ratio's mathematical properties were studied."
+From measurements of 15 temples, 18 monumental tombs, 8 sarcophagi, and 58 grave stelae from the fifth century BC to the second century AD, one researcher concluded that the golden ratio was totally absent from Greek architecture of the classical fifth century BC, and almost absent during the following six centuries.
+Later sources like Vitruvius (first century BC) exclusively discuss proportions that can be expressed in whole numbers, i.e. commensurate as opposed to irrational proportions.
+
+Modern art
+The Section d'Or ('Golden Section') was a collective of painters, sculptors, poets and critics associated with Cubism and Orphism. Active from 1911 to around 1914, they adopted the name both to highlight that Cubism represented the continuation of a grand tradition, rather than being an isolated movement, and in homage to the mathematical harmony associated with Georges Seurat. (Several authors have claimed that Seurat employed the golden ratio in his paintings, but Seurat's writings and paintings suggest that he employed simple whole-number ratios and any approximation of the golden ratio was coincidental.) The Cubists observed in its harmonies, geometric structuring of motion and form, "the primacy of idea over nature", "an absolute scientific clarity of conception". However, despite this general interest in mathematical harmony, whether the paintings featured in the celebrated 1912 Salon de la Section d'Or exhibition used the golden ratio in any compositions is more difficult to determine. Livio, for example, claims that they did not, and Marcel Duchamp said as much in an interview. On the other hand, an analysis suggests that Juan Gris made use of the golden ratio in composing works that were likely, but not definitively, shown at the exhibition. Art historian Daniel Robbins has argued that in addition to referencing the mathematical term, the exhibition's name also refers to the earlier Bandeaux d'Or group, with which Albert Gleizes and other former members of the Abbaye de Créteil had been involved.
+Piet Mondrian has been said to have used the golden section extensively in his geometrical paintings, though other experts (including critic Yve-Alain Bois) have discredited these claims.
+
+See also
+List of works designed with the golden ratio
+Metallic mean
+Plastic ratio
+Sacred geometry
+Supergolden ratio
+Silver ratio
+
+References
+Explanatory footnotes
+Citations
+Works cited
+Further reading
+External links
+
+Weisstein, Eric W. "Golden Ratio". MathWorld.
+Bogomolny, Alexander (2018). "Golden Ratio in Geometry". Cut-the-Knot.
+Knott, Ron. "The Golden section ratio: Phi". Information and activities by a mathematics professor.
+The Myth That Will Not Go Away Archived 2020-11-12 at the Wayback Machine, by Keith Devlin, addressing multiple allegations about the use of the golden ratio in culture.
+Spurious golden spirals collected by Randall Munroe
+YouTube lecture on Zeno's mice problem and logarithmic spirals

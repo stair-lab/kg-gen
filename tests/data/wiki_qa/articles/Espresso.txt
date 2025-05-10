@@ -1,0 +1,119 @@
+Espresso ( , Italian: [eˈsprɛsso]) is a concentrated form of coffee produced by forcing hot water under high pressure through finely ground coffee beans. Originating in Italy, espresso has become one of the most popular coffee-brewing methods worldwide. It is characterized by its small serving size, typically 25–30 ml, and its distinctive layers: a dark body topped with a lighter-colored foam called "crema".
+Espresso machines use pressure to extract a highly concentrated coffee with a complex flavor profile in a short time, usually 25–30 seconds. The result is a beverage with a higher concentration of suspended and dissolved solids than regular drip coffee, giving espresso its characteristic body and intensity. Despite the stronger taste profile, espresso typically contains fewer milligrams of caffeine than a standard serving of drip-brewed coffee.
+Espresso serves as the base for other coffee drinks, including cappuccino, caffè latte, and americano. It can be made with various types of coffee beans and roast levels, allowing for a wide range of flavors and strengths. The quality of an espresso is influenced by factors such as the grind size, water temperature, pressure, and the barista's skill in tamping the coffee grounds.
+While espresso contains more caffeine per unit volume than most coffee beverages, its typical serving size results in less caffeine per serving compared to larger drinks such as drip coffee. The cultural significance of espresso extends beyond its consumption, playing a central role in coffee shop culture and the third-wave coffee movement, which emphasizes artisanal production and high-quality beans.
+
+Etymology and spelling
+Some English dictionaries translate espresso as 'pressed-out', but the word also conveys the senses of expressly for you and quickly:
+
+The words express, expres and espresso each have several meanings in English, French and Italian. The first meaning is to do with the idea of "expressing" ("pressing out of") or squeezing the flavour from the coffee using the pressure of the steam. The second meaning is to do with speed, as in a train. Finally there is the notion of doing something "expressly" for a person ... The first Bezzera and Pavoni espresso machines in 1906 took 45 seconds to make a cup of coffee, one at a time, expressly for you. 
+Modern espresso, using hot water under pressure, as pioneered by Gaggia in the 1940s, was originally called crema caffè (lit. 'cream coffee'), as seen on old Gaggia machines, due to the crema.
+The spelling expresso is mostly considered incorrect, although some sources call it a less common variant. It is common in French and Portuguese. Italy uses the term espresso, substituting s for most x letters in Latin-root words, with the term deriving from the past participle of the Italian verb esprimere, itself derived from the Latin exprimere, which means 'to express', and refers to the process by which hot water is forced under pressure through ground coffee; x is not considered part of the standard Italian alphabet. Italians commonly refer to espresso simply as caffè (lit. 'coffee'), espresso being the ordinary coffee to order. The same happens in Portugal (café), with some regional variations (bica in Lisbon and cimbalino traditionally in Porto). In Spain, while café expreso is seen as the more formal denomination, café solo (alone, without milk) is the usual way to ask for it at an espresso bar. Some sources state that expresso is an incorrect spelling, including Garner's Modern American Usage. While the 'expresso' spelling is recognized as mainstream usage in some American dictionaries, some cooking websites call the 'x' variant illegitimate. Oxford Dictionaries online states: "The spelling expresso is not used in the original Italian and is strictly incorrect, although it is common." The Oxford English Dictionary and Merriam-Webster call it a variant spelling. The Online Etymology Dictionary calls expresso a variant of espresso. The Oxford Dictionary of American Usage and Style (2000) describes the spelling expresso as "wrong", and specifies espresso as the only correct form. The third edition of Fowler's Modern English Usage, published by the Oxford University Press in 1996, noted that the form espresso "has entirely driven out the variant expresso (which was presumably invented under the impression that it meant 'fast, express')".
+
+History
+Precursors
+Angelo Moriondo, from Turin, patented a steam-driven "instantaneous" coffee beverage making device in 1884 (No. 33/256). The device is "almost certainly the first Italian bar machine that controlled the supply of steam and water separately through the coffee" and Moriondo is "certainly one of the earliest discoverers of the expresso  [sic] machine, if not the earliest". He was granted patent no. 33/256 dated 16 May 1884 (according to the "Bollettino delle privative industriali del Regno d'Italia", 2nd Series, Volume 15, Year 1884, pp. 635 – 655). Unlike true espresso machines, it brewed in bulk, not as individual servings.
+
+Seventeen years later, in 1901, Luigi Bezzera, from Milan, devised and patented several improvements to the espresso machine, the first of which was applied for on 19 December 1901. Titled "Innovations in the machinery to prepare and immediately serve coffee beverage"; Patent No. 153/94, 61707, was granted on 5 June 1902. In 1903, the patent was bought by Desiderio Pavoni, who founded the La Pavoni company and began to produce the machine industrially, manufacturing one machine daily in a small workshop in Via Parini, Milan.
+
+Spread
+A detailed discussion of the spread of espresso is given in (Morris 2007). In Italy, the rise of espresso consumption was associated with industrialization and urbanization, notably in Turin, Genoa, and Milan, in northwest Italy. Italians also spread espresso culture into their East African colonies, Italian Somalia and Italian Eritrea.
+The third-wave coffee movement encompasses espresso machines as a broader coffee culture that values relationships with growers and importers and the craftsmanship involved in making specific coffee-based drinks. The mention of brands such as Synesso, La Marzocco, and Slayer, known for their top-notch equipment, highlights the differences between traditional espresso machines and super-automatic machines to achieve a complete coffee preparation.
+
+Characteristics
+Espresso is generally thicker than coffee brewed by other methods, with a viscosity similar to that of warm honey. This is due to the higher concentration of suspended and dissolved solids and the crema on top (a foam with a creamy consistency). As a result of the pressurized brewing process, the flavors and chemicals in a typical cup of espresso are very concentrated.
+Espresso contains more caffeine per unit volume than most coffee beverages, but as its usual serving size of 25–30 ml (1 US oz) is much smaller than other coffee drinks, the overall caffeine content of a single "serving" of espresso is generally lower than that of other coffees. While the exact caffeine content of any coffee drink will vary, a typical 30 millilitres (1 US fluid ounce) serving of espresso contains approximately 65 milligrams of caffeine, but a typical 240 millilitres (8 US fluid ounces) serving of drip coffee contains 150–200 mg of caffeine.
+The three dispersed phases in espresso are what make the beverage unique. The first dispersed phase is an emulsion of oil droplets. The second phase is suspended solids, while the third is the layer of gas bubbles or foam. The dispersion of very small oil droplets is perceived in the mouth as creamy. This characteristic of espresso contributes to what is known as the body of the beverage. These oil droplets preserve some of the aromatic compounds that are lost to the air in other coffee forms, enhancing the strong flavor of espresso.
+The crema is a layer of dense foam that forms on top of the drink. It consists of emulsified oils in the ground coffee turned into a colloid, which does not occur in other brewing methods. Crema is produced when water placed under very high pressure dissolves more carbon dioxide, a gas present inside the coffee that is produced during the roasting process.: 96 
+Espresso is served on its own, and is also used as the base for various other coffee drinks, including caffè latte, cappuccino, caffè macchiato, caffè mocha, flat white, and americano.
+
+Process
+Espresso is made by forcing very hot water under high pressure through finely ground compacted coffee. There is no universal standard defining the process of extracting espresso, but several published definitions attempt to constrain the amount and type of ground coffee used, the temperature and pressure of the water, and the rate of extraction. Generally, one uses an espresso machine to make espresso.
+The act of producing a shot of espresso is often called "pulling" a shot, originating from lever espresso machines, with which a barista pulls down a handle attached to a spring-loaded piston, which forces hot water through the coffee at high pressure. However, it is more common for an electric pump to generate the pressure.
+Tamping down the coffee promotes the water's even penetration through the grounds. This process produces a thicker beverage by extracting both solid and dissolved components.
+The technical parameters outlined by the Italian Espresso National Institute for making a "certified Italian espresso" are:
+
+Roasts
+Any bean or roasting level can be used to produce authentic espresso. For example, in southern Italy, a darker roast is generally preferred. Farther north, the trend moves toward slightly lighter roasts, while outside Italy a wide range is popular.
+
+Variables
+The main variables in a shot of espresso are the "size" and "length". This terminology is standardized, but the precise sizes and proportions vary substantially.
+Cafés may have a standardized shot (size and length), such as "triple ristretto", only varying the number of shots in espresso-based drinks such as lattes, but not changing the extraction. Changing between a double and a triple requires changing the filter basket size, while changing between ristretto, normale, and lungo may require changing the grind.
+The size can be a single, double, or triple, using a proportional amount of ground coffee, roughly 7, 14, and 21 grams; correspondingly sized filter baskets are used. The Italian multiplier term doppio is often used for a double, with solo and triplo being more rarely used for singles and triples. The single shot is the traditional shot size, being the maximum that could easily be pulled on a lever machine. Single baskets are sharply tapered or stepped down in diameter to provide comparable depth to the double baskets and, therefore, comparable resistance to water pressure. Most double baskets are gently tapered (the "Faema model"), while others, such as the La Marzocco, have straight sides. Triple baskets are normally straight-sided. Portafilters will often come with two spouts, usually closely spaced, and a double-size basket. Each spout can optionally dispense into a separate cup, yielding two solo-size (but doppio-brewed) shots, or into a single cup (hence the close spacing). True solo shots are rare, with a single shot in a café generally being half of a doppio shot. In espresso-based drinks in America, particularly larger milk-based drinks, a drink with three or four shots of espresso will be called "triple" or "quad", respectively.
+The length of the shot can be ristretto (or stretto) (reduced), normale or standard (normal), or lungo (long): these may correspond to a smaller or larger drink with the same amount of ground coffee and same level of extraction or to different length of extraction. Proportions vary, and the volume (and low density) of crema makes volume-based comparisons difficult (precise measurement uses the mass of the drink). Typically, ristretto is half the volume of normale, and lungo is double to triple the normale volume. For a double shot (14 grams of dry coffee), a normale uses about 60 ml of water. A double ristretto, a common form associated with espresso, uses half the amount of water, about 30 ml. Ristretto, normale, and lungo may not simply be the same shot stopped at different times (which could result in an under- or over-extracted shot), but have the grind adjusted (finer for ristretto, coarser for lungo) to achieve the target volume.: 103  A significantly longer shot is the caffè crema, which is longer than a lungo, ranging in size from 120–240 ml (4.2–8.4 imp fl oz; 4.1–8.1 US fl oz), and brewed in the same way, with a coarser grind. Passing too much water through the ground coffee can add other, potentially unpleasant flavors to the espresso.: 99
+
+Machines
+Home espresso machines have increased in popularity with the general rise of interest in espresso. Today, a wide range of home espresso equipment can be found in kitchen and appliance stores, online vendors, and department stores. The first espresso machine for home use was the Gaggia Gilda. Soon afterwards, similar machines such as the Faema Faemina, FE-AR La Peppina, and VAM Caravel followed suit, with similar form factors and operational principles. These machines still have a small but dedicated share of fans. Until the advent of the first small electrical pump-based espresso machines, such as the Gaggia Baby and Quickmill 810, home espresso machines were not widely adopted. In recent years, the increased availability of convenient countertop fully automatic home espresso makers and pod-based espresso serving systems has increased the quantity of espresso consumed at home. The popularity of home espresso making parallels the increase of home coffee roasting. Some amateurs pursue both home roasting coffee and making espresso.
+
+Espresso-based drinks
+In addition to being served alone, espresso is frequently blended, notably with milk, either steamed (without significant foam), wet foamed (microfoam) and dry foamed, or with hot water.
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+Other variants:
+
+Caffè crema: "long" espresso from more water and coarser ground coffee, approximately 120–180 ml
+Espresso con panna: espresso with cream
+Viennese coffee: 2 shots of espresso with whipped cream
+Caffè mocha: caffè latte with chocolate
+Espresso martini: espresso with coffee liqueur and vodka
+Caffè corretto ('corrected coffee'): espresso with brandy, grappa, or sambuca
+Freddo espresso: espresso is mixed with the sugar and ice in a drink mixer
+Espresso and tonic
+
+See also
+List of coffee drinks
+Caffeinated drink – type of drink
+Caffè macchiato
+Doppio
+Lungo
+Ristretto
+
+References
+Works cited
+Bersten, Ian (1993). Coffee Floats Tea Sinks: Through History and Technology to a Complete Understanding. Helian Books. ISBN 0-646-09180-8.
+Burchfield, R. W. (1996). Fowler's Modern English Usage (third ed.). Oxford: Oxford University Press. ISBN 978-0-19-869126-6.
+Garner, Bryan (2000). The Oxford Dictionary of American Usage and Style. New York: Oxford University Press. ISBN 978-0-19-513508-4.
+Illy, Andrea; Viani, Rinantonio (2005). Espresso: The Science of Quality. Academic Press. ISBN 0-12-370371-9.
+Illy, Francesco; Illy, Riccardo (1992). The Book of Coffee (1st American ed.). New York: Abbeville Press. ISBN 978-1-55859-321-3.
+Morris, Jonathan (2007). "The Cappuccino Conquests: The Transnational History of Italian Coffee". Academia.org. University of Hertfordshire.
+
+Further reading
+Davids, Kenneth (2013). Coffee: A Guide to Buying, Brewing, and Enjoying (5 ed.). St. Martin's Press. ISBN 978-1466854420.
+Fumagalli, Ambrogio (1995). Coffee Makers. Chronicle Books. ISBN 0-8118-1082-8.
+Schomer, David C. Espresso Coffee: Professional Techniques. 1996.
+
+External links
+ Media related to Espresso at Wikimedia Commons
+ The dictionary definition of espresso at Wiktionary

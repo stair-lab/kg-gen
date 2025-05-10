@@ -1,0 +1,45 @@
+In computer hardware a host controller, host adapter or host bus adapter (HBA) connects a computer system bus which acts as the host system to other network and storage devices. The terms are primarily used to refer to devices for connecting SCSI, SAS, NVMe, Fibre Channel and SATA devices. Devices for connecting to FireWire, USB and other devices may also be called host controllers or host adapters.
+Host adapters can be integrated in the motherboard or be on a separate expansion card.
+The term network interface controller (NIC) is more often used for devices connecting to computer networks, while the term converged network adapter can be applied when protocols such as iSCSI or Fibre Channel over Ethernet allow storage and network functionality over the same physical connection.
+
+SCSI
+A SCSI host adapter connects a host system and a peripheral SCSI device or storage system. These adapters manage service and task communication between the host and target. Typically a device driver, linked to the operating system, controls the host adapter itself.
+In a typical parallel SCSI subsystem, each device has assigned to it a unique numerical ID. As a rule, the host adapter appears as SCSI ID 7, which gives it the highest priority on the SCSI bus (priority descends as the SCSI ID descends; on a 16-bit or "wide" bus, ID 8 has the lowest priority, a feature that maintains compatibility with the priority scheme of the 8-bit or "narrow" bus).
+The host adapter usually assumes the role of SCSI initiator, in that it issues commands to other SCSI devices.
+A computer can contain more than one host adapter, which can greatly increase the number of SCSI devices available.
+Major SCSI adapter manufacturers are HP, ATTO Technology, Promise Technology, Adaptec, and LSI Corporation. LSI, Adaptec, and ATTO offer PCIe SCSI adapters which fit in Apple Mac, on Intel PCs, and low-profile motherboards  which lack SCSI support due to the inclusion of SAS and/or SATA connectivity.
+
+Fibre Channel
+The term host bus adapter (HBA) may be used to refer to a Fibre Channel interface card. In this case, it allows devices in a Fibre Channel storage area network to communicate data between each other – it may connect a server to a switch or storage device, connect multiple storage systems, or connect multiple servers. Fibre Channel HBAs are available for open systems, computer architectures, and buses, including PCI and SBus (obsolete today).
+Each Fibre Channel HBA has a unique World Wide Name (WWN), which is similar to an Ethernet MAC address in that it uses an OUI assigned by the IEEE. However, WWNs are longer (8 bytes). There are two types of WWNs on a HBA; a node WWN (WWNN), which is shared by all ports on a host bus adapter, and a port WWN (WWPN), which is unique to each port. There are HBA models of different speeds: 1 Gbit/s, 2 Gbit/s, 4 Gbit/s, 8 Gbit/s, 10 Gbit/s, 16 Gbit/s, 20 Gbit/s and 32 Gbit/s.
+The major Fibre Channel HBA manufacturers are QLogic and Broadcom. As of mid-2009, these vendors shared approximately 90% of the market. Other manufacturers include Agilent, ATTO, and Brocade.
+HBA is also known to be interpreted as High Bandwidth Adapter in cases of Fibre Channel controllers.
+
+InfiniBand
+The term host channel adapter (HCA) is usually used to describe InfiniBand interface cards.
+
+ATA
+ATA host adapters are integrated into motherboards of most modern PCs. They are often improperly called disk controllers. The correct term for the component that allows a computer to talk to a peripheral bus is host adapter . A proper disk controller only allows a disk to talk to the same bus.
+
+SAS and SATA
+SAS or serial-attached SCSI is the current connectivity to replace the previous generation parallel-attached SCSI (PAS) devices. Ultra320 was the highest level of parallel SCSI available, but SAS has since replaced it as the highest-performing SCSI technology.
+SATA is a similar technology from the aspect of connection options. HBAs can be created using a single connector to connect both SAS and SATA devices.
+Major SAS/SATA adapter manufacturers are Promise Technologies, Adaptec, HP, QLogic, Areca, LSI and ATTO Technology.
+
+eSATA
+External Serial ATA (eSATA) disk enclosures and drives are available in the consumer computing market, but not all SATA-compatible motherboards and disk controllers include eSATA ports. As such, adapters to connect eSATA devices to ports on an internal SATA bus are available.
+
+Mainframe channel I/O
+In the mainframe field, the terms host adapter or host bus adapter were traditionally not used.
+A similar goal was achieved since the 1960s with channel I/O, a separate processor that can access main memory independently, in parallel with CPU (like later DMA in personal computer field), and that executes its own I/O-dedicated programs when pointed to such by the controlling CPU.
+Protocols used by channel I/O to communicate with peripheral devices include ESCON and newer FICON.
+
+See also
+Disk array controller
+Fibre Channel Host Bus Adapters
+Host controller interface for USB and FireWire host adapter information
+
+References
+External links
+Fibre Channel Host Bus Adapter API
+SPI Host Adapter – Background Information

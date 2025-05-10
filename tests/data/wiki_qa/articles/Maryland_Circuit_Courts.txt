@@ -1,0 +1,33 @@
+The Circuit Courts of Maryland are the state trial courts of general jurisdiction in Maryland. They are Maryland's highest courts of record exercising original jurisdiction at law and in equity in all civil and criminal matters, and have such additional powers and jurisdiction as conferred by the Maryland Constitution of 1867 as amended, or by law.  The Circuit Courts also preside over divorce and most family law matters. Probate and estate matters are handled by a separate Orphans' Court. The Circuit Courts are the only Maryland state courts empowered to conduct jury trials.
+
+Organization
+Each of Maryland's 23 counties and the independent city of Baltimore has its own Circuit Court.  The number of judges on each of the Circuit Courts is set by statute. The Circuit Courts are grouped into eight judicial circuits. Each circuit encompasses two or more counties, except for the Eighth Circuit, which consists solely of Baltimore City.  The most senior judge in the circuit is the Chief Judge; all other judges are Associate Judges.
+The state is divided into eight judicial circuits, which are presently as follows:
+
+1st Judicial Circuit (7 judges): Dorchester (1 judge), Somerset (1 judge), Wicomico (3 judges) & Worcester (2 judges) counties
+2nd Judicial Circuit (7 judges): Caroline (1 judge), Cecil (3 judges), Kent (1 judge), Queen Anne's (1 judge) & Talbot (1 judge) counties
+3rd Judicial Circuit (21 judges): Baltimore County (16 judges) & Harford County (5 judges)
+4th Judicial Circuit (7 judges): Allegany (2 judges), Garrett (1 judge) & Washington (4 judges) counties
+5th Judicial Circuit (18 judges): Anne Arundel (10 judges), Carroll (3 judges) & Howard (5 judges) counties
+6th Judicial Circuit (24 judges): Frederick (4 judges) & Montgomery (20 judges) counties
+7th Judicial Circuit (32 judges): Calvert (3 judges), Charles (4 judges), Prince George's (23 judges) & St Mary's (3 judges) counties
+8th Judicial Circuit (30 judges): Baltimore City
+Judges of the Circuit Courts of Maryland are elected to 15-year terms in the general election.  Their salaries may not be diminished while in office.  The Governor may fill vacancies by appointment until the next general election for the United States House of Representatives occurring after one year from the time the vacancy was created, except in cases where the vacancy is by expiration of term, in which case, the vacancy is filled until the next general election for U.S. Representatives (congressmen).
+Judges must be at least 30 years old, qualified voters, members of the Maryland bar, and residents both of Maryland for at least five years and for at least 6 months of the place for which they are elected to serve.  Judges must retire at age 70.  The Chief Justice of the Supreme Court of Maryland may assign a former judge to sit temporarily in any Maryland court, if approved by the administrative judge of the circuit in question.
+Each Circuit Court also has its own Clerk, who is elected by the citizens of the county (or Baltimore City) to a four-year term.
+
+Jurisdiction
+In civil matters, the Circuit Courts have exclusive original jurisdiction in most cases in which equitable, declaratory, or injunctive relief is sought, or in which ownership of real property is to be determined. Two notable exceptions are: (1) actions for replevin, in which the District Courts have exclusive original jurisdiction regardless of the value of the thing in controversy;  and (2) landlord-tenant matters, in which the District Court has exclusive original jurisdiction in all cases.
+In tort or contract cases for money damages where the amount in controversy exceeds $30,000, the Circuit Courts have exclusive original jurisdiction.  The Circuit Courts share concurrent jurisdiction with the District Courts in such cases where the amount in controversy exceeds $5,000 but is less than $30,000.  However, if the amount in controversy exceeds $25,000, either party may remove an action filed in District Court to the Circuit Court by demanding a jury trial.  The District Court has exclusive jurisdiction in contract and tort cases for money damages where the amount in controversy is less than $5,000.
+In criminal cases, the Circuit Courts generally have exclusive original jurisdiction over felonies (with many exceptions).   They share concurrent original jurisdiction in misdemeanor cases in which the penalty may be confinement for three years or more or a fine of $2,500 or more, and in certain felony cases.  A criminal defendant may remove the case to Circuit Court by demanding a jury trial in any case in which the defendant is so entitled.
+
+Dockets
+By rule, each of the Circuit Courts is required to have a differentiated case management plan "for the prompt and efficient scheduling and disposition of actions[.]"   Such plans vary by jurisdiction, but include the classification of cases by complexity and priority, to be assigned to particular scheduling "tracks" based on that classification.   Consistent with applicable court rule, the Circuit Courts have endeavored to make their differentiated case management plans as similar as possible; in practice, however, the plans do vary somewhat among the Circuit Courts.
+One noteworthy aspect of Maryland's differentiated case management system is the introduction of the Business and Technology Case Management Program (BTCMP) – the first of its kind in the United States – for civil cases involving complex business, commercial, or technology issues. The rule creating this track was promulgated in 2003, making Maryland one of the earliest states with a business court.  That rule has been amended to provide greater clarity to the BTCMP's jurisdiction. The program includes a special designated "track" for business and technology cases within Maryland's differentiated case management system; procedures to assign such cases to the program, including special assignment of such cases to judges specially trained in issues concerning business and technology; and alternative dispute resolution proceedings by mediators specially trained in business and technology issues.  Such cases may be placed into the program by request of the plaintiff upon filing the case; upon a subsequent request by any of the parties; or by court order.
+Maryland also permits the parties in civil cases to request assignment of their case to a Complex Science or Medical Case Management Program, which, if granted, results in the case being assigned to a judge who has received training from the Advanced Science and Technology Adjudication Resource Center, Inc. (ASTAR).
+
+References
+External links
+Maryland Judiciary
+Maryland Business & Technology Case Management Program
+Montgomery County Circuit Court

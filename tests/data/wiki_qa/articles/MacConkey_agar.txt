@@ -1,0 +1,46 @@
+MacConkey agar is a selective and differential culture medium for bacteria. It is designed to selectively isolate gram-negative and enteric (normally found in the intestinal tract) bacteria and differentiate them based on lactose fermentation. Lactose fermenters turn red or pink on MacConkey agar, and nonfermenters do not change color. The media inhibits growth of gram-positive organisms with crystal violet and bile salts, allowing for the selection and isolation of gram-negative bacteria. The media detects lactose fermentation by enteric bacteria with the pH indicator neutral red.
+
+Contents
+It contains bile salts (to inhibit most gram-positive bacteria), crystal violet dye (which also inhibits certain gram-positive bacteria), and neutral red dye (which turns pink if the microbes are fermenting lactose).
+Composition:
+
+Peptone – 17 g
+Proteose peptone – 3 g
+Lactose – 10 g
+Bile salts – 1.5 g
+Sodium chloride – 5 g
+Neutral red – 0.03 g
+Crystal violet – 0.001 g
+Agar – 13.5 g
+Water – add to make 1 litre; adjust pH to 7.1 +/− 0.2
+Sodium taurocholate
+There are many variations of MacConkey agar depending on the need. If the spreading or swarming of Proteus species is not required, sodium chloride is omitted. Crystal violet at a concentration of 0.0001% (0.001 g per litre) is included when needing to check if gram-positive bacteria are inhibited. MacConkey with sorbitol is used to isolate E. coli O157, an enteric pathogen.
+
+History
+The medium was developed by Alfred Theodore MacConkey while working as a bacteriologist for the Royal Commission on Sewage Disposal.
+
+Uses
+Using neutral red pH indicator, the agar distinguishes those gram-negative bacteria that can ferment the sugar lactose (Lac+) from those that cannot (Lac-).
+This medium is also known as an "indicator medium" and a "low selective medium". Presence of bile salts inhibits swarming by Proteus species.
+
+Lac positive
+By utilizing the lactose available in the medium, Lac+ bacteria such as Escherichia coli, Enterobacter and Klebsiella will produce acid, which lowers the pH of the agar below 6.8 and results in the appearance of pink colonies.  The bile salts precipitate in the immediate neighborhood of the colony, causing the medium surrounding the colony to become hazy.
+
+Lac negative
+Organisms unable to ferment lactose will form normal-colored (i.e., un-dyed) colonies. The medium may also turn yellow. Examples of non-lactose fermenting bacteria include Salmonella, Proteus, and Shigella spp.
+
+Slow
+Some organisms ferment lactose slowly or weakly, and are sometimes put in their own category. These include Serratia and Citrobacter.
+
+Mucoid colonies
+Some organisms, especially Klebsiella and Enterobacter, produce mucoid colonies which appear very moist and sticky and slimy. This phenomenon happens because the organism is producing a capsule, which is predominantly made from the lactose sugar in the agar.
+
+Variant
+A variant, sorbitol-MacConkey agar, (with the addition of additional selective agents) can assist in the isolation and differentiation of enterohemorrhagic E. coli serotype O157:H7, by the presence of colorless circular colonies that are non-sorbitol fermenting.
+
+See also
+R2a agar
+MRS agar (culture medium designed to grow gram-positive bacteria and differentiate them for lactose fermentation).
+
+
+== References ==

@@ -1,0 +1,26 @@
+.17 Hornady Magnum Rimfire, commonly known as the .17 HMR, is a rimfire rifle cartridge developed by Hornady in 2002. It was developed by necking down a .22 Winchester Magnum Rimfire case to take a .17 caliber (4.5mm) projectile. Commonly loaded with a 17 grain (1.1 g) projectile, it can deliver muzzle velocities in excess of 775 m/s (2,650 ft/s).
+
+Development
+The .17 HMR round is similar to rounds developed by dedicated rimfire wildcatters who worked to create a rimfire cartridge with an exceptionally flat trajectory. These wildcatters were seeking to match the ballistics of the obsolete 5mm Remington Rimfire Magnum, which was made from 1970 to 1974, and was to that point the fastest rimfire cartridge ever produced. With 5 mm diameter barrels and bullets being virtually unavailable at the time (the 5mm RMR was the last commercial 5 mm round until the 2004 release of the centerfire .204 Ruger), the commercially available .17 caliber became their bullet of choice. The .22 Winchester Magnum Rimfire was the logical parent case, rather than the 5mm RMR (with its unique case head size, which requires a significantly different bolt and magazine) because it was commonly available, and it is a far larger and stronger case than the next largest, the .22 Long Rifle. The .17 caliber wildcats not only met but far exceeded the 5mm RMR's velocities and flat trajectory. The accuracy of these cartridges was also quite good. However, the downrange energy of the 5mm RMR is superior to both .22 WMR and .17 HMR, so there is still potential in the 5 mm rimfire for wildcatters.
+Hornady, in conjunction with Marlin Firearms and Sturm, Ruger & Co. (manufacturers in the rimfire rifle market), followed much the same path. With the .22 WMR case as the starting point, a simple barrel change was sufficient for most .22 WMR firearms to chamber the new cartridge. In 2002, the first rifles and ammunition began appearing on the market. While the ammunition was relatively expensive due to the high-performance .17 caliber bullets used, it was still cheaper than most centerfire ammunition. By 2004, CCI, Federal Cartridge and Remington had each introduced .17 HMR ammunition offerings.
+
+Availability
+Cartridges for .17 HMR come with bullets that weigh 15.5 grains (1.00 g), 17 grains (1.1 g), and 20 grains (1.3 g), and come in designs such as plastic-tipped bullets, hollow points, soft points, and FMJs. The terminal ballistics of the lightweight expanding bullets limit the .17 HMR to small game animals and varmints. .17 HMR ammunition is less common and more expensive than the .22 caliber rimfire rounds, but this is changing as the popularity of .17 HMR rifles gathers momentum.
+
+A growing number of companies offer .17 HMR ammunition. CCI Ammunition loads all of the .17 HMR ammunition for the CCI, Federal Cartridge, Hornady, and Remington brands. However, the ammunition is loaded with different bullets to different specifications. Ammunition is also available from Winchester, PMC and Sellier & Bellot.
+Examples of bolt-action or lever-action rifles that are chambered for (or have variants chambered for) .17 HMR include Armscor M1700, Browning T-Bolt, CZ 452, Henry Golden Boy, Ruger Model 96, Sako Quad, Savage 93, Steyr Zephyr II, Marlin 917 and Weihrauch 60J.
+Citing safety concerns about the round's use in semi-automatic firearms, Remington issued a product safety warning and recall notice.
+
+.17 Hornady Mach 2
+Following the success of the .17 HMR, the .17 Hornady Mach 2 was introduced in early 2004. The .17 HM2 is based on the .22 LR (slightly shorter in case length) case necked down to .17 caliber using the same bullet as the HMR but at a velocity of approximately 2,100 feet per second (640 m/s) in the 17-grain (1.1 g) polymer tip loading.
+
+See also
+4 mm caliber
+Table of handgun and rifle cartridges
+4.5×26mm MKR
+
+References
+External links
+
+Varmint Al's Field Testing the .17 HMR
+The Hornady Podcast conversation with Steve Hornady, Hornady Director of Engineering, Mitch Mittelstaedt and Hornady Senior Ballistics Scientist, Dave Emary.

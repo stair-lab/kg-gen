@@ -1,0 +1,87 @@
+A Usenet newsgroup is a repository usually within the Usenet system for messages posted from users in different locations using the Internet. They are not only discussion groups or conversations, but also a repository to publish articles, start developing tasks like creating Linux, sustain mailing lists and file uploading. That’s thank to the protocol that poses no article size limit, but are to the providers to decide. In the late 1980s, Usenet articles were often limited by the providers to 60,000 characters, but in time, Usenet groups have been split into two types: text for mainly discussions, conversations, articles, limited by most providers to about 32,000 characters, and binary for file transfer, with providers setting limits ranging from less than 1 MB to about 4 MB. Newsgroups are technically distinct from, but functionally similar to, discussion forums on the World Wide Web. Newsreader software is used to read the content of newsgroups. Before the adoption of the World Wide Web, Usenet newsgroups were among the most popular Internet services.
+Communication is facilitated by the Network News Transfer Protocol (NNTP) which allows connection to Usenet servers and data transfer over the internet.  Similar to another early (yet still used) protocol SMTP which is used for email messages, NNTP allows both server-server and client-server communication.  This means that newsgroups can be replicated from server to server which gives the Usenet network the ability to maintain a level of robust data persistence as a result of built-in data redundancy.  However, most users will access using only the client-server commands of NNTP and in almost all cases will use a GUI for browsing as opposed to command line based client-server communication specified in the NNTP protocol.
+
+Types
+Newsgroups generally come in either of two types, binary, with single messages limited to some MB's, or text, where text groups are limited to some tens of kilobytes. There is no technical difference between the two, but the naming differentiation allows users and servers with limited facilities to minimize network bandwidth usage, by dropping the large size binary groups. Historically, with telephone modems at only kilobytes transfer rates, Usenet conventions and rules were enacted to minimize the overall amount of network traffic and resource usage, but today, only the above message size hard limits imposed by the providers are respected.
+Typically, the newsgroup is focused on a particular topic of interest. A message sent for publication on a newsgroup is called a "post". Some newsgroups allow posts on a wide variety of themes, regarding anything a member chooses to discuss as on-topic, while others keep more strictly to their particular subject, frowning on off-topic posts. The news admin (the administrator of a news server) decides how long posts are kept on their server before being expired (deleted), which is called retention. Different servers will have different retention times for the same newsgroup; some may keep posts for as little as one or two weeks, others may hold them for many years.
+Back when the early community was the pioneering computer society, the common habit seen with many posts was a notice at the end that disclosed whether the author had (or was free of) a personal interest (financial, political or otherwise) in making the post. This is rarer now, and the posts must be read more skeptically, as with other media. Privacy and phishing issues have also risen in importance.
+Usenet newsgroups posters and operators usually do not make money from their occupations on the platform.
+The number of newsgroups grew from more than 100 as of 1983 to more than 110,000, but only 20,000 or so of those are active. Newsgroups vary in popularity; some newsgroups receive fewer than a dozen posts per year while the most popular can get several thousand in under an hour.
+
+Binary
+While newsgroups were not created with the intention of distributing files such as pictures, sound and video, they have proven to be quite effective for this. As of 2022, some remain popular as an alternative to BitTorrent to share and download files.
+Because newsgroups are widely distributed, a file uploaded once will be spread to many other servers and can then be downloaded by an unlimited number of users. More useful is that users download from a local news server, rather than from a more distant machine with perhaps limited connectivity, as may be the case with peer-to-peer technology. In fact, this is another benefit of newsgroups: it is usually not expected that users share. If every user makes uploads then the servers would be flooded; thus it is acceptable and often encouraged for users to just leech.
+There were originally a number of obstacles to the transfer of binary files over Usenet. Usenet was originally designed with the transmission of text in mind, and so the encoding of posts caused losses in binary data where the data was not part of the protocol's character set. Consequently, for a long while, it was impossible to send binary data as such. As workarounds, codecs such as Uuencode and later Base64 and yEnc were developed which encoded the binary data from the files to be transmitted (e.g. sound or video files) to text characters which would survive transmission over Usenet. At the receiver's end, the data needed to be decoded by the user's news client.
+Additionally, there was a limit on the size of individual posts so that large files could not be sent as single posts. To get around this, Newsreaders were developed which were able to split long files into several posts. Intelligent newsreaders at the other end could then automatically group such split files into single files, allowing the user to easily retrieve the file. These advances have meant that Usenet is used to send and receive many terabytes of files per day.
+There are two main issues that pose problems for transmitting large files over newsgroups. The first is completion rates and the other is retention rates. The business of premium news servers is generated primarily on their ability to offer superior completion and retention rates, as well as their ability to offer very fast connections to users. Completion rates are significant when users wish to download large files that are split into pieces; if any one piece is missing, it is impossible to successfully download and reassemble the desired file. To work around the problem, a redundancy scheme known as Parchive (PAR) is commonly used.
+Many major news servers have a retention time of more than seven years. A number of websites exist to keep an index of files posted to binary newsgroups.
+Partly because of such long retention times, as well as growing uploading and downloading speeds, Usenet is also used by individuals to store backup data in a practice called Usenet backup, or uBackup. While commercial providers offer easier-to-use online backup services, storing data on Usenet is free of charge (although access to Usenet itself may not be). A user must manually select, prepare and upload the data. Because anyone can download the backup files, the data is typically encrypted. After the files are uploaded, the uploader has no control over them; they are automatically distributed to all Usenet providers that subscribe to the newsgroup they are uploaded to, so there will be copies of them spread all around the world.
+
+Moderated newsgroups
+Most Newsgroups are not moderated. A moderated newsgroup has one or more individuals who must approve posts before they are published. A separate address is used to submit posts and the moderators then propagate those they approve of. The first moderated newsgroups appeared in 1984 under mod.* according to RFC 2235, "Hobbes' Internet Timeline".
+
+Distribution
+Transmission within and at the bounds of the network uses the Network News Transfer Protocol (NNTP) (Internet standard RFC 3977 of 2006, updating RFC 977 of 1986).
+Newsgroup servers are hosted by various organizations and institutions. Most Internet service providers host their own news servers, or rent access to one, for their subscribers. There are also a number of companies who sell access to premium news servers.
+Every host of a news server maintains agreements with other nearby news servers to synchronize regularly. In this way news servers form a redundant network. When a user posts to one news server, the post is stored locally. That server then shares posts with the servers that are connected to it for those newsgroups they both carry. Those servers do likewise, propagating the posts through the network. For newsgroups that are not widely carried, sometimes a carrier group is used for crossposting to aid distribution. This is typically only useful for groups that have been removed or newer alt.* groups. Crossposts between hierarchies, outside of the Big 8 and alt.* hierarchies, are prone to failure.
+
+Hierarchies
+Newsgroups are often arranged into hierarchies, theoretically making it simpler to find related groups. The term top-level hierarchy refers to the hierarchy defined by the prefix before the first dot.
+The most commonly known hierarchies are the Usenet hierarchies. So for instance newsgroup rec.arts.sf.starwars.games would be in the rec.* top-level Usenet hierarchy, where the asterisk (*) is defined as a wildcard character. There were seven original major hierarchies of Usenet newsgroups, known as the "Big 7":
+
+comp.* — Discussion of computer-related topics
+news.* — Discussion of Usenet itself
+sci.* — Discussion of scientific subjects
+rec.* — Discussion of recreational activities (e.g. games and hobbies)
+soc.* — Socialising and discussion of social issues.
+talk.* — Discussion of contentious issues such as religion and politics.
+misc.* — Miscellaneous discussion—anything which does not fit in the other hierarchies.
+These were all created in the Great Renaming of 1986–1987, before which all of these newsgroups were in the net.* hierarchy. At that time there was a great controversy over what newsgroups should be allowed. Among those that the Usenet cabal (who effectively ran the Big 7 at the time) did not allow were those concerning recipes, recreational drug use, and sex.
+This situation resulted in the creation of an alt.* (short for "alternative") Usenet hierarchy, under which these groups would be allowed. Over time, the laxness of rules on newsgroup creation in alt.* compared to the Big 7 meant that many new topics could, given time, gain enough popularity to get a Big 7 newsgroup. There was a rapid growth of alt.* as a result, and the trend continues to this day. Because of the anarchistic nature with which the groups sprang up, some jokingly referred to ALT standing for "Anarchists, Lunatics and Terrorists" (a backronym).
+In 1995, humanities.* was created for the discussion of the humanities (e.g. literature, philosophy), and the Big 7 became the Big 8.
+The alt.* hierarchy has discussion of all kinds of topics, and many hierarchies for discussion specific to a particular geographical area or in a language other than English.
+Before a new Big 8 newsgroup can be created, an RFD (Request For Discussion) must be posted into the newsgroup news.announce.newgroups, which is then discussed in news.groups.proposals. Once the proposal has been formalized with a name, description, charter, the Big-8 Management Board will vote on whether to create the group.  If the proposal is approved by the Big-8 Management Board, the group is created.  Groups are removed in a similar manner.
+Creating a new group in the alt.* hierarchy is not subject to the same rules; anybody can create a newsgroup, and anybody can remove it, but most news administrators will ignore these requests unless a local user requests the group by name.
+
+Further hierarchies
+There are a number of newsgroup hierarchies outside of the Big 8 (and alt.*) that can be found on many news servers. These include non-English language groups, groups managed by companies or organizations about their products, geographic/local hierarchies, and even non-internet network boards routed into NNTP. Examples include (alphabetically):
+
+aus.* – Australian news groups
+ba.* – Discussion in the San Francisco Bay area
+ca.* – Discussion in California
+can.* – Canadian news groups
+cn.* – Chinese news groups
+chi.* – Discussions about the Chicago area
+de.* – Discussions in German
+dictator.* – Discussions about bad governance related to the Dictator's Handbook
+ec.* – Discussions about Ecuadorian culture and society
+england.* – Discussions (mostly) local to England, see also uk.*
+fidonet.* – Discussions routed from FidoNet
+fr.* – Discussions in French
+fj.* – "From Japan," discussions in Japanese
+gnu.* – Discussions about GNU software
+hawaii.* – Discussions (mostly) local to Hawaii
+hk.* – Hong Kong newsgroups
+hp.* – Hewlett-Packard internal news groups
+it.* – Discussions in Italian
+microsoft.* – Discussions about Microsoft products
+nl.* – Dutch news groups
+no.* – Norwegian news groups
+pl.* – Polish news groups
+tw.* – Taiwan news groups
+uk.* – Discussions on matters in the United Kingdom
+yale.* – Discussions (mostly) local to Yale University
+Additionally, there is the free.* hierarchy, which can be considered "more alt than alt.*".  There are many local sub-hierarchies within this hierarchy, usually for specific countries or cultures (such as free.it.* for Italy).
+
+See also
+List of newsgroups
+List of Usenet newsreaders
+alt.* hierarchy
+News client
+NNTP
+News aggregator
+
+References
+External links
+The Big-8 Management Board
+Alphabetical list of Usenet hierarchies at the Wayback Machine (archived April 28, 2006)

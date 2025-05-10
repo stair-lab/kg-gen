@@ -1,0 +1,8 @@
+Total body surface area (TBSA) is an assessment of injury to or disease of the skin, such as burns or psoriasis.
+In adults, the Wallace rule of nines can be used to determine the total percentage of area burned for each major section of the body.  
+In burn cases that involve partial body areas, or when dermatologists are evaluating the Psoriasis Area and Severity Index (PASI) score, the patient's palm can serve a reference point roughly equivalent to 1% of the body surface area.
+For children and infants, the Lund and Browder chart is used to assess the burned body surface area.  Different percentages are used because the ratio of the combined surface area of the head and neck to the surface area of the limbs is typically larger in children than that of an adult.
+Typical values for common groups of humans follow. (Due to rounding, values may not add to 100%.)
+
+
+== References ==

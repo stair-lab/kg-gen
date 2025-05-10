@@ -1,0 +1,65 @@
+This is a list of the sizes, shapes, and general characteristics of some common primary and secondary battery types in household, automotive and light industrial use.
+The complete nomenclature for a battery specifies size, chemistry, terminal arrangement, and special characteristics. The same physically interchangeable cell size or battery size may have widely different characteristics; physical interchangeability is not the sole factor in substituting a battery.
+The full battery designation identifies not only the size, shape and terminal layout of the battery but also the chemistry (and therefore the voltage per cell) and the number of cells in the battery. For example, a CR123 battery is always LiMnO2 ('Lithium') chemistry, in addition to its unique size.
+The following tables give the common battery chemistry types for the current common sizes of batteries. See Battery chemistry for a list of other electrochemical systems.
+
+Cylindrical batteries
+Rectangular batteries
+Camera batteries
+As well as other types, digital and film cameras often use specialized primary batteries to produce a compact product. Flashlights and portable electronic devices may also use these types.
+
+Button cells – coin, watch
+Lithium cells
+Coin-shaped cells are thin compared to their diameter. Polarity is usually stamped on the metal casing.
+The IEC prefix "CR" denotes lithium manganese dioxide chemistry. Since LiMnO2 cells produce 3 volts there are no widely available alternative chemistries for a lithium coin battery. The "BR" prefix indicates a round lithium/carbon monofluoride cell. See lithium battery for discussion of the different performance characteristics. One LiMnO2 cell can replace two alkaline or silver-oxide cells.
+IEC designation numbers indicate the physical dimensions of the cylindrical cell. Cells less than one centimeter in height are assigned four-digit numbers, where the first two digits are the diameter in millimeters, while the last two digits are the height in tenths of millimeters. Taller cells are assigned five-digit numbers, where the first two digits are the diameter in millimeters, followed by the last three digits indicating the height in tenths of millimeters.
+All these lithium cells are rated nominally 3 volts (on-load), with open-circuit voltage about 3.6 volts. Manufacturers may have their own part numbers for IEC standard size cells. The capacity listed is for a constant resistance discharge down to 2.0 volts per cell.
+
+Silver oxide and alkaline cells
+In the following table, sizes are shown for the silver-oxide IEC number; types and capacity are identified as "(L)" for alkaline, "(M)" for mercury (no longer manufactured), and "(S)" for silver-oxide. Some sizes may be interchangeably used in battery holders. For example, the 189/389 cell is 3.1 mm high and was designated 1131, while the 190/390 size is 3.0 mm high and was designated 1130, but a battery holder will accept either size.
+
+Zinc air cells (hearing aid)
+Miniature zinc-air batteries are button cells that use oxygen in air as a reactant and have very high capacity for their size. Each cell needs around 1 cm3 of air per minute at a 10 mA discharge rate. These cells are commonly used in hearing aids. A sealing tab keeps air out of the cell in storage; a few weeks after breaking the seal the electrolyte will dry out and the battery becomes unusable, regardless of use. Nominal voltage on discharge is 1.2 V.
+
+Lithium-ion batteries (rechargeable)
+Cylindrical lithium-ion rechargeable battery
+Lithium-ion rechargeable batteries are generally not interchangeable with primary types using a different chemistry, due to their higher voltage. Many are also available with protection circuits that can increase their physical length; for example, an 18650 is around 65 mm (2.56 in) long, but may be around 68 mm (2.68 in) long with a protection circuit. Some such circuits increase cell diameter instead. The increased dimensions may mean the cell will no longer fit in battery compartments intended for cells without such circuitry.
+Commonly-used designation numbers indicate the physical dimensions of the cylindrical cell, as given in IEC standard 60086-1 for cylindrical primary cells. The first two digits are the nominal diameter of the cell in millimetres, and the two following digits are generally the height in millimeters, with the fifth digit indicating cylindrical shape. Alternately, the last three digits can refer to the height in tenths of a millimeter. Manufacturers may use non-IEC designations for their products.
+
+Obsolete batteries
+These types are associated with legacy applications, such as for vacuum tube equipment (A, B, and C batteries), or are no longer manufactured.
+
+(V) = Nominal voltage
+
+PP series
+The PP (Power Pack) series was manufactured by Ever Ready in the UK (Eveready in the US). The series comprised multi-cell carbon-zinc batteries used for portable electronic devices. Most sizes are uncommon today; however, the PP3 size (and to a lesser extent PP8, used in electric fencing, and PP9) is readily available. The PP4 was cylindrical; all the other types were rectangular. Most had snap terminals as seen on the common PP3 type. These came in two incompatible sizes, as is evident in some of the pictures below, those on larger, mostly older, battery types such as the PP9 being somewhat larger than those on the smaller batteries such as the PP3.
+
+(V) = Nominal voltage
+
+Other
+See also
+References
+Further reading
+IEC 60086-1: Primary batteries – Part 1: General
+IEC 60086-2: Primary batteries – Part 2: Physical and electrical specifications
+IEC 60086-3: Primary batteries – Part 3: Watch batteries
+IEC 60086-4: Primary batteries – Part 4: Safety of lithium batteries
+ANSI C18.1, Part 1 Portable Primary Cells and Batteries With Aqueous Electrolyte – General and Specifications
+ANSI C18.1, Part 2 Portable Primary Cells and Batteries With Aqueous Electrolyte Safety Standard
+ANSI C18.2, Part 1 Portable Rechargeable Cells and Batteries – General and Specifications
+ANSI C18.2, Part 2 Portable Rechargeable Cells and Batteries Safety Standard
+ANSI C18.3, Part 1 Portable lithium Primary Cells and Batteries – General and Specifications
+ANSI C18.3, Part 2 Portable lithium Primary Cells and Batteries Safety Standard
+MOD Defence Standard 61-017 The Selection and Introduction of Batteries and Fuel Cells for Service Use
+MOD Defence Standard 61-021 Generic Specification for Batteries
+
+External links
+
+A growing list of battery equivalents and details. Courtesy of the Highfields Amateur Radio Club (Cardiff, UK). (Archived on 31 Jan 2016)
+Duracell Technical OEM Data Sheets
+Energizer/Eveready Data Sheets
+Energizer/Eveready European Data Sheets
+Energizer/Eveready Obsolete Battery Data Sheets
+Brand Neutral Drawings Of Common Batteries Based On ANSI C18-2007
+EU Report on battery labelling
+Batteries CROSS-REFERENCE INDEX

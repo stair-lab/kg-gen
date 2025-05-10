@@ -1,0 +1,41 @@
+The Mayan numeral system was the system to represent numbers and calendar dates in the Maya civilization. It was a vigesimal (base-20) positional numeral system. The numerals are made up of three symbols: zero (a shell), one (a dot) and five (a bar). For example, thirteen is written as three dots in a horizontal row above two horizontal bars; sometimes it is also written as three vertical dots to the left of two vertical bars. With these three symbols, each of the twenty vigesimal digits could be written.
+Numbers after 19 were written vertically in powers of twenty. The Mayan used powers of twenty, just as the Hindu–Arabic numeral system uses powers of ten.
+For example, thirty-three would be written as one dot, above three dots atop two bars. The first dot represents "one twenty" or "1×20", which is added to three dots and two bars, or thirteen. Therefore, (1×20) + 13 = 33.
+
+Upon reaching 202 or 400, another row is started (203 or 8000, then 204 or 160,000, and so on). The number 429 would be written as one dot above one dot above four dots and a bar, or (1×202) + (1×201) + 9 = 429.
+
+Other than the bar and dot notation, Maya numerals were sometimes illustrated by face type glyphs or pictures. The face glyph for a number represents the deity associated with the number. These face number glyphs were rarely used, and are mostly seen on some of the most elaborate monumental carvings.
+
+There are different representations of zero in the Dresden Codex, as can be seen at page 43b (which is concerned with the synodic cycle of Mars). It has been suggested that these pointed, oblong "bread" representations are calligraphic variants of the PET logogram, approximately meaning "circular" or "rounded", and perhaps the basis of a derived noun meaning "totality" or "grouping", such that the representations may be an appropriate marker for a number position which has reached its totality.
+
+Addition and subtraction
+Adding and subtracting numbers below 20 using Mayan numerals is very simple.
+Addition is performed by combining the numeric symbols at each level:
+
+If five or more dots result from the combination, five dots are removed and replaced by a bar. If four or more bars result, four bars are removed and a dot is added to the next higher row. This also means that the value of 1 bar is 5.
+Similarly with subtraction, remove the elements of the subtrahend Symbol from the minuend symbol:
+
+If there are not enough dots in a minuend position, a bar is replaced by five dots. If there are not enough bars, a dot is removed from the next higher minuend symbol in the column and four bars are added to the minuend symbol which is being worked on.
+
+Modified vigesimal system in the Maya calendar
+The "Long Count" portion of the Maya calendar uses a variation on the strictly vigesimal numerals to show a Long Count date. In the second position, only the digits up to 17 are used, and the place value of the third position is not 20×20 = 400, as would otherwise be expected, but 18×20 = 360 so that one dot over two zeros signifies 360.  Presumably, this is because 360 is roughly the number of days in a year. (The Maya had however a quite accurate estimation of 365.2422 days for the solar year at least since the early Classic era.) Subsequent positions use all twenty digits and the place values continue as 18×20×20 = 7,200 and 18×20×20×20 = 144,000, etc.
+Every known example of large numbers in the Maya system uses this 'modified vigesimal' system, with the third position representing multiples of 18×20. It is reasonable to assume, but not proven by any evidence, that the normal system in use was a pure base-20 system.
+
+Origins
+Several Mesoamerican cultures used similar numerals and base-twenty systems and the Mesoamerican Long Count calendar requiring the use of zero as a place-holder. The earliest long count date (on Stela 2 at Chiappa de Corzo, Chiapas) is from 36 BC.
+Since the eight earliest Long Count dates appear outside the Maya homeland, it is assumed that the use of zero and the Long Count calendar predated the Maya, and was possibly the invention of the Olmec. Indeed, many of the earliest Long Count dates were found within the Olmec heartland. However, the Olmec civilization had come to an end by the 4th century BC, several centuries before the earliest known Long Count dates—which suggests that zero was not an Olmec discovery.
+
+Unicode
+Mayan numerals codes in Unicode comprise the block 1D2E0 to 1D2F3
+
+See also
+Kaktovik numerals, a similar system from another culture, created in the late 20th century.
+
+Notes
+References
+Further reading
+External links
+
+Maya numerals converter - online converter from decimal numeration to Maya numeral notation.
+Anthropomorphic Maya numbers - online story of number representations.
+BabelStone Mayan Numerals - free font for Unicode Mayan numeral characters.

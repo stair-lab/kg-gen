@@ -1,0 +1,46 @@
+The Latin adverb sic (; thus, so, and in this manner) inserted after a quotation indicates that the quoted matter has been transcribed or translated as found in the source text, including erroneous, archaic, or unusual spelling, punctuation, and grammar. Sic also applies to any surprising assertion, faulty reasoning, or other matter that might otherwise be interpreted as an error of transcription.
+The typical editorial usage of sic is to inform the reader that any errors in a quotation did not arise from editorial errors in the transcription, but are intentionally reproduced as they appear in the source text being quoted; thus, sic is placed inside brackets to indicate it is not part of the quotation. Sic can also be used derisively to direct the reader's attention to the writer's spelling mistakes and erroneous logic, or to show disapproval of the content or form of the material.
+
+Etymology and historical usage
+In the English language, the Latin adverb sic is used as an adverb, and derivatively as a noun and as a verb. The adverb sic, meaning 'intentionally so written', first appeared in English c. 1856. It is derived from the Latin adverb sīc, which means 'so', 'thus', 'in this manner'. According to the Oxford English Dictionary, the verbal form of sic, meaning 'to mark with a sic', emerged in 1889, E. Belfort Bax's work in The Ethics of Socialism being an early example.
+
+Folk etymologies
+On occasion, sic has been misidentified as an acronym (and therefore sometimes misspelled with periods): s.i.c. is said to stand for "spelled/said in copy/context", "spelling is correct", "spelled incorrectly", and other such folk etymology phrases. These are all incorrect and are simply backronyms from sic.
+
+Modern usage
+Use of sic greatly increased in the mid-20th century. For example, in United States state-court opinions before 1944, sic appeared 1,239 times in the Westlaw database; in those from 1945 to 1990, it appeared 69,168 times, over 55 times as many. Its use as a form of ridicule has been cited as a major factor in this increase. The immoderate use of sic has created some controversy, leading some editors, including bibliographical scholar Simon Nowell-Smith and literary critic Leon Edel, to speak out against it.
+
+Conventional use
+The bracketed form [sic] is most often inserted into quoted or reprinted material to indicate meticulous accuracy in reproducing the preceding text, despite appearances to the reader of an incorrect or unusual orthography (spelling, punctuation, grammar, syntax, fact, logic, etc.). Several usage guides recommend that a bracketed sic be used primarily as an aid to the reader, not as an indicator of disagreement with the source.
+
+Use to denote archaisms and dialect
+Sic may show that an uncommon or archaic expression is reported faithfully, such as when quoting the U.S. Constitution: "The House of Representatives shall chuse [sic] their Speaker ..." However, several writing guidebooks discourage its use with regard to dialect, such as in cases of American and British English spelling differences. The appearance of a bracketed sic after the word analyse in a book review led Bryan A. Garner to comment, "all the quoter (or overzealous editor) [sic] demonstrated was ignorance of British usage".
+
+Ironic use
+Occasionally a writer places [sic] after their own words, to indicate that the language has been chosen deliberately for special effect, especially where the writer's ironic meaning may otherwise be unclear. Bryan A. Garner dubbed this use of sic "ironic", providing the following example from Fred Rodell's 1955 book Nine Men:
+
+[I]n 1951, it was the blessing bestowed on Judge Harold Medina's prosecution [sic] of the eleven so-called 'top native Communists,' which blessing meant giving the Smith Act the judicial nod of constitutionality.
+
+Formatting
+Where sic follows the quotation, it takes brackets: [sic]. The word sic is often treated as a loanword that does not require italics, and the style manuals of New Zealand, Australian and British media outlets generally do not require italicisation. However, italicization is common in the United States, where authorities including APA Style insist upon it.
+Because sic is not an abbreviation, placing a full stop/period inside the brackets after the word sic is erroneous, although the California Style Manual suggests styling it as a parenthetical sentence only when used after a complete sentence, like so: (Sic.)
+
+Alternatives
+Replacement
+Some guides, including The Chicago Manual of Style, recommend "quiet copy-editing" (unless where inappropriate or uncertain) instead of inserting a bracketed sic, such as by substituting in brackets the correct word in place of the incorrect word or by simply replacing an incorrect spelling with the correct one.
+
+Recte
+Alternatively, to show both the original and the suggested correction (as they often are in palaeography), one may give the actual form, followed by recte, then the correct form, in brackets. The Latin adverb recte means rightly. 
+
+An Iraqi battalion has consumed [recte assumed] control of the former American military base, and our forces are now about 40 minutes outside the city.
+According to the Journal of Seventeenth-Century Music Style Sheet, there should be no punctuation, for example no colon, before the correct form when using recte.
+
+Read
+A third alternative is to follow an error with sic, a comma or colon, "read", and the correct reading, all within square brackets, as in the following example:
+
+Item 26 - 'Plan of space alongside Evinghews [sic: read Evening News] Printing Works and overlooked by St. Giles House University Hall', [Edinburgh]
+
+See also
+
+
+== References ==

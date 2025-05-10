@@ -1,0 +1,35 @@
+This is a table of skeletal muscles of the human anatomy, with muscle counts and other information.
+
+Table
+Table explanation and summary
+The muscles are described using anatomical terminology. The columns are as follows:
+
+For Origin, Insertion and Action please name a specific Rib, Thoracic vertebrae or Cervical vertebrae, by using C1-7, T1-12 or R1-12.
+
+Summary in numbers
+There does not appear to be a definitive source counting all skeletal muscles. Different sources group muscles differently, regarding physical features as different parts of a single muscle or as several muscles. There are also vestigial muscles that are present in some people but absent in others, such as the palmaris longus muscle. There are between 600 and 840 muscles within the typical human body, depending on how they are counted. In the present table, using statistical counts of the instances of each muscle, and ignoring gender-specific muscles, there are 753 skeletal muscles. Sometimes male and females have the same muscle but with different purposes
+
+Numbers based on the list above
+Agonistic and antagonistic relationships
+Muscles are often paired as agonistic and antagonistic muscles. This can be a bit misleading as, in general, it is groups of muscles working together to either make or cancel a movement. The present table lists some well-known relationships but is not at all complete.
+
+Innervation overview
+See also
+Accessory muscle
+List of bones of the human skeleton
+List of nerves of the human body
+Circulatory system
+Blood vessel
+
+Notes
+References
+General references
+Gosling, J.A.; Harris, P.F.; Humpherson, J.R.; Whitmore, I.; Willan, P.L.T. (2008). Human Anatomy: Color Atlas and Textbook. phot. by A.L. Bentley (5th ed.). Philadelphia: Mosby. ISBN 978-0-7234-3451-1.
+
+External links
+LUMEN's Master Muscle List from www.meddean.luc.edu
+The Hosford Muscle Tables for the Human Body from PT Central
+Lower Extremity Muscle Atlas from rad.washington.edu
+Tutorial and quizzes on skeletal muscular anatomy
+Muscles of human body (also here)
+Anatomy quiz

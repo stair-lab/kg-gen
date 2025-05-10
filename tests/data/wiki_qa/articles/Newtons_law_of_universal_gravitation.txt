@@ -1,0 +1,1034 @@
+Newton's law of universal gravitation describes gravity as a force by stating that every particle attracts every other particle in the universe with a force that is proportional to the product of their masses and inversely proportional to the square of the distance between their centers of mass. Separated objects attract and are attracted as if all their mass were concentrated at their centers. The publication of the law has become known as the "first great unification", as it marked the unification of the previously described phenomena of gravity on Earth with known astronomical behaviors.
+This is a general physical law derived from empirical observations by what Isaac Newton called inductive reasoning. It is a part of classical mechanics and was formulated in Newton's work Philosophiæ Naturalis Principia Mathematica (Latin for 'Mathematical Principles of Natural Philosophy' (the Principia)), first published on 5 July 1687. 
+The equation for universal gravitation thus takes the form:
+
+  
+    
+      
+        F
+        =
+        G
+        
+          
+            
+              
+                m
+                
+                  1
+                
+              
+              
+                m
+                
+                  2
+                
+              
+            
+            
+              r
+              
+                2
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle F=G{\frac {m_{1}m_{2}}{r^{2}}},}
+  
+
+where F is the gravitational force acting between two objects, m1 and m2 are the masses of the objects, r is the distance between the centers of their masses, and G is the gravitational constant.
+The first test of Newton's law of gravitation between masses in the laboratory was the Cavendish experiment conducted by the British scientist Henry Cavendish in 1798. It took place 111 years after the publication of Newton's Principia and approximately 71 years after his death.
+Newton's law of gravitation resembles Coulomb's law of electrical forces, which is used to calculate the magnitude of the electrical force arising between two charged bodies. Both are inverse-square laws, where force is inversely proportional to the square of the distance between the bodies. Coulomb's law has charge in place of mass and a different constant.
+Newton's law was later superseded by Albert Einstein's theory of general relativity, but the universality of the gravitational constant is intact and the law still continues to be used as an excellent approximation of the effects of gravity in most applications. Relativity is required only when there is a need for extreme accuracy, or when dealing with very strong gravitational fields, such as those found near extremely massive and dense objects, or at small distances (such as Mercury's orbit around the Sun).
+
+History
+Before Newton's law of gravity, there were many theories explaining gravity. Philosophers made observations about things falling down − and developed theories why they do – as early as Aristotle who thought that rocks fall to the ground because seeking the ground was an essential part of their nature.
+Around 1600, the scientific method began to take root. René Descartes started over with a more fundamental view, developing ideas of matter and action independent of theology. Galileo Galilei wrote about experimental measurements of falling and rolling objects. Johannes Kepler's  laws of planetary motion summarized Tycho Brahe's astronomical observations.: 132 
+Around 1666 Isaac Newton developed the idea that Kepler's laws must also apply to the orbit of the Moon around the Earth and then to all objects on Earth. The analysis required assuming that the gravitation force acted as if all of the mass of the Earth were concentrated at its center, an unproven conjecture at that time. His calculations of the Moon orbit time was within 16% of the known value. By 1680, new values for the diameter of the Earth improved his orbit time to within 1.6%, but more importantly Newton had found a proof of his earlier conjecture.: 201 
+In 1687 Newton published his Principia which combined his laws of motion with new mathematical analysis to explain Kepler's empirical results.: 134  His explanation was in the form of a law of universal gravitation: any two bodies are attracted by a force proportional to their mass and inversely proportional to their separation squared.: 28  Newton's original formula was:
+
+  
+    
+      
+        
+          
+            F
+            o
+            r
+            c
+            e
+            
+            o
+            f
+            
+            g
+            r
+            a
+            v
+            i
+            t
+            y
+          
+        
+        ∝
+        
+          
+            
+              m
+              a
+              s
+              s
+              
+              o
+              f
+              
+              o
+              b
+              j
+              e
+              c
+              t
+              
+              1
+              
+              ×
+              
+              m
+              a
+              s
+              s
+              
+              o
+              f
+              
+              o
+              b
+              j
+              e
+              c
+              t
+              
+              2
+            
+            
+              d
+              i
+              s
+              t
+              a
+              n
+              c
+              e
+              
+              f
+              r
+              o
+              m
+              
+              c
+              e
+              n
+              t
+              e
+              r
+              
+                s
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\rm {Force\,of\,gravity}}\propto {\frac {\rm {mass\,of\,object\,1\,\times \,mass\,of\,object\,2}}{\rm {distance\,from\,centers^{2}}}}}
+  
+
+where the symbol 
+  
+    
+      
+        ∝
+      
+    
+    {\displaystyle \propto }
+  
+ means "is proportional to". To make this into an equal-sided formula or equation, there needed to be a multiplying factor or constant that would give the correct force of gravity no matter the value of the masses or distance between them (the gravitational constant). Newton would need an accurate measure of this constant to prove his inverse-square law. When Newton presented Book 1 of the unpublished text in April 1686 to the Royal Society, Robert Hooke made a claim that Newton had obtained the inverse square law from him, ultimately a frivolous accusation.: 204
+
+Newton's "causes hitherto unknown"
+While Newton was able to formulate his law of gravity in his monumental work, he was deeply uncomfortable with the notion of "action at a distance" that his equations implied. In 1692, in his third letter to Bentley, he wrote: "That one body may act upon another at a distance through a vacuum without the mediation of anything else, by and through which their action and force may be conveyed from one another, is to me so great an absurdity that, I believe, no man who has in philosophic matters a competent faculty of thinking could ever fall into it.": 26 
+Newton's 1713 General Scholium in the second edition of Principia explains his model of gravity, translated in this case by Samuel Clarke:
+
+I have explained the Pharnomena  of the Heavens and the Sea, by the Force of Gravity; but the Cause of Gravity I have not yet assigned. It is a Force arising from some Cause, which reaches to the very Centers of the Sun and Planets, without any diminution of its Force: And it acts, not proportionally to the Surfaces of the Particles it acts upon, as Mechanical Causes use to do; but proportionally to the Quantity of Solid Matter: And its Action reaches every way to immense Distances, decreasing always in a duplicate ratio of the Distances. But the Cause of these Properties of Gravity, I have not yet found deducible from Pharnomena: And Hypotheses I make not.: 383  
+The last sentence is Newton's famous and highly debated Latin phrase Hypotheses non fingo. In other translations it comes out "I feign no hypotheses".
+
+Modern form
+In modern language, the law states the following:
+
+Assuming SI units, F is measured in newtons (N), m1 and m2 in kilograms (kg), r in meters (m), and the constant G is 6.67430(15)×10−11 m3⋅kg−1⋅s−2. The value of the constant G was first accurately determined from the results of the Cavendish experiment conducted by the British scientist Henry Cavendish in 1798, although Cavendish did not himself calculate a numerical value for G. This experiment was also the first test of Newton's theory of gravitation between masses in the laboratory. It took place 111 years after the publication of Newton's Principia and 71 years after Newton's death, so none of Newton's calculations could use the value of G; instead he could only calculate a force relative to another force.
+
+Bodies with spatial extent
+If the bodies in question have spatial extent (as opposed to being point masses), then the gravitational force between them is calculated by summing the contributions of the notional point masses that constitute the bodies. In the limit, as the component point masses become "infinitely small", this entails integrating the force (in vector form, see below) over the extents of the two bodies.
+In this way, it can be shown that an object with a spherically symmetric distribution of mass exerts the same gravitational attraction on external bodies as if all the object's mass were concentrated at a point at its center. (This is not generally true for non-spherically symmetrical bodies.)
+For points inside a spherically symmetric distribution of matter, Newton's shell theorem can be used to find the gravitational force. The theorem tells us how different parts of the mass distribution affect the gravitational force measured at a point located a distance r0 from the center of the mass distribution:
+
+The portion of the mass that is located at radii r < r0 causes the same force at the radius r0 as if all of the mass enclosed within a sphere of radius r0 was concentrated at the center of the mass distribution (as noted above).
+The portion of the mass that is located at radii r > r0 exerts no net gravitational force at the radius r0 from the center. That is, the individual gravitational forces exerted on a point at radius r0 by the elements of the mass outside the radius r0 cancel each other.
+As a consequence, for example, within a shell of uniform thickness and density there is no net gravitational acceleration anywhere within the hollow sphere.
+
+Vector form
+Newton's law of universal gravitation can be written as a vector equation to account for the direction of the gravitational force as well as its magnitude. In this formula, quantities in bold represent vectors.
+
+  
+    
+      
+        
+          
+            F
+          
+          
+            21
+          
+        
+        =
+        −
+        G
+        
+          
+            
+              
+                m
+                
+                  1
+                
+              
+              
+                m
+                
+                  2
+                
+              
+            
+            
+              
+                
+                  |
+                
+                
+                  
+                    r
+                  
+                  
+                    21
+                  
+                
+                
+                  |
+                
+              
+              
+                2
+              
+            
+          
+        
+        
+          
+            
+              
+                
+                  r
+                
+                ^
+              
+            
+          
+          
+            21
+          
+        
+        =
+        −
+        G
+        
+          
+            
+              
+                m
+                
+                  1
+                
+              
+              
+                m
+                
+                  2
+                
+              
+            
+            
+              
+                
+                  |
+                
+                
+                  
+                    r
+                  
+                  
+                    21
+                  
+                
+                
+                  |
+                
+              
+              
+                3
+              
+            
+          
+        
+        
+          
+            r
+          
+          
+            21
+          
+        
+      
+    
+    {\displaystyle \mathbf {F} _{21}=-G{m_{1}m_{2} \over {|\mathbf {r} _{21}|}^{2}}{\hat {\mathbf {r} }}_{21}=-G{m_{1}m_{2} \over {|\mathbf {r} _{21}|}^{3}}\mathbf {r} _{21}}
+  
+
+where
+
+F21 is the force applied on body 2 exerted by body 1,
+G is the gravitational constant,
+m1 and m2 are respectively the masses of bodies 1 and 2,
+r21 = r2 − r1 is the displacement vector between bodies 1 and 2, and
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  r
+                
+                ^
+              
+            
+          
+          
+            21
+          
+        
+         
+        
+          
+            
+              
+                =
+              
+              
+                
+                  d
+                  e
+                  f
+                
+              
+            
+          
+        
+         
+        
+          
+            
+              
+                r
+                
+                  2
+                
+              
+              −
+              
+                r
+                
+                  1
+                
+              
+            
+            
+              
+                |
+              
+              
+                
+                  r
+                  
+                    2
+                  
+                
+                −
+                
+                  r
+                  
+                    1
+                  
+                
+              
+              
+                |
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {\mathbf {r} }}_{21}\ {\stackrel {\mathrm {def} }{=}}\ {\frac {\mathbf {r_{2}-r_{1}} }{|\mathbf {r_{2}-r_{1}} |}}}
+  
+ is the unit vector from body 1 to body 2.
+It can be seen that the vector form of the equation is the same as the scalar form given earlier, except that F is now a vector quantity, and the right hand side is multiplied by the appropriate unit vector. Also, it can be seen that F12 = −F21.
+
+Gravity field
+The gravitational field is a vector field that describes the gravitational force that would be applied on an object in any given point in space, per unit mass. It is actually equal to the gravitational acceleration at that point.
+It is a generalisation of the vector form, which becomes particularly useful if more than two objects are involved (such as a rocket between the Earth and the Moon). For two objects (e.g. object 2 is a rocket, object 1 the Earth), we simply write r instead of r12 and m instead of m2 and define the gravitational field g(r) as:
+
+  
+    
+      
+        
+          g
+        
+        (
+        
+          r
+        
+        )
+        =
+        −
+        G
+        
+          
+            
+              m
+              
+                1
+              
+            
+            
+              
+                
+                  |
+                  
+                    r
+                  
+                  |
+                
+                
+                  2
+                
+              
+            
+          
+        
+        
+        
+          
+            
+              r
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {g} (\mathbf {r} )=-G{m_{1} \over {{\vert \mathbf {r} \vert }^{2}}}\,\mathbf {\hat {r}} }
+  
+
+so that we can write:
+
+  
+    
+      
+        
+          F
+        
+        (
+        
+          r
+        
+        )
+        =
+        m
+        
+          g
+        
+        (
+        
+          r
+        
+        )
+        .
+      
+    
+    {\displaystyle \mathbf {F} (\mathbf {r} )=m\mathbf {g} (\mathbf {r} ).}
+  
+
+This formulation is dependent on the objects causing the field. The field has units of acceleration; in SI, this is m/s2.
+Gravitational fields are also conservative; that is, the work done by gravity from one position to another is path-independent. This has the consequence that there exists a gravitational potential field V(r) such that
+
+  
+    
+      
+        
+          g
+        
+        (
+        
+          r
+        
+        )
+        =
+        −
+        ∇
+        V
+        (
+        
+          r
+        
+        )
+        .
+      
+    
+    {\displaystyle \mathbf {g} (\mathbf {r} )=-\nabla V(\mathbf {r} ).}
+  
+
+If m1 is a point mass or the mass of a sphere with homogeneous mass distribution, the force field g(r) outside the sphere is isotropic, i.e., depends only on the distance r from the center of the sphere. In that case
+
+  
+    
+      
+        V
+        (
+        r
+        )
+        =
+        −
+        G
+        
+          
+            
+              m
+              
+                1
+              
+            
+            r
+          
+        
+        .
+      
+    
+    {\displaystyle V(r)=-G{\frac {m_{1}}{r}}.}
+  
+
+As per Gauss's law, field in a symmetric body can be found by the mathematical equation:
+
+where 
+  
+    
+      
+        ∂
+        V
+      
+    
+    {\displaystyle \partial V}
+  
+ is a closed surface and 
+  
+    
+      
+        
+          M
+          
+            enc
+          
+        
+      
+    
+    {\displaystyle M_{\text{enc}}}
+  
+ is the mass enclosed by the surface.
+Hence, for a hollow sphere of radius 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+ and total mass 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  
+,
+
+  
+    
+      
+        
+          |
+        
+        
+          g
+          (
+          r
+          )
+        
+        
+          |
+        
+        =
+        
+          
+            {
+            
+              
+                
+                  0
+                  ,
+                
+                
+                  
+                    if 
+                  
+                  r
+                  <
+                  R
+                
+              
+              
+                
+              
+              
+                
+                  
+                    
+                      
+                        
+                          G
+                          M
+                        
+                        
+                          r
+                          
+                            2
+                          
+                        
+                      
+                    
+                  
+                  ,
+                
+                
+                  
+                    if 
+                  
+                  r
+                  ≥
+                  R
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle |\mathbf {g(r)} |={\begin{cases}0,&{\text{if }}r<R\\\\{\dfrac {GM}{r^{2}}},&{\text{if }}r\geq R\end{cases}}}
+  
+
+For a uniform solid sphere of radius 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+ and total mass 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  
+,
+
+  
+    
+      
+        
+          |
+        
+        
+          g
+          (
+          r
+          )
+        
+        
+          |
+        
+        =
+        
+          
+            {
+            
+              
+                
+                  
+                    
+                      
+                        
+                          G
+                          M
+                          r
+                        
+                        
+                          R
+                          
+                            3
+                          
+                        
+                      
+                    
+                  
+                  ,
+                
+                
+                  
+                    if 
+                  
+                  r
+                  <
+                  R
+                
+              
+              
+                
+              
+              
+                
+                  
+                    
+                      
+                        
+                          G
+                          M
+                        
+                        
+                          r
+                          
+                            2
+                          
+                        
+                      
+                    
+                  
+                  ,
+                
+                
+                  
+                    if 
+                  
+                  r
+                  ≥
+                  R
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle |\mathbf {g(r)} |={\begin{cases}{\dfrac {GMr}{R^{3}}},&{\text{if }}r<R\\\\{\dfrac {GM}{r^{2}}},&{\text{if }}r\geq R\end{cases}}}
+
+Limitations
+Newton's description of gravity is sufficiently accurate for many practical purposes and is therefore widely used. Deviations from it are small when the dimensionless quantities 
+  
+    
+      
+        ϕ
+        
+          /
+        
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \phi /c^{2}}
+  
+ and 
+  
+    
+      
+        (
+        v
+        
+          /
+        
+        c
+        
+          )
+          
+            2
+          
+        
+      
+    
+    {\displaystyle (v/c)^{2}}
+  
+ are both much less than one, where 
+  
+    
+      
+        ϕ
+      
+    
+    {\displaystyle \phi }
+  
+ is the gravitational potential, 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+  
+ is the velocity of the objects being studied, and 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+  
+ is the speed of light in vacuum. For example, Newtonian gravity provides an accurate description of the Earth/Sun system, since
+
+  
+    
+      
+        
+          
+            ϕ
+            
+              c
+              
+                2
+              
+            
+          
+        
+        =
+        
+          
+            
+              G
+              
+                M
+                
+                  
+                    s
+                    u
+                    n
+                  
+                
+              
+            
+            
+              
+                r
+                
+                  
+                    o
+                    r
+                    b
+                    i
+                    t
+                  
+                
+              
+              
+                c
+                
+                  2
+                
+              
+            
+          
+        
+        ∼
+        
+          10
+          
+            −
+            8
+          
+        
+        ,
+        
+        
+          
+            (
+            
+              
+                
+                  v
+                  
+                    
+                      E
+                      a
+                      r
+                      t
+                      h
+                    
+                  
+                
+                c
+              
+            
+            )
+          
+          
+            2
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  2
+                  π
+                  
+                    r
+                    
+                      
+                        o
+                        r
+                        b
+                        i
+                        t
+                      
+                    
+                  
+                
+                
+                  (
+                  1
+                   
+                  
+                    y
+                    r
+                  
+                  )
+                  c
+                
+              
+            
+            )
+          
+          
+            2
+          
+        
+        ∼
+        
+          10
+          
+            −
+            8
+          
+        
+        ,
+      
+    
+    {\displaystyle {\frac {\phi }{c^{2}}}={\frac {GM_{\mathrm {sun} }}{r_{\mathrm {orbit} }c^{2}}}\sim 10^{-8},\quad \left({\frac {v_{\mathrm {Earth} }}{c}}\right)^{2}=\left({\frac {2\pi r_{\mathrm {orbit} }}{(1\ \mathrm {yr} )c}}\right)^{2}\sim 10^{-8},}
+  
+
+where 
+  
+    
+      
+        
+          r
+          
+            orbit
+          
+        
+      
+    
+    {\displaystyle r_{\text{orbit}}}
+  
+ is the radius of the Earth's orbit around the Sun.
+In situations where either dimensionless parameter is large, then general relativity must be used to describe the system. General relativity reduces to Newtonian gravity in the limit of small potential and low velocities, so Newton's law of gravitation is often said to be the low-gravity limit of general relativity.
+
+Observations conflicting with Newton's formula
+Newton's theory does not fully explain the precession of the perihelion of the orbits of the planets, especially that of Mercury, which was detected long after the life of Newton. There is a 43 arcsecond per century discrepancy between the Newtonian calculation, which arises only from the gravitational attractions from the other planets, and the observed precession, made with advanced telescopes during the 19th century.
+The predicted angular deflection of light rays by gravity (treated as particles travelling at the expected speed) that is calculated by using Newton's theory is only one-half of the deflection that is observed by astronomers. Calculations using general relativity are in much closer agreement with the astronomical observations.
+In spiral galaxies, the orbiting of stars around their centers seems to strongly disobey both Newton's law of universal gravitation and general relativity. Astrophysicists, however, explain this marked phenomenon by assuming the presence of large amounts of dark matter.
+
+Einstein's solution
+The first two conflicts with observations above were explained by Einstein's theory of general relativity, in which gravitation is a manifestation of curved spacetime instead of being due to a force propagated between bodies. In Einstein's theory, energy and momentum distort spacetime in their vicinity, and other particles move in trajectories determined by the geometry of spacetime. This allowed a description of the motions of light and mass that was consistent with all available observations. In general relativity, the gravitational force is a fictitious force resulting from the curvature of spacetime, because the gravitational acceleration of a body in free fall is due to its world line being a geodesic of spacetime.
+
+Extensions
+In recent years, quests for non-inverse square terms in the law of gravity have been carried out by neutron interferometry.
+
+Solutions
+The two-body problem has been completely solved, as has the restricted three-body problem.
+The n-body problem is an ancient, classical problem of predicting the individual motions of a group of celestial objects interacting with each other gravitationally. Solving this problem – from the time of the Greeks and on – has been motivated by the desire to understand the motions of the Sun, planets and the visible stars. The classical problem can be informally stated as: given the quasi-steady orbital properties (instantaneous position, velocity and time) of a group of celestial bodies, predict their interactive forces; and consequently, predict their true orbital motions for all future times.
+In the 20th century, understanding the dynamics of globular cluster star systems became an important n-body problem too. The n-body problem in general relativity is considerably more difficult to solve.
+
+See also
+Bentley's paradox – Cosmological paradox involving gravity
+Gauss's law for gravity – Restatement of Newton's law of universal gravitation
+Jordan and Einstein frames – different conventions for the metric tensor, in a theory of a dilaton coupled to gravityPages displaying wikidata descriptions as a fallback
+Kepler orbit – Celestial orbit whose trajectory is a conic section in the orbital plane
+Newton's cannonball – Thought experiment about gravity
+Newton's laws of motion – Laws in physics about force and motion
+Social gravity – Social theory
+Static forces and virtual-particle exchange – Physical interaction in post-classical physics
+
+Notes
+References
+External links
+ Media related to Newton's law of universal gravitation at Wikimedia Commons
+Feather and Hammer Drop on Moon on YouTube
+Newton's Law of Universal Gravitation Javascript calculator

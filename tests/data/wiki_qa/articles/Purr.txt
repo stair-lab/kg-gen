@@ -1,0 +1,42 @@
+A purr or whirr is a tonal fluttering sound made by some species of felids, including both larger, wild cats and the domestic cat (Felis catus), as well as two species of genets. It varies in loudness and tone among species and in the same animal. In smaller and domestic cats it is known as a purr, while in larger felids, such as the cheetah, it is called a whirr.
+Although true purring is exclusive to felids and viverrids, other animals such as raccoons produce vocalizations that sound similar to true purring. Animals that produce purr-like sounds include mongooses, kangaroos, wallabies, wallaroos, badgers, rabbits and guinea pigs.
+Animals purr for a variety of reasons, including to express happiness or fear, and as a defense mechanism. It has also been shown that cats purr to manage pain and soothe themselves. Purring is a soft buzzing sound, similar to a rolled 'r' in human speech, with a fundamental frequency of around 25 Hz.  This sound occurs with noticeable vibrations on the surface of the body, varies in a rhythmic pattern during breathing and occurs continuously during inhalation and exhalation. The intensity and length of the purr can also vary depending on the level of arousal of the animal.
+
+Mechanism
+The mechanism by which cats purr is an object of speculation, with different hypotheses proposed. An early idea was that purring is a hemodynamic process where sound is produced as the blood runs through the thorax.
+There is a unique "neural oscillator" in the cat's brain of uncertain significance. Although the mechanism has not yet been fully explained, recent studies have inferred it could be the result of oscillatory mechanisms in the central nervous system.  Studies have also shown that purring can be caused through electrically stimulating the infundibular region of the cat's brain, suggesting central control.
+
+Vocal folds/laryngeal muscles
+One hypothesis, backed by electromyographic studies, is that cats produce the purring noise by using the vocal folds or the muscles of the larynx to alternately dilate and constrict the glottis rapidly, causing air vibrations during inhalation and exhalation. Combined with the steady inhalation and exhalation of air as the cat breathes, a purring noise is produced with strong harmonics.
+
+Degree of hyoid ossification
+No cat can both purr and roar. The subdivision of the Felidae into "purring cats" (Felinae) on one hand and "roaring cats" (Pantherinae) on the other goes back to Owen and was definitively introduced by Pocock, based on whether the hyoid bone of the larynx is incompletely ("roarers") or completely ("purrers") ossified. However, Weissengruber et al. argued that the ability of a cat species to purr is not affected by the anatomy of its hyoid.
+The "roaring cats" (lion, Panthera leo; tiger, P. tigris; jaguar, P. onca; leopard, P. pardus) have an incompletely ossified hyoid, which, according to this hypothesis, enables them to roar but not to purr. However, the snow leopard (Uncia uncia, or P. uncia), as the fifth felid species with an incompletely ossified hyoid, purrs.
+All remaining species of the family Felidae ("purring cats") have a completely ossified hyoid, which enables them to purr but not to roar. Based on a technical acoustic definition of roaring, the presence of this vocalization type depends on specific characteristics of the vocal folds and an elongated vocal tract, which  is rendered possible by an incompletely ossified hyoid.
+
+Frequency, amplitude, and respiratory variation
+Domestic cats purr at a frequency of 20 to 30 vibrations per second.
+Eklund, Peters & Duthie, comparing purring in a cheetah (Acinonyx jubatus) and a domestic cat (Felis catus) found that the cheetah purred with an average frequency of 20.87 Hz (egressive phases) and 18.32 Hz (ingressive phases), while the much smaller domestic cat purred with an average frequency of 21.98 Hz (egressive phases) and 23.24 Hz (ingressive phases).
+Schötz & Eklund studied purring in four domestic cats and found that the fundamental frequency varied between 20.94 and 27.21 Hz for egressive phases and between 23.0 and 26.09 Hz for ingressive phases. Schötz & Eklund also observed considerable variation between the four cats as regards relative amplitude, duration and frequency between egressive and ingressive phases, but that this variation occurred within the same general range.
+In a follow-up study of purring in four adult cheetahs, Eklund, Peters, Weise & Munro found that egressive phases were longer than ingressive phases in all four cheetahs. Likewise, ingressive phases had a lower frequency than egressive phases in all four cheetahs. Mean frequency were between 19.3 Hz and 20.5 Hz in ingressive phases, and between 21.9 Hz and 23.4 Hz in egressive phases. Moreover, the amplitude was louder in the egressive phases in four cheetahs.
+Eklund & Peters compared purring in adult, subadult and juvenile cheetahs and reported that while there was considerable variation across most of the parameters analyzed (amplitude, phase duration, cycles per phase and fundamental frequency) – mainly attributable to degree of relaxation/agitation in the animals resting or playing– previously reported observations that ingressive phases tend to be lower in frequency were largely confirmed. There were no major differences in these parameters as a function of age.
+
+Purpose
+In domestic cats, many signals that occur when interacting with humans seem to originate from when the animal was dependent on the mother. Cats have been observed to purr for most of their lifespan, starting from when they were young and suckling from their mother. Purring may be a signaling mechanism of reassurance between mother cats and nursing kittens. Post-nursing cats often purr as a sign of contentment when being petted, becoming relaxed or eating. Some purring may be a signal to another animal that the purring cat does not pose a threat.
+Cats have been shown to have different types of purrs depending on situations. For example, purring appears to be a way for cats to signal their caretakers for food. This purring has a high-frequency component not present in other purrs. These are called solicitation purrs (when the cat is seeking a result) and non-solicitation purrs, and the two are distinguishable to humans. In a study, 50 humans were subjected to playbacks of purrs recorded in solicitation and non-solicitation situations at the same amplitude. Humans regularly judged the solicitation purrs as less pleasant and more urgent than the non-solicitation purrs. This variety of purring seems to be found more frequently in cats in a one-to-one relationship with a caretaker. Similarities have been drawn between an infant's cry and the isolation cry of domestic cats. The high-frequency aspect of the purr may subtly exploit humans' sensitivity to these cries. Using sensory biases in communication between species provides cats with a productive means of improving the care that they receive.
+Cats often purr when distressed or in pain, such as during the three stages of labor. In the first stage, the uterus begins to contract, the cervix relaxes, the water breaks and the cat begins to purr. The female cat (queen) will purr and socialize during the first stage of labor. The purring is thought to be a self-relaxation technique.
+
+See also
+Cat communication
+Kneading
+
+References
+Further reading
+Peters, G. (2002). "Purring and similar vocalizations in mammals". Mammal Review. 32 (4): 245–271. doi:10.1046/j.1365-2907.2002.00113.x.
+Stogdale L, Delack JB. Feline purring. Compendium on Continuing Education for the Practicing Veterinarian 1985; 7: 551–553.
+Reprinted in: Voith VL, Borchelt PL (eds). Readings in Companion Animal Behavior. Trenton:  Veterinary Learning Systems, 1996; 269–270.
+
+External links
+
+Why do cats purr? Why do Cheshire cats grin?
+Robert Eklund's Purring Page

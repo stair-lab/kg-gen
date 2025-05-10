@@ -1,0 +1,69 @@
+Diagnosis-related group (DRG) is a system to classify hospital cases into one of originally 467 groups, with the last group (coded as 470 through v24, 999 thereafter) being "Ungroupable". This system of classification was developed as a collaborative project by Robert B Fetter, PhD, of the Yale School of Management, and John D. Thompson, MPH, of the Yale School of Public Health. The system is also referred to as "the DRGs", and its intent was to identify the "products" that a hospital provides.  One example of a "product" is an appendectomy.  The system was developed in anticipation of convincing Congress to use it for reimbursement, to replace "cost based" reimbursement that had been used up to that point.  DRGs are assigned by a "grouper" program based on ICD (International Classification of Diseases) diagnoses, procedures, age, sex, discharge status, and the presence of complications or comorbidities. DRGs have been used in the US since 1982 to determine how much Medicare pays the hospital for each "product", since patients within each category are clinically similar and are expected to use the same level of hospital resources. DRGs may be further grouped into Major Diagnostic Categories (MDCs).  DRGs are also standard practice for establishing reimbursements for other Medicare related reimbursements such as to home healthcare providers.
+
+Purpose
+The original objective of diagnosis-related groups (DRG) was to develop a classification system that identified the "products" that the patient received.  Since the introduction of DRGs in the early 1980s, the healthcare industry has evolved and developed an increased demand for a patient classification system that can serve its original objective at a higher level of sophistication and precision.  To meet those evolving needs, the objective of the DRG system had to expand in scope.
+Several different DRG systems have been developed in the United States.  They include:
+
+Medicare DRG (CMS-DRG & MS-DRG)
+Refined DRGs (R-DRG)
+All Patient DRGs (AP-DRG)
+Severity DRGs (S-DRG)
+All Patient, Severity-Adjusted DRGs (APS-DRG)
+All Patient Refined DRGs (APR-DRG)
+International-Refined DRGs (IR-DRG)
+Other DRG systems have been developed for markets such as Latin America and ASIA, for example:
+
+AVEDIAN DRG Grouper (LAT-GRC)
+
+Statistics
+As of 2003, the top 10 DRGs accounted for almost 30% of acute hospital admissions.: 6 
+In 1991, the top 10 DRGs overall were: normal newborn (vaginal delivery), heart failure, psychoses, Caesarean section, neonate with significant problems, angina pectoris, specific cerebrovascular disorders, pneumonia, and hip/knee replacement. These DRGs comprised nearly 30 percent of all hospital discharges.
+In terms of geographic variation, as of 2011 hospital payments varied across 441 labor markets.
+
+History
+The system was created in the early 1970s by Robert Barclay Fetter and John D. Thompson at Yale University with the material support of the former Health Care Financing Administration (HCFA), now called the Centers for Medicare & Medicaid Services (CMS).
+DRGs were first implemented in New Jersey, beginning in 1980 at the initiative of NJ Health Commissioner Joanne Finley: 13  with a small number of hospitals partitioned into three groups according to their budget positions — surplus, breakeven, and deficit — prior to the imposition of DRG payment. The New Jersey experiment continued for three years, with additional cadres of hospitals being added to the number of institutions each year until all hospitals in New Jersey were dealing with this prospective payment system.
+DRGs were designed to be homogeneous units of hospital activity to which binding prices could be attached. A central theme in the advocacy of DRGs was that this reimbursement system would, by constraining the hospitals, oblige their administrators to alter the behaviour of the physicians and surgeons comprising their medical staffs. Hospitals were forced to leave the "nearly risk-free world of cost reimbursement" and face the uncertain financial consequences associated with the provision of health care. DRGs were designed to provide practice pattern information that administrators could use to influence individual physician behaviour.
+DRGs were intended to describe all types of patients in an acute hospital setting. DRGs encompassed elderly patients as well as new born, pediatric and adult populations.
+The prospective payment system implemented as DRGs had been designed to limit the share of hospital revenues derived from the Medicare program budget. In 1982 the US Congress passed Tax Equity and Fiscal Responsibility Act with provisions to reform Medicare payment, and in 1983, an amendment was passed to use DRGs for Medicare,: 16  with HCFA (now CMS) maintaining the definitions.
+In 1988, New York state passed legislation instituting DRG-based payments for all non-Medicare patients. This legislation required that the New York State Department of Health (NYS DOH) evaluate the applicability of Medicare DRGs to a non-Medicare population.  This evaluation concluded that the Medicare DRGs were not adequate for a non-Medicare population.  Based on this evaluation, the NYS DOH entered into an agreement with 3M to research and develop all necessary DRG modifications. The modifications resulted in the initial APDRG, which differed from the Medicare DRG in that it provided support for transplants, high-risk obstetric care, nutritional disorders, and pediatrics along with support for other populations.  One challenge in working with the APDRG groupers is that there is no set of common data/formulas that is shared across all states as there is with CMS.  Each state maintains its own information.
+The history, design, and classification rules of the DRG system, as well as its application to patient discharge data and updating procedures, are presented in the CMS DRG Definitions Manual (Also known as the Medicare DRG Definitions Manual and the Grouper Manual). A new version generally appears every October. The 20.0 version appeared in 2002.
+In 2007, author Rick Mayes described DRGs as:
+
+...the single most influential postwar innovation in medical financing: Medicare's prospective payment system (PPS). Inexorably rising medical inflation and deep economic deterioration forced policymakers in the late 1970s to pursue radical reform of Medicare to keep the program from insolvency. Congress and the Reagan administration eventually turned to the one alternative reimbursement system that analysts and academics had studied more than any other and had even tested with apparent success in New Jersey: prospective payment with diagnosis-related groups (DRGs). Rather than simply reimbursing hospitals whatever costs they charged to treat Medicare patients, the new model paid hospitals a predetermined, set rate based on the patient's diagnosis. The most significant change in health policy since Medicare and Medicaid's passage in 1965 went virtually unnoticed by the general public. Nevertheless, the change was nothing short of revolutionary. For the first time, the federal government gained the upper hand in its financial relationship with the hospital industry. Medicare's new prospective payment system with DRGs triggered a shift in the balance of political and economic power between the providers of medical care (hospitals and physicians) and those who paid for it - power that providers had successfully accumulated for more than half a century.
+
+United States state-based usage
+DRGs were originally developed in New Jersey before the federal adoption for Medicare in 1983.: 16  After the federal adoption, the system was adopted by states, including in Medicaid payment systems, with twenty states using some DRG-based system in 1991; however, these systems may have their own unique adjustments.: 17 
+In 1992, New Jersey repealed the DRG payment system after political controversy.: 21
+
+Example calculation
+DRG changes
+International
+DRGs and similar systems have expanded internationally; for example, in Europe some countries imported the scheme from US or Australia, and in other cases they were developed independently. In England, a similar set of codes exist called Health Resource Groups.: 199  As of 2018, Asian countries such as South Korea, Japan, and Thailand have limited adoption of DRGs.
+Latin American countries use a DRG system adapted to regionally extended medical classifications and nomenclatures. This DRG system is called AVEDIAN DRG GROUPER (LAT-GRC).
+
+See also
+Case mix index
+Diagnosis code
+Healthcare Resource Group, UK's implementation
+International Classification of Diseases (ICD)
+Medical classification
+Ambulatory Patient Group, similar to DRG but for outpatient care
+Risk of mortality (ROM)
+Severity of illness (SOI)
+Pay for Performance
+
+References
+External links
+Official CMS website
+CMS Acute Inpatient Prospective Payment System
+DRG codes for FY2005, also referred to as version 23
+DRG codes for FY2010, also referred to as version 27
+MS-DRG Grouper version 35 (FY2018) Software, PC and Mainframe, supports versions 16-35
+Healthcare Cost and Utilization Project (Search engine can be used to find Definitions Manual)
+Agency for Healthcare Research and Quality (AHRQ).
+DRG definition.
+Most Frequent Diagnoses and Procedures for DRGs Archived 2012-06-19 at the Wayback Machine.
+Medical Billing and Coding Information Guide
+Diagnosis Related Groups (DRGs) and the Medicare Program - Implications for Medical Technology (PDF format). A 1983 document found in the "CyberCemetery: OTA Legacy" section of University of North Texas Libraries Government Documents department.
+Mayes, Rick, "The Origins, Development, and Passage of Medicare's Revolutionary Prospective Payment System" Journal of the History of Medicine and Allied Sciences Volume 62, Number 1, January 2007, pp. 21–55

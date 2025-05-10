@@ -1,0 +1,59 @@
+The degree symbol or degree sign, °, is a glyph or symbol that is used, among other things, to represent degrees of arc (e.g. in geographic coordinate systems), hours (in the medical field), degrees of temperature or alcohol proof. The symbol consists of a small superscript circle.
+
+History
+The word degree is equivalent to Latin gradus which, since the medieval period, could refer to any stage in a graded system of ranks or steps. The number of the rank in question was indicated by ordinal numbers, in abbreviation with the ordinal indicator (a superscript letter ⟨o⟩). 
+Use of "degree" specifically for the degrees of arc, used in conjunction with Arabic numerals, became common in the 16th century, but this was initially without the use of an ordinal marker or degree symbol: instead, various abbreviation of gradus (e.g., Gra., Gr., gr., G.). The modern notation appears in print in the 1570s, with a borderline example by Jacques Pelletier du Mans in 1569, and was popularized by, among others, Tycho Brahe and Johannes Kepler, but didn't become universal.
+Similarly, the introduction of the temperature scales with degrees in the 18th century was at first without such symbols, but with the word "gradus" spelled out. Use of the degree symbol was introduced for temperature in the later 18th century and became widespread in the early 19th century. Antoine Lavoisier in his "Opuscules physiques et chymiques" (1774) used the masculine ordinal indicator with Arabic numerals – for example, when he wrote in the introduction:
+
+... une suite d'Expériences [...] 1º. sur l'existence du même fluide élastique [...] (p. vi)
+(... a series of experiments [...] firstly, on the existence of that same elastic fluid [...])
+The 1º. is to be read as primo meaning "in the first place", followed by 2º.  ("in the second place"), etc. In the same work, when Lavoisier gives a temperature, he spells out the word "degree" explicitly.
+An early use of the degree symbol for temperature is that by Henry Cavendish in 1776 for degrees of the Fahrenheit scale.
+The symbol is also declared as a notation for degrees of arc as early as 1831, in an American mathematics textbook for schools.
+
+Typography
+In the case of degrees of angular arc, the degree symbol follows the number without any intervening space, e.g. 30°. The addition of minute and second of arc follows the degree units, with intervening spaces (optionally, non-breaking space) between the sexagesimal degree subdivisions but no spaces between the numbers and units, for example 30° 12′ 5″.
+In the case of degrees of temperature, three scientific and engineering standards bodies (the International Bureau of Weights and Measures, the International Organization for Standardization and the U.S. Government Printing Office) prescribe printing temperatures with a space between the number and the degree symbol, e.g. 10 °C. However, in many works with professional typesetting, including scientific works published by the University of Chicago Press or Oxford University Press, the degree symbol is printed with no spaces between the number, the symbol, and the Latin letters "C" or "F" representing Celsius or Fahrenheit, respectively, e.g. 10°C. This is also the practice of the University Corporation for Atmospheric Research, which operates the National Center for Atmospheric Research. Both ASTM International and NIST, the official US entities related to the standardization of the use of units, require a space between the numerical value and the unit designator, except when the degree symbol alone is used to denote an angular value.
+Use of the degree symbol to refer to temperatures measured in kelvins (symbol: K) was abolished in 1967 by the 13th General Conference on Weights and Measures (CGPM). Therefore, the triple point of water, for instance, is written simply as 273.16 K. The name of the SI unit of temperature is now "kelvin", in lower case, and no longer "degrees Kelvin".
+In photography, the symbol is used to denote logarithmic film speed grades. In this usage, it follows the number without spacing as in 21° DIN, 5° ASA or ISO 100/21°.
+
+Encoding
+The degree symbol is included in Unicode as U+00B0 ° DEGREE SIGN (&deg;).
+For use with wide character fonts, there are also code points for U+2103 ℃ DEGREE CELSIUS and U+2109 ℉ DEGREE FAHRENHEIT.
+The degree sign was not included in the basic 7-bit ASCII set of 1963. In 1987, the ISO/IEC 8859 standard introduced it at position 0xB0 (176 decimal) in all variants except Part 5 (Cyrillic), 6 (Arabic), 7 (Greek) and 11 (Thai). In 1991, the Unicode standard incorporated all of the ISO/IEC 8859 code points and thus included the degree sign (at U+00B0)..
+The Windows Code Page 1252 was an extension of ISO/IEC 8859-1 (8859 Part 1 or "ISO Latin-1") standard, so it had the degree sign at the same code point, 0xB0. The code point in the older DOS Code Page 437 was 0xF8 (248 decimal); therefore, the Alt code used to enter the symbol directly from the keyboard is Alt+248.
+
+Lookalikes
+Other characters with similar appearance but different meanings include:
+
+U+00BA º MASCULINE ORDINAL INDICATOR (&ordm;) (indicator used in Italian, Spanish and Portuguese that follows a numeral denoting that it is an ordinal number, rather than a cardinal number;  varies with the font and sometimes underlined)
+U+1D52 ᵒ MODIFIER LETTER SMALL O (superscript letter o)
+U+02DA ˚ RING ABOVE (&ring;) (standalone)
+U+030A ◌̊ COMBINING RING ABOVE (applied to a letter)
+U+0325 ◌̥ COMBINING RING BELOW (applied to a letter)
+U+0366 ◌ͦ COMBINING LATIN SMALL LETTER O (applied to a letter)
+U+309C ゜ KATAKANA-HIRAGANA SEMI-VOICED SOUND MARK (standalone)
+U+309A ◌゚ COMBINING KATAKANA-HIRAGANA SEMI-VOICED SOUND MARK (applied to a letter)
+(precomposed characters containing this mark also exists)
+U+18DE ᣞ CANADIAN SYLLABICS FINAL SMALL RING (stand alone, typically representing either ⟨w⟩ or ⟨y⟩)
+(precomposed characters containing this mark also exists)
+U+2070 ⁰ SUPERSCRIPT ZERO
+U+2080 ₀ SUBSCRIPT ZERO
+U+2218 ∘ RING OPERATOR (&compfn;, &SmallCircle;)
+U+29B5 ⦵ CIRCLE WITH HORIZONTAL BAR (&ohbar;) (used in superscripted form, ⦵, to mean standard state (chemistry))
+U+1BC85 𛲅 DUPLOYAN AFFIX HIGH CIRCLE
+U+1BC95 𛲕 DUPLOYAN AFFIX LOW CIRCLE
+U+26AC ⚬ MEDIUM SMALL WHITE CIRCLE
+
+Keyboard entry
+Some computer keyboard layouts, such as the QWERTY layout as used in Italy, the QWERTZ layout as used in Germany, Austria and Switzerland, and the AZERTY layout as used in France and Belgium, have the degree symbol available directly on a key. But the common keyboard layouts in English-speaking countries do not include the degree sign, which then has to be input some other way. The method of inputting depends on the operating system and keyboard mapping being used.
+
+See also
+Geometric Shapes (Unicode block)
+List of typographical symbols and punctuation marks
+Prime (symbol)
+Question mark
+
+References
+External links
+Earliest Uses of Symbols from Geometry

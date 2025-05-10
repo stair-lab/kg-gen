@@ -1,0 +1,64 @@
+Simlish is a constructed language devised by game designer Will Wright for the Sims game series developed by Electronic Arts. During the development of SimCopter (1996), Wright sought to avoid real-world languages, believing that players would grow to show disdain for repetitive dialogue. For the release of The Sims, Maxis recorded hundreds of voice clips with unique cadences and emotional nuance.
+Simlish is featured prominently within the franchise of The Sims and its spinoff MySims series. It has since extended to various video games within the Sim series, including SimCity 4 (2003), SimCity Societies (2007), SimCity (2013), and SimCity BuildIt (2014) of the SimCity series of games. Simlish appears as a language within Spore (2008) and Firaxis Games's Sid Meier's SimGolf (2004).
+
+History
+While developing SimCopter (1996), designer Will Wright explicitly avoided using real-world languages such that players could resonate with the emotions of the characters rather than their speech. The initial dialogue team—comprising Wright, audio lead Robi Kauker, voice director Claire Curtin, sound designer Kent Jolly, and composer Jerry Martin—began by using musical instruments reminiscent of the "wah wah" sound effect heard in some Peanuts animated specials. The idea to use musical instruments was quickly scrapped.
+Wright experimented with several real-world languages to use within The Sims, including Ukrainian, Navajo, Tagalog, and Estonian, but faced difficulty in finding voice actors and developing a unique identity for the language; with regards to the Ukrainian language, its Slavic undertone was unsuitable for the project. Simlish ultimately became a combination of these languages. One voice actor based in San Francisco, Stephen Kearin, recounted being given a pidgin version of Swahili and Cherokee. Kearin then suggested he speak gibberish, and Wright agreed. Until 2006, Kearin and his female counterpart Gerri Lawlor served as the Simlish actors.
+
+Development
+Since SimCopter's release, Simlish has adapted. In The Sims (2000), a trill is heard that resembles a Spanish trill, whereas later games have chosen to favor English pronunciations. Online Simlish dictionaries have emerged, signalling a departure from pragmatic uses. According to Kauker, The Sims had 3,000 to 4,000 voice events split between Kearin and Lawlor. In The Sims 2 (2004), over 50,000 lines of dialogue were recorded across a team of 11. For The Sims 2, Maxis used Max developed by Cycling '74 with the digital signal processor (DSP) plugin MSP and the manipulation plugin Jitter, both by Cycling '74.
+
+Phonology
+Although Simlish is not intended to be a structured language, it shares several rules in how it is pronounced.
+
+Consonants
+Simlish consonants are limited; while English permits three consonants in a row, such as in the word "strong", Simlish words may use up to two consonants sequentially. However, these consonants may be used in unorthodox ways in comparison to English, such as bwu.
+
+Vowels
+In Simlish, some vowels may become diphthongized. For example, e may become eɪ, and o may become oʊ.
+
+Syllables and stress
+Simlish and English have an equal amount of energetic masking and acoustic-phonetic interference, but while the English condition has linguistic interference, Simlish does not. Additionally, the Simlish condition does not suppress semantic processing and is thus less resource-demanding.
+
+Phonotactics
+The author of the linguistics blog Wug Life argued that the phonotactics of Simlish and English were the same, allowing artists who speak Spanish to effortlessly translate their songs into Simlish due to the similarities in the phonotactics of English and Spanish. The post cites the lack of Simlish and English words that lack vowels, such as the word vlk, which means "wolf" in Czech.
+
+Grammar
+Pronouns
+The word "vou" or "voo" means "you" in English. The word "ah" can be used as a first-person subject pronoun, such as Ah sha noop! "I should know!"
+
+Possessive determiners
+To demonstrate personal possessiveness, the word "ma" can be used.
+
+Ma doctork. "My doctor."
+
+Verbs
+In the indicative mood, the word "zerpa" means "there is" or "there's", as in Zerpa stamby imba bweb. "There's a stranger in my bed."
+
+Vocabulary
+Several Simlish words are officially recognized, such as nooboo "baby" and fliblia "fire". English may be transcribed into Simlish, as was done to transcribe Katy Perry songs into Simlish. For instance, the word "boo leyar" is equivalent to "boulevard", as are "par" to "park" and "crabbi car" to "credit card". The word "like" is unchanged between English and Simlish.
+
+Phrases and words
+atohteh: I really have to pee.
+awasa poa: I'm bored.
+boobasnot: I don't like you.
+oh feebee lay: I'm hungry.
+o mee pooba: I'm pregnant.
+shpansa: cheers.
+wabadebadoo: [literally or figuratively] I'm on fire.
+
+Greetings
+The most universally agreed upon greeting in Simlish is sul sul (equivalent to aloha in Hawaiian), which may be used for greetings or farewells. According to the developers, it was created as a spliced phrase. Alternatively, the phrase o vwa vwaf sna "nice to meet you" or dag dag "goodbye" can be used.
+
+Writing system
+In the world of The Sims, text is often omitted from signs. Stop signs in The Sims (2000), for example, do not have text and use a flat, white hand against a red octagon to depict the object. The Simlish alphabet does not match either the Latin or the Cyrillic alphabets. The symbol for the Simoleon—a currency used throughout the series—is §. When writing texts, dingbats from the Wingdings font appear.
+
+In other media
+Simlish appears in Spore (2008), developed by Maxis, as well as Firaxis Games's Sid Meier's SimGolf (2004). An app for Amazon Alexa devices that understands Simlish was released in 2019. Howard Jones produced a Simlish version of his song "Things Can Only Get Better." It can be found on CD 4 of the clamshell edition of Celebrate It Together - The Very Best Of Howard Jones 1983-2023.
+
+References
+Primary
+Secondary
+Works cited
+Adams, Michael (October 27, 2011). From Elvish to Klingon: Exploring Invented Languages. Oxford: Oxford University Press. ISBN 9780191631603.
+Brouwer, Susanne; Akkermans, Noortje; Hendriks, Lieke; van Uden, Hanne; Wilms, Veerle (2022). ""Lass frooby noo!" the interference of song lyrics and meaning on speech intelligibility". Journal of Experimental Psychology: Applied. 28 (3): 576–588. doi:10.1037/xap0000368. hdl:2066/240874. PMID 34323547. S2CID 236498338. Retrieved May 15, 2023.

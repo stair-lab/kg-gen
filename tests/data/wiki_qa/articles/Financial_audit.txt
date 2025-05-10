@@ -1,0 +1,139 @@
+A financial audit is conducted to provide an opinion whether "financial statements" (the information is verified to the extent of reasonable assurance granted) are stated in accordance with specified criteria. Normally, the criteria are international accounting standards, although auditors may conduct audits of financial statements prepared using the cash basis or some other basis of accounting appropriate for the organization. In providing an opinion whether financial statements are fairly stated in accordance with accounting standards, the auditor gathers evidence to determine whether the statements contain material errors or other misstatements.
+
+Overview
+The audit opinion is intended to provide reasonable assurance, but not absolute assurance, that the financial statements are presented fairly, in all material respects, and/or give a true and fair view in accordance with the financial reporting framework. The purpose of an audit is to provide an objective independent examination of the financial statements, which increases the value and credibility of the financial statements produced by management, thus increase user confidence in the financial statement, reduce investor risk and consequently reduce the cost of capital of the preparer of the financial statements.
+In accordance with the US Generally Accepted Accounting Principles (US GAAP), auditors must release an opinion of the overall financial statements in the auditor's report. Auditors can release three types of statements other than an unqualified/unmodified opinion:
+
+The unqualified auditor's opinion is the opinion that the financial statements are presented fairly.
+A qualified opinion is that the financial statements are presented fairly in all material respects in accordance with US GAAP, except for a material misstatement that does not however pervasively affect the user's ability to rely on the financial statements.
+A qualified opinion with a scope limitation of limited significance may also be issued. Further the auditor can instead issue a disclaimer, because there is insufficient and appropriate evidence to form an opinion or because of lack of independence. In a disclaimer the auditor explains the reasons for withholding an opinion and explicitly indicates that no opinion is expressed. Finally, an adverse audit opinion is issued when the financial statements do not present fairly due to departure from US GAAP and the departure materially affects the financial statements overall.
+In an adverse auditor's report, the auditor must explain the nature and size of the misstatement and must state the opinion that the financial statements do not present fairly in accordance with US GAAP.
+Financial audits are typically performed by firms of practicing accountants who are experts in financial reporting. The financial audit is one of many assurance functions provided by accounting firms. Many organizations separately employ or hire internal auditors, who do not attest to financial reports but focus mainly on the internal controls of the organization. External auditors may choose to place limited reliance on the work of internal auditors. Auditing promotes transparency and accuracy in the financial disclosures made by an organization, therefore would likely reduce such corporations concealment of unscrupulous dealings.
+Internationally, the International Standards on Auditing (ISA) issued by the International Auditing and Assurance Standards Board (IAASB) is considered as the benchmark for audit process. Almost all jurisdictions require auditors to follow the ISA or a local variation of the ISA.
+Financial audits exist to add credibility to the implied assertion by an organization's management that its financial statements fairly represent the organization's position and performance to the firm's stakeholders. The principal stakeholders of a company are typically its shareholders, but other parties such as tax authorities, banks, regulators, suppliers, customers and employees may also have an interest in knowing that the financial statements are presented fairly, in all material aspects. An audit is not designed to provide absolute assurance, being based on sampling and not the testing of all transactions and balances; rather it is designed to reduce the risk of a material financial statement misstatement whether caused by fraud or error. A misstatement is defined in ISA 450 as an error, omitted disclosure or inappropriate accounting policy. "Material" is an error or omission that would affect the users decision.  Audits exist because they add value through easing the cost of information asymmetry and reducing information risk, not because they are required by law (note: audits are obligatory in many EU-member states and in many jurisdictions are obligatory for companies listed on public stock exchanges).
+For collection and accumulation of audit evidence, certain methods and means generally adopted by auditors are:
+
+Posting checking
+Testing the existence and effectiveness of management controls that prevent financial statement misstatement
+Casting checking
+Physical examination and count
+Confirmation
+Inquiry
+Observation
+Inspection
+Year-end scrutiny
+Re-computation
+Tracing in subsequent period
+Bank reconciliation
+Vouching
+Verification of existence, ownership, title and value of assets and determination of the extent and nature of liabilities
+Financial audit is a profession known for its male dominance. According to the latest survey, it found that 70–80% of financial auditors are male, with 2% being female and the rest being a mixture of both (Bader, 2018).
+
+The Big Four
+Greenwood et al. (1990) defined the audit firm as, "a professional partnership that has a decentralized organization relationship between the national head office and local offices". Local offices can make most of the managerial decisions except for the drawing up of professional standards and maintaining them.
+The Big Four are the four largest international professional services networks, offering audit, assurance, tax, consulting, advisory, actuarial, corporate finance, and legal services. They handle the vast majority of audits for publicly traded companies as well as many private companies, creating an oligopoly in auditing large companies. It is reported that the Big Four audit 99% of the companies in the FTSE 100, and 96% of the companies in the FTSE 250 Index, an index of the leading mid-cap listing companies. The Big Four firms are shown below, with their latest publicly available data. None of the Big Four firms is a single firm; rather, they are professional services networks. Each is a network of firms, owned and managed independently, which have entered into agreements with other member firms in the network to share a common name, brand and quality standards. Each network has established an entity to co-ordinate the activities of the network. In one case (KPMG), the co-ordinating entity is Swiss, and in three cases (Deloitte Touché Tohmatsu, PricewaterhouseCoopers and Ernst & Young) the co-ordinating entity is a UK limited company. Those entities do not themselves perform external professional services, and do not own or control the member firms. They are similar to law firm networks found in the legal profession. In many cases each member firm practices in a single country, and is structured to comply with the regulatory environment in that country. In 2007 KPMG announced a merger of four member firms (in the United Kingdom, Germany, Switzerland and Liechtenstein) to form a single firm. Ernst & Young also includes separate legal entities which manage three of its four areas: Americas, EMEIA (Europe, The Middle East, India and Africa), and Asia-Pacific. (The Japan area does not have a separate area management entity).  These firms coordinate services performed by local firms within their respective areas but do not perform services or hold ownership in the local entities. This group was once known as the "Big Eight", and was reduced to the "Big Six" and then "Big Five" by a series of mergers. The Big Five became the Big Four after the demise of Arthur Andersen in 2002, following its involvement in the Enron scandal.
+
+Costs
+Costs of audit services can vary greatly dependent upon the nature of the entity, its transactions, industry, the condition of the financial records and financial statements, and the fee rates of the CPA firm. A commercial decision such as the setting of audit fees is handled by companies and their auditors. Directors are responsible for setting the overall fee as well as the audit committee. The fees are set at a level that could not lead to audit quality being compromised. The scarcity of staffs and the lower audit fee lead to very low billing realization rates. As a result, accounting firms, such as KPMG, PricewaterhouseCoopers and Deloitte who used to have very low technical inefficiency, have started to use AI tools.
+
+History
+Audit of government expenditure
+The earliest surviving mention of a public official charged with auditing government expenditure is a reference to the Auditor of the Exchequer in England in 1314. The Auditors of the Impresa were established under Queen Elizabeth I in 1559 with formal responsibility for auditing Exchequer payments. This system gradually lapsed and in 1780, Commissioners for Auditing the Public Accounts were appointed by statute.  From 1834, the Commissioners worked in tandem with the Comptroller of the Exchequer, who was charged with controlling the issuance of funds to the government.
+As Chancellor of the Exchequer, William Ewart Gladstone initiated major reforms of public finance and Parliamentary accountability. His 1866 Exchequer and Audit Departments Act required all departments, for the first time, to produce annual accounts, known as appropriation accounts. The Act also established the position of Comptroller and Auditor General (C&AG) and an Exchequer and Audit Department (E&AD) to provide supporting staff from within the civil service. The C&AG was given two main functions – to authorize the issue of public money to government from the Bank of England, having satisfied himself that this was within the limits Parliament had voted – and to audit the accounts of all Government departments and report to Parliament accordingly.
+Auditing of UK government expenditure is now carried out by the National Audit Office. The Australian National Audit Office conducts all financial statement audits for entities controlled by the Australian Government.
+
+Origins of Financial Audit
+The origins of financial audit begin in the 1800s in England, where the need for accountability first arose. As people began to recognize the benefits of financial audits, the need for standardization became more apparent and the use of financial audits spread into the United States. In the early 1900s financial audits began to take on a form more resembling what is see in the twenty-first century.
+The first laws surrounding audit formed in England in the beginning of the nineteenth century and helped the financial sector in England prosper. To fully gain the trust of the public, the auditor profession would need to grow and standardize itself and establish organizations, becoming equally accountable across the country and the world.
+In 1845 England, accompanied by new law, the first corporation was formed. The law required auditors who owned a share of the company but who did not directly manage the company's operations. Audit financial documents had been presented to shareholders, but at this point anyone could be an auditor. In these early days there was little accountability or standardization.
+Financial auditing, and various other English accounting practices, first came to the United States in the late nineteenth century. These practices came by way of British and Scottish investors who wanted to stay more informed on their American investments. Around this same time, an American accounting system was taking root.
+Within the next 10 years (1896), professionals had the opportunity to become accredited by obtaining a license to become a Certified Public Accountant. Copious amounts of the auditing work done at the end of the 19th century were by chartered accountants from England and Scotland. This included the work of Arthur Young, Edwin Guthrie, and James T. Anyon.
+In the 1910s financial audits came under scrutiny for their unstandardized practices of accounting for various items, including tangible and intangible assets. Notably was the article "The Abuse of the Audit in Selling Securities" written by Alexander Smith in 1912, the article detailed the flaws of the auditing system. While others in the industry agreed with Smith's comments, many believed standardization was impossible.
+As the reputation of accounting firms grew, federal agencies began to seek out their advice. The Federal Trade Commission (FTC) and the Federal Reserve Board inquired about auditing procedures by requesting a technical memorandum in 1917. The Institute provided this guidance, which was to be published by the Federal Reserve Board as a bulletin. The Board and FTC each had their own agenda by requesting this memorandum. The former wanted to inform bankers on how important it was to obtain audited financial statements from borrowers, whilst the latter was to encourage uniform accounting. This bulletin included information about recommended auditing procedures in addition to the format for the profit and loss statement and the balance sheet. The memorandum was revised and published making it the first authoritative guidance published in the United States in regard to auditing procedures.
+It was not until 1932, when the New York Stock Exchange began requiring financial audits, that the practice started to standardize. It did not become a requirement for newly listed companies until 1933 when the Securities Act of 1933 and the Securities Exchange Act of 1934 were enacted by President Franklin D. Roosevelt. The latter created the Securities and Exchange Commission, which required all current and new registrants to have audited financial statements. In doing so, the services that CPAs could provide became more valued and requested.
+In the United States, the accounting and auditing profession reached its peak from the 1940s to the 1960s. The SEC was reliant on the Institute for the auditing procedures used by accounting firms during engagements. Additionally, in 1947 a committee from the Institute advocated for "generally accepted auditing standards", which were approved in the following year. These standards governed the terms of the auditor's performance relating to professional conduct and the execution of the auditor's judgment during engagements.
+
+Governance and oversight
+In the United States, the SEC has generally deferred to the accounting industry (acting through various organizations throughout the years) as to the accounting standards for financial reporting, and the U.S. Congress has deferred to the SEC.
+This is also typically the case in other developed economies.  In the UK, auditing guidelines are set by the institutes (including ACCA, ICAEW, ICAS and ICAI) of which auditing firms and individual auditors are members. While in Australia, the rules and professional code of ethics are set by The Institute of Chartered Accountants Australia (ICAA), CPA Australia (CPA) and The National Institute of Accountants (NIA).
+Accordingly, financial auditing standards and methods have tended to change significantly only after auditing failures.  The most recent and familiar case is that of Enron. The company succeeded in hiding some important facts, such as off-book liabilities, from banks and shareholders. Eventually, Enron filed for bankruptcy, and (as of 2006) is in the process of being dissolved.  One result of this scandal was that Arthur Andersen, then one of the five largest accountancy firms worldwide, lost their ability to audit public companies, essentially killing off the firm.
+A recent trend in audits (spurred on by such accounting scandals as Enron and Worldcom) has been an increased focus on internal control procedures, which aim to ensure the completeness, accuracy and validity of items in the accounts, and restricted access to financial systems.  This emphasis on the internal control environment is now a mandatory part of the audit of SEC-listed companies, under the auditing standards of the Public Company Accounting Oversight Board (PCAOB) set up by the Sarbanes–Oxley Act.
+Many countries have government sponsored or mandated organizations who develop and maintain auditing standards, commonly referred to generally accepted auditing standards or GAAS. These standards prescribe different aspects of auditing such as the opinion, stages of an audit, and controls over work product (i.e., working papers).
+Some oversight organizations require auditors and audit firms to undergo a third-party quality review periodically to ensure the applicable GAAS is followed.
+
+Stages of an audit
+The following are the stages of a typical audit:
+
+Phase I: planning of audit and design an audit approach
+Accept Client and Perform Initial Planning.
+Understand the Client's Business and Industry.
+What should auditors understand?
+The relevant industry, regulatory, and other external factors including the applicable financial reporting framework
+The nature of the entity
+The entity's selection and application of accounting policies
+The entity's objectives and strategies, and the related business risks that may result in material misstatement of the financial statements
+The measurement and review of the entity's financial performance
+Internal control relevant to the audit
+Assess Client's Business Risk
+Set Materiality and Assess Accepted Audit Risk (AAR) and Inherent Risk (IR).
+Understand Internal Control and Assess Control Risk (CR).
+Develop Overall Audit Plan and Audit Program
+
+Phase II: perform test of controls and substantive test of transactions
+Test of Control: if the auditor plans to reduce the determined control risk, then the auditor should perform the test of control, to assess the operating effectiveness of internal controls (e.g. authorization of transactions, account reconciliations, segregation of duties) including IT General Controls.  If internal controls are assessed as effective, this will reduce (but not eliminate) the amount of 'substantive' work the auditor needs to do (see below).
+Substantive test of transactions: evaluate the client's recording of transactions by verifying the monetary amounts of transactions, a process called substantive tests of transactions. For example, the auditor might use computer software to compare the unit selling price on duplicate sales invoices with an electronic file of approved prices as a test of the accuracy objective for sales transactions. Like the test of control in the preceding paragraph, this test satisfies the accuracy transaction-related audit objective for sales. For the sake of efficiency, auditors often perform tests of controls and substantive tests of transactions at the same time.
+Assess Likelihood of Misstatement in Financial Statement.
+Notes:
+
+At this stage, if the auditor accept the CR that has been set at the phase I and does not want to reduce the controls risk, then the auditor may not perform test of control. If so, then the auditor perform substantive test of transactions.
+This test determines the amount of work to be performed i.e. substantive testing or test of details.
+
+Phase III: perform analytical procedures and tests of details of balances
+where internal controls are strong, auditors typically rely more on Substantive Analytical Procedures (the comparison of sets of financial information, and financial with non-financial information, to see if the numbers 'make sense' and that unexpected movements can be explained)
+where internal controls are weak, auditors typically rely more on Substantive Tests of Detail of Balance (selecting a sample of items from the major account balances, and finding hard evidence (e.g. invoices, bank statements) for those items)
+Notes:
+
+Some audits involve a 'hard close' or 'fast close' whereby certain substantive procedures can be performed before year-end.  For example, if the year-end is 31 December, the hard close may provide the auditors with figures as at 30 November.  The auditors would audit income/expense movements between 1 January and 30 November, so that after year end, it is only necessary for them to audit the December income/expense movements and 31 December balance sheet.  In some countries and accountancy firms these are known as 'rollforward' procedures.
+
+Phase IV: complete the audit and issue an audit report
+After the auditor has completed all procedures for each audit objective and for each financial statement account and related disclosures, it is necessary to combine the information obtained to reach an overall conclusion as to whether the financial statements are fairly presented. This highly subjective process relies heavily on the auditor's professional judgment. When the audit is completed, the CPA must issue an audit report to accompany the client's published financial statements.
+
+Responsibilities of an auditor
+Corporations Act 2001 requires the auditor to:
+
+Give a true and fair view about whether the financial report complies with the accounting standards
+Conduct their audit in accordance with auditing standards
+Give the directors and auditor's independence declaration and meet independence requirements
+Report certain suspected contraventions to ASIC
+
+Commercial relationships versus objectivity
+One of the major issues faced by private auditing firms is the need to provide independent auditing services while maintaining a business relationship with the audited company.
+The auditing firm's responsibility to check and confirm the reliability of financial statements may be limited by pressure from the audited company, who pays the auditing firm for the service.  The auditing firm's need to maintain a viable business through auditing revenue may be weighed against its duty to examine and verify the accuracy, relevancy, and completeness of the company's financial statements. This is done by auditor.
+Numerous proposals are made to revise the current system to provide better economic incentives to auditors to perform the auditing function without having their commercial interests compromised by client relationships.  Examples are more direct incentive compensation awards and financial statement insurance approaches. See, respectively, Incentive Systems to Promote Capital Market Gatekeeper Effectiveness and Financial Statement Insurance.
+
+Related qualifications
+There are several related professional qualifications in the field of financial audit including Certified Internal Auditor, Certified General Accountant, Chartered Certified Accountant, Chartered Accountant and Certified Public Accountant.
+
+Auditors and technology
+Currently, many entities being audited are using information systems, which generate information electronically. For the audit evidences, auditors get dynamic information generated from the information systems in real time. There are less paper documents and pre-numbered audit evidences available, which leads a revolution to audit mythology.
+
+Impact of information technology on the audit process
+Over the past couple of years, technology is becoming a bigger emphasis for the audit profession, professional bodies, and regulators. From operational efficiency to financial inclusion and increased insights, technology has a lot to offer. The way businesses are performed and data is analyzed is changing as a result of technological advancements. Data management is becoming increasingly important. Artificial intelligence, blockchain, and data analytics are major changers in the accounting and auditing industries, altering auditors' roles. The introduction of cloud computing and cloud storage has opened up previously unimaginable possibilities for data collection and analysis. Auditors can now acquire and analyze broader industry data sets that were previously unreachable by going beyond the constraints of business data. As a result, auditors are better equipped to spot data anomalies, create business insights, and focus on business and financial reporting risk.
+
+Impacts of technology on the accounting profession
+Artificial intelligence
+This refers to machines that do tasks that need some kind of 'intelligence,' which can include learning, sensing, thinking, creating, attaining goals, and generating and interpreting language. Recent advances in AI have relied on approaches like machine learning and deep learning, in which algorithms learn how to do tasks like classify objects or predict values through statistical analysis of enormous amounts of data rather than explicit programming.
+Machine learning uses data analytics to simultaneously and continuously learn and identify data patterns allowing it to make predictions based on the data. Currently, Deloitte and PricewaterhouseCoopers (PWC) are both using machine learning tools within their companies to aid in financial auditing. Deloitte uses a software called Argus, which reads and scans documents to identify key contract terms and other outliers within the documents. PWC uses Halo, which is another machine learning technology that analyzes journal entries in the accounting books to identify areas of concern.
+
+Blockchain
+Blockchain is a fundamental shift in the way records are created, maintained, and updated. Blockchain records are distributed among all users rather than having a single owner. The blockchain approach's success is based on the employment of a complicated system of agreement and verification to ensure that, despite the lack of a central owner and time gaps between all users, a single, agreed-upon version of the truth is propagated to all users as part of a permanent record. This results in a type of 'universal entry bookkeeping,' in which each participant receives an identical and permanent copy of a single entry.
+Blockchain technology has seen its growth within the financial auditing sector. Blockchain is a decentralized, distributed ledger, which makes it reliable and nearly impossible to be breached. Blockchain is also able to verify the authenticity of transactions in real time, giving it the ability to alert necessary parties for fraud. This helps improve the audit process and the accuracy of the audit. Before, auditors had to manually go through thousands of entries in a sample and now with blockchain technology, every single transaction is verified as soon as it is entered.
+
+Cyber security
+Cyber security protects networks, systems, devices, and data from attack, unauthorized access, and harm. Cyber security best practices also include a broader range of operations such as monitoring IT infrastructures, detecting attacks or breaches, and responding to security failures. The spread of cyber risk across all organizational activities, the external nature of many of the risks, and the rate of change in the risk are just a few of the issues that organizations face in developing effective risk management around cyber security.
+Numerous banks and financial organizations are studying blockchain security solutions as a means of mitigating risk, cyber risks, and fraud. While these latter systems are less susceptible to cyberattacks that may bring the entire network down, security concerns remain, as a successful hack would allow access to not just the data saved at a particular point, but to all data in the digital ledger.
+
+See also
+
+
+== References ==

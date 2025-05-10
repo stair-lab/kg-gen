@@ -1,0 +1,46 @@
+The cubic foot (symbol ft3 or cu ft) is an imperial and US customary (non-metric) unit of volume, used in the United States and the United Kingdom. It is defined as the volume of a cube with sides of one foot (0.3048 m) in length, or exactly 28.316846592 L, which is very close to ⁠1/35⁠ of a cubic metre).
+
+Conversions
+Symbols and abbreviations
+The IEEE symbol for the cubic foot is ft3. The following abbreviations are used: cubic feet, cubic foot, cubic ft, cu feet, cu foot, cu ft, cu.ft, cuft, cb ft, cb.ft, cbft, cbf, feet3, foot3, ft3, feet/-3, foot/-3, ft/-3.
+Larger multiples are in common usage in commerce and industry in the United States:
+
+CCF or HCF: Centum (Latin hundred) cubic feet; i.e., 100 cu ft (2.8 m3)
+Used in the billing of natural gas and water delivered to households.
+MCF: Mille (Latin thousand) cubic feet; i.e., 1,000 cu ft (28.3 m3)
+MMCF: Mille mille (= million) cubic feet; i.e., 1,000,000 cu ft (28,320 m3)
+MMCFD: MMCF per day; i.e., 1000000 ft3/d
+Used in the oil and gas industry.
+BCF or TMC: Billion or thousand million cubic feet; i.e., 1,000,000,000 cu ft (28,320,000 m3)
+TMC is usually used for referring to storage capacity and actual storage volume of storage dams.
+TCF: Trillion cubic feet; i.e., 1000000000000 ft3
+Used in the oil and gas industry.
+
+Cubic foot per second and related flow rates
+The IEEE symbol for the cubic foot per second is ft3/s. The following other abbreviations are also sometimes used:
+
+ft3/sec
+cu ft/s
+cfs or CFS
+cusec
+second-feet
+The flow or discharge of rivers, i.e., the volume of water passing a location per unit of time, is commonly expressed in units of cubic feet per second or cubic metres per second.
+Cusec is a unit of flow rate, used mostly in the United States in the context of water flow, particularly of rivers and canals.
+Conversions: 1 ft3s−1 = 0.0283168 m3/s = 28.3168 L/s  = 1.699011 m3/min = 1,699.011 L/min
+
+Cubic foot per minute
+The IEEE symbol for the cubic foot per minute is ft3/min. The following abbreviations are used:
+
+cu ft/min
+cufm
+cfm or CFM
+cfpm or CFPM
+Cubic feet per minute is used to measure the amount of air that is being delivered, and is a common metric used for carburetors, pneumatic tools, and air-compressor systems.
+
+Standard cubic foot
+A standard cubic foot (abbreviated scf) is a measure of quantity of gas, sometimes defined in terms of standard temperature and pressure as a cubic foot of volume at 60 °F (16 °C; 289 K) and 14.7 pounds per square inch (1.01 bar; 101 kPa) of pressure.
+
+See also
+
+
+== References ==

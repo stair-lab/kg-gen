@@ -1,0 +1,99 @@
+A googol is the large number 10100 or ten to the power of one hundred. In decimal notation, it is written as the digit 1 followed by one hundred zeros: 10,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000. Its systematic name is ten duotrigintillion (short scale) or ten sexdecilliard (long scale). Its prime factorization is 2100 × 5100.
+
+Etymology
+The term was coined in 1920 by 9-year-old Milton Sirotta (1911–1981), nephew of American mathematician Edward Kasner. He may have been inspired by the contemporary comic strip character Barney Google. Kasner popularized the concept in his 1940 book Mathematics and the Imagination. Other names for this quantity include ten duotrigintillion on the short scale (commonly used in English speaking countries), ten thousand sexdecillion on the long scale, or ten sexdecilliard on the Peletier long scale.
+
+Size
+A googol has no special significance in mathematics. However, it is useful when comparing with other very large quantities, such as the number of subatomic particles in the visible universe or the number of hypothetical possibilities in a chess game. Kasner used it to illustrate the difference between an unimaginably large number and infinity, and in this role it is sometimes used in teaching mathematics. To put in perspective the size of a googol, the mass of an electron, just under 10−30 kg, can be compared to the mass of the visible universe, estimated at between 1050 and 1060 kg. It is a ratio in the order of about 1080 to 1090, or at most one ten-billionth of a googol (0.00000001% of a googol).
+Carl Sagan pointed out that the total number of elementary particles in the universe is around 1080 (the Eddington number) and that if the whole universe were packed with neutrons so that there would be no empty space anywhere, there would be around 10128. He also noted the similarity of the second calculation to that of Archimedes in The Sand Reckoner. By Archimedes's calculation, the universe of Aristarchus (roughly 2 light years in diameter), if fully packed with sand, would contain 1063 grains. If the much larger observable universe of today were filled with sand, it would still only equal 1095 grains. The number would have to be 100,000 times bigger to make a googol.
+The decay time for a supermassive black hole of roughly 1 galaxy-mass (1011 solar masses) due to Hawking radiation is on the order of 10100 years. Therefore, the heat death of an expanding universe is lower-bounded to occur at least one googol years in the future.
+A googol is considerably smaller than a centillion.
+
+Properties
+A googol is approximately equal to 
+  
+    
+      
+        70
+        !
+        ≈
+        1.1979
+        ×
+        
+          10
+          
+            100
+          
+        
+      
+    
+    {\displaystyle 70!\approx 1.1979\times 10^{100}}
+  
+ (factorial of 70). Using an integral, binary numeral system, one would need 333 bits to represent a googol, i.e., 
+  
+    
+      
+        
+          10
+          
+            100
+          
+        
+        =
+        
+          2
+          
+            (
+            100
+            
+              /
+            
+            
+              
+                l
+                o
+                g
+              
+              
+                10
+              
+            
+            2
+            )
+          
+        
+        ≈
+        
+          2
+          
+            332.19280949
+          
+        
+      
+    
+    {\displaystyle 10^{100}=2^{(100/\mathrm {log} _{10}2)}\approx 2^{332.19280949}}
+  
+. However, a googol is well within the maximum bounds of an IEEE 754 double-precision floating point type without full precision in the mantissa.
+Using modular arithmetic, the series of residues (mod n) of one googol, starting with mod 1, is as follows:
+
+0, 0, 1, 0, 0, 4, 4, 0, 1, 0, 1, 4, 3, 4, 10, 0, 4, 10, 9, 0, 4, 12, 13, 16, 0, 16, 10, 4, 16, 10, 5, 0, 1, 4, 25, 28, 10, 28, 16, 0, 1, 4, 31, 12, 10, 36, 27, 16, 11, 0, ... (sequence A066298 in the OEIS)
+This sequence is the same as that of the residues (mod n) of a googolplex up until the 17th position.
+
+Cultural impact
+Widespread sounding of the word occurs through the name of the company Google, with the name "Google" being an accidental misspelling of "googol" by the company's founders, which was picked to signify that the search engine was intended to provide large quantities of information. In 2004, family members of Kasner, who had inherited the right to his book, were considering suing Google for their use of the term "googol"; however, no suit was ever filed.
+Since October 2009, Google has been assigning domain names to its servers under the domain "1e100.net", the scientific notation for 1 googol, in order to provide a single domain to identify servers across the Google network.
+The word is notable for being the subject of the £1 million question in a 2001 episode of the British quiz show Who Wants to Be a Millionaire?, when contestant Charles Ingram was discovered to have cheated his way through the show with the help of a confederate in the studio audience.
+
+See also
+Googolplex
+Graham's number
+Skewes' number
+Infinity
+Names of large numbers
+
+References
+External links
+
+Weisstein, Eric W. "Googol". MathWorld.
+Googol at PlanetMath.
+Padilla, Tony; Symonds, Ria. "Googol and Googolplex". Numberphile. Brady Haran. Archived from the original on 2014-03-29. Retrieved 2013-04-06.

@@ -1,0 +1,75 @@
+Bryophytes () are a group of land plants (embryophytes), sometimes treated as a taxonomic division referred to as Bryophyta sensu lato, that contains three groups of non-vascular land plants: the liverworts, hornworts, and mosses. In the strict sense, the division Bryophyta consists of the mosses only. Bryophytes are characteristically limited in size and prefer moist habitats although some species can survive in drier environments. The bryophytes consist of about 20,000 plant species. Bryophytes produce enclosed reproductive structures (gametangia and sporangia), but they do not produce flowers or seeds. They reproduce sexually by spores and asexually by fragmentation or the production of gemmae.
+Though bryophytes were considered a paraphyletic group in recent years, almost all of the most recent phylogenetic evidence supports the monophyly of this group, as originally classified by Wilhelm Schimper in 1879.
+The term bryophyte comes from Ancient Greek  βρύον (brúon) 'tree moss, liverwort' and  φυτόν (phutón) 'plant'.
+
+Features
+The defining features of bryophytes are:
+
+Their life cycles are dominated by a multicellular haploid gametophyte stage
+Their sporophytes are diploid and unbranched
+They do not have a true vascular tissue containing lignin (although some have specialized tissues for the transport of water)
+
+Distribution
+Bryophytes exist in a wide variety of habitats. They can be found growing in a range of temperatures (cold arctics and in hot deserts), elevations (sea-level to alpine), and moisture (dry deserts to wet rain forests). Bryophytes can grow where vascularized plants cannot because they do not depend on roots for uptake of nutrients from soil. Bryophytes can survive on rocks and bare soil.
+
+Life cycle
+Like all land plants (embryophytes), bryophytes have life cycles with alternation of generations. In each cycle, a haploid gametophyte, each of whose cells contains a fixed number of unpaired chromosomes, alternates with a diploid sporophyte, whose cells contain two sets of paired chromosomes. Gametophytes produce haploid sperm and eggs which fuse to form diploid zygotes that grow into sporophytes. Sporophytes produce haploid spores by meiosis, that grow into gametophytes.
+Bryophytes are gametophyte dominant, meaning that the more prominent, longer-lived plant is the haploid gametophyte. The diploid sporophytes appear only occasionally and remain attached to and nutritionally dependent on the gametophyte. In bryophytes, the sporophytes are always unbranched and produce a single sporangium (spore producing capsule), but each gametophyte can give rise to several sporophytes at once.
+Liverworts, mosses and hornworts spend most of their lives as gametophytes. Gametangia (gamete-producing organs), archegonia and antheridia, are produced on the gametophytes, sometimes at the tips of shoots, in the axils of leaves or hidden under thalli. Some bryophytes, such as the liverwort Marchantia, create elaborate structures to bear the gametangia that are called gametangiophores. Sperm are flagellated and must swim from the antheridia that produce them to archegonia which may be on a different plant. Arthropods can assist in transfer of sperm.
+Fertilized eggs become zygotes, which develop into sporophyte embryos inside the archegonia. Mature sporophytes remain attached to the gametophyte. They consist of a stalk called a seta and a single sporangium or capsule. Inside the sporangium, haploid spores are produced by meiosis. These are dispersed, most commonly by wind, and if they land in a suitable environment can develop into a new gametophyte. Thus bryophytes disperse by a combination of swimming sperm and usually wind-dispersed spores, in a manner similar to lycophytes, ferns and other cryptogams.
+The sporophyte develops differently in the three groups. Both mosses and hornworts have a meristem zone where cell division occurs. In hornworts, the meristem starts at the base where the foot ends, and the division of cells pushes the sporophyte body upwards. In mosses, the meristem is located between the capsule and the top of the stalk (seta), and produces cells downward, elongating the stalk and elevating the capsule. In liverworts the meristem is absent and the elongation of the sporophyte is caused almost exclusively by cell expansion.
+
+Sexuality
+The arrangement of antheridia and archegonia on an individual bryophyte plant is usually constant within a species, although in some species it may depend on environmental conditions. The main division is between species in which the antheridia and archegonia occur on the same plant and those in which they occur on different plants. The term monoicous may be used where antheridia and archegonia occur on the same gametophyte and the term dioicous where they occur on different gametophytes.
+In seed plants, "monoecious" is used where flowers with anthers (microsporangia) and flowers with ovules (megasporangia) occur on the same sporophyte and "dioecious" where they occur on different sporophytes. These terms occasionally may be used instead of "monoicous" and "dioicous" to describe bryophyte gametophytes. "Monoecious" and "monoicous" are both derived from the Greek for "one house", "dioecious" and "dioicous" from the Greek for two houses. The use of the "-oicy" terminology refers to the gametophyte sexuality of bryophytes as distinct from the sporophyte sexuality of seed plants.
+Monoicous plants are necessarily hermaphroditic, meaning that the same plant produces gametes of both sexes. The exact arrangement of the antheridia and archegonia in monoicous plants varies. They may be borne on different shoots (autoicous), on the same shoot but not together in a common structure (paroicous or paroecious), or together in a common "inflorescence" (synoicous or synoecious). Dioicous plants are unisexual, meaning that an individual plant has only one sex. All four patterns (autoicous, paroicous, synoicous and dioicous) occur in species of the moss genus Bryum.
+
+Classification and phylogeny
+Traditionally, all living land plants without vascular tissues were classified in a single taxonomic group, often a division (or phylum). The term "Bryophyta" was first suggested by Braun in 1864. As early as 1879, the term Bryophyta was used by German bryologist Wilhelm Schimper to describe a group containing all three bryophyte clades (though at the time, hornworts were considered part of the liverworts). G.M. Smith placed this group between Algae and Pteridophyta. Although a 2005 study supported this traditional monophyletic view, by 2010 a broad consensus had emerged among systematists that bryophytes as a whole are not a natural group (i.e., are paraphyletic). However, a 2014 study concluded that these previous phylogenies, which were based on nucleic acid sequences, were subject to composition biases, and that, furthermore, phylogenies based on amino acid sequences suggested that the bryophytes are monophyletic after all. Since then, partially thanks to a proliferation of genomic and transcriptomic datasets, almost all phylogenetics studies based on nuclear and chloroplastic sequences have concluded that the bryophytes form a monophyletic group. Nevertheless, phylogenies based on mitochondrial sequences fail to support the monophyletic view.
+The three bryophyte clades are the Marchantiophyta (liverworts), Bryophyta (mosses) and Anthocerotophyta (hornworts). However, it has been proposed that these clades are de-ranked to the classes Marchantiopsida, Bryopsida, and Anthocerotopsida, respectively. There is now strong evidence that the liverworts and mosses belong to a monophyletic clade, called Setaphyta.
+
+Monophyletic view
+The favored model, based on amino acids phylogenies, indicates bryophytes as a monophyletic group:
+
+Consistent with this view, compared to other living land plants, all three lineages lack vascular tissue containing lignin and branched sporophytes bearing multiple sporangia. The prominence of the gametophyte in the life cycle is also a shared feature of the three bryophyte lineages (extant vascular plants are all sporophyte dominant). However, if this phylogeny is correct, then the complex sporophyte of living vascular plants might have evolved independently of the simpler unbranched sporophyte present in bryophytes. Furthermore, this view implies that stomata evolved only once in plant evolution, before being subsequently lost in the liverworts.
+
+Paraphyletic view
+In this alternative view, the Setaphyta grouping is retained, but hornworts instead are sister to vascular plants. (Another paraphyletic view involves hornworts branching out first.)
+
+Traditional morphology
+Traditionally, when basing classifications on morphological characters, bryophytes have been distinguished by their lack of vascular structure. However, this distinction is problematic, firstly because some of the earliest-diverging (but now extinct) non-bryophytes, such as the horneophytes, did not have true vascular tissue, and secondly because many mosses have well-developed water-conducting vessels. A more useful distinction may lie in the structure of their sporophytes. In bryophytes, the sporophyte is a simple unbranched structure with a single spore-forming organ (sporangium), whereas in all other land plants, the polysporangiophytes, the sporophyte is branched and carries many sporangia. The contrast is shown in the cladogram below:
+
+Evolution
+There have probably been several different terrestrialization events, in which originally aquatic organisms colonized the land, just within the lineage of the Viridiplantae. Between 510 and 630 million years ago, however, land plants emerged within the green algae. Molecular phylogenetic studies conclude that bryophytes are the earliest diverging lineages of the extant land plants. They provide insights into the migration of plants from aquatic environments to land. A number of physical features link bryophytes to both land plants and aquatic plants.
+
+Similarities to algae and vascular plants
+Green algae, bryophytes and vascular plants all have chlorophyll a and b, and the chloroplast structures are similar. Like green algae and land plants, bryophytes also produce starch stored in the plastids and contain cellulose in their walls. Distinct adaptations observed in bryophytes have allowed plants to colonize Earth's terrestrial environments. To prevent desiccation of plant tissues in a terrestrial environment, a waxy cuticle covering the soft tissue of the plant may be present, providing protection. In hornworts and mosses, stomata provide gas exchange between the atmosphere and an internal intercellular space system. The development of gametangia provided further protection specifically for gametes, the zygote and the developing sporophyte. The bryophytes and vascular plants (embryophytes) also have embryonic development which is not seen in green algae. While bryophytes have no truly vascularized tissue, they do have organs that are specialized for transport of water and other specific functions, analogous for example to the functions of leaves and stems in vascular land plants.
+Bryophytes depend on water for reproduction and survival. In common with ferns and lycophytes, a thin layer of water is required on the surface of the plant to enable the movement of the flagellated sperm between gametophytes and the fertilization of an egg.
+
+Comparative morphology
+Summary of the morphological characteristics of the gametophytes of the three groups of bryophytes:
+
+Summary of the morphological characteristics of the sporophytes of the three groups of bryophytes:
+
+Uses
+Environmental
+Characteristics of bryophytes make them useful to the environment. Depending on the specific plant texture, bryophytes have been shown to help improve the water retention and air space within soil. Bryophytes are used in pollution studies to indicate soil pollution (such as the presence of heavy metals), air pollution, and UV-B radiation. Gardens in Japan are designed with moss to create peaceful sanctuaries. Some bryophytes have been found to produce natural pesticides. The liverwort, Plagiochila, produces a chemical that is poisonous to mice. Other bryophytes produce chemicals that are antifeedants which protect them from being eaten by slugs. When Phythium sphagnum is sprinkled on the soil of germinating seeds, it inhibits growth of "damping off fungus" which would otherwise kill young seedlings.
+
+Commercial
+Peat is a fuel produced from dried bryophytes, typically Sphagnum. Bryophytes' antibiotic properties and ability to retain water make them a useful packaging material for vegetables, flowers, and bulbs. Also, because of its antibiotic properties, Sphagnum was used as a surgical dressing in World War I.
+
+See also
+Plant sexuality
+List of British county and local bryophyte floras
+Thallophyta
+
+References
+Bibliography
+Lesica, P.; McCune, B.; Cooper, S. V.; Hong, W. S. (1991). "Differences in lichen and bryophyte communities between old-growth and managed second-growth forests in the Swan Valley, Montana". Canadian Journal of Botany. 69 (8): 1745–1755. doi:10.1139/b91-222.
+
+External links
+
+Andrew's Moss Site Photos of bryophytes
+27-May-2013 Centuries-old frozen plants revived, 400-year-old bryophyte specimens left behind by retreating glaciers in Canada are brought back to life in the laboratory.
+Farge, Catherine La; Williams, Krista H.; England, John H. (22 May 2013). "Regeneration of Little Ice Age bryophytes emerging from a polar glacier with implications of totipotency in extreme environments". Proceedings of the National Academy of Sciences. 110 (24): 9839–9844. Bibcode:2013PNAS..110.9839L. doi:10.1073/pnas.1304199110. PMC 3683725. PMID 23716658.
+Magill, R. E., ed. (1990). Glossarium polyglottum bryologiae. A multilingual glossary for bryology. Monographs in Systematic Botany from the Missouri Botanical Garden, v. 33, 297 pp. Online version: Internet Archive.

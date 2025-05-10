@@ -1,0 +1,93 @@
+.eu is the country code top-level domain (ccTLD) for the European Union (EU). Launched on 7 December 2005, the domain is available for any person, company or organization based in the European Union. This was extended to the European Economic Area in 2014, after the regulation was incorporated into the EEA Agreement, and hence is also available for any person, company or organization based in Iceland, Liechtenstein and Norway. The TLD is administered by EURid, a consortium originally consisting of the national ccTLD registry operators of Belgium, Sweden, and Italy, joined later by the national registry operator of the Czech Republic. Trademark owners were able to submit registrations through a sunrise period, in an effort to prevent cybersquatting. Full registration started on 7 April 2006.
+
+History
+Establishment
+The .eu ccTLD was approved by ICANN on 22 March 2005 and put in the Internet root zone on 2 May 2005. Even though the EU is not a country (it is a sui generis intergovernmental and supranational organisation), it has an exceptional reservation in ISO 3166. The Commission and ICANN had extended negotiations lasting more than five years to secure its acceptance.
+.eu.int was the subdomain most used by the European Commission and the European Parliament, based on the .int generic top-level domain (gTLD) for international bodies, until 9 May 2006. The .eu domain (ccTLD) was launched in December 2005, and because of this most .eu.int domain names changed to .europa.eu on Europe day, 9 May 2006.
+
+Sunrise period
+The sunrise period was broken into two phases. The first phase, which began on 7 December 2005 was to facilitate applications by registrants with prior rights based on trademarks and geographic names. The second phase began on 7 February 2006 and covered company, trade and personal names. In the case of all Sunrise applications, the application needed to be accompanied by documents proving the claim to ownership of a certain right. The decision was then made by PricewaterhouseCoopers Belgium, which had been chosen as the validation agent by EURid.
+On 7 February 2006, the registry was opened for company, trade and personal names. In the first 15 minutes, there were 27,949 total applications, and after one hour, 71,235.
+
+Landrush
+On 7 April 2006 at 11 am CET registration became possible for non-trademark holders. Most people requesting domains had asked their registrars to put their requested domains in a queue, ensuring the best chance to register a domain. This way more than 700,000 domains were registered during the first 4 hours of operation. Some large registrars like GoDaddy and small registrars like Dotster suffered from long queues and unresponsiveness, allowing people to 'beat the queue' by registering through a registrar that had already processed its queue. By August 2006, 2 Million .eu domains had been registered. It was then fourth-largest ccTLD in Europe, after .de, .uk and .nl, and is one of the largest internationally.
+The number of .eu domain registrations during the year after the landrush 7 April 2006 to 6 April 2007 seems to have peaked at approximately 2.6 million .eu domains. The market adjustment that follows a landrush in any domain name extension ensures that the number of registered domains will fall as many speculative domain registrations that failed to be resold will not be renewed. This is sometimes referred to as the Junk Dump. On the morning of 7 April 2007, the number of active .eu domains stood at 2,590,160 with approximately 15,000 domains having been deleted since 5 April 2007.
+
+Stabilisation
+Approximately 1.5 million .eu domains were up for renewal in April 2007. The EURid registry software is based on the DNS.be software and domains are physically renewed at the end of the month of their anniversary of registration. This process differs from more sophisticated registries like that of .com TLD and other ccTLDs that operate on a daily basis. As with any post-landrush phase, an extension shrinks as the Junk Dump takes effect.
+Over one year after the launch of .eu (5 July 2007), the number of .de domains registered was 11,079,557 according to the German .de registry's statistics page, while number of German owned .eu domains according to EURid's statistics page was 796,561. The number of .uk domains registered was 6,038,732 according to .uk registry Nominet's statistics page. The number of apparently UK owned .eu domains was 344,584.
+The extent of the shrinkage of .eu ccTLD is difficult to estimate because EURid does not publish detailed statistics on the number of new domains registered each day. Instead it provides only a single figure for the number of active domains. The number of new registrations are combined with numbers of domains registered. Approximately 250,000 .eu domains were either deleted or moved into quarantine by 30 April 2007. In the intervening years the renewal rate has stabilised to approximately 80%, which is above the industry average.
+
+Brexit
+On 29 March 2018, as a consequence of the United Kingdom's exit from the European Union, it was announced that "as of the withdrawal date, undertakings and organisations that are established in the United Kingdom but not in the EU, and natural persons who reside in the United Kingdom will no longer be eligible to register .eu domain names or, if they are .eu registrants, to renew .eu domain names registered before the withdrawal date". The commission announced on 27 April 2018 that it would like to open registration to all EU and EEA citizens, including those living outside the EU. The Parliament, the council, and the Commission reached an agreement on this in December 2018, and the corresponding regulation passed the Parliament on 31 January 2019.
+The 317,000 British .eu domain names were subject to Brexit negotiations because the .eu domain is reserved for European Union use. The .eu Brexit would have occurred on 30 March 2020, in case of no deal, but had since been postponed to January 2021. The UK-EU free trade deal does not cover .eu domains.
+The United Kingdom Government released guidance for British citizens regarding .eu domains in October 2020, and .eu holders with a British address attached have been contacted twice by the domain registry regarding their domains – once in October 2020, once in December 2020.
+British citizens had their .eu domains suspended on 1 January 2021 for six months, and then withdrawn on 1 July 2021 after a grace period to allow EU/EEA citizens to update the registration information to show their non-UK address. From 1 January 2022, they were revoked and made available for registration by other entities. This is the first case of its kind where an institution managing an internet top-level domain has withdrawn domains en masse for an entire country.
+
+Use by the European Union institutions
+The second-level domain .europa.eu has been reserved for EU institution sites, with institutions and agencies making the switch from .eu.int to .europa.eu domains on the Europe day of 9 May 2006.
+
+Actual use
+The main users of .eu domains are websites with pan-European or cross-border intentions and audiences. It is often used to emphasise the 'European identity' of a website, as opposed to the website having a strictly national ccTLD or global "dotcom" nature. Alternative (opportunistic) uses include Basque webpages (as the initial letters of Euskadi or the language Euskara) and Romanian, Portuguese, or Galician personal sites, as eu is the equivalent of the English pronoun 'I' in those languages.
+In most countries of the EU, the national ccTLDs have the major share of the market with the remainder spread over .com/.net/.org/.info/.biz. As a result of this, .eu has had an uphill battle to gain a significant share of these national markets. The dominant players tend to be the national ccTLD and .com. The other TLDs such as .net, .org and to a lesser extent .info and .biz have progressively smaller shares of these national markets.
+Some .eu domain names have had some popularity, such as torrentz2.eu. As of November 2019, according to the Tranco rank, the top 100 thousand most popular domains in the world included over 200 .eu domains.
+
+Parking and redirects
+As of around 2010, some statistics indicated a large number of .eu domains being used to direct to other domains.
+
+Some domain registrants use their .eu website as a web portal containing a list of their national websites with national ccTLDs.
+Other registrants have registered a .eu domain name to protect the brand name of their main website or domain, and redirect visitors to their pre-existing national ccTLD or .com website. (example: www.champagne.eu)
+12.8% of .eu websites are parking pages with pay per click (PPC) advertisements. ISPs and web hosters will often point unused domains to a domain parking webpage with PPC advertising. This percentage does not include .eu domains that are pointed to holding pages or not set up in DNS.
+26% of .eu domain names are redirects for existing national ccTLD or .com websites.
+According to page 20 of EURid's Annual Report for 2006, the breakdown of .eu domain ownership figures on 31 December 2006 was:
+
+Registrants with more than 10,000 domains: 6
+Registrants with 5,000–9,999 domains: 18
+Registrants with 1,000–4,999 domains: 64
+Registrants with 100-999 domains: 1,257
+Registrants with 10–99 domains: 20,886
+Registrants with 6–9 domains: 22,933
+Registrants with 5 domains: 13,200 – (66,000 domains)
+Registrants with 4 domains: 23,007 – (92,028 domains)
+Registrants with 3 domains: 42,887 – (128,661 domains)
+Registrants with 2 domains: 115,543 – (231,086 domains)
+Registrants with 1 domain: 610,679
+The number of registrants with five domains or fewer registered in .eu ccTLD was, according to these statistics, 805,316. These registrants accounted for 1,128,454 domains out of 2,444,947 .eu domains registered as of 31 December 2006. These registrations, typically those of individuals and companies protecting their brand, only represent 46% of the number of registered .eu domains.
+
+Cyrillic domain
+.ею, a top-level domain using Cyrillic letters was put into operation on 1 June 2016. A Cyrillic domain was needed because Bulgaria, a member of the EU, uses the Cyrillic alphabet. Keyboards and smartphones used in Bulgaria have special key combinations to change script, but in order to avoid that, all-Cyrillic addresses are used. The EU is called ЕС (Европейски Съюз) in Bulgarian Cyrillic, but .ес (in Cyrillic letters) is much too similar to .ec (in Latin letters), the existing top-level domain of Ecuador, so .ею was chosen. (While some Latin and Cyrillic letters may look identical, they have different character encodings and are distinct for data processing purposes. Consequently, there is an opportunity for misrepresentation unless steps are taken to prevent abusive registration).
+EURid has a rule that the second-level domain name must be in the same script as the top-level domain, so Cyrillic second-level domains must go under .ею instead of .eu, and all domain names under .ею must be spelt using Cyrillic. Older Cyrillic domains under .eu were cloned into .ею at its launch.
+As of March 2024, there are 1,486 registered domains under .ею.
+
+Greek domain
+An application for a top-level domain using Greek letters, .ευ was submitted in 2016.
+The application was originally turned down because it was too visually similar to .eu.
+The Greek name of the EU is Ευρωπαϊκή Ένωση (ΕΕ), but .εε would be too visually similar to .ee, the top-level domain of Estonia.
+In 2019 steps were taken towards approving .ευ as a domain. The proposal was to have one and the same registry manager of .eu, .ею and .ευ, which shall make sure second-level domains are not visually similar and in the long-term assign all Cyrillic domains under .eu to .ею and all Greek letters domains to .ευ. .ευ domain names were officially launched in November 2019.
+As of March 2024, there are 2,595 registered domains under .ευ.
+
+Allegations of abuse
+Domain name speculation, domain name warehousing and cybersquatting are always features of the launch of any new TLD; however, this was more widespread in the case of the .eu launch.
+Bob Parsons, CEO and co-founder of GoDaddy, criticized the landrush process designed by EURid. Particularly, he condemned the use of shell companies by some registrars. In his blog, he stated "These companies, instead of only registering their real active registrars, created hundreds of new "phantom" registrars." Parsons cited a group of about 400 companies, all with similar address and contact information based in New York, each registered as an LLC; in his opinion, these were phantom registrars "created to hijack the .EU landrush."
+These "phantom" registrars effectively had hundreds of opportunities of registering a domain whereas a genuine registrar effectively only had one opportunity to register the same domain. Thus some registrants were crowded out of the .eu landrush process and many generic .eu domain names are now owned by the companies using these "phantom" registrars.
+Patrik Lindén, spokesman for EURid at the time, denied the allegations by Parsons, stating that "[EURid] verified that each registrar was an individual legal entity. Each had to sign an agreement with us, and prepay €10,000." Parsons did not dispute that each registrar was a separate legal entity, but noted that creating such entities was trivial: "Mr. Linden seemed proud that the EURid registry verified that each applicant was a legal entity before it was accredited. Take a moment and think about what that means. You can form a "legal entity" for $50 – an LLC – and you are good to go. Is that what we want a registry to do? Don't we want them instead to make sure that the organization it allows to provide end-users with its domain names – especially Europe's very own domain name – are actually in the domain name registration business?"
+Others claimed that .eu domain had been actively targeted during the sunrise period by speculators using fast-track Benelux trademarks to create prior rights on various high-value generic terms and during the landrush by speculators using EU front companies in the UK and Cyprus to register large numbers of domains. While speculative activity occurred with the launch of other domains, it was the scale of the activity that called into question the competence of EURid in protecting the integrity of eu ccTLD.
+The EURid organisation investigated some allegations of abuse, and in July 2006 announced the suspension of over 74,000 domain names and that they were suing 400 registrars for breach of contract. The status of the domains was changed from active to on-hold. This meant that the domains could not be moved or have their ownership changed. The registrars also lost their access to the EURid registration database meaning that they could no longer register .eu domain names. The legal action relates to the practice of domain name warehousing, whereby large numbers of domain names are registered, often by registrars, with the intention of subsequently selling them on to third parties.  EURid rules state that applications for domains can only be made after a legitimate application has been made to a registrar.  The 74,000 applications were made in the name of only three Cyprus registered companies – Ovidio Ltd., Fausto Ltd. and Gabino Ltd.
+The affected registrars, joined in the action by the affected registrants, obtained a provisional order from the Court of First Instance in Brussels, Belgium on 27 September 2006. The court ordered EURid to release the blocked domain names or else pay a fine of €25,000 per hour for each affected domain name. EURid complied with the court order and changed the status of the domains from on-hold to active and restored EURid registration database access to the affected registrars.
+The main legal action, that of EURid seeking the registrar agreements between EURid and the registrars in question to be dissolved has still to be heard.
+
+See also
+Internet in Europe
+
+References
+External links
+EURid – Registry for .eu
+IANA .eu whois information
+Domain registration regulations, policies, and terms, and other related documents
+EURid registration status report, including breakdown of registrations by country
+PWC Belgium's validation service for Eurid Archived 27 November 2005 at the Wayback Machine
+EU to launch its own web domain (BBC)
+No .eu domain for the Swiss (and Iceland, Liechtenstein and Norway) (The Register)
+"The .eu Top Level Domain". Archived from the original on 17 February 2013.
+ADR Decisions Wiki providing texts of Ovidio/Fausto/Gabino court order and details on litigation
+DECISION OF THE EEA JOINT COMMITTEE  – Incorporation into the EEA agreement

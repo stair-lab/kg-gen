@@ -1,0 +1,125 @@
+Salesforce, Inc. is an American cloud-based software company headquartered in San Francisco, California. It provides applications focused on sales, customer service, marketing automation, e-commerce, analytics, artificial intelligence, and application development.
+Founded by former Oracle executive Marc Benioff in March 1999, Salesforce grew quickly, making its initial public offering in 2004. As of September 2022, Salesforce is the 61st largest company in the world by market cap with a value of nearly US$153 billion. It became the world's largest enterprise applications firm in 2022. Salesforce ranked 491st on the 2023 edition of the Fortune 500, making $31.352 billion in revenues. Since 2020, Salesforce has also been a component of the Dow Jones Industrial Average.
+
+History
+Salesforce was founded on March 8, 1999 by former Oracle executive Marc Benioff, together with Parker Harris, Dave Moellenhoff, and Frank Dominguez as a software-as-a-service (SaaS) company. The first prototype of Salesforce was launched in November 1999.
+Two of Salesforce's earliest investors were Larry Ellison, the co-founder and first CEO of Oracle, and Halsey Minor, the founder of CNET.
+Salesforce was severely affected by the dot-com bubble bursting at the beginning of the new millennium, resulting in the company laying off 20% of its workforce. Despite its losses, Salesforce continued strong during the early 2000s. Salesforce also gained notability during this period for its "the end of software" tagline and marketing campaign, and even hired actors to hold up signs with its slogan outside a Siebel Systems conference. Salesforce's revenue continued to increase from 2000 to 2003, with 2003's revenue skyrocketing from $5.4 million in the fiscal year 2001 to over $100 million by December 2003.
+In 2003, Salesforce held its first annual Dreamforce conference in San Francisco.
+In June 2004, the company had its initial public offering on the New York Stock Exchange under the stock symbol CRM and raised US$110 million. In 2006, Salesforce launched Idea Exchange, a platform that allows customers to connect with company product managers.
+In 2009, Salesforce passed $1 billion in annual revenue. Also, in 2009, the company launched Service Cloud, an application that helps companies manage service conversations about their products and services.
+In 2014, the company released Trailhead, a free online learning platform. In October 2014, Salesforce announced the development of its Customer Success Platform. In September 2016, Salesforce announced the launch of Einstein, an artificial intelligence platform that supports several of Salesforce's cloud services. It reportedly acquired a 20-year license to be the exclusive business-oriented software company allowed to use Albert Einstein's likeness for $20 million.
+Salesforce launched the Sustainability Cloud (Net Zero Cloud as of 2022), which is used by companies to track progress towards achieving their net zero emissions goals.
+In 2020, Salesforce joined the Dow Jones Industrial Average, replacing energy giant and Standard Oil-descendant ExxonMobil. Salesforce's ascension to the Dow Jones was concurrent with that of Amgen and Honeywell. Because the Dow Jones factors its components by market price, Salesforce was the largest technology component of the index at its accession.
+Across 2020 and 2021, Salesforce saw some notable leadership changes; in February 2020, co-chief executive officer Keith Block stepped down from his position in the company. Marc Benioff remained as chairman and chief executive officer. In February 2021, Amy Weaver, previously the chief legal officer, became CFO. Former CFO Mark Hawkins announced that he would be retiring in October. In November 2021, Bret Taylor was named vice chair and co-CEO of the company.
+In December 2020, it was announced that Salesforce would acquire Slack for $27.7 billion, its largest acquisition to date. The acquisition closed in July 2021. Journalists covering the acquisition emphasized the price Salesforce paid for Slack, which was a 54% premium compared to Slack's market value.
+In April 2022, "Salesforce.com, Inc." changed its legal name to "Salesforce, Inc."
+Acceleration Economy reported that Salesforce had surpassed SAP to become the world's largest enterprise software vendor in August 2022.
+The next month, Salesforce announced a partnership with Meta Platforms. The deal called for Meta's consumer application WhatsApp to integrate Salesforce's Customer 360 platform to allow consumers to communicate with companies directly.
+In November 2022, Salesforce announced it would terminate some employees from its sales team. That same month, Salesforce announced its co-CEO and vice chair, Bret Taylor, would be stepping down from his roles at the end of January 2023, with Benioff continuing to run the company and serve as board chair. Within the week, former Tableau CEO Mark Nelson and former Slack CEO Stewart Butterfield also announced their departures. When asked about the departures, Benioff stated, "people come and people go"; Salesforce's stock dropped to a 52-week low after Nelson's resignation.
+In January 2023, the company announced a layoff of about 10%, or approximately 8,000 positions. According to Benioff, the company hired too aggressively during the COVID-19 pandemic and the increase in working from home led to the layoff. The company also reduced office space as part of the restructuring plan. The same month brought an announcement from activist investor Elliott Management that it would acquire a "big stake" in the company.
+In January 2024, Salesforce announced it was laying off 700 employees (about 1%) of its global staff.
+
+Services
+Salesforce offers several customer relationship management (CRM) services, including: Sales Cloud, Service Cloud, Marketing Cloud, and Commerce Cloud and Platform. Additional technologies include Slack.
+Other services include app creation, data integration and visualization, and training.
+Salesforce launched a suite of features called Salesforce Foundations in September 2024, bundling connected functionality across department-specific Sales Cloud and Service Cloud products.
+
+Artificial intelligence
+Launched at Dreamforce in 2016, Salesforce Einstein was the company’s first artificial intelligence product, developed from a set of technologies underlying the Salesforce platform.
+In March 2023, Salesforce announced ChatGPT integration in Slack was available to any organization, and the launch of Einstein GPT, a generative AI service. 
+In March 2024, Salesforce launched Einstein Copilot: Health Actions, a conversation assistant based on its earlier artificial intelligence platform Einstein. It helps with making appointments, referrals, and gathering patient information.In July, Salesforce released an AI agent, the Einstein Service Agent, with the ability to perform customer service actions, like enabling product returns or refunds.
+In September, the company deployed Agentforce (succeeding Salesforce Einstein), an agentic AI platform where users can create autonomous agents for customer service assistance, developing marketing campaigns, and coaching salespersons.
+
+Salesforce Platform
+Salesforce Platform (formerly known as Force.com) is a platform as a service (PaaS) that allows developers to add applications to the main Salesforce.com application. These applications are hosted on Salesforce.com infrastructure.
+Force.com applications are built using Apex, a proprietary Java-like programming language to generate HTML originally via the "Visualforce" framework. Beginning in 2015 the "Lightning Components" framework has been supported. The Apex compiler was designed by James Spagnola.
+As of 2014, the Force.com platform had 1.5 million registered developers according to Salesforce.
+
+AppExchange
+Launched in 2005, the Salesforce AppExchange is an online app store that allows users to sell third-party applications and consulting services.
+As of 2021, the exchange has over 5,000 apps listed.
+
+Trailhead
+Launched in 2014, Trailhead is a free online learning platform with courses focused on Salesforce technologies.
+
+Discontinued
+Desk.com was a SaaS help desk and customer support product acquired by Salesforce for $50 million in 2011,and consolidated with other services into Service Cloud Essentials in March 2018.
+Do.com was a cloud-based task management system for small groups and businesses, introduced in 2011, and discontinued in 2014.
+
+Operations
+Salesforce is headquartered in San Francisco in the Salesforce Tower. Salesforce has 110 offices, including ones in Hong Kong, Israel, London, Paris, Sydney and Tokyo.
+
+Standard & Poor's added Salesforce to the S&P 500 Index in September 2008. In August 2020, S&P Dow Jones Indices announced that Salesforce would replace ExxonMobil in the Dow Jones Industrial Average.
+
+Culture
+According to Marc Benioff, Salesforce corporate culture is based on the concept of Ohana.
+In 2021, Cynthia Perry, a design research senior manager, resigned, alleging discrimination in the workplace and posting her resignation letter on LinkedIn.
+On September 10, 2021, Benioff tweeted that the company is prepared to help any employee who wishes to move out of the state of Texas, following abortion legislation in Texas, announced on September 1, 2021.
+
+Finances
+For the fiscal year 2022, Salesforce reported revenue of US$26.49 billion, an increase of 25% year-over-year and 24% in constant currency. Salesforce ranked 126 on the 2022 Fortune 500 list of the largest United States companies by revenue.
+
+IT infrastructure
+In 2008, Salesforce migrated from Sun Fire E25K servers with SPARC processors running Solaris, to Dell servers with AMD processors, running Linux.
+In 2012, Salesforce announced plans to build a data center in the UK to handle European citizens' personal data. The center opened in 2014.
+In 2013, Salesforce and Oracle announced a nine-year partnership focusing on applications, platforms, and infrastructure.
+In 2016, Salesforce announced that it will use Amazon Web Services hosting for countries with restrictive data residency requirements and where no Salesforce data centers are operating.
+
+Acquisitions
+2006–2015
+In 2006, Salesforce acquired Sendia, a mobile web service firm, for $15 million and Kieden, an online advertising company. In 2007, Koral, a content management service, was acquired. In 2008, Salesforce acquired Instranet for $31.5 million. In 2010, Salesforce acquired multiple companies, including Jigsaw, a cloud-based data service provider, for $142 million, Heroku, a Ruby application platform-as-a-service, for $212 million, and Activa Live Chat, a live chat software provider. 
+In 2011, Salesforce acquired Dimdim, a web conferencing platform, for $31 million, Radian6, a social media tracking company, for $340 million, and Rypple, a performance management software company. Rypple became known as Work.com in 2012. In 2012, Salesforce acquired Buddy Media, a social media marketer, for $689 million, and GoInstant, a browser collaboration startup, for $70 million.
+In 2013, Salesforce acquired ExactTarget, an email marketer, for $2.5 billion. In 2014, Salesforce acquired RelateIQ, a data company, for $390 million. In 2015, Salesforce acquired multiple companies for undisclosed sums, including Toopher, a mobile authentication company, Tempo, an AI calendar app, and MinHash, an AI platform. The company also acquired SteelBrick, a software company, for $360 million.
+
+2016–present
+In 2016, Salesforce acquired Demandware, a cloud-based provider of e-commerce services, for $2.8 billion and Quip, a word processing app, for $750 million. In 2017, the company acquired Sequence, a user experience design agency.  In 2018, Salesforce acquired several companies, including MuleSoft, a cloud service company, for $6.5 billion, as well as Rebel, an email services provider, and Datorama, an AI marketing platform, for undisclosed amounts.
+In 2019, Salesforce completed its acquisition of analytics software company Tableau for $15.7 billion in 2019, and Slack Technologies for $27.7 billion in 2021. Salesforce also made smaller acquisitions throughout 2019, 2020, and 2021, which included ClickSoftware for $1.35 billion, consulting firm Acumen Solutions for $570 million, CRM firm Vlocity for $1.33 billion, privacy compliance startup Phennecs for $16.5 million, and robotic process automation firm Servicetrace for an undisclosed amount.
+Salesforce's most recent acquisition was Slack-bot maker Troops.ai, announced in May 2022, and expected to close in 2023.
+In September 2023, Salesforce acquired Airkit.ai, a creator of AI-powered customer service applications and experiences. In December 2023, Salesforce announced it would acquire Spiff, an automated commission management platform for an undisclosed amount.
+In April 2024, the Wall Street Journal reported that Salesforce was in advanced talks to acquire Informatica at a price below its $11 billion market capitalization at the time. The deal was later reported to have been abandoned.
+In September 2024, Salesforce acquired data management firm Own for $1.9 billion, giving Own's about 1000 employees the deadline of January 31, 2025 in those positions. Salesforce has also acquired PredictSpring and Tenyx in 2024.
+
+Controversies
+Phishing attack
+In November 2007, a phishing attack compromised contact information on a number of Salesforce customers. Some customers then received phishing emails that appeared to be invoices from Salesforce. Salesforce stated that "a phisher tricked someone into disclosing a password, but this intrusion did not stem from a security flaw in [the salesforce.com] application or database."
+
+‘Meatpistol’ presenters fired at Def Con
+In 2017, at DEF CON, two security engineers were fired after giving a presentation on an internal project called MEATPISTOL. The presenters were sent a message 30 minutes prior to the presentation telling them not to go on stage, but the message wasn't seen until after they finished. The MEATPISTOL tool was anticipated to be released as open-source at the time of the presentation, but Salesforce did not release the code to developers or the public during the conference. The terminated employees called on the company to open-source the software after being dismissed.
+
+RAICES donation refusal
+The not-for-profit organization Refugee and Immigrant Center for Education and Legal Services (RAICES) rejected a US$250,000 donation from Salesforce because the company has contracts with U.S. Customs and Border Protection.
+
+2018 taxes
+In December 2019, the Institute on Taxation and Economic Policy found that Salesforce was one of 91 companies who "paid an effective federal tax rate of 0% or less" in 2018, as a result of the Tax Cuts and Jobs Act of 2017. Their findings were published in a report based on the 379 Fortune 500 companies that declared a profit in 2018.
+
+Sex-trafficking lawsuit
+In March 2019, Salesforce faced a lawsuit by 50 anonymous women claiming to be victims and survivors of sex trafficking, abuse, and rape, alleging the company profited from and helped build technology that facilitated sex trafficking on the now-defunct Backpage.com. In March 2021, a judge granted partial dismissal of the case, dismissing charges of negligence and conspiracy, but allowed the case to proceed regarding charges of sex trafficking. In March 2024, the case was dismissed without prejudice. In September 2024, the US Court of Appeals for the Ninth Circuit denied a request to reverse the dismissal.
+
+Disability discrimination lawsuit in Japan
+In July 2021, Salesforce Japan faced a discrimination lawsuit from a former employee, according to Japanese legal media. The firm declined to comment on the suit to the media. The ex-employee, who has Autism Spectrum Disorder and ADHD, claimed she was discriminated against because of her disability and terminated in the firm's Japan web marketing team.
+The suit alleged that the anonymous woman, as an employee at Salesforce Japan from 2018 to 2020, faced hate speech, microaggressions and rejection of reasonable accommodation from the manager. She alleged that her attempts to resolve the problem were met with pressure from HR and job coach. The lawsuit is still continuing in Tokyo district court.
+In Japan, the legal disability quota for private companies is 2.3%. But Salesforce Japan has not met the quota and pay levy from 2009 to 2021 except 2017. In 2020 the firm did not report the number of disabled employees to Japanese labor official. Depending on the result of lawsuit, it is undeniable that the firm may face a risk of negative impact to disability hiring such as performance improvement plan on the disability employment act or disclosure as social punishment from the labor official.
+
+Employee layoffs/Matthew McConaughey's salary
+In January 2023, Salesforce reported that 8,000 employees had been laid off as a result of over-hiring during the Covid lockdown and a global economic downturn. In March 2023, the Wall Street Journal reported that actor Matthew McConaughey was paid 10 million dollars yearly for his role as a "creative advisor and TV pitchman". American musician will.i.am was also cited to be on the company's payroll due to his "strong understanding of technology".
+
+Wrongful termination lawsuit
+In September 2024, former Salesforce Senior Director Dina Zelikson filed a lawsuit against the company in San Francisco Superior Court, alleging wrongful termination, discrimination, and retaliation during a medical leave.
+
+Salesforce Ventures
+In 2009, Salesforce began investing in startups. These investments became Salesforce Ventures, headed by John Somorjai In September 2014, SFV set up Salesforce1 Fund, aimed at start-ups creating applications primarily for mobile phones. In December 2018, Salesforce Ventures announced the launch of the Japan Trailblazer Fund, focused on Japanese startups.
+In August 2018, Salesforce Ventures reported investments totaling over $1 billion in 275 companies, including CloudCraze (e-commerce), Figure Eight (artificial intelligence), Forter (online fraud prevention), and FinancialForce (automation software). In 2019, SFV's five largest investments—Domo (data-visualization software), SurveyMonkey (online survey software), Twilio (cloud-communication), Dropbox (cloud storage), and DocuSign (secure e-signature company)—accounted for nearly half of its portfolio. In 2021, Salesforce announced that its investments had resulted in $2.17 Billion annual gain. In June 2023 Salesforce increased the size of its Generative AI Fund for startups from $250 million to $500 million, and in September 2024 to $1 billion.
+
+Office locations
+Salesforce Tower (San Francisco, US)
+Salesforce Tower (Indianapolis, US)
+Salesforce Tower (London, UK)
+Salesforce Tower (Sydney, AU)
+Salesforce Singapore
+
+Notes
+References
+External links
+
+Business data for Salesforce, Inc.:

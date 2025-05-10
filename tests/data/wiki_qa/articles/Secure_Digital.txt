@@ -1,0 +1,353 @@
+Secure Digital (SD) is a proprietary, non-volatile, flash memory card format developed by the SD Association (SDA). Owing to their compact size, SD cards have been widely adopted in a variety of portable consumer electronics, including digital cameras, camcorders, video game consoles, mobile phones, action cameras, and camera drones.
+The SD format was introduced in August 1999 by SanDisk, Panasonic (then known as Matsushita), and Kioxia (then part of Toshiba). It was designed as a successor to the MultiMediaCard (MMC) format, introducing several improvements aimed at enhancing usability, durability, and performance, which contributed to its rapid emergence as an industry standard.
+To manage the licensing and intellectual property rights related to the format, the three companies established SD-3C, LLC. In January 2000, they also founded the SDA, a non-profit organization dedicated to developing and promoting SD card standards. As of 2023, the SDA includes approximately 1,000 member companies. The SDA uses a suite of SD-3C-owned trademarked logos to enforce compliance with official specifications and to indicate product compatibility.
+
+History
+1999–2005: Creation and introduction of smaller formats
+In 1999, SanDisk, Panasonic (then known as Matsushita), and Kioxia (then part of Toshiba) agreed to develop and market the Secure Digital (SD) memory card. The card was created as a second-generation successor to the MultiMediaCard (MMC) and provided digital rights management (DRM) based on the Secure Digital Music Initiative (SDMI) standard and a high memory density ("data/bits per physical space"), i.e. a large quantity of data could be stored in a small physical space.
+SD was designed to compete with the Memory Stick, a flash storage format with DRM Sony had released the year before. Toshiba hoped the SD card's DRM would encourage music suppliers concerned about piracy to use SD cards.
+The trademarked SD logo was originally developed for the Super Density Disc, which was the unsuccessful Toshiba entry in the DVD format war. For this reason, the letter "D" is styled to resemble an optical disc.
+At the 2000 Consumer Electronics Show (CES), the three companies announced the creation of the SD Association (SDA) to promote SD cards. The SD Association, which was headquartered in San Ramon, California, United States, then had 30 member companies and product manufacturers that made interoperable memory cards and devices. Early samples of the SD card became available in the first quarter of 2000, and production quantities of 32 and 64 megabyte (MB) cards became available three months later. The first 64 MB cards were offered for sale for US$200. SD was envisioned as a single memory card format for several kinds of electronic devices that could also function as an expansion slot for adding new capabilities for a device. The first 256 MB and 512 MB SD cards were announced in 2001.
+
+miniSD
+At March 2003 CeBIT, SanDisk Corporation introduced, announced and demonstrated the miniSD form factor. The SDA adopted the miniSD card in 2003 as a small-form-factor extension to the SD card standard. While the new cards were designed for mobile phones, they were usually packaged with a miniSD adapter that provided compatibility with a standard SD memory card slot.
+
+microSD
+MicroSD form-factor memory cards were introduced in 2004 by SanDisk at CeBIT and originally called T-Flash, and later TransFlash, commonly abbreviated to "TF". T-Flash was renamed microSD in 2005 when it was adopted by the SDA. TransFlash and microSD cards are functionally identical, allowing either to operate in devices made for the other. A passive adapter allows the use of microSD and TransFlash cards in SD card slots.
+
+2006–2008: SDHC and SDIO
+In September 2006, SanDisk announced the 4 GB miniSDHC. Like the SD and SDHC, the miniSDHC card has the same form factor as the older miniSD card but the HC card requires HC support built into the host device. Devices that support miniSDHC work with miniSD and miniSDHC, but devices without specific support for miniSDHC work only with the older miniSD card. Since 2008, miniSD cards are no longer produced, due to market domination of the even smaller microSD cards.
+
+2009–2019: SDXC
+The storage density of memory cards increased significantly throughout the 2010s, allowing the earliest devices to offer support for the SD:XC standard, such as the Samsung Galaxy S III and Samsung Galaxy Note II mobile phones, to expand their available storage to several hundreds of gigabytes.
+In January 2009, the SDA announced the SDXC family, which supports cards up to 2 TB and speeds up to 300 MB/s. SDXC cards are formatted with the exFAT file system by default. SDXC was announced at the Consumer Electronics Show (CES) 2009 (January 7–10). At the same show, SanDisk and Sony also announced a comparable Memory Stick XC variant with the same 2 TB maximum as SDXC, and Panasonic announced plans to produce 64 GB SDXC cards. On March 6, Pretec introduced the first SDXC card, a 32 GB card with a read/write speed of 400 Mbit/s. But only early in 2010 did compatible host devices come onto the market, including Sony's Handycam HDR-CX55V camcorder, Canon's EOS 550D (also known as Rebel T2i) Digital SLR camera, a USB card reader from Panasonic, and an integrated SDXC card reader from JMicron. The earliest laptops to integrate SDXC card readers relied on a USB 2.0 bus, which does not have the bandwidth to support SDXC at full speed.
+In early 2010, commercial SDXC cards appeared from Toshiba (64 GB), Panasonic (64 GB and 48 GB), and SanDisk (64 GB).
+In early 2011, Centon Electronics, Inc. (64 GB and 128 GB) and Lexar (128 GB) began shipping SDXC cards rated at Speed Class 10. Pretec offered cards from 8 GB to 128 GB rated at Speed Class 16. In September 2011, SanDisk released a 64 GB microSDXC card. Kingmax released a comparable product in 2011.
+In April 2012, Panasonic introduced MicroP2 card format for professional video applications. The cards are essentially full-size SDHC or SDXC UHS-II cards, rated at UHS Speed Class U1. An adapter allows MicroP2 cards to work in current P2 card equipment.
+Panasonic MicroP2 cards shipped in March 2013 and were the first UHS-II compliant products on market; initial offer includes a 32 GB SDHC card and a 64 GB SDXC card. Later that year, Lexar released the first 256 GB SDXC card, based on 20 nm NAND flash technology.
+In February 2014, SanDisk introduced the first 128 GB microSDXC card, which was followed by a 200 GB microSDXC card in March 2015. September 2014 saw SanDisk announce the first 512 GB SDXC card.
+Samsung announced the world's first EVO Plus 256 GB microSDXC card in May 2016, and in September 2016 Western Digital (SanDisk) announced that a prototype of the first 1 TB SDXC card would be demonstrated at Photokina.
+In August 2017, SanDisk launched a 400 GB microSDXC card.
+In January 2018, Integral Memory unveiled its 512 GB microSDXC card. In May 2018, PNY launched a 512 GB microSDXC card. In June 2018 Kingston announced its Canvas series of microSD cards which were capable of capacities up to 512 GB, in three variations, Select, Go! and React.
+In February 2019, Micron and SanDisk unveiled their microSDXC cards of 1 TB capacity.
+In September 2022, Kioxia unveiled a microSDXC card of 2 TB capacity.
+
+2019–present: SDUC
+The Secure Digital Ultra Capacity (SDUC) format supports cards up to 128 TB and offers speeds up to 985 MB/s.
+In April 2024, Western Digital (SanDisk) revealed the world's first 4 TB SD card at NAB 2024, which will make use of the SDUC format. It is set to release in 2025.
+
+Capacity ratings
+Secure Digital includes five card families available in three form factors. The five families are the original standard capacity (SDSC), high capacity (SDHC), extended capacity (SDXC), ultra capacity (SDUC) and SDIO, which combines input/output functions with data storage.
+
+SD (SDSC)
+The original Secure Digital card, also known as Secure Digital Standard Capacity (SDSC), was developed as a second-generation successor to the MultiMediaCard (MMC) standard. While both formats continued to evolve, they diverged significantly in design and functionality. Secure Digital introduced several key changes to improve usability, durability, and performance:
+
+Asymmetrical shape of the sides of the SD card prevents inserting it upside down (whereas an MMC goes in most of the way but makes no contact if inverted).
+Most standard size SD cards are 2.1 mm (0.083 inches) thick, with microSD versions being 1.0 mm (0.039 inches) thick, compared to 1.4 mm (0.055 inches) for MMCs. The SD specification defines a card called Thin SD with a thickness of 1.4 mm, however it was rarely used, as the SDA went on to define even smaller form factors.
+The card's electrical contacts are recessed beneath the surface of the card, protecting them from contact with a user's fingers.
+The SD specification envisioned capacities and transfer rates exceeding those of MMC, and both of these functionalities have grown over time. For a comparison table, see below.
+While MMC uses a single pin for data transfers, the SD card added a four-wire bus mode for higher data rates.
+The SD card added Content Protection for Recordable Media (CPRM) security circuitry for digital rights management (DRM) content-protection, although it is rarely used and most devices don't support it.
+Addition of a write-protect notch
+The official SDSC specification supports card sizes up to 2 GB and uses a logo to distinguish it from later SD formats.
+Due to physical differences, full-size SD cards are incompatible with slimmer MMC slots, and other electrical and protocol-level differences further limit interoperability between the two formats.
+
+SDHC
+The Secure Digital High Capacity (SDHC) format, announced in January 2006 and defined in version 2.0 of the SD specification, supports cards with capacities up to 32 GB. The SDHC trademark is licensed to ensure compatibility.
+SDHC cards are physically and electrically identical to standard-capacity SD cards (SDSC). The major compatibility issues between SDHC and SDSC cards are the redefinition of the Card-Specific Data (CSD) register in version 2.0 (see below), and the fact that SDHC cards are shipped preformatted with the FAT32 file system.
+Version 2.0 also introduces a high-speed bus mode for both SDSC and SDHC cards, which doubles the original Standard Speed clock to produce 25 MB/s.
+SDHC host devices are required to accept older SD cards. However, older host devices do not recognize SDHC or SDXC memory cards, although some devices can do so through a firmware upgrade. Older Windows operating systems released before Windows 7 require patches or service packs to support access to SDHC cards.
+
+SDXC
+The Secure Digital eXtended Capacity (SDXC) format, announced in January 2009 and defined in version 3.01 of the SD specification, supports cards up to 2 TB, compared to a limit of 32 GB for SDHC cards in the SD 2.0 specification. SDXC adopts Microsoft's exFAT file system as a mandatory feature.
+Version 3.01 also introduced the Ultra High Speed (UHS) bus for both SDHC and SDXC cards, with interface speeds from 50 MB/s to 104 MB/s for four-bit UHS-I bus. (this number has since been exceeded with SanDisk proprietary technology for 170 MB/s read, which is not proprietary anymore, as Lexar has the 1066x running at 160 MB/s read and 120 MB/s write via UHS 1, and Kingston also has their Canvas Go! Plus, also running at 170 MB/s).
+Version 4.0, introduced in June 2011, allows speeds of 156 MB/s to 312 MB/s over the four-lane (two differential lanes) UHS-II bus, which requires an additional row of physical pins.
+Version 5.0 was announced in February 2016 at CP+ 2016, and added "Video Speed Class" ratings for UHS cards to handle higher resolution video formats like 8K. The new ratings define a minimal write speed of 90 MB/s.
+SDXC cards are required to be formatted using exFAT, but many operating systems will support others.
+Windows Vista (SP1) and later and OS X (10.6.5 and later) have native support for exFAT. (Windows XP and Server 2003 can support exFAT via an optional update from Microsoft.)
+Most BSD and Linux distributions did not have exFAT support for legal reasons, though in Linux kernel 5.4 Microsoft open-sourced the spec and allowed the inclusion of an exFAT driver. Users of older kernels or BSD can manually install third-party implementations of exFAT (as a FUSE module) in order to be able to mount exFAT-formatted volumes. However, SDXC cards can be reformatted to use any file system (such as ext4, UFS, VFAT or NTFS), alleviating the restrictions associated with exFAT availability.
+The SD Association provides a formatting utility for Windows and Mac OS X that checks and formats SD, SDHC, SDXC and SDUC cards.
+Except for the change of file system, SDXC cards are mostly backward compatible with SDHC readers, and many SDHC host devices can use SDXC cards if they are first reformatted to the FAT32 file system.
+
+SDUC
+The Secure Digital Ultra Capacity (SDUC) format, described in the SD 7.0 specification, and announced in June 2018, supports cards up to 128 TB, regardless of form factor, either micro or full size, or interface type including UHS-I, UHS-II, UHS-III or SD Express.
+
+Bus speed ratings
+SD card speed is customarily rated by its sequential read or write speed. The sequential performance aspect is the most relevant for storing and retrieving large files (relative to block sizes internal to the flash memory), such as images and multimedia. Small data (such as file names, sizes and timestamps) falls under the much lower speed limit of random access, which can be the limiting factor in some use cases.
+The newer families of SD card improve card speed by increasing the bus rate (the frequency of the clock signal that strobes information into and out of the card). Whatever the bus rate, the card can signal to the host that it is "busy" until a read or a write operation is complete. Compliance with a higher speed rating is a guarantee that the card limits its use of the "busy" indication.
+
+Default Speed
+SD cards will read and write at speeds of 12.5 MB/s.
+
+High Speed
+High-Speed Mode (25 MB/s) was introduced to support digital cameras with 1.10 spec version.
+
+UHS (Ultra High Speed)
+The Ultra High Speed (UHS) bus is available on some SDHC and SDXC cards.
+Cards that comply with UHS show Roman numerals 'I', 'II' or 'III' next to the SD card logo, and report this capability to the host device. Use of UHS-I requires that the host device commands the card to drop from 3.3-volt to 1.8-volt operation over the I/O interface pins and select the four-bit transfer mode, while UHS-II requires 0.4-volt operation.
+The higher speed rates of UHS-II and III are achieved by using two-lane 0.4 V low-voltage differential signaling (LVDS) on a second row of pins. Each lane is capable of transferring up to 156 MB/s. In full-duplex mode, one lane is used for Transmit while the other is used for Receive. In half-duplex mode both lanes are used for the same direction of data transfer allowing a double data rate at the same clock speed. In addition to enabling higher data rates, the UHS-II interface allows for lower interface power consumption, lower I/O voltage and lower electromagnetic interference (EMI).
+The following ultra-high speeds are specified:
+
+UHS-I
+Specified in SD version 3.01.  Supports a clock frequency of 100 MHz (a quadrupling of the original "Default Speed"), which in four-bit transfer mode could transfer 50 MB/s (SDR50). UHS-I cards declared as UHS104 (SDR104) also support a clock frequency of 208 MHz, which could transfer 104 MB/s. Double data rate operation at 50 MHz (DDR50) is also specified in Version 3.01, and is mandatory for microSDHC and microSDXC cards labeled as UHS-I. In this mode, four bits are transferred when the clock signal rises and another four bits when it falls, transferring an entire byte on each full clock cycle, hence a 50 MB/s operation could be transferred using a 50 MHz clock.
+There is a proprietary UHS-I extension, called DDR200, originally created by SanDisk that increases transfer speed further to 170 MB/s. Unlike UHS-II, it does not use additional pins. It achieves this by using the 208 MHz frequency of the standard SDR104 mode, but using DDR transfers. This extension has since then been used by Lexar for their 1066x series (160 MB/s), Kingston Canvas Go Plus (170 MB/s) and the MyMemory PRO SD card (180 MB/s).
+
+UHS-II
+Specified in version 4.0, further raises the data transfer rate to a theoretical maximum of 156 MB/s (full-duplex) or 312 MB/s (half-duplex) using an additional row of pins for LVDS signalling (a total of 17 pins for full-size and 16 pins for micro-size cards). While first implementations in compact system cameras were seen three years after specification (2014), it took many more years until UHS-II was implemented on a regular basis. At the beginning of 2025, 100 DSLR and mirrorless cameras support UHS-II.
+
+UHS-III
+Version 6.0, released in February 2017, added two new data rates to the standard. FD312 provides 312 MB/s while FD624 doubles that. Both are full-duplex. The physical interface and pin-layout are the same as with UHS-II, retaining backward compatibility.
+
+SD Express
+The SD Express bus was introduced in June 2018 with the SD 7.0 specification. By incorporating a single PCI Express 3.0 (PCIe) lane and supporting the NVM Express (NVMe) storage protocol, SD Express enables full-duplex transfer speeds of up to 985 MB/s. Compatible cards must support both PCIe and NVMe, and may be formatted as SDHC, SDXC, or SDUC. For backward compatibility, they are also required to support the High-Speed and UHS-I buses. The interface reuses the UHS-II pin layout and reserves space for two additional pins for future use. In February 2019, the SD Association announced microSD Express, along with new visual marks to help users identify compatible cards and hosts.
+SD Express cards can perform direct memory access (DMA), boosting performance but also increasing the host system’s attack surface in the event of a malicious or compromised card.
+The SD 8.0 specification, announced on 19 May 2020, expanded the bus interface to support PCIe 4.0 on all cards and dual lanes on full-size cards. With dual lane PCIe 4.0, this update raised theoretical maximum transfer speeds to 3,938 MB/s using an additional row of contacts. Revisions continued with version 9.0 in February 2022 and version 9.1 in October 2023, further refining the standard.
+Adoption has been gradual. In February 2024, Samsung announced it was sampling its first microSD Express cards, though commercial availability remained limited. Interest increased when Nintendo confirmed in April 2025 that the upcoming Switch 2 would only support microSD Express cards, without backwards compatibility for UHS-I cards.
+
+Card speed class ratings
+Speed Class ratings are defined by the SDA to indicate the minimum data transfer performance of SDHC and SDXC memory cards, particularly in terms of sustained sequential write speed. These ratings are especially important for applications such as video recording, which require consistent throughput.
+Where speed classes overlap, manufacturers often display multiple symbols on the same card to indicate compatibility with different host devices and standards.
+
+Original speed class (C)
+The original speed class ratings—Class 2, 4, 6, and 10—specify minimum sustained write speeds of 2, 4, 6, and 10 MB/s, respectively. Class 10 cards assume a non-fragmented file system and use the High Speed bus mode. These are represented by a number encircled with a "C" (e.g., C2, C4, C6 and C10).
+
+UHS speed class (U)
+Ultra High Speed (UHS) speed class ratings—U1 and U3—specify minimum sustained write speeds of 10 and 30 MB/s, respectively. These classes are represented by a number inside a "U" and are designed for high-bandwidth tasks such as 4K video recording.
+
+Video speed class (V)
+Video speed class ratings—V6, V10, V30, V60, and V90—specify minimum sustained write speeds of 6, 10, 30, 60, and 90 MB/s, respectively. These classes are represented by a stylized "V" followed by the number, were introduced to support high-resolution formats like 4K and 8K, and to align with the performance characteristics of MLC NAND flash memory.
+
+SD Express Speed Class (E)
+SD Express speed class ratings—E150, E300, E450, and E600—specify minimum sustained write speeds of 150, 300, 450, and 600 MB/s, respectively. These classes are represented by a stylized "E" followed by the number, enclosed in a rounded rectangle. They are designed for data-intensive applications such as large-scale video processing, real-time analytics, and software execution.
+
+"×" rating
+Initially, some manufacturers used a "×" rating system based on the speed of a standard CD-ROM drive (150 kB/s or 1.23 Mbit/s), but this approach was inconsistent and often unclear. It was later replaced by standardized Speed Class systems that specify guaranteed minimum write speeds.
+
+Real-world performance
+Speed Class ratings guarantee minimum write performance but do not fully describe real-world speed, which can vary based on factors such as file fragmentation, write amplification due to flash memory management, controller retry operations for soft error correction and sequential vs. random write patterns.
+In some cases, cards of the same speed class may perform very differently. For instance, random small-file write speeds can be significantly lower than sequential performance. A 2012 study found some Class 2 cards outperformed Class 10 cards in random writes. Another test in 2014 reported a 300-fold difference in small-write performance across cards, with a Class 4 card outperforming higher-rated cards in certain use cases.
+
+Performance ratings
+Application Performance Class ratings were developed to address the increasing demand for SD memory cards capable of supporting both application storage and execution in mobile and embedded systems, while also supporting general-purpose data storage such as photos, videos, music, and documents. This need became more prominent with the growing use of SD cards for storing apps and application data, particularly following the introduction of Android's Adoptable Storage feature, which allows SD cards to function as internal (non-removable) storage.
+Class A1, as defined in the SD Specification 5.1, requires a minimum of 1,500 input/output operations per second (IOPS) for reading and 500 IOPS for writing, using 4 kB data blocks. Class A2, introduced in the SD Specification 6.0, raises these thresholds to 4,000 read and 2,000 write IOPS. A2 cards also depend on host driver support for features such as command queuing and write caching to achieve their specified performance; without this support, they operate at or above A1-level performance. Both A1 and A2 classes additionally require a minimum sustained sequential write speed of 10 MB/s.
+
+Features
+Card security
+Commands to disable writes
+The host device can command the SD card to become read-only (to reject subsequent commands to write information to it). There are both reversible and irreversible host commands that achieve this.
+
+Write-protect notch
+Most full-size SD cards have a mechanical write-protect switch, a sliding tab over a notch on the left side (viewed from the top, with the beveled corner on the right), that signals to the device to treat the card as read-only. Sliding the tab up (toward the contacts) sets the card to read/write; sliding it down sets it to read-only. However, the switch position is not detected by the card’s internal circuitry. Therefore, some devices ignore it, while others allow overrides.
+MiniSD and microSD cards lack a built-in notch but can be used with adapters that include one. Cards without a notch are always writable; cards with preloaded content have a notch but no sliding tab.
+
+Card password
+A host device can lock an SD card using a password of up to 16 bytes, typically supplied by the user. A locked card interacts normally with the host device except that it rejects commands to read and write data. A locked card can be unlocked only by providing the same password. The host device can, after supplying the old password, specify a new password or disable locking. Without the password (typically, in the case that the user forgets the password), the host device can command the card to erase all the data on the card for future re-use (except card data under DRM), but there is no way to gain access to the existing data.
+Windows Phone 7 devices use SD cards designed for access only by the phone manufacturer or mobile provider. An SD card inserted into the phone underneath the battery compartment becomes locked "to the phone with an automatically generated key" so that "the SD card cannot be read by another phone, device, or PC". Symbian devices, however, are some of the few that can perform the necessary low-level format operations on locked SD cards. It is therefore possible to use a device such as the Nokia N8 to reformat the card for subsequent use in other devices.
+
+smartSD cards
+A smartSD memory card is a microSD card with an internal "secure element" that allows the transfer of ISO 7816 Application Protocol Data Unit commands to, for example, JavaCard applets running on the internal secure element through the SD bus.
+Some of the earliest versions of microSD memory cards with secure elements were developed in 2009 by DeviceFidelity, Inc., a pioneer in near-field communication (NFC) and mobile payments, with the introduction of In2Pay and CredenSE products, later commercialized and certified for mobile contactless transactions by Visa in 2010. DeviceFidelity also adapted the In2Pay microSD to work with the Apple iPhone using the iCaisse, and pioneered the first NFC transactions and mobile payments on an Apple device in 2010.
+Various implementations of smartSD cards have been done for payment applications and secured authentication. In 2012 Good Technology partnered with DeviceFidelity to use microSD cards with secure elements for mobile identity and access control.
+microSD cards with Secure Elements and NFC (near-field communication) support are used for mobile payments, and have been used in direct-to-consumer mobile wallets and mobile banking solutions, some of which were launched by major banks around the world, including Bank of America, US Bank and Wells Fargo, while others were part of innovative new direct-to-consumer neobank programs such as moneto, first launched in 2012.
+microSD cards with Secure Elements have also been used for secure voice encryption on mobile devices, which allows for one of the highest levels of security in person-to-person voice communications. Such solutions are heavily used in intelligence and security.
+In 2011, HID Global partnered with Arizona State University to launch campus access solutions for students using microSD with Secure Element and MiFare technology provided by DeviceFidelity, Inc. This was the first time regular mobile phones could be used to open doors without need for electronic access keys.
+
+Vendor enhancements
+Vendors have sought to differentiate their products in the market through various vendor-specific features:
+
+Integrated Wi-Fi – Several companies produce SD cards with built-in Wi-Fi transceivers supporting static security (WEP 40/104/128, WPA-PSK and WPA2-PSK). The card lets any digital camera with an SD slot transmit captured images over a wireless network, or store the images on the card's memory until it is in range of a wireless network. Examples include: Eye-Fi / SanDisk, Transcend Wi-Fi, Toshiba FlashAir, Trek Flucard, PQI Air Card and LZeal ez Share. Some models geotag their pictures.
+Pre-loaded content – In 2006, SanDisk announced Gruvi, a microSD card with extra digital rights management features, which they intended as a medium for publishing content. SanDisk again announced pre-loaded cards in 2008, under the slotMusic name, this time not using any of the DRM capabilities of the SD card. In 2011, SanDisk offered various collections of 1000 songs on a single slotMusic card for about $40, now restricted to compatible devices and without the ability to copy the files.
+Integrated USB connector – The SanDisk SD Plus product can be plugged directly into a USB port without needing a USB card reader. Other companies introduced comparable products, such as the Duo SD product of OCZ Technology and the 3 Way (microSDHC, SDHC and USB) product of A-DATA, which was available in 2008 only.
+Different colors – SanDisk has used various colors of plastic or adhesive label, including a "gaming" line in translucent plastic colors that indicated the card's capacity. In 2006, the first 256MB microSD to use color-coded cards by Kingmax, which later other brands (e.g., SanDisk, Kioxia) had been implementing to this day.
+Integrated display – In 2006, ADATA announced a Super Info SD card with a digital display that provided a two-character label and showed the amount of unused memory on the card.
+
+SDIO cards
+A SDIO (Secure Digital Input Output) card is an extension of the SD specification to cover I/O functions. SDIO cards are only fully functional in host devices designed to support their input-output functions (typically PDAs like the Palm Treo, but occasionally laptops or mobile phones). These devices can use the SD slot to support GPS receivers, modems, barcode readers, FM radio tuners, TV tuners, RFID readers, digital cameras and interfaces to Wi-Fi, Bluetooth, Ethernet and IrDA. Many other SDIO devices have been proposed, but it is now more common for I/O devices to connect using the USB interface.
+SDIO cards support most of the memory commands of SD cards. SDIO cards can be structured as eight logical cards, although currently, the typical way that an SDIO card uses this capability is to structure itself as one I/O card and one memory card.
+The SDIO and SD interfaces are mechanically and electrically identical. Host devices built for SDIO cards generally accept SD memory cards without I/O functions. However, the reverse is not true, because host devices need suitable drivers and applications to support the card's I/O functions. For example, an HP SDIO camera usually does not work with PDAs that do not list it as an accessory. Inserting an SDIO card into any SD slot causes no physical damage nor disruption to the host device, but users may be frustrated that the SDIO card does not function fully when inserted into a seemingly compatible slot. (USB and Bluetooth devices exhibit comparable compatibility issues, although to a lesser extent thanks to standardized USB device classes and Bluetooth profiles.)
+The SDIO family comprises Low-Speed and Full-Speed cards. Both types of SDIO cards support Serial Peripheral Interface (SPI) and one-bit SD bus types. Low-Speed SDIO cards are allowed to also support the four-bit SD bus; Full-Speed SDIO cards are required to support the four-bit SD bus. To use an SDIO card as a "combo card" (for both memory and I/O), the host device must first select four-bit SD bus operation. Two other unique features of Low-Speed SDIO are a maximum clock rate of 400 kHz for all communications, and the use of Pin 8 as "interrupt" to try to initiate dialogue with the host device.
+
+Compatibility
+Host devices that comply with newer versions of the specification provide backward compatibility and accept older SD cards. For example, SDXC host devices accept all previous families of SD memory cards, and SDHC host devices also accept standard SD cards.
+Older host devices generally do not support newer card formats, and even when they might support the bus interface used by the card, there are several factors that arise:
+
+A newer card may offer greater capacity than the host device can handle (over 4 GB for SDHC, over 32 GB for SDXC).
+A newer card may use a file system the host device cannot navigate (FAT32 for SDHC, exFAT for SDXC)
+Use of an SDIO card requires the host device be designed for the input/output functions the card provides.
+The hardware interface of the card was changed starting with the version 2.0 (new high-speed bus clocks, redefinition of storage capacity bits) and SDHC family (ultra-high speed (UHS) bus)
+UHS-II has physically more pins but is backwards compatible to UHS-I and non-UHS for both slot and card.
+Some vendors produced SDSC cards above 1 GB before the SDA had standardized a method of doing so.
+
+Markets
+Due to their compact size, Secure Digital cards are used in many consumer electronic devices, and have become a widespread means of storing several gigabytes of data in a small size. Devices in which the user may remove and replace cards often, such as digital cameras, camcorders and video game consoles, tend to use full-sized cards. Devices in which small size is paramount, such as mobile phones, action cameras such as the GoPro Hero series, and camera drones, tend to use microSD cards.
+
+Mobile phones
+The microSD card has helped propel the smartphone market by giving both manufacturers and consumers greater flexibility and freedom.
+While cloud storage depends on stable internet connection and sufficiently voluminous data plans, memory cards in mobile devices provide location-independent and private storage expansion with much higher transfer rates and no network delay, enabling applications such as photography and video recording. While data stored internally on bricked devices is inaccessible, data stored on the memory card can be salvaged and accessed externally by the user as mass storage device. A benefit over USB on the go storage expansion is uncompromised ergonomy. The usage of a memory card also protects the mobile phone's non-replaceable internal storage from weardown from heavy applications such as excessive camera usage and portable FTP server hosting over WiFi Direct. Due to the technical development of memory cards, users of existing mobile devices are able to expand their storage further and priceworthier with time.
+Recent versions of major operating systems such as Windows Mobile and Android allow applications to run from microSD cards, creating possibilities for new usage models for SD cards in mobile computing markets, as well as clearing available internal storage space.
+SD cards are not the most economical solution in devices that need only a small amount of non-volatile memory, such as station presets in small radios. They may also not present the best choice for applications that require higher storage capacities or speeds as provided by other flash card standards such as CompactFlash. These limitations may be addressed by evolving memory technologies, such as the new SD 7.0 specifications which allow storage capabilities of up to 128 TB.
+Many personal computers of all types, including tablets and mobile phones, use SD cards, either through built-in slots or through an active electronic adapter. Adapters exist for the PC card, ExpressBus, USB, FireWire and the parallel printer port. Active adapters also let SD cards be used in devices designed for other formats, such as CompactFlash. The FlashPath adapter lets SD cards be used in a floppy disk drive.
+Some devices such as the Samsung Galaxy Fit (2011) and Samsung Galaxy Note 8.0 (2013) have an SD card compartment located externally and accessible by hand, while it is located under the battery cover on other devices. More recent mobile phones use a pin-hole ejection system for the tray which houses both the memory card and SIM card.
+
+Counterfeits
+Commonly found on the market are mislabeled or counterfeit Secure Digital cards that report a fake capacity or run slower than labeled. Software tools exist to check and detect counterfeit products, and in some cases it is possible to repair these devices to remove the false capacity information and use its real storage limit.
+Detection of counterfeit cards usually involves copying files with random data to the SD card until the card's capacity is reached, and copying them back. The files that were copied back can be tested either by comparing checksums (e.g. MD5), or trying to compress them. The latter approach leverages the fact that counterfeited cards let the user read back files, which then consist of easily compressible uniform data (for example, repeating 0xFFs).
+
+Digital cameras
+Secure Digital memory cards can be used in Sony XDCAM EX camcorders with an adapter.
+
+Personal computers
+Although many personal computers accommodate SD cards as an auxiliary storage device using a built-in slot, or can accommodate SD cards by means of a USB adapter, SD cards cannot be used as the primary hard disk through the onboard ATA controller, because none of the SD card variants support ATA signalling. Primary hard disk use requires a separate SD host controller or an SD-to-CompactFlash converter. However, on computers that support bootstrapping from a USB interface, an SD card in a USB adapter can be the boot disk, provided it contains an operating system that supports USB access once the bootstrap is complete.
+In laptop and tablet computers, memory cards in an integrated memory card reader offer an ergonomical benefit over USB flash drives, as the latter sticks out of the device, and the user would need to be cautious not to bump it while transporting the device, which could damage the USB port. Memory cards have a unified shape and do not reserve a USB port when inserted into a computer's dedicated card slot.
+Since late 2009, newer Apple computers with installed SD card readers have been able to boot in macOS from SD storage devices, when properly formatted to Mac OS Extended file format and the default partition table set to GUID Partition Table.
+SD cards are increasing in usage and popularity among owners of vintage computers like Atari 8-bit computers. For example SIO2SD (SIO is an Atari port for connecting external devices) is used nowadays. Software for an 8-bit Atari may be included on one SD card that may have less than 4–8 GB of disk size (2019).
+
+Embedded systems
+In 2008, the SDA specified Embedded SD, "leverag[ing] well-known SD standards" to enable non-removable SD-style devices on printed circuit boards. However this standard was not adopted by the market while the MMC standard became the de facto standard for embedded systems. SanDisk provides such embedded memory components under the iNAND brand.
+While some modern microcontrollers integrate SDIO hardware which uses the faster proprietary four-bit SD bus mode, almost all modern microcontrollers at least have SPI units that can interface to an SD card operating in the slower one-bit SPI bus mode. If not, SPI can also be emulated by bit banging (e.g. a SD card slot soldered to a Linksys WRT54G-TM router and wired to GPIO pins using DD-WRT's Linux kernel achieved only 1.6 Mbit/s throughput).
+
+Music distribution
+Prerecorded microSDs have been used to commercialize music under the brands slotMusic and slotRadio by SanDisk and MQS by Astell & Kern.
+
+Technical details
+Physical size
+The SD card specification defines three physical sizes. The SD and SDHC families are available in all three sizes, but the SDXC and SDUC families are not available in the mini size, and the SDIO family is not available in the micro size. Smaller cards are usable in larger slots through use of a passive adapter.
+
+Standard
+SD (SDSC), SDHC, SDXC, SDIO, SDUC
+32 mm × 24 mm × 2.1 mm (1+17⁄64 in × 15⁄16 in × 5⁄64 in)
+32 mm × 24 mm × 1.4 mm (1+17⁄64 in × 15⁄16 in × 1⁄16 in) (as thin as MMC) for Thin SD (rare)
+
+MiniSD
+miniSD, miniSDHC, miniSDIO
+21.5 mm × 20 mm × 1.4 mm (27⁄32 in × 25⁄32 in × 1⁄16 in)
+
+microSD
+The micro form factor is the smallest SD card format.
+
+microSD, microSDHC, microSDXC, microSDUC
+15 mm × 11 mm × 1 mm (19⁄32 in × 7⁄16 in × 3⁄64 in)
+
+Transfer modes
+Cards may support various combinations of the following bus types and transfer modes. The SPI bus mode and one-bit SD bus mode are mandatory for all SD families, as explained in the next section. Once the host device and the SD card negotiate a bus interface mode, the usage of the numbered pins is the same for all card sizes.
+
+SPI bus mode: Serial Peripheral Interface Bus is primarily used by embedded microcontrollers. This bus type supports only a 3.3-volt interface. This is the only bus type that does not require a host license.
+One-bit SD bus mode: Separate command and data channels and a proprietary transfer format.
+Four-bit SD bus mode: Uses extra pins plus some reassigned pins. This is the same protocol as the one-bit SD bus mode which uses one command and four data lines for faster data transfer. All SD cards support this mode. UHS-I and UHS-II require this bus type.
+Two differential lines SD UHS-II mode: Uses two low-voltage differential signaling interfaces to transfer commands and data. UHS-II cards include this interface in addition to the SD bus modes.
+The physical interface comprises 9 pins, except that the miniSD card adds two unconnected pins in the center and the microSD card omits one of the two VSS (Ground) pins.
+
+Notes:
+
+Direction is relative to card. I = Input, O = Output.
+PP = Push-Pull logic, OD = Open-Drain logic.
+S = Power Supply, NC = Not Connected (or logical high).
+
+Interface
+Command interface
+SD cards and host devices initially communicate through a synchronous one-bit interface, where the host device provides a clock signal that strobes single bits in and out of the SD card. The host device thereby sends 48-bit commands and receives responses. The card can signal that a response will be delayed, but the host device can abort the dialogue.
+Through issuing various commands, the host device can:
+
+Determine the type, memory capacity and capabilities of the SD card
+Command the card to use a different voltage, different clock speed, or advanced electrical interface
+Prepare the card to receive a block to write to the flash memory, or read and reply with the contents of a specified block.
+The command interface is an extension of the MultiMediaCard (MMC) interface. SD cards dropped support for some of the commands in the MMC protocol, but added commands related to copy protection. By using only commands supported by both standards until determining the type of card inserted, a host device can accommodate both SD and MMC cards.
+
+Electrical interface
+All SD card families initially use a 3.3 volt electrical interface. On command, SDHC and SDXC cards can switch to 1.8 V operation.
+At power-up or card insertion, the voltage on pin 1 selects either the Serial Peripheral Interface (SPI) bus or the SD bus. The SD bus starts in one-bit mode, but the host device may issue a command to switch to the four-bit mode, if the SD card supports it. For various card types, support for the four-bit SD bus is either optional or mandatory.
+After determining that the SD card supports it, the host device can also command the SD card to switch to a higher transfer speed. Until determining the card's capabilities, the host device should not use a clock speed faster than 400 kHz. SD cards other than SDIO (see below) have a "Default Speed" clock rate of 25 MHz. The host device is not required to use the maximum clock speed that the card supports. It may operate at less than the maximum clock speed to conserve power. Between commands, the host device can stop the clock entirely.
+
+MBR and FAT
+Most SD cards ship preformatted with one or more MBR partitions, where the first or only partition contains a file system. This lets them operate like the hard disk of a personal computer. Per the SD card specification, an SD card is formatted with MBR and the following file system:
+
+For SDSC cards:
+Capacity of less than 32,680 logical sectors (smaller than 16 MB): FAT12 with partition type 01h and BPB 3.0 or EBPB 4.1
+Capacity of 32,680 to 65,535 logical sectors (between 16 MB and 32 MB): FAT16 with partition type 04h and BPB 3.0 or EBPB 4.1
+Capacity of at least 65,536 logical sectors (larger than 32 MB): FAT16B with partition type 06h and EBPB 4.1
+For SDHC cards:
+Capacity of less than 16,450,560 logical sectors (smaller than 7.8 GB): FAT32 with partition type 0Bh and EBPB 7.1
+Capacity of at least 16,450,560 logical sectors (larger than 7.8 GB): FAT32 with partition type 0Ch and EBPB 7.1
+For SDXC cards: exFAT with partition type 07h
+Most consumer products that take an SD card expect that it is partitioned and formatted in this way. Universal support for FAT12, FAT16, FAT16B and FAT32 allows the use of SDSC and SDHC cards on most host computers with a compatible SD reader, to present the user with the familiar method of named files in a hierarchical directory tree.
+On such SD cards, standard utility programs such as Mac OS X's "Disk Utility" or Windows' SCANDISK can be used to repair a corrupted filing system and sometimes recover deleted files. Defragmentation tools for FAT file systems may be used on such cards. The resulting consolidation of files may provide a marginal improvement in the time required to read or write the file, but not an improvement comparable to defragmentation of hard drives, where storing a file in multiple fragments requires additional physical and relatively slow, movement of a drive head. Moreover, defragmentation performs writes to the SD card that count against the card's rated lifespan. The write endurance of the physical memory is discussed in the article on flash memory; newer technology to increase the storage capacity of a card provides worse write endurance.
+When reformatting an SD card with a capacity of at least 32 MB (65,536 logical sectors or more), but not more than 2 GB, FAT16B with partition type 06h and EBPB 4.1 is recommended if the card is for a consumer device. (FAT16B is also an option for 4 GB cards, but it requires the use of 64 KB clusters, which are not widely supported.) FAT16B does not support cards above 4 GB at all.
+The SDXC specification mandates the use of Microsoft's proprietary exFAT file system, which sometimes requires appropriate drivers (e.g. exfat-utils/exfat-fuse on Linux).
+
+Risks of reformatting
+Reformatting an SD card with a different file system, or even with the same one, may make the card slower, or shorten its lifespan. Some cards use wear leveling, in which frequently modified blocks are mapped to different portions of memory at different times, and some wear-leveling algorithms are designed for the access patterns typical of FAT12, FAT16 or FAT32. In addition, the preformatted file system may use a cluster size that matches the erase region of the physical memory on the card; reformatting may change the cluster size and make writes less efficient. The SD Association provides freely downloadable SD Formatter software to overcome these problems for Windows and Mac OS X.
+SD/SDHC/SDXC memory cards have a "Protected Area" on the card for the SD standard's security function. Neither standard formatters nor the SD Association formatter will erase it. The SD Association suggests that devices or software which use the SD security function may format it.
+
+Power consumption
+The power consumption of SD cards varies by its speed mode, manufacturer and model.
+During transfer it may be in the range of 66–330 mW (20–100 mA at a supply voltage of 3.3 V). Specifications from TwinMOS Technologies list a maximum of 149 mW (45 mA) during transfer. Toshiba lists 264–330 mW (80–100 mA). Standby current is much lower, less than 0.2 mA for one 2006 microSD card. If there is data transfer for significant periods, battery life may be reduced noticeably; for reference, the capacity of smartphone batteries is typically around 6 Wh (Samsung Galaxy S2: 1650 mAh @ 3.7 V).
+Modern UHS-II cards can consume up to 2.88 W, if the host device supports bus speed mode SDR104 or UHS-II. Minimum power consumption in the case of a UHS-II host is 720 mW.
+
+Storage capacity and compatibilities
+All SD cards let the host device determine how much information the card can hold, and the specification of each SD family gives the host device a guarantee of the maximum capacity a compliant card reports.
+By the time the version 2.0 (SDHC) specification was completed in June 2006, vendors had already devised 2 GB and 4 GB SD cards, either as specified in Version 1.01, or by creatively reading Version 1.00. The resulting cards do not work correctly in some host devices.
+
+SDSC cards above 1 GB
+SD version 1.00 assumed 512 bytes per block. This permitted SDSC cards up to 4,096 × 512 × 512 B = 1 GB.
+Version 1.01 let an SDSC card use a 4-bit field to indicate 1,024 or 2,048 bytes per block instead. Doing so enabled cards with 2 GB and 4 GB capacity, such as the Transcend 4 GB SD card, the Memorette 4 GB SD card and the Hoco 4 GB microSD card.
+
+Storage capacity calculations
+The format of the Card-Specific Data (CSD) register changed between version 1 (SDSC) and version 2.0 (which defines SDHC and SDXC).
+
+Version 1
+In version 1 of the SD specification, capacities up to 2 GB are calculated by combining fields of the CSD as follows:
+
+Capacity = (C_SIZE + 1) × 2(C_SIZE_MULT + READ_BL_LEN + 2)
+where
+ 0 ≤ C_SIZE ≤ 4095,
+ 0 ≤ C_SIZE_MULT ≤ 7,
+ READ_BL_LEN is 9 (for 512 bytes/sector) or 10 (for 1024 bytes/sector)
+
+Later versions state (at Section 4.3.2) that a 2 GB SDSC card shall set its READ_BL_LEN (and WRITE_BL_LEN) to indicate 1,024 bytes, so that the above computation correctly reports the card's capacity, but that, for consistency, the host device shall not request (by CMD16) block lengths over 512 B.
+
+Versions 2 and 3
+In the definition of SDHC cards in version 2.0, the C_SIZE portion of the CSD is 22 bits and it indicates the memory size in multiples of 512 KB (the C_SIZE_MULT field is removed and READ_BL_LEN is no longer used to compute capacity). Two bits that were formerly reserved now identify the card family: 0 is SDSC; 1 is SDHC or SDXC; 2 and 3 are reserved. Because of these redefinitions, older host devices do not correctly identify SDHC or SDXC cards nor their correct capacity.
+
+SDHC cards are restricted to reporting a capacity not over 32 GB.
+SDXC cards are allowed to use all 22 bits of the C_SIZE field. An SDHC card that did so (reported C_SIZE > 65,375 to indicate a capacity of over 32 GB) would violate the specification. A host device that relied on C_SIZE rather than the specification to determine the card's maximum capacity might support such a card, but the card might fail in other SDHC-compatible host devices.
+Capacity is calculated thus:
+
+Capacity = (C_SIZE + 1) × 524288
+where for SDHC
+ 4112 ≤ C_SIZE ≤ 65375
+ ≈2 GB ≤ Capacity ≤ ≈32 GB
+where for SDXC
+ 65535 ≤ C_SIZE
+ ≈32 GB ≤ Capacity ≤ 2 TB
+
+Capacities above 4 GB can only be achieved by following version 2.0 or later versions. In addition, capacities equal to 4 GB must also do so to guarantee compatibility.
+
+Openness of specification
+Like most memory card formats, SD is covered by numerous patents and trademarks. Excluding SDIO cards, royalties for SD card licenses are imposed for manufacture and sale of memory cards and host adapters (US$1,000/year plus membership at US$1,500/year)
+Early versions of the SD specification were available under a non-disclosure agreement (NDA) prohibiting development of open-source drivers. However, the system was eventually reverse-engineered and free software drivers provided access to SD cards not using DRM. Subsequent to the release of most open-source drivers, the SDA provided a simplified version of the specification under a less restrictive license helping reduce some incompatibility issues.
+Under a disclaimers agreement, the simplified specification released by the SDA in 2006 – as opposed to that of SD cards – was later extended to the physical layer, ASSD extensions, SDIO and SDIO Bluetooth Type-A.
+The Simplified Specification is available.
+Again, most of the information had already been discovered and Linux had a fully free driver for it. Still, building a chip conforming to this specification caused the One Laptop per Child project to claim "the first truly Open Source SD implementation, with no need to obtain an SDI license or sign NDAs to create SD drivers or applications."
+The proprietary nature of the complete SD specification affects embedded systems, laptop computers and some desktop computers; many desktop computers do not have card slots, instead using USB-based card readers if necessary. These card readers present a standard USB mass storage interface to memory cards, thus separating the operating system from the details of the underlying SD interface. However, embedded systems (such as portable music players) usually gain direct access to SD cards and thus need complete programming information. Desktop card readers are themselves embedded systems; their manufacturers have usually paid the SDA for complete access to the SD specifications. Many notebook computers now include SD card readers not based on USB; device drivers for these essentially gain direct access to the SD card, as do embedded systems.
+The SPI-bus interface mode is the only type that does not require a host license for accessing SD cards.
+
+Data recovery
+A malfunctioning SD card can be repaired using specialized equipment, as long as the middle part, containing the flash storage, is not physically damaged. The controller can in this way be circumvented. This might be harder or even impossible in the case of monolithic card, where the controller resides on the same physical die.
+
+See also
+Comparison of memory cards
+Microdrive
+Universal Flash Storage
+
+Footnotes
+References
+External links
+
+SD Association Official Site
+SD simplified specifications
+SD Memory Card Formatter
+How to Use MMC/SDC elm-chan.org, December 26, 2019
+Optimizing Linux with cheap flash drives lwn.net
+Flash memory card: design, and List of cards and their characteristics linaro
+Independent SD Card Speed Tests
+Types of Memory Cards and Sizes

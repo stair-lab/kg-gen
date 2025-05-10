@@ -1,0 +1,75 @@
+The pawn (♙, ♟) is the most numerous and weakest piece in the game of chess. It may move one square directly forward, it may move two squares directly forward on its first move, and it may capture one square diagonally forward. Each player begins a game with eight pawns, one on each square of their second rank. The white pawns start on a2 through h2; the black pawns start on a7 through h7.
+Individual pawns are referred to by the file on which they stand. For example, one speaks of "White's f-pawn" or "Black's b-pawn". Alternatively, they can be referred to by the piece which stood on that file at the beginning of the game, e.g. "White's king bishop's pawn" or "Black's queen knight's pawn". It is also common to refer to a rook's pawn, meaning any pawn on the a- or h-files, a knight's pawn (on the b- or g-files), a bishop's pawn (on the c- or f-files), a queen's pawn (on the d-file), a king's pawn (on the e-file), and a central pawn (on the d- or e-files).
+The pawn historically represents soldiers or infantry, or more particularly, armed peasants or pikemen.
+
+Placement and movement
+Each player begins the game with eight pawns placed along their second rank.
+A pawn may move by vertically advancing to a vacant square ahead. The first time a pawn moves, it has the additional option of vertically advancing two squares, provided that both squares are vacant. Unlike other pieces, the pawn can only move forwards. In the second diagram, the pawn on c4 can move to c5; the pawn on e2 can move to either e3 or e4.
+
+Capturing
+Unlike other pieces, the pawn does not capture in the same way that it moves. A pawn captures by moving diagonally forward one square to the left or right, either replacing an enemy piece on its square (first diagram) or capturing en passant (second diagram).
+An en passant capture can occur after a pawn makes a move of two squares and the square it passes over is attacked by an enemy pawn. The enemy pawn is entitled to capture the moved pawn "in passing" as if the latter had advanced only one square. The capturing pawn moves to the square over which the moved pawn passed, and the moved pawn is removed from the board. The option to capture the moved pawn en passant must be exercised on the move immediately following the double-step pawn advance, or it is lost for the remainder of the game. The en passant capture is the only capture in chess in which the capturing piece does not replace the captured piece on the same square.
+
+Promotion
+A pawn that advances to its last rank is promoted to a queen, rook, bishop, or knight of the same color. The pawn is replaced by the new piece on the same move. The choice of promotion is not limited to pieces that have been captured; thus, a player could, in theory, have as many as nine queens, ten rooks, ten bishops, or ten knights on the board. Promotion to a queen is also known as queening and to any other piece as underpromotion. Reasons for underpromotion include tactical positions involving a knight check, and avoiding stalemate.
+While some chess sets include an extra queen of each color, most standard sets do not come with additional pieces, so the physical piece used to replace a promoted pawn on the board is usually one that was previously captured. In informal games, when the correct piece is not available, an additional queen is often indicated by inverting a previously captured rook. In tournament games, however, this is not acceptable, and may result in the arbiter ruling that the upturned piece is a rook.
+
+Strategy
+Pawn structure
+The pawn structure, the configuration of pawns on the chessboard, mostly determines the strategic flavor of a game. While other pieces can usually be moved to more favorable positions if they are temporarily badly placed, a poorly positioned pawn is limited in its movement and often cannot be so relocated.
+Because pawns capture diagonally and can be blocked from moving straight forward, opposing pawns can become locked in diagonal pawn chains of two or more pawns of each color, where each player controls squares of one color. In the diagram, Black and White have locked their d- and e-pawns.
+Here, White has a long-term space advantage. White will have an easier time than Black in finding good squares for their pieces, particularly with an eye to the kingside. Black, in contrast, suffers from a bad bishop on c8, which is prevented by the black pawns from finding a good square or helping out on the kingside. On the other hand, White's central pawns are somewhat overextended and vulnerable to attack. Black can undermine the white pawn chain with an immediate ...c5 and perhaps a later ...f6.
+
+Isolated pawn
+Pawns on adjacent files can support each other in attack and defense. A pawn that has no friendly pawns in adjacent files is an isolated pawn. The square in front of an isolated pawn may become an enduring weakness. Any piece placed directly in front not only blocks the advance of that pawn but also cannot be driven away by other pawns.
+In the diagram, Black has an isolated pawn on d5. If all the pieces except the kings and pawns were removed, the weakness of that pawn might prove fatal to Black in the endgame. In the middlegame, however, Black has slightly more freedom of movement than White and may be able to trade off the isolated pawn before an endgame ensues.
+
+Passed pawn
+A pawn that cannot be blocked or captured by enemy pawns in its path to promotion is a passed pawn. Because endgames are often won by the player who can promote a pawn first, having a passed pawn in an endgame can be decisive – especially a protected passed pawn (a passed pawn that is protected by a pawn). In this vein, a pawn majority, a greater number of pawns belonging to one player on one side of the chessboard, is strategically important because it can often be converted into a passed pawn.
+In the diagram, White has a protected passed pawn on c5 and Black has an outside passed pawn on h5. This position might appear roughly equal, because each side has a king and three pawns, and the positions of the kings are about equal. In truth, White wins this endgame on the strength of the protected passed pawn, regardless which player moves first. The black king cannot be on both sides of the board at once – to defend the isolated h-pawn and to stop White's c-pawn from advancing to promotion. Thus White can capture the h-pawn and then win the game.
+
+Doubled pawn
+After a capture with a pawn, a player may end up with two pawns on the same file, called doubled pawns. Doubled pawns are substantially weaker than pawns that are side by side, because they cannot defend each other, they usually cannot both be defended by adjacent pawns, and the front pawn blocks the advance of the back one. In the diagram, the doubled c-pawns are a strategic disadvantage for Black.
+There are situations where doubled pawns confer some advantage, typically when the guarding of consecutive squares in a file by the pawns prevents an invasion by the opponent's pieces.
+Pawns that are both doubled and isolated are typically a tangible weakness. A single piece or pawn in front of doubled isolated pawns blocks both of them, and cannot be easily dislodged. It is rare for a player to have three pawns in a file, i.e. tripled pawns.
+
+Wrong rook pawn
+In chess endgames with a bishop, a rook pawn may be the wrong rook pawn, depending on the square-color of the bishop. This causes some positions to be draws that would otherwise be wins.
+
+History
+The pawn has its origins in the oldest version of chess, chaturanga, and it is present in all other significant versions of the game as well. In chaturanga, this piece could move one square directly forward and could capture one square diagonally forward.
+In medieval chess, as an attempt to make the pieces more interesting, each pawn was given the name of a commoner's occupation:
+
+Gambler and other "lowlifes", also messengers (in the left-most file, that direction being literally sinister)
+City guard or policeman (in front of the left-side knight, as knights trained city guards in real life)
+Innkeeper (in front of the left-side bishop)
+Doctor (in front of the queen)
+Merchant or money changer (in front of the king)
+Weaver/clerk (in front of the right-side bishop, as they worked for bishops)
+Blacksmith (in front of the right-side knight, as they cared for the horses)
+Worker/farmer (in front of the right-side rook, as they worked for castles)
+The most famous example of this is found in the second book ever printed in the English language, The Game and Playe of the Chesse. This book, printed by William Caxton, was viewed to be as much a political commentary on society as a chess book. 
+The ability to move two spaces and the related ability to capture en passant were introduced in 15th-century Europe; the en passant capture spread to various regions throughout its history. The en passant capture intends to prevent a pawn on its initial square from safely bypassing a square controlled by an enemy pawn. The rule for promotion has changed throughout its history.
+
+Etymology and word usage
+The term pawn is derived from the Old French word paon, which comes from the Medieval Latin term for "foot soldier" and is cognate with peon. In most other languages, the word for pawn is similarly derived from paon (e.g., pionek in Polish), its Latin ancestor or some other word for foot soldier. In some languages the term for pawn is a name meaning "peasant" or "farmer", reflecting how the lower orders were conscripted as footsoldiers in wartime: Hungarian paraszt, Slovene kmet, German Bauer, Danish/Norwegian/Swedish bonde, Latvian bandinieks. In Irish, the term fichillín, a diminutive of ficheall ("chess") is sometimes used, though the term "ceithearnach" ("foot soldier") is also used. In Thai the pawn is called เบี้ย (bîia), which signifies a cowrie shell or a coin of little value. In Turkish the pawn is called piyon, borrowed from the French word Pion in the 19th century.
+Outside of the game of chess, "pawn" is often taken to mean "one who is manipulated to serve another's purpose". Because the pawn is the weakest piece, it is often used metaphorically to indicate unimportance or outright disposability, only having utility in the ability to be controlled; for example, "She's only a pawn in their game."
+
+Unicode
+Unicode defines three codepoints for a pawn:
+♙ U+2659 White Chess Pawn
+♟ U+265F Black Chess Pawn
+🨅 U+1FA05 Neutral Chess Pawn
+
+See also
+Notes
+References
+Barden, Leonard (1980), Play better chess with Leonard Barden, Octopus Books Limited, p. 11, ISBN 0-7064-0967-1
+Brace, Edward R. (1977), An Illustrated Dictionary of Chess, Hamlyn Publishing Group, p. 213, ISBN 1-55521-394-4
+Euwe, Max; Hooper, David (1959), A Guide to Chess Endings, Dover (1976 reprint), ISBN 0-486-23332-4 {{citation}}: ISBN / Date incompatibility (help)
+Fine, Reuben; Benko, Pal (2003), Basic Chess Endings (1941) (revised ed.), McKay, ISBN 0-8129-3493-8
+Hooper, David; Whyld, Kenneth (1996) [First pub. 1992], "pawn", The Oxford Companion to Chess (2nd ed.), Oxford University Press, p. 294, ISBN 0-19-280049-3
+
+External links
+
+Piececlopedia: Pawn by Hans Bodlaender and Fergus Duniho, The Chess Variant Pages

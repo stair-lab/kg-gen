@@ -1,0 +1,126 @@
+A leap year (also known as an intercalary year or bissextile year) is a calendar year that contains an additional day (or, in the case of a lunisolar calendar, a month) compared to a common year. The 366th day (or 13th month) is added to keep the calendar year synchronised with the astronomical year or seasonal year. Since astronomical events and seasons do not repeat in a whole number of days, calendars having a constant number of days each year will unavoidably drift over time with respect to the event that the year is supposed to track, such as seasons. By inserting ("intercalating") an additional day—a leap day—or month—a leap month—into some years, the drift between a civilization's dating system and the physical properties of the Solar System can be corrected.
+An astronomical year lasts slightly less than 365⁠1/4⁠ days. The historic Julian calendar has three common years of 365 days followed by a leap year of 366 days, by extending February to 29 days rather than the common 28. The Gregorian calendar, the world's most widely used civil calendar, makes a further adjustment for the small error in the Julian algorithm. Each leap year has 366 days instead of 365. This extra leap day occurs in each year that is a multiple of 4, except for years evenly divisible by 100 but not by 400.
+In the lunisolar Hebrew calendar, Adar Aleph, a 13th lunar month, is added seven times every 19 years to the twelve lunar months in its common years to keep its calendar year from drifting through the seasons. In the Solar Hijri and Bahá'í calendars, a leap day is added when needed to ensure that the following year begins on the March equinox.
+The term leap year probably comes from the fact that a fixed date in the Gregorian calendar normally advances one day of the week from one year to the next, but the day of the week in the 12 months following the leap day (from 1 March through 28 February of the following year) will advance two days due to the extra day, thus leaping over one day in the week. For example, since 1 March was a Friday in 2024, was a Saturday in 2025, will be a Sunday in 2026, and a Monday in 2027, but will then "leap" over Tuesday to fall on a Wednesday in 2028.
+The length of a day is also occasionally corrected by inserting a leap second into Coordinated Universal Time (UTC) because of variations in Earth's rotation period. Unlike leap days, leap seconds are not introduced on a regular schedule because variations in the length of the day are not entirely predictable.
+Leap years can present a problem in computing, known as the leap year bug, when a year is not correctly identified as a leap year or when 29 February is not handled correctly in logic that accepts or manipulates dates.
+
+Julian calendar
+On 1 January 45 BC, by edict, Julius Caesar reformed the historic Roman calendar to make it a consistent solar calendar (rather than one which was neither strictly lunar nor strictly solar), thus removing the need for frequent intercalary months. His rule for leap years was a simple one: add a leap day every 4 years. This algorithm is close to reality: a Julian year lasts 365.25 days, a mean tropical year about 365.2422 days, a difference of only ≈ 11⁠1/4⁠ min. Consequently, even this Julian calendar drifts out of 'true' by about 3 days every 400 years. The Julian calendar continued in use unaltered for about 1600 years until the Catholic Church became concerned about the widening divergence between the March Equinox and 21 March, as explained at Gregorian calendar, below.
+Prior to Caesar's creation of what would be the Julian calendar, February was already the shortest month of the year for Romans. In the Roman calendar (after the reform of Numa Pompilius that added January and February), all months except February had an odd number of days – 29 or 31. This was because of a Roman superstition that even numbers were unlucky. When Caesar changed the calendar to follow the solar year closely, he made all months have 30 or 31 days, leaving February unchanged except in leap years.
+
+Gregorian calendar
+In the Gregorian calendar, the standard calendar in most of the world, almost every fourth year is a leap year. Each leap year, the month of February has 29 days instead of 28. Adding one extra day in the calendar every four years compensates for the fact that a period of 365 days is shorter than a tropical year by almost six hours. However, this correction is excessive and the Gregorian reform modified the Julian calendar's scheme of leap years as follows:
+
+Every year that is exactly divisible by four is a leap year, except for years that are exactly divisible by 100, but these centurial years are leap years if they are exactly divisible by 400. For example, the years 1700, 1800, and 1900 are not leap years, but the years 1600 and 2000 are.
+
+Whereas the Julian calendar year incorrectly summarised Earth's tropical year as 365.25 days, the Gregorian calendar makes these exceptions to follow a calendar year of 365.2425 days. This more closely resembles a mean tropical year of 365.2422 days. Over a period of four centuries, the accumulated error of adding a leap day every four years amounts to about three extra days. The Gregorian calendar therefore omits three leap days every 400 years, which is the length of its leap cycle. This is done by omitting 29 February in the three century years (multiples of 100) that are not multiples of 400. The years 2000 and 2400 are leap years, but not 1700, 1800, 1900, 2100, 2200, and 2300. By this rule, an entire leap cycle is 400 years, which totals 146,097 days, and the average number of days per year is 365 + 1⁄4 − 1⁄100 + 1⁄400 = 365 + 97⁄400 = 365.2425. This rule could be applied to years before the Gregorian reform to create a proleptic Gregorian calendar, though the result would not match any historical records.
+
+The Gregorian calendar was designed to keep the vernal equinox on or close to 21 March, so that the date of Easter (celebrated on the Sunday after the ecclesiastical full moon that falls on or after 21 March) remains close to the vernal equinox. The "Accuracy" section of the "Gregorian calendar" article discusses how well the Gregorian calendar achieves this objective, and how well it approximates the tropical year.
+
+Leap day in the Julian and Gregorian calendars
+The intercalary day that usually occurs every four years is called leap day and is created by adding an extra day to February. This day is added to the calendar in leap years as a corrective measure because the Earth does not orbit the Sun in precisely 365 days. Since about the 15th century, this extra day has been 29 February, but when the Julian calendar was introduced, the leap day was handled differently in two respects. First, leap day fell within February and not at the end: 24 February was doubled to create, strangely to modern eyes, two days both dated 24 February. Second, the leap day was simply not counted so that a leap year still had 365 days.
+
+Early Roman practice
+The early Roman calendar was a lunisolar one that consisted of 12 months, for a total of 355 days. In addition, a 27- or 28-day intercalary month, the Mensis Intercalaris, was sometimes inserted into February, at the first or second day after the Terminalia a. d. VII Kal. Mar. (23 February), to resynchronise the lunar and solar cycles. The remaining days of Februarius were discarded. This intercalary month, named Intercalaris or Mercedonius, contained 27 days. The religious festivals that were normally celebrated in the last five days of February were moved to the last five days of Intercalaris. The lunisolar calendar was abandoned about 450 BC by the decemviri, who implemented the Roman Republican calendar, used until 46 BC. The days of these calendars were counted down (inclusively) to the next named day, so 24 February was ante diem sextum Kalendas Martias ["the sixth day before the calends of March"] often abbreviated a. d. VI Kal. Mart. The Romans counted days inclusively in their calendars, so this was the fifth day before 1 March when counted in the modern exclusive manner (i.e., not including both the starting and ending day). Because only 22 or 23 days were effectively added, not a full lunation, the calends and ides of the Roman Republican calendar were no longer associated with the new moon and full moon.
+
+Julian reform
+In Caesar's revised calendar, there was just one intercalary day – nowadays called the leap day – to be inserted every fourth year, and this too was done after 23 February. To create the intercalary day, the existing ante diem sextum Kalendas Martias (sixth day (inclusive: i.e., what we would call the fifth day before) before the Kalends (first day) of March, i.e., what we would call 24 February) was doubled, producing ante diem bis sextum Kalendas Martias [a second sixth day before the Kalends. This bis sextum ("twice sixth") was rendered in later languages as "bissextile": the "bissextile day" is the leap day, and a "bissextile year" is a year which includes a leap day. This second instance of the sixth day before the Kalends of March was inserted in calendars between the "normal" fifth and sixth days. By legal fiction, the Romans treated both the first "sixth day" and the additional "sixth day" before the Kalends of March as one day. Thus a child born on either of those days in a leap year would have its first birthday on the following sixth day before the Kalends of March. In a leap year in the original Julian calendar, there were indeed two days both numbered 24 February. This practice continued for another fifteen to seventeen centuries, even after most countries had adopted the Gregorian calendar.
+For legal purposes, the two days of the bis sextum were considered to be a single day, with the second sixth being intercalated; but in common practice by the year 238, when Censorinus wrote, the intercalary day was followed by the last five days of February, a. d. VI, V, IV, III, and pridie Kal. Mart. (the days numbered 24, 25, 26, 27, and 28 from the beginning of February in a common year), so that the intercalated day was the first of the doubled pair. Thus the intercalated day was effectively inserted between the 23rd and 24th days of February. All later writers, including Macrobius about 430, Bede in 725, and other medieval computists (calculators of Easter), continued to state that the bissextum (bissextile day) occurred before the last five days of February.
+In England, the Church and civil society continued the Roman practice whereby the leap day was simply not counted, so that a leap year was only reckoned as 365 days. Henry III's 1236 Statute De Anno et Die Bissextili instructed magistrates to treat the leap day and the day before as one day. The practical application of the rule is obscure. It was regarded as in force in the time of the famous lawyer Sir Edward Coke (1552–1634) because he cites it in his Institutes of the Lawes of England. However, Coke merely quotes the Act with a short translation and does not give practical examples.
+
+... and by (b) the statute de anno bissextili, it is provided, quod computentur dies ille excrescens et dies proxime præcedens pro unico dii, so as in computation that day excrescent is not accounted.
+
+29 February
+Replacement (by 29 February) of the awkward practice of having two days with the same date appears to have evolved by custom and practice; the etymological origin of the term "bissextile" seems to have been lost. In England in the fifteenth century, "29 February" appears increasingly often in legal documents – although the records of the proceedings of the House of Commons of England continued to use the old system until the middle of the sixteenth century. It was not until the passage of the Calendar (New Style) Act 1750 that 29 February was formally recognised in British law.
+
+Liturgical practices
+In the liturgical calendar of the Christian churches, the placement of the leap day is significant because of the date of the feast of Saint Matthias, which is defined as the sixth day before 1 March (counting inclusively). The Church of England's Book of Common Prayer was still using the "two days with the same date" system in its 1542 edition; it first included a calendar which used entirely consecutive day counting from 1662 and showed leap day as falling on 29 February. In the 1680s, the Church of England declared 25 February to be the feast of St Matthias.
+Until 1970, the Roman Catholic Church always celebrated the feast of Saint Matthias on a. d. VI Kal. Mart., so if the days were numbered from the beginning of the month, it was named 24 February in common years, but the presence of the bissextum in a bissextile year immediately before a. d. VI Kal. Mart. shifted the latter day to 25 February in leap years, with the Vigil of St. Matthias shifting from 23 February to the leap day of 24 February. This shift did not take place in pre-Reformation Norway and Iceland; Pope Alexander III ruled that either practice was lawful. Other feasts normally falling on 25–28 February in common years are also shifted to the following day in a leap year (although they would be on the same day according to the Roman notation). The practice is still observed by those who use the older calendars.
+In the Eastern Orthodox Church, the feast of St. John Cassian is celebrated on 29 February, but he is instead commemorated at Compline on 28 February in non-leap years. The feast of St. Matthias is celebrated in August, so leap years do not affect his commemoration, and, while the feast of the First and Second Findings of the Head of John the Baptist is celebrated on 24 February, the Orthodox church calculates days from the beginning of the current month, rather than counting down days to the Kalends of the following month, this is not affected. Thus, only the feast of St. John Cassian and any movable feasts associated with the Lenten or Pre-Lenten cycles are affected.
+
+Folk traditions
+In Ireland and Britain, it is a tradition that women may propose marriage only in leap years. While it has been claimed that the tradition was initiated by Saint Patrick or Brigid of Kildare in 5th century Ireland, this is dubious, as the tradition has not been attested before the 19th century. Supposedly, a 1288 law by Queen Margaret of Scotland (then age five and living in Norway), required that fines be levied if a marriage proposal was refused by the man; compensation was deemed to be a pair of leather gloves, a single rose, £1, and a kiss. In some places the tradition was tightened to restricting female proposals to the modern leap day, 29 February, or to the medieval (bissextile) leap day, 24 February.
+According to Felten: "A play from the turn of the 17th century, 'The Maydes Metamorphosis,' has it that 'this is leape year/women wear breeches.' A few hundred years later, breeches wouldn't do at all: Women looking to take advantage of their opportunity to pitch woo were expected to wear a scarlet petticoat – fair warning, if you will."
+In Finland, the tradition is that if a man refuses a woman's proposal on leap day, he should buy her the fabrics for a skirt.
+In France, since 1980, a satirical newspaper titled La Bougie du Sapeur is published only on leap year, on 29 February.
+In Greece, marriage in a leap year is considered unlucky. One in five engaged couples in Greece will plan to avoid getting married in a leap year.
+In February 1988 the town of Anthony, Texas, declared itself the "leap year capital of the world", and an international leapling birthday club was started.
+
+	1908 postcards
+
+Birthdays
+A person born on 29 February may be called a "leapling" or a "leaper". In common years, they celebrate their birthdays on 28 February or 1 March.
+Technically, a leapling will have fewer birthday anniversaries than their age in years. This phenomenon may be exploited for dramatic effect when a person is declared to be only a quarter of their actual age, by counting their leap-year birthday anniversaries only. For example, in Gilbert and Sullivan's 1879 comic opera The Pirates of Penzance, Frederic (the pirate apprentice) discovers that he is bound to serve the pirates until his 21st birthday (that is, when he turns 88 years old, since 1900 was not a leap year) rather than until his 21st year.
+For legal purposes, legal birthdays depend on how local laws count time intervals.
+
+Taiwan
+The Civil Code of Taiwan since 10 October 1929, implies that the legal birthday of a leapling is 28 February in common years:
+
+If a period fixed by weeks, months, and years does not commence from the beginning of a week, month, or year, it ends with the ending of the day which precedes the day of the last week, month, or year which corresponds to that on which it began to commence. But if there is no corresponding day in the last month, the period ends with the ending of the last day of the last month.
+
+Hong Kong
+Since 1990 non-retroactively, Hong Kong considers the legal birthday of a leapling 1 March in common years:
+
+The time at which a person attains a particular age expressed in years shall be the commencement of the anniversary corresponding to the date of [their] birth.
+Where a person has been born on February 29 in a leap year, the relevant anniversary in any year other than a leap year shall be taken to be March 1.
+This section shall apply only where the relevant anniversary falls on a date after the date of commencement of this Ordinance.
+
+UK
+In the UK 1 March is considered to be a leapling's legal birthday.
+
+Revised Julian calendar
+The Revised Julian calendar adds an extra day to February in years that are multiples of four, except for years that are multiples of 100 that do not leave a remainder of 200 or 600 when divided by 900. This rule agrees with the rule for the Gregorian calendar until 2799. The first year that dates in the Revised Julian calendar will not agree with those in the Gregorian calendar will be 2800, because it will be a leap year in the Gregorian calendar but not in the Revised Julian calendar.
+This rule gives an average year length of 365.242222 days. This is a very good approximation to the mean tropical year, but because the vernal equinox year is slightly longer, the Revised Julian calendar, for the time being, does not do as good a job as the Gregorian calendar at keeping the vernal equinox on or close to 21 March.
+
+Baháʼí calendar
+The Baháʼí calendar is a solar calendar composed of 19 months of 19 days each (361 days). Years begin at Naw-Rúz, on the vernal equinox, on or about 21 March. A period of intercalary days, called Ayyam-i-Ha, is inserted before the 19th month. This period normally has four days, but an extra day is added when needed to ensure that the following year starts on the vernal equinox. This is calculated and known years in advance.
+
+Bengali, Indian and Thai calendars
+The Revised Bengali Calendar of Bangladesh and the Indian National Calendar organise their leap years so that every leap day is close to 29 February in the Gregorian calendar and vice versa. This makes it easy to convert dates to or from Gregorian.
+The Thai solar calendar uses the Buddhist Era (BE) but has been synchronised with the Gregorian since AD 1941.
+
+Chinese calendar
+The Chinese calendar is lunisolar, so a leap year has an extra month, often called an embolismic month after the Greek word for it. In the Chinese calendar, the leap month is added according to a rule which ensures that month 11 is always the month that contains the northern winter solstice. The intercalary month takes the same number as the preceding month; for example, if it follows the second month (二月) then it is simply called "leap second month" i.e., simplified Chinese: 闰二月; traditional Chinese: 閏二月; pinyin: rùn'èryuè.
+
+Hebrew calendar
+The Hebrew calendar is lunisolar with an embolismic month. This extra month is called Adar Rishon (first Adar) and is added before Adar, which then becomes Adar Sheini (second Adar). According to the Metonic cycle, this is done seven times every nineteen years (specifically, in years 3, 6, 8, 11, 14, 17, and 19). This is to ensure that Passover (Pesah) is always in the spring as required by the Torah (Pentateuch) in many verses relating to Passover.
+In addition, the Hebrew calendar has postponement rules that postpone the start of the year by one or two days. These postponement rules reduce the number of different combinations of year length and starting days of the week from 28 to 14, and regulate the location of certain religious holidays in relation to the Sabbath. In particular, the first day of the Hebrew year can never be Sunday, Wednesday, or Friday. This rule is known in Hebrew as "lo adu rosh" (לא אד״ו ראש), i.e., "Rosh [ha-Shanah, first day of the year] is not Sunday, Wednesday, or Friday" (as the Hebrew word adu is written by three Hebrew letters signifying Sunday, Wednesday, and Friday). Accordingly, the first day of Passover is never Monday, Wednesday, or Friday. This rule is known in Hebrew as "lo badu Pesah" (לא בד״ו פסח), which has a double meaning — "Passover is not a legend", but also "Passover is not Monday, Wednesday, or Friday" (as the Hebrew word badu is written by three Hebrew letters signifying Monday, Wednesday, and Friday).
+One reason for this rule is that Yom Kippur, the holiest day in the Hebrew calendar and the tenth day of the Hebrew year, now must never be adjacent to the weekly Sabbath (which is Saturday), i.e., it must never fall on Friday or Sunday, in order not to have two adjacent Sabbath days. However, Yom Kippur can still be on Saturday. A second reason is that Hoshana Rabbah, the 21st day of the Hebrew year, will never be on Saturday. These rules for the Feasts do not apply to the years from the Creation to the deliverance of the Hebrews from Egypt under Moses. It was at that time (cf. Exodus 13) that the God of Abraham, Isaac and Jacob gave the Hebrews their "Law" including the days to be kept holy and the feast days and Sabbaths.
+Years consisting of 12 months have between 353 and 355 days. In a k'sidra ("in order") 354-day year, months have alternating 30 and 29 day lengths. In a chaser ("lacking") year, the month of Kislev is reduced to 29 days. In a malei ("filled") year, the month of Marcheshvan is increased to 30 days. 13-month years follow the same pattern, with the addition of the 30-day Adar Alef, giving them between 383 and 385 days.
+
+Islamic calendars
+The observed and calculated versions of the lunar Islamic calendar do not have regular leap days, even though both have lunar months containing 29 or 30 days, generally in alternating order. However, the tabular Islamic calendar used by Islamic astronomers during the Middle Ages and still used by some Muslims does have a regular leap day added to the last month of the lunar year in 11 years of a 30-year cycle. This additional day is found at the end of the last month, Dhu al-Hijjah, which is also the month of the Hajj.
+
+The Solar Hijri calendar is the modern Iranian calendar. It is an observational calendar that starts on the spring equinox (Northern Hemisphere) and adds a single intercalated day to the last month (Esfand) once every four or five years; the first leap year occurs as the fifth year of the typical 33-year cycle and the remaining leap years occur every four years through the remainder of the 33-year cycle. This system has less periodic deviation or jitter from its mean year than the Gregorian calendar and operates on the simple rule that New Year's Day must fall in the 24 hours of the vernal equinox. The 33-year period is not completely regular; every so often the 33-year cycle will be broken by a cycle of 29 years.
+The Hijri-Shamsi calendar, also adopted by the Ahmadiyya Community, is based on solar calculations and is similar to the Gregorian calendar in its structure with the exception that its epoch is the Hijra.
+
+Coptic and Ethiopian calendars
+The Coptic calendar has 13 months, 12 of 30 days each, and one at the end of the year of 5 days, or 6 days in leap years. The Coptic Leap Year follows the same rules as the Julian Calendar so that the extra month always has 6 days in the year before a Julian Leap Year. The Ethiopian calendar has 12 months of 30 days plus 5 or 6 epagomenal days, which comprise a 13th month.
+
+See also
+Century leap year
+Calendar reform includes proposals that have not (yet) been adopted.
+Leap second
+Leap week calendar
+Leap year bug
+Sansculottides
+Zeller's congruence
+30 February
+Leap year starting on Monday
+Leap year starting on Tuesday
+Leap year starting on Wednesday
+Leap year starting on Thursday
+Leap year starting on Friday
+Leap year starting on Saturday
+Leap year starting on Sunday
+Orbital period
+
+Notes
+Sources
+References
+External links
+Gray, Meghan. "29 Leap Year". Numberphile. Brady Haran. Archived from the original on 22 May 2017. Retrieved 6 April 2013.
+Famous Leapers
+Leap Day Campaign: Galileo Day
+History Behind Leap Year National Geographic Society

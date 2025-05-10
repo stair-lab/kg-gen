@@ -1,0 +1,80 @@
+A fret is any of the thin strips of material, usually metal wire, inserted laterally at specific positions along the neck or fretboard of a stringed instrument. Frets usually extend across the full width of the neck. On some historical instruments and non-European instruments, frets are made of pieces of string tied around the neck.
+Frets divide the neck into fixed segments at intervals related to a musical framework. On instruments such as guitars, each fret represents one semitone in the standard western system, in which one octave is divided into twelve semitones. 
+Fret is often used as a verb, meaning simply "to press down the string behind a fret". Fretting often refers to the frets and/or their system of placement.
+
+Explanation
+Pressing the string against the fret reduces the vibrating length of the string to that between the bridge and the next fret between the fretting finger and the bridge. This is damped if the string were stopped with the soft fingertip on a fretless fingerboard.
+Frets make it much easier for a player to achieve an acceptable standard of intonation since the frets determine the positions for the correct notes. Furthermore, a fretted fingerboard makes it easier to play chords accurately.
+A disadvantage of frets is that they restrict pitches to the temperament defined by the fret positions. A player may still influence intonation, however, by pulling the string to the side to increase string tension and raise the pitch. This technique (commonly called "bending") is often used by electric guitarists of all genres, and is an important part of sitar playing. On instruments with frets that are thicker off the fingerboard, string tension and pitch vary with finger pressure behind the fret. Sometimes a player can pull the string toward the bridge or nut, thus lowering or raising the string tension and pitch. However, except for instruments that accommodate extensive string pulling, like the sitar, much less influence on intonation is possible than on unfretted instruments.
+
+Equal temperament
+Since the intonation of most modern western fretted instruments is equal tempered, the ratio of the distances of two consecutive frets to the bridge is 
+  
+    
+      
+        
+          
+            2
+            
+              12
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt[{12}]{2}}}
+  
+ (the twelfth root of two), or approximately 1.059463. Theoretically, the twelfth fret should divide the string in two exact halves. To compensate for the increase in string tension when the string is pressed against the frets, the bridge position is adjusted slightly so the 12th fret plays exactly in tune.
+
+Many instruments' frets are not spaced according to the semitones of equal temperament.
+
+Examples
+Some examples are:
+
+Appalachian dulcimer with frets in a diatonic scale;
+the Turkish Saz with frets spaced according to the Makam system of Turkish folk music;
+the Arabic buzuq with frets spaced according to the Arabic maqam system;
+the Persian setar and tar with frets spaced according to the Persian Dastgah system;
+the Turkish tanbur with as many as 5 frets per semitone, to cover all of the commas of the Turkish Makam system.
+
+Variations
+Fan frets (also fanned frets, slanted frets), or multi-scale: while frets are generally perpendicular to the instrument's neck centerline and parallel to each other, on a "fanned" fretboard, the frets are angled (spread like a fan) with only one center fret perpendicular to the neck's centerline. This gives the lower-pitched strings more length and the higher strings shorter length (comparable to a piano or a harp where heavier strings have different lengths). The idea is to give more accurate tuning and deeper bass. Some think that fanned frets might be more ergonomic. Fanned frets first appeared on the 16th-century Orpharion, a variant of the cittern, tuned like a lute. John Starrett revived the idea in the late seventies on his innovative instrument, the Starrboard. Rickenbacker employed a slanted fret, but it was not multi scale, or fanned. Novax Guitars among others offers such guitars today. The appearance of angled frets on these modern instruments belies the antiquity of this technique.
+Scalloped fretboard: Scalloping involves removing some of the wood between some or all of the fret. This is intended to allow a lighter touch for more precise fingering, while easing bends or vibratos (since there's no contact between the fingertips and the wooden surface of the fingerboard). It has some popularity with musicians playing heavy metal music, although the concept can also be seen in ancient instruments such as the sitar. Scalloped fretboards have not found widespread popularity because tonally accurate play requires a much lighter fretting hand than most guitarists can achieve, and often significantly heavier strings as well.
+Fat frets: on older guitars (especially the Fender Stratocaster), frets were typically made out of thin wire, and some electric guitar players replaced that with thicker wire, for "fat frets" or "jumbo frets". Fat frets make bending easier, and they change the feel of the guitar. As well, large frets, offering more metal, remain playable much longer than thin frets. A side effect of a thicker fret is a less precise note, since the string is held over a wider surface, causing a slight inaccuracy of pitch, which increases in significance as frets wear.
+
+Semi-fretted instruments
+It is also possible to find semi-fretted instruments; examples include the Malagasy kabosy and the Afghan Rubab. Semi-fretted versions of guitars and other fretted string instruments, however, are usually one-off, custom adaptations made for players who want to combine elements of both types of sound. One arrangement is for the frets to extend only part of the way along the neck so that the higher notes can be played with the smooth expression possible with a fretless fingerboard. Another approach is the use of frets that extend only partway across the fretboard so that some courses of strings are fretted and others fretless, for example Ryszard Latecki's Latar.
+
+Fret intonation
+Instruments with straight frets like guitars require a special compensation on the saddle and nut. Every time a string is fretted it is also stretched, and as it stretches the string rises in pitch, making all fretted tones sound sharp. When the saddle is positioned properly, however, the fretted tones all sound sharp to the same degree as long as the distances between the frets are correct. With the right nut compensation, the pitch of the unfretted string can be raised by the same amount. As a result, when the tension of the strings is lowered, the pitches of all notes, both fretted and unfretted, become correct.
+
+Fret wear
+On instruments equipped with steel strings, such as folk guitars and electric guitars, frets are eventually bound to wear down as the strings cut grooves into them.  When this happens, the instrument may need refretting (the frets are removed and replaced) or, in less severe cases, "fret dressing" (the frets are leveled, polished, and possibly recrowned).
+Often, a few fret dressings can be performed on a guitar before it requires complete refretting.
+Tied gut frets, used on instruments such as the lute or viol, wear quickly, and must be replaced regularly.
+
+Fret buzz
+Fret buzz is one of the many undesirable phenomena that can occur on a guitar or similar stringed instrument. Fret buzz occurs when the vibrating part of one or more strings physically strikes the frets that are higher than the fretted note (or open note). This causes a "buzzing" sound on the guitar that can range from a small annoyance, to severe enough to dampen the note and greatly reduce sustain. Sometimes, fret buzz can be so minimal that there is only a small change in the tone (timbre) of the note, without any noticeable buzzing. Fret buzz can be caused by different things:
+
+Low action
+Improperly installed fretbars
+Strings too loose
+Improper relief of guitar neck
+Fret buzz is evident in some famous recordings; an example is "Friends" by Led Zeppelin (although this example is undoubtedly caused by alternate open tunings that reduce string tension). In some songs, such as "My Last Serenade" by Killswitch Engage, the guitars are tuned to Dropped C and the low tension of the strings is used to create fret buzz by the bass player in order to create a dirty sound.
+
+History
+It is not known when frets were first used. An early example from about the 3rd century C.E. was discovered in 1907 in the Niya ruins in Xinjiang, China, a broken lute's neck with two gut frets intact. The neck and pegbox of the lute are similar to the lute painted on the wall in the Dingjiazha Tomb No. 5 (384–441 A.D.), which also has frets. Buddhist artworks from the 6th-10th centuries C.E. in the Mogao Caves (558-907 C.E.) and Yulin Caves (618-907 C.E.) appear to have frets. Some long lutes in the Utrecht Psalter  (c. 850 C.E.) in France also appear fretted, as do citoles from Spain in the Cantigas de Santa Maria (c. 1280).
+
+See also
+Open chord
+
+References
+External links
+
+Konrad Schwingenstein: Intonation of stringed instruments with straight frets, http://www.pepithesecond.com
+Calculating Fret Positions – An article on calculating fret positions for any equal tempered instrument on Liutaio Mottola Lutherie
+How to replace frets Archived 2007-09-30 at the Wayback Machine – Photo story
+Installing the Frets in a Fretted Stringed Musical Instrument Archived 2021-01-26 at the Wayback Machine – An article on fret installation for a new instrument on Liutaio Mottola Lutherie
+Dressing the Frets in a Fretted Stringed Musical Instrument Archived 2021-01-26 at the Wayback Machine – An article on fret dressing on Liutaio Mottola Lutherie
+Fix Guitar String Buzz – Article about guitar string buzz problems and fixes on Guitar Repair Bench
+Re-fret Bound and Unbound Fretboards – Article about removing, installing, leveling, crowning, and dressing guitar frets on Guitar Repair Bench

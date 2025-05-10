@@ -1,0 +1,140 @@
+In baseball statistics, slugging percentage (SLG) is a measure of the batting productivity of a hitter. It is calculated as total bases divided by at-bats, through the following formula, where AB is the number of at-bats for a given player, and 1B, 2B, 3B, and HR are the number of singles, doubles, triples, and home runs, respectively:
+
+  
+    
+      
+        
+          S
+          L
+          G
+        
+        =
+        
+          
+            
+              (
+              
+                
+                  1
+                  B
+                
+              
+              )
+              +
+              (
+              2
+              ×
+              
+                
+                  2
+                  B
+                
+              
+              )
+              +
+              (
+              3
+              ×
+              
+                
+                  3
+                  B
+                
+              
+              )
+              +
+              (
+              4
+              ×
+              
+                
+                  H
+                  R
+                
+              
+              )
+            
+            
+              A
+              B
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {SLG} ={\frac {({\mathit {1B}})+(2\times {\mathit {2B}})+(3\times {\mathit {3B}})+(4\times {\mathit {HR}})}{AB}}}
+  
+
+Unlike batting average, slugging percentage gives more weight to extra-base hits such as doubles and home runs, relative to singles. Such batters are usually referred to as sluggers. Plate appearances resulting in walks, hit-by-pitches, catcher's interference, and sacrifice bunts or flies are specifically excluded from this calculation, as such an appearance is not counted as an at-bat (these are not factored into batting average either).
+The name is a misnomer, as the statistic is not a percentage but an average of how many bases a player achieves per at bat. It is a scale of measure whose computed value is a number from 0 to 4. This might not be readily apparent: a Major League Baseball player's slugging percentage is almost always less than 1 because a majority of at bats result in either 0 or 1 base. The stat awards a double twice the value of a single, a triple three times the value, and a home run four times. The slugging percentage would have to be divided by 4 to actually be a percentage (of bases achieved per at bat out of total bases possible). As a result, it is occasionally called slugging average, or simply slugging, instead.
+A slugging percentage is usually expressed as a decimal to three decimal places and is generally spoken as if multiplied by 1000. For example, a slugging percentage of .589 would be spoken as "five eighty-nine." The slugging percentage can also be applied as an evaluative tool for pitchers. This is not as common but is referred to as "slugging-percentage against".
+
+In Major League Baseball
+As an example: with the New York Yankees in 1920, Babe Ruth had 458 at bats during which he recorded 172 hits: 73 singles, 36 doubles, 9 triples, and 54 home runs. This was (73 × 1) + (36 × 2) + (9 × 3) + (54 × 4) = 388 total bases. His total number of bases (388) divided by his total at-bats (458) is .847, which constitutes his slugging percentage for the season.
+Ruth's 1920 figure set a record in Major League Baseball (MLB), which stood until 2001 when Barry Bonds achieved 411 bases in 476 at-bats for a slugging percentage of .863. Josh Gibson, who played in Negro league baseball, had a slugging percentage of .974 in 1937.
+Until the 2024 incorporation of Negro league statistics into major league records, the MLB career leader in slugging percentage was Ruth (.6897), followed by Ted Williams (.6338) and Lou Gehrig (.6324). Ruth was displaced by Josh Gibson, who has a career slugging percentage of .718.
+
+The maximum possible slugging percentage is 4.000.  A number of MLB players have had a 4.000 career slugging percentage for a short amount of time by hitting a home run in their first major league at bat. However, no player in MLB history has ever retired with a 4.000 slugging percentage. Four players have tripled in their only MLB plate appearance and therefore share the record—without consideration of a minimum number of games played or plate appearances—of a career slugging percentage of 3.000. They are Eric Cammack (2000 Mets); Scott Munninghoff (1980 Phillies); Eduardo Rodríguez (1973 Brewers); and Chuck Lindstrom (1958 White Sox).
+For the 2023 season, the average slugging percentage for all players in MLB was .414. The highest single-season league average was .437 in 2000, and the lowest was .305 in 1908.
+
+Significance
+Long after it was invented, slugging percentage gained new significance when baseball analysts realized that it combined with on-base percentage (OBP) to form a very good measure of a player's overall offensive production (OBP + SLG was originally referred to as "production" by baseball writer and statistician Bill James). A predecessor metric was developed by Branch Rickey in 1954. Rickey, in Life magazine, suggested that combining OBP with what he called "extra base power" (EBP) would give a better indicator of player performance than typical Triple Crown stats. EBP was a predecessor to slugging percentage.
+Allen Barra and George Ignatin were early adopters in combining the two modern-day statistics, multiplying them together to form what is now known as "SLOB" (Slugging × On-Base). Bill James applied this principle to his runs created formula several years later (and perhaps independently), essentially multiplying SLOB × at bats to create the formula:
+
+  
+    
+      
+        
+          RC
+        
+        =
+        
+          
+            
+              (
+              
+                hits
+              
+              +
+              
+                walks
+              
+              )
+              ×
+              (
+              
+                total bases
+              
+              )
+            
+            
+              (
+              
+                at bats
+              
+              )
+              +
+              (
+              
+                walks
+              
+              )
+            
+          
+        
+      
+    
+    {\displaystyle {\text{RC}}={\frac {({\text{hits}}+{\text{walks}})\times ({\text{total bases}})}{({\text{at bats}})+({\text{walks}})}}}
+  
+
+In 1984, Pete Palmer and John Thorn developed perhaps the most widespread means of combining slugging and on-base percentage: on-base plus slugging (OPS), which is a simple addition of the two values. Because it is easy to calculate, OPS has been used with increased frequency in recent years as a shorthand form to evaluate contributions as a batter.
+In a 2015 article, Bryan Grosnick made the point that "on base" and "slugging" may not be comparable enough to be simply added together. "On base" has a theoretical maximum of 1.000 whereas "slugging" has a theoretical maximum of 4.000. The actual numbers do not show as big a difference, with Grosnick listing .350 as a good "on base" and .430 as a good "slugging."  He goes on to say that OPS has the advantages of simplicity and availability and further states, "you'll probably get it 75% right, at least."
+
+See also
+Moneyball
+Sabermetrics
+
+Notes
+References
+External links
+Slugging Percentage Calculator

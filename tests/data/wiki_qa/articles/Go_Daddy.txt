@@ -1,0 +1,107 @@
+GoDaddy Inc. is an American publicly traded Internet domain registry, domain registrar and web hosting company headquartered in Tempe, Arizona, and incorporated in Delaware. As of 2023, GoDaddy is the world's fifth largest web host by market share, with over 62 million registered domains. The company has around 21 million customers: 5  and over 6,900 employees worldwide.: 13
+
+History
+GoDaddy was founded in 1997 in Phoenix, Arizona, by entrepreneur Bob Parsons. Prior to founding GoDaddy, Parsons had sold his financial software services company Parsons Technology to Intuit for $65 million in 1994. He came out of his retirement in 1997 to launch Jomax Technologies, taking its name from a road in Phoenix Arizona.
+In 1999, a group of employees at Jomax Technologies were brainstorming a new company name, with "Big Daddy" being a popular suggestion. However, finding this domain name already taken, "Go Daddy" was purchased instead. Parsons believed this to be a simple and memorable name. Jomax Technologies rebranded to GoDaddy in February 2006.
+By 2001,  GoDaddy was approximately the same size as competitors Dotster and eNom. In April 2005, GoDaddy became the largest ICANN-accredited registrar on the Internet. GoDaddy received a strategic investment, in 2011, from private equity funds, KKR, Silver Lake, and Technology Crossover Ventures.
+In 2017, GoDaddy acquired the security platform Sucuri. In April 2017, GoDaddy acquired the Host Europe Group, including firms 123 Reg (at that point the UK's largest domain name registrar, with more than 3 million names registered and 1.3 million websites hosted), Domain Factory, and Heart Internet, for 1.69 billion euros ($1.82 billion). In March 2018, Amazon Web Services (AWS) announced that GoDaddy was migrating the vast majority of its infrastructure to AWS as part of a multi-year transition.
+In January 2020, GoDaddy unveiled a new logo with a simple, sans-serif type accompanied by a heart-shaped design that spells out "GO". In April 2021, the headquarters relocated from Scottsdale, Arizona to Tempe, Arizona.
+
+Acquisitions and mergers
+Infrastructure
+In 2013, GoDaddy was reported as the largest ICANN-accredited registrar in the world, at the size of four times their closest competitor. They also have a 270,000-square-foot (25,000 m2) facility in Phoenix, Arizona.
+The website PeeringDB records that GoDaddy maintains two autonomous systems. They allow services to be accessed across the global internet. AS-26496, the main autonomous system, is reachable from six cities at nine public & private peering facilities.
+
+GoDaddy Registry
+In 2020, GoDaddy completed the acquisition of the domain registry services of Neustar and renamed the service "GoDaddy Registry".Initially, GoDaddy Registry operated the country code top-level domains .co and .us, and generic top-level domains such as .biz and .club.
+As of January 2025, operating under the legal name "Registry Services, LLC", GoDaddy Registry operates the following top-level domains according to the IANA root database: .abogado, .beer, .biz, .blackfriday, .boston, .casa, .club, .compare, .cooking, .courses, .dds, .design, .fashion, .fishing, .fit, .garden, .gay, .health, .horse, .ink, .law, .luxe, .miami, .photo, .rodeo, .select, .study, .surf, .tattoo, .us, .vip, .vodka, .wedding, .wiki, .work, .yoga
+
+Marketing
+GoDaddy is known for its advertising on TV and in newspapers, particularly in the US market.
+Celebrity endorsers have included pro-golfer Anna Rawson, Marina Orlova, personal trainer Jillian Michaels, and Jean-Claude Van Damme.
+
+Sports sponsorships
+GoDaddy started advertising in the Super Bowl in 2005. Since then, the company has expanded its marketing to include sports sponsorships.
+Also, GoDaddy was co-sponsor for ICC Cricket World Cup 2019 that was hosted in England and Wales.
+
+Super Bowl advertisements
+GoDaddy's 2007 Super Bowl XLI advertisement was criticized in the New York Times as being "cheesy"; in National Review as "raunchy, 'Girls-Gone-Wild' style"; and "just sad" by Barbara Lippert in Adweek, who gave the advertisement a "D" grade.
+The 2008 Super Bowl XLII GoDaddy advertisement received a negative response from the press. Adweek's Barbara Lippert described it as a "poorly produced scene in a living room where people are gathered to watch the Super Bowl. As we watch them watch, a guy at his computer in the corner of the room drags the crowd over to GoDaddy.com to view the banned ad instead." Lippert also said, "it will probably produce a Pavlovian response in getting actual viewers in their own living rooms to do the same."
+In 2009, GoDaddy purchased spots for two different commercials featuring GoDaddy Girl and IndyCar Series driver Danica Patrick for Super Bowl XLIII. In "Shower", Danica takes a shower with Simona Fusco Stratten as three college students control the women's maneuvers from a computer. "Baseball" is a spoof of the steroids scandal. While "Shower" won GoDaddy's online vote, "Baseball" was the most popular of the Super Bowl. Both helped increase domain registrations by 110 percent above 2008 post-Super Bowl levels. GoDaddy posted Internet-only versions of its commercials during the game, which were extended versions containing more risque content. "Baseball" was the most watched Super Bowl commercial according to TiVo, Inc. According to Comscore, GoDaddy ranked first in advertiser Web site follow-through. Rob Goulding, head of business-to-business markets for Google, offered an in-depth analysis of Super Bowl spots that aired during Sunday's championship game. He said the most successful were multichannel-oriented, driving viewers to Web sites and "focusing on conversion as never before". GoDaddy experienced significant Web traffic and a strong "hangover" effect of viewer interest in the days that followed due to a provocative "teaser" advertisement pointing to the Web, Goulding said.
+GoDaddy also advertised during the 2010 Super Bowl XLIV, purchasing two spots. The commercials "Spa" and "News" starred GoDaddy Girl and racecar driver Danica Patrick. In "Spa", Patrick is getting a lavish massage when the masseuse breaks into a spontaneous GoDaddy Girl audition. In "News", anchors conduct a 'gotcha' interview with GoDaddy Girl Danica Patrick about commercials known for being too hot for television. According to Akamai, there was a large spike in Internet traffic late in the fourth quarter of the game. This spike was tied to GoDaddy's "News" advertisement airing. CEO Bob Parsons said GoDaddy received "a tremendous surge in Web traffic, sustained the spike, converted new customers and shot overall sales off the chart".
+In 2013, GoDaddy moved away from salacious advertising practices in an attempt to improve its brand image. In 2016, GoDaddy did not advertise during the Super Bowl for the first time in over a decade, but returned in 2017 with their "The Internet Wants You" campaign.
+In 2025, GoDaddy returned to Super Bowl advertising for the first time in eight years with a commercial promoting their AI service Airo starring actor Walton Goggins.
+
+IndyCar
+In 2009 and 2010, GoDaddy advertised during the Indianapolis 500.
+For the Las Vegas race in 2011, GoDaddy created a promotion wherein driver Dan Wheldon would have won $2.5m each for himself and fan Ann Babenco if he won the race, starting from last place. A 15-car pileup, 11 laps into the race, injured four drivers and killed Wheldon.
+
+NASCAR
+GoDaddy sponsored Brad Keselowski in the #25 for Hendrick Motorsports on a limited basis in the Sprint Cup series (owing to the "part-time rookie exemption" to a four-car limit). After a successful 2008 season, GoDaddy is expanding its 2009 NASCAR sponsorship with the JR Motorsports organization, sponsoring 20 Nationwide Series races as the primary sponsors, split between the #5 and #88 teams. The #88 deal gave Keselowski a full 35-race NASCAR Nationwide Series sponsorship for 2009 split with Delphi and Unilever.  GoDaddy will also be the primary sponsor for seven races in the Sprint Cup Series with Keselowski driving. GoDaddy.com signed a one-year deal with Darlington Raceway to sponsor the 53rd Annual Rebel 500, the fifth-oldest race on the Sprint Cup circuit.  Keselowski got his third Nationwide victory at Dover – his first in the #88 GoDaddy.com Chevrolet.  In the same season, Keselowski scored a second Nationwide victory in the #88 GoDaddy.com Chevrolet at the first ever NASCAR race at Iowa Speedway and then at Michigan.
+For 2010, the Hendrick/GoDaddy association continued; Danica Patrick drove a 12-race schedule in the #7 GoDaddy.com Chevrolet for JR Motorsports, while GoDaddy.com was also the primary sponsor for Mark Martin in the #5 Chevrolet Impala for most of the 2010 and 2011 seasons.
+In 2012, Danica Patrick moved from the IndyCar Racing Series to race full-time in the NASCAR Nationwide Series in the #7 and part-time in the NASCAR Sprint Cup Series in the #10 for Stewart Haas Racing where GoDaddy.com was the primary sponsor for the full season on both cars. After finishing 10th in the Nationwide Series standings with one pole award in 2012, Patrick moved to full-time in the Sprint Cup Series in 2013 where GoDaddy sponsored her full-season schedule. Patrick rewarded GoDaddy for their sponsorship by winning the pole for the 2013 Daytona 500, becoming the first woman to do so.
+GoDaddy chose not to continue its sponsorship of NASCAR in 2016, intending to shift sponsorship to avenues with greater international reach. However, GoDaddy is trying to retain Patrick on a personal service contract.
+
+GoDaddy Bowl
+For the 2010 through 2015 college football seasons, GoDaddy was the sponsor of the GoDaddy Bowl, a postseason bowl game played in Mobile, Alabama, which was previously branded as the GMAC Bowl before GMAC took TARP funding in 2009. The game matched teams from the Sun Belt Conference and the Mid-American Conference. The bowl was renamed the Dollar General Bowl after the variety store chain Dollar General took over sponsorship in 2016.
+
+Philanthropy
+In 2009, GoDaddy donated $50,000 to the Lincoln Family Downtown YMCA in Arizona, despite the organization requesting only $1,000. In December 2009, at GoDaddy's annual Holiday Party, Executive Chairman and Founder Bob Parsons and Danica Patrick announced that GoDaddy would be donating $500,000 to the Phoenix-based UMOM New Day Center to fund the Danica Patrick GoDaddy.com Domestic Violence Center.
+An order was placed with Orange County Choppers for a custom motorcycle to raise contributions for charity. This was documented by the reality show American Chopper.
+
+IPO and private equity
+On April 12, 2006, Marketwatch reported that GoDaddy.com, Inc., had hired Lehman Brothers to manage an initial stock offering that could raise more than $100 million and value the company at several times that amount. On May 12, 2006, GoDaddy filed an S-1 registration statement prior to an initial public offering. On August 8, 2006, Bob Parsons, announced that he had withdrawn the company's IPO filing due to "market uncertainties".
+In September 2010, GoDaddy put itself up for auction. GoDaddy called off the auction several weeks later, despite reports that bids exceeded the asking price of $1.5 billion to $2 billion. On June 24, 2011, the Wall Street Journal reported that private-equity firms KKR and Silver Lake Partners, along with a third investor, were nearing a deal to buy the company for between $2–2.5 billion. On July 1, 2011, GoDaddy confirmed that KKR, Silver Lake Partners, and Technology Crossover Ventures had closed the deal. Although the purchase price was not officially announced it was reported to be $2.25 billion, for 65% of the company.
+As of December 2011, Bob Parsons stepped down as CEO into the role of Executive Chairman.
+In March 2012, a class action lawsuit was filed against GoDaddy regarding private registration charges for services it advertises as free.
+In June 2014, GoDaddy once again filed a $100 million IPO with the Security and Exchange Commission. The filing gave an inside look into GoDaddy's finances and showed that the company has not made a profit since 2009 and since 2012 has experienced a total loss of $531 million. Along with the IPO announcement, GoDaddy's founder Bob Parsons announced he is stepping down as Executive Chairman though he will remain on the board. CEO Blake Irving, joined GoDaddy on January 6, 2013 and served as chief executive officer before retiring on December 31, 2017.
+On April 1, 2015, GoDaddy had a successful IPO on the New York Stock Exchange, with the stock soaring 30% on the first day of trading.
+Scott W. Wagner (and former GoDaddy Chief Operating Officer and Chief Financial Officer) was appointed chief executive officer on December 31, 2017. The newly appointed CEO Aman Bhutani has replaced the former CEO Scott W. Wagner and had assumed the charge of his duties from September 4, 2019.
+
+Controversies
+Suspension of Seclists.org and purchase of No Daddy
+GoDaddy has been involved in several controversies related to unethical business practices and censorship.
+On January 24, 2007, GoDaddy deactivated the domain of computer security site Seclists.org, taking 250,000 pages of security content offline. The shutdown resulted from a complaint from MySpace to GoDaddy regarding 56,000 user names and passwords posted a week earlier to the full-disclosure mailing list and archived on the Seclists.org site as well as many other websites. Seclists.org administrator Gordon Lyon, who goes by the handle "Fyodor," provided logs to CNET showing GoDaddy de-activated the domain 52 seconds after leaving him a voicemail, and he had to go to great lengths to get the site reactivated. GoDaddy general counsel Christine Jones stated that GoDaddy's terms of service "reserves the right to terminate your access to the services at any time, without notice, for any reason whatsoever." The site seclists.org is now hosted with Linode. The suspension of seclists.org led Lyon to create NoDaddy.com, a consumer activist website where dissatisfied GoDaddy customers and whistleblowers from GoDaddy's staff share their experiences. On July 12, 2011, an article in The Register reported that, shortly after Bob Parsons' sale of GoDaddy, the company purchased gripe site No Daddy. The site had returned a top 5 result on Google for a search for GoDaddy.
+
+China domains
+On March 24, 2010, GoDaddy stopped registering .cn domains (China) due to the high amount of personal information that is required to register in that country. Some called it a public relations campaign since it closely followed Google's revolt in China. GoDaddy's top lawyer Christine Jones told Congress, "We were having to contact Chinese users to ask for their personal information and begrudgingly give it to Chinese authorities. We decided we didn't want to become an agent of the Chinese government."
+GoDaddy resumed registering .cn domain names in February 2016 as part of its push into the Asia market.
+
+Super Bowl XLIX Puppy Ad
+On January 27, 2015, GoDaddy released its Super Bowl ad on YouTube. Called "Journey Home", the commercial featured a Retriever puppy named Buddy who was bounced out of the back of a truck. After making a journey home his owners are relieved because they just sold him on a website they built with GoDaddy. GoDaddy claims the ad was supposed to be funny and an attempt to make fun of all the puppies shown in Super Bowl ads. Most notably, Budweiser's famous Super Bowl ad also featured a Retriever puppy. The ad found very few fans from the online community. Animal advocates took to social media calling the ad disgusting, callous, and accusing the commercial of advocating for puppy mills. An online petition collected 42,000 signatures.
+GoDaddy's CEO, Blake Irving, wrote a blog entry later that day promising that the commercial would not air during the Super Bowl. He wrote on his blog "At the end of the day, our purpose at GoDaddy is to help small businesses around the world build a successful online presence. We hoped our ad would increase awareness of that cause. However, we underestimated the emotional response. And we heard that loud and clear." He goes on to say that Buddy was purchased from a reputable breeder and is part of the GoDaddy family as Chief Companion Officer.
+
+Namecheap rivalry
+On December 11, 2011, rival domain name registrar Namecheap claimed that GoDaddy was in violation of ICANN rules by providing incomplete information in order to hinder the protest moves of domain names from GoDaddy to Namecheap, an accusation which GoDaddy denied, claiming that it was following its standard business practice to prevent WHOIS abuse. GoDaddy still maintains the strict policy of 60 days lock in inter-registrar domain transfers, if there is a change in registrant information. Many other registrars are giving an option for their customers to opt-out from this 60-day lock as per the ICANN Policy which states: "The Registrar must impose a 60-day inter-registrar transfer lock following a Change of Registrant, provided, however, that the Registrar may allow the Registered Name Holder to opt out of the 60-day inter-registrar transfer lock prior to any Change of Registrant request".
+At this time GoDaddy does allow customers who update their domain contact information to opt out of the 60-day lock upon verification.
+
+Backing of SOPA and resultant boycott
+On December 22, 2011, a thread was started on the social news website Reddit, discussing the identity of supporters of the United States Stop Online Piracy Act (SOPA), which included GoDaddy. GoDaddy subsequently released additional statements supporting SOPA. A boycott and transfer of domains were proposed. This quickly spread across the Internet, gained support, and was followed by a proposed Boycott GoDaddy Day on December 29, 2011. One strong supporter of this action was Cheezburger CEO Ben Huh, who threatened that the organization would remove over 1,000 domains from GoDaddy if they continued their support of SOPA. Wikipedia founder Jimmy Wales also announced that all Wikipedia domains would be moved away from GoDaddy as their position on SOPA was "unacceptable". After a brief campaign on Reddit, imgur owner Alan Schaaf transferred his domain from GoDaddy.
+GoDaddy pulled its support for SOPA on December 23, releasing a statement saying "GoDaddy will support it when and if the Internet community supports it." Later that day, CEO Warren Adelman could not commit to changing GoDaddy's position on the record in Congress when asked, but said "I'll take that back to our legislative guys, but I agree that's an important step." When pressed, he said "We're going to step back and let others take leadership roles." He felt that the public statement removing their support would be sufficient for now, though further steps would be considered. Further outrage was due to the fact that many Internet sites and domain registrars would be subject to shutdowns under SOPA, but GoDaddy is in a narrow class of exempted businesses that would have immunity, whereas many other domain operators would not.
+By December 24, 2011, GoDaddy had lost 37,000 domains as a result of the boycott. GoDaddy gained a net 20,748 domains.
+
+COVID-19 fake employee bonus
+In December 2020, during the COVID-19 pandemic and the associated economic crisis, the company tricked employees into thinking they had earned a bonus of $650, instead, they were told they had failed a phishing test and were required to do social engineering training. After significant media criticism, the company apologized to its staff but did not offer actual bonuses.
+
+Deplatforming clients in protest
+On January 11, 2021, the company deplatformed the web forum AR15.com following the U.S. Capitol attack. GoDaddy told Axios that the action was due to the site's failure to moderate content "that both promoted and encouraged violence." The National Shooting Sports Foundation, in a message from its president, condemned what it called the "de-platforming of gun sites" as a "dark harbinger" for discussion of controversial issues and an "indiscriminate silencing of opinion and debate."
+
+Texas Heartbeat Act
+In September 2021, the company canceled a contract with the pro-life group Texas Right to Life which was running a website encouraging whistleblowing of those who were breaking the Texas Heartbeat Act. Owned by the Texas Right to Life group, the website was used as a platform for the public to submit tips on suspected pregnancy terminations in Texas. In a statement to Ars Technica, Texas Right to Life Director of Media and Communication Kimberlyn Schwartz noted that, "We will not be silenced. If anti-Lifers want to take our website down, we'll put it back up."
+
+Data breaching
+On February 16, 2023, the company filed its compulsory annual 10-K report with the US SEC. Under the sub-heading "Operational Risks," it revealed that the company suffered multiple data breaches in the last three years, which impacted more than one million GoDaddy customers.
+
+See also
+Domains by Proxy
+Move Your Domain Day
+Website
+Domain
+Hosting
+Google
+
+References
+External links
+
+Official website
+Business data for GoDaddy Inc.:

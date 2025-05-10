@@ -1,0 +1,15 @@
+Risk of infection is a nursing diagnosis which is defined as the state in which an individual is at risk to be infected by an opportunistic or pathogenic agent (e.g., viruses, fungi, bacteria, protozoa, or other parasites) from endogenous or exogenous sources. The diagnosis was approved by NANDA in 1986. Although anyone can become infected by a pathogen, patients with this diagnosis are at an elevated risk and extra infection controls should be considered.
+
+Endogenous sources
+The risk of infection depends on a number of endogenous sources.
+Skin damage from incision as well as very young or old age can increase a patient's risk of infection. Examples of risk factors includes decreased immune system secondary to disease, compromised circulation secondary to peripheral vascular disease, compromised skin integrity secondary to surgery, or repeated contact with contagious agents.
+
+Assessment
+The patient should be asked about a history of repeated infections, symptoms of infection, recent travel to high-risk areas, and their immunization history. They should also be assessed for objective signs such as the presence of wounds, fever, or signs of nutritional deficiency
+
+Intervention
+The specific nursing interventions will depend on the nature and severity of the risk. Patients should be taught how to recognize the signs of infection and how to reduce their risk. Surgery is a frequent risk factor for infection and a physician may prescribe antibiotics prophylactically. Immunization is another common medical intervention for those who are at high risk for infection.
+Hand washing is the best way to break the chain of infection.
+
+
+== References ==

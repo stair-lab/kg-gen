@@ -1,0 +1,34 @@
+Post and lintel (also called prop and lintel, a trabeated system, or a trilithic system)  is a building system where strong horizontal elements are held up by strong vertical elements with large spaces between them. This is usually used to hold up a roof, creating a largely open space beneath, for whatever use the building is designed.  The horizontal elements are called by a variety of names including lintel, header, architrave or beam, and the supporting vertical elements may be called posts, columns, or pillars.  The use of wider elements at the top of the post, called capitals, to help spread the load, is common to many architectural traditions.
+
+Lintels
+In architecture, a post-and-lintel or trabeated system refers to the use of horizontal stone beams or lintels which are borne by columns or posts.  The name is from the Latin trabs, beam; influenced by trabeatus, clothed in the trabea, a ritual garment.
+Post-and-lintel construction is one of four ancient structural methods of building, the others being the corbel, arch-and-vault, and truss.
+A noteworthy example of a trabeated system is in Volubilis, from the Roman era, where one side of the Decumanus Maximus is lined with trabeated elements, while the opposite side of the roadway is designed in arched style.
+
+History of lintel systems
+The trabeated system is a fundamental principle of Neolithic architecture, ancient Indian architecture, ancient Greek architecture and ancient Egyptian architecture. Other trabeated styles are the Persian, Lycian, Japanese, traditional Chinese, and ancient Chinese architecture, especially in northern China, and nearly all the Indian styles. The traditions are represented in North and Central America by Mayan architecture, and in South America by Inca architecture.  In all or most of these traditions, certainly in Greece and India, the earliest versions developed using wood, which were later translated into stone for larger and grander buildings. Timber framing, also using trusses, remains common for smaller buildings such as houses to the modern day.
+
+Span limitations
+There are two main forces acting upon the post and lintel system: weight carrying compression at the joint between lintel and post, and tension induced by deformation of self-weight and the load above between the posts. The two posts are under compression from the weight of the lintel (or beam) above. The lintel will deform by sagging in the middle because the underside is under tension and the upper is under compression.
+The biggest disadvantage to lintel construction is the limited weight that can be held up, and the resulting small distances required between the posts. Ancient Roman architecture's development of the arch allowed for much larger structures to be constructed. The arcuated system spreads larger loads more effectively, and replaced the post-and-lintel system in most larger buildings and structures, until the introduction of steel girder beams and steel-reinforced concrete in the industrial era. 
+As with the Roman temple portico front and its descendants in later classical architecture, trabeated features were often retained in parts of buildings as an aesthetic choice.  The classical orders of Greek origin were in particular retained in buildings designed to impress, even though they usually had little or no structural role.
+
+Lintel reinforcement
+The flexural strength of a stone lintel can be dramatically increased with the use of Post-tensioned stone.
+
+See also
+Architrave – structural lintel or beam resting on columns-pillars
+Atalburu – Basque decorative lintel
+Dolmen – Neolithic megalithic tombs with structural stone lintels
+Dougong – traditional Chinese structural element
+I-beam – steel lintels and beams
+Marriage stone – decorative lintel
+Opus caementicium
+Structural design
+Timber framing – post and beam systems
+Stonehenge
+
+Notes
+References
+Summerson, John, The Classical Language of Architecture, 1980 edition, Thames and Hudson World of Art series, ISBN 0500201773
+Lyttleton, Margaret (2003). "Trabeated construction". Grove Art Online. Oxford University Press. doi:10.1093/gao/9781884446054.article.t085978.

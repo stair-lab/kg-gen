@@ -1,0 +1,51 @@
+A hung jury, also called a deadlocked jury, is a judicial jury that cannot agree upon a verdict after extended deliberation and is unable to reach the required unanimity or supermajority. A hung jury may result in the case being tried again.
+This situation can occur only in common law legal systems. Civil law systems either do not use juries at all or provide that the defendant is immediately acquitted if the majority or supermajority required for conviction is not reached during a singular, solemn vote.
+
+Australia
+Majority (or supermajority verdicts) are in force in South Australia, Tasmania, Western Australia, the Northern Territory, Victoria, New South Wales, and Queensland. Australian Capital Territory and Commonwealth courts require unanimous verdicts in criminal (but not civil) trials.
+
+Canada
+In Canada, the jury must reach a unanimous decision on criminal cases. If the jury cannot reach a unanimous decision, a hung jury is declared. A new panel of jurors will be selected for the retrial. Each jury in criminal courts contains 12 jurors. In civil cases, only six people are necessary for a jury, and if there is only one dissenter (i.e. a 5–1 vote), the dissenter can be ignored with the majority opinion becoming the final verdict.
+
+New Zealand
+In New Zealand, the jury must try to reach a unanimous verdict. If the jury cannot reach a unanimous verdict after a reasonable time given the nature and complexity of the case (but not less than four hours), then the court may accept a majority verdict. In criminal cases, an all-but-one vote is needed (i.e. 11–1 with a full jury); in civil cases, a three-quarters (75%) vote is needed (i.e. 9–3 with a full jury). 
+If the jury fails to reach either a unanimous or majority verdict after a reasonable time, the presiding judge may declare a hung jury. Ordinarily there will be a new trial. If the retrial also results in a hung jury, the case must be referred to the Solicitor-General, who will generally issue a stay of proceedings unless there are compelling reasons to proceed with a third trial.
+
+United Kingdom
+England and Wales
+Majority verdicts have been allowed in England and Wales since the Criminal Justice Act 1967. Before this all criminal convictions required a unanimous verdict.  At least 10 votes out of 12 is needed for a valid majority verdict. If fewer jurors remain, majorities allowed are 11–0, 10–1, 10–0, 9–1 and 9–0. Failure to reach this may lead to a retrial (R v. Bertrand, 1807). 
+Initially, the jury will be directed to try to reach a unanimous verdict. If they fail to reach a unanimous verdict, the judge may later give directions that a majority verdict will be acceptable, although the jury should continue to try to reach a unanimous verdict if possible.  The judge may not give these directions before at least two hours of deliberation, however in practice it is often given after much longer than two hours.
+When the jury is called to deliver a verdict after majority directions have been given, a careful protocol of questions is followed: only in the event of a guilty verdict is it asked whether all jurors were agreed on that verdict, to prevent any acquittal from being tainted by it being disclosed that any jurors dissented. The protocol is followed separately for each charge. Majority verdicts are treated the same as unanimous ones, for example they are not taken as a mitigating factor during sentencing.
+
+Scotland
+It is not possible to have a hung jury in Scotland in criminal cases. Juries consist of 15, and verdicts are decided by simple majority (eight) of the initial membership. If jurors drop out because of illness or another reason, the trial can continue with a minimum of 12 jurors, but the support of eight jurors is needed for a guilty verdict; anything less is treated as an acquittal.
+In civil cases there is a jury of 12, with a minimum of 10 needed to continue the trial. It is possible to have a hung jury if there is a tied vote after three hours' deliberation.
+
+United States
+Majority verdicts are not allowed in civilian criminal cases in the United States. A hung jury results in a mistrial. The case may be retried (United States v. Perez, 1824). 
+Louisiana, which was historically influenced by the French civil law system, and Oregon used to allow 10–2 majority verdicts. In the 2020 case Ramos v. Louisiana, the U.S. Supreme Court ruled that a jury must vote unanimously to convict in any criminal offense that requires a jury trial.
+Some jurisdictions permit the court to give the jury a so-called Allen charge, inviting the dissenting jurors to re-examine their opinions, as a last-ditch effort to prevent the jury from hanging. The Federal Rules of Criminal Procedure state, "The verdict must be unanimous. ... If there are multiple defendants, the jury may return a verdict at any time during its deliberations as to any defendant about whom it has agreed. ... If the jury cannot agree on all counts as to any defendant, the jury may return a verdict on those counts on which it has agreed. ... If the jury cannot agree on a verdict on one or more counts, the court may declare a mistrial on those counts. A hung jury does not imply either the defendant's guilt or innocence. The government may retry any defendant on any count on which the jury could not agree."
+In jurisdictions giving those involved in the case a choice of jury size (such as between a six-person and twelve-person jury), defense counsel in both civil and criminal cases frequently opt for the larger number of jurors. A common axiom in criminal cases is that "it takes only one to hang," referring to the fact that in some cases, a single juror can defeat the required unanimity.
+One proposal for dealing with the difficulties associated with hung juries has been to introduce supermajority verdicts to allow juries to convict defendants without unanimous agreements amongst the jurors, but this would require amending the U.S. Constitution. For example, a 12-member jury that would otherwise be deadlocked at 11 for conviction and one against might be recorded as a guilty verdict. The rationale for majority verdicts usually includes arguments related to so-called 'rogue jurors', who unreasonably impede the course of justice. Opponents of majority verdicts argue that it undermines public confidence in criminal justice systems and results in a higher number of individuals to be convicted of crimes they did not commit.
+In United States military justice, there are no hung juries. If the threshold for a conviction is not met, the defendant is acquitted. Article 52 of the Uniform Code of Military Justice (10 U.S.C. Chapter 47) specifies the minimum number of court-martial panel members required to return a verdict of guilty. In a capital case, a unanimous vote of all panel members is required to convict on a capital charge. 
+In all other cases, only a three-fourths vote is required to convict. Additionally, the Manual for Courts-Martial requires only a judge and a specified number of panel members in all non-capital cases (eight for a general court-martial or three for a special court-martial; no panel is seated for a summary court-martial). In capital cases, a panel of 12 members is required.
+
+Hung jury in capital sentencing
+Of the 27 U.S. states with the death penalty, 25 require the sentence to be decided by a jury.
+Two states do not use juries in death penalty cases: 
+
+In Nebraska the sentence is decided by a three-judge panel, which must unanimously agree on death, and the defendant is sentenced to life imprisonment if one of the judges is opposed.
+Montana is the only state where the trial judge decides the sentence alone.
+Two states do not require a unanimous jury decision:
+
+In Alabama, at least 10 jurors must concur, and a retrial happens if the jury deadlocks.
+In Florida, at least 8 jurors (two-thirds) must concur, and the prosecution can pursue a retrial if the jury deadlocks.
+In all states in which the jury is involved, only death-qualified prospective jurors can be selected in such a jury, to exclude both people who will always vote for the death sentence and those who are categorically opposed to it. However, the states differ on what happens if the penalty phase results in a hung jury:
+
+In five states (Alabama, Arizona, California, Kentucky and Nevada), a retrial of the penalty phase will be conducted before a different jury (the common-law rule for mistrial).
+In two states (Indiana and Missouri), the judge will decide the sentence.
+In the remaining states, a hung jury results in a life sentence, even if only one juror opposed death. Federal law also provides that outcome.
+The first outcome is referred as the "true unanimity" rule, while the third has been criticized as the "single-juror veto" rule.
+
+
+== References ==

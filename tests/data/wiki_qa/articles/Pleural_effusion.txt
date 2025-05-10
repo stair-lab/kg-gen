@@ -1,0 +1,118 @@
+A pleural effusion is accumulation of excessive fluid in the pleural space, the potential space that surrounds each lung.
+Under normal conditions, pleural fluid is secreted by the parietal pleural capillaries at a rate of 0.6 millilitre per kilogram weight per hour, and is cleared by lymphatic absorption leaving behind only 5–15 millilitres of fluid, which helps to maintain a functional vacuum between the parietal and visceral pleurae.  Excess fluid within the pleural space can impair inspiration by upsetting the functional vacuum and hydrostatically increasing the resistance against lung expansion, resulting in a fully or partially collapsed lung.
+Various kinds of fluid can accumulate in the pleural space, such as serous fluid (hydrothorax), blood (hemothorax), pus (pyothorax, more commonly known as pleural empyema), chyle (chylothorax), or very rarely urine (urinothorax) or feces (coprothorax).  When unspecified, the term "pleural effusion" normally refers to hydrothorax.  A pleural effusion can also be compounded by a pneumothorax (accumulation of air in the pleural space), leading to a hydropneumothorax.
+
+Types
+Various methods can be used to classify pleural fluid.
+By the origin of the fluid:
+
+Serous fluid (hydrothorax)
+Blood (haemothorax)
+Chyle (chylothorax)
+Pus (pyothorax or empyema)
+Urine (urinothorax)
+By pathophysiology:
+
+Transudative pleural effusion
+Exudative pleural effusion
+By the underlying cause (see next section).
+
+Causes
+Transudative
+The most common causes of transudative pleural effusion in the United States are heart failure and cirrhosis. Nephrotic syndrome, leading to the loss of large amounts of albumin in urine and resultant low albumin levels in the blood and reduced colloid osmotic pressure, is another less common cause of pleural effusion. Pulmonary emboli were once thought to cause transudative effusions, but have been recently shown to be exudative.
+The mechanism for the exudative pleural effusion in pulmonary thromboembolism is probably related to increased permeability of the capillaries in the lung, which results from the release of cytokines or inflammatory mediators (e.g. vascular endothelial growth factor) from the platelet-rich blood clots. The excessive interstitial lung fluid traverses the visceral pleura and accumulates in the pleural space.
+Conditions associated with transudative pleural effusions include:
+
+Congestive heart failure
+Liver cirrhosis
+Severe hypoalbuminemia
+Nephrotic syndrome
+Acute atelectasis
+Myxedema
+Peritoneal dialysis
+Meigs's syndrome
+Obstructive uropathy
+End-stage kidney disease
+
+Exudative
+When a pleural effusion has been determined to be exudative, additional evaluation is needed to determine its cause, and amylase, glucose, pH and cell counts should be measured.
+
+Red blood cell counts are elevated in cases of bloody effusions (for example after heart surgery or hemothorax from incomplete evacuation of blood).
+Amylase levels are elevated in cases of esophageal rupture, pancreatic pleural effusion, or cancer.
+Glucose is decreased with cancer, bacterial infections, or rheumatoid pleuritis.
+pH is low in empyema (<7.2) and maybe low in cancer.
+If cancer is suspected, the pleural fluid is sent for cytology. If cytology is negative, and cancer is still suspected, either a thoracoscopy, or needle biopsy of the pleura may be performed.
+Gram staining and culture should also be done.
+If tuberculosis is possible, examination for Mycobacterium tuberculosis (either a Ziehl–Neelsen or Kinyoun stain, and mycobacterial cultures) should be done. A polymerase chain reaction for tuberculous DNA may be done, or adenosine deaminase or interferon gamma levels may also be checked.
+The most common causes of exudative pleural effusions are bacterial pneumonia, cancer (with lung cancer, breast cancer, and lymphoma causing approximately 75% of all malignant pleural effusions), viral infection, and pulmonary embolism.
+Another common cause is after heart surgery when incompletely drained blood can lead to an inflammatory response that causes exudative pleural fluid.
+Conditions associated with exudative pleural effusions:
+
+Parapneumonic effusion due to pneumonia
+Malignancy (either lung cancer or metastases to the pleura from elsewhere)
+Infection (empyema due to bacterial pneumonia)
+Trauma
+Pulmonary infarction
+Pulmonary embolism
+Autoimmune disorders
+Pancreatitis
+Ruptured esophagus (Boerhaave's syndrome)
+Rheumatoid pleurisy
+Drug-induced lupus
+
+Other/ungrouped
+Other causes of pleural effusion include tuberculosis (though stains of pleural fluid are only rarely positive for acid-fast bacilli, this is the most common cause of pleural effusions in some developing countries), autoimmune disease such as systemic lupus erythematosus, bleeding (often due to chest trauma), chylothorax (most commonly caused by trauma), and accidental infusion of fluids. Less common causes include esophageal rupture or pancreatic disease, intra-abdominal abscesses, rheumatoid arthritis, asbestos pleural effusion, mesothelioma, Meigs's syndrome (ascites and pleural effusion due to a benign ovarian tumor), and ovarian hyperstimulation syndrome.
+Pleural effusions may also occur through medical or surgical interventions, including the use of medications (pleural fluid is usually eosinophilic), coronary artery bypass surgery, abdominal surgery, endoscopic variceal sclerotherapy, radiation therapy, liver or lung transplantation, insertion of ventricular shunt as a treatment method of hydrocephalus, and intra- or extravascular insertion of central lines.
+
+Pathophysiology
+Pleural fluid is secreted by the parietal layer of the pleura by way of bulk flow and reabsorbed by the lymphatics in the most dependent parts of the parietal pleura, primarily the diaphragmatic and mediastinal regions. Exudative pleural effusions occur when the pleura is damaged, e.g., by trauma, infection, or malignancy, and transudative pleural effusions develop when there is either excessive production of pleural fluid or the resorption capacity is reduced. Light's criteria can be used to differentiate between exudative and transudative pleural effusions.
+
+Diagnosis
+A pleural effusion is usually diagnosed on the basis of medical history and physical exam, and confirmed by a chest X-ray. Once accumulated fluid is more than 300 mL, there are usually detectable clinical signs, such as decreased movement of the chest on the affected side, dullness to percussion over the fluid, diminished breath sounds on the affected side, decreased vocal resonance and fremitus (though this is an inconsistent and unreliable sign), and pleural friction rub. Above the effusion, where the lung is compressed, there may be bronchial breathing sounds and egophony. A large effusion there may cause tracheal deviation away from the effusion. A systematic review (2009) published as part of the Rational Clinical Examination Series in the Journal of the American Medical Association showed that dullness to conventional percussion was most accurate for diagnosing pleural effusion (summary positive likelihood ratio, 8.7; 95% confidence interval, 2.2–33.8), while the absence of reduced tactile vocal fremitus made pleural effusion less likely (negative likelihood ratio, 0.21; 95% confidence interval, 0.12–0.37).
+
+Imaging
+A pleural effusion appears as an area of whiteness on a standard posteroanterior chest X-ray. Normally, the space between the visceral pleura and the parietal pleura cannot be seen. A pleural effusion infiltrates the space between these layers. Because the pleural effusion has a density similar to water, it can be seen on radiographs. Since the effusion has greater density than the rest of the lung, it gravitates towards the lower portions of the pleural cavity. The pleural effusion behaves according to basic fluid dynamics, conforming to the shape of pleural space, which is determined by the lung and chest wall. If the pleural space contains both air and fluid, then an air-fluid level that is horizontal will be present, instead of conforming to the lung space. Chest radiographs in the lateral decubitus position (with the patient lying on the side of the pleural effusion) are more sensitive and can detect as little as 50 mL of fluid. Between 250 and 600mL of fluid must be present before upright chest X-rays can detect a pleural effusion (e.g., blunted costophrenic angles).
+Chest computed tomography is more accurate for diagnosis and may be obtained to better characterize the presence, size, and characteristics of a pleural effusion.  Lung ultrasound, nearly as accurate as CT and more accurate than chest X-ray, is increasingly being used at the point of care to diagnose pleural effusions, with the advantage that it is a safe, dynamic, and repeatable imaging modality. To increase diagnostic accuracy of detection of pleural effusion sonographically, markers such as boomerang and VIP signs can be utilized.
+
+Thoracentesis
+Once a pleural effusion is diagnosed, its cause must be determined. Pleural fluid is drawn out of the pleural space in a process called thoracentesis, and it should be done in almost all patients who have pleural fluid that is at least 10 mm in thickness on CT, ultrasonography, or lateral decubitus X-ray and that is new or of uncertain etiology. In general, the only patients who do not require thoracentesis are those who have heart failure with symmetric pleural effusions and no chest pain or fever; in these patients, diuresis can be tried, and thoracentesis is avoided unless effusions persist for more than 3 days. In a thoracentesis, a needle is inserted through the back of the chest wall in the sixth, seventh, or eighth intercostal space on the midaxillary line, into the pleural space. The use of ultrasound to guide the procedure is now standard of care as it increases accuracy and decreases complications.  After removal, the fluid may then be evaluated for:
+
+Chemical composition including protein, lactate dehydrogenase (LDH), albumin, amylase, pH, and glucose
+Gram stain and culture to identify possible bacterial infections
+White and red blood cell counts and differential white blood cell counts
+Cytopathology to identify cancer cells, but may also identify some infective organisms
+Other tests as suggested by the clinical situation – lipids, fungal culture, viral culture, tuberculosis cultures, lupus cell prep, specific immunoglobulins
+
+Light's criteria
+Definitions of the terms "transudate" and "exudate" are the source of much confusion. Briefly, transudate is produced through pressure filtration without capillary injury while exudate is "inflammatory fluid" leaking between cells.
+Transudative pleural effusions are defined as effusions that are caused by systemic factors that alter the pleural equilibrium, or Starling forces. The components of the Starling forces – hydrostatic pressure, permeability, and oncotic pressure (effective pressure due to the composition of the pleural fluid and blood) – are altered in many diseases, e.g., left ventricular failure, kidney failure, liver failure, and cirrhosis. Exudative pleural effusions, by contrast, are caused by alterations in local factors that influence the formation and absorption of pleural fluid (e.g., bacterial pneumonia, cancer, pulmonary embolism, and viral infection).
+An accurate diagnosis of the cause of the effusion, transudate versus exudate, relies on a comparison of the chemistries in the pleural fluid to those in the blood, using Light's criteria. According to Light's criteria (Light, et al. 1972), a pleural effusion is likely exudative if at least one of the following exists:
+
+The ratio of pleural fluid protein to serum protein is greater than 0.5
+The ratio of pleural fluid LDH and serum LDH is greater than 0.6
+Pleural fluid LDH is greater than 0.6  or 2⁄3 times the normal upper limit for serum. Different laboratories have different values for the upper limit of serum LDH, but examples include 200 and 300 IU/l.
+The sensitivity and specificity of Light's criteria for detection of exudates have been measured in many studies and are usually reported to be around 98% and 80%, respectively. This means that although Light's criteria are relatively accurate, twenty percent of patients that are identified by Light's criteria as having exudative pleural effusions actually have transudative pleural effusions. Therefore, if a patient identified by Light's criteria as having an exudative pleural effusion appears clinically to have a condition that usually produces transudative effusions, additional testing is needed. In such cases, albumin levels in blood and pleural fluid are measured. If the difference between the albumin level in the blood and the pleural fluid is greater than 1.2 g/dL (12 g/L), this suggests that the patient has a transudative pleural effusion. However, pleural fluid testing is not perfect, and the final decision about whether a fluid is a transudate or an exudate is based not on chemical analysis of the fluid, but an accurate diagnosis of the disease that produces the fluid.
+The traditional definitions of transudate as a pleural effusion due to systemic factors and an exudate as a pleural effusion due to local factors have been used since 1940 or earlier (Light et al., 1972). Previous to Light's landmark study, which was based on work by Chandrasekhar, investigators unsuccessfully attempted to use other criteria, such as specific gravity, pH, and protein content of the fluid, to differentiate between transudates and exudates. Light's criteria are highly statistically sensitive for exudates (although not very statistically specific). More recent studies have examined other characteristics of pleural fluid that may help to determine whether the process producing the effusion is local (exudate) or systemic (transudate). The table above illustrates some of the results of these more recent studies. However, it should be borne in mind that Light's criteria are still the most widely used criteria.
+The Rational Clinical Examination Series review found that bilateral effusions, symmetric and asymmetric, are the most common distribution in heart failure (60% of effusions in heart failure will be bilateral). When there is asymmetry in heart failure-associated pleural effusions (either unilateral or one side larger than the other), the right side is usually more involved than the left.
+The instruments pictured are accurately shaped, however, most hospitals now use safer disposable trocars. Because these are single use, they are always sharp and have a much smaller risk of cross patient contamination.
+
+Treatment
+Treatment depends on the underlying cause of the pleural effusion.
+Therapeutic aspiration may be sufficient; larger effusions may require insertion of an intercostal drain (either pigtail or surgical). When managing these chest tubes, it is important to make sure the chest tubes do not become occluded or clogged. A clogged chest tube in the setting of continued production of fluid will result in residual fluid left behind when the chest tube is removed. This fluid can lead to complications such as hypoxia due to lung collapse from the fluid, or fibrothorax if scarring occurs. Repeated effusions may require chemical (talc, bleomycin, tetracycline/doxycycline), or surgical pleurodesis, in which the two pleural surfaces are scarred to each other so that no fluid can accumulate between them. This is a surgical procedure that involves inserting a chest tube, then either mechanically abrading the pleura or inserting the chemicals to induce a scar. This requires the chest tube to stay in until the fluid drainage stops. This can take days to weeks and can require prolonged hospitalizations. If the chest tube becomes clogged, fluid will be left behind and the pleurodesis will fail.
+Pleurodesis fails in as many as 30% of cases. An alternative is to place a PleurX Pleural Catheter or Aspira Drainage Catheter. This is a 15Fr chest tube with a one-way valve. Each day the patient or caregivers connect it to a simple vacuum tube and remove from 600 to 1000 mL of fluid, and can be repeated daily. When not in use, the tube is capped. This allows patients to be outside the hospital. For patients with malignant pleural effusions, it allows them to continue chemotherapy if indicated. Generally, the tube is in for about 30 days, and then it is removed when space undergoes spontaneous pleurodesis.
+Tubercular pleural effusion is one of the common extrapulmonary forms of tuberculosis. Treatment consists of antituberculosis treatment (ATT). The currently recommended ATT regime is two months of isoniazid, rifampicin, ethambutol and pyrazinamide followed by four months of isoniazid, rifampicin and ethambutol.
+
+See also
+Pleural disease
+Empyema
+Heart failure
+Pulmonary embolism
+Subpulmonic effusion
+Thoracentesis
+pneumothorax
+
+References
+External links
+
+MedlinePlus Encyclopedia: Pleural Effusion
+Pleural Effusion Images from MedPix

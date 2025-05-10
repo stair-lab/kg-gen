@@ -1,0 +1,96 @@
+The ANITA Mark VII and ANITA Mark VIII calculators were launched simultaneously in late 1961 as the world's first all-electronic desktop calculators. Designed and built by the Bell Punch Co. in Britain, and marketed through its Sumlock Comptometer division, they used vacuum tubes and cold-cathode switching tubes in their logic circuits and nixie tubes for their numerical displays.
+They were the first of a series of desktop and hand-held electronic calculators that the company was to develop and sell under the ANITA name into the mid-1970s.
+
+History of ANITA calculators
+The acronym ANITA was officially proclaimed to be derived from, variously, A New Inspiration to Arithmetic, or A New Inspiration to Accounting, though there have been rumours that this was also the name of the designer's wife.
+The Bell Punch Company (named after its first product, a ticket punch with a bell used by tram and bus conductors) had been producing a very successful range of key-driven mechanical calculators of the Comptometer type under the names "Plus" and "Sumlock", since the 1930s. In 1956 the young graduate Norbert Kitz (also known as Norman Kitz), who had worked on the early British Pilot ACE computer project, had a chance meeting with some of the directors of Control Systems Ltd., of which the Bell Punch Company was then a subsidiary. Some years earlier, while researching the introduction to his dissertation, he was looking at the mechanical calculators in the Science Museum, London, United Kingdom, and had realised that the future of calculators lay in electronics. Unfortunately, the major mechanical calculator manufacturers were far away in the US and Germany, and Kitz's idea lay dormant until he raised it at that meeting. The directors were very forward looking and were impressed by Kitz and his idea. They decided to open an Electronics Development Department, and took on Kitz as the leader of a project to develop an electronic version of the company's mechanical calculators. To help confidentiality the project was given the code-name ANITA.
+Since the company had production lines capable of manufacturing precision mechanical parts by the thousand, the first experimental models were mechanical and electronic hybrids. However, these proved impractical and a purely electronic design was pursued.
+Being the first in the field there were several major technical areas that required considerable development:
+
+The electronic circuits for the four arithmetic functions: add, subtract, multiply, divide.
+An electronic circuit which could store numbers being used in the calculation without taking up a lot of space and requiring a lot of power.
+A suitable keyboard to enter the numbers of a calculation. This had to have a long life and also give good electrical reliability.
+A suitable numerical output to display the results.
+
+However, the main constraint was to be the cost of the calculator. The cheapest electronic computer then cost approximately £50,000 GBP but to be competitive with mechanical calculators the target selling price of the electronic calculator was in the range £350 to £400.
+The first all-electronic prototype was demonstrated to the board of the company in December 1958. This prototype was later donated by the company to the Science Museum in London, where Kitz had originally had the idea for the electronic calculator. It has been on display surrounded by the mechanical calculators that it was to make obsolete. There then followed several years of great effort in finding electronic and mechanical components suitable for production, testing them for suitability, and where necessary producing them within the company or finding someone to produce them to their specification.
+The great culmination of all the effort was revealed in October 1961, when the world's first all-electronic desktop calculators were launched. These were the ANITA Mk VIII at the Business Efficiency Exhibition in London, United Kingdom, from 2 to 11 October, and the ANITA Mk VII at the Hamburg Business Equipment Fair, Germany, from 10 to 13 October.
+
+Since transistor technology was still in its infancy, these machines used vacuum tubes, cold-cathode tubes, and Dekatrons in their circuits, and cold-cathode Nixie tubes for their displays. This technology was fairly robust and cost effective; the Dekatron counter tube being the equivalent of an integrated circuit counter. The ANITA Mk VII was marketed in continental Europe while the ANITA Mk VIII was marketed in Britain and the rest of the world, both for delivery from early 1962. The Mk VII was a slightly earlier design with a more complicated mode of multiplication and was soon dropped in favour of the simpler Mark VIII version. The logic circuits, although digital, were based on decimal notation rather than binary; as Kitz himself stated at a symposium "no binary stunts here!". Similar to the Comptometer calculating machines of the time, the ANITA had a full keyboard, a feature that was unique to it and the later Sharp CS-10A among electronic calculators. Being silent and very quick in operation, and the only electronic desktop calculator available, the ANITA sold well, reaching nearly 10,000 units per year by 1964.
+1961 was a doubly notable year for the Bell Punch Company since it then also amalgamated its calculator division with the British operation of Comptometer Corporation of Chicago, US (formerly the Felt & Tarrant Manufacturing Co.), to form Sumlock Comptometer Ltd. It thus gained the right to use the name "Comptometer" and even manufactured mechanical calculators to be sold by Comptometer Corporation in the US.
+Development and some manufacture of the ANITA calculators took place at the Bell Punch Company's headquarters in Uxbridge, about 15 miles (24 km) to the west of London, United Kingdom.  However, the main production facility was in Portsmouth, on the south coast, where the company expanded the original site there, opened in 1952 to produce mechanical calculator parts, by acquiring additional buildings.  For production of the thousands of circuit boards the company invested in the then new technology of wave soldering.
+With the appearance of the ANITA calculators, other calculator manufacturers pressed on with designs for electronic models.  In late 1963 and 1964 competition finally arrived with the launch of all-transistor models such as the Friden EC-130, IME 84, and Sharp CS-10A.  Initially the competing electronic calculators were no cheaper nor smaller than the ANITA, but Bell Punch responded by opening a new research and development building on its Uxbridge site, and electronics research was increased for the calculators and the other Bell Punch products.
+The ANITA name continued to be used for the series of models of desktop calculators that followed, which gradually moved to transistor and integrated circuit technology, and from the early 1970s, the hand-held models.
+In 1966 the calculator manufacturing operation of the Bell Punch Company was formed into a separate company, called Sumlock-Anita Electronics, and continued to manufacture both the mechanical and electronic calculators, still marketed by its Sumlock Comptometer division.
+There was a major development in 1973 when the Sumlock Anita Electronics division was bought by its main supplier of integrated circuits, Rockwell International of the US.  The remainder of the Bell Punch Co. continued manufacturing and selling its other products, such as taximeters.
+In 1976 Rockwell decided to exit the calculator market, by which time cheap calculators had markedly reduced the profitability of the industry.  Sumlock Anita Electronics was closed down and the ANITA name was sold to a marketing company and soon disappeared.  The rest of the Bell Punch Company, which was completely independent of Rockwell, continued in business to about 1986 when it was closed down.
+
+Further information about the early ANITA calculators
+The first of the ANITA models was called the Mk VII (i.e. Mark VII) because the development of the mechanism of the Sumlock mechanical calculators made by the company had already gone through design numbers Mk I to Mk VI. So the next number in the series was used for the first electronic design.
+The moulded plastic casing of the first ANITA calculators was particularly complicated for the time, and required development of new techniques by the moulding company. Originally moulded in ABS the material was later changed to polycarbonate for improved fire resistance.
+Operators converting from mechanical machines to the new electronic ANITA calculators often complained initially that the key stroke was too light and did not give the feel of the mechanical machine. Also, they missed the noise of the mechanism which indicated that the calculation was taking place and went quiet when the calculation was completed.
+An article of 1965 on cold cathode tubes from Mullard Ltd. (a British manufacturer of these devices, which also produced a prototype calculator using them) gives an insight into why they were used in these calculators at the time - "... They are an accountant's dream; a typical modern [cold cathode] tube has a life expectancy several thousand times better than the conventional thermionic tube, although they employ voltages of the same order. They are much cheaper than either semiconductor devices or vacuum tubes; they do not require costly materials with a high degree of purity in their manufacture, nor do they need transformers or cooling systems to operate. The tubes require no warm-up period and they can take severe overload."
+
+Known ANITA calculator models
+Desktop models
+ANITA Mk VII - 1961, cold-cathode tube logic, full keyboard, 12-digit "Nixie"-type tube display.
+ANITA Mk VIII (aka Mk 8) - 1961, cold-cathode tube logic, full keyboard, 12-digit "Nixie"-type tube display.
+ANITA Mk 9 - 1964, cold-cathode tube logic, full keyboard, 12-digit "Nixie"-type tube display, capable of chain multiplication.
+ANITA Mk 10 - 1965, cold-cathode tube logic, full keyboard, 12-digit "Nixie"-type tube display, can display in Decimal or the pre-decimalisation Pound sterling Currency mode.
+ANITA Mk 11 - 1969, hybrid cold-cathode tube and transistor logic, 10-key keyboard, 9-digit "Nixie"-type tube display, low cost.
+ANITA Mk12 - 1966, hybrid cold-cathode tube and transistor logic, 10-key keyboard, 12-digit "Nixie"-type tube display.
+
+ANITA 410P - details not known.
+ANITA 500P - details not known.
+ANITA 1000 - 1969, IC & transistor logic, 10-key keyboard, 10-digit "Nixie"-type tube display.
+ANITA 1010 - 1969, IC & transistor logic, 10-key keyboard, 10-digit "Nixie"-type tube display, %.
+ANITA 1011 - 1969, IC & transistor logic, 10-key keyboard, 10-digit "Nixie"-type tube display, memory.
+ANITA 1011P - 1971, IC & transistor logic, 10-key keyboard, printer, memory.
+ANITA 1020 - 1970, IC & transistor logic, 10-key keyboard, 10-digit "Nixie"-type tube display, square root.
+ANITA 1021 - 1970, IC & transistor logic, 10-key keyboard, memory, 10-digit "Nixie"-type tube display, memory, square root.
+
+ANITA 1000 LSI - 1971, IC logic, 10-key keyboard, 10-digit "Nixie"-type tube display.
+ANITA 1000B LSI - c. 1971, IC logic, 10-key keyboard, 10-digit "Nixie"-type tube display, AC & rechargeable batteries.
+ANITA 1011 LSI - 1971, IC logic, 10-key keyboard, 10-digit "Nixie"-type tube display, %, memory.
+ANITA 1011B LSI - 1971, IC logic, 10-key keyboard, 10-digit "Nixie"-type tube display, %, memory, AC & rechargeable batteries.
+ANITA 1011P - c. 1971, IC logic (?), 10-key keyboard, printer, %, memory.
+ANITA 1021 LSI - details unknown.
+ANITA 1041 - details unknown.
+ANITA 1211 LSI (aka 1211D) - IC logic, 10-key keyboard, 12-digit "Panaplex" display, %.
+ANITA 1211P - 1973, IC logic (?), 10-key keyboard, printer.
+ANITA 1212D - 1972, IC logic (?), 10-key keyboard, 10-digit "Nixie"-type tube display, 2 memories.
+ANITA 1212P - date unknown, IC logic (?), 10-key keyboard, printer.
+ANITA 1233D - 1972, IC logic (?), 10-key keyboard, multiple memories.
+ANITA 1233P - 1973, IC logic (?), 10-key keyboard, printer, multiple memories.
+Rockwell-ANITA 811 SL - 1974, IC logic, 10-key keyboard, 8-digit "Panaplex II" display, %, memory.
+Rockwell-ANITA 1041 - 1975, IC logic, 10-key keyboard, 16-digit "Panaplex II" (10 digits mantissa, 2 digits exponent), scientific functions, memory.
+Rockwell-ANITA 1211 - date unknown, IC logic, 10-key keyboard, 12-digit "Panaplex II" display, %, memory.
+Rockwell-ANITA 1211 SL - 1974, IC logic, 10-key keyboard, 12-digit "Panaplex II" display, %, memory.
+Rockwell-ANITA 1211P - 1973, IC logic, 10-key keyboard, printer.
+Rockwell-ANITA 1216 - c. 1973, IC logic, 10-key keyboard, 12-digit "Panaplex"-type display, %, memory, made in the US,
+Rockwell-ANITA 1432 - details unknown.
+
+Hand-held models
+ANITA 810 - date unknown, 8-digit red LED display.
+ANITA 811 - 1972, 8-digit red LED display, %, memory. The first Anita hand-held calculator.
+ANITA 831 - date unknown, 8-digit red LED display, %, memory, square root.
+ANITA 841 - date unknown, 8-digit red LED display, Scientific.
+ANITA 851 - date unknown, 8-digit red LED display, metric conversion.
+ANITA 861 - date unknown, 8-digit red LED display, Financial.
+ANITA 8041 - date unknown, 8-digit green Vacuum fluorescent display, scientific, similar to ANITA 841, made in Yugoslavia for Fi-cord International, Didsbury, Manchester, England.
+Triumph-Adler 81 - c1972, similar to the ANITA 811. Made by Sumlock-Anita for Triumph-Adler and sold under both the "Triumph" and "Adler" labels.
+Rockwell-ANITA 102 - date unknown, 8-digit red LED display, assembled in Mexico.
+Rockwell-ANITA 201 - date unknown, 8-digit red LED display, %, memory, assembled in Mexico.
+Rockwell-ANITA 202/SR - date unknown, 8-digit green Vacuum fluorescent display, scientific, assembled in Mexico (?).
+Sumlock-Anita Electronics also assembled in Britain some of the Rockwell hand-held calculators, including Rockwell models 8R, 10R, 18R, 20R, 21R, 30R, 31R.
+The "Panaplex" is a gas-discharge display, using 7 segments to represent each number, within a thin glass "sandwich". The numerals glow amber.
+This list of calculator models may not be complete.
+
+Patents
+GB patent 868,753 – Improvements in or relating to Calculating Machines – Norbert Kitz, Robert Milburn, Christopher Webb: Bell Punch Company Ltd., 1961 (first application 6 September 1956, filed 6 September 1957), - Electronically controlled key operated office desk type calculating machine capable of addition, subtraction, multiplication, and division.
+U.S. patent 3,280,315 - Key controlled decimal electronic calculating machine – Norbert Kitz: Bell Punch Company Ltd., 1966 (filed 29 December 1961), - Electromechanical and "space discharge type" electronic calculating machine capable of addition, subtraction, multiplication, and division.
+
+References
+External links
+Summary of the history of the ANITA calculator
+Extensive history of the ANITA calculator

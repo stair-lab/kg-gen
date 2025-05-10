@@ -1,0 +1,118 @@
+Loan origination is the process by which a borrower applies for a new loan, and a lender processes that application. Origination generally includes all the steps from taking a loan application up to disbursal of funds (or declining the application). For mortgages, there is a specific mortgage origination process. Loan servicing covers everything after disbursing the funds until the loan is fully paid off. Loan origination is a specialized version of new account opening for financial services organizations. Certain people and organizations specialize in loan origination.  Mortgage brokers and other mortgage originator companies serve as a prominent example.
+There are many different types of loans. For more information on loan types, see the loan and consumer lending articles. Steps involved in originating a loan vary by loan type, various kinds of loan risk, regulator, lender policy etc.
+
+Application process
+Applications for loans may be made through several different channels and the length of the application process, from initial application to funding, means that different organizations may use various channels for customer interactions over time. In general, loan applications may be split into five distinct types:
+
+Agent (branch-based)
+Agent assisted (telephone-based)
+Broker sale (third-party sales agent)
+Self-service
+Online Application
+Retail loans and mortgages are typically highly competitive products that may not offer a large margin to their providers, but through high volume sales can be highly profitable. The business model of the individual financial institution and the products they offer therefore affect the decision of which application model they will offer
+
+Agent assisted (branch-based) loan application
+The typical types of financial services organizations offering loans through the face to face channel have a long-term investment in 'brick and mortar' branches. Typically these are:
+
+Banks
+Credit unions
+Building societies
+The appeal to customers of the loan offered directly in branches is the often long-standing relationship that a customer may have with the institution, the appearance of trustworthiness this type of institution has, and the perception that holding a larger portfolio of products with a single organization may lead to better terms. From a bank's standpoint, cross-selling products to current customers offers an effective marketing opportunity, and agents in branches may be trained to handle the sale of many different types of financial products.
+In a branch, customers typically sit with a sales agent who will assist the customer in completing the application form, selecting appropriate product options (such as payment terms and rates), collecting required documentation (new account opening compliance requirements must be met at this stage), selecting add-on products (such as payment protection insurance), and eventually signing a completed application.
+Dependent on the institution and product being offered, the application may be completed on a paper application form, or directly into an online application through the agent's desktop system. In either case, this phase of application is mostly concerned with the accurate capture of customer's details, and does not incorporate any of the background decisioning work required to assess the suitability of the customer and the risk of default, or the due diligence that must be performed to mitigate risk of fraud and money laundering activities.
+A major complexity for the branch origination channel is making the process simple enough that sales agents can be easily trained to handle many different products, while ensuring that the many due diligence and disclosure requirements of the financial and banking regulators regionally are met.
+Many back-office functions of loan origination continue from this point and are described in the Processing section below.
+
+Self-service loan application
+Self-service web applications are taken in a variety of ways, and the state of this business has evolved over time
+Print and fax applications or pre-qualification forms. Some financial institutions still use these.
+Print, write or type data into the form, send it to the financial institution
+Form fill on the web, print, and send to the financial institution (not much better)
+Web forms filled out and saved by the applicant on the web site, that are then sent to or retrieved (securely, presumably) by the financial institution
+True web applications with interfaces to a loan origination system on the back end
+Many of the early solutions had a lot of the same problems as general forms (bad work flows, trying to handle all manner of loan types in one form)
+Wizard-style applications that are very intuitive and don't ask superfluous questions
+Jobs the online application should perform:
+
+Present required disclosures, comply with various lending regulations)
+Be compliant with security requirements (such as Multi-Factor Authentication) where applicable.
+Collect the necessary applicant data
+Exactly what is needed varies by loan type. The application should not ask for data the applicant doesn't absolutely have to provide to get to a prequalification decision for the loan type(s) they seek.
+The application should pre-fill demographic data if the applicant is an existing client and has logged in.
+Make it easy, quick, and friendly for the applicant (so they actually complete the application and don't abandon)
+Get a current credit report
+Prequalify (auto-decision) the application and return a quick response to the applicant. Typically this would be approved subject to stipulations, referred to the financial institution, declined (many financial institutions (FIs) shy away from this preferring to refer any application that can't be automatically pre-approved.)
+
+Processing
+Decisions and credit risk
+The mortgage business consists of a few people: the borrower, the lender, and sometimes the mortgage broker. The people that originate the loans are usually the mortgage broker or the lender. Depending if the borrower has credit worthiness, then he/she can be qualified for a loan. The norm qualifying FICO score is not a static number. Lender guidelines and mitigating factors determine this number. Recent changes in the market and industry have made stated-income and stated-asset loans a thing of the past and full income and asset documentation is now required from the majority of Fannie Mae and Freddie Mac backed mortgage securities.
+Not only does one's credit score affect their qualification, the fact of the matter also lies in the question, "Can I (the borrower) afford this mortgage?" In most cases the borrower can afford their mortgage. However, some borrowers seek to incorporate their unsecured debt into their mortgage (secured debt). They seek to pay off the debt that is outstanding in amount. These debts are called "liabilities", these liabilities are calculated into a ratio that lenders use to calculate risk. This ratio is called the "debt-to-income ratio" (DTI). If the borrower has excessive debt that he/she wishes to pay off, and that ratio from those debts exceeds a limit of DTI, then the borrower has to either pay off a few debts in a later time and pay off just the outstanding debt. When the borrower refinances his/her loan, they can pay off the remainder of the debt.
+Example: If the borrower owes $1,500 in credit card payments and has a gross monthly income of $3,000, his DTI ratio would be 50%. But if the borrower owes $1,500 in payments and has a gross monthly income of $2,000, his DTI ratio would be 75%. Both a 50% and 75% DTI ratio would be too high for most lenders, as a DTI ratio of 43% is generally the cutoff for conventional mortgages. All other factors aside, the higher the DTI ratio, the less likely the borrower will be able to afford a monthly payment, hence the more risky it is for the lender.
+
+Pricing, including risk-based pricing and relationship-based pricing
+Pricing policy varies a great deal. While one probably can't influence the pricing policy of a given financial institution, one can:
+
+Shop around
+Ask for a better rate – some financial institutions will respond to this, some won't
+Price match – many financial institutions will match a rate for a current customer
+Pricing is often done in one of these ways. Follow the internal links for more details:
+
+Everyone pays the same rate. This is an older approach, and most financial institutions no longer use this approach because it causes low risk customers to pay a higher than market rate, while high risk customers get a better rate than they might otherwise get, causing the financial institution to get a lower rate of return on the loan than the risk might imply.
+Risk-based pricing. With this approach, pricing is based on various risk factors including loan to value, credit score, loan term (expected length, usually in months)
+Relationship based pricing is often used to offer a slightly better rate to customers that have a substantial business relationship with the financial institution. This is often a price improvement offered on top of the otherwise computed rate.
+
+Loan specific compliance requirements
+Many of the customer identification and due diligence requirements of loan origination are common to new account opening of other financial products.
+The following sections describe the specific requirements of loans and mortgages.
+
+Cross selling, add-on selling
+Add-on Credit insurance & debt cancellation
+Credit cross selling
+Up-selling
+Down-selling
+Refinancing
+Loan recapture
+
+Appraising collateral
+The next step is to have a Real Estate appraiser appraise the borrower's property that he wishes to have the loan against. This is done to prevent fraud of any kind by either the borrower or the mortgage broker. This prevents fraud like "equity stripping" and money embezzlement. The amount that the appraiser from either the borrower's side or the lender's side is the amount that the borrower can loan up to. This amount is divided by the debt that the borrower wants to pay off plus other disbursements (i.e. cash-out, 1st mortgage, 2nd mortgage, etc.) and the appraised value (if a refinance) or purchase price (if a purchase) {which ever amount is lower} and converted into yet another ratio called the Loan to value (LTV) ratio. This ratio determines the type of loan and risk the lender is put up against. 
+For example: if the borrower's house appraises for $415,000 and they wish to refinance for the amount of $373,500 – the LTV ratio would be 90%. The lender also may put a limit to how much the LTV can be – for example, if the borrower's credit is bad, the lender may limit the LTV that the borrower can loan. However, if the borrower's credit is in Good condition, then the lender will most likely not put a restriction on the borrower's LTV. LTV for loans may or may not exceed 100% depending on many factors.
+The appraisal would take place on location of the borrower's property. The appraiser may take pictures of the house from many angles and will take notes on how the property looks. He/she will type up an appraisal and submit it to the lender or broker (depending on who ordered the appraisal.) The Appraisal is written in the format compliant to FNMA Form 1004. The 1004 is the standard appraisal form used by appraisers nationwide.
+
+Processing documents/loan underwriting
+Document preparation
+Document Preparation or Doc Prep is the process of arranging and preparing the borrowers closing contracts. These documents vary from industry to industry but generally contain a note, disclosures, and other documents describing and detailing the agreement between the borrower and lender.
+
+Mortgage underwriting
+An underwriter is a person who evaluates the loan documentation and determines whether or not the loan complies with the guidelines of the particular mortgage program. It is the underwriter's responsibility to assess the risk of the loan and decide to approve or decline the loan. A processor is the one who gathers and submits the loan documents to the underwriter. Underwriters take at least 48 hours to underwrite the loan and after the borrower signs the package it takes 24 hours for a processor to process the documents.
+
+Funding of loan
+Booking
+Disbursal of funds
+Decide the Mode of Payment:
+Cash
+Online Transfer
+Cheque
+
+Regulation
+Lending is a highly regulated business, at both the Federal and State levels. Some of the main regulations that apply to lending are listed here. For more details, see Bank regulation.
+
+Truth in lending act (aka Regulation Z)
+Equal Credit Opportunity Act (aka Regulation B)
+Home Mortgage Disclosure Act (HMDA)
+Other related topics include:
+
+Predatory lending
+Usury
+Loan sharking
+
+See also
+Loan servicing
+Making payments
+Credit bureau reporting
+Loan default
+Collateral Repossession & remarketing
+Loan types are covered to a degree in the Loan article
+e-Lending
+
+
+== References ==

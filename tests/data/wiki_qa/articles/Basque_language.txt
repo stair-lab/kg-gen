@@ -1,0 +1,340 @@
+Basque ( BASK, BAHSK; euskara [eus̺ˈkaɾa]) is a language spoken by Basques and other residents of the Basque Country, a region that straddles the westernmost Pyrenees in adjacent parts of northern Spain and southwestern France. Basque is classified as a language isolate (unrelated to any other known languages) and the only language isolate in Europe. The Basques are indigenous to and primarily inhabit the Basque Country. The Basque language is spoken by 806,000  Basques in all territories. Of these, 93.7% (756,000) are in the Spanish area of the Basque Country and the remaining 6.3% (50,000) are in the French portion.
+Native speakers live in a contiguous area that includes parts of four Spanish provinces and the three "ancient provinces" in France. Gipuzkoa, most of Biscay, a few municipalities on the northern border of Álava and the northern area of Navarre formed the core of the remaining Basque-speaking area before measures were introduced in the 1980s to strengthen Basque fluency. By contrast, most of Álava, the westernmost part of Biscay, and central and southern Navarre are predominantly populated by native speakers of Spanish, either because Basque was replaced by either Navarro-Aragonese or Spanish over the centuries (as in most of Álava and central Navarre), or because it may never have been spoken there (as in parts of Enkarterri and south-eastern Navarre).
+In Francoist Spain, Basque language use was discouraged by the government's repressive policies. In the Basque Country, "Francoist repression was not only political, but also linguistic and cultural." Franco's regime suppressed Basque from official discourse, education, and publishing, making it illegal to register newborn babies under Basque names, and even requiring tombstone engravings in Basque to be removed. In some provinces the public use of Basque was suppressed, with people fined for speaking it. Public use of Basque was frowned upon by supporters of the regime, often regarded as a sign of anti-Francoism or separatism. Overall, in the 1960s and later, the trend reversed and education and publishing in Basque began to flourish. As a part of this process, a standardised form of the Basque language, called Euskara Batua, was developed by the Euskaltzaindia in the late 1960s.
+Besides its standardised version, the five historic Basque dialects are Biscayan, Gipuzkoan, and Upper Navarrese in Spain and Navarrese–Lapurdian and Souletin in France. They take their names from the historic Basque provinces, but the dialect boundaries are not congruent with province boundaries. Euskara Batua was created so that the Basque language could be used—and easily understood by all Basque speakers—in formal situations (education, mass media, literature), and this is its main use today. In both Spain and France, the use of Basque for education varies from region to region and from school to school.
+Basque is the only surviving Paleo-European language in Europe. The current mainstream scientific view on the origin of the Basques and of their language is that early forms of Basque developed before the arrival of Indo-European languages in the area, i.e. before the arrival of Celtic and Romance languages in particular, as the latter today geographically surround the Basque-speaking region. Typologically, with its agglutinative morphology and ergative–absolutive alignment, Basque grammar remains markedly different from that of Standard Average European languages. Nevertheless, Basque has borrowed up to 40 percent of its vocabulary from Romance languages, and the Latin script is used for the Basque alphabet.
+
+Names of the language
+In Basque, the name of the language is officially euskara (alongside various dialect forms).
+In French, the language is normally called basque, though euskara has become common in recent times. Spanish has a greater variety of names for the language. Today, it is most commonly referred to as vasco, lengua vasca, or euskera. Both terms, vasco and basque, are inherited from the Latin ethnonym Vascones, which in turn goes back to the Greek term Οὐάσκωνες (ouáskōnes), an ethnonym used by Strabo in his Geographica (23 CE, Book III).
+The Spanish term vascuence, derived from Latin vasconĭce, has acquired negative connotations over the centuries and is not well-liked amongst Basque speakers generally. Its use is documented at least as far back as the 14th century when a law passed in Huesca in 1349 stated that Item nuyl corridor nonsia usado que faga mercadería ninguna que compre nin venda entre ningunas personas, faulando en algaravia nin en abraych nin en basquenç: et qui lo fara pague por coto XXX sol—essentially penalising the use of Arabic, Hebrew, or Basque in marketplaces with a fine of 30 sols (the equivalent of 30 sheep).
+
+History and classification
+Although the Basque language is geographically surrounded by Romance languages, it is a language isolate that is unrelated to them or to any other living language. Most scholars believe Basque to be the last remaining descendant of one of the pre-Indo-European languages of prehistoric Europe. Consequently, it may be impossible to reconstruct the prehistory of the Basque language by the traditional comparative method except by applying it to differences between Basque dialects. Little is known of its origins, but it is likely that an early form of the Basque language was present in and around the area of modern Basque Country before the arrival of the Indo-European languages in western Europe during the 3rd millennium BC.
+Authors such as Miguel de Unamuno and Louis Lucien Bonaparte have noted that the words for "knife" (aizto), "axe" (aizkora), and "hoe" (aitzur) appear to derive from the word for "stone" (haitz), and have therefore concluded that the language dates to prehistoric Europe when those tools were made of stone. Others find  this theory unlikely.
+Latin inscriptions in Gallia Aquitania preserve a number of words with cognates in the reconstructed proto-Basque language, for instance, the personal names Nescato and Cison (neskato and gizon mean 'young girl' and 'man', respectively in modern Basque). This language is generally referred to as Aquitanian and is assumed to have been spoken in the area before the Roman Republic's conquests in the western Pyrenees. Some authors even argue for late Basquisation, that the language moved westward during Late Antiquity after the fall of the Western Roman Empire into the northern part of Hispania into what is now the Basque Country.
+Roman neglect of this area allowed Aquitanian to survive while the Iberian and Tartessian languages became extinct. Through the long contact with Romance languages, Basque adopted a sizeable number of Romance words. Initially the source was Latin, later Gascon (a branch of Occitan) in the north-east, Navarro-Aragonese in the south-east and Spanish in the south-west.
+Since 1968, Basque has been immersed in a revitalisation process, facing formidable obstacles. However, significant progress has been made in numerous areas. Six main factors have been identified to explain its relative success: 
+
+implementation and acceptance of Unified Basque (Batua),
+integration of Basque in the education system
+creation of media in Basque (radio, newspapers, and television)
+the established new legal framework
+collaboration between public institutions and people's organisations, and
+campaigns for Basque language literacy.
+While those six factors influenced the revitalisation process, the extensive development and use of language technologies is also considered a significant additional factor.
+
+Hypotheses concerning Basque's connections to other languages
+Many linguists have tried to link Basque with other languages, but no hypothesis has gained mainstream acceptance. Apart from pseudoscientific comparisons, the appearance of long-range linguistics gave rise to several attempts to connect Basque with geographically very distant language families such as Georgian. Historical work on Basque is challenging since written material and documentation has only been available for some few hundred years. Almost all hypotheses concerning the origin of Basque are controversial, and the suggested evidence is not generally accepted by mainstream linguists. Some of these hypothetical connections are:
+
+Ligurian substrate: this hypothesis, proposed in the 19th century by d'Arbois de Jubainville, J. Pokorny, P. Kretschmer and several other linguists, encompasses the Basco-Iberian hypothesis.
+Iberian: another ancient language once spoken in the Iberian Peninsula, shows several similarities with Aquitanian and Basque. However, most scholars say that there is not enough evidence exists to distinguish geographical connections from linguistic ones. Iberian itself remains unclassified. Eduardo Orduña Aznar claims to have established correspondences between Basque and Iberian numerals and noun case markers.
+Vasconic substratum hypothesis: this proposal, made by the German linguist Theo Vennemann, claims that enough toponymical evidence exists to conclude that Basque is the only survivor of a larger family that once extended throughout most of western Europe, and has also left its mark in modern Indo-European languages spoken in Europe.
+Georgian: linking Basque to the Kartvelian languages is now widely discredited. The hypothesis was inspired by the existence of the ancient Kingdom of Iberia in the Caucasus and some similarities in societal practices and agriculture between the two populations. Historical comparisons are difficult due to the dearth of historical material for Basque and several of the Kartvelian languages. Typological similarities have been proposed for some of the phonological characteristics and most importantly for some of the details of the ergative constructions, but these alone cannot prove historical relatedness between languages since such characteristics are found in other languages across the world, even if not in Indo-European. According to J. P. Mallory, the hypothesis was also inspired by a Basque place-name ending in -dze which is common in Kartvelian. The hypothesis suggested that Basque and Georgian were remnants of a pre-Indo-European group.
+Northeast Caucasian languages, such as Chechen, are seen by some linguists as more likely candidates for a very distant connection.
+Dené–Caucasian: based on the possible Caucasian link, some linguists, for example John Bengtson and Merritt Ruhlen, have proposed including Basque in the Dené–Caucasian superfamily of languages, but this proposed superfamily includes languages from North America and Eurasia, and its existence is highly controversial.
+Indo-European: a genetic link between Basque and the Indo-European languages has been proposed by Forni (2013), though his contributions to the hypothesis have been rejected by most reviewers, both including scholars adhering to the mainstream view of Basque as a language isolate (Gorrochategui, Lakarra), as well as proponents of wide-range genetic relations (Bengtson).
+
+Geographic distribution
+The region where Basque is spoken has become smaller over centuries, especially at the northern, southern, and eastern borders. Nothing is known about the limits of this region in ancient times, but on the basis of toponyms and epigraphs, it seems that in the beginning of the Common Era it stretched to the river Garonne in the north (including the south-western part of present-day France); at least to the Val d'Aran in the east (now a Gascon-speaking part of Catalonia), including lands on both sides of the Pyrenees; the southern and western boundaries are not clear at all.
+The Reconquista temporarily counteracted this contracting tendency when the Christian lords called on northern Iberian peoples — Basques, Asturians, and "Franks" — to colonise the new conquests. The Basque language became the main everyday language, while other languages like Spanish, Gascon, French, or Latin were preferred for the administration and high education.
+By the 16th century, the Basque-speaking area was reduced basically to the present-day seven provinces of the Basque Country, excluding the southern part of Navarre, the south-western part of Álava, and the western part of Biscay, and including some parts of Béarn.
+In 1807, Basque was still spoken in the northern half of Álava—including its capital city Vitoria-Gasteiz—and a vast area in central Navarre, but in these two provinces, Basque experienced a rapid decline that pushed its border northwards. In the French Basque Country, Basque was still spoken in all the territory except in Bayonne and some villages around, and including some bordering towns in Béarn.
+In the 20th century, however, the rise of Basque nationalism spurred increased interest in the language as a sign of ethnic identity, and with the establishment of autonomous governments in the Southern Basque Country, it has recently made a modest comeback. In the Spanish part, Basque-language schools for children and Basque-teaching centres for adults have brought the language to areas such as western Enkarterri and the Ribera del Ebro in southern Navarre, where it is not known to ever have been widely spoken; and in the French Basque Country, these schools and centres have almost stopped the decline of the language.
+
+Official status
+Historically, Latin or Romance languages have been the official languages in this region. However, Basque was explicitly recognised in some areas. For instance, the fuero or charter of the Basque-colonised Ojacastro (now in La Rioja) allowed the inhabitants to use Basque in legal processes in the 13th and 14th centuries. Basque was allowed in telegraph messages in Spain thanks to the royal decree of 1904.
+The Spanish Constitution of 1978 states in Article 3 that the Spanish language is the official language of the nation, but allows autonomous communities to provide a co-official language status for the other languages of Spain. Consequently, the Statute of Autonomy of the Basque Autonomous Community establishes Basque as the co-official language of the autonomous community. The Statute of Navarre establishes Spanish as the official language of Navarre, but grants co-official status to the Basque language in the Basque-speaking areas of northern Navarre. Basque has no official status in the French Basque Country and French citizens are barred from officially using Basque in a French court of law. However, the use of Basque by Spanish nationals in French courts is permitted (with translation), as Basque is officially recognised on the other side of the border.
+The positions of the various existing governments differ with regard to the promotion of Basque in areas where Basque is commonly spoken. The language has official status in those territories that are within the Basque Autonomous Community, where it is spoken and promoted heavily, but only partially in Navarre. The Ley del Vascuence ('Law of Basque'), seen as contentious by many Basques, but considered fitting Navarra's linguistic and cultural diversity by some of the main political parties of Navarre, divides Navarre into three language areas: Basque-speaking, non-Basque-speaking, and mixed. Support for the language and the linguistic rights of citizens vary, depending on the area. Others consider it unfair, since the rights of Basque speakers differ greatly depending on the place they live.
+
+Demographics
+The 2021 sociolinguistic survey of all Basque-speaking territories showed that, of all people aged 16 and above:
+
+In the Basque Autonomous Community, 36.2% were fluent Basque speakers, 18.5% passive speakers and 45.3% did not speak Basque. The percentage was highest in Gipuzkoa (51.8% speakers) and Bizkaia (30.6%) and lowest in Álava (22.4%). These results represent an increase from previous years (33.9% in 2016, 30.1% in 2006, 29.5% in 2001, 27.7% in 1996 and 24.1% in 1991). The highest percentage of speakers can now be found in the 16–24 age range (74.5%) vs. 22.0% in the 65+ age range.
+In the French Basque Country, in 2021, 20.0% were fluent Basque speakers. Because the French Basque Country is not under the influence of the Basque Autonomous Country government, people in the region have fewer incentives from government authorities to learn the language. As such, these results represent another decrease from previous years (22.5% in 2006, 24.8% in 2001 and 26.4 in 1996 or 56,146 in 1996 to 51,197 in 2016). However, for those in the 16-24 age range, the proportion of Basque speakers increased to 21.5%, from 12.2% 20 years earlier.
+In Navarre, 14.1% were fluent Basque speakers, 10.5% passive speakers, and 75.4% did not speak Basque. The percentage was highest in the Basque-speaking zone in the north (62.3% speakers, including 85.9% of youth) and lowest in the non-Basque-speaking zone in the south (1.6%). The overall proportion of 14.1% represented a slight increase from previous years (12.9% in 2016, 11.1% in 2006,10.3% in 2001, 9.6% in 1996 and 9.5% in 1991). Among age groups, the highest percentage of speakers can now be found in the 16–24 age range (28%) vs. 8.3% in the 65+ age range.
+In 2021, out of a population of 2,634,800 over 16 years of age (1,838,800 in the Autonomous community, 546,000 in Navarre and 250,000 in the Northern Basque Country), 806,000 spoke Basque, which amounted to 30.6% of the population. Compared to the 1991 figures, this represents an overall increase of 266,000, from 539,110 speakers 30 years previously (430,000 in the BAC, 40,110 in FCN, and 69,000 in the Northern provinces). This number has tended to increase, as in all regions the age group most likely to speak Basque was those between 16 and 24 years old. In the BAC, the proportion in this age group who spoke the language (74.5%) was nearly triple the comparable figure from 1991, when barely a quarter of the population spoke Basque.
+While there is a general increase in the number of Basque speakers during this period, this is mainly because of bilingualism. Basque transmission as a sole mother tongue has decreased from 19% in 1991 to 15.1% in 2016, while Basque and another language being used as mother language increased from 3% to 5.4% in the same time period. General public attitude towards efforts to promote the Basque language have also been more positive, with the share of people against these efforts falling from 20.9% in 1991 to 16% in 2016.
+In 2021, the study found that in the BAC, when both parents were Basque speakers, 98% of children were only communicated to in Basque, while 2% were communicated to in both Basque and Spanish. When only one parent was a Basque speaker and their first language was Basque, 84% used Basque and Spanish and 16% only Spanish. In Navarre, the family language of 94.3% of the youngest respondents with both Basque parents was Basque. In the Northern Basque Country, however, when both parents were Basque-speaking, just two-thirds transmitted only Basque to their offspring, and as age decreased, the transmission rate also decreased.
+
+Basque is used as a language of commerce both in the Basque Country and in locations around the world where Basques immigrated throughout history.
+
+Dialects
+The modern Basque dialects show a high degree of dialectal divergence, sometimes making cross-dialect communication difficult. This is especially true in the case of Biscayan and Souletin, which are regarded as the most divergent Basque dialects.
+Modern Basque dialectology distinguishes five dialects:
+
+Biscayan or "Western"
+Gipuzkoan or "Central"
+Upper Navarrese
+Navarro-Lapurdian
+Souletin (Zuberoan)
+These dialects are divided in 11 subdialects, and 24 minor varieties among them.
+According to Koldo Zuazo, the Biscayan dialect or "Western" is the most widespread dialect, with around 300,000 speakers out of a total of around 660,000 speakers. This dialect is divided in two minor subdialects: the Western Biscayan and Eastern Biscayan, plus transitional dialects.
+
+Influence on other languages
+Although the influence of the neighbouring Romance languages on the Basque language (especially the lexicon, but also to some degree Basque phonology and grammar) has been much more extensive, it is usually assumed that there has been some feedback from Basque into these languages as well. In particular Gascon and Aragonese, and to a lesser degree Spanish are thought to have received this influence in the past. In the case of Aragonese and Gascon, this would have been through substrate interference following language shift from Aquitanian or Basque to a Romance language, affecting all levels of the language, including place names around the Pyrenees.
+Although a number of words of alleged Basque origin in the Spanish language are circulated (e.g. anchoa 'anchovies', bizarro 'dashing, gallant, spirited', cachorro 'puppy', etc.), most of these have more easily explicable Romance etymologies or not particularly convincing derivations from Basque. Ignoring cultural terms, there is one strong loanword candidate, ezker, long considered the source of the Pyrenean and Iberian Romance words for "left (side)" (izquierdo, esquerdo, esquerre). The lack of initial /r/ in Gascon could arguably be due to a Basque influence but this issue is under-researched.
+The other most commonly claimed substrate influences:
+
+the Old Spanish merger of /v/ and /b/.
+the simple five-vowel system.
+change of initial /f/ into /h/ (e.g. fablar → hablar, with Old Basque lacking /f/ but having /h/).
+voiceless alveolar retracted sibilant [s̺], a sound transitional between laminodental [s] and palatal [ʃ]; this sound also influenced other Ibero-Romance languages and Catalan.
+The first two features are common, widespread developments in many Romance (and non-Romance) languages. The change of /f/ to /h/ occurred historically only in a limited area (Gascony and Old Castile) that corresponds almost exactly to areas where heavy Basque bilingualism is assumed, and as a result has been widely postulated (and equally strongly disputed). Substrate theories are often difficult to prove (especially in the case of phonetically plausible changes like /f/ to /h/). As a result, although many arguments have been made on both sides, the debate largely comes down to the a priori tendency on the part of particular linguists to accept or reject substrate arguments.
+Examples of arguments against the substrate theory, and possible responses:
+
+Spanish did not fully shift /f/ to /h/, instead, it has preserved /f/ before consonants such as /w/ and /ɾ/ (cf fuerte, frente). (On the other hand, the occurrence of [f] in these words might be a secondary development from an earlier sound such as [h] or [ɸ] and learned words (or words influenced by written Latin form). Gascon does have /h/ in these words, which might reflect the original situation.)
+Evidence of Arabic loanwords in Spanish points to /f/ continuing to exist long after a Basque substrate might have had any effect on Spanish. (On the other hand, the occurrence of /f/ in these words might be a late development. Many languages have come to accept new phonemes from other languages after a period of significant influence. For example, French lost /h/ but later regained it as a result of Germanic influence, and has recently gained /ŋ/ as a result of English influence.)
+Basque regularly developed Latin /f/ into /b/ or /p/.
+The same change also occurs in parts of Sardinia, Italy and the Romance languages of the Balkans where no Basque substrate can be reasonably argued for. (On the other hand, the fact that the same change might have occurred elsewhere independently does not disprove substrate influence. Furthermore, parts of Sardinia also have prothetic /a/ or /e/ before initial /r/, just as in Basque and Gascon, which may actually argue for some type of influence between both areas.)
+Beyond these arguments, a number of nomadic groups of Castile are also said to use or have used Basque words in their jargon, such as the gacería in Segovia, the mingaña, the Galician fala dos arxinas and the Asturian Xíriga.
+Part of the Romani community in the Basque Country speaks Erromintxela, which is a rare mixed language, with a Kalderash Romani vocabulary and Basque grammar.
+
+Basque pidgins
+A number of Basque-based or Basque-influenced pidgins have existed. In the 16th century, Basque sailors used a Basque–Icelandic pidgin in their contacts with Iceland. The Algonquian–Basque pidgin arose from contact between Basque whalers and the Algonquian peoples in the Gulf of Saint Lawrence and Strait of Belle Isle.
+
+Phonology
+Vowels
+The Basque language features five vowels: /a/, /e/, /i/, /o/ and /u/ (the same that are found in Spanish, Asturian and Aragonese). In the Zuberoan dialect, extra phonemes are featured:
+
+the close front rounded vowel /y/, graphically represented as ⟨ü⟩;
+a set of contrasting nasal vowels.
+There is no distinctive vowel length in Basque, although vowels can be lengthened for emphasis. The mid vowels /e/ and /o/ are raised before nasal consonants.
+Basque has an a-Elision Rule, according to which the vowel /a/ is elided before any following vowel. This does not prevent the existence of diphthongs with /a/ present.
+
+There are six diphthongs in Basque, all falling and with /i̯/ or /u̯/ as the second element.
+
+Consonants
+In syllable-final position, all plosives are devoiced and are spelled accordingly in Standard Basque. When between vowels, and often when after /r/ or /l/, the voiced plosives /b/, /d/, and /ɡ/, are pronounced as the corresponding fricatives [β], [ð], and [ɣ].
+Basque has a distinction between laminal and apical articulation for the alveolar fricatives and affricates. With the laminal alveolar fricative [s̻], the friction occurs across the blade of the tongue, the tongue tip pointing toward the lower teeth. This is the usual /s/ in most European languages. It is written with an orthographic ⟨z⟩. By contrast, the voiceless apicoalveolar fricative [s̺] is written ⟨s⟩; the tip of the tongue points toward the upper teeth and friction occurs at the tip (apex). For example, zu 'you' (singular, respectful) is distinguished from su 'fire'. The affricate counterparts are written ⟨tz⟩ and ⟨ts⟩. So, etzi 'the day after tomorrow' is distinguished from etsi 'to give up'; atzo 'yesterday' is distinguished from atso 'old woman'.
+In the westernmost parts of the Basque country, only the apical ⟨s⟩ and the alveolar affricate ⟨tz⟩ are used.
+Basque also features postalveolar sibilants (/ʃ/, written ⟨x⟩, and /tʃ/, written ⟨tx⟩).
+
+The letter ⟨j⟩ has a variety of realisations according to the regional dialect: [j, dʒ, x, ʃ, ɟ, ʝ], as pronounced from west to east in south Bizkaia and coastal Lapurdi, central Bizkaia, east Bizkaia and Gipuzkoa, south Navarre, inland Lapurdi and Low Navarre, and Zuberoa, respectively.
+
+The letter ⟨h⟩ is pronounced in the northern dialects, but not pronounced in the southern ones. Unified Basque spells it except when it is predictable, in a position following a consonant.
+Unless they are recent loanwords (e.g. Ruanda 'Rwanda', radar, robot ... ), words may not have initial ⟨r⟩. In older loans, initial r- took a prosthetic vowel, resulting in err- (Erroma 'Rome', Errusia 'Russia'), more rarely irr- (for example irratia 'radio', irrisa 'rice') and arr- (for example arrazional 'rational').
+Basque does not have /m/ in syllable final position, and syllable-final /n/ assimilates to the place of articulation of following plosives. As a result, /nb/ is pronounced like [mb], and /nɡ/ is realized as [ŋɡ].
+
+Palatalization
+Basque has two types of palatalization, automatic palatalization and expressive palatalization. Automatic palatalization occurs in western Labourd, much of Navarre, all of Gipuzkoa, and nearly all of Biscay. As a result of automatic palatalization, /n/ and /l/ become the palatal nasal [ɲ] and the palatal lateral [ʎ] respectively after the vowel /i/ and before another vowel. An exception is the loanword lili 'lily'. The same palatalization occurs after the semivowel [j] of the diphthongs ai, ei, oi, ui. This palatalization occurs in a wider area, including Soule, all of Gipuzkoa and Biscay, and almost all of Navarre. In a few regions, /n/ and /l/ can be palatalized even in the absence of a following vowel. After palatalization, the semivowel [j] is usually absorbed by the palatal consonant. This can be seen in older spellings, such as malla instead of modern maila 'degree'. That said, the modern orthography for Standard Basque ignores automatic palatalization.
+In certain regions of Gipuzkoa and Biscay, intervocalic /t/ is often palatalized after /i/ and especially [j]. It may become indistinguishable from the affricate /tʃ/, spelled ⟨tx⟩, so aita 'father' may sound like it were spelled atxa or atta. This type of palatalization is far from general, and is often viewed as substandard.
+In Goizueta Basque, there are a few examples of /nt/ being palatalized after /i/, and optional palatalization of /ld/. For example, mintegi 'seedbed' becomes [mincei], and bildots 'lamb' can be /biʎots̺/.
+Basque nouns, adjectives, and adverbs can be expressively palatalized. These express 'smallness', rarely literal and often showing affection, in nouns, and mitigation in adjectives and adverbs. This is often used in the formation of pet names and nicknames. In words containing one or more sibilant, these sibilants are palatalized in order to form the palatalized form. That is, s and z become x, and ts and tz become tx. As a result, gizon 'man' becomes gixon 'little fellow', zoro 'crazy, insane' becomes xoro 'silly, foolish', and bildots 'lamb' becomes bildotx 'lambkin, young lamb'.
+In words without sibilants, /t/, /d/, /n/, and /l/ can become palatalized. This palatalization is indicated in writing with a double consonant, except in the case of palatalized /n/ which is written ⟨ñ⟩. Thus, tanta 'drop' becomes ttantta 'droplet', and nabar 'grey' becomes ñabar 'grey and pretty, greyish'.
+The pronunciation of tt and dd, and the existence of dd, differ by dialect. In the Gipuzkoan and Biscayan dialects tt is often pronounced the same as tx, that is, as [tʃ], and dd does not exist. Likewise, in Goizueta Basque, tt is a voiceless palatal stop [c] and the corresponding voiced palatal stop, [ɟ], is absent except as an allophone of /j/. In Goizueta Basque, /j/ is sometimes the result of an affectionate palatalization of /d/.
+Palatalization of the rhotics is rare and only occurs in the eastern dialects. When palatalized, the rhotics become the palatal lateral [ʎ]. Likewise, palatalization of velars, resulting in tt or tx, is quite rare.
+A few common words, such as txakur 'dog', pronounced /tʃakur/, use palatal sounds even though in current usage they have lost the diminutive sense, the corresponding non-palatal forms now acquiring an augmentative or pejorative sense: zakur 'big dog'.
+
+Sandhi
+There are some rules which govern the behavior of consonants in contact with each other. These apply both within and between words. When two plosives meet, the first one is dropped, and the second must become voiceless. If a sibilant follows a plosive, the plosive is dropped, and the sibilant becomes the corresponding affricate. When a plosive follows an affricate, the affricate becomes a sibilant, and a voiced plosive is devoiced. When a voiced plosive follows a sibilant, it is devoiced except in very slow and careful speech. In the central dialects of Basque, a sibilant turns into an affricate when it follows a liquid or a nasal. When a plosive follows a nasal, there is a strong tendency for it to become voiced.
+
+Stress and pitch
+Basque features great dialectal variation in accentuation, from a weak pitch accent in the western dialects to a marked stress in central and eastern dialects, with varying patterns of stress placement. Stress is in general not distinctive (and for historical comparisons not very useful); there are, however, a few instances where stress is phonemic, serving to distinguish between a few pairs of stress-marked words and between some grammatical forms (mainly plurals from other forms), e.g. basóà ('the forest', absolutive case) vs. básoà ('the glass', absolutive case; an adoption from Spanish vaso); basóàk ('the forest', ergative case) vs. básoàk ('the glass', ergative case) vs. básoak ('the forests' or 'the glasses', absolutive case).
+Given its great deal of variation among dialects, stress is not marked in the standard orthography and Euskaltzaindia (the Academy of the Basque Language) provides only general recommendations for a standard placement of stress, basically to place a high-pitched weak stress (weaker than that of Spanish, let alone that of English) on the second syllable of a syntagma, and a low-pitched even-weaker stress on its last syllable, except in plural forms where stress is moved to the first syllable.
+This scheme provides Basque with a distinct musicality that differentiates its sound from the prosodical patterns of Spanish (which tends to stress the second-to-last syllable). Some Euskaldun berriak ('new Basque-speakers', i.e. second-language Basque-speakers) with Spanish as their first language tend to carry the prosodical patterns of Spanish into their pronunciation of Basque, e.g. pronouncing nire ama ('my mum') as nire áma (– – ´ –), instead of as niré amà (– ´ – `).
+
+Morphophonology
+The combining forms of nominals in final /-u/ vary across the regions of the Basque Country. The /u/ can stay unchanged, be lowered to an /a/, or it can be lost. Loss is most common in the east, while lowering is most common in the west. For instance, buru, 'head', has the combining forms buru- and bur-, as in buruko, 'cap', and burko, 'pillow', whereas katu, 'cat', has the combining form kata-, as in katakume, 'kitten'. Michelena suggests that the lowering to /a/ is generalised from cases of Romance borrowings in Basque that retained Romance stem alternations, such as kantu, 'song' with combining form kanta-, borrowed from Romance canto, canta-.
+
+Grammar
+Basque is an ergative–absolutive language. The subject of an intransitive verb is in the absolutive case (which is unmarked), and the same case is used for the direct object of a transitive verb. The subject of the transitive verb is marked differently, with the ergative case (shown by the suffix -k). This also triggers main and auxiliary verbal agreement.
+The auxiliary verb, which accompanies most main verbs, agrees not only with the subject, but with any direct object and the indirect object present. Among European languages, this polypersonal agreement is found only in Basque, some languages of the Caucasus (especially the Kartvelian languages), Mordvinic languages, Hungarian, and Maltese (all non-Indo-European). The ergative–absolutive alignment is also rare among European languages—occurring only in some languages of the Caucasus—but not infrequent worldwide.
+Consider the phrase:
+
+Martin-ek is the agent (transitive subject), so it is marked with the ergative case ending -k (with an epenthetic -e-). Egunkariak has an -ak ending, which marks plural object (plural absolutive, direct object case). The verb is erosten dizkit, in which erosten is a kind of gerund ("buying") and the auxiliary dizkit means "he/she (does) them for me". This dizkit can be split like this:
+
+di- is used in the present tense when the verb has a subject (ergative), a direct object (absolutive), and an indirect object, and the object is him/her/it/them.
+-zki- means the absolutive (in this case the newspapers) is plural; if it were singular there would be no infix; and
+-t or -da- means "to me/for me" (indirect object).
+in this instance there is no suffix after -t. A zero suffix in this position indicates that the ergative (the subject) is third person singular (he/she/it).
+
+The auxiliary verb is composed as di-zki-da-zue and means 'you pl. (do) them for me'
+
+di- indicates that the main verb is transitive and in the present tense
+-zki- indicates that the direct object is plural
+-da- indicates that the indirect object is me (to me/for me; -t becomes -da- when not final)
+-zue indicates that the subject is you (plural)
+The pronoun zuek 'you (plural)' has the same form both in the nominative or absolutive case (the subject of an intransitive sentence or direct object of a transitive sentence) and in the ergative case (the subject of a transitive sentence). In spoken Basque, the auxiliary verb is never dropped even if it is redundant, e.g. dizkidazue in zuek niri egunkariak erosten dizkidazue 'you (pl.) are buying the newspapers for me'. However, the pronouns are almost always dropped, e.g.zuek in egunkariak erosten dizkidazue 'you (pl.) are buying the newspapers for me'. The pronouns are used only to show emphasis: egunkariak zuek erosten dizkidazue 'it is you (pl.) who buys the newspapers for me', or egunkariak niri erosten dizkidazue 'it is me for whom you buy the newspapers'.
+Modern Basque dialects allow for the conjugation of about fifteen verbs, called synthetic verbs, some only in literary contexts. These can be put in the present and past tenses in the indicative and subjunctive moods, in three tenses in the conditional and potential moods, and in one tense in the imperative. Each verb that can be taken intransitively has a nor (absolutive) paradigm and possibly a nor-nori (absolutive–dative) paradigm, as in the sentence Aititeri txapela erori zaio ('The hat fell from grandfather['s head]'). Each verb that can be taken transitively uses those two paradigms for antipassive-voice contexts in which no agent is mentioned (Basque lacks a passive voice, and displays instead an antipassive voice paradigm), and also has a nor-nork (absolutive–ergative) paradigm and possibly a nor-nori-nork (absolutive–dative–ergative) paradigm. This last is exemplified by dizkidazue above. In each paradigm, each constituent noun can take on any of eight persons, five singular and three plural, with the exception of nor-nori-nork in which the absolutive can only be third person singular or plural. The most ubiquitous auxiliary, izan, can be used in any of these paradigms, depending on the nature of the main verb.
+There are more persons in the singular (5) than in the plural (3) for synthetic (or filamentous) verbs because of the two familiar persons—informal masculine and feminine second person singular. The pronoun hi is used for both of them, but where the masculine form of the verb uses a -k, the feminine uses an -n. This is a property rarely found in Indo-European languages. The entire paradigm of the verb is further augmented by inflecting for "listener" (the allocutive) even if the verb contains no second person constituent. If the situation calls for the familiar masculine, the form is augmented and modified accordingly. Likewise for the familiar feminine.
+(Gizon bat etorri da, 'a man has come'; gizon bat etorri duk, 'a man has come [you are a male close friend]', gizon bat etorri dun, 'a man has come [you are a female close friend]', gizon bat etorri duzu, 'a man has come [I talk to you (Sir / Madam)]') This multiplies the number of possible forms by nearly three. Still, the restriction on contexts in which these forms may be used is strong, since all participants in the conversation must be friends of the same sex, and not too far apart in age. Some dialects dispense with the familiar forms entirely. Note, however, that the formal second person singular conjugates in parallel to the other plural forms, perhaps indicating that it was originally the second person plural, later came to be used as a formal singular, and then later still the modern second person plural was formulated as an innovation.
+All the other verbs in Basque are called periphrastic, behaving much like a participle would in English. These have only three forms in total, called aspects: perfect (various suffixes), habitual (suffix -t[z]en), and future/potential (suffix. -ko/-go). Verbs of Latinate origin in Basque, as well as many other verbs, have a suffix -tu in the perfect, adapted from the Latin perfect passive -tus suffix. The synthetic verbs also have periphrastic forms, for use in perfects and in simple tenses in which they are deponent.
+Within a verb phrase, the periphrastic verb comes first, followed by the auxiliary.
+A Basque noun phrase is inflected in 17 different ways for case, multiplied by four ways for its definiteness and number (indefinite, definite singular, definite plural, and definite close plural: euskaldun [Basque speaker], euskalduna [the Basque speaker, a Basque speaker], euskaldunak [Basque speakers, the Basque speakers], and euskaldunok [we Basque speakers, those Basque speakers]). These first 68 forms are further modified based on other parts of the sentence, which in turn are inflected for the noun again. It has been estimated that, with two levels of recursion, a Basque noun may have 458,683 inflected forms.
+
+The common noun liburu 'book' is declined as follows:
+
+The proper name Mikel (Michael) is declined as follows:
+
+Within a noun phrase, modifying adjectives follow the noun. As an example of a Basque noun phrase, etxe zaharrean 'in the old house' is morphologically analysed as follows by Agirre et al.
+
+Basic word order in syntactic construction is subject–object–verb (unlike Spanish, French or English where a subject–verb–object construction is more common). The order of the phrases within a sentence can be changed for thematic purposes, whereas the order of the words within a phrase is usually rigid. As a matter of fact, Basque phrase order is topic–focus, meaning that in neutral sentences (such as sentences to inform someone of a fact or event) the topic is stated first, then the focus. In such sentences, the verb phrase comes at the end. In brief, the focus directly precedes the verb phrase. This rule is also applied in questions, for instance, What is this? can be translated as Zer da hau? or Hau zer da?, but in both cases the question tag zer immediately precedes the verb da. This rule is so important in Basque that, even in grammatical descriptions of Basque in other languages, the Basque word galdegai 'focus' is used.
+In negative sentences, the order changes. Since the negative particle ez must always directly precede the auxiliary, the topic most often comes beforehand, and the rest of the sentence follows. This includes the periphrastic, if there is one: Aitak frantsesa irakasten du, 'Father teaches French', in the negative becomes Aitak ez du frantsesa irakasten, in which irakasten ('teaching') is separated from its auxiliary and placed at the end.
+
+Vocabulary
+Through contact with neighbouring peoples, Basque has adopted many words from Latin, Spanish, French and Gascon, among other languages. There are a considerable number of Latin loans (sometimes obscured by being subject to Basque phonology and grammar for centuries), for example: lore ('flower', from florem), errota ('mill', from rotam, '[mill] wheel'), gela ('room', from cellam), gauza ('thing', from causa).
+
+Writing system
+Basque is written using the Latin script including ⟨ñ⟩ and sometimes ⟨ç⟩ and ⟨ü⟩. Basque does not use ⟨c, q, v, w, y⟩ for native words, but the Basque alphabet (established by Euskaltzaindia) does include them for loanwords:
+
+⟨Aa, Bb, Cc, Dd, Ee, Ff, Gg, Hh, Ii, Jj, Kk, Ll, Mm, Nn, Ññ, Oo, Pp, Qq, Rr, Ss, Tt, Uu, Vv, Ww, Xx, Yy, Zz⟩
+The phonetically meaningful digraphs ⟨dd, ll, rr, ts, tt, tx, tz⟩ are treated as pairs of letters.
+All letters and digraphs represent unique phonemes. The main exception is when ⟨i⟩ precedes ⟨l⟩ and ⟨n⟩, which in most dialects palatalises their sounds into /ʎ/ and /ɲ/, even if these are not written. Hence, Ikurriña can also be written Ikurrina without changing the sound, whereas the proper name Ainhoa requires the mute ⟨h⟩ to break the palatalisation of the ⟨n⟩.
+
+⟨h⟩ is mute in most regions, but it is pronounced in many places in the north-east, the main reason for its existence in the Basque alphabet.
+Its acceptance was a matter of contention during the standardisation process because the speakers of the most extended dialects had to learn where to place ⟨h⟩, silent for them.
+In Sabino Arana's (1865–1903) alphabet, digraphs ⟨ll⟩ and ⟨rr⟩ were replaced with ⟨ĺ⟩ and ⟨ŕ⟩, respectively.
+A typically Basque style of lettering is sometimes used for inscriptions.
+It derives from the work of stone and wood carvers and is characterised by thick serifs.
+
+Number system used by millers
+Basque millers traditionally employed a separate number system of unknown origin. In this system the symbols are arranged either along a vertical line or horizontally. On the vertical line the single digits and fractions are usually off to one side, usually at the top. When used horizontally, the smallest units are usually on the right and the largest on the left. As with the Basque system of counting in general, it is vigesimal (base 20). Although it is in theory capable of indicating numbers above 100, most recorded examples do not go above 100. Fractions are relatively common, especially 1⁄2.
+The exact systems used vary from area to area but generally follow the same principle with 5 usually being a diagonal line or a curve off the vertical line (a V shape is used when writing a 5 horizontally). Units of ten are usually a horizontal line through the vertical. The twenties are based on a circle with intersecting lines. This system is no longer in general use but is occasionally employed for decorative purposes.
+
+Examples
+Article 1 of the Universal Declaration of Human Rights
+Esklabu erremintaria
+Language video gallery
+See also
+Basque dialects
+Vasconic languages
+List of Basques
+Basque Country
+Late Basquisation
+Languages of France
+Languages of Spain
+Aquitanian language
+List of ideophones in Basque
+Wiktionary: Swadesh list of Basque words
+Basque literature
+
+References
+Further reading
+General and descriptive grammars
+Allières, Jacques (1979): Manuel pratique de basque, "Connaissance des langues" v. 13, A. & J. Picard (Paris), ISBN 2-7084-0038-X.
+de Azkue Aberasturi, Resurrección María (1969): Morfología vasca. La Gran enciclopedia vasca, Bilbao 1969.
+Campion, Arturo (1884): Gramática de los cuatro dialectos literarios de la lengua euskara, Tolosa.
+Euskara Institutua (Euskara Institutuaren ataria (UPV - EHU)), University of the Basque Country (UPV/EHU), Sareko Euskal Gramatika, SEG Aurkezpena [Sareko Euskal Gramatika]
+Hualde, José Ignacio & Ortiz de Urbina, Jon (eds.): A Grammar of Basque. Berlin: Mouton de Gruyter, 2003. ISBN 3-11-017683-1.
+King, Alan R. (1994). The Basque Language: A Practical Introduction. Reno: University of Nevada Press. ISBN 0-87417-155-5.
+Lafitte, Pierre (1962): Grammaire basque – navarro-labourdin littéraire. Elkarlanean, Donostia/Bayonne, ISBN 2-913156-10-X. (Dialectal.)
+Lafon, R. (1972): "Basque" In Thomas A. Sebeok (ed.) Current Trends in Linguistics. Vol. 9. Linguistics in Western Europe, Mouton, The Hague, Mouton, pp. 1744–1792. Part 2 The study of languages
+de Rijk, Rudolf P. G. (2008). Standard Basque: a progressive grammar. Cambridge, MA: MIT Press. ISBN 978-0-262-04242-0. OCLC 636283146.
+Tovar, Antonio, (1957): The Basque Language, U. of Pennsylvania Press, Philadelphia.
+Uhlenbeck, C. (1947). "La langue basque et la linguistique générale" [The Basque language and general linguistics]. Lingua (in French). I: 59–76. doi:10.1016/0024-3841(49)90045-5.
+Urquizu Sarasúa, Patricio (2007): Gramática de la lengua vasca. UNED, Madrid, ISBN 978-84-362-3442-8.
+van Eys, Willem J. (1879): Grammaire comparée des dialectes basques, Paris.
+
+Linguistic studies
+Agirre, Eneko, et al. (1992): XUXEN: A spelling checker/corrector for Basque based on two-level morphology.
+Gavel, Henri (1921): Eléments de phonetique basque (= Revista Internacional de los Estudios Vascos = Revue Internationale des Etudes Basques 12, París. (Study of the dialects.)
+Hualde, José Ignacio (1991): Basque phonology, Taylor & Francis, ISBN 978-0-415-05655-7.
+Hualde, José Ignacio; Lujanbio, Oihana; Zubiri, Juan Joxe (2010). "Goizueta Basque" (PDF). Journal of the International Phonetic Association. 40: 113–127. doi:10.1017/S0025100309990260. Archived (PDF) from the original on 28 May 2018.
+Lakarra Andrinua, Joseba A.; Hualde, José Ignacio (eds.) (2006): Studies in Basque and historical linguistics in memory of R. L. Trask – R. L. Trasken oroitzapenetan ikerketak euskalaritzaz eta hizkuntzalaritza historikoaz, (= Anuario del Seminario de Filología Vasca Julio de Urquijo: International journal of Basque linguistics and philology Vol. 40, No. 1–2), San Sebastián.
+Lakarra, J. & Ortiz de Urbina, J.(eds.) (1992): Syntactic Theory and Basque Syntax, Gipuzkoako Foru Aldundia, Donostia-San Sebastian, ISBN 978-84-7907-094-6.
+Orduña Aznar, Eduardo. 2005. Sobre algunos posibles numerales en textos ibéricos. Palaeohispanica 5:491–506. This fifth volume of the journal Palaeohispanica consists of Acta Palaeohispanica IX, the proceedings of the ninth conference on Paleohispanic studies.
+de Rijk, R. (1972): Studies in Basque Syntax: Relative clauses PhD Dissertation, MIT, Cambridge, Massachusetts, US.
+Uhlenbeck, C.C. (1909–1910): "Contribution à une phonétique comparative des dialectes basques", Revista Internacional de los Estudios Vascos = Revue Internationale des Etudes Basques 3 Wayback Machine pp. 465–503 4 Wayback Machine pp. 65–120.
+Zuazo, Koldo (2008): Euskalkiak: euskararen dialektoak. Elkar. ISBN 978-84-9783-626-5.
+
+Lexicons
+Aulestia, Gorka (1989): Basque–English dictionary University of Nevada Press, Reno, ISBN 0-87417-126-1.
+Aulestia, Gorka & White, Linda (1990): English–Basque dictionary, University of Nevada Press, Reno, ISBN 0-87417-156-3.
+Azkue Aberasturi, Resurrección María de (1905): Diccionario vasco–español–francés, Geuthner, Bilbao/Paris (reprinted many times).
+Michelena, Luis: Diccionario General Vasco/Orotariko Euskal Hiztegia. 16 vols. Real academia de la lengua vasca, Bilbao 1987ff. ISBN 84-271-1493-1.
+Morris, Mikel (1998): "Morris Student Euskara–Ingelesa Basque–English Dictionary", Klaudio Harluxet Fundazioa, Donostia
+Sarasola, Ibon (2010–), "Egungo Euskararen Hiztegia EEH" Egungo Euskararen Hiztegia (EEH) - UPV/EHU, Bilbo: Euskara Institutua Euskara Institutuaren ataria (UPV - EHU), The University of the Basque Country UPV/EHU
+Sarasola, Ibon (2010): "Zehazki" Zehazki - UPV/EHU, Bilbo: Euskara Institutua Euskara Institutuaren ataria (UPV - EHU), The University of the Basque Country UPV/EHU
+Sota, M. de la, et al., 1976: Diccionario Retana de autoridades de la lengua vasca: con cientos de miles de nuevas voces y acepciones, Antiguas y modernas, Bilbao: La Gran Enciclopedia Vasca. ISBN 84-248-0248-9.
+Van Eys, W. J. 1873. Dictionnaire basque–français. Paris/London: Maisonneuve/Williams & Norgate.
+
+Basque corpora
+Sarasola, Ibon; Pello Salaburu, Josu Landa (2011): "ETC: Egungo Testuen Corpusa" Egungo Testuen Corpusa (ETC) - UPV/EHU, Bilbo: Euskara Institutua Euskara Institutuaren ataria (UPV - EHU), The University of the Basque Country UPV/EHU University of the Basque Country
+Sarasola, Ibon; Pello Salaburu, Josu Landa (2009): "Ereduzko Prosa Gaur, EPG" Ereduzko Prosa Gaur (EPG) - UPV/EHU, Bilbo: Euskara Institutua Euskara Institutuaren ataria (UPV - EHU), The University of the Basque Country UPV/EHU University of the Basque Country
+Sarasola, Ibon; Pello Salaburu, Josu Landa (2009–): "Ereduzko Prosa Dinamikoa, EPD" Ereduzko Prosa Dinamikoa (EPD) - UPV/EHU, Bilbo: Euskara Institutua Euskara Institutuaren ataria (UPV - EHU), The University of the Basque Country UPV/EHU University of the Basque Country
+Sarasola, Ibon; Pello Salaburu, Josu Landa (2013): "Euskal Klasikoen Corpusa, EKC" Euskal Klasikoen Corpusa (EKC) - UPV/EHU, Bilbo: Euskara Institutua Euskara Institutuaren ataria (UPV - EHU), The University of the Basque Country UPV/EHU University of the Basque Country
+Sarasola, Ibon; Pello Salaburu, Josu Landa (2014): "Goenkale Corpusa" Goenkale Corpusa - UPV/EHU, Bilbo: Euskara Institutua Euskara Institutuaren ataria (UPV - EHU), The University of the Basque Country UPV/EHU University of the Basque Country
+Sarasola, Ibon; Pello Salaburu, Josu Landa (2010): "Pentsamenduaren Klasikoak Corpusa" Pentsamenduaren Klasikoak Corpusa - UPV/EHU, Bilbo: Euskara Institutua Euskara Institutuaren ataria (UPV - EHU), The University of the Basque Country UPV/EHU University of the Basque Country
+
+Other
+Agirre Sorondo, Antxon. 1988. Tratado de Molinología: Los molinos en Guipúzcoa. San Sebastián: Eusko Ikaskunza-Sociedad de Estudios Vascos. Fundación Miguel de Barandiarán.
+Bakker, Peter (1987). "A Basque Nautical Pidgin: A Missing Link in the History of Fu". Journal of Pidgin and Creole Languages. 2 (1): 1–30. doi:10.1075/jpcl.2.1.02bak.
+Bakker, Peter, et al. 1991. Basque pidgins in Iceland and Canada. Anejos del Anuario del Seminario de Filología Vasca "Julio de Urquijo", XXIII.
+Deen, Nicolaas Gerard Hendrik. 1937. Glossaria duo vasco-islandica. Amsterdam. Reprinted 1991 in Anuario del Seminario de Filología Vasca Julio de Urquijo, 25(2):321–426.
+Hualde, José Ignacio (1984). "Icelandic Basque pidgin". Journal of Basque Studies in America. 5: 41–59.
+
+History of the language and etymologies
+Agirrezabal, Lore (2003). Erromintxela, euskal ijitoen hizkera [Rommintxela, the language of the Basque gypsies] (in Basque). San Sebastián: Argia.
+Azurmendi, Joxe: "Die Bedeutung der Sprache in Renaissance und Reformation und die Entstehung der baskischen Literatur im religiösen und politischen Konfliktgebiet zwischen Spanien und Frankreich" In: Wolfgang W. Moelleken (Herausgeber), Peter J. Weber (Herausgeber): Neue Forschungsarbeiten zur Kontaktlinguistik, Bonn: Dümmler, 1997. ISBN 978-3537864192
+Hualde, José Ignacio; Lakarra, Joseba A. & R.L. Trask (eds) (1996): Towards a History of the Basque Language, "Current Issues in Linguistic Theory" 131, John Benjamin Publishing Company, Amsterdam, ISBN 978-1-55619-585-3.
+Michelena, Luis, 1990. Fonética histórica vasca. Bilbao. ISBN 84-7907-016-1
+Lafon, René (1944): Le système du verbe basque au XVIe siècle, Delmas, Bordeaux.
+Löpelmann, Martin (1968): Etymologisches Wörterbuch der baskischen Sprache. Dialekte von Labourd, Nieder-Navarra und La Soule. 2 Bde. de Gruyter, Berlin (non-standard etymologies; idiosyncratic).
+Orpustan, J. B. (1999): La langue basque au Moyen-Age. Baïgorri, ISBN 2-909262-22-7.
+Pagola, Rosa Miren. 1984. Euskalkiz Euskalki. Vitoria-Gasteiz: Eusko Jaurlaritzaren Argitalpe.
+Rohlfs, Gerhard. 1980. Le Gascon: études de philologie pyrénéenne. Zeitschrift für Romanische Philologie 85.
+Trask, R.L.: History of Basque. New York/London: Routledge, 1996. ISBN 0-415-13116-2.
+Trask, R.L. † (edited by Max W. Wheeler) (2008): Etymological Dictionary of Basque, University of Sussex (unfinished). Also "Some Important Basque Words (And a Bit of Culture)" Buber's Basque Page: The Larry Trask Archive: Some Important Basque Words (And a Bit of Culture)
+Zuazo, Koldo (2010). El euskera y sus dialectos. Zarautz (Gipuzkoa): Alberdania. ISBN 978-84-9868-202-1.
+
+Relationship to other languages
+Proto-Indo-European
+Blevins, Juliette (2018). "Advances in Proto-Basque Reconstruction with Evidence for the Proto-Indo-European-Euskarian Hypothesis". Routledge & CRC Press. Retrieved 27 March 2024.
+
+General reviews of the theories
+Jacobsen, William H. Jr. (1999): "Basque Language Origin Theories" In Basque Cultural Studies, edited by William A. Douglass, Carmelo Urza, Linda White, and Joseba Zulaika, 27–43. Basque Studies Program Occasional Papers Series, No. 5. Reno: Basque Studies Program, University of Nevada, Reno.
+Lakarra Andrinua, Joseba (1998): "Hizkuntzalaritza konparatua eta aitzineuskararen erroa" (in Basque), Uztaro 25, pp. 47–110, (includes review of older theories).
+Lakarra Andrinua, Joseba (1999): "Ná-De-Ná" (in Basque), Uztaro 31, pp. 15–84.
+Trask, R.L. (1995): "Origin and Relatives of the Basque Language : Review of the Evidence" in Towards a History of the Basque Language, ed. J. Hualde, J. Lakarra, R.L. Trask, John Benjamins, Amsterdam / Philadelphia.
+Trask, R.L.: History of Basque. New York/London: Routledge, 1996. ISBN 0-415-13116-2; pp. 358–414.
+
+Afroasiatic hypothesis
+Schuchardt, Hugo (1913): "Baskisch-Hamitische wortvergleichungen" Revista Internacional de Estudios Vascos = "Revue Internationale des Etudes Basques" 7:289–340.
+Mukarovsky, Hans Guenter (1964/66): "Les rapports du basque et du berbère", Comptes rendus du GLECS (Groupe Linguistique d'Etudes Chamito-Sémitiques) 10:177–184.
+Mukarovsky, Hans Guenter (1972). "El vascuense y el bereber". Euskera. 17: 5–48.
+Trombetti, Alfredo (1925): Le origini della lingua basca, Bologna, (new edit ISBN 978-88-271-0062-2).
+
+Dené–Caucasian hypothesis
+Bengtson, John D. (1999): The Comparison of Basque and North Caucasian. in: Mother Tongue. Journal of the Association for the Study of Language in Prehistory. Gloucester, Mass.
+Bengtson, John D (2003). "Notes on Basque Comparative Phonology" (PDF). Mother Tongue. VIII: 23–39.
+Bengtson, John D. (2004): "Some features of Dene–Caucasian phonology (with special reference to Basque)." Cahiers de l'Institut de Linguistique de Louvain (CILL) 30.4, pp. 33–54.
+Bengtson, John D.. (2006): "Materials for a Comparative Grammar of the Dene–Caucasian (Sino-Caucasian) Languages." (there is also a preliminary draft)
+Bengtson, John D. (1997): Review of "The History of Basque". London: Routledge, 1997. Pp.xxii,458" by R.L. Trask.
+Bengtson, John D., (1996): "A Final (?) Response to the Basque Debate in Mother Tongue 1."
+Trask, R.L. (1995). "Basque and Dene–Caucasian: A Critique from the Basque Side". Mother Tongue. 1: 3–82.
+
+Caucasian hypothesis
+Bouda, Karl (1950): "L'Euskaro-Caucasique" Boletín de la Real Sociedad Vasca de Amigos del País. Homenaje a D. Julio de Urquijo e Ybarra vol. III, San Sebastián, pp. 207–232.
+Klimov, Georgij A. (1994): Einführung in die kaukasische Sprachwissenschaft, Buske, Hamburg, ISBN 3-87548-060-0; pp. 208–215.
+Lafon, René (1951). "Concordances morphologiques entre le basque et les langues caucasiques" [Morphological concordances between Basque and languages]. Word (in French). 7 (3): 227–244. doi:10.1080/00437956.1951.11659408.
+Lafon, René (1952). "Études basques et caucasiques" [Basque and Caucasian studies]. Word (in French). 8: 80–94. doi:10.1080/00437956.1952.11659423.
+Trombetti, Alfredo (1925): Le origini della lingua basca, Bologna, (new edit ISBN 978-88-271-0062-2).
+Míchelena, Luis (1968): "L'euskaro-caucasien" in Martinet, A. (ed.) Le langage, Paris, pp. 1414–1437 (criticism).
+Uhlenbeck, Christian Cornelius (1924): "De la possibilité d' une parenté entre le basque et les langues caucasiques", Revista Internacional de los Estudios Vascos = Revue Internationale des Etudes Basques 15, pp. 565–588.
+Zelikov, Mixail (2005): "L'hypothèse basco-caucasienne dans les travaux de N. Marr" Cahiers de l'ILSL, N° 20, pp. 363–381.
+(in Russian) Зыцарь Ю. В. O родстве баскского языка с кавказскими // Вопросы языкознания. 1955. No. 5.
+
+Iberian hypothesis
+Bähr, Gerhard (1948): "Baskisch und Iberisch" Eusko Jakintza II, pp. 3–20, 167–194, 381–455.
+Gorrochategui, Joaquín (1993): La onomástica aquitana y su relación con la ibérica, Lengua y cultura en Hispania prerromana : actas del V Coloquio sobre lenguas y culturas de la Península Ibérica: (Colonia 25–28 de Noviembre de 1989) (Francisco Villar and Jürgen Untermann, eds.), ISBN 84-7481-736-6, pp. 609–634.
+Rodríguez Ramos, Jesús (2002). La hipótesis del vascoiberismo desde el punto de vista de la epigrafía íbera, Fontes linguae vasconum: Studia et documenta, 90, pp. 197–218, ISSN 0046-435X.
+Schuchardt, Hugo Ernst Mario (1907): Die Iberische Deklination, Wien.
+Villamor, Fernando (2020) A basic dictionary and grammar of the Iberian language
+
+Uralic-Altaic hypothesis
+Bonaparte, Louis Lucien (1862): Langue basque et langues finnoises, London.
+
+Vasconic-Old European hypothesis
+Vennemann, Theo (2003): Europa Vasconica – Europa Semitica, Trends in Linguistics. Studies and Monographs 138, De Gruyter, Berlin, ISBN 978-3-11-017054-2.
+Vennemann, Theo (2007): "Basken wie wir: Linguistisches und Genetisches zum europäischen Stammbaum", BiologenHeute 5/6, 6–11.
+
+Other theories
+Thornton, R.W. (2002): Basque Parallels to Greenberg's Eurasiatic. in: Mother Tongue. Gloucester, Mass., 2002.
+
+External links
+
+Official website – Euskaltzaindia (The Royal Academy of the Basque Language)
+An overview of language technology tools for Basque: Automatic translators for Basque, dictionaries, resources to learn Basque... (~ 2016)
+Euskara Institutua, The University of the Basque Country, UPV/EHU
+Ahotsak.eus - Basque Oral Archive

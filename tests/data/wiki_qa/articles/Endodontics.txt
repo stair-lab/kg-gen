@@ -1,0 +1,77 @@
+Endodontics (from Greek  endo- 'inside' and  odont- 'tooth') is the dental specialty concerned with the study and treatment of the dental pulp.
+
+Overview
+Endodontics encompasses the study (practice) of the basic and clinical sciences of normal dental pulp, the etiology, diagnosis, prevention, and treatment of diseases and injuries of the dental pulp along with associated periradicular conditions.
+In clinical terms, endodontics involves either preserving part, or all of the dental pulp in health, or removing all of the pulp in irreversible disease. This includes teeth with irreversibly inflamed and infected pulpal tissue. Not only does endodontics involve treatment when a dental pulp is present, but also includes preserving teeth which have failed to respond to non-surgical endodontic treatment, or for teeth that have developed new lesions, e.g., when root canal re-treatment is required, or periradicular surgery.
+Endodontic treatment is one of the most common procedures. If the dental pulp (containing nerves, arterioles, venules, lymphatic tissue, and fibrous tissue) becomes diseased or injured, endodontic treatment is required to save the tooth.
+
+Procedures
+Root canal treatment
+Root canal treatment is a dental procedure used to treat infected tooth pulp which would be otherwise extracted. The pulp is the soft tissue core of the tooth which contains nerves, blood supply and connective tissue necessary for tooth health. This is usually caused when bacteria enter the pulp through a deep cavity or failed filling.
+Root canal treatment is required when the dental pulp is irreversibly damaged and involves both coronal and apical pulp. Root canal treatment can also be carried out on teeth with doubtful pulpal state before placing post-retained crowns and overdentures. Root canal therapy is not only performed when pain relief from an infected or inflamed pulp is required, it is also done to prevent adverse signs and symptoms from the surrounding sequelae and promote the healing and repair of the surrounding periradicular tissues. An example of this is if there is trauma to a front tooth which has caused it to be avulsed from the bony socket; endodontic treatment is required following re-implantation to preserve the aesthetics and function of the tooth, even though there may be no adverse symptoms of the dental pulp, or pain present at the time.
+Prior to root canal treatment, clinical examination and radiographic examinations are carried out to diagnose and plan treatment. Local anaesthesia is delivered to make the procedure pain free. The tooth to be treated is then isolated using a rubber dam, which prevents saliva entering the tooth during treatment and protects the airway from the fine files and strong chemicals used. The root canal treatment procedure can be carried out over single or multiple appointments. Root canal treatment involves:
+
+Removing the damaged and infected pulp
+Shaping the entire root canal system
+Cleaning and disinfecting the entire root canal system
+Filling and sealing the root canal system
+Placing a direct restoration such as composite filling or indirect restoration such as a crown
+Instrument fractures are common procedural mishaps in root canal treatment. It is essential to prevent instrument fractures. The success of removing a broken instrument depends on the location, direction and type of instrument. A sodium hypochlorite accident can result in long-term functional and aesthetic complications. Extrusion of sodium hypochlorite irrigating solution during a root canal procedure can cause a severe inflammatory reaction and tissue damage. Treatment is provided based on the severity of the injury.  Tooth discolouration as a result of root canal treatment can occur if the pulpal tissue remnants are not completely removed or if a root canal sealer material containing silver is used.
+
+Periradicular surgery
+Periradicular surgeries involve the root surface. These include apicoectomy (removal of a root end), root resection (removal of an entire root), repair of an injured root due to perforation or resorption, removal of broken fragments of the tooth or a filling material, and exploratory surgery to look for root fractures.
+
+Apicoectomy
+An apicoectomy is a surgical procedure through which the apex of a root is resected, and a root-end filling is placed, preventing bacterial leakage into the root canal system from the periradicular tissues. A microsurgical technique is used to carry out apicoectomy, which improves post-operative healing.
+An apicoectomy can be carried out when a previous root canal treatment fails, and re-root canal treatment is not possible. This may be as a result of anatomical features, such as root dilaceration, which can compromise the completion of cleaning and obturating the root canal system. Procedural errors, including ledges or perforations, may also be indications for an apicectomy.
+Local anaesthetic is utilised to achieve anaesthesia as well as haemostasis for improved visualisation. A flap in the gum is designed, and then raised to allow for exposure of the periapical lesion. Bone removal (osteotomy) is carried out to enable access to root apex, and diseased tissue is removed at this point through curettage. The root end resection is carried out, removing 3mm apically. The canal(s) is then obturated, and the flap is sutured. There are a number of root-end filling materials available, including zinc oxide eugenol cements, and mineral trioxide aggregate.
+Complications that may arise include:
+
+pain: anti-inflammatory agents or analgesics should be taken
+swelling: intermittent ice will aid in eradicating this. Swelling resolves usually within 24–48 hours.
+ecchymosis (discolouration): this will often occur distant from the surgical site
+paraesthesia: usually transient as a result of inflammatory swelling, and sensation will return to normal in 4 weeks
+serious infection is rare, but can be treated with antibiotics, which should be administered with caution to avoid bacterial resistance 
+maxillary sinus perforation
+
+Other procedures
+Other non-surgical endodontic procedures include pulp capping, pulpotomy, apexification, and pulpal regeneration. Hemisection, where a root and its overlying portion of the crown are separated from the rest of the tooth and optionally removed, is another (non-periradicular) endodontic surgery.
+
+Tools
+Microsurgical endodontics, the use of magnification devices such as microscopes, and dental loupes, has been widely accepted among endodontists and practitioners; its use is believed to increase accuracy and visualization in the operating field.  However, a Cochrane review in 2015 found no evidence to determine whether there is a difference in the outcome of a procedure done by magnification devices or a conventional procedure done with no magnification. The American Association of Endodontists strongly encourages its members to pursue the use of an oral microscope to ensure the highest level of excellence.
+The use of a CBCT is also becoming the standard of care.
+
+Training
+Endodontists are specialist dentists with additional training, experience and formal qualifications in endodontic treatment, apicectomies, microsurgery, and dental emergency and trauma management. Endodontics is recognized as a specialty by many national dental organizations including the Dental Board of Australia, British General Dental Council, American Dental Association, Royal College of Dentists of Canada, Indian Dental Association, and Royal Australasian College of Dental Surgeons.
+
+Australia
+In Australia, endodontics is recognized as one of the thirteen registered dental specialties. In addition to a dental degree, endodontists have an additional three years of postgraduate University training in the area of endodontics to be recognized and registered by the Dental Board of Australia. A general dentist is permitted to perform endodontic treatment, but must be competent in the skills required for the treatment and refer complex cases for specialist management.
+
+United States
+In the United States after finishing a dental degree, a dentist must undergo 2–3 additional years of postgraduate training to become an endodontist. American Dental Association (ADA) accredited programs are a minimum of two years in length. Following successful completion of this training, the dentist becomes eligible to sit for the American Board Of Endodontology examination. Successful completion of board certification results in Diplomate status in the American Board of Endodontics.
+Although general dentists can perform endodontic treatment, there are several things which set endodontists apart. Endodontists use microscopes during treatment to better treat the small internal anatomy of teeth without taking away too much tooth structure, or causing iatrogenic damage. Also, endodontists use CBCT (3D imaging) to assess case difficulty and for diagnosis and treatment planning of endodontic cases.
+
+See also
+American Association of Endodontists
+Dental implant
+Endodontic therapy
+Journal of Endodontics
+Oral and maxillofacial surgery
+Ralph Frederick Sommer, an early developer of endodontics
+Regenerative endodontics
+Root canal
+
+References
+External links
+Organizations
+American Association of Endodontists
+American Board of Endodontics Archived 2013-02-24 at the Wayback Machine
+British Endodontic Society
+Canadian Academy of Endodontics
+European Society of Endodontology
+Indian Association of Conservative Dentistry and Endodontics
+International Federation of Endodontic Associations
+
+Publications
+Journal of Endodontics Research (JofER)
+International Endodontic Journal

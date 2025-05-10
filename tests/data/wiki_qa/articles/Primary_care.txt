@@ -1,0 +1,77 @@
+Primary care is a model of health care that supports first-contact, accessible, continuous, comprehensive, and coordinated person-focused care. It aims to optimise population health and reduce disparities across the groups by ensuring equitable access to services for all subgroups. 
+Primary care is the day-to-day healthcare given by a health care provider. Typically, this provider acts as the first contact and principal point of continuing care for patients within a healthcare system, and coordinates any additional care the patient may require. Patients commonly receive primary care from professionals such as a primary care physician (general practitioner or family physician), a physician assistant, a physical therapist, or a nurse practitioner. In some localities, such a professional may be a registered nurse, a pharmacist, a clinical officer (as in parts of Africa), or an Ayurvedic or other traditional medicine professional (as in parts of Asia). Depending on the nature of the health condition, patients may then be referred for secondary or tertiary care.
+
+Background
+The World Health Organization attributes the provision of essential primary care as an integral component of an inclusive primary healthcare strategy. Primary care involves the widest scope of healthcare, including all ages of patients, patients of all socioeconomic and geographic origins, patients seeking to maintain optimal health, and patients with all manner of acute and chronic physical, mental and social health issues, including multiple chronic diseases. Consequently, a primary care practitioner must possess a wide breadth of knowledge in many areas. Continuity is a key characteristic of primary care, as patients usually prefer to consult the same practitioner for routine check-ups and preventive care, health education, and every time they require an initial consultation about a new health problem. Collaboration among providers is a desirable characteristic of primary care.
+The International Classification of Primary Care (ICPC) is a standardized tool for understanding and analyzing information on interventions in primary care by the reason for the patient visit. Common chronic illnesses usually treated in primary care may include, for example: hypertension, angina, diabetes, asthma, COPD, depression and anxiety, back pain, arthritis or thyroid dysfunction. Primary care also includes many basic maternal and child health care services, such as family planning services and vaccinations.
+In context of global population ageing, with increasing numbers of older adults at greater risk of chronic non-communicable diseases, rapidly increasing demand for primary care services is expected around the world, in both developed and developing countries.
+Funding for primary care varies a great deal between different countries: general taxation, national insurance systems, private insurance and direct payment by patients are all used, sometimes in combination. The payment system for primary care physicians also varies. Some are paid by fee-for-service and some by capitation for a list of registered patients.
+
+Primary care by region
+Canada
+In Canada, access to primary and other healthcare services is guaranteed for all citizens through the Canada Health Act.
+
+Hong Kong
+The Hong Kong Special Administrative Region Government's 2016 Policy Address recommended strengthening the development of primary care and establishing an electronic database of the "Primary Care Guide" to facilitate public consultation. The Department of Health developed reference profiles for preventive care for some chronic diseases.
+In 2017, the policy address recommended the establishment of a primary health care development steering committee to comprehensively review the planning of primary health care services and provide community medical services through regional medical and social cooperation.
+The 2018 policy address proposed the establishment of the first district health centre and promoted the establishment of district centre in other districts.
+The Hong Kong Food and Health Bureau established the Primary Healthcare Office on March 1, 2019, to monitor and supervise the development of primary health care services. In the process of developing the district health centers, regional health stations will be set up in various districts as transitional units offering the public with primary care services.
+
+Nigeria
+In Nigeria, healthcare is a concurrent responsibility of three tiers of government. Local governments focus on the delivery of primary care (e.g. through a system of dispensaries), state governments manage the various general hospitals (secondary care), while the federal government's role is mostly limited to coordinating the affairs of the Federal Medical Centres and university teaching hospitals (tertiary care).general medical
+
+Poland
+Basic Primary care, (Polish: Podstawowa Opieka Zdrowotna, POZ) is a basic, common element of the health care system in Poland.
+The basic health care unit (formerly: health care facility) is a medical entity that provides comprehensive care for people who have declared their willingness to use the services of a family doctor or another doctor who has the right to create an active list of patients. This means treatment and prevention of diseases, rehabilitation, as well as adjudication on the state of health. For a health care center to become a primary care provider, it must also provide care for its health visitor and midwife.
+Since 2007, only General Practitioners, doctors undergoing specialization in family medicine, and doctors who have previously acquired the right to create an active list due to seniority in POZ before 2007 can be doctors creating active primary care lists. The currently pending proposals of the Ministry of Health, granting the right to create an active list to internists and pediatricians without experience of working in primary care, met with severe criticism of all family medicine organizations.
+In organizational terms, POZ can act as:
+
+non-public healthcare facility (NZOZ) - private company
+independent public health care institution (SPZOZ) - a state unit or subordinate to local government
+individual medical practice - private medical or nursing practice
+group medical practice - a group of private medical or nursing practices
+group / individual practice of community and family nurses
+group / individual practice of community midwives.
+The Act of October 27, 2017 on basic health care (Journal of Laws of 2020, item 172) has been in force since 2017.
+POZ clinics are independent companies (except SPZOZ), however, the services they provide are free for insured persons when POZ has a contract with the National Health Fund.
+
+Russia
+Primary health care (Russian: Первичная медико-санитарная помощь) in the Russian Federation is free (as part of territorial compulsory health insurance programs).
+Primary health care includes measures for the prevention, diagnosis, treatment of diseases and conditions, medical rehabilitation, monitoring the course of pregnancy, the formation of a healthy lifestyle, including reducing the level of risk factors for diseases, and sanitary and hygienic education. Primary health care is provided to citizens on an outpatient basis and in an inpatient setting, in planned and emergency forms.
+Types of primary health care:
+
+primary pre-medical health care
+primary medical care
+primary specialized health care
+Primary pre-medical health care is provided by paramedics, obstetricians and other medical workers with secondary medical education.
+Primary medical health care is provided by general practitioners, district general practitioners, pediatricians, district general pediatricians and general practitioners (family doctors). Primary specialized health care is provided by specialist doctors, including medical specialists from medical organizations that provide specialized, including high-tech, medical care.
+
+United Kingdom
+In the United Kingdom, patients can access primary care services through their local general practice, community pharmacy, optometrist, dental surgery and community hearing care providers. Services are generally provided free-at-the-point-contact through the National Health Service.  In the UK, unlike many other countries, patients do not normally have direct access to hospital consultants and the GP controls access to secondary care.  This practice is referred to as "gatekeeping"; the future of this role has been questioned by researchers who conclude "Gatekeeping policies should be revisited to accommodate the government's aim to modernise the NHS in terms of giving patients more choice and facilitate more collaborative work between GPs and specialists. At the same time, any relaxation of gatekeeping should be carefully evaluated to ensure the clinical and non-clinical benefits outweigh the costs".
+
+United States
+As of 2012, there were about six primary care professional societies in the United States, including American College of Physicians, American Academy of Family Physicians, the Society of General Internal Medicine, the American Academy of Pediatrics, the American Osteopathic Association, and the American Geriatrics Society.
+A 2009 report by the New England Healthcare Institute determined that increased demand for primary care by older, sicker patients and decreased supply of primary care practitioners has led to a crisis in primary care delivery. The research identified a set of innovations that could enhance the quality, efficiency, and effectiveness of primary care in the United States.
+On March 23, 2010, President Obama signed the Patient Protection and Affordable Care Act (ACA) into law. The law is estimated to have expanded health insurance coverage by 20 million people by early 2016 and is expected to expand health care to 34 million people by 2021. The success of the expansion of health insurance under the ACA in large measure depends on the availability of primary care physicians. The ACA has drastically exacerbated the projected deficit of primary care physicians needed to ensure care for insured Americans. According to the Association of American Medical Colleges (AAMC), without the ACA, the United States would have been short roughly 64,000 physicians by 2020; with the implementation of the ACA, it will be 91,000 physicians short. According to the AAMC's November 2009 physician work force report, nationally, the rate of physicians providing primary care is 79.4 physicians per 100,000 residents.
+Primary healthcare results in better health outcomes, reduced health disparities, and lower spending, including on avoidable emergency department visits and hospital care. That said, primary care physicians are an important component in ensuring that the healthcare system as a whole is sustainable. However, despite their importance to the healthcare system, the primary care position has suffered in terms of its prestige in part due to the differences in salary compared to doctors that decide to specialize. A 2010 national study of physician wages conducted by the UC Davis Health System found that specialists are paid as much as 52 percent more than primary care physicians, even though primary care physicians see far more patients.
+In 2005, primary care physicians earned $60.48 per hour; specialists, on average earned $88.34. A follow-up study conducted by the UC Davis Health System found that earnings throughout the careers of primary care physicians averaged as much as $2.8 million less than the earnings of their specialist colleagues. This discrepancy in pay has potentially made primary care a less attractive choice for medical school graduates. In 2015, almost 19,000 doctors graduated from American medical schools, and only 7 percent of graduates chose a career in primary care. The average age of a primary care physician in the United States is 47 years old, and one-quarter of all primary care physicians are nearing retirement. Fifty years ago, roughly half of the physicians in America practiced primary care; today, fewer than one-third of them do.
+Projections show that by the year 2033, the population of individuals 65 and older will increase by 45.1%, creating a demand for primary care physicians that is greater than the supply.
+The medical home model is intended to help coordinate care with the primary care provider at the center of the patient's healthcare.
+
+Strategies to address the primary care shortage
+The Patient Protection Affordable Care Act contains several provisions to increase primary care capacity. These provisions are directed towards medical school graduates and include payment reform, student loan forgiveness programs, and increased primary care residency positions  The PPACA also provides funding and mandates to increase the role of mid-level practitioners like physician assistants and nurse practitioners to enhance the primary care workforce. The PPACA is projected to increase patient demand for primary care services. By adopting new patient care delivery models that include physicians working in tandem with physician assistants and nurse practitioners, the demand for future primary care services could be met. Consumer surveys have found the American public to be open to a greater role for physician extenders in the primary care setting. Policies and laws, primarily at the state level, would need to redefine and reallocate the roles and responsibilities for non-physician licensed providers to optimize these new models of care.
+According to  a FAIR Health analysis, 29 percent of patients who received medical care in the US between 2016 and 2022 did not see a primary care doctor.
+
+Shared-decision making
+Involving older patients
+There is currently limited evidence to form a robust conclusion that involving older patients with multiple long-term conditions in decision-making during primary care consultations has benefits. Examples of patient involvement in decision-making about their health care include patient workshops and coaching, individual patient coaching. Further research in this developing area is needed.
+
+See also
+References
+External links
+
+Defining Primary Care from Institute of Medicine IOM – Primary Care: America's Health in a New Era (1996)
+Primary Care Definitions from American Academy of Family Physicians AAFP
+Definition of Primary Care from American Medical Association AMA
+Defining primary health care Department of Health United Kingdom UK
+What is primary health care? Aboriginal Medical Services Alliance Northern Territory (AMSANT) Australia

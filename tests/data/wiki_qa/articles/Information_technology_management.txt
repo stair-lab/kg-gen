@@ -1,0 +1,40 @@
+Information technology management (IT management) is the discipline whereby all of the information technology resources of a firm are managed in accordance with its needs and priorities. Managing the responsibility within a company entails many of the basic management functions, like budgeting, staffing, change management, and organizing and controlling, along with other aspects that are unique to technology, like software design, network planning, tech support etc.
+
+Purpose
+The central aim of IT management is to generate value through the use of technology. To achieve this, business strategies and technology must be aligned.
+IT Management is different from management information systems. The latter refers to management methods tied to the automation or support of human decision making. IT Management refers to IT related management activities in organizations. MIS is focused mainly on the business aspect, with a strong input into the technology phase of the business/organization.
+A primary focus of IT management is the value creation made possible by technology. This requires the alignment of technology and business strategies. While the value creation for an organization involves a network of relationships between internal and external environments, technology plays an important role in improving the overall value chain of an organization. However, this increase requires business and technology management to work as a creative, synergistic, and collaborative team instead of a purely mechanistic span of control.
+Historically, one set of resources was dedicated to one particular computing technology, business application or line of business, and managed in a silo-like fashion. These resources supported a single set of requirements and processes, and couldn't easily be optimized or reconfigured to support actual demand. This led technology providers to build out and complement their product-centric infrastructure and management offerings with Converged Infrastructure environments that converge servers, storage, networking, security, management and facilities. The efficiencies of having this type of integrated and automated management environment allows enterprises to get their applications up and running faster, with simpler manageability and maintenance, and enables IT to adjust IT resources (such as servers, storage and networking) quicker to meet unpredictable business demand.
+
+IT management disciplines
+The below concepts are commonly listed or investigated under the broad term IT Management:
+
+Business/IT alignment
+IT governance
+IT financial management
+IT service management
+Information Systems
+Information security
+Sourcing
+IT configuration management
+IT infrastructure
+
+IT managers
+IT managers have a lot in common with project managers but their main difference is one of focus: an IT manager is responsible and accountable for an ongoing program of IT services while the project manager's responsibility and accountability are both limited to a project with a clear start and end date.
+Most IT management programs are designed to educate and develop managers who can effectively manage the planning, design, selection, implementation, use, and administration of emerging and converging information and communications technologies. The program curriculum provides students with the technical knowledge and management knowledge and skills needed to effectively integrate people, information and communication technologies, and business processes in support of organizational strategic goals.
+IT Managers need to know predominantly Technical and Managerial skills such as analyst of computer systems, information security analyst, compute, planning, communication technologies, and business processes.
+Graduates should be able:
+
+to explain the important terminology, facts, concepts, principles, analytic techniques, and theories used in IT management.
+to apply important terminology, facts, concepts, principles, analytic techniques, and theories in IT management when analyzing complex factual situations.
+to integrate (or synthesize) important facts, concepts, principles, and theories in IT management when developing solutions to IT management multifaceted problems in complex situations.
+
+Consequences of IT management deficiencies
+In 2013, hackers managed to install malware with the intent of stealing Target's customers' information. The malware targeted “40 million credit card numbers—and 70 million addresses, phone numbers, and other pieces of personal information”. About six months before this happened, Target invested 1.6 million dollars to install the malware detection tool made by FireEye, whose security product is also used by the CIA. The software spotted the malware, and alert was sent out as intended. However, nothing was done beyond that point. The hackers successfully got away with one third of US Consumers’ confidential  information. Target's security system’s unresponsiveness led to 90 lawsuits being filed against Target, which went on top of another approximate $61 million USD spent just responding to the breach,
+
+See also
+Information Resources Management Journal
+Information infrastructure
+
+
+== References ==

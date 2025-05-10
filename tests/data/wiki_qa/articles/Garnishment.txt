@@ -1,0 +1,50 @@
+Garnishment is a legal process for collecting a monetary judgment on behalf of a plaintiff from a defendant. Garnishment allows the plaintiff (the "garnishor") to take the money or property of the debtor from the person or institution that holds that property (the "garnishee"). A similar legal mechanism called execution allows the seizure of money or property held directly by the debtor.
+Some jurisdictions may allow for garnishment by a tax agency without the need to first obtain a judgment or other court order.
+
+Wages
+Wage garnishment, the most common type of garnishment, is the process of deducting money from an employee's monetary compensation (including salary), usually as a result of a court order. Wage garnishments may continue until the entire debt is paid or arrangements are made to pay off the debt. Garnishments can be taken for any type of debt but common examples of debt that result in garnishments include:
+
+Child support
+Defaulted student loans
+Taxes
+Unpaid court costs
+Court-ordered judgments
+When served on an employer, garnishments are taken as part of the payroll process. When processing payroll, sometimes there is not enough money in the employee's net pay to satisfy all of the garnishments. For example, in a case with federal tax, local tax, and credit card garnishments, the first garnishment taken would be the federal tax garnishments, then local tax garnishments, and, finally, garnishments for the credit card. Employers receive a notice telling them to withhold a certain amount of their employee's wages for payment and cannot refuse to garnish wages. Employers must correctly calculate the amount to withhold, and must make the deductions until the garnishment expires.
+Wage garnishment can negatively affect credit, reputation, and the ability to receive a loan or open a bank account.
+At present four U.S. states—Pennsylvania, North Carolina, South Carolina, and Texas—do not allow wage garnishment at all except for tax-related debt, child support, federally guaranteed student loans, and court-ordered fines or restitution. The federal garnishment limit (with some exceptions like child support and student loans) on a weekly basis is the lower of (A) 25% of one's disposable earnings (what's left after mandatory tax deductions), or (B) the total amount by which one's weekly wage exceeds thirty times the federal hourly minimum wage. Several other states observe maximum thresholds that are lower than the maxima provided by federal law. States may also prohibit garnishment altogether in certain circumstances. For example, in Florida the wages of a person who provides more than half the support for a child or other dependent are exempt from garnishment altogether (though this is subject to waiver). Loans and negotiations with creditors can also help debtors to avoid wage garnishment.
+In Minnesota, there are five limits on wage garnishment: Creditors cannot garnish wages for social security benefits, retirement benefits, welfare payments, workers' compensation benefits, or income associated with disability or unemployment insurance.
+In many states when the person is an employee or appointee of a governmental unit the writ is called a Writ of Sequestration. These are processed by the courts in the same manner as garnishments and are subject to the same wage exemptions.
+In the United States, firing an employee to avoid handling a levy may be a criminal offense. Federal law provides for a fine of up to $1,000 and imprisonment for up to one year on an employer who willfully fires an employee in connection with a garnishment of the employee's earnings.
+
+Attachments
+The other type of garnishment, also known as attachment (or attachment of earnings),  requires the garnishee to deliver all the defendant's money and/or property in the hands of the garnishee at the time of service of process to the court, to be paid over to the plaintiff. Since this type of garnishment is not continuing in nature, but is not subject to the type of restrictions that apply to wage garnishment, it is most often used against banks, or other persons or companies that incur liquidated obligations in the regular course of business. The garnishment should not begin during the pay period but instead on the following pay period.
+
+Federal taxes
+Under U.S. federal tax law, a garnishment by the Internal Revenue Service (IRS) is a form of administrative levy. In the case of an IRS levy, no court order is required.
+Only a few requirements must be met before the IRS starts a wage garnishment:
+
+The IRS must have assessed the tax and must have sent a written Notice and Demand for Payment;
+The taxpayer must have neglected or refused to pay the tax within the time prescribed in the notice</ref>
+and,
+The IRS must have sent a Final Notice of Intent to Levy and Notice of Your Right to A Hearing (levy notice) at least 30 days before the levy.
+The IRS may serve the Final Notice in person, may leave the notice at the taxpayer's home or usual place of business, or may send it to the last known address by certified or registered mail. The IRS is required to send the Final Notice to the last address known to the agency. The taxpayer does not need to actually receive the notice for the notice to be effective. Many taxpayers never actually receive the final notice. Those taxpayers may not realize they are in danger of receiving a levy until their wages are actually garnished.ha
+
+Student Loan Wage Garnishment Cleanup
+People who have their wages garnished due to default of educational loan payment can do four procedural things. 
+The first thing to do is consolidate all the loans.  This is not refinancing.  It is enrolling in a plan or making 3 on time payments before the consolidation process.  This most benefits those with federal student loans. 
+Then during 10 consecutive months, make 9 monthly payments after entering a loan rehabilitation program.  This action especially benefits people with federal loans. 
+Then negotiate a repayment plan with the lender or debt collector. A lower debt repayment amount can be achieved. 
+If there are other problems, then debtors can request to qualify for a reduced garnishment or there will be a 12 month pause on garnishing the wages.
+
+See also
+Attachment of earnings
+Collections
+Distraint
+Judgment (law)
+Student loan default in the United States
+Tax refund interception
+Unreported employment
+Sequestration (law)
+
+
+== References ==

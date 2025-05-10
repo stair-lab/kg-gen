@@ -1,0 +1,57 @@
+Computed tomography angiography (also called CT angiography or CTA) is a computed tomography technique used for angiography—the visualization of arteries and veins—throughout the human body. Using contrast injected into the blood vessels, images are created to look for blockages, aneurysms (dilations of walls), dissections (tearing of walls), and stenosis (narrowing of vessel). CTA can be used to visualize the vessels of the heart, the aorta and other large blood vessels, the lungs, the kidneys, the head and neck, and the arms and legs. CTA can also be used to localise arterial or venous bleed of the gastrointestinal system.
+
+Medical uses
+CTA can be used to examine blood vessels in many key areas of the body including the brain, kidneys, pelvis, and the lungs.
+
+Coronary CT angiography
+Coronary CT angiography (CCTA) is the use of CT angiography to assess the arteries of the heart. The patient receives an intravenous injection of contrast and then the heart is scanned using a high speed CT scanner. With the advances in CT technology, patients are typically able to be scanned without needing medicines by simply holding their breath during the scan. CTA is used to assess heart or vessel irregularities, location of stents and whether they are still open, and occasionally to check for atherosclerotic disease. This method displays the anatomical detail of blood vessels more precisely than magnetic resonance imaging (MRI) or ultrasound. Today, many patients can undergo CTA in place of a conventional catheter angiogram, a minor procedure during which a catheter is passed through the blood vessels all the way to the heart. However, CCTA has not fully replaced this procedure. CCTA is able to detect narrowing of blood vessels in time for corrective therapy to be done. CCTA is a useful way of screening for arterial disease because it is safer, much less time-consuming than catheter angiography, and is also a cost-effective procedure.
+
+Aorta and great arteries
+CTA can be used in the chest and abdomen to identify aneurysms in the aorta or other major blood vessels. These areas of weakened blood vessel walls that bulge out can life-threatening if they rupture. CTA is the test of choice when assessing aneurysm before and after endovascular stenting due to the ability to detect calcium within the wall. Another positive of CTA in abdominal aortic aneurysm assessment is that it allows for better estimation of blood vessel dilation and can better detect blood clots compared to standard angiography.
+CTA is used also to identify arterial dissection, including aortic dissection in the aorta or its major branches. Arterial dissection is when the layers of the artery wall peel away from each other; this causes pain and can be life-threatening. CTA is a quick and non-invasive method of identifying dissections and can show the extent of the disease and if there is leakage.
+
+Pulmonary arteries
+CT pulmonary angiogram (CTPA) is used to examine the pulmonary arteries in the lungs, most commonly to rule out pulmonary embolism (PE), a serious but treatable condition. It has become the technique of choice for detection of pulmonary embolism due to its wide availability, short exam time, ability to see other diseases that may present like pulmonary embolisms, and a high degree of confidence in the validity of the test. In this test, a PE will appear as a dark spot inside the blood vessel or a sudden stop of the bright contrast material.
+CT angiography should not be used to evaluate for pulmonary embolism when other tests indicate that there is a low probability of a person having this condition. A D-dimer assay might be a preferred alternative to test for pulmonary embolism, and that test and a low clinical prediction score on the Wells test or Geneva score can exclude pulmonary embolism as a possibility.
+
+Renal arteries
+Visualization of blood flow in the renal arteries (those supplying the kidneys) in patients with high blood pressure and those suspected of having kidney disorders can be performed using CTA. Stenosis (narrowing) of a renal artery is a cause of hypertension (high blood pressure) in some patients and can be corrected. A special computerized method of viewing the images makes renal CT angiography a very accurate examination. CTA is also used in the  assessment of native and transplant renal arteries. While CTA is great for imaging of the kidneys, it lacks the ability to perform procedures at the same time. Thus traditional catheter angiography is used in cases of acute renal hemorrhage or acute arterial obstruction.
+
+Brain and neck vessels
+CTA can be used assess acute stroke patients by identifying clots in the arteries of the brain. It can also be used to identify small aneurysms or arteriovenous malformation inside the brain that can be life-threatening. While CTA can produce high quality images of the carotid arteries for grading the level of stenosis (narrowing of the vessel), calcium deposits (calcified plaques) in the area where the vessels split can lead to interference with accurate stenosis grading. Because of this, magnetic resonance angiography is used more often for this purpose. Other applications of CTA are identifying moyamoya disease, dissections of intracranial arteries, detection of carotid-cavernous fistula, planning for intracranial-extracranial bypass surgery, and involvement of brain tumours such as meningioma with surrounding intracranial vessels.
+
+Peripheral arteries
+CTA can be used in the legs to detect atherosclerotic disease that has narrowed the arteries. It can also be used to image vessels in suspected blockages, trauma cases, or patients with surgical complications.
+
+Technique
+CT angiography is a contrast CT where images are taken with a certain delay after injection of radiocontrast material. The contrast material is radiodense causing it to light up brightly within the blood vessels of interest. In order for the CT scanner to be able to scan the correct area where the contrast is, the scanner uses either automatic detectors which start scanning when enough contrast is present, or small test boluses. With the small test bolus, a small amount of contrast is injected in order to detect the speed that the contrast will move through the blood vessels. After determining this speed, the full bolus is injected and the scan is begun at the timing determined by the test bolus. After the scan is completed the images are post-processed to better visualize the vessels and can even be created in the 3D images.
+
+Risks
+Harms of overuse of CT angiography include radiation exposure and the possibility of finding then seeking treatment for a clinically insignificant pulmonary embolism which ought not be treated.
+
+Adverse reactions
+A reaction may occur whenever iodine contrast is injected. These reactions range in severity and it is difficult to predict if they will occur. With the current practice of using low-osmolar contrast these adverse reactions only occur in ~0.1% of cases. The severity of the reaction can be broken down into three groups:
+
+Mild - no treatment required: nausea, vomiting, and/or hives.
+Moderate - requires treatment: severe hives, lightheadedness or brief loss of consciousness, mild bronchospasm, and/or increased heart rate.
+Severe - requires immediate treatment: severe bronchospasm, throat swelling, seizure, severe low blood pressure, and/or cardiac arrest.
+A patient with a history of allergy to contrast may be advised to take medications such as corticosteroids or histamine (H1) blockers before CTA to lessen the risk of allergic reaction or to undergo a different exam that does not call for contrast material injection. Patients should also be well hydrated in order to minimize possible adverse effects of contrast.
+Contrary to popular belief there is no correlation between seafood allergies and reactions to iodine contrast, as shown by many recent studies.
+
+Kidneys
+Historically it has been thought that contrast material can lead to contrast-induced nephropathy (also called CIN) in any patient. However, recent studies have shown that the risk of kidney injury caused by contrast agent in patients with no history of kidney problems occurs extremely infrequently.
+The use of CTA in people with kidney failure, kidney disease or long-standing severe diabetes should be weighed carefully as the use of IV iodine contrast material may further harm kidney function. The decision not to use contrast agents must be weighed against the possibility of misdiagnoses if contrast is not used.
+
+Radiation
+Compared with other imaging modalities, CTA is associated with a significant dose of ionizing radiation. Varying significantly with patient age, sex, and exam protocol, radiation risk models predict coronary CTA to increase lifetime cancer risk.
+CT angiography should not be performed in patients who are pregnant as the contrast and radiation may lead to harm to the fetus. The extent of harm to the fetus has not been fully determined.
+
+History
+By 1994 CT angiography began to replace conventional angiography in diagnosing and characterizing most cardiovascular abnormalities. Prior to this, conventional angiography had been in use for 70 years.
+
+See also
+Angiography
+Magnetic resonance angiography
+
+
+== References ==

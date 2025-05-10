@@ -1,0 +1,54 @@
+Adenosine deaminase deficiency (ADA deficiency)  is a  metabolic disorder that causes immunodeficiency. It is caused by  mutations in the ADA gene. It accounts for about 10–20% of all cases of autosomal recessive forms of severe combined immunodeficiency (SCID) after excluding disorders related to inbreeding.
+ADA deficiency can present in infancy, childhood, adolescence, or adulthood. Age of onset and severity is related to some 29 known genotypes associated with the disorder. It occurs in fewer than one in 100,000 live births worldwide.
+
+Signs and symptoms
+The main symptoms of ADA deficiency include pneumonia, chronic diarrhea, widespread skin rashes, jaundice (from hepatic infections), and candidiasis of the mouth and esophagus. Affected children also grow much more slowly than healthy children, commonly referred to as "failure to thrive," which may lead to other developmental delays.
+These symptoms are not due to the enzyme deficiency itself, but rather to the effects of frequent severe infections from viruses, bacteria, and certain fungi. Children are particularly vulnerable to repeated infections from the same organisms, as their lack of B-cells means they cannot produce IgG antibodies in significant amounts, which protect most people from pathogens that have infected them before. Most individuals with ADA deficiency are diagnosed with SCID in the first 6 months of life.
+
+The large majority of cases of ADA deficiency are identified and diagnosed in children. However, a small minority have a less-severe form of the disease and remain undiagnosed until childhood, adolescence, or adulthood.
+An association with polyarteritis nodosa has been reported.
+
+Genetics
+The enzyme adenosine deaminase is encoded by the ADA gene on chromosome 20. ADA deficiency is inherited in an autosomal recessive manner. This means the defective gene responsible for the disorder is located on an autosome (chromosome 20 is an autosome), and two copies of the defective gene (one inherited from each parent) are required in order to be born with the disorder. The parents of an individual with an autosomal recessive disorder both carry one copy of the defective gene, but usually do not experience any signs or symptoms of the disorder.
+Age of onset and severity is related to some 29 known genotypes associated with the disorder.
+
+Pathophysiology
+ADA deficiency is due to a lack of the enzyme adenosine deaminase. This deficiency results in an accumulation of deoxyadenosine, which, in turn, leads to:
+
+A buildup of dATP in all cells, which inhibits ribonucleotide reductase and prevents DNA synthesis, so cells are unable to divide. Since developing T cells and B cells are some of the most mitotically active cells, they are highly susceptible to this condition.
+An increase in S-adenosylhomocysteine since the enzyme adenosine deaminase is important in the purine salvage pathway; both substances are toxic to immature lymphocytes, which thus fail to mature.
+Complete or near-complete absence of T-cells, B-cells, and NK cells.
+Because T cells undergo proliferation and development in the thymus, affected individuals typically have a small, underdeveloped thymus.  As a result, the immune system is severely compromised or completely lacking.
+
+Diagnosis
+Diagnosis in developed nations is usually done through standardized newborn screening tests for a range of congenital diseases, including ADA deficiency. Most newborns with SCID, including those with ADA deficiency as an underlying cause, can be identified before the onset of major infections due to their decreased levels of T-cell receptor excision circles (TRECs). TRECs are a normal product of T-cell development, and a deficit of them indicates a problem with lymphocyte maturation.
+In the absence of newborn screening or to differentiate from other causes of SCID, some (but not all) children will display one or more of these features which are sometimes seen in ADA deficiency but not other forms of SCID:
+
+Earlier onset of failure to thrive
+Respiratory distress in an infant that is not caused by an infection
+Abnormal rib cage development
+Neurologic disorders, especially hearing loss
+When ADA deficiency is suspected, the diagnosis may be confirmed through several lab tests of the patient's red blood cells, or via genetic testing.
+
+Treatment
+Treatment of ADA deficiency focuses on reducing the frequency and severity of infections. Antibiotics are typically prescribed as a prophylactic measure to make the body more difficult for pathogenic organisms to colonize. Due to the frequency it is encountered and its indifference to most antibiotics, clinicians must be careful to include a medication that can prevent Pneumocystis pneumonia.
+In addition to antibiotics, intravenous immunoglobulin (IVIG) therapy is also provided when available. This treatment provides a layer of humoral immunity from healthy plasma donors.
+Enzyme replacement therapy is provided to newborns until a definitive therapy plan can be implemented. There is some evidence that ERT also prevents tissue damage related to accumulated dATP and other molecules.
+
+Stem cell transplantation
+Long-term definitive treatment of ADA deficiency is typically achieved by transplantation of hematopoietic stem cells from a matched family member donor, preferably a sibling. Before transplantation, testing must be done to ensure that human leukocyte antigen (HLA) properties of the donor and the transplant recipient align, to avoid transplant rejection.
+
+Gene therapy
+The other definitive therapy available for ADA deficiency is gene therapy. These therapies use a viral vector to integrate a working copy of the gene into the patient's genome.
+In September 1990, the first gene therapy to combat this disease was performed by Dr. William French Anderson on a four-year-old girl, Ashanti DeSilva, at the National Institutes of Health, Bethesda, Maryland, U.S.A.
+In April 2016 the Committee for Medicinal Products for Human Use of the European Medicines Agency endorsed and recommended for approval a stem cell gene therapy called Strimvelis, for children with ADA-SCID for whom no matching bone marrow donor is available.
+
+History
+ADA deficiency was discovered in 1972 by Eloise Giblett, a professor at the University of Washington. The ADA gene was used as a marker for bone marrow transplants. A lack of ADA activity was discovered by Giblett in an immunocompromised transplant candidate. After discovering a second case of ADA deficiency in an immunocompromised patient, ADA deficiency was recognized as the first immunodeficiency disorder.
+
+References
+Further reading
+Adenosine deaminase deficiency - Genetics Home Reference
+
+
+== External links ==

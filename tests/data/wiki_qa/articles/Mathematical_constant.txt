@@ -1,0 +1,1006 @@
+A mathematical constant is a number whose value is fixed by an unambiguous definition, often referred to by a special symbol (e.g., an alphabet letter), or by mathematicians' names to facilitate using it across multiple mathematical problems. Constants arise in many areas of mathematics, with constants such as e and π occurring in such diverse contexts as geometry, number theory, statistics, and calculus.
+Some constants arise naturally by a fundamental principle or intrinsic property, such as the ratio between the circumference and diameter of a circle (π). Other constants are notable more for historical reasons than for their mathematical properties. The more popular constants have been studied throughout the ages and computed to many decimal places.
+All named mathematical constants are definable numbers, and usually are also computable numbers (Chaitin's constant being a significant exception).
+
+Basic mathematical constants
+These are constants which one is likely to encounter during pre-college education in many countries.
+
+Pythagoras' constant √2
+The square root of 2, often known as root 2 or Pythagoras' constant, and written as √2, is the unique positive real number that, when multiplied by itself, gives the number 2. It is more precisely called the principal square root of 2, to distinguish it from the negative number with the same property.
+Geometrically the square root of 2 is the length of a diagonal across a square with sides of one unit of length; this follows from the Pythagorean theorem. It is an irrational number, possibly the first number to be known as such, and an algebraic number. Its numerical value truncated to 50 decimal places is:
+
+1.41421356237309504880168872420969807856967187537694... (sequence A002193 in the OEIS).
+Alternatively, the quick approximation 99/70 (≈ 1.41429) for the square root of two was frequently used before the common use of electronic calculators and computers. Despite having a denominator of only 70, it differs from the correct value by less than 1/10,000 (approx. 7.2 × 10−5).
+Its simple continued fraction is periodic and given by:
+
+  
+    
+      
+        
+          
+            2
+          
+        
+        =
+        1
+        +
+        
+          
+            1
+            
+              2
+              +
+              
+                
+                  1
+                  
+                    2
+                    +
+                    
+                      
+                        1
+                        
+                          2
+                          +
+                          
+                            
+                              1
+                              ⋱
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}=1+{\frac {1}{2+{\frac {1}{2+{\frac {1}{2+{\frac {1}{\ddots }}}}}}}}}
+
+Archimedes' constant π
+The constant π (pi) has a natural definition in Euclidean geometry as the ratio between the circumference and diameter of a circle. It may be found in many other places in mathematics: for example, the Gaussian integral, the complex roots of unity, and Cauchy distributions in probability. However, its ubiquity is not limited to pure mathematics. It appears in many formulas in physics, and several physical constants are most naturally defined with π or its reciprocal factored out. For example, the ground state wave function of the hydrogen atom is
+
+  
+    
+      
+        ψ
+        (
+        
+          r
+        
+        )
+        =
+        
+          
+            1
+            
+              π
+              
+                
+                  
+                    a
+                    
+                      0
+                    
+                  
+                
+                
+                  3
+                
+              
+            
+          
+        
+        
+          e
+          
+            −
+            r
+            
+              /
+            
+            
+              a
+              
+                0
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \psi (\mathbf {r} )={\frac {1}{\sqrt {\pi {a_{0}}^{3}}}}e^{-r/a_{0}},}
+  
+
+where 
+  
+    
+      
+        
+          a
+          
+            0
+          
+        
+      
+    
+    {\displaystyle a_{0}}
+  
+ is the Bohr radius.
+π is an irrational number, transcendental number and an algebraic period.
+The numeric value of π is approximately:
+
+3.14159265358979323846264338327950288419716939937510... (sequence A000796 in the OEIS).
+Unusually good approximations are given by the fractions 22/7 and 355/113.
+Memorizing as well as computing increasingly more digits of π is a world record pursuit.
+
+Euler's number e
+Euler's number e, also known as the exponential growth constant, appears in many areas of mathematics, and one possible definition of it is the value of the following expression:
+
+  
+    
+      
+        e
+        =
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          
+            (
+            
+              1
+              +
+              
+                
+                  1
+                  n
+                
+              
+            
+            )
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle e=\lim _{n\to \infty }\left(1+{\frac {1}{n}}\right)^{n}}
+  
+
+The constant e is intrinsically related to the exponential function 
+  
+    
+      
+        x
+        ↦
+        
+          e
+          
+            x
+          
+        
+      
+    
+    {\displaystyle x\mapsto e^{x}}
+  
+.
+The Swiss mathematician Jacob Bernoulli discovered that e arises in compound interest: If an account starts at $1, and yields interest at annual rate R, then as the number of compounding periods per year tends to infinity (a situation known as continuous compounding), the amount of money at the end of the year will approach eR dollars.
+The constant e also has applications to probability theory, where it arises in a way not obviously related to exponential growth. As an example, suppose that a slot machine with a one in n probability of winning is played n times, then for large n (e.g., one million), the probability that nothing will be won will tend to 1/e as n tends to infinity.
+Another application of e, discovered in part by Jacob Bernoulli along with French mathematician Pierre Raymond de Montmort, is in the problem of derangements, also known as the hat check problem. Here, n guests are invited to a party, and at the door each guest checks his hat with the butler, who then places them into labelled boxes. The butler does not know the name of the guests, and hence must put them into boxes selected at random. The problem of de Montmort is: what is the probability that none of the hats gets put into the right box. The answer is
+
+  
+    
+      
+        
+          p
+          
+            n
+          
+        
+        =
+        1
+        −
+        
+          
+            1
+            
+              1
+              !
+            
+          
+        
+        +
+        
+          
+            1
+            
+              2
+              !
+            
+          
+        
+        −
+        
+          
+            1
+            
+              3
+              !
+            
+          
+        
+        +
+        ⋯
+        +
+        (
+        −
+        1
+        
+          )
+          
+            n
+          
+        
+        
+          
+            1
+            
+              n
+              !
+            
+          
+        
+      
+    
+    {\displaystyle p_{n}=1-{\frac {1}{1!}}+{\frac {1}{2!}}-{\frac {1}{3!}}+\cdots +(-1)^{n}{\frac {1}{n!}}}
+  
+
+which, as n tends to infinity, approaches 1/e.
+e is an irrational number and a transcendental number.
+The numeric value of e is approximately:
+
+2.71828182845904523536028747135266249775724709369995... (sequence A001113 in the OEIS).
+
+The imaginary unit i
+The imaginary unit or unit imaginary number, denoted as i, is a mathematical concept which extends the real number system 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+  
+ to the complex number system 
+  
+    
+      
+        
+          C
+        
+        .
+      
+    
+    {\displaystyle \mathbb {C} .}
+  
+ The imaginary unit's core property is that i2 = −1. The term "imaginary" was coined because there is no (real) number having a negative square.
+There are in fact two complex square roots of −1, namely i and −i, just as there are two complex square roots of every other real number (except zero, which has one double square root).
+In contexts where the symbol i is ambiguous or problematic, j or the Greek iota (ι) is sometimes used. This is in particular the case in electrical engineering and control systems engineering, where the imaginary unit is often denoted by j, because i is commonly used to denote electric current.
+
+The golden ratio φ
+The number φ, also called the golden ratio, turns up frequently in geometry, particularly in figures with pentagonal symmetry. Indeed, the length of a regular pentagon's diagonal is φ times its side. The vertices of a regular icosahedron are those of three mutually orthogonal golden rectangles. Also, it is related to the Fibonacci sequence, related to growth by recursion. Kepler proved that it is the limit of the ratio of consecutive Fibonacci numbers. The golden ratio has the slowest convergence of any irrational number. It is, for that reason, one of the worst cases of Lagrange's approximation theorem and it is an extremal case of the Hurwitz inequality for diophantine approximations. This may be why angles close to the golden ratio often show up in phyllotaxis (the growth of plants). It is approximately equal to:
+
+1.61803398874989484820458683436563811772030917980576... (sequence A001622 in the OEIS).
+or, more precisely 
+  
+    
+      
+        
+          
+            
+              1
+              +
+              
+                
+                  5
+                
+              
+            
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {1+{\sqrt {5}}}{2}}.}
+
+Constants in advanced mathematics
+These are constants which are encountered frequently in higher mathematics.
+
+The Euler–Mascheroni constant γ
+Euler's constant or the Euler–Mascheroni constant is defined as the limiting difference between the harmonic series and the natural logarithm:
+
+  
+    
+      
+        
+          
+            
+              
+                γ
+              
+              
+                
+                =
+                
+                  lim
+                  
+                    n
+                    →
+                    ∞
+                  
+                
+                
+                  (
+                  
+                    −
+                    ln
+                    ⁡
+                    n
+                    +
+                    
+                      ∑
+                      
+                        k
+                        =
+                        1
+                      
+                      
+                        n
+                      
+                    
+                    
+                      
+                        1
+                        k
+                      
+                    
+                  
+                  )
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\gamma &=\lim _{n\to \infty }\left(-\ln n+\sum _{k=1}^{n}{\frac {1}{k}}\right)\\[5px]\end{aligned}}}
+  
+
+It appears frequently in mathematics, especially in number theoretical contexts such as Mertens' third theorem or the growth rate of the divisor function. It has relations to the gamma function and its derivatives as well as the zeta function and there exist many different integrals and series involving 
+  
+    
+      
+        γ
+      
+    
+    {\displaystyle \gamma }
+  
+.
+Despite the ubiquity of the Euler-Mascheroni constant, many of its properties remain unknown. That includes the major open questions of whether it is a rational or irrational number and whether it is algebraic or transcendental. In fact, 
+  
+    
+      
+        γ
+      
+    
+    {\displaystyle \gamma }
+  
+ has been described as a mathematical constant "shadowed only 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+  
+ and 
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+  
+ in importance."
+The numeric value of 
+  
+    
+      
+        γ
+      
+    
+    {\displaystyle \gamma }
+  
+ is approximately:
+
+0.57721566490153286060651209008240243104215933593992... (sequence A001620 in the OEIS).
+
+Apéry's constant ζ(3)
+Apery's constant is defined as the sum of the reciprocals of the cubes of the natural numbers:
+  
+    
+      
+        ζ
+        (
+        3
+        )
+        =
+        
+          ∑
+          
+            n
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          
+            1
+            
+              n
+              
+                3
+              
+            
+          
+        
+        =
+        1
+        +
+        
+          
+            1
+            
+              2
+              
+                3
+              
+            
+          
+        
+        +
+        
+          
+            1
+            
+              3
+              
+                3
+              
+            
+          
+        
+        +
+        
+          
+            1
+            
+              4
+              
+                3
+              
+            
+          
+        
+        +
+        
+          
+            1
+            
+              5
+              
+                3
+              
+            
+          
+        
+        ⋯
+      
+    
+    {\displaystyle \zeta (3)=\sum _{n=1}^{\infty }{\frac {1}{n^{3}}}=1+{\frac {1}{2^{3}}}+{\frac {1}{3^{3}}}+{\frac {1}{4^{3}}}+{\frac {1}{5^{3}}}\cdots }
+  
+It is the special value of the Riemann zeta function 
+  
+    
+      
+        ζ
+        (
+        s
+        )
+      
+    
+    {\displaystyle \zeta (s)}
+  
+ at 
+  
+    
+      
+        s
+        =
+        3
+      
+    
+    {\displaystyle s=3}
+  
+. The quest to find an exact value for this constant in terms of other known constants and elementary functions originated when Euler famously solved the Basel problem by giving 
+  
+    
+      
+        ζ
+        (
+        2
+        )
+        =
+        
+          
+            1
+            6
+          
+        
+        
+          π
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \zeta (2)={\frac {1}{6}}\pi ^{2}}
+  
+. To date no such value has been found and it is conjectured that there is none. However, there exist many representations of 
+  
+    
+      
+        ζ
+        (
+        3
+        )
+      
+    
+    {\displaystyle \zeta (3)}
+  
+ in terms of infinite series.
+Apéry's constant arises naturally in a number of physical problems, including in the second- and third-order terms of the electron's gyromagnetic ratio, computed using quantum electrodynamics.
+
+  
+    
+      
+        ζ
+        (
+        3
+        )
+      
+    
+    {\displaystyle \zeta (3)}
+  
+ is known to be an irrational number which was proven by the French mathematician Roger Apéry in 1979. It is however not known whether it is algebraic or transcendental.
+The numeric value of Apéry's constant is approximately:
+
+1.20205690315959428539973816151144999076498629234049... (sequence A002117 in the OEIS).
+
+Catalan's constant G
+Catalan's constant is defined by the alternating sum of the reciprocals of the odd square numbers:
+
+  
+    
+      
+        G
+        =
+        
+          ∑
+          
+            n
+            =
+            0
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              (
+              −
+              1
+              
+                )
+                
+                  n
+                
+              
+            
+            
+              (
+              2
+              n
+              +
+              1
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        
+          
+            1
+            
+              1
+              
+                2
+              
+            
+          
+        
+        −
+        
+          
+            1
+            
+              3
+              
+                2
+              
+            
+          
+        
+        +
+        
+          
+            1
+            
+              5
+              
+                2
+              
+            
+          
+        
+        −
+        
+          
+            1
+            
+              7
+              
+                2
+              
+            
+          
+        
+        +
+        
+          
+            1
+            
+              9
+              
+                2
+              
+            
+          
+        
+        −
+        ⋯
+      
+    
+    {\displaystyle G=\sum _{n=0}^{\infty }{\frac {(-1)^{n}}{(2n+1)^{2}}}={\frac {1}{1^{2}}}-{\frac {1}{3^{2}}}+{\frac {1}{5^{2}}}-{\frac {1}{7^{2}}}+{\frac {1}{9^{2}}}-\cdots }
+  
+
+It is the special value of the Dirichlet beta function 
+  
+    
+      
+        β
+        (
+        s
+        )
+      
+    
+    {\displaystyle \beta (s)}
+  
+ at 
+  
+    
+      
+        s
+        =
+        2
+      
+    
+    {\displaystyle s=2}
+  
+. Catalan's constant appears frequently in combinatorics and number theory and also outside mathematics such as in the calculation of the mass distribution of spiral galaxies.
+Questions about the arithmetic nature of this constant also remain unanswered, 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  
+ having been called "arguably the most basic constant whose irrationality and transcendence (though strongly suspected) remain unproven." There exist many integral and series representations of Catalan's constant.
+It is named after the French and Belgian mathematician Charles Eugène Catalan.
+The numeric value of 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  
+ is approximately:
+
+0.91596559417721901505460351493238411077414937428167... (sequence A006752 in the OEIS).
+
+The Feigenbaum constants α and δ
+Iterations of continuous maps serve as the simplest examples of models for dynamical systems. Named after mathematical physicist Mitchell Feigenbaum, the two Feigenbaum constants appear in such iterative processes: they are mathematical invariants of logistic maps with quadratic maximum points and their bifurcation diagrams. Specifically, the constant α is the ratio between the width of a tine and the width of one of its two subtines, and the constant δ is the limiting ratio of each bifurcation interval to the next between every period-doubling bifurcation.
+The logistic map is a polynomial mapping, often cited as an archetypal example of how chaotic behaviour can arise from very simple non-linear dynamical equations. The map was popularized in a seminal 1976 paper by the Australian biologist Robert May, in part as a discrete-time demographic model analogous to the logistic equation first created by Pierre François Verhulst. The difference equation is intended to capture the two effects of reproduction and starvation.
+The Feigenbaum constants in bifurcation theory are analogous to π in geometry and e in calculus. Neither of them is known to be irrational or even transcendental. However proofs of their universality exist.
+The respective approximate numeric values of δ and α are:
+
+4.66920160910299067185320382046620161725818557747576... (sequence A006890 in the OEIS).
+2.50290787509589282228390287321821578638127137672714... (sequence A006891 in the OEIS).
+
+Mathematical curiosities
+Simple representatives of sets of numbers
+Some constants, such as the square root of 2, Liouville's constant and Champernowne constant:
+
+  
+    
+      
+        
+          C
+          
+            10
+          
+        
+        =
+        0.
+        
+          
+            
+              1
+            
+          
+        
+        2
+        
+          
+            
+              3
+            
+          
+        
+        4
+        
+          
+            
+              5
+            
+          
+        
+        6
+        
+          
+            
+              7
+            
+          
+        
+        8
+        
+          
+            
+              9
+            
+          
+        
+        10
+        
+          
+            
+              11
+            
+          
+        
+        12
+        
+          
+            
+              13
+            
+          
+        
+        14
+        
+          
+            
+              15
+            
+          
+        
+        16
+        …
+      
+    
+    {\displaystyle C_{10}=0.{\color {blue}{1}}2{\color {blue}{3}}4{\color {blue}{5}}6{\color {blue}{7}}8{\color {blue}{9}}10{\color {blue}{11}}12{\color {blue}{13}}14{\color {blue}{15}}16\dots }
+  
+
+are not important mathematical invariants but retain interest being simple representatives of special sets of numbers, the irrational numbers, the transcendental numbers and the normal numbers (in base 10) respectively. The discovery of the irrational numbers is usually attributed to the Pythagorean Hippasus of Metapontum who proved, most likely geometrically, the irrationality of the square root of 2. As for Liouville's constant, named after French mathematician Joseph Liouville, it was the first number to be proven transcendental.
+
+Chaitin's constant Ω
+In the computer science subfield of algorithmic information theory, Chaitin's constant is the real number representing the probability that a randomly chosen Turing machine will halt, formed from a construction due to Argentine-American mathematician and computer scientist Gregory Chaitin. Chaitin's constant, though not being computable, has been proven to be transcendental and normal. Chaitin's constant is not universal, depending heavily on the numerical encoding used for Turing machines; however, its interesting properties are independent of the encoding.
+
+Notation
+Representing constants
+It is common to express the numerical value of a constant by giving its decimal representation (or just the first few digits of it). For two reasons this representation may cause problems. First, even though rational numbers all have a finite or ever-repeating decimal expansion, irrational numbers don't have such an expression making them impossible to completely describe in this manner. Also, the decimal expansion of a number is not necessarily unique. For example, the two representations 0.999... and 1 are equivalent in the sense that they represent the same number.
+Calculating digits of the decimal expansion of constants has been a common enterprise for many centuries. For example, German mathematician Ludolph van Ceulen of the 16th century spent a major part of his life calculating the first 35 digits of pi. Using computers and supercomputers, some of the mathematical constants, including π, e, and the square root of 2, have been computed to more than one hundred billion digits. Fast algorithms have been developed, some of which — as for Apéry's constant — are unexpectedly fast.
+
+Some constants differ so much from the usual kind that a new notation has been invented to represent them reasonably. Graham's number illustrates this as Knuth's up-arrow notation is used.
+It may be of interest to represent them using continued fractions to perform various studies, including statistical analysis. Many mathematical constants have an analytic form, that is they can be constructed using well-known operations that lend themselves readily to calculation. Not all constants have known analytic forms, though; Grossman's constant and Foias' constant are examples.
+
+Symbolizing and naming of constants
+Symbolizing constants with letters is a frequent means of making the notation more concise. A common convention, instigated by René Descartes in the 17th century and Leonhard Euler in the 18th century, is to use lower case letters from the beginning of the Latin alphabet 
+  
+    
+      
+        a
+        ,
+        b
+        ,
+        c
+        ,
+        …
+      
+    
+    {\displaystyle a,b,c,\dots }
+  
+ or the Greek alphabet 
+  
+    
+      
+        α
+        ,
+        β
+        ,
+        
+        γ
+        ,
+        …
+      
+    
+    {\displaystyle \alpha ,\beta ,\,\gamma ,\dots }
+  
+ when dealing with constants in general.
+However, for more important constants, the symbols may be more complex and have an extra letter, an asterisk, a number, a lemniscate or use different alphabets such as Hebrew, Cyrillic or Gothic.
+
+Sometimes, the symbol representing a constant is a whole word. For example, American mathematician Edward Kasner's 9-year-old nephew coined the names googol and googolplex.
+
+  
+    
+      
+        
+          g
+          o
+          o
+          g
+          o
+          l
+        
+        =
+        
+          10
+          
+            100
+          
+        
+        
+         
+        ,
+         
+        
+          g
+          o
+          o
+          g
+          o
+          l
+          p
+          l
+          e
+          x
+        
+        =
+        
+          10
+          
+            
+              g
+              o
+              o
+              g
+              o
+              l
+            
+          
+        
+        =
+        
+          10
+          
+            
+              10
+              
+                100
+              
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {googol} =10^{100}\,\ ,\ \mathrm {googolplex} =10^{\mathrm {googol} }=10^{10^{100}}}
+  
+
+Other names are either related to the meaning of the constant (universal parabolic constant, twin prime constant, ...) or to a specific person (Sierpiński's constant, Josephson constant, and so on).
+
+Selected mathematical constants
+Abbreviations used:
+
+Gen – General, NuT – Number theory, ChT – Chaos theory, Com – Combinatorics, Ana – Mathematical analysis
+
+See also
+Glossary of mathematical symbols
+Invariant (mathematics)
+List of mathematical constants
+List of numbers
+Physical constant
+List of physical constants
+
+Notes
+External links
+
+Constants – from Wolfram MathWorld
+Inverse symbolic calculator (CECM, ISC) (tells you how a given number can be constructed from mathematical constants)
+On-Line Encyclopedia of Integer Sequences (OEIS)
+Simon Plouffe's inverter
+Steven Finch's page of mathematical constants (BROKEN LINK)
+Steven R. Finch, "Mathematical Constants," Encyclopedia of mathematics and its applications, Cambridge University Press (2003).
+Xavier Gourdon and Pascal Sebah's page of numbers, mathematical constants and algorithms

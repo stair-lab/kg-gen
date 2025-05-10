@@ -1,0 +1,32 @@
+In the United States, a medallion signature guarantee is a special signature guarantee used primarily when a client transfers or sells US securities. It is an assurance by the financial institution granting the guarantee that the signature on the transaction is genuine and that the guarantor accepts liability for any forgery.
+
+Guarantee
+A medallion signature guarantee protects shareholders by preventing unauthorized transfers and possible investor losses. A medallion signature guarantee also limits the liability of the transfer agent who accepts the certificates.
+A medallion signature guarantee is a binding warranty, issued by an agent of the authorized guarantor institution, that: (a) the signature was genuine; (b) the signer was an appropriate person to endorse, and (c) the signer had legal capacity to sign.  A medallion signature guarantee is not equivalent to a US notarial Acknowledgment.
+
+Prefixes
+Not all medallion signature guarantee stamps are of equal value.  A special coded prefix is given to each stamp, and this prefix determines how much monetary value can be guaranteed. For instance if the medallion signature guarantee is required for US$400,000 worth of value, at least a C prefix is required, which is good for up to $500,000 value. If a D prefix stamp is submitted, the transaction will be rejected, because a D stamp is only good for guarantee up to $250,000.
+
+Financial institutions' policies
+Different institutions have various policies as to what type of identification they require to provide the guarantee and whether they charge a fee for such service, usually nominal. Very few guarantor institutions will guarantee the signature of a person who is not a known, established customer.
+
+Prevalence
+While some banks no longer provide this service, many still do so, as do some other financial institutions such as savings and loan associations (a thrift) and credit unions. These institutions may provide the medallion signature guarantee at their discretion. These institutions provide clarification on their requirements for providing the stamp. Each of these institutions may have different requirements for documentation necessary.
+
+Outside the United States
+When United States citizens are outside the United States, they are typically unable to obtain a medallion signature guarantee stamp. Some financial institutions may accept the seal of a United States embassy in its place if given prior notice of the substitution. US embassies are not financial institutions and do not provide Medallion Signature Guarantees.
+In recent years, some companies in the UK have been approved to sign up to become guarantors, such as heir hunting companies, and law firms, like Lester Aldridge LLP.
+
+History
+The medallion signature guarantee program has existed since February 24, 1992, when Securities and Exchange Commission's Rule 17 Ad-15 went into effect. The medallion signature guarantee program was implemented in order to protect investors, treat financial institutions equitably, increase the efficiency of transferring securities, and reduce risk.
+Until then, financial institutions had cumbersome and inconsistent policies regarding certificates presented to a transfer agent to change ownership.
+At the time of its establishment, there were three signature guarantee programs, namely the New York Stock Exchange Medallion Signature Program, the Stock Exchanges Medallion Program, and the Securities Transfer Agents Medallion Program, each of which were administered by different entities.
+
+References
+Piombino, Alfred E. (2011). Notary Public Handbook: Principles, Practices & Cases. National Edition. East Coast Publishing. ISBN 978-0-9445606-9-3
+"Signature Guarantees: Preventing the Unauthorized Transfer of Securities". United States Securities and Exchange Commission. Retrieved November 15, 2013. Archived November 26, 2016, at the Wayback Machine
+ This article incorporates public domain material from websites or documents of the United States Department of State.
+
+External links
+The Medallion Signature Guarantee website includes a directory of firms offering medallion signature guarantees.
+The Investor.gov website includes information about Medallion Signature Guarantee Programs.

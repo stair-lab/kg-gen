@@ -1,0 +1,131 @@
+Household income is an economic standard that can be applied to one household, or aggregated across a large group such as a county, city, or the whole country. It is commonly used by the United States government and private institutions to describe a household's economic status or to track economic trends in the US.
+A key measure of household income is the median income, at which half of households have income above that level and half below. The U.S. Census Bureau reports two median household income estimates based on data from two surveys: the Current Population Survey (CPS) Annual Social and Economic Supplement and the American Community Survey (ACS). The CPS ASEC is the recommended source for national-level estimates, whereas the ACS gives estimates for many geographic levels.: 19 : 10   According to the CPS, the median household income was $70,784 in 2021. According to the ACS, the U.S. median household income in 2018 was $61,937. Estimates for previous years are given in terms of real income, which have been adjusted for changes to the price of goods and services.
+The distribution of U.S. household income has become more unequal since around 1980, with the income share received by the top 1% trending upward from around 10% or less over the 1953–1981 period to over 20% by 2007. Since the end of the Great Recession, income inequality in the US has gone down slightly, and at an accelerated pace since 2019.
+
+Definition
+A household's income can be calculated in various ways but the US Census as of 2009 measured it in the following manner: the income of every resident of that house that is over the age of 15, including pre-tax wages and salaries, along with any pre-tax personal business, investment, or other recurring sources of income, as well as any kind of governmental entitlement such as unemployment insurance, social security, disability payments or child support payments received.
+The residents of the household do not have to be related to the head of the household for their earnings to be considered part of the household's income. As households tend to share a similar economic context, the use of household income remains among the most widely accepted measures of income. That the size of a household is not commonly taken into account in such measures may distort any analysis of fluctuations within or among the household income categories, and may render direct comparisons between quintiles difficult or even impossible. The US Census does not include noncash benefits such as health benefits.
+
+Recent trends
+The Current Population Survey of the U.S. Census Bureau reported in September 2022 that real median household income was $70,784 in 2021, not statistically different from the 2020 estimate of $71,186.
+Changes in median income reflect several trends: the aging of the population, changing patterns in work and schooling, and the evolving makeup of the American family, as well as long- and short-term trends in the economy itself. For instance, the retirement of the Baby Boom generation should push down overall median income, as more persons enter lower-income retirement. However, analysis of different working age groups indicate a similar pattern of stagnating median income as well.
+Journalist Annie Lowrey wrote in September 2014: "The root causes [of wage stagnation] include technological change, the decline of labor unions, and globalization, economists think, though they disagree sharply on how much to weight each factor. But foreign-produced goods became sharply cheaper, meaning imports climbed and production moved overseas. And computers took over for humans in many manufacturing, clerical, and administrative tasks, eroding middle-class jobs growth and suppressing wages."
+Measured relative to GDP, total compensation and its component wages and salaries have been declining since 1970. This indicates a shift in income from labor (persons who derive income from hourly wages and salaries) to capital (persons who derive income via ownership of businesses, land and assets). This trend is common across the developed world, due in part to globalization. Wages and salaries have fallen from approximately 51% GDP in 1970 to 43% GDP in 2013. Total compensation has fallen from approximately 58% GDP in 1970 to 53% GDP in 2013.
+However, as indicated by the charts below, household income has still increased significantly since the late 1970s and early 80s in real terms, partly due to higher individual median wages, and partly due to increased employment of women.
+According to the CBO, between 1979 and 2011, gross median household income, adjusted for inflation, rose from $59,400 to $75,200, or 26.5%. However, once adjusted for household size and looking at taxes from an after-tax perspective, real median household income grew 46%, representing significant growth. In 2023, annual real median household income grew for the first time since 2019 (before the COVID pandemic) and reached a new high of $80,610.
+The following table summarizes real median household income at key recent milestones:
+
+Uses
+Use of individual household income: The government and organizations may look at one particular household's income to decide if a person is eligible for certain programs, such as nutrition assistance or need-based financial aid, among many others.
+Use at the aggregate level: Summaries of household incomes across groups of people – often the entire country – are also studied as part of economic trends like standard of living and distribution of income and wealth. Household income as an economic measure can be represented as a median, a mean, a distribution, and other ways. Household income can be studied across time, region, education level, race/ethnicity, and many other dimensions. As an indicator of economic trends, it may be studied along with related economic measures such as disposable income, debt, household net worth (which includes debt and investments, durable goods like cars and houses), wealth, and employment statistics.
+
+Median inflation-adjusted ("real") household income
+Median inflation-adjusted ("real") household income generally increases and decreases with the business cycle, declining in each year during the periods 1979 through 1983, 1990 through 1993, 2000 through 2004 and 2008 through 2012, while rising in each of the intervening years. Extreme poverty in the United States, meaning households living on less than $2 per person per day before government benefits, more than doubled in absolute terms from 636,000 to 1.46 million households (including 2.8 million children) between 1996 and 2011, with most of this increase occurring between late 2008 and early 2011. A 2012 study by the Urban Institute found that 75% of adults in "deep poverty" had not worked in the previous year.
+
+CBO income growth study
+The nonpartisan Congressional Budget Office conducted a study analyzing household income throughout the income distribution, by combining the Census and IRS income data sources. Unlike the Census measure of household income, the CBO showed income before and after taxes, and by also taking into account household size. Also, the CBO definition of income is much broader, and includes in kind transfers as well as all monetary transfers from the government. The Census' official definition of money income excludes food stamps and the EITC, for example, while CBO includes it.
+Between 1979 and 2011, gross median household income, adjusted for inflation, rose from $59,400 to $75,200, or 26.5%. This compares with the Census' growth of 10%. However, once adjusted for household size and looking at taxes from an after-tax perspective, real median household income grew 46%, representing significant growth.
+While median gross household income showed much stronger growth than depicted by the Census, inequality was shown to still have increased. The top 10% saw gross household income grow by 78%, versus 26.5% for the median. The bottom 10%, using the same measure, saw higher growth than the median (40%).
+
+Since 1980, U.S. gross domestic product (GDP) per capita has increased 67%, while median household income has only increased by 15%. Median household income is a politically sensitive indicator. Voters can be critical of their government if they perceive that their cost of living is rising faster than their income.
+The early-2000s recession began with the bursting of the dot-com bubble and affected most advanced economies including the European Union, Japan and the United States. An economic recession will normally cause household incomes to decrease, often by as much as 10%.
+The late-2000s recession began with the bursting of the U.S. housing bubble, which caused a problem in the dangerously exposed sub prime-mortgage market. This in turn triggered a global financial crisis. In constant price, 2011 American median household income was 1.13% lower than what it was in 1989. This corresponds to a 0.05% annual decrease over a 22-year period. In the meantime, GDP per capita has increased by 33.8% or 1.33% annually.
+A study on US Census income data claims that when using the national accounting methodology, U.S. gross median household income was $57,739 in 2010 (table 3).
+In 2015, the US median household income spiked 5.2 per cent, reaching $56,000, making it the first annual hike in median household income since the start of the Great Recession.
+
+Mean household income
+Another common measurement of personal income is the mean household income. Unlike the median household income, which divides all households in two halves, the mean income is the average income earned by American households. In the case of mean income, the income of all households is divided by the number of all households. The mean income is more affected by the relatively unequal distribution of income which tilts towards the top. As a result, the mean income in the United States is higher than the median income, with the top earning households boosting it. Overall, the mean household income in the United States, according to the US Census Bureau 2014 Annual Social and Economic Supplement, was $72,641.
+The U.S. Census Bureau provides the following breakdown by self-identified ethnic groups as of March 2018:
+
+Mean vs. median household income
+Median income is the amount which divides the income distribution into two equal groups, half having income above that amount, and half having income below that amount. Mean income (average) is the amount obtained by dividing the total aggregate income of a group by the number of units in that group. The means and medians for households and families are based on all households and families. Means and medians for people are based on people 15 years old and over with income.
+
+Aggregate income distribution
+The aggregate income measures the combined income earned by all persons in a particular income group. In 2018, the total personal income earned in the United States was $17.6 trillion. In 2008, all households in the United States earned roughly $12,442.2 billion.  One half, 49.98%, of all income in the US was earned by households with an income over $100,000, the top twenty percent. Over one quarter, 28.5%, of all income was earned by the top 8%, those households earning more than $150,000 a year. The top 3.65%, with incomes over $200,000, earned 17.5%. Households with annual incomes from $50,000 to $75,000, 18.2% of households, earned 16.5% of all income. Households with annual incomes from $50,000 to $95,000, 28.1% of households, earned 28.8% of all income. The bottom 10.3% earned 1.06% of all income.
+
+Demography
+Racial and ethnic groups
+Americans who identified as White alone, headed up roughly 77.79% of all households in 2021, but those same households comprised 81.43% of households in the top 5% of household income.  Conversely, Americans who identified as Black alone headed up only 5.33% of households in the top 5%, whereas such households made up 13.49% of all households.
+Overall, households headed by Hispanic and Black Americans were underrepresented in the top two quintiles and overrepresented in the bottom two quintiles.  Households headed by people who identified as being Asian alone were also overrepresented among the top two quintiles.  In the top five percent the percentage of Asians was nearly twice as high as the percentage of Asians among the general population.  White households are underrepresented in the lowest quintile and slightly overrepresented in the top two quintiles and the top five percent.
+In terms of race in 2020 data, Asian-American households had the highest median household income of $94,903, White households ranked second with $74,912, Hispanic or Latino households ranked third with $55,321. African-American or Black households had the lowest median household income of all races with $45,870.
+
+Source: US Census Bureau, 2021
+
+Education and gender
+Household income as well as per capita income in the United States rise significantly as the educational attainment increases. In 2005 graduates with a Master's in Business Administration (MBA) who accepted job offers were expected to earn a base salary of $88,626. They were also expected to receive an "average signing bonus of $17,428."
+According to the US Census Bureau persons with doctorates in the United States had an average income of roughly $81,400. The average for an advanced degree was $72,824, with men averaging $90,761 and women averaging $50,756 annually. Year-round full-time workers with a professional degree had an average income of $109,600 while those with a master's degree had an average income of $62,300. Overall, "…[a]verage earnings ranged from $18,900 for high school dropouts to $25,900 for high school graduates, $45,400 for college graduates and $99,300 for workers with professional degrees (M.D., O.D., D.P.T., D.P.M., D.O., J.D., Pharm.D., D.D.S., or D.V.M.)."
+Individuals with graduate degrees have an average per capita income exceeding the median household income of married couple families among the general population ($63,813 annually). Higher educational attainment did not, however, help close the income gap between the genders as the life-time earnings for a male with a professional degree were roughly forty percent (39.59%) higher than those of a female with a professional degree. The lifetime earnings gap between males and females was the smallest for those individuals holding an associate degrees with male life-time earnings being 27.77% higher than those of females. While educational attainment did not help reduce the income inequality between men and women, it did increase the earnings potential of individuals of both sexes, enabling many households with one or more graduate degree householders to enter the top household income quintile. These data were not adjusted for preferential differences among men and women whom attend college.
+Household income also increased significantly with the educational attainment of the householder. The US Census Bureau publishes educational attainment and income data for all households with a householder who was aged twenty-five or older. The biggest income difference was between those with some college education and those who had a Bachelor's degree, with the latter making $23,874 more annually. Income also increased substantially with increased post-secondary education. While the median annual household income for a household with a householder having an associate degree was $51,970, the median annual household income for householders with a bachelor's degree or higher was $73,446. Those with doctorates had the second highest median household with a median of $96,830; $18,289 more than that for those at the master's degree level, but $3,170 lower than the median for households with a professional degree holding householder.
+
+Distribution of household income by educational attainment and gender in 2019 according to US Census data
+The change in median personal and household since 1991 also varied greatly with educational attainment. The following table shows the median household income according to the educational attainment of the householder. All data is in 2003 dollars and only applies to householders whose householder is aged twenty-five or older. The highest and lowest points of the median household income are presented in bold face. Since 2003, median income has continued to rise for the nation as a whole, with the biggest gains going to those with associate degrees, bachelor's degree or more, and master's degrees. High-school dropouts fared worse with negative growth.
+
+Source: US Census Bureau, 2003
+
+Age of householder
+Household income in the United States varies substantially with the age of the person who heads the household. Overall, the median household income increased with the age of householder until retirement age when household income started to decline. The highest median household income was found among households headed by working baby-boomers.
+Households headed by persons between the ages of 45 and 54 had a median household income of $61,111 and a mean household income of $77,634. The median income per member of household for this particular group was $27,924. The highest median income per member of household was among those between the ages of 54 and 64 with $30,544 [The reason this figure is lower than the next group is because pensions and Social Security add to income while a portion of older individuals also have work-related income.].
+The group with the second highest median household income, were households headed by persons between the ages 35 and 44 with a median income of $56,785, followed by those in the age group between 55 and 64 with $50,400. Not surprisingly the lowest income group was composed of those households headed by individuals younger than 24, followed by those headed by persons over the age of 75. Overall, households headed by persons above the age of seventy-five had a median household income of $20,467 with the median household income per member of household being $18,645. These figures support the general assumption that median household income as well as the median income per member of household peaked among those households headed by middle aged persons, increasing with the age of the householder and the size of the household until the householder reaches the age of 64. With retirement income replacing salaries and the size of the household declining, the median household income decreases as well.
+
+Household size
+While median household income has a tendency to increase up to four persons per household, it declines for households beyond four persons. For example, in the state of Alabama in 2004, two-person households had a median income of $39,755, with $48,957 for three-person households, $54,338 for four-person households, $50,905 for five-person households, $45,435 for six-person households, with seven-or-more-person households having the second lowest median income of only $42,471.
+
+Geography and Socioeconomic correlations
+Considering other racial and geographical differences in regards to household income, it should come as no surprise that the median household income varies with race, size of household and geography. The state with the highest median household income in the United States as of the US Census Bureau 2009 is Maryland with $69,272, followed by New Jersey, Connecticut and Alaska, making the Northeastern United States the wealthiest area by income in the entire country.
+Regionally, in 2010, the Northeast reached a median income of $53,283, the West, $53,142, the South, $45,492, and the Midwest, $48,445. Each figure represents a decline from the previous year.
+
+Median household income by state
+In 2007, the median household income by state ranged from $36,338 in Mississippi to $68,080 in Maryland. Despite having the highest median home price in the nation and home prices that far outpaced incomes, California ranked only eighth in income that year, with a median household income of $59,984. While California's median income was not near enough to afford the average California home or even a starter home, West Virginia, which had one of the nation's lowest median household incomes, also had the nation's lowest median home price.
+When grouped by Census Bureau Region, of the 15 states that, in 2017, had the highest median household income, only Minnesota is located in the Mid-West. Five are in the Northeast (Connecticut, Massachusetts, New Hampshire, New Jersey and Rhode Island), three are South Atlantic states (Washington D.C., Maryland and Virginia) while the remaining six are in the West (Alaska, California, Colorado, Hawaii, Washington and Utah).
+The southern states had, on average, the lowest median household income, with nine of the country's fifteen poorest states located in the South. However, most of the poverty in the South is located in rural areas. Metropolitan areas such as Atlanta, Nashville, Charlotte, Raleigh, Birmingham, Dallas, Houston, and Miami are areas within the southern states that have above average income levels. Overall, median household income tended to be the highest in the nation's most urbanized northeastern, upper midwestern and west coast states, while rural areas, mostly in the southern and mountain states (like New Mexico, Montana and Idaho), had the lowest median household income.
+As of 2019, the median household income ranged from $20,474 in Puerto Rico to $92,266 in the District of Columbia. Note that the U.S. Census Bureau treats Puerto Rico as if it were a state (Puerto Rico is included in the American Community Survey).
+All data is from the 2009–2019 American Community Survey 1-Year Estimates.
+
+*change since 2009
+The median personal income per person, after adjusting for costs of living with local regional price parities and the national PCE price index, averaged $47,807 in 2016 (in 2012 chained dollars). Median adjusted personal income per capita varied from $39,901 in Mississippi to $61,601 in Connecticut (and $64,363 in the District of Columbia). The states closest to the national average were California and Vermont, at $48,384 and $47,971 respectively.
+
+Median household income by U.S. territory
+Below is the median household income for the U.S. territories in 2010 (for four of the five inhabited territories). Note that Puerto Rico is not included in this table, and is instead included in the table above (because Puerto Rico is included in the ACS, as if it were a state).
+
+Counties and their correlations between Median Household Income and other factors
+There are 3,144 counties and county-equivalents in the United States. The source used is the Economic Research Service of the United States Department of Agriculture. Below is the median household income, majority minority status and Presidential election voting history for each county or their equivalent, with an income greater than or equal $75,000, in the United States for each category as used by the map above.
+
+Median Household Income greater than or equal $135,000
+Median Household Income greater than or equal $125,000
+Median Household Income greater than or equal $115,000
+Median Household Income greater than or equal $105,000
+Median Household Income greater than or equal $95,000
+Median Household Income greater than or equal $85,000
+Median Household Income greater than or equal $75,000
+Social class
+Household income is one of the most commonly used measures of income and, therefore, also one of the most prominent indicators of social class. Household income and education do not, however, always reflect perceived class status correctly. Sociologist Dennis Gilbert acknowledges that "... the class structure... does not exactly match the distribution of household income" with "the mismatch [being] greatest in the middle..." (Gilbert, 1998: 92) As social classes commonly overlap, it is not possible to define exact class boundaries.
+According to Leonard Beeghley a household income of roughly $95,000 would be typical of a dual-earner middle class household while $60,000 would be typical of a dual-earner working class household and $18,000 typical for an impoverished household. William Thompson and Joseph Hickey see common incomes for the upper class as those exceeding $500,000 with upper middle class incomes ranging from the high 5-figures to most commonly in excess of $100,000. They claim the lower middle class ranges from $35,000 to $75,000; $16,000 to $30,000 for the working class and less than $2,000 for the lower class.
+
+Distribution of household income
+Distribution of household income in 2022 according to US Census data
+See also
+List of countries by average wage
+List of U.S. states by socioeconomic factors
+Income inequality in the United States
+Economy of the United States
+Personal income in the United States
+Employee compensation in the United States
+Standard of living in the United States
+General:
+
+Income inequality metrics
+Atkinson index
+Gini coefficient
+Hoover index
+Theil index
+International Ranking of Household Income
+Marriage gap
+
+References
+External links
+
+Income, Poverty, and Health Insurance Coverage in the United States: 2003
+Reynolds, Alan (January 8, 2007). "Has U.S. Income Inequality Really Increased?" (PDF). Policy Analysis. CATO Institute.
+U.S. Census Bureau's web-site for income statistics
+NPR.org statistics and background on income inequality in the United States
+Datasets by U.S. State of low income, very low income, extremely low income limits

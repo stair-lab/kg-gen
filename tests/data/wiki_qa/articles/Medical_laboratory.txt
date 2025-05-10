@@ -1,0 +1,101 @@
+A medical laboratory or clinical laboratory is a laboratory where tests are conducted out on clinical specimens to obtain information about the health of a patient to aid in diagnosis, treatment, and prevention of disease. Clinical medical laboratories are an example of applied science, as opposed to research laboratories that focus on basic science, such as found in some academic institutions.
+Medical laboratories vary in size and complexity and so offer a variety of testing services.  More comprehensive services can be found in acute-care hospitals and medical centers, where 70% of clinical decisions are based on laboratory testing.  Doctors offices and clinics, as well as skilled nursing and long-term care facilities, may have laboratories that provide more basic testing services. Commercial medical laboratories operate as independent businesses and provide testing that is otherwise not provided in other settings due to low test volume or complexity.
+
+Departments
+In hospitals and other patient-care settings, laboratory medicine is provided by the Department of Pathology and Medical Laboratory, and generally divided into two sections, each of which will be subdivided into multiple specialty areas. The two sections are:
+
+Anatomic pathology: areas included here are histopathology, cytopathology, electron microscopy, and gross pathology.
+Medical Laboratory, which typically includes the following areas:
+Clinical microbiology: This encompasses several different sciences, including bacteriology, virology, parasitology, immunology, and mycology.
+Clinical chemistry: This area typically includes automated analysis of blood specimens, including tests related to enzymology, toxicology and endocrinology.
+Hematology: This area includes automated and manual analysis of blood cells. It also often includes coagulation.
+Blood bank involves the testing of blood specimens in order to provide blood transfusion and related services.
+Molecular diagnostics DNA testing may be done here, along with a subspecialty known as cytogenetics.
+Reproductive biology testing is available in some laboratories, including Semen analysis, Sperm bank and assisted reproductive technology.
+Layouts of clinical laboratories in health institutions vary greatly from one facility to another. For instance, some health facilities have a single laboratory for the microbiology section, while others have a separate lab for each specialty area.
+
+The following is an example of a typical breakdown of the responsibilities of each area:
+
+Microbiology includes culturing of the bacteria in clinical specimens, such as feces, urine, blood, sputum, cerebrospinal fluid, and synovial fluid, as well as possible infected tissue. The work here is mainly concerned with cultures, to look for suspected pathogens which, if found, are further identified based on biochemical tests. Also, sensitivity testing is carried out to determine whether the pathogen is sensitive or resistant to a suggested medicine. Results are reported with the identified organism(s) and the type and amount of drug(s) that should be prescribed for the patient.
+Parasitology is where specimens are examined for parasites.  For example, fecal samples may be examined for evidence of intestinal parasites such as tapeworms or hookworms.
+Virology is concerned with identification of viruses in specimens such as blood, urine, and cerebrospinal fluid.
+Hematology analyzes whole blood specimens to perform full blood counts, and includes the examination of blood films.  Other specialized tests include cell counts on various bodily fluids.
+Coagulation testing determines various blood clotting times, coagulation factors, and platelet function.
+Clinical biochemistry commonly performs dozens of different tests on serum or plasma. These tests, mostly automated, includes quantitative testing for a wide array of substances, such as lipids, blood sugar, enzymes, and hormones.
+Toxicology is mainly focused on testing for pharmaceutical and recreational drugs. Urine and blood samples are the common specimens.
+Immunology/Serology uses the process of antigen-antibody interaction as a diagnostic tool. Compatibility of transplanted organs may also be determined with these methods.
+Immunohematology, or blood bank determines blood groups, and performs compatibility testing on donor blood and recipients. It also prepares blood components, derivatives, and products for transfusion. This area determines a patient's blood type and Rh status, checks for antibodies to common antigens found on red blood cells, and cross matches units that are negative for the antigen.
+Urinalysis tests urine for many analytes, including microscopically. If more precise quantification of urine chemicals is required, the specimen is processed in the clinical biochemistry lab.
+Histopathology processes solid tissue removed from the body (biopsies) for evaluation at the microscopic level.
+Cytopathology examines smears of cells from all over the body (such as from the cervix) for evidence of inflammation, cancer, and other conditions.
+Molecular diagnostics includes specialized tests involving DNA and RNA analysis.
+Cytogenetics involves using blood and other cells to produce a DNA karyotype. This can be helpful in cases of prenatal diagnosis (e.g. Down's syndrome) as well as in some cancers which can be identified by the presence of abnormal chromosomes.
+Surgical pathology examines organs, limbs, tumors, fetuses, and other tissues biopsied in surgery such as breast mastectomies.
+
+Medical laboratory staff
+The staff of clinical laboratories may include:
+
+Pathologist
+Clinical biochemist
+Laboratory assistant (LA)
+Laboratory manager
+Biomedical scientist (BMS) in the UK, Medical laboratory scientist (MT, MLS or CLS) in the US or Medical laboratory technologist in Canada
+Medical laboratory technician/clinical laboratory technician (MLT or CLT in US)
+Medical laboratory assistant (MLA)
+Phlebotomist (PBT)
+Histology technician
+
+Labor shortages
+The United States has a documented shortage of working laboratory professionals.  For example, as of 2016 vacancy rates for Medical Laboratory Scientists ranged from 5% to 9% for various departments.  The decline is primarily due to retirements, and to at-capacity educational programs that cannot expand which limits the number of new graduates.  Professional organizations and some state educational systems are responding by developing ways to promote the lab professions in an effort to combat this shortage. In addition, the vacancy rates for the MLS were tested again in 2018. The percentage range for the various departments has developed a broader range of 4% to as high as 13%. The higher numbers were seen in the Phlebotomy and Immunology. Microbiology was another department that has had a struggle with vacancies. Their average in the 2018 survey was around 10-11% vacancy rate across the United States. Recruitment campaigns, funding for college programs, and better salaries for the laboratory workers are a few ways they are focusing to decrease the vacancy rate.  The National Center For Workforce Analysis has estimated that by 2025 there will be a 24% increase in demand for lab professionals. Highlighted by the COVID-19 pandemic, work is being done to address this shortage including bringing pathology and laboratory medicine into the conversation surrounding access to healthcare. COVID-19 brought the laboratory to the attention of the government and the media, thus giving opportunity for the staffing shortages as well as the resource challenges to be heard and dealt with.
+
+Types of laboratory
+In most developed countries, there are two main types of lab processing the majority of medical specimens. Hospital laboratories are attached to a hospital, and perform tests on their patients. Private (or community) laboratories receive samples from general practitioners, insurance companies, clinical research sites and other health clinics for analysis. For extremely specialised tests, samples may go to a research laboratory.  Some tests involve specimens sent between different labs for uncommon tests. For example, in some cases it may be more cost effective if a particular laboratory specializes in a less common tests, receiving specimens (and payment) from other labs, while sending other specimens to other labs for those tests they do not perform.
+In many countries there are specialized types of medical laboratories according to the types of investigations carried out. Organisations that provide blood products for transfusion to hospitals, such as the Red Cross, will provide access to their reference laboratory for their customers. Some laboratories specialize in Molecular diagnostic and cytogenetic testing, in order to provide information regarding diagnosis and treatment of genetic or cancer-related disorders.
+
+Specimen processing and work flow
+In a hospital setting, sample processing will usually start with a set of samples arriving with a test request, either on a form or electronically via the laboratory information system (LIS). Inpatient specimens will already be labeled with patient and testing information provided by the LIS.  Entry of test requests onto the LIS system involves typing (or scanning where barcodes are used) in the laboratory number, and entering the patient identification, as well as any tests requested. This allows laboratory analyzers, computers and staff to recognize what tests are pending, and also gives a location (such as a hospital department, doctor or other customer) for results reporting.
+Once the specimens are assigned a laboratory number by the LIS, a sticker is typically printed that can be placed on the tubes or specimen containers.  This label has a barcode that can be scanned by automated analyzers and test requests uploaded to the analyzer from the LIS.
+Specimens are prepared for analysis in various ways. For example, chemistry samples are usually centrifuged and the serum or plasma is separated and tested. If the specimen needs to go on more than one analyzer, it can be divided into separate tubes.
+Many specimens end up in one or more sophisticated automated analysers, that process a fraction of the sample to return one or more test results. Some laboratories use robotic sample handlers (Laboratory automation) to optimize the workflow and reduce the risk of contamination from sample handling by the staff.
+The work flow in a hospital laboratory is usually heaviest from 2:00 am to 10:00 am.  Nurses and doctors generally have their patients tested at least once a day with common tests such as complete blood counts and chemistry profiles.  These orders are typically drawn during a morning run by phlebotomists for results to be available in the patient's charts for the attending physicians to consult during their morning rounds.  Another busy time for the lab is after 3:00 pm when private practice physician offices are closing.  Couriers will pick up specimens that have been drawn throughout the day and deliver them to the lab.  Also, couriers will stop at outpatient drawing centers and pick up specimens. These specimens will be processed in the evening and overnight to ensure results will be available the following day.
+
+Laboratory informatics
+The large amount of information processed in laboratories is managed by a system of software programs, computers, and terminology standards that exchange data about patients, test requests, and test results known as a Laboratory information system or LIS.  The LIS is often interfaced with the hospital information system, EHR and/or laboratory instruments. Formats for terminologies for test processing and reporting are being standardized  with systems such as Logical Observation Identifiers Names and Codes (LOINC) and Nomenclature for Properties and Units terminology (NPU terminology).
+These systems enable hospitals and labs to order the correct test requests for each patient, keep track of individual patient and specimen histories, and help guarantee a better quality of results.  Results are made available to care providers electronically or by printed hard copies for patient charts.
+
+Result analysis, validation and interpretation
+According to various regulations, such as the international ISO 15189 norm, all pathological laboratory results must be verified by a competent professional. In some countries, staffs composed of clinical scientists do the majority of this work inside the laboratory with certain abnormal results referred to the relevant pathologist. Doctor Clinical Laboratory scientists have the responsibility for limited interpretation of testing results in their discipline in many countries. Interpretation of results can be assisted by some software in order to validate normal or non-modified results.
+In other testing areas, only professional medical staff (pathologist or clinical Laboratory) is involved with interpretation and consulting.  Medical staff are sometimes also required in order to explain pathology results to physicians. For a simple result given by phone or to explain a technical problem, often a medical technologist or medical lab scientist can provide additional information.
+Medical laboratory departments in some countries are exclusively directed by a specialized Doctor laboratory Science. In others, a consultant, medical or non-medical, may be the head the department. In Europe and some other countries, Clinical Scientists with a Masters level education may be qualified to head the department.  Others may have a PhD and can have an exit qualification equivalent to medical staff (e.g., FRCPath in the UK).
+In France, only medical staff (Pharm.D. and M.D. specialized in anatomical pathology or clinical Laboratory Science) are authorized to discuss laboratory results.
+
+Medical laboratory accreditation
+Credibility of medical laboratories is paramount to the health and safety of the patients relying on the testing services provided by these labs. Credentialing agencies vary by country. The international standard in use today for the accreditation of medical laboratories is ISO 15189 - Medical laboratories - Requirements for quality and competence.
+In the United States, billions of dollars is spent on unaccredited lab tests, such as Laboratory developed tests which do not require accreditation or FDA approval; about a billion USD a year is spent on US autoimmune LDTs alone.  Accreditation is performed by the Joint Commission, College of American Pathologists, AAB (American Association of Bioanalysts), and other state and federal agencies.  Legislative guidelines are provided under CLIA 88 (Clinical Laboratory Improvement Amendments) which regulates Medical Laboratory testing and personnel.
+The accrediting body in Australia is NATA, where all laboratories must be NATA accredited to receive payment from Medicare.
+In France the accrediting body is the Comité français d'accréditation (COFRAC).  In 2010, modification of legislation established ISO 15189 accreditation as an obligation for all clinical laboratories.
+In the United Arab Emirates, the Dubai Accreditation Department (DAC) is the accreditation body that is internationally recognised by the International Laboratory Accreditation Cooperation (ILAC) for many facilities and groups, including Medical Laboratories, Testing and Calibration Laboratories, and Inspection Bodies.
+In Hong Kong, the accrediting body is Hong Kong Accreditation Service (HKAS).  On 16 February 2004, HKAS launched its medical testing accreditation programme.
+In Canada, laboratory accreditation is not mandatory, but is becoming more and more popular.  Accreditation Canada (AC) is the national reference. Different provincial oversight bodies mandate laboratories in EQA participations like LSPQ (Quebec), IQMH (Ontario) for example.
+
+Industry
+The laboratory industry is a part of the broader healthcare and health technology industry. Companies exist at various levels, including clinical laboratory services, suppliers of instrumentation equipment and consumable materials, and suppliers and developers of diagnostic tests themselves (often by biotechnology companies).
+Clinical laboratory services includes large multinational corporations such LabCorp, Quest Diagnostics, and Sonic Healthcare but a significant portion of revenue, estimated at 60% in the United States, is generated by hospital labs. In 2018, the total global revenue for these companies was estimated to reach $146 billion by 2024. Another estimate places the market size at $205 billion, reaching $333 billion by 2023. The American Association for Clinical Chemistry (AACC) represents professionals in the field.
+Clinical laboratories are supplied by other multinational companies which focus on materials and equipment, which can be used for both scientific research and medical testing. The largest of these is Thermo Fisher Scientific. In 2016, global life sciences instrumentation sales were around $47 billion, not including consumables, software, and services. In general, laboratory equipment includes lab centrifuges, transfection solutions, water purification systems, extraction techniques, gas generators, concentrators and evaporators, fume hoods, incubators, biological safety cabinets, bioreactors and fermenters, microwave-assisted chemistry, lab washers, and shakers and stirrers.
+
+United States
+In the United States, estimated total revenue as of 2016 was $75 billion, about 2% of total healthcare spending. In 2016, an estimated 60% of revenue was done by hospital labs, with 25% done by two independent companies (LabCorp and Quest). Hospital labs may also outsource their lab, known as outreach, to run tests; however, health insurers may pay the hospitals more than they would pay a laboratory company for the same test, but as of 2016, the markups were questioned by insurers. Rural hospitals, in particular, can bill for lab outreach under the Medicare's 70/30 shell rule.
+Laboratory developed tests are designed and developed inside a specific laboratory and do not require FDA approval; due to technological innovations, they have become more common and are estimated at a total value of $11 billion in 2016.
+Due to the rise of high-deductible health plans, laboratories have sometimes struggled to collect when billing patients; consequently, some laboratories have shifted to become more "consumer-focused".
+
+See also
+ARUP Laboratories
+Healthcare scientist
+Point-of-care testing
+
+References
+Further reading
+Morris, S., Otto, N. C., Golemboski, K. (2013). Improving patient safety and healthcare quality in the 21st century—Competencies required of future medical laboratory science practitioners. Clinical Laboratory Science, 26, 200–204.
+Archibong, F., Atangwho, A., Ayuk, E. A., Okoye, E. I., Atroger, M., Okokon, B. I. (2019). Medical law: exploring doctor's knowledge on the laws regulating clinical and medical laboratories in Nigeria. Nigerian Journal of Medicine, 28(4), 386–392.
+Plebani, M., Laposata, M., Lippi, G. (2019). Driving the route of laboratory medicine: a manifesto for the future. Internal and Emergency Medicine, 14, 337–340.
+Goulding, M. H., Graham, L., Chorney, D., Rajendram, R. (2020). The use of interprofessional stimulation to improve collaboration and problem solving among undergraduate BHSc medical laboratory science and BScN nursing students. Canadian Journal of Medical Laboratory Science, 82(2), 25–33.

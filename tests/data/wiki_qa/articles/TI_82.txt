@@ -1,0 +1,38 @@
+The TI-82 is a graphing calculator made by Texas Instruments. The TI-82 was designed in 1993 as an upgraded version of and replacement for the TI-81. It was the direct predecessor of the TI-83. It shares with the TI-85 a 6 MHz Zilog Z80 microprocessor. Like the TI-81, the TI-82 features a 96×64 pixel display, and the core feature set of the TI-81 with many new features.
+
+Features
+The TI-82 is powered by the same processor that powered its cousin, the TI-85, a 6 MHz Zilog Z80 microprocessor. This was an improvement over the TI-81's 2 MHz Z80 processor.  In addition, the available RAM was increased more than tenfold – from 2400 bytes to 28734 bytes (slightly more than the TI-85).
+Some of the more notable improvements of the TI-82 over the TI-81 include the following: the addition of a link port to enable programs and other data to be transferred between two calculators or between a calculator and a computer; the addition of two new graphing types – polar and sequence, the addition of a new type of data – the list, the expansion of the size limit of matrices to 50×50, and the (unintentional) addition of the ability to program the calculator in assembly language. The last of these provided a significant boost in interest in the programmability of the calculator, as the use of assembly language (as opposed to Texas Instruments' own TI-BASIC) enabled significantly more performance and flexibility with the programs able to be used on the calculator.
+Carried over from the TI-81 is the TI-82's power source – four AAA batteries and one CR1616 or CR1620 lithium backup battery (to ensure programs stored in RAM persist when the AAA batteries are being changed).
+
+Design changes
+The TI-82 was redesigned twice, first in 1999 and again in 2001. The 1999 redesign introduced a design very similar to the TI-73, TI-83 Plus, and the TI-89. It introduced a more contoured body and eliminated the sloped screen that has been common on TI graphing calculators since the TI-81. The 2001 redesign (nicknamed the TI-82 "Parcus") introduced a slightly different shape to the calculator, eliminated the glossy screen border, and reduced cost by streamlining the printed circuit board to four units.
+
+TI-82 STATS
+An enhanced version of the TI-82, the TI-82 STATS, was first released in 2004 in Europe. There are several improvements, most notably the statistical features as the name would suggest. In addition, it featured numerical differentiation and integration, together with complex numbers, financial functions and other improvements. In specification terms, it is virtually identical to the TI-83.
+
+Technical specifications
+CPU
+Zilog Z80 CPU, 6 MHz
+RAM
+32 KB, 28734 bytes user-accessible
+OTP-ROM
+128 KB non-upgradable
+Display
+Text: 8 Rows × 16 characters
+Graphics: 96×64 pixels, monochrome
+I/O
+Serial link port
+Power
+4 AAA batteries plus 1 CR1616/CR1620 lithium battery for backup
+Integrated programming languages
+TI-BASIC, Assembly (via an undocumented feature)
+
+See also
+Comparison of Texas Instruments graphing calculators
+
+References
+External links
+
+Texas Instruments press release 1993-03-30
+ticalc.org – The largest archive of TI programs available.

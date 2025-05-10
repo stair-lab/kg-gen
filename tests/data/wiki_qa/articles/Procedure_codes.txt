@@ -1,0 +1,39 @@
+Procedure codes are a sub-type of medical classification used to identify specific surgical, medical, or diagnostic interventions. The structure of the codes will depend on the classification; for example some use a numerical system, others alphanumeric.
+
+Examples of procedure codes
+International
+International Classification of Primary Care (ICPC-2), as well as procedure codes; ICPC-2 also contains diagnosis codes, reasons for encounter (RFE), and process of care.
+International Classification of Procedures in Medicine (ICPM) and International Classification of Health Interventions (ICHI)
+SNOMED CT
+
+North American
+Canadian Classification of Health Interventions (CCI) (used in Canada. Replaced CCP.) 
+Current Dental Terminology (CDT)
+Healthcare Common Procedure Coding System (including Current Procedural Terminology) (for outpatient use; used in United States)
+ICD-10 Procedure Coding System (ICD-10-PCS) (for inpatient use; used in United States)
+ICD-9-CM Volume 3 (subset of ICD-9-CM) (formerly used in United States prior to the introduction of the ICD-10-PCS)
+Nursing Interventions Classification (NIC) (used in United States) 
+Nursing Minimum Data Set (NMDS)
+Nursing Outcomes Classification (NOC)
+
+European
+Classification des Actes Médicaux (CCAM) (used in France)
+Classificatie van verrichtingen (Dutch)
+Gebührenordnung für Ärzte (GOÄ) (Germany)
+Nomenclature des prestations de santé de l'institut national d'assurance maladie invalidité (Belgium)
+NOMESCO, the Nordic Medico-Statistical Committee, maintains codebooks for medical, surgical and radiological procedures termed NCMP, NCSP and NCRP respectively. They are used in member states of the Nordic Council, and to some extent in the Baltic states.
+OPCS-4 (used by the NHS in England)
+OPS-301 (adaptation of ICPM used in Germany)
+Read codes, used in United Kingdom General Practice
+TARMED (Switzerland)
+
+Other
+Australian Classification of Health Interventions (ACHI)
+
+See also
+Diagnosis code
+Medical classification
+Chargemaster
+
+
+== References ==

@@ -1,0 +1,138 @@
+In poker, players form sets of five playing cards, called hands, according to the rules of the game. Each hand has a rank, which is compared against the ranks of other hands participating in the showdown to decide who wins the pot. In high games, like Texas hold 'em and seven-card stud, the highest-ranking hands win. In low games, like razz, the lowest-ranking hands win. In high-low split games, both the highest-ranking and lowest-ranking hands win, though different rules are used to rank the high and low hands.
+Each hand belongs to a category determined by the patterns formed by its cards. A hand in a higher-ranking category always ranks higher than a hand in a lower-ranking category. A hand is ranked within its category using the ranks of its cards. Individual cards are ranked, from highest to lowest: A, K, Q, J, 10, 9, 8, 7, 6, 5, 4, 3 and 2. However, aces have the lowest rank under ace-to-five low or ace-to-six low rules, or under high rules as part of a five-high straight or straight flush. Suits are not ranked, so hands that differ by suit alone are of equal rank.
+There are nine categories of hand when using a standard 52-card deck, except under ace-to-five low rules where straights, flushes and straight flushes are not recognized. An additional category, five of a kind, exists when using one or more wild cards. The fewer hands a category contains, the higher its rank. There are 
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    
+                      52
+                      !
+                    
+                    
+                      (
+                      52
+                      −
+                      5
+                      )
+                      !
+                    
+                  
+                
+                =
+                311,875,200
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{matrix}{\frac {52!}{(52-5)!}}=311{,}875{,}200\end{matrix}}}
+  
+ ways to deal five cards from the deck but only 
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    
+                      52
+                      !
+                    
+                    
+                      (
+                      52
+                      −
+                      5
+                      )
+                      !
+                      5
+                      !
+                    
+                  
+                
+                =
+                2,598,960
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{matrix}{\frac {52!}{(52-5)!5!}}=2{,}598{,}960\end{matrix}}}
+  
+ distinct hands, because the order in which cards are dealt or arranged in a hand does not matter. Moreover, since hands differing only by suit are of equal rank, there are only 7,462 distinct hand ranks.
+
+Hand-ranking categories
+Five of a kind
+Five of a kind, or five cards, is a hand that contains five cards of one rank, such as 3♥ 3♦ 3♣ 3♠ 3 ("five of a kind, threes"). It ranks above a straight flush but is only possible when using one or more wild cards, as there are only four cards of each rank in the deck. Five of a kind, aces, A♥ A♦ A♣ A♠ Jkr, becomes possible when a joker is added to the deck as a bug, a form of wild card that may act as a fifth ace. Other wild card rules allow jokers or other designated cards to represent any card in the deck, making it possible to form five of a kind of any rank.
+Each five of a kind is ranked by the rank of its quintuplet. For example, Q♠ Q♥ Q♣ Q♦ Q ranks higher than 6♣ 6♠ 6♦ 6♥ 6.
+
+Straight flush
+A straight flush is a hand that contains five cards of sequential rank, all of the same suit, such as Q♥ J♥ 10♥ 9♥ 8♥ (a "queen-high straight flush").  It ranks below five of a kind and above four of a kind. Under high rules, an ace can rank either high (as in A♥ K♥ Q♥ J♥ 10♥, an ace-high straight flush) or low (as in 5♦ 4♦ 3♦ 2♦ A♦, a five-high straight flush), but cannot simultaneously rank both high and low (so Q♣ K♣ A♣ 2♣ 3♣ is an ace-high flush, but not a straight). Under deuce-to-seven low rules, an ace always ranks high (so 5♠ 4♠ 3♠ 2♠ A♠ is an ace-high flush). Under ace-to-six low rules, an ace always ranks low (so A♥ K♥ Q♥ J♥ 10♥ is a king-high flush). Under ace-to-five low rules, straight flushes are not possible (so 9♣ 8♣ 7♣ 6♣ 5♣ is a nine-high hand).
+Each straight flush is ranked by the rank of its highest-ranking card. For example, 10♣ 9♣ 8♣ 7♣ 6♣ ranks higher than 8♥ 7♥ 6♥ 5♥ 4♥, which ranks higher than 6♠ 5♠ 4♠ 3♠ 2♠. Straight flush hands that differ by suit alone, such as 7♦ 6♦ 5♦ 4♦ 3♦ and 7♠ 6♠ 5♠ 4♠ 3♠, are of equal rank.
+
+A royal flush or royal straight flush is a hand that contains an ace-high straight flush, such as A♦ K♦ Q♦ J♦ 10♦, and is the best possible hand in ace-high games when wild cards are not used. A five-high straight flush, such as 5♥ 4♥ 3♥ 2♥ A♥, is called a steel wheel and is both the best low hand and usually the best high hand of the showdown in ace-to-five high-low split games.
+
+Four of a kind
+Four of a kind, also known as quads or four cards, is a hand that contains four cards of one rank and one card of another rank (the kicker), such as 9♣ 9♠ 9♦ 9♥ J♥ ("four of a kind, nines"). It ranks below a straight flush and above a full house.
+
+Each four of a kind is ranked first by the rank of its quadruplet, and then by the rank of its kicker. For example, K♠ K♥ K♣ K♦ 3♥ ranks higher than 7♥ 7♦ 7♠ 7♣ Q♥, which ranks higher than 7♥ 7♦ 7♠ 7♣ 10♠. Four of a kind hands that differ by suit alone, such as 4♣ 4♠ 4♦ 4♥ 9♣ and 4♣ 4♠ 4♦ 4♥ 9♦, are of equal rank.
+
+Full house
+A full house, also known as a full boat or a tight or a boat (and originally called a full hand), is a hand that contains three cards of one rank and two cards of another rank, such as 3♣ 3♠ 3♦ 6♣ 6♥ (a "full house, threes over sixes" or "threes full of sixes" or "threes full"). It ranks below four of a kind and above a flush.
+
+Each full house is ranked first by the rank of its triplet, and then by the rank of its pair. For example, 8♠ 8♦ 8♥ 7♦ 7♣ ranks higher than 4♦ 4♠ 4♣ 9♦ 9♣, which ranks higher than 4♦ 4♠ 4♣ 5♣ 5♦. Full house hands that differ by suit alone, such as K♣ K♠ K♦ J♣ J♠ and K♣ K♥ K♦ J♣ J♥, are of equal rank.
+
+Flush
+A flush is a hand that contains five cards all of the same suit, not all of sequential rank, such as K♣ 10♣ 7♣ 6♣ 4♣ (a "king-high flush" or a "king-ten-high flush"). It ranks below a full house and above a straight.  Under ace-to-five low rules, flushes are not possible (so J♥ 8♥ 4♥ 3♥ 2♥ is a jack-high hand).
+
+Each flush is ranked first by the rank of its highest-ranking card, then by the rank of its second highest-ranking card, then by the rank of its third highest-ranking card, then by the rank of its fourth highest-ranking card, and finally by the rank of its lowest-ranking card. For example, K♦ J♦ 9♦ 6♦ 4♦ ranks higher than Q♣ J♣ 7♣ 6♣ 5♣, which ranks higher than J♥ 10♥ 9♥ 4♥ 2♥, which ranks higher than J♠ 10♠ 8♠ 6♠ 3♠, which ranks higher than J♥ 10♥ 8♥ 4♥ 3♥, which ranks higher than J♣ 10♣ 8♣ 4♣ 2♣. Flush hands that differ by suit alone, such as 10♦ 8♦ 7♦ 6♦ 5♦ and 10♠ 8♠ 7♠ 6♠ 5♠, are of equal rank.
+
+Straight
+A straight, also known as a run, is a hand that contains five cards of sequential rank, not all of the same suit, such as 7♣ 6♠ 5♠ 4♥ 3♥ (a "seven-high straight"). It ranks below a flush and above three of a kind. Under high rules, an ace can rank either high (as in A♦ K♣ Q♣ J♦ 10♠, an ace-high straight) or low (as in 5♣ 4♦ 3♥ 2♥ A♠, a five-high straight), but cannot simultaneously rank both high and low (so Q♠ K♠ A♣ 2♥ 3♦ is an ace-high hand). Under deuce-to-seven low rules, an ace always ranks high (so 5♥ 4♠ 3♥ 2♣ A♦ is an ace-high hand). Under ace-to-six low rules, an ace always ranks low (so A♣ K♠ Q♠ J♦ 10♠ is a king-high hand). Under ace-to-five low rules, straights are not possible (so 10♥ 9♠ 8♣ 7♣ 6♦ is a ten-high hand).
+Each straight is ranked by the rank of its highest-ranking card. For example, J♥ 10♥ 9♣ 8♠ 7♥ ranks higher than 10♠ 9♠ 8♣ 7♥ 6♠, which ranks higher than 6♣ 5♠ 4♥ 3♠ 2♦. Straight hands that differ by suit alone, such as 9♣ 8♣ 7♣ 6♦ 5♦ and 9♠ 8♠ 7♠ 6♥ 5♥, are of equal rank.
+
+An ace-high straight, such as A♣ K♣ Q♦ J♠ 10♠, is called a Broadway straight, while a five-high straight, such as 5♠ 4♦ 3♦ 2♠ A♥, is called a baby straight, bicycle or wheel and is the best possible hand in ace-to-five low games (where it is a high card hand, not a straight).
+
+Three of a kind
+Three of a kind, also known as trips or a set, is a hand that contains three cards of one rank and two cards of two other ranks (the kickers), such as 2♦ 2♠ 2♣ K♠ 6♥ ("three of a kind, twos" or "trip twos" or a "set of twos"). It ranks below a straight and above two pair.
+Each three of a kind is ranked first by the rank of its triplet, then by the rank of its highest-ranking kicker, and finally by the rank of its lowest-ranking kicker. For example, 6♥ 6♦ 6♠ Q♣ 4♠ ranks higher than 3♦ 3♠ 3♣ K♠ 2♠, which ranks higher than 3♦ 3♠ 3♣ J♣ 7♥, which ranks higher than 3♦ 3♠ 3♣ J♠ 5♦. Three of a kind hands that differ by suit alone, such as 9♠ 9♥ 9♦ 10♦ 8♥ and 9♣ 9♠ 9♥ 10♦ 8♦, are of equal rank.
+
+In community card games, such as Texas hold 'em, three of a kind is called a set only when it comprises a pocket pair and a third card on the board.
+
+Two pair
+Two pair is a hand that contains two cards of one rank, two cards of another rank and one card of a third rank (the kicker), such as J♥ J♣ 4♣ 4♠ 9♥ ("two pair, jacks and fours" or "two pair, jacks over fours" or "jacks up"). It ranks below three of a kind and above one pair.
+
+Each two pair is ranked first by the rank of its higher-ranking pair, then by the rank of its lower-ranking pair, and finally by the rank of its kicker. For example, 10♦ 10♠ 2♠ 2♣ K♣ ranks higher than 5♣ 5♠ 4♦ 4♥ 10♥, which ranks higher than 5♣ 5♠ 3♣ 3♦ Q♠, which ranks higher than 5♣ 5♠ 3♣ 3♦ J♠. Two pair hands that differ by suit alone, such as K♦ K♠ 7♦ 7♥ 8♥ and K♣ K♠ 7♣ 7♥ 8♣, are of equal rank.
+
+One pair
+One pair, or simply a pair, is a hand that contains two cards of one rank and three cards of three other ranks (the kickers), such as 4♥ 4♠ K♠ 10♦ 5♠ ("one pair, fours" or a "pair of fours"). It ranks below two pair and above high card.
+
+Each one pair is ranked first by the rank of its pair, then by the rank of its highest-ranking kicker, then by the rank of its second highest-ranking kicker, and finally by the rank of its lowest-ranking kicker. For example, 9♣ 9♦ Q♠ J♥ 5♥ ranks higher than 6♦ 6♥ K♠ 7♥ 4♣, which ranks higher than 6♦ 6♥ Q♥ J♠ 2♣, which ranks higher than 6♦ 6♥ Q♠ 8♣ 7♦, which ranks higher than 6♦ 6♥ Q♦ 8♥ 3♠. One-pair hands that differ by suit alone, such as 8♠ 8♦ 10♥ 6♣ 5♠ and 8♥ 8♣ 10♣ 6♠ 5♣, are of equal rank.
+
+High card
+High card, also known as no pair or simply nothing, is a hand that does not fall into any other category, such as K♥ J♥ 8♣ 7♦ 4♠ ("high card, king" or "king-jack-high" or "king-high"). Note that under ace-to-five low rules, straights, flushes and straight flushes are not possible, so such hands are instead high card hands. It ranks below one pair.
+Each high card hand is ranked first by the rank of its highest-ranking card, then by the rank of its second highest-ranking card, then by the rank of its third highest-ranking card, then by the rank of its fourth highest-ranking card, and finally by the rank of its lowest-ranking card. For example, K♠ 6♣ 5♥ 3♦ 2♣ ranks higher than Q♠ J♦ 6♣ 5♥ 3♣, which ranks higher than Q♠ 10♦ 8♣ 7♦ 4♠, which ranks higher than Q♥ 10♥ 7♣ 6♥ 4♠, which ranks higher than Q♣ 10♣ 7♦ 5♣ 4♦, which ranks higher than Q♥ 10♦ 7♠ 5♠ 2♥. High card hands that differ by suit alone, such as 10♣ 8♠ 7♠ 6♥ 4♦ and 10♦ 8♦ 7♠ 6♣ 4♣, are of equal rank.
+
+Under deuce-to-seven low rules, a seven-five-high hand, such as 7♠ 5♣ 4♦ 3♦ 2♣, is the best possible hand. Under ace-to-six low rules, where aces have the lowest rank, a six-four-high hand, such as 6♣ 4♠ 3♥ 2♥ A♦, is the best possible hand. Under ace-to-five low rules, where aces have the lowest rank and straights, flushes and straight flushes are not possible, a five-high hand, such as 5♣ 4♠ 3♥ 2♥ A♦ or 5♠ 4♠ 3♠ 2♠ A♠, commonly known as a bicycle or wheel, is the best possible hand.
+
+See also
+Glossary of poker terms
+List of playing-card nicknames
+Non-standard poker hand
+Poker probability
+Yahtzee
+
+References
+External links
+ Media related to Poker hands at Wikimedia Commons

@@ -1,0 +1,38 @@
+Calcium nitrate are inorganic compounds with the formula Ca(NO3)2(H2O)x. The anhydrous compound, which is rarely encountered, absorbs moisture from the air to give the tetrahydrate. Both anhydrous and hydrated forms are colourless salts. Hydrated calcium nitrate, also called Norgessalpeter (Norwegian salpeter), is mainly used as a component in fertilizers, but it has other applications. Nitrocalcite is the name for a mineral which is a hydrated calcium nitrate that forms as an efflorescence where manure contacts concrete or limestone in a dry environment as in stables or caverns. A variety of related salts are known including calcium ammonium nitrate decahydrate and calcium potassium nitrate decahydrate.
+
+Production and reactivity
+Norgessalpeter was synthesized at Notodden, Norway in 1905 by the Birkeland–Eyde process. Most of the world's calcium nitrate is now made in Porsgrunn. It is produced by treating limestone with nitric acid, followed by neutralization with ammonia:
+
+CaCO3 + 2 HNO3  →  Ca(NO3)2 + CO2 + H2O
+It is also an intermediate product of the Odda Process:
+
+Ca5(PO4)3OH + 10 HNO3  →  3 H3PO4 + 5 Ca(NO3)2 + H2O
+It can also be prepared from an aqueous solution of ammonium nitrate, and calcium hydroxide:
+
+2 NH4NO3 + Ca(OH)2  →  Ca(NO3)2 + 2 NH4OH
+Like related alkaline earth metal nitrates, calcium nitrate decomposes upon heating (starting at 500 °C) to release nitrogen dioxide:
+
+2 Ca(NO3)2  →  2 CaO + 4 NO2 + O2   ΔH = 369 kJ/mol
+
+Applications
+Use in agriculture
+The fertilizer grade (15.5-0-0 + 19% Ca) is popular in the greenhouse and hydroponics trades; it contains ammonium nitrate and water, as the "double salt" 5Ca(NO3)2·NH4NO3·10H2O. This is called calcium ammonium nitrate and often the name calcium nitrate prill is used as it always comes in a prilled (granular) form. Formulations lacking ammonia are also known: Ca(NO3)2·4H2O (11.9-0-0 + 16.9 Ca) and the water-free 17-0-0 + 23.6 Ca. A liquid formulation (9-0-0 + 11 Ca) is also offered. An anhydrous, air-stable derivative is the urea complex Ca(NO3)2·4[OC(NH2)2], which has been sold as Cal-Urea.
+Calcium nitrate is also used to control certain plant diseases. For example, dilute calcium nitrate (and calcium chloride) sprays are used to control bitter pit and cork spot in apple trees.
+
+Waste water treatment
+Calcium nitrate is used in waste water pre-conditioning for odour emission prevention. The waste water pre-conditioning is based on establishing an anoxic biology in the waste water system. In the presence of nitrate, the metabolism for sulfates stops, thus preventing formation of hydrogen sulfide. Additionally, easily degradable organic matter is consumed, which otherwise can cause anaerobic conditions downstream as well as odour emissions itself. The concept is also applicable for surplus sludge treatment.
+
+Concrete
+Calcium nitrate is used in set accelerating concrete admixtures.  This use with concrete and mortar is based on two effects. The calcium ion accelerates formation of calcium hydroxide and thus precipitation and setting. This effect is used also in cold weather concreting agents as well as some combined plasticizers. The nitrate ion leads to formation of iron hydroxide, whose protective layer reduces corrosion of the concrete reinforcement.
+
+Latex coagulant
+Calcium nitrate is a very common coagulant in latex production,  especially in dipping processes. Dissolved calcium nitrate is a part of the dipping bath solution. The warm former is dipped into the coagulation liquid and a thin film of the dipping liquid remains on the former. When now dipping the former into the latex the calcium nitrate will break up the stabilization of the latex solution and the latex will coagulate on the former.
+
+Cold packs
+The dissolution of calcium nitrate tetrahydrate is highly endothermic (cooling).  For this reason, calcium nitrate tetrahydrate is sometimes used for regenerable cold packs.
+
+Molten salts for heat transfer and storage
+Calcium nitrate can be used as a part of molten salt mixtures. Typical are binary mixtures of calcium nitrate and potassium nitrate or ternary mixtures including also sodium nitrate. Those molten salts can be used to replace thermo oil in concentrated solar power plants for the heat transfer, but mostly those are used in heat storage.
+
+
+== References ==

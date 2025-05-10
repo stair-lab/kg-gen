@@ -1,0 +1,28 @@
+A rocker arm is a valvetrain component that typically transfers the motion of a pushrod in an overhead valve internal combustion engine to the corresponding intake/exhaust valve.
+Rocker arms in automobiles are typically made from stamped steel, or aluminum in higher-revving applications. Some rocker arms (called roller rockers) include a bearing at the contact point, to reduce wear and friction there.
+
+Overview
+The most common use of a rocker arm is to transfer the up and down motion of a pushrod in an overhead valve (OHV) internal combustion engine to the corresponding intake/exhaust valve.  In an OHV engine the camshaft located within the engine block below the cylinder bank(s) pushes the pushrod upwards. The top of the pushrod presses upwards on one side of the rocker arm located at the top of the cylinder head, which causes the rocker arm to pivot downward on the top of the valve, opening it.
+To reduce friction, uneven wear and "bell-mouthing" of the valve guide, a roller rocker uses needle bearings (or a single bearing ball in older engines) at the contact point between the rocker and the valve. These allow higher engine speeds (RPMs) and higher loads, and were initially confined to high-performance and racing engines due to the considerable extra expense.
+Roller rockers can also be used in overhead cam engines (OHC). However, these generally have the roller at the point where the cam lobe contacts the rocker, rather than where the rocker contacts the valve stem.
+Some OHC engines employ short rocker arms, also known as finger followers, in which the cam lobe pushes downward on the back of the rocker arm to open the valve. In such a configuration one end of the follower is anchored (pivoting in place on a roller bearing), rather than having its fulcrum in the center like standard rocker arms.  The opposite end bears on the top of the valvestem, compressed by the force of the cam lobe acting on its upper surface.
+
+Rocker ratio
+The rocker ratio is the distance travelled by the valve divided by the distance travelled by the pushrod effective. The ratio is determined by the ratio of the distances from the rocker arm's pivot point to the point where it touches the valve and the point where it touches the pushrod/camshaft. A rocker ratio greater than one essentially increases the camshaft's lift.
+Current automotive design favors rocker arm ratios of about 1.5:1 to 1.8:1. However, in the past smaller positive ratios have been used, including a 1:1 (neutral ratio) in many engines prior to the 1950s, and ratios less than 1 (valve lift smaller than the cam lift) have also been used at times.
+
+Materials
+Mass-produced car engines traditionally used  a stamped steel construction for the rocker arms, due to the lower cost of production.
+Rocker arms contribute to the reciprocating weight of the valvetrain, which can become problematic at higher engine speeds (RPM). For this reason, aluminum is often used in engines that operate at higher RPM. Upgraded bearings for the rocker arm's fulcrum are also sometimes used in engines operating at high RPM.
+Diesel truck engines often use rocker arms made from cast iron (usually ductile), or forged carbon steel.
+
+See also
+
+Camshaft
+List of auto parts
+Poppet valve
+Pushrod
+Tappet
+
+
+== References ==

@@ -1,0 +1,300 @@
+The soybean, soy bean, or soya bean (Glycine max) is a species of legume native to East Asia, widely grown for its edible bean, which has numerous uses.
+Traditional unfermented food uses of soybeans include edamame, as well as soy milk, from which tofu and tofu skin are made. Fermented soy foods include soy sauce, fermented bean paste, nattō, and tempeh. Fat-free (defatted) soybean meal is a significant and cheap source of protein for animal feeds and many packaged meals. For example, soybean products, such as textured vegetable protein (TVP), are ingredients in many meat and dairy substitutes.
+Soybeans contain significant amounts of phytic acid, dietary minerals and B vitamins. Soy vegetable oil, used in food and industrial applications, is another product of processing the soybean crop. Soybean is a common protein source in feed for farm animals that in turn yield animal protein for human consumption.
+
+Etymology
+The word "soy" derives from the Japanese soi, a regional variant of shōyu, meaning "soy sauce".
+The name of the genus, Glycine, comes from Linnaeus. When naming the genus, Linnaeus observed that one of the species formerly within the genus, which is later reclassified to the genus Apios, had a sweet root. Based on the sweetness, the Greek word for sweet, glykós, was Latinized. The genus name is not related to the amino acid glycine.
+
+Description
+Like most plants, soybeans grow in distinct morphological stages as they develop from seeds into fully mature plants.
+
+Germination
+The first stage of growth is germination, a method which first becomes apparent as a seed's radicle emerges. This is the first stage of root growth and occurs within the first 48 hours under ideal growing conditions. The first photosynthetic structures, the cotyledons, develop from the hypocotyl, the first plant structure to emerge from the soil. These cotyledons both act as leaves and as a source of nutrients for the immature plant, providing the seedling nutrition for its first 7 to 10 days.
+
+Maturation
+The first true leaves develop as a pair of single blades. Subsequent to this first pair, mature nodes form compound leaves with three blades. Mature trifoliolate leaves, having three to four leaflets per leaf, are often between 6 and 15 cm (2+1⁄2 and 6 in) long and 2 and 7 cm (1 and 3 in) broad. Under ideal conditions, stem growth continues, producing new nodes every four days. Before flowering, roots can grow 2 cm (3⁄4 in) per day. If rhizobia are present, root nodulation begins by the time the third node appears. Nodulation typically continues for 8 weeks before the symbiotic infection process stabilizes. The final characteristics of a soybean plant are variable, with factors such as genetics, soil quality, and climate affecting its form; however, fully mature soybean plants are generally between 50 and 125 cm (20 and 50 in) in height and have rooting depths between 75 and 150 cm (30 and 60 in).
+
+Flowering
+Flowering is triggered by day length, often beginning once days become shorter than 12.8 hours. This trait is highly variable however, with different varieties reacting differently to changing day length. Soybeans form inconspicuous, self-fertile flowers which are borne in the axil of the leaf and are white, pink or purple. Though they do not require pollination, they are attractive to bees, because they produce nectar that is high in sugar content. Depending on the soybean variety, node growth may cease once flowering begins. Strains that continue nodal development after flowering are termed "indeterminates" and are best suited to climates with longer growing seasons. Often soybeans drop their leaves before the seeds are fully mature.
+
+The fruit is a hairy pod that grows in clusters of three to five, each pod is 3–8 cm (1–3 in) long and usually contains two to four (rarely more) seeds 5–11 mm in diameter. Soybean seeds come in a wide variety of sizes and hull colors such as black, brown, yellow, and green. Variegated and bicolored seed coats are also common.
+
+Seed resilience
+The hull of the mature bean is hard, water-resistant, and protects the cotyledon and hypocotyl (or "germ") from damage. If the seed coat is cracked, the seed will not germinate. The scar, visible on the seed coat, is called the hilum (colors include black, brown, buff, gray and yellow) and at one end of the hilum is the micropyle, or small opening in the seed coat which can allow the absorption of water for sprouting.
+Some seeds such as soybeans containing very high levels of protein can undergo desiccation, yet survive and revive after water absorption. A. Carl Leopold began studying this capability at the Boyce Thompson Institute for Plant Research at Cornell University in the mid-1980s. He found soybeans and corn to have a range of soluble carbohydrates protecting the seed's cell viability. Patents were awarded to him in the early 1990s on techniques for protecting biological membranes and proteins in the dry state.
+
+Chemistry
+Dry soybeans contain 36% protein and 20% fat in form of soybean oil by weight. The remainder consists of 30% carbohydrates, 9% water and 5% ash. 
+Soybeans comprise approximately 8% seed coat or hull, 90% cotyledons and 2% hypocotyl axis or germ.
+
+Taxonomy
+The genus Glycine may be divided into two subgenera, Glycine and Soja. The subgenus Soja includes the cultivated soybean, G. max, and the wild soybean, treated either as a separate species G. soja, or as the subspecies G. max subsp. soja. The cultivated and wild soybeans are annuals. The wild soybean is native to China, Japan, Korea and Russia. The subgenus Glycine consists of at least 25 wild perennial species: for example, G. canescens and G. tomentella, both found in Australia and Papua New Guinea. Perennial soybean (Neonotonia wightii) belongs to a different genus. It originated in Africa and is now a widespread pasture crop in the tropics.
+Like some other crops of long domestication, the relationship of the modern soybean to wild-growing species can no longer be traced with any degree of certainty. It is a cultigen with a very large number of cultivars.
+
+Ecology
+Like many legumes, soybeans can fix atmospheric nitrogen, due to the presence of symbiotic bacteria from the Rhizobia group.
+
+Cultivation
+Soybeans are globally important agricultural crops, grown as a major source of protein and oil. It prefers fertile, well-drained soils and requires a warm temperate climate with adequate rainfall or irrigation. Soybeans are mainly grown in the United States, Brazil, and Argentina.
+It is usually planted in straight rows using modern machinery, and pests and weeds must be controlled to maintain the crop. After maturity, it is harvested using mechanized harvesting machines. Soybeans are used in the production of many food and industrial products, such as Tofu, oils, and feed, in addition to their role in improving soil fertility by fixing nitrogen.
+
+Conditions
+Cultivation is successful in climates with hot summers, with optimum growing conditions in mean temperatures of 20 to 30 °C (70 to 85 °F); temperatures of below 20 °C (70 °F) and over 40 °C (105 °F) stunt growth significantly. They can grow in a wide range of soils, with optimum growth in moist alluvial soils with good organic content. Soybeans, like most legumes, perform nitrogen fixation by establishing a symbiotic relationship with the bacterium Bradyrhizobium japonicum (syn. Rhizobium japonicum; Jordan 1982). This ability to fix nitrogen allows farmers to reduce nitrogen fertilizer use and increase yields when growing other crops in rotation with soy. There may be some trade-offs, however, in the long-term abundance of organic material in soils where soy and other crops (for example, corn) are grown in rotation. For best results, though, an inoculum of the correct strain of bacteria should be mixed with the soybean (or any legume) seed before planting. Modern crop cultivars generally reach a height of around 1 m (3 ft), and take 80–120 days from sowing to harvesting.
+
+Soils
+Soil scientists Edson Lobato (Brazil), Andrew McClung (U.S.), and Alysson Paolinelli (Brazil) were awarded the 2006 World Food Prize for transforming the ecologically biodiverse savannah of the Cerrado region of Brazil into highly productive cropland that could grow profitable soybeans.
+
+Contamination concerns
+Human sewage sludge can be used as fertilizer to grow soybeans. Soybeans grown in sewage sludge likely contain elevated concentrations of metals.
+
+Pests
+Soybean plants are vulnerable to a wide range of bacterial diseases, fungal diseases, viral diseases, and parasites.
+The primary bacterial diseases include bacterial blight, bacterial pustule and downy mildew affecting the soybean plant.
+The Japanese beetle (Popillia japonica) poses a significant threat to agricultural crops, including soybeans, due to its voracious feeding habits. Found commonly in both urban and suburban areas, these beetles are frequently observed in agricultural landscapes where they can cause considerable damage to crops like corn, soybeans, and various fruits.
+Soybean cyst nematode (SCN) is the worst pest of soybean in the US. Losses of 30% or 40% are common even without symptoms.
+The corn earworm moth and bollworm (Helicoverpa zea) is a common and destructive pest of soybean growth in Virginia.
+Soybeans are consumed by whitetail deer which may damage soybean plants through feeding, trampling and bedding, reducing crop yields by as much as 15%. Groundhogs are also a common pest in soybean fields, living in burrows underground and feeding nearby. One den of groundhogs can consume a tenth to a quarter of an acre of soybeans. Chemical repellents or firearms are effective for controlling pests in soybean fields.
+
+Soybeans suffer from the fungus Pythium spinosum in Arkansas and Indiana (United States), and China.
+In Japan and the United States, the Soybean dwarf virus (SbDV) causes a disease in soybeans and is transmitted by aphids.
+
+Cultivars
+Disease resistant cultivars
+Resistant varieties are available. In Indian cultivars, Nataraj et al. 2020 find that anthracnose caused by Colletotrichum truncatum is resisted by a combination of 2 major genes.
+
+PI 88788
+The vast majority of cultivars in the US have soybean cyst nematode resistance (SCN resistance), but rely on only one breeding line (PI 88788) as their sole source of resistance. (The resistance genes provided by PI 88788, Peking, and PI 90763 were characterized in 1997.) As a result, for example, in 2012 only 18 cultivars out of 807 recommended by the Iowa State University Extension had any ancestry outside of PI 88788. By 2020 the situation was still about the same: Of 849 there were 810 with some ancestry from PI 88788, 35 from Peking, and only 2 from PI 89772. (On the question of exclusively PI 88788 ancestry, that number was not available for 2020.) That was speculated to be in 2012—and was clearly by 2020—producing SCN populations that are virulent on PI 88788.
+
+Production
+In 2020, world production of soybeans was over 353 million tonnes, led by Brazil and the United States combined with 66% of the total (table). Production has dramatically increased across the globe since the 1960s, but particularly in South America after a cultivar that grew well in low latitudes was developed in the 1980s. The rapid growth of the industry has been primarily fueled by large increases in worldwide demand for meat products, particularly in developing countries like China, which alone accounts for more than 60% of imports.
+
+Environmental issues
+In spite of the Amazon "Soy Moratorium", soy production continues to play a significant role in deforestation when its indirect impacts are taken into account, as land used to grow soy continues to increase. This land either comes from pasture land (which increasingly supplants forested areas), or areas outside the Amazon not covered by the moratorium, such as the Cerrado region. Roughly one-fifth of deforestation can be attributed to expanding land use to produce oilseeds, primarily for soy and palm oil, whereas the expansion of beef production accounts for 41%. The main driver of deforestation is the global demand for meat, which in turn requires huge tracts of land to grow feed crops for livestock. Around 80% of the global soybean crop is used to feed livestock.
+
+History
+Soybeans were a crucial crop in East Asia long before written records began. The origin of soy bean cultivation remains scientifically debated. The closest living relative of the soybean is Glycine soja (previously called G. ussuriensis), a legume native to central China. There is evidence for soybean domestication between 7000 and 6600 BC in China, between 5000 and 3000 BC in Japan and 1000 BC in Korea.
+The first unambiguously domesticated, cultigen-sized soybean was discovered in Korea at the Mumun-period Daundong site. Prior to fermented products such as fermented black soybeans (douchi), jiang (Chinese miso), soy sauce, tempeh, nattō, and miso, soy was considered sacred for its beneficial effects in crop rotation, and it was eaten by itself, and as bean curd and soy milk.
+Soybeans were introduced to Java in Malay Archipelago circa 13th century or probably earlier. By the 17th century through their trade with Far East, soybeans and its products were traded by European traders (Portuguese, Spanish, and Dutch) in Asia, and reached Indian Subcontinent by this period. By the 18th century, soybeans were introduced to the Americas and Europe from China. Soy was introduced to Africa from China in the late 19th century, and is now widespread across the continent.
+
+East Asia
+The cultivation of soybeans began in the eastern half of northern China by 2000 BC, but is almost certainly much older. The earliest documented evidence for the use of Glycine of any kind comes from charred plant remains of wild soybean recovered from Jiahu in Henan province China, a Neolithic site occupied between 9000 and 7800 calendar years ago (cal bp). An abundance of archeological charred soybean specimens have been found centered around this region.
+According to the ancient Chinese myth, in 2853 BC, the legendary Emperor Shennong of China proclaimed that five plants were sacred: soybeans, rice, wheat, barley, and millet. Early Chinese records mention that soybeans were a gift from the region of Yangtze River delta and Southeast China. The Great Soviet Encyclopedia claims soybean cultivation originated in China about 5000 years ago. Some scholars suggest that soybean originated in China and was domesticated about 3500 BC. Recent research, however, indicates that seeding of wild forms started early (before 5000 BC) in multiple locations throughout East Asia.
+Soybeans became an important crop by the Zhou dynasty (c. 1046–256 BC) in China. However, the details of where, when, and under what circumstances soybean developed a close relationship with people are poorly understood. Soybean was unknown in South China before the Han period. From about the first century AD to the Age of Discovery (15–16th centuries), soybeans were introduced into across South and Southeast Asia. This spread was due to the establishment of sea and land trade routes. The earliest Japanese textual reference to the soybean is in the classic Kojiki (Records of Ancient Matters), which was completed in AD 712.
+The oldest preserved soybeans resembling modern varieties in size and shape were found in archaeological sites in Korea dated about 1000 BC. Radiocarbon dating of soybean samples recovered through flotation during excavations at the Early Mumun period Okbang site in Korea indicated soybean was cultivated as a food crop in around 1000–900 BC. Soybeans from the Jōmon period in Japan from 3000 BC are also significantly larger than wild varieties.
+
+Southeast Asia
+Soybeans were mentioned as kadêlê (modern Indonesian term: kedelai) in an old Javanese manuscript, Serat Sri Tanjung, which dates to 12th- to 13th-century Java. By the 13th century, the soybean had arrived and cultivated in Indonesia; it probably arrived much earlier however, carried by traders or merchants from Southern China.
+The earliest known reference to it as "tempeh" appeared in 1815 in the Serat Centhini manuscript. The development of tempeh fermented soybean cake probably took place earlier, circa 17th century in Java.
+
+Indian subcontinent
+By the 1600s, soy sauce spread from southern Japan across the region through the Dutch East India Company (VOC).
+
+While the origins and history of Soybean cultivation in the Eastern Himalayas is debated, it was potentially introduced from southern China, more specifically Yunnan province. Alternatively, it could have reached here through traders from Indonesia via Myanmar. Northeast India is viewed as a passive micro-centre within the soybean secondary gene centre. Central India is considered a tertiary gene centre particularly the area encompassing Madhya Pradesh which is also the country largest soybean producer.
+
+Iberia
+In 1603, "Vocabvlario da Lingoa de Iapam", a famous Japanese-Portuguese dictionary, was compiled and published by Jesuit priests in Nagasaki. It contains short but clear definitions for about 20 words related to soyfoods—the first in any European language.
+The Luso-Hispanic traders were familiar with soybeans and soybean product through their trade with Far East since at least the 17th century. However, it was not until the late 19th century that the first attempt to cultivate soybeans in the Iberian peninsula was undertaken. In 1880, the soybean was first cultivated in Portugal in the Botanical Gardens at Coimbra (Crespi 1935).
+In about 1910 in Spain the first attempts at Soybean cultivation were made by the Count of San Bernardo, who cultivated soybeans on his estates at Almillo (in southwest Spain) about 48 miles east-northeast of Seville.
+
+North America
+Soybeans were first introduced to North America from China in 1765, by Samuel Bowen, a former East India Company sailor who had visited China in conjunction with James Flint, the first Englishman legally permitted by the Chinese authorities to learn Chinese. The first "New World" soybean crop was grown on Skidaway Island, Georgia, in 1765 by Henry Yonge from seeds given him by Samuel Bowen. Bowen grew soy near Savannah, Georgia, possibly using funds from Flint, and made soy sauce for sale to England. Although soybean was introduced into North America in 1765, for the next 155 years, the crop was grown primarily for forage.
+In 1831, the first soy product "a few dozen India Soy" [sauce] arrived in Canada. Soybeans were probably first cultivated in Canada by 1855, and definitely in 1895 at Ontario Agricultural College.
+It was not until Lafayette Mendel and Thomas Burr Osborne showed that the nutritional value of soybean seeds could be increased by cooking, moisture or heat, that soy went from a farm animal feed to a human food.
+William Joseph Morse is considered the "father" of modern soybean agriculture in America. In 1910, he and Charles Piper began to popularize what was regarded as a relatively unknown Oriental peasant crop in America into a "golden bean", with the soybean becoming one of America's largest and most nutritious farm crops.
+
+Prior to the 1920s in the US, the soybean was mainly a forage crop, a source of oil, meal (for feed) and industrial products, with very little used as food. However, it took on an important role after World War I. During the Great Depression, the drought-stricken (Dust Bowl) regions of the United States were able to use soy to regenerate their soil because of its nitrogen-fixing properties. Farms were increasing production to meet with government demands, and Henry Ford became a promoter of soybeans. In 1931, Ford hired chemists Robert Boyer and Frank Calvert to produce artificial silk. They succeeded in making a textile fiber of spun soy protein fibers, hardened or tanned in a formaldehyde bath, which was given the name Azlon. It never reached the commercial market. Soybean oil was used by Ford in paint for the automobiles, as well as a fluid for shock absorbers.
+During World War II, soybeans became important in both North America and Europe chiefly as substitutes for other protein foods and as a source of edible oil. During the war, the soybean was discovered as fertilizer due to nitrogen fixation by the United States Department of Agriculture.
+Prior to the 1970s, Asian-Americans and Seventh-Day Adventists were essentially the only users of soy foods in the United States. "The soy foods movement began in small pockets of the counterculture, notably the Tennessee commune named simply The Farm, but by the mid-1970s a vegetarian revival helped it gain momentum and even popular awareness through books such as The Book of Tofu."
+Although practically unseen in 1900, by 2000 soybean plantings covered more than 70 million acres, second only to corn, and it became America's largest cash crop. In 2021, 87,195,000 acres were planted, with the largest acreage in the states of Illinois, Iowa, and Minnesota.
+
+Caribbean and West Indies
+The soybean arrived in the Caribbean in the form of soy sauce made by Samuel Bowen in Savannah, Georgia, in 1767. It remains only a minor crop there, but its uses for human food are growing steadily.
+
+Mediterranean area
+The soybean was first cultivated in Italy by 1760 in the Botanical Garden of Turin. During the 1780s, it was grown in at least three other botanical gardens in Italy. The first soybean product, soy oil, arrived in Anatolia during 1909 under Ottoman Empire. The first clear cultivation occurred in 1931. This was also the first time that soybeans were cultivated in Middle East. By 1939, soybeans were cultivated in Greece.
+
+Australia
+Wild soybeans were discovered in northeastern Australia in 1770 by explorers Banks and Solander. In 1804, the first soyfood product ("Fine India Soy" [sauce]) was sold in Sydney. In 1879, the first domesticated soybeans arrived in Australia, a gift of the Minister of the Interior Department, Japan.
+
+France
+The soybean was first cultivated in France by 1779 (and perhaps as early as 1740). The two key early people and organizations introducing the soybean to France were the Society of Acclimatization (starting in 1855) and Li Yu-ying (from 1910). Li started a large tofu factory, where the first commercial soyfoods in France were made.
+
+Africa
+The soybean first arrived in Africa via Egypt in 1857. Soya Meme (Baked Soya) is produced in the village called Bame Awudome near Ho, the capital of the Volta Region of Ghana, by the Ewe people of Southeastern Ghana and southern Togo.
+
+Central Europe
+In 1873, Professor Friedrich J. Haberlandt first became interested in soybeans when he obtained the seeds of 19 soybean varieties at the Vienna World Exposition (Wiener Weltausstellung). He cultivated these seeds in Vienna, and soon began to distribute them throughout Central and Western Europe. In 1875, he first grew the soybeans in Vienna, then in early 1876 he sent samples of seeds to seven cooperators in central Europe, who planted and tested the seeds in the spring of 1876, with good or fairly good results in each case. Most of the farmers who received seeds from him cultivated them, then reported their results. Starting in February 1876, he published these results first in various journal articles, and finally in his magnum opus, Die Sojabohne (The Soybean) in 1878. In northern Europe, lupin (lupine) is known as the "soybean of the north".
+
+Central Asia
+The soybean is first in cultivated Transcaucasia in Central Asia in 1876, by the Dungans. This region has never been important for soybean production.
+
+Central America
+The first reliable reference to the soybean in this region dates from Mexico in 1877.
+
+South America
+The soybean first arrived in South America in Argentina in 1882.
+Andrew McClung showed in the early 1950s that with soil amendments the Cerrado region of Brazil would grow soybeans. In June 1973, when soybean futures markets mistakenly portended a major shortage, the Nixon administration imposed an embargo on soybean exports. It lasted only a week, but Japanese buyers felt that they could not rely on U.S. supplies, and the rival Brazilian soybean industry came into existence. This led Brazil to become the world's largest producer of soybeans in 2020, with 131 million tons.
+Industrial soy production in South America is characterized by wealthy management who live far away from the production site which they manage remotely. In Brazil, these managers depend heavily on advanced technology and machinery, and agronomic practices such as zero tillage, high pesticide use, and intense fertilization. One contributing factor is the increased attention on the Brazilian Cerrado in Bahia, Brazil by US farmers in the early 2000s. This was due to rising values of scarce farmland and high production costs in the US Midwest. There were many promotions of the Brazilian Cerrado by US farm producer magazines and market consultants who portrayed it as having cheap land with ideal production conditions, with infrastructure being the only thing it was lacking. These same magazines also presented Brazilian soy as inevitably out-competing American soy. Another draw to investing was the insider information about the climate and market in Brazil. A few dozen American farmers purchased varying amounts of land by a variety of means including finding investors and selling off land holdings. Many followed the ethanol company model and formed an LLC with investments from neighboring farmers, friends, and family while some turned to investment companies. Some soy farmers either liquidated their Brazilian assets or switched to remote management from the US to return to farming there and implement new farming and business practices to make their US farms more productive. Others planned to sell their now expensive Bahia land to buy land cheaper land in the frontier regions of Piauí or Tocantins to create more soybean farms.
+
+Genetics
+Chinese landraces were found to have a slightly higher genetic diversity than inbred lines by Li et al., 2010. Specific locus amplified fragment sequencing (SLAF-seq) has been used by Han et al., 2015 to study the genetic history of the domestication process, perform genome-wide association studies (GWAS) of agronomically relevant traits, and produce high-density linkage maps. An SNP array was developed by Song et al., 2013 and has been used for research and breeding; the same team applied their array in Song et al., 2015 against the USDA Soybean Germplasm Collection and obtained mapping data that are expected to yield association mapping data for such traits.
+Rpp1-R1 is a resistance gene against soybean rust. Rpp1-R1 is an R gene (NB-LRR) providing resistance against the rust pathogen Phakopsora pachyrhizi. Its synthesis product includes a ULP1 protease.
+Qijian et al., 2017 provides the SoySNP50K gene array.
+
+Genetic modification
+Soybeans are one of the "biotech food" crops that have been genetically modified, and genetically modified soybeans are being used in an increasing number of products. In 1995, Monsanto company introduced glyphosate-tolerant soybeans that have been genetically modified to be resistant to Monsanto's glyphosate herbicides through substitution of the Agrobacterium sp. (strain CP4) gene EPSP (5-enolpyruvyl shikimic acid-3-phosphate) synthase. The substituted version is not sensitive to glyphosate.
+In 1997, about 8% of all soybeans cultivated for the commercial market in the United States were genetically modified. In 2010, the figure was 93%. As with other glyphosate-tolerant crops, concern is expressed over damage to biodiversity. A 2003 study concluded the "Roundup Ready" (RR) gene had been bred into so many different soybean cultivars, there had been little decline in genetic diversity, but "diversity was limited among elite lines from some companies".
+The widespread use of such types of GM soybeans in the Americas has caused problems with exports to some regions. GM crops require extensive certification before they can be legally imported into the European Union, where there is considerable supplier and consumer reluctance to use GM products for consumer or animal use. Difficulties with coexistence and subsequent traces of cross-contamination of non-GM stocks have caused shipments to be rejected and have put a premium on non-GM soy.
+A 2006 United States Department of Agriculture report found the adoption of genetically engineered (GE) soy, corn and cotton reduced the amount of pesticides used overall, but did result in a slightly greater amount of herbicides used for soy specifically. The use of GE soy was also associated with greater conservation tillage, indirectly leading to better soil conservation, as well as increased income from off-farming sources due to the greater ease with which the crops can be managed. Though the overall estimated benefits of the adoption of GE soybeans in the United States was $310 million, the majority of this benefit was experienced by the companies selling the seeds (40%), followed by biotechnology firms (28%) and farmers (20%). The patent on glyphosate-tolerant soybeans expired in 2014, so benefits can be expected to shift.
+
+Adverse effects
+Soy allergy
+Allergy to soy is common, and the food is listed with other foods that commonly cause allergy, such as milk, eggs, peanuts, tree nuts, shellfish. The problem has been reported among younger children, and the diagnosis of soy allergy is often based on symptoms reported by parents and results of skin tests or blood tests for allergy. Only a few reported studies have attempted to confirm allergy to soy by direct challenge with the food under controlled conditions. It is very difficult to give a reliable estimate of the true prevalence of soy allergy in the general population. To the extent that it does exist, soy allergy may cause cases of urticaria and angioedema, usually within minutes to hours of ingestion. In rare cases, true anaphylaxis may also occur. The reason for the discrepancy is likely that soy proteins, the causative factor in allergy, are far less potent at triggering allergy symptoms than the proteins of peanut and shellfish. An allergy test that is positive demonstrates that the immune system has formed IgE antibodies to soy proteins. However, this is only a factor when soy proteins reach the blood without being digested, in sufficient quantities to reach a threshold to provoke actual symptoms.
+Soy can also trigger symptoms via food intolerance, a situation where no allergic mechanism can be proven. One scenario is seen in very young infants who have vomiting and diarrhoea when fed soy-based formula, which resolves when the formula is withdrawn. Older infants can suffer a more severe disorder with vomiting, diarrhoea that may be bloody, anemia, weight loss and failure to thrive. The most common cause of this unusual disorder is a sensitivity to cow's milk, but soy formulas can also be the trigger. The precise mechanism is unclear and it could be immunologic, although not through the IgE-type antibodies that have the leading role in urticaria and anaphylaxis. However, it is also self-limiting and will often disappear in the toddler years.
+In the European Union, identifying the presence of soy either as an ingredient or unintended contaminant in packaged food is compulsory. The regulation (EC) 1169/2011 on food-labeling lists 14 allergens, including soy, in packaged food must be clearly indicated on the label as part of the list of ingredients, using a distinctive typography (such as bold type or capital letters).
+
+Thyroid function
+One review noted that soy-based foods may inhibit absorption of thyroid hormone medications required for treatment of hypothyroidism. A 2015 scientific review by the European Food Safety Authority concluded that intake of isoflavones from supplements did not affect thyroid hormone levels in postmenopausal women.
+
+Uses
+Among the legumes, the soybean is valued for its high (38–45%) protein content as well as its high (approximately 20%) oil content. Soybeans are the most valuable agricultural export of the United States. Approximately 85% of the world's soybean crop is processed into soybean meal and soybean oil, the remainder processed in other ways or eaten whole.
+Soybeans can be broadly classified as "vegetable" (garden) or field (oil) types. Vegetable types cook more easily, have a mild, nutty flavor, and better texture, are larger in size, higher in protein, and are lower in oil than field types. Tofu, soy milk, and soy sauce are among the top edible commodities made using soybeans. Producers prefer the higher protein cultivars bred from vegetable soybeans originally brought to the United States in the late 1930s. The "garden" cultivars are generally not suitable for mechanical combine harvesting because there is a tendency for the pods to shatter upon reaching maturity.
+
+Nutrition
+A 100-gram reference quantity of raw soybeans supplies 1,866 kilojoules (446 kilocalories) of food energy and are 9% water, 30% carbohydrates, 20% total fat and 36% protein.
+Peanuts are the only legumes with a higher fat content (48%) and calorie count (2,385 kJ). They contain less carbohydrates (21%), protein (25%) and dietary fiber (9%).
+Soybeans are a rich source of essential nutrients, providing in a 100-gram serving (raw, for reference) high contents of the Daily Value (DV) especially for protein (36% DV), dietary fiber (37%), iron (121%), manganese (120%), phosphorus (101%) and several B vitamins, including folate (94%) (table). High contents also exist for vitamin K, magnesium, zinc and potassium.
+For human consumption, soybeans must be processed prior to consumption–either by cooking, roasting, or fermenting–to destroy the trypsin inhibitors (serine protease inhibitors). Raw soybeans, including the immature green form, are toxic to all monogastric animals.
+
+Protein
+Most soy protein is a relatively heat-stable storage protein. This heat stability enables soy food products requiring high temperature cooking, such as tofu, soy milk and textured vegetable protein (soy flour) to be made.  Soy protein is essentially identical to the protein of other legume seeds and pulses.
+Soy is a good source of protein for vegetarians and vegans or for people who want to reduce the amount of meat they eat, according to the US Food and Drug Administration:
+
+Soy protein products can be good substitutes for animal products because, unlike some other beans, soy offers a 'complete' protein profile. ... Soy protein products can replace animal-based foods—which also have complete proteins but tend to contain more fat, especially saturated fat—without requiring major adjustments elsewhere in the diet.
+Although soybeans have high protein content, soybeans also contain high levels of protease inhibitors, which can prevent digestion. Protease inhibitors are reduced by cooking soybeans, and are present in low levels in soy products such as tofu and soy milk.
+The Protein Digestibility Corrected Amino Acid Score (PDCAAS) of soy protein is the nutritional equivalent of meat, eggs, and casein for human growth and health. Soybean protein isolate has a biological value of 74, whole soybeans 96, soybean milk 91, and eggs 97.
+
+All spermatophytes, except for the family of grasses and cereals (Poaceae), contain 7S (vicilin) and 11S (legumin) soy protein-like globulin storage proteins; or only one of these globulin proteins. S denotes Svedberg, sedimentation coefficients. Oats and rice are anomalous in that they also contain a majority of soybean-like protein. Cocoa, for example, contains the 7S globulin, which contributes to cocoa/chocolate taste and aroma, whereas coffee beans (coffee grounds) contain the 11S globulin responsible for coffee's aroma and flavor.
+Vicilin and legumin proteins belong to the cupin superfamily, a large family of functionally diverse proteins that have a common origin and whose evolution can be followed from bacteria to eukaryotes including animals and higher plants.
+2S albumins form a major group of homologous storage proteins in many dicot species and in some monocots but not in grasses (cereals). Soybeans contain a small but significant 2S storage protein. 2S albumin are grouped in the prolamin superfamily. Other allergenic proteins included in this 'superfamily' are the non-specific plant lipid transfer proteins, alpha amylase inhibitor, trypsin inhibitors, and prolamin storage proteins of cereals and grasses.
+Peanuts, for instance, contain 20% 2S albumin but only 6% 7S globulin and 74% 11S. It is the high 2S albumin and low 7S globulin that is responsible for the relatively low lysine content of peanut protein compared to soy protein.
+
+Carbohydrates
+The principal soluble carbohydrates of mature soybeans are the disaccharide sucrose (range 2.5–8.2%), the trisaccharide raffinose (0.1–1.0%) composed of one sucrose molecule connected to one molecule of galactose, and the tetrasaccharide stachyose (1.4 to 4.1%) composed of one sucrose connected to two molecules of galactose.  While the oligosaccharides raffinose and stachyose protect the viability of the soybean seed from desiccation (see above section on physical characteristics) they are not digestible sugars, so contribute to flatulence and abdominal discomfort in humans and other monogastric animals, comparable to the disaccharide trehalose. Undigested oligosaccharides are broken down in the intestine by native microbes, producing gases such as carbon dioxide, hydrogen, and methane.
+Since soluble soy carbohydrates are found in the whey and are broken down during fermentation, soy concentrate, soy protein isolates, tofu, soy sauce, and sprouted soybeans are without flatus activity. On the other hand, there may be some beneficial effects to ingesting oligosaccharides such as raffinose and stachyose, namely, encouraging indigenous bifidobacteria in the colon against putrefactive bacteria.
+The insoluble carbohydrates in soybeans consist of the complex polysaccharides cellulose, hemicellulose, and pectin. The majority of soybean carbohydrates can be classed as belonging to dietary fiber.
+
+Fats
+Raw soybeans are 20% fat, including saturated fat (3%), monounsaturated fat (4%) and polyunsaturated fat, mainly as linoleic acid (table).
+Within soybean oil or the lipid portion of the seed is contained four phytosterols: stigmasterol, sitosterol, campesterol, and brassicasterol accounting for about 2.5% of the lipid fraction; and which can be converted into steroid hormones.  Additionally soybeans are a rich source of sphingolipids.
+
+Other constituents
+Soy contains isoflavones—polyphenolic compounds, produced by legumes including peanuts and chickpeas. Isoflavones are closely related to flavonoids found in other plants, vegetables and flowers.
+Soy contains the phytoestrogen coumestans, also are found in beans and split-peas, with the best sources being alfalfa, clover, and soybean sprouts. Coumestrol, an isoflavone coumarin derivative, is the only coumestan in foods.
+Saponins, a class of natural surfactants (soaps), are sterols that are present in small amounts in various plant foods, including soybeans, other legumes, and cereals, such as oats.
+
+Comparison to other major staple foods
+The following table shows the nutrient content of green soybean and other major staple foods, each in respective raw form on a dry weight basis to account for their different water contents. Raw soybeans, however, are not edible and cannot be digested. These must be sprouted, or prepared and cooked for human consumption. In sprouted and cooked form, the relative nutritional and anti-nutritional contents of each of these grains is remarkably different from that of raw form of these grains reported in this table. The nutritional value of soybean and each cooked staple depends on the processing and the method of cooking: boiling, frying, roasting, baking, etc.
+
+Soybean oil
+Soybean seed contains 18–19% oil. To extract soybean oil from seed, the soybeans are cracked, adjusted for moisture content, rolled into flakes, and solvent-extracted with commercial hexane. The oil is then refined, blended for different applications, and sometimes hydrogenated. Soybean oils, both liquid and partially hydrogenated, are exported abroad, sold as "vegetable oil," or end up in a wide variety of processed foods.
+
+Soybean meal
+Soybean meal, or soymeal, is the material remaining after solvent extraction of oil from soybean flakes, with a 50% soy protein content. The meal is 'toasted' (a misnomer because the heat treatment is with moist steam) and ground in a hammer mill. Ninety-seven percent of soybean meal production globally is used as livestock feed. Soybean meal is also used in some dog foods.
+
+Livestock feed
+One of the major uses of soybeans globally is as livestock feed, predominantly in the form of soybean meal. In the European Union, for example, though it does not make up most of the weight of livestock feed, soybean meal provides around 60% of the protein fed to livestock. In the United States, 70 percent of soybean production is used for animal feed, with poultry being the number one livestock sector of soybean consumption. Spring grasses are rich in omega-3 fatty acids, whereas soy is predominantly omega-6. The soybean hulls, which mainly consist of the outer coats of the beans removed before oil extraction, can also be fed to livestock and whole soybean seeds after processing.
+
+Food for human consumption
+In addition to their use in livestock feed, soybean products are widely used for human consumption. Common soybean products include soy sauce, soy milk, tofu, soy meal, soy flour, textured vegetable protein (TVP), soy curls, tempeh, soy lecithin and soybean oil. Soybeans may also be eaten with minimal processing, for example, in the Japanese food edamame (枝豆, edamame), in which immature soybeans are boiled whole in their pods and served with salt.
+
+In China, Japan, Vietnam and Korea, soybean and soybean products are a standard part of the diet. Tofu (豆腐 dòufu) is thought to have originated in China, along with soy sauce and several varieties of soybean paste used as seasonings. Japanese foods made from soya include miso (味噌), nattō (納豆), kinako (黄粉) and edamame (枝豆), as well as products made with tofu such as atsuage and aburaage. In China, whole dried soybeans are sold in supermarkets and used to cook various dishes, usually after rehydration by soaking in water; they find their use in soup or as a savory dish. In Korean cuisine, soybean sprouts (콩나물 kongnamul) are used in a variety of dishes, and soybeans are the base ingredient in doenjang, cheonggukjang and ganjang. In Vietnam, soybeans are used to make soybean paste (tương) in the North with the most popular products are tương Bần, tương Nam Đàn, tương Cự Đà as a garnish for phở and gỏi cuốn dishes, as well as tofu (đậu hũ or đậu phụ or tàu hũ), soy sauce (nước tương), soy milk (nước đậu in the North or sữa đậu nành in the South), and đậu hũ nước đường (tofu sweet soup).
+
+Flour
+Soy flour refers to soybeans ground finely enough to pass through a 100-mesh or smaller screen where special care was taken during desolventizing (not toasted) to minimize denaturation of the protein to retain a high protein dispersibility index, for uses such as food extrusion of textured vegetable protein. It is the starting material for soy concentrate and protein isolate production.
+Soy flour can also be made by roasting the soybean, removing the coat (hull), and grinding it into flour. Soy flour is manufactured with different fat levels. Alternatively, raw soy flour omits the roasting step.
+
+Defatted soy flour is obtained from solvent extracted flakes and contains less than 1% oil.
+"Natural or full-fat soy flour is made from unextracted, dehulled beans and contains about 18% to 20% oil." Its high oil content requires the use of a specialized Alpine Fine Impact Mill to grind rather than the usual hammer mill. Full-fat soy flour has a lower protein concentration than defatted flour. Extruded full-fat soy flour, ground in an Alpine mill, can replace/extend eggs in baking and cooking. Full-fat soy flour is a component of the famous Cornell bread recipe.
+Low-fat soy flour is made by adding some oil back into defatted soy flour. Fat levels range from 4.5% to 9%.
+High-fat soy flour can also be produced by adding back soybean oil to defatted flour, usually at 15%.
+Soy lecithin can be added (up to 15%) to soy flour to make lecithinated soy flour. It increases dispersibility and gives it emulsifying properties.
+Soy flour has 50% protein and 5% fiber. It has higher levels of protein, thiamine, riboflavin, phosphorus, calcium, and iron than wheat flour. It does not contain gluten. As a result, yeast-raised breads made with soy flour are dense in texture. Among many uses, soy flour thickens sauces, prevents staling in baked food, and reduces oil absorption during frying. Baking food with soy flour gives it tenderness, moistness, a rich color, and a fine texture.
+Soy grits are similar to soy flour, except the soybeans have been toasted and cracked into coarse pieces.
+Kinako is a soy flour used in Japanese cuisine.
+Section reference: Smith & Circle (1972, p. 442)
+
+Soy-based infant formula
+Soy-based infant formula (SBIF) is sometimes given to infants who are not being strictly breastfed; it can be useful for infants who are either allergic to pasteurized cow milk proteins or who are being fed a vegan diet. It is sold in powdered, ready-to-feed, and concentrated liquid forms.
+Some reviews have expressed the opinion that more research is needed to determine what effect the phytoestrogens in soybeans may have on infants. Diverse studies have concluded there are no adverse effects in human growth, development, or reproduction as a result of the consumption of soy-based infant formula. One of these studies, published in the Journal of Nutrition, concludes that there are:
+
+... no clinical concerns with respect to nutritional adequacy, sexual development, neurobehavioral development, immune development, or thyroid disease. SBIFs provide complete nutrition that adequately supports normal infant growth and development. FDA has accepted SBIFs as safe for use as the sole source of nutrition.
+
+Meat and dairy alternatives and extenders
+Soybeans can be processed to produce a texture and appearance similar to many other foods. For example, soybeans are the primary ingredient in many dairy product substitutes (e.g., soy milk, margarine, soy ice cream, soy yogurt, soy cheese, and soy cream cheese) and meat alternatives (e.g. veggie burgers). These substitutes are readily available in most supermarkets. Soy milk does not naturally contain significant amounts of digestible calcium. Many manufacturers of soy milk sell calcium-enriched products, as well.
+Soy products also are used as a low-cost substitute for meat and poultry products. Food service, retail and institutional (primarily school lunch and correctional) facilities regularly use such "extended" products. The extension may result in diminished flavor, but fat and cholesterol are reduced. Vitamin and mineral fortification can be used to make soy products nutritionally equivalent to animal protein; the protein quality is already roughly equivalent. The soy-based meat substitute textured vegetable protein has been used for more than 50 years as a way of inexpensively extending ground beef without reducing its nutritional value.
+
+Soy nut butter
+The soybean is used to make a product called soy nut butter which is similar in texture to peanut butter.
+
+Sweetened soybean
+Sweet-boiled beans are popular in Japan and Korea, and the sweet-boiled soybeans are called "Daizu no Nimame" in Japan and Kongjorim (Korean: 콩조림) in Korea. Sweet-boiled beans are even used in sweetened buns, especially in Mame Pan.
+The boiled and pasted edamame, called Zunda, is used as one of the Sweet bean pastes in Japanese confections.
+
+Coffee substitute
+Roasted and ground soybeans can be a caffeine-free substitute for coffee. After the soybeans are roasted and ground, they look similar to regular coffee beans or can be used as a powder similar to instant coffee, with the aroma and flavor of roasted soybeans.
+
+Other products
+Soybeans with black hulls are used in Chinese fermented black beans, douchi, not to be confused with black turtle beans.
+Soybeans are also used in industrial products, including oils, soap, cosmetics, resins, plastics, inks, crayons, solvents, and clothing. Soybean oil is the primary source of biodiesel in the United States, accounting for 80% of domestic biodiesel production. Soybeans have also been used since 2001 as fermenting stock in the manufacture of a brand of vodka. In 1936, Ford Motor Company developed a method where soybeans and fibers were rolled together producing a soup which was then pressed into various parts for their cars, from the distributor cap to knobs on the dashboard. Ford also informed in public relation releases that in 1935 over five million acres (20,000 km2) was dedicated to growing soybeans in the United States.
+
+Potential health benefits
+Reducing risk of cancer
+According to the American Cancer Society, "There is growing evidence that eating traditional soy foods such as tofu may lower the risk of cancers of the breast, prostate, or endometrium (lining of the uterus), and there is some evidence it may lower the risk of certain other cancers." There is insufficient research to indicate whether taking soy dietary supplements (e.g., as a pill or capsule) has any effect on health or cancer risk.
+As of 2018, rigorous dietary clinical research in people with cancer has proved inconclusive.
+
+Breast cancer
+Although considerable research has examined the potential for soy consumption to lower the risk of breast cancer in women, as of 2016 there is insufficient evidence to reach a conclusion about a relationship between soy consumption and any effects on breast cancer. A 2011 meta-analysis stated: "Our study suggests soy isoflavones intake is associated with a significant reduced risk of breast cancer incidence in Asian populations, but not in Western populations."
+
+Gastrointestinal and colorectal cancer
+Reviews of preliminary clinical trials on people with colorectal or gastrointestinal cancer suggest that soy isoflavones may have a slight protective effect against such cancers.
+
+Prostate cancer
+A 2016 review concluded that "current evidence from observational studies and small clinical trials is not robust enough to understand whether soy protein or isoflavone supplements may help prevent or inhibit the progression of prostate cancer." A 2010 review showed that neither soy foods nor isoflavone supplements alter measures of bioavailable testosterone or estrogen concentrations in men. Soy consumption has been shown to have no effect on the levels and quality of sperm. Meta-analyses on the association between soy consumption and prostate cancer risk in men concluded that dietary soy may lower the risk of prostate cancer.
+
+Cardiovascular health
+The Food and Drug Administration (FDA) granted the following health claim for soy: "25 grams of soy protein a day, as part of a diet low in saturated fat and cholesterol, may reduce the risk of heart disease." One serving, (1 cup or 240 mL) of soy milk, for instance, contains 6 or 7 grams of soy protein.
+An American Heart Association (AHA) review of a decade long study of soy protein benefits did not recommend isoflavone supplementation. The review panel also found that soy isoflavones have not been shown to reduce post-menopausal "hot flashes" and the efficacy and safety of isoflavones to help prevent cancers of the breast, uterus or prostate is in question. AHA concluded that "many soy products should be beneficial to cardiovascular and overall health because of their high content of polyunsaturated fats, fiber, vitamins, and minerals and low content of saturated fat". Other studies found that soy protein consumption could lower the concentration of low-density lipoproteins (LDL) transporting fats in the extracellular water to cells.
+
+Research by constituent
+Lignans
+Plant lignans are associated with high fiber foods such as cereal brans and beans are the principal precursor to mammalian lignans which have an ability to bind to human estrogen sites. Soybeans are a significant source of mammalian lignan precursor secoisolariciresinol containing 13–273 μg/100 g dry weight.
+
+Phytochemicals
+Soybeans and processed soy foods are among the richest foods in total phytoestrogens (wet basis per 100 g), which are present primarily in the form of the isoflavones, daidzein and genistein. Because most naturally occurring phytoestrogens act as selective estrogen receptor modulators, or SERMs, which do not necessarily act as direct agonists of estrogen receptors, normal consumption of foods that contain these phytoestrogens should not provide sufficient amounts to elicit a physiological response in humans. The major product of daidzein microbial metabolism is equol. Only 33% of Western Europeans have a microbiome that produces equol, compared to 50–55% of Asians.
+Soy isoflavones—polyphenolic compounds that are also produced by other legumes like peanuts and chickpeas—are under preliminary research. As of 2016, no cause-and-effect relationship has been shown in clinical research to indicate that soy isoflavones lower the risk of cardiovascular diseases.
+
+Phytic acid
+Soybeans contain phytic acid, which may act as a chelating agent and inhibit mineral absorption, especially for diets already low in minerals.
+
+In culture
+Although observations of soy consumption inducing gynecomastia on men are not conclusive, a pejorative term, "soy boy", has emerged to describe perceived emasculated young men with feminine traits.
+
+Futures
+Soybean futures are traded on the Chicago Board of Trade and have delivery dates in January (F), March (H), May (K), July (N), August (Q), September (U), November (X).
+They are also traded on other commodity futures exchanges under different contract specifications:
+
+SAFEX: The South African Futures Exchange
+DC: Dalian Commodity Exchange
+ODE: Osaka Dojima Commodity Exchange (formerly Kansai Commodities Exchange, KEX) in Japan
+NCDEX: National Commodity and Derivatives Exchange, India.
+ROFEX: Rosario Grain Exchange in Argentina
+
+See also
+Further reading
+da Silva, Claiton Marcio; de Majo, Claudio, eds. The Age of the Soybean: An Environmental History of Soy during the Great Acceleration (White Horse Press, 2022) online review
+
+References
+Works cited
+Lim TK (2012). "Glycine max". Edible Medicinal and Non-Medicinal Plants. Dordrecht, NL: Springer. pp. 634–714. doi:10.1007/978-94-007-1764-0_79. ISBN 978-94-007-1763-3.

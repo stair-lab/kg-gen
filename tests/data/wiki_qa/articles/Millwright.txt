@@ -1,0 +1,100 @@
+A millwright is a craftsman or skilled tradesman who installs, dismantles, maintains, repairs, reassembles, and moves machinery in factories, power plants, and construction sites.
+The term millwright (also known as industrial mechanic) is mainly used in the United States, Canada and South Africa to describe members belonging to a particular trade. Other countries use different terms to describe tradesmen engaging in similar activities. Related but distinct crafts include machinists, mechanics and mechanical fitters.
+As the name suggests, the original function of a millwright was the construction of flour mills, sawmills, paper mills and fulling mills powered by water or wind, made mostly of wood with a limited number of metal parts. Since the use of these structures originates in antiquity, millwrighting could arguably be considered one of the oldest engineering trades and the forerunner of modern mechanical engineering.
+In modern usage, a millwright is engaged with the erection of machinery. This includes such tasks as leveling, aligning, and installing machinery on foundations or base plates, or setting, leveling, and aligning electric motors or other power sources such as turbines with the equipment, which millwrights typically connect with some type of coupling.
+
+History
+Before the modern era
+Originally, millwrights were specialized carpenters who completely designed and constructed mills. Having a working knowledge of drive shafts, bearings, gearing and mechanical belts, they executed every type of engineering operation in the construction of these mills. They designed the patterns of the water wheel systems, carved their gear mechanisms, and finally erected the mill machines.
+In the Hellenistic period, Greek millwrights invented the two main components of watermills, the waterwheel and toothed gearing. Greeks, along with the Romans, were the first to operate undershot, overshot and breastshot waterwheel mills.
+Muslim millwrights adopted the Greek watermill technology from the Byzantine Empire, where it had been applied for centuries in those provinces conquered by the Muslims. They used several solutions to achieve the maximum output from watermills, by either mounting them to piers of bridges to take advantage of the increased flow or by using a shipmill, a type of watermill powered by water wheels mounted on the sides of ships moored in midstream.
+In medieval Europe, millwrights built the first industrial mills which introduced new innovative uses of waterpower. A survey of the types introduced in Western Europe was conducted by Adam Robert Lucas.
+In China, in the late 14th century, the millwrights were known as jiang and kong (a special term for artisan-engineers) and existed at an early age. They learned their craft on the shop floor, in a kind of apprenticeship scheme.
+Sir William Fairbairn, a millwright of the late 19th century, wrote in his "Treatise on Mills and Millwork", "...the millwright of the late centuries was an itinerant engineer and mechanic of high reputation. He could handle the axe, the hammer, and the plane with equal skill and precision...he could set out and cut in the furrows of a millstone with an accuracy equal or superior to that of the miller himself."
+
+Modern era
+The introduction of the steam engine and the increasing importance of iron and steel changed the global industrial landscape.
+It created specialisation and the birth of new trades (turners, fitters, machine makers, and mechanical engineers). It also changed the traditional job of the millwright.
+As James F. Hobart wrote in his book Millwrighting, "The ancient type of millwright has passed away. He has gone with the old time carpenter and obsolete shoemaker - the former with 500 pounds of molding planes and woodworking tools, the latter with nothing but pegging and sewing awls, hammer, and knife..."
+Through the 20th century, the trade adapted to the change. Modern millwrights work with steel and other materials and must often combine the skills of other mechanical trades in order to successfully install industrial machinery or to assemble machines from pre-fabricated parts. Modern millwrights must also be able to read blueprints and other schematics to aid them in the construction of complex systems. Millwrights are frequently unionized, with estimated numbers of around 45% in the US.
+
+Modern millwrights
+General characteristics
+Millwrights install, maintain, repair and troubleshoot stationary industrial machinery and mechanical equipment in sites such as factories, production plants and recreational facilities. However, the exact duties of a millwright vary depending on whether they are unionized or not, with union rules typically being more restrictive than non-union situations, which may have their own job description.
+On a typical job millwrights:
+
+read diagrams and schematic drawings and service manuals to determine work procedures
+operate rigging equipment and dollies to place heavy machinery and parts
+fit bearings, align gears and shafts, attach motors, and connect couplings and belts to precise tolerances
+align and test equipment, and make any necessary adjustments
+perform predictive and operational procedures
+repair or replace defective parts
+service and repair hydraulic and pneumatic systems
+may do some welding (when not structural) and tack welding (a weld that is adequate in size to temporarily hold components in place until it can be completely welded by a registered apprentice welder or a journeyman welder when it is structural) and fabrication as well as maintain an inventory of replacement parts.
+may install concrete for supports or flooring as needed.
+Modern standards of practice for millwrights also require working:
+
+within precise limits or standards of accuracy
+at heights without fear
+using of logical step-by-step procedures in work
+planning, solving problems and decision-making based on quantifiable information.
+
+Areas of specialty
+Millwrights by nature of their profession have to be extremely well versed in many aspects of construction/demobilization. They may install a conveyor system at an airport one week and the following week work at an industrial wastewater treatment plant.
+
+Power industry
+Millwrights in the power generation industry can assemble, set, align and balance turbines or rotors, as well as install pumps, valves, cranes, fans, and travelling screens. Millwrights also perform critical lifts involving major components to be flown level at up to and within .005 inch (5 thousandths of an inch). Because of their training and expertise, Millwrights are generally chosen to work on tasks associated with flying and setting heavy machinery.
+
+Training and education
+Millwrights are also in demand as teachers for vocational programs, both at the high school level and in post-secondary institutions. Many high schools feature fabrication courses that include metal work, where the experience of a qualified millwright is valuable. Often, these millwrights are paid a premium based on their years of field experience.
+
+Training
+Millwrights must have a good understanding of fluid mechanics (hydraulics and pneumatics), and all of the components involved in these processes, such as valves, cylinders, pumps and compressors.
+They are also trained to work with a wide array of precision tools, such as calipers, micrometers, dial indicators, levels, gauge blocks, and optical and laser alignment tooling.
+Most millwrights are educated through apprenticeship programs where they receive a combination of classroom education along with a good deal of on-the-job training. For example, in Alberta, the term of apprenticeship for a millwright is four years (four 12-month periods) including a minimum of 1560 hours of on-the-job training and eight weeks of technical training each year.
+Apprentices are usually paid a percentage of the average millwright's wage, and this percentage increases with experience.
+A typical training course, to qualify as a millwright, may include, among others, the following: 
+
+Shaft alignment
+Rigging
+Welding
+Machining
+Electrical wiring
+Steel fabrication
+Conveyor systems
+Steam turbine installation
+Gas turbine installation
+Blueprint basic, intermediate and advanced
+Safety basic, intermediate and advanced
+Labor history
+Associate degree classes
+It isn't uncommon for people to be deemed Uncertified Millwrights within this trade, as the scope is exceptionally broad.
+
+South Africa
+In South Africa, the millwright trade (especially focused on the mining sector) enjoys a far more versatile description than in most other countries. Fields wherein South African millwrights may operate include:
+
+Low-, medium- and high-voltage electrical fault finding, installation, and maintenance.
+PLC maintenance, installations, operations and fault finding.
+Fitting; installation and maintenance of most mechanical equipment, as well as hydraulic and pneumatic systems.
+Steelworks, rigging,
+and various other miscellaneous fields all depending on the site, company, Mine Health and Safety Act, personal interest and specialization.
+At most trades training centers, prospective millwright artisans are required to have a certain level of theoretical certification (e.g. N3-Nated- certificate) and psychometric characteristics, judged by thorough testing, in order to qualify for the foundation practical and theoretical technical training.
+After being trained in a multitude of different fields, novice, unqualified Millwrights enter in an apprenticeship for "on-the-job" training. There they work alongside all available artisans regardless of trade, depending on the institution. Once they meet a structured quota of experience and pass the necessary modules, apprentices have two months to prepare for their practical Trade Test. After they passed, they receive the certification and status of a qualified Millwright Tradesman. 
+Once millwrights qualify, they have the opportunity to qualify as technicians, engineers, planners, foremen and many other routes requiring mainly electrical and mechanical expertise.
+Many millwrights choose to enter the private sector to work on a contractual basis.
+
+Prominent historical millwrights
+A number of prominent early-modern civil engineers originally trained as millwrights, including:
+
+James Brindley
+John Rennie
+William Fairbairn
+Oliver Evans
+
+See also
+Stationary engineer
+
+References
+
+
+== Sources ==

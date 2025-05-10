@@ -1,0 +1,106 @@
+An augur was a priest and official in the classical Roman world. His main role was the practice of augury, the interpretation of the will of the gods by studying events he observed within a predetermined sacred space (templum). The templum corresponded to the heavenly space above. The augur's decisions were based on what he personally saw or heard from within the templum; they included thunder, lightning and any accidental signs such as falling objects, but in particular, birdsigns; whether the birds he saw flew in groups or alone, what noises they made as they flew, the direction of flight, what kind of birds they were, how many there were, or how they fed. This practice was known as "taking the auspices". As circumstance did not always favour the convenient appearance of wild birds or weather phenomena, domesticated chickens kept for the purpose were sometimes released into the templum, where their behaviour, particularly how they fed, could be studied by the augur.
+The augural ceremony and function of the augur was central to any major undertaking in Roman society – public or private – including matters of war, commerce, and religion. Augurs sought the divine will regarding any proposed course of action which might affect Rome's pax, fortuna, and salus (peace, good fortune, and well-being).
+
+Etymology
+Although ancient authors believed that the term "augur" contained the words avis and gerō – Latin for "directing the birds", historical-linguistic evidence points instead to the root augeō: "to increase, to prosper".
+
+History and public role
+Political, military and civil actions were sanctioned by augury and by haruspices.
+Historically, augury was performed by priests of the college of augurs on behalf of senior magistrates. The practice itself likely comes from the neighboring region of Etruria, where augurs were highly respected as officials. Magistrates were empowered to conduct augury as required for the performance of their official duties. Magistracies included senior military and civil ranks, which were therefore religious offices in their own right, and magistrates were directly responsible for the pax, fortuna, and salus of Rome and everything that was Roman.
+The presiding magistrate at an augural rite held the "right of augury" (ius augurii). The right of nuntiatio – announcing the appearance of auspicia oblativa (unexpected sign) – was reserved for the officiating augur, which would require the interruption of the proceedings then underway.
+
+Kingdom of Rome
+The Roman historian Livy stressed the importance of the augurs: "Who does not know that this city was founded only after taking the auspices, that everything in war and in peace, at home and abroad, was done only after taking the auspices?"
+In the Regal period, which ended 509 BC, tradition holds that there were three augurs at a time; they numbered nine by the third century BC; Sulla increased their number to fifteen. By the Principate, their numbers swelled even further to an estimated 25 members.
+
+Roman Republic
+During the Republic, priesthoods were prized as greatly as the consulship, the censorship, and the triumph. Membership gave the lifelong right to participate prominently in processions at ludi and in public banquets; augurs proudly displayed the symbol of the office, the lituus.
+Roman augurs were part of a college (Latin collegium) of priests who shared the duties and responsibilities of the position. At the foundation of the Republic in 510 BC, the patricians held sole claim to this office; by 300 BC, the office was open to plebeian occupation as well. Senior members of the collegium put forth nominations for any vacancies, and members voted on whom to co-opt.
+According to Cicero, the auctoritas of ius augurum included the right to adjourn and overturn the process of law: Consular election could be – and was – rendered invalid by inaugural error. For Cicero, this made the augur the most powerful authority in the Republic. Cicero himself was co-opted into the college only late in his career.
+In the later Republic, augury was supervised by the college of pontifices, a priestly-magistral office whose powers were increasingly woven into the cursus honorum. The office of pontifex maximus eventually became a de facto consular prerogative.
+
+Roman Empire
+The effectiveness of augury could only be judged retrospectively; the divinely ordained condition of peace (pax deorum) was an outcome of successful augury. Those whose actions had led to divine wrath (ira deorum) could not have possessed a true right of augury (ius augurum). Of all the protagonists in the Civil War, only Octavian could have possessed it, because he alone had restored the pax deorum to the Roman people. Lucan, writing during the Principate, described the recent Civil War as "unnatural" – a mirror to supernatural disturbances in the greater cosmos. His imagery is apt to the traditional principles of augury and its broader interpretation by Stoic apologists of the Imperial cult. In the Stoic cosmology the pax deorum is the expression of natural order in human affairs.
+When his colleague Lepidus died, Augustus assumed his office as pontifex maximus, took priestly control over the State oracles (including the Sibylline books), and used his powers as censor to suppress the circulation of "unapproved" oracles.
+Despite their lack of political influence under the Roman Empire, the augurate, as with its fellow quattuor amplissima collegia, continued to confer prestige on its members.
+
+Augurs, auguria, and auspices
+In ancient Rome the auguria (augural rites) were considered to be in equilibrium with the sacra ("sacred things" or "rites") and were not the only way by which the gods made their will known.
+The augures publici (public augurs) concerned themselves only with matters  related to the state. The role of the augur was that of consulting and interpreting the will of gods about some course of action such as accession of kings to the throne, of magistrates and major sacerdotes to their functions (inauguration) and all public enterprises. It sufficed to say that the augur or magistrate had heard a clap of thunder to suspend the convocation of the comitia.
+
+Ancient tradition
+According to Varro, before his time augures had distinguished five kinds of territory: ager Romanus, ager Gabinus, ager peregrinus, ager hosticus, ager incertus. These distinctions clearly point to the times of the prehistory of Latium and testify the archaic quality of the art of augury.
+The jus augurale (augural law) was rigorously secret, therefore very little about the technical aspects of ceremonies and rituals has been recorded. We have only the names of some auguria:
+
+The augurium salutis took place once a year, before the magistrates and the people, in which the gods were asked whether it was auspicious to ask to for the welfare of the Romans,
+The augurium canarium required the sacrifice of red dogs and took place after wheat grains had formed and before they were shelled.
+The vernisera auguria – we know only the name that implies a ritual related to the harvest.
+The terms augurium and auspicium are used indifferently by ancient authors. Modern scholars have debated the issue at length but have failed to find a distinctive definition that may hold for all the known cases. By such considerations Dumezil thinks that the two terms refer in fact to two aspects of the same religious act:
+
+auspicium would design the technical process of the operation, i.e. aves spicere, looking at the birds;
+augurium would be the resulting interpretation i.e. the determination, acknowledgement of the presence of the *auges, the action favoured by the god(s), the intention and the final product of the whole operation.
+In Varro's words "Agere augurium, aves specit", "to conduct the augurium, he observed the birds".
+
+Categories
+The auspicia were divided into two categories: requested by man (impetrativa) and offered spontaneously by the gods (oblativa). Both impetrativa and oblativa auspices could be further divided into five subclasses:
+
+ex caelo (thunder, lightning)
+ex avibus (birds)
+ex tripudiis (attitude to food, and feeding manner of Mars' sacred chickens)
+ex quadrupedibus (dog, horse, wolf, and fox)
+ex diris (ominous events).
+Only some species of birds (aves augurales) could yield valid signs whose meaning would vary according to the species. Among them were ravens, woodpeckers, owls, ossifragae, and eagles.
+Signs from birds were divided into alites, from the flight, and oscines, from the voice: The alites included region of the sky, height and type of flight, behaviour of the bird and place where it would come to rest. The oscines included the pitch and direction of the sound.
+
+Ritual
+Magistrates endowed by the law with the right of spectio (observation of auspices) would establish the requested auspicium (observation platform) before taking the auspicia impetrativa ("requested" or "sought" auspices; see above). The templum, or sacred space within which the operation would take place had to be established and delimited (it should be square and have only one entrance) and purified (effari, liberare).
+The enunciation of the requested auspicia that began the observation portion of the ceremony was called legum dictio. Observation conditions were rigorous and required absolute silence for validity of the operation. Technically the sky was divided into four sections or regions: dextera, sinistra, antica, and postica (right, left, anterior and posterior).
+
+The prototype of the ritual of inauguration of people is described in Livy's description of the inauguration of king Numa Pompilius:The augur asks Jupiter: "Si fas est" (i.e. if it is divine justice to do this) "... send me a certain signum (sign)" then the augur listed the auspicia he wanted to see. When they appeared Numa was declared king.
+
+Precedence
+Since the observation was complex, conflict among signs was common. A hierarchy among signs was devised: e.g. a sign from the eagle would prevail on that from the woodpecker and the ossifragae (parra).
+During the last centuries of the republic the auspices ex caelo and ex tripudiis supplanted other types, as the other forms could be easily used in a fraudulent way, i.e. bent to suit the desire of the asking person.
+Cicero condemned the fraudulent use and denounced the decline in the level of knowledge of the doctrine by the augurs of his time, but in fact the abuse developed from the evasion of negative signs, described in the next subsection.
+
+Evasion
+The interpretation of signs was vast and complex, and magistrates devised protective tricks to avoid being paralysed by negative signs. Against the negative auspicia oblativa the admitted procedures included:
+
+actively avoiding seeing them
+repudiare – refuse them through an interpretative sleight of hand
+non observare – by assuming one had not paid attention to them
+declaring something that in fact had not appeared
+tempestas – choosing the time of the observation at one's will
+renuntiatio – making a distinction between observation and formulation
+vitia – resorting to acknowledging the presence of mistakes
+repeating the whole procedure.
+
+Attus Navius
+Contrary to other divinatory practices present in Rome (e.g. haruspicina, consultation of the libri Sibyllini) Roman augury  appears to be autochthonous and pre-historical, originally Latin or Italic, and attested in the Iguvine Tables (avif aseria) and among other Latin tribes.
+The very story or legend of the foundation of Rome is based on augury. the ascertaining of the will of gods through observation of the sky and of birds. Romulus and Remus indeed acted as augurs and Romulus was considered a great augur throughout the course of his life.
+
+The character that best represented and portrayed the art however was Attus Navius. His story is related by Cicero:
+He was born into a very poor family. One day he lost one of his pigs. He then promised the gods that if he found it, he would offer them the biggest grapes growing in his vineyard. After recovering his pig he stood right at the middle of his grape yard facing South. He divided the sky into four sections and observed birds: when they appeared he walked in that direction and found an extraordinary large grape that he offered to the gods.
+
+His story was immediately famous and he became the augur of the king (see above the episode with king Tarquinius narrated by Livy). Henceforth he was considered the patron of the augurs.
+
+See also
+Augury
+Auguraculum
+De Divinatione
+Inauguration
+Omen
+Ornithomancy
+
+References
+Citations
+Sources
+Beard, M., North, J., Price, S., Religions of Rome, Volume I, illustrated, reprint, Cambridge University Press, 1998. ISBN 0-521-31682-0
+Brent, A. (1999). The imperial cult and the development of church order: Concepts and images of authority in paganism and early Christianity before the Age of Cyprian. Brill. ISBN 90-04-11420-3.
+Hornblower, Simon; Spawforth, Anthony (1996). The Oxford Classical Dictionary (3 ed.). Oxford, UK.: Oxford University Press. ISBN 978-0-19-866172-6. s.v. augures.
+Rosenstein, Nathan S. Imperatores Victi: Military Defeat and Aristocractic Competition in the Middle and Late Republic. Berkeley:  University of California Press,  c1990 1990. [1] (e-book, open access)
+
+External links
+article Augurium in Smith's Dictionary of Greek and Roman Antiquities
+Chisholm, Hugh, ed. (1911). "Augurs" . Encyclopædia Britannica. Vol. 2 (11th ed.). Cambridge University Press. pp. 903–904.
+Wissowa, Augures in Paulys Realencyclopaedie der Classischen Altertumswissenschaften vol. II (trans. into English)

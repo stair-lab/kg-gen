@@ -1,0 +1,594 @@
+In chemistry, a disulfide (or disulphide in British English) is a compound containing a R−S−S−R′ functional group or the S2−2 anion.  The linkage is also called an SS-bond or sometimes a disulfide bridge and usually derived from two thiol groups.
+In inorganic chemistry, the anion appears in a few rare minerals, but the functional group has tremendous importance in biochemistry. Disulfide bridges formed between thiol groups in two cysteine residues are an important component of the tertiary and quaternary structure of proteins.
+Compounds of the form R−S−S−H are usually called persulfides instead.
+
+Organic disulfides
+Structure
+Disulfides have a C–S–S–C dihedral angle approaching 90°.  The S–S bond length is 2.03 Å in diphenyl disulfide,  similar to that in elemental sulfur.
+Disulfides are usually symmetric but they can also be unsymmetric. Symmetrical disulfides are compounds of the formula RSSR. Most disulfides encountered in organosulfur chemistry are symmetrical disulfides.  Unsymmetrical disulfides (also called heterodisulfides or mixed disulfides) are compounds of the formula RSSR'.  Unsymmetrical disulfide are less common in organic chemistry, but many disulfides in nature are unsymmetrical.  Illustrative of a symmetric disulfide is cystine.
+
+Cyclic disulfides
+Disulfides can be components of rings.  Lipoic acid, a 1,2-dithiolane is a major example.  Rings with more than one disulfide usually tend to polymerize.
+
+Other specialized organic disulfides
+Thiuram disulfides, with the formula (R2NCSS)2, are disulfides but they behave distinctly because of the thiocarbonyl group.
+
+Properties
+Disulfide bonds are strong, with a typical bond dissociation energy of 60 kcal/mol (251 kJ mol−1). However, being about 40% weaker than C−C and C−H bonds, the disulfide bond is often the "weak link" in many molecules. Furthermore, reflecting the polarizability of divalent sulfur, the S−S bond is susceptible to scission by polar reagents, both electrophiles and especially nucleophiles (Nu): 
+  
+    
+      
+        
+          RS
+          
+            −
+          
+          SR
+          +
+          
+            Nu
+            
+              −
+            
+          
+          ⟶
+          RS
+          
+            −
+          
+          Nu
+          +
+          
+            RS
+            
+              −
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {RS-SR + Nu- -> RS-Nu + RS-}}}
+  
+ 
+The disulfide bond is about 2.05 Å in length, about 0.5 Å longer than a C−C bond. Rotation about the S−S axis is subject to a low barrier. Disulfides show a distinct preference for dihedral angles approaching 90°. When the angle approaches 0° or 180°, then the disulfide is a significantly better oxidant.
+Disulfides where the two R groups are the same are called symmetric, examples being diphenyl disulfide and dimethyl disulfide. When the two R groups are not identical, the compound is said to be an asymmetric or mixed disulfide.
+Although the hydrogenation of disulfides is usually not practical, the equilibrium constant for the reaction provides a measure of the standard redox potential for disulfides:
+
+  
+    
+      
+        
+          RSSR
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          2
+          
+          RSH
+        
+      
+    
+    {\displaystyle {\ce {RSSR + H2 -> 2 RSH}}}
+  
+
+This value is about −250 mV versus the standard hydrogen electrode (pH = 7). By comparison, the standard reduction potential for ferrodoxins is about −430 mV.
+
+Synthesis
+Disulfide bonds are usually formed from the oxidation of thiol (−SH) groups, especially in biological contexts. The transformation is depicted as follows:
+
+  
+    
+      
+        
+          2
+          
+          RSH
+          
+            
+              
+                
+                  
+                    
+                      ↽
+                    
+                    
+                    
+                    
+                      −
+                    
+                  
+                
+              
+              
+                
+                  
+                    
+                      −
+                    
+                    
+                    
+                    
+                      ⇀
+                    
+                  
+                
+              
+            
+          
+          RS
+          
+            −
+          
+          SR
+          +
+          2
+          
+          
+            H
+            
+              +
+            
+          
+          +
+          2
+          
+          
+            e
+            
+              −
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {2 RSH <=> RS-SR + 2 H+ + 2 e-}}}
+  
+
+A variety of oxidants participate in this reaction including oxygen and hydrogen peroxide. Such reactions are thought to proceed via sulfenic acid intermediates. In the laboratory, iodine in the presence of base is commonly employed to oxidize thiols to disulfides. Several metals, such as copper(II) and iron(III) complexes affect this reaction. Alternatively, disulfide bonds in proteins often formed by thiol-disulfide exchange:
+
+  
+    
+      
+        
+          RS
+          
+            −
+          
+          SR
+          +
+          
+            R
+            ′
+          
+          SH
+          
+            
+              
+                
+                  
+                    
+                      ↽
+                    
+                    
+                    
+                    
+                      −
+                    
+                  
+                
+              
+              
+                
+                  
+                    
+                      −
+                    
+                    
+                    
+                    
+                      ⇀
+                    
+                  
+                
+              
+            
+          
+          
+            R
+            ′
+          
+          S
+          
+            −
+          
+          SR
+          +
+          RSH
+        
+      
+    
+    {\displaystyle {\ce {RS-SR + R'SH <=> R'S-SR + RSH}}}
+  
+
+Such reactions are mediated by enzymes in some cases and in other cases are under equilibrium control, especially in the presence of a catalytic amount of base.
+The alkylation of alkali metal di- and polysulfides gives disulfides. "Thiokol" polymers arise when sodium polysulfide is treated with an alkyl dihalide. In the converse reaction, carbanionic reagents react with elemental sulfur to afford mixtures of the thioether, disulfide, and higher polysulfides. These reactions are often unselective but can be optimized for specific applications.
+
+Synthesis of unsymmetrical disulfides (heterodisulfides)
+Many specialized methods have been developed for forming unsymmetrical disulfides. Reagents that deliver the equivalent of "RS+" react with thiols to give asymmetrical disulfides:
+
+  
+    
+      
+        
+          RSH
+          +
+          
+            R
+            ′
+          
+          
+            SNR
+            
+              2
+            
+            
+              ″
+              
+                
+              
+            
+          
+          ⟶
+          RS
+          
+            −
+          
+          
+            SR
+            ′
+          
+          +
+          
+            HNR
+            
+              2
+            
+            
+              ″
+              
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {RSH + R'SNR''_2 -> RS-SR' + HNR''_2}}}
+  
+
+where R″2N is the phthalimido group.
+Bunte salts, derivatives of the type RSSO−3Na+are also used to generate unsymmetrical disulfides:
+
+  
+    
+      
+        
+          Na
+          
+            [
+            
+              O
+              
+                3
+              
+              
+                
+              
+            
+            
+              S
+              
+                2
+              
+              
+                
+              
+            
+            R
+            ]
+          
+          +
+          
+            NaSR
+            ′
+          
+          ⟶
+          
+            RSSR
+            ′
+          
+          +
+          
+            Na
+            
+              2
+            
+            
+              
+            
+          
+          
+            SO
+            
+              3
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {Na[O3S2R] + NaSR' -> RSSR' + Na2SO3}}}
+
+Reactions
+The most important aspect of disulfide bonds is their scission, as the S−S bond is usually the weakest bond in an organic molecule.  Many specialized organic reactions have been developed to cleave the bond. 
+A variety of reductants reduce disulfides to thiols.  Hydride agents are typical reagents, and a common laboratory demonstration "uncooks" eggs with sodium borohydride.  Alkali metals effect the same reaction more aggressively: 
+  
+    
+      
+        
+          RS
+          
+            −
+          
+          SR
+          +
+          2
+          
+          Na
+          ⟶
+          2
+          
+          NaSR
+          ,
+        
+      
+    
+    {\displaystyle {\ce {RS-SR + 2 Na -> 2 NaSR,}}}
+  
+ followed by protonation of the resulting metal thiolate: 
+  
+    
+      
+        
+          NaSR
+          +
+          HCl
+          ⟶
+          HSR
+          +
+          NaCl
+        
+      
+    
+    {\displaystyle {\ce {NaSR + HCl -> HSR + NaCl}}}
+  
+ 
+In biochemistry labwork, thiols such as β-mercaptoethanol (β-ME) or dithiothreitol (DTT) serve as reductants through thiol-disulfide exchange.  The thiol reagents are used in excess to drive the equilibrium to the right: 
+  
+    
+      
+        
+          RS
+          
+            −
+          
+          SR
+          +
+          2
+          
+          
+            HOCH
+            
+              2
+            
+            
+              
+            
+          
+          
+            CH
+            
+              2
+            
+            
+              
+            
+          
+          SH
+          
+            
+              
+                
+                  
+                    
+                      ↽
+                    
+                    
+                    
+                    
+                      −
+                    
+                  
+                
+              
+              
+                
+                  
+                    
+                      −
+                    
+                    
+                    
+                    
+                      ⇀
+                    
+                  
+                
+              
+            
+          
+          
+            HOCH
+            
+              2
+            
+            
+              
+            
+          
+          
+            CH
+            
+              2
+            
+            
+              
+            
+          
+          S
+          
+            −
+          
+          
+            SCH
+            
+              2
+            
+            
+              
+            
+          
+          
+            CH
+            
+              2
+            
+            
+              
+            
+          
+          OH
+          +
+          2
+          
+          RSH
+        
+      
+    
+    {\displaystyle {\ce {RS-SR + 2 HOCH2CH2SH <=> HOCH2CH2S-SCH2CH2OH + 2 RSH}}}
+  
+
+The reductant tris(2-carboxyethyl)phosphine (TCEP) is useful, beside being odorless compared to β-ME and DTT, because it is selective, working at both alkaline and acidic conditions (unlike DTT), is more hydrophilic and more resistant to oxidation in air. Furthermore, it is often not needed to remove TCEP before modification of protein thiols.
+In Zincke cleavage, halogens oxidize disulfides to a sulfenyl halide:
+  
+    
+      
+        
+          ArSSAr
+          +
+          
+            Cl
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          2
+          
+          ArSCl
+        
+      
+    
+    {\displaystyle {\ce {ArSSAr + Cl2 -> 2 ArSCl}}}
+  
+
+More unusually, oxidation of disulfides gives first thiosulfinates and then thiosulfonates:
+
+RSSR + [O] → RS(=O)SR
+RS(=O)SR + [O] → RS(=O)2SR
+
+Thiol-disulfide exchange
+In thiol–disulfide exchange, a thiolate group −S− displaces one sulfur atom in a disulfide bond −S−S−. The original disulfide bond is broken, and its other sulfur atom is released as a new thiolate, carrying away the negative charge. Meanwhile, a new disulfide bond forms between the attacking thiolate and the original sulfur atom.
+
+Thiolates, not thiols, attack disulfide bonds. Hence, thiol–disulfide exchange is inhibited at low pH (typically, below 8) where the protonated thiol form is favored relative to the deprotonated thiolate form. (The pKa of a typical thiol group is roughly 8.3, but can vary due to its environment.)
+Thiol–disulfide exchange is the principal reaction by which disulfide bonds are formed and rearranged in a protein. The rearrangement of disulfide bonds within a protein generally occurs via intra-protein thiol–disulfide exchange reactions; a thiolate group of a cysteine residue attacks one of the protein's own disulfide bonds. This process of disulfide rearrangement (known as disulfide shuffling) does not change the number of disulfide bonds within a protein, merely their location (i.e., which cysteines are bonded). Disulfide reshuffling is generally much faster than oxidation/reduction reactions, which change the number of disulfide bonds within a protein. The oxidation and reduction of protein disulfide bonds in vitro also generally occurs via thiol–disulfide exchange reactions. Typically, the thiolate of a redox reagent such as glutathione, dithiothreitol attacks the disulfide bond on a protein forming a mixed disulfide bond between the protein and the reagent. This mixed disulfide bond when attacked by another thiolate from the reagent, leaves the cysteine oxidized. In effect, the disulfide bond is transferred from the protein to the reagent in two steps, both thiol–disulfide exchange reactions.
+The in vivo oxidation and reduction of protein disulfide bonds by thiol–disulfide exchange is facilitated by a protein called thioredoxin. This small protein, essential in all known organisms, contains two cysteine amino acid residues in a vicinal arrangement (i.e., next to each other), which allows it to form an internal disulfide bond, or disulfide bonds with other proteins. As such, it can be used as a repository of reduced or oxidized disulfide bond moieties.
+
+Nomenclature and misnomers
+Thiosulfoxides are isomeric with disulfides, having the second sulfur branching from the first and not partaking in a continuous chain, i.e. >S=S rather than −S−S−.
+Compounds with three sulfur atoms, such as CH3S−S−SCH3, are called trisulfides.  More extended species are well known, especially in rings.
+Disulfide is also used to refer to compounds that contain two sulfide (S2−) centers. The compound carbon disulfide, CS2 is described with the structural formula i.e. S=C=S. This molecule is not a disulfide in the sense that it lacks a S-S bond. Similarly, molybdenum disulfide, MoS2, is not a disulfide in the sense again that its sulfur atoms are not linked.
+Disulfide bonds are analogous but more common than related peroxide, thioselenide, and diselenide bonds. Intermediate compounds of these also exist, for example thioperoxides such as hydrogen thioperoxide, have the formula R1OSR2 (equivalently R2SOR1). These are isomeric to sulfoxides in a similar manner to the above; i.e. >S=O rather than −S−O−.
+
+Occurrence in biology
+Occurrence in proteins
+Disulfide bonds can be formed under oxidising conditions and play an important role in the folding and stability of some proteins, usually proteins secreted to the extracellular medium. Since most cellular compartments are reducing environments, in general, disulfide bonds are unstable in the cytosol, with some exceptions as noted below, unless a sulfhydryl oxidase is present.
+
+Disulfide bonds in proteins are formed between the thiol groups of cysteine residues by the process of oxidative folding. The other sulfur-containing amino acid, methionine, cannot form disulfide bonds. A disulfide bond is typically denoted by hyphenating the abbreviations for cysteine, e.g., when referring to ribonuclease A the "Cys26–Cys84 disulfide bond", or the "26–84 disulfide bond", or most simply as "C26–C84" where the disulfide bond is understood and does not need to be mentioned. The prototype of a protein disulfide bond is the two-amino-acid peptide cystine, which is composed of two cysteine amino acids joined by a disulfide bond. The structure of a disulfide bond can be described by its χss dihedral angle between the Cβ−Sγ−Sγ−Cβ atoms, which is usually close to ±90°.
+The disulfide bond stabilizes the folded form of a protein in several ways:
+
+It holds two portions of the protein together, biasing the protein towards the folded topology. That is, the disulfide bond destabilizes the unfolded form of the protein by lowering its entropy.
+The disulfide bond may form the nucleus of a hydrophobic core of the folded protein, i.e., local hydrophobic residues may condense around the disulfide bond and onto each other through hydrophobic interactions.
+Related to 1 and 2, the disulfide bond links two segments of the protein chain, increases the effective local concentration of protein residues, and lowers the effective local concentration of water molecules. Since water molecules attack amide-amide hydrogen bonds and break up secondary structure, a disulfide bond stabilizes secondary structure in its vicinity. For example, researchers have identified several pairs of peptides that are unstructured in isolation, but adopt stable secondary and tertiary structure upon formation of a disulfide bond between them.
+A disulfide species is a particular pairing of cysteines in a disulfide-bonded protein and is usually depicted by listing the disulfide bonds in parentheses, e.g., the "(26–84, 58–110) disulfide species". A disulfide ensemble is a grouping of all disulfide species with the same number of disulfide bonds, and is usually denoted as the 1S ensemble, the 2S ensemble, etc. for disulfide species having one, two, etc. disulfide bonds. Thus, the (26–84) disulfide species belongs to the 1S ensemble, whereas the (26–84, 58–110) species belongs to the 2S ensemble. The single species with no disulfide bonds is usually denoted as R for "fully reduced". Under typical conditions, disulfide reshuffling is much faster than the formation of new disulfide bonds or their reduction; hence, the disulfide species within an ensemble equilibrate more quickly than between ensembles.
+The native form of a protein is usually a single disulfide species, although some proteins may cycle between a few disulfide states as part of their function, e.g., thioredoxin. In proteins with more than two cysteines, non-native disulfide species may be formed, which are almost always misfolded. As the number of cysteines increases, the number of nonnative species increases factorially.
+
+In bacteria and archaea
+Disulfide bonds play an important protective role for bacteria as a reversible switch that turns a protein on or off when bacterial cells are exposed to oxidation reactions. Hydrogen peroxide (H2O2) in particular could severely damage DNA and kill the bacterium at low concentrations if not for the protective action of the SS-bond. Archaea typically have fewer disulfides than higher organisms.
+
+In eukaryotes
+In eukaryotic cells, in general, stable disulfide bonds are formed in the lumen of the RER (rough endoplasmic reticulum) and the mitochondrial intermembrane space but not in the cytosol. This is due to the more oxidizing environment of the aforementioned compartments and more reducing environment of the cytosol (see glutathione). Thus disulfide bonds are mostly found in secretory proteins, lysosomal proteins, and the exoplasmic domains of membrane proteins.
+There are notable exceptions to this rule. For example, many nuclear and cytosolic proteins can become disulfide-crosslinked during necrotic cell death. Similarly, a number of cytosolic proteins which have cysteine residues in proximity to each other that function as oxidation sensors or redox catalysts; when the reductive potential of the cell fails, they oxidize and trigger cellular response mechanisms. The virus Vaccinia also produces cytosolic proteins and peptides that have many disulfide bonds; although the reason for this is unknown presumably they have protective effects against intracellular proteolysis machinery.
+Disulfide bonds are also formed within and between protamines in the sperm chromatin of many mammalian species.
+
+Disulfides in regulatory proteins
+As disulfide bonds can be reversibly reduced and re-oxidized, the redox state of these bonds has evolved into a signaling element. In chloroplasts, for example, the enzymatic reduction of disulfide bonds has been linked to the control of numerous metabolic pathways as well as gene expression. The reductive signaling activity has been shown, thus far, to be carried by the ferredoxin-thioredoxin system, channeling electrons from the light reactions of photosystem I to catalytically reduce disulfides in regulated proteins in a light dependent manner. In this way chloroplasts adjust the activity of key processes such as the Calvin–Benson cycle, starch degradation, ATP production and gene expression according to light intensity. Additionally, It has been reported that disulfides plays a significant role on redox state regulation of Two-component systems (TCSs), which could be found in certain bacteria including photogenic strain. A unique intramolecular cysteine disulfide bonds in the ATP-binding domain of SrrAB TCs found in Staphylococcus aureus is a good example of disulfides in regulatory proteins, which the redox state of SrrB molecule is controlled by cysteine disulfide bonds, leading to the modification of SrrA activity including gene regulation.
+
+In hair and feathers
+Over 90% of the dry weight of hair comprises proteins called keratins, which have a high disulfide content, from the amino acid cysteine. The robustness conferred in part by disulfide linkages is illustrated by the recovery of virtually intact hair from ancient Egyptian tombs. Feathers have similar keratins and are extremely resistant to protein digestive enzymes. The stiffness of hair and feather is determined by the disulfide content. Manipulating disulfide bonds in hair is the basis for the permanent wave in hairstyling. Reagents that affect the making and breaking of S−S bonds are key, e.g., ammonium thioglycolate. The high disulfide content of feathers dictates the high sulfur content of bird eggs. The high sulfur content of hair and feathers contributes to the disagreeable odor that results when they are burned.
+
+In disease
+Cystinosis is a condition where cystine precipitates in various organs.  This accumulation interferes with bodily function and can be fatal. This disorder can be resolved by treatment with cysteamine. Cysteamine acts to solubilize the cystine by (1) forming the mixed disulfide cysteine-cysteamine, which is more soluble and exportable, and (2) reducing cystine to cysteine.
+
+Inorganic disulfides
+The disulfide anion is S2−2, or −S−S−. In disulfide, sulfur exists in the reduced state with oxidation number −1. Its electron configuration then resembles that of a chlorine atom.  It thus tends to form a covalent bond with another S− center to form S2−2 group, similar to elemental chlorine existing as the diatomic Cl2. Oxygen may also behave similarly, e.g. in peroxides such as H2O2. Examples:
+
+Hydrogen disulfide (S2H2), the simplest inorganic disulfide
+Disulfur dichloride (S2Cl2), a distillable liquid.
+Iron disulfide (FeS2), or pyrite.
+
+Applications
+Aside from the major role in biology, disulfides are found in rubber that has been vulcanized with sulfur. The vulcanization of rubber results in crosslinking groups which consist of disulfide (and polysulfide) bonds; in analogy to the role of disulfides in proteins, the S−S linkages in rubber strongly affect the stability and rheology of the material. Although the exact mechanism underlying the vulcanization process is not entirely understood (as multiple reaction pathways are present but the predominant one is unknown), it has been extensively shown that the extent to which the process is allowed to proceed determines the physical properties of the resulting rubber—namely, a greater degree of crosslinking corresponds to a stronger and more rigid material. The current conventional methods of rubber manufacturing are typically irreversible, as the unregulated reaction mechanisms can result in complex networks of sulfide linkages; as such, rubber is considered to be a thermoset material.
+
+See also
+Thiosulfinate – Functional group
+Diselenides in organoselenium chemistry
+Covalent adaptable network
+
+References
+Further reading
+External links
+ Media related to Disulfides at Wikimedia Commons

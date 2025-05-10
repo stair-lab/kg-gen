@@ -1,0 +1,100 @@
+Thyroid hormones are two hormones produced and released by the thyroid gland, triiodothyronine (T3) and thyroxine (T4). They are tyrosine-based hormones that are primarily responsible for regulation of metabolism. T3 and T4 are partially composed of iodine, derived from food. A deficiency of iodine leads to decreased production of T3 and T4, enlarges the thyroid tissue and will cause the disease known as simple goitre.
+The major form of thyroid hormone in the blood is thyroxine (T4), whose half-life of around one week is longer than that of T3. In humans, the ratio of T4 to T3 released into the blood is approximately 14:1. T4 is converted to the active T3 (three to four times more potent than T4) within cells by deiodinases (5′-deiodinase). These are further processed by decarboxylation and deiodination to produce iodothyronamine (T1a) and thyronamine (T0a). All three isoforms of the deiodinases are selenium-containing enzymes, thus dietary selenium is essential for T3 production. Calcitonin, a peptide hormone produced and secreted by the thyroid, is usually not included in the meaning of "thyroid hormone".
+Thyroid hormones are one of the factors responsible for the modulation of energy expenditure. This is achieved through several mechanisms, such as mitochondrial biogenesis and adaptive thermogenesis.
+American chemist Edward Calvin Kendall was responsible for the isolation of thyroxine in 1915. In 2020, levothyroxine, a manufactured form of thyroxine, was the second most commonly prescribed medication in the United States, with more than 98 million prescriptions. Levothyroxine is on the World Health Organization's List of Essential Medicines.
+
+Function
+Thyroid hormones act on nearly every cell in the body. They act to increase the basal metabolic rate, affect protein synthesis, help regulate long bone growth (synergy with growth hormone) and neural maturation, and increase the body's sensitivity to catecholamines (such as adrenaline) by permissiveness. Thyroid hormones are essential to proper development and differentiation of all cells of the human body. These hormones also regulate protein, fat, and carbohydrate metabolism, affecting how human cells use energetic compounds. They also stimulate vitamin metabolism. Numerous physiological and pathological stimuli influence thyroid hormone synthesis.
+Thyroid hormones lead to heat generation in humans. However, the thyronamines function via some unknown mechanism to inhibit neuronal activity; this plays an important role in the hibernation cycles of mammals and the moulting behaviour of birds. One effect of administering the thyronamines is a severe drop in body temperature.
+
+Medical use
+Both T3 and T4 are used to treat thyroid hormone deficiency (hypothyroidism). They are both absorbed well by the stomach, so can be given orally. Levothyroxine is the chemical name of the manufactured version of T4, which is metabolised more slowly than T3 and hence usually only needs once-daily administration. Natural desiccated thyroid hormones are derived from pig thyroid glands, and are a "natural" hypothyroid treatment containing 20% T3 and traces of T2, T1 and calcitonin.
+Also available are synthetic combinations of T3/T4 in different ratios (such as liotrix) and pure-T3 medications (INN: liothyronine).
+Levothyroxine Sodium is usually the first course of treatment tried. Some patients feel they do better on desiccated thyroid hormones; however, this is based on anecdotal evidence and clinical trials have not shown any benefit over the biosynthetic forms. Thyroid tablets are reported to have different effects, which can be attributed to the difference in torsional angles surrounding the reactive site of the molecule.
+Thyronamines have no medical usages yet, though their use has been proposed for controlled induction of hypothermia, which causes the brain to enter a protective cycle, useful in preventing damage during ischemic shock.
+Synthetic thyroxine was first successfully produced by Charles Robert Harington and George Barger in 1926.
+
+Formulations
+Most people are treated with levothyroxine, or a similar synthetic thyroid hormone. Different polymorphs of the compound have different solubilities and potencies. Additionally, natural thyroid hormone supplements from the dried thyroids of animals are still available. Levothyroxine contains T4 only and is therefore largely ineffective for patients unable to convert T4 to T3. These patients may choose to take natural thyroid hormone, as it contains a mixture of T4 and T3, or alternatively supplement with a synthetic T3 treatment. In these cases, synthetic liothyronine is preferred due to the potential differences between the natural thyroid products. Some studies show that the mixed therapy is beneficial to all patients, but the addition of lyothyronine contains additional side effects and the medication should be evaluated on an individual basis. Some natural thyroid hormone brands are FDA approved, but some are not. Thyroid hormones are generally well tolerated. Thyroid hormones are usually not dangerous for pregnant women or nursing mothers, but should be given under a doctor's supervision. In fact, if a woman who is hypothyroid is left untreated, her baby is at a higher risk for birth defects. When pregnant, a woman with a low-functioning thyroid will also need to increase her dosage of thyroid hormone. One exception is that thyroid hormones may aggravate heart conditions, especially in older patients; therefore, doctors may start these patients on a lower dose and work up to a larger one to avoid risk of heart attack.
+
+Thyroid metabolism
+Central
+Thyroid hormones (T4 and T3) are produced by the follicular cells of the thyroid gland and are regulated by TSH made by the thyrotropes of the anterior pituitary gland. The effects of T4 in vivo are mediated via T3 (T4 is converted to T3 in target tissues). T3 is three to five times more active than T4.
+T4, Thyroxine (3,5,3′,5′-tetraiodothyronine), is produced by follicular cells of the thyroid gland. It is produced from the precursor thyroglobulin (this is not the same as thyroxine-binding globulin (TBG)), which is cleaved by enzymes to produce active T4.
+The steps in this process are as follows:
+
+The Na+/I− symporter transports two sodium ions across the basement membrane of the follicular cells along with an iodide ion. This is a secondary active transporter that utilises the concentration gradient of Na+ to move I− against its concentration gradient. This is called iodide trapping. Sodium is cotransported with iodide from the basolateral side of the membrane into the cell, and then concentrated in the thyroid follicles to about thirty times its concentration in the blood.
+I− is moved across the apical membrane into the colloid of the follicle by pendrin.
+Thyroperoxidase (TPO) oxidizes two I− to form I2. Iodide is non-reactive, and only the more reactive iodine is required for the next step.
+Iodine is converted into HOI, which iodinates the tyrosyl residues of the thyroglobulin within the colloid to form 3-monoiodityrosyl (MIT-yl) and 3,5-diiodityrosyl (DIT-yl) residues – introducting iodine atoms at one or both locations ortho to the hydroxyls of tyrosine.  The thyroglobulin was synthesised in the ER of the follicular cell and secreted into the colloid.
+TPO also converts tyrosyl, MIT-yl, and DIT-yl residues into their free radical forms. These forms attack other MIT-yl and DIT-yl residues. When a DIT-yl radical attacks a DIT, T4-yl (peptidic T4) is formed. When a MIT-yl radical attacks a DIT, T3-yl is formed. Other reactions are possible, but do not form physiologically active products.
+Iodinated Thyroglobulin binds megalin for endocytosis back into cell.
+Thyroid-stimulating hormone (TSH) released from the anterior pituitary (also known as the adenohypophysis) binds the TSH receptor (a Gs protein-coupled receptor) on the basolateral membrane of the cell and stimulates the endocytosis of the colloid.
+The endocytosed vesicles fuse with the lysosomes of the follicular cell. The lysosomal enzymes cleave any MIT, DIT, T3, T4 as well as the inactive analogues from the iodinated thyroglobulin.
+The thyroid hormones cross the follicular cell membrane towards the blood vessels by an unknown mechanism. Text books have stated that diffusion is the main means of transport, but recent studies indicate that monocarboxylate transporter (MCT) 8 and 10 play major roles in the efflux of the thyroid hormones from the thyroid cells.
+Thyroglobulin (Tg) is a 660 kDa, dimeric protein produced by the follicular cells of the thyroid and used entirely within the thyroid gland. Thyroxine is produced by attaching iodine atoms to the ring structures of this protein's tyrosine residues; thyroxine (T4) contains four iodine atoms, while triiodothyronine (T3), otherwise identical to T4, has one less iodine atom per molecule. The thyroglobulin protein accounts for approximately half of the protein content of the thyroid gland. Each thyroglobulin molecule contains approximately 100–120 tyrosine residues, a small number of which (<20) are subject to iodination catalysed by thyroperoxidase. The same enzyme then catalyses "coupling" of one modified tyrosine with another, via a free-radical-mediated reaction, and when these iodinated bicyclic molecules are released by hydrolysis of the protein, T3 and T4 are the result. Therefore, each thyroglobulin protein molecule ultimately yields very small amounts of thyroid hormone (experimentally observed to be on the order of 5–6 molecules of either T4 or T3 per original molecule of thyroglobulin).
+Hydrolysis (cleavage to individual amino acids) of the modified protein by proteases then liberates T3 and T4, as well as the non-coupled tyrosine derivatives MIT and DIT. The hormones T4 and T3 are the biologically active agents central to metabolic regulation.
+
+Peripheral
+Thyroxine is believed to be a prohormone and a reservoir for the most active and main thyroid hormone T3. T4 is converted as required in the tissues by iodothyronine deiodinase. Deficiency of deiodinase can mimic hypothyroidism due to iodine deficiency. T3 is more active than T4, though it is present in less quantity than T4.
+
+Initiation of production in fetuses
+Thyrotropin-releasing hormone (TRH) is released from hypothalamus by 6 – 8 weeks, and thyroid-stimulating hormone (TSH) secretion from fetal pituitary is evident by 12 weeks of gestation, and fetal production of thyroxine (T4) reaches a clinically significant level at 18–20 weeks. Fetal triiodothyronine (T3) remains low (less than 15 ng/dL) until 30 weeks of gestation, and increases to 50 ng/dL at term. Fetal self-sufficiency of thyroid hormones protects the fetus against e.g. brain development abnormalities caused by maternal hypothyroidism.
+
+Iodine deficiency
+If there is a deficiency of dietary iodine, the thyroid will not be able to make thyroid hormones. The lack of thyroid hormones will lead to decreased negative feedback on the pituitary, leading to increased production of thyroid-stimulating hormone, which causes the thyroid to enlarge (the resulting medical condition is called endemic colloid goitre; see goitre). This has the effect of increasing the thyroid's ability to trap more iodide, compensating for the iodine deficiency and allowing it to produce adequate amounts of thyroid hormone.
+
+Circulation and transport
+Plasma transport
+Most of the thyroid hormone circulating in the blood is bound to transport proteins, and only a very small fraction is unbound and biologically active. Therefore, measuring concentrations of free thyroid hormones is important for diagnosis, while measuring total levels can be misleading.
+Thyroid hormone in the blood is usually distributed as follows:
+
+Despite being lipophilic, T3 and T4 cross the cell membrane via carrier-mediated transport, which is ATP-dependent.
+T1a and T0a are positively charged and do not cross the membrane; they are believed to function via the trace amine-associated receptor TAAR1 (TAR1, TA1), a G-protein-coupled receptor located in the cytoplasm.
+Another critical diagnostic tool is measurement of the amount of thyroid-stimulating hormone (TSH) that is present.
+
+Membrane transport
+Contrary to common belief, thyroid hormones cannot traverse cell membranes in a passive manner like other lipophilic substances. The iodine in o-position makes the phenolic OH-group more acidic, resulting in a negative charge at physiological pH. However, at least 10 different active, energy-dependent and genetically regulated iodothyronine transporters have been identified in humans. They guarantee that intracellular levels of thyroid hormones are higher than in blood plasma or interstitial fluids.
+
+Intracellular transport
+Little is known about intracellular kinetics of thyroid hormones. However, recently it could be demonstrated that the crystallin CRYM binds 3,5,3′-triiodothyronine in vivo.
+
+Mechanism of action
+The thyroid hormones function via a well-studied set of nuclear receptors, termed the thyroid hormone receptors. These receptors, together with corepressor molecules, bind DNA regions called thyroid hormone response elements (TREs) near genes. This receptor-corepressor-DNA complex can block gene transcription. Triiodothyronine (T3), which is the active form of thyroxine (T4), goes on to bind to receptors. The deiodinase catalyzed reaction removes an iodine atom from the 5′ position of the outer aromatic ring of thyroxine's (T4) structure. When triiodothyronine (T3) binds a receptor, it induces a conformational change in the receptor, displacing the corepressor from the complex. This leads to recruitment of coactivator proteins and RNA polymerase, activating transcription of the gene. Although this general functional model has considerable experimental support, there remain many open questions.
+More recently genetic evidence has been obtained for a second mechanism of thyroid hormone action involving one of the same nuclear receptors, TRβ, acting rapidly in the cytoplasm through the PI3K. This mechanism is conserved in all mammals but not fish or amphibians, and regulates brain development and adult metabolism. The mechanism itself parallels the actions of the nuclear receptor in the nucleus: in the absence of hormone, TRβ binds to PI3K and inhibits its activity, but when hormone binds the complex dissociates, PI3K activity increases, and the hormone bound receptor diffuses into the nucleus.
+
+Thyroxine, iodine and apoptosis
+Thyroxine and iodine stimulate the apoptosis of the cells of the larval gills, tail and fins in amphibian metamorphosis, and stimulate the evolution of their nervous system transforming the aquatic, vegetarian tadpole into the terrestrial, carnivorous frog. In fact, amphibian frog Xenopus laevis serves as an ideal model system for the study of the mechanisms of apoptosis.
+
+Effects of triiodothyronine
+Effects of triiodothyronine (T3) which is the metabolically active form:
+
+Increases cardiac output
+Increases heart rate
+Increases ventilation rate
+Increases basal metabolic rate
+Potentiates the effects of catecholamines (i.e. increases sympathetic activity)
+Potentiates brain development
+Thickens endometrium in females
+Increases catabolism of proteins and carbohydrates
+
+Measurement
+Further information: Thyroid function tests
+Triiodothyronine (T3) and thyroxine (T4) can be measured as free T3 and free T4, which are indicators of their activities in the body. They can also be measured as total T3 and total T4, which depend on the amount that is bound to thyroxine-binding globulin (TBG). A related parameter is the free thyroxine index, which is total T4 multiplied by thyroid hormone uptake, which, in turn, is a measure of the unbound TBG. Additionally, thyroid disorders can be detected prenatally using advanced imaging techniques and testing fetal hormone levels.
+
+Related diseases
+Both excess and deficiency of thyroxine can cause disorders.
+
+Hyperthyroidism (an example is Graves' disease) is the clinical syndrome caused by an excess of circulating free thyroxine, free triiodothyronine, or both. It is a common disorder that affects approximately 2% of women and 0.2% of men. Thyrotoxicosis is often used interchangeably with hyperthyroidism, but there are subtle differences. Although thyrotoxicosis also refers to an increase in circulating thyroid hormones, it can be caused by the intake of thyroxine tablets or by an over-active thyroid, whereas hyperthyroidism refers solely to an over-active thyroid.
+Hypothyroidism (an example is Hashimoto's thyroiditis) is the case where there is a deficiency of thyroxine, triiodothyronine, or both.
+Clinical depression can sometimes be caused by hypothyroidism. Some research has shown that T3 is found in the junctions of synapses, and regulates the amounts and activity of serotonin, norepinephrine, and γ-aminobutyric acid (GABA) in the brain.
+Hair loss can sometimes be attributed to a malfunction of T3 and T4. Normal hair growth cycle may be affected disrupting the hair growth.
+Both thyroid excess and deficiency can cause cardiovascular disorders or make preexisting conditions worse. The link between excess and deficiency of thyroid hormone on conditions like arrhythmias, heart failure, and atherosclerotic vascular diseases, have been established for nearly 200 years.
+Abnormal thyroid function—hypo- and hyperthyroidism—can manifest as myopathy with symptoms of exercise-induced muscle fatigue, cramping, muscle pain and may include proximal weakness or muscle hypertrophy (particularly of the calves). Prolonged hypo- and hyperthyroid myopathy leads to atrophy of type II (fast-twitch/glycolytic) muscle fibres, and a predominance of type I (slow-twitch/oxidative) muscle fibres. Muscle biopsy shows abnormal muscle glycogen: high accumulation in hypothyroidism and low accumulation in hyperthyroidism. Myopathy associated with hypothyroidism includes Kocher-Debre-Semelaigne syndrome (childhood-onset), Hoffman syndrome (adult-onset), myasthenic syndrome, and atrophic form. Myopathy associated with hyperthyroidism includes thyrotoxic myopathy, thyrotoxic periodic paralysis, and Graves' ophthalmopathy. In Graves' ophthalmopathy, the proptosis is secondary to extraocular muscle (EOM) enlargement and gross expansion of orbital fat.
+Preterm births can suffer neurodevelopmental disorders due to lack of maternal thyroid hormones, at a time when their own thyroid is unable to meet their postnatal needs. Also in normal pregnancies, adequate levels of maternal thyroid hormone are vital in order to ensure thyroid hormone availability for the foetus and its developing brain. Congenital hypothyroidism occurs in every 1 in 1600–3400 newborns with most being born asymptomatic and developing related symptoms weeks after birth.
+
+Anti-thyroid drugs
+Iodine uptake against a concentration gradient is mediated by a sodium–iodine symporter and is linked to a sodium-potassium ATPase. Perchlorate and thiocyanate are drugs that can compete with iodine at this point. Compounds such as goitrin, carbimazole, methimazole, propylthiouracil can reduce thyroid hormone production by interfering with iodine oxidation.
+
+
+== References ==

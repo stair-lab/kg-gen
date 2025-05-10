@@ -1,0 +1,38 @@
+A circumpolar star is a star that, as viewed from a given latitude on Earth, never sets below the horizon due to its apparent proximity to one of the celestial poles. Circumpolar stars are therefore visible from said location toward the nearest pole for the entire night on every night of the year (and would be continuously visible throughout the day too, were they not overwhelmed by the Sun's glare). Others are called seasonal stars.
+All circumpolar stars lie within a circumpolar circle whose size is determined by the observer's latitude. Specifically, the angular measure of the radius of this circle equals the observer's latitude. The closer the observer is to the North or South Pole, the larger its circumpolar circle. 
+Before the definition of the Arctic was formalized as the region north of the Arctic Circle which experiences the midnight sun, it more broadly meant those places where the 'bear' constellations (Ursa Major, the Great Bear, and Ursa Minor, the Little Bear) were high in the sky. Thus the word 'Arctic' is derived from the Greek ἀρκτικός (arktikos), 'bearish', from ἄρκτος (arktos), 'bear'.
+
+Explanation
+As Earth rotates daily on its axis, the stars appear to move in circular paths around one of the celestial poles (the north celestial pole for observers in the Northern Hemisphere, or the south celestial pole for observers in the Southern Hemisphere). Stars far from a celestial pole appear to rotate in large circles; stars located very close to a celestial pole rotate in small circles and hence hardly seem to engage in any diurnal motion at all. Depending on the observer's latitude on Earth, some stars – the circumpolar ones – are close enough to the celestial pole to remain continuously above the horizon, while other stars dip below the horizon for some portion of their daily circular path (and others remain permanently below the horizon).
+The circumpolar stars appear to lie within a circle that is centered at the celestial pole and tangential to the horizon. At the Earth's North Pole, the north celestial pole is directly overhead, and all stars that are visible at all (that is, all stars in the Northern Celestial Hemisphere) are circumpolar. As one travels south, the north celestial pole moves towards the northern horizon. More and more stars that are at a distance from it begin to disappear below the horizon for some portion of their daily "orbit", and the circle containing the remaining circumpolar stars becomes increasingly small. At the Equator, this circle vanishes to a single point – the celestial pole itself – which lies on the horizon, and so all of the stars capable of being circumpolar are for half of every 24 hour period below the horizon. There, the pole star itself will only be made out from a place of sufficient height.
+As one travels south of the Equator, the opposite happens. The south celestial pole appears increasingly high in the sky, and all the stars lying within an increasingly large circle centred on that pole become circumpolar about it. This continues until one reaches the Earth's South Pole where, once again, all visible stars are circumpolar.
+The celestial north pole is located very close (less than 1° away) to the pole star (Polaris or North Star), so from the Northern Hemisphere, all circumpolar stars appear to move around Polaris. Polaris itself remains almost stationary, always at the north (i.e. azimuth of 0°), and always at the same altitude (angle from the horizon), equal to the observer's latitude. These are then classified into quadrants.
+Polaris always has an azimuth equal to zero. The pole's altitude for a given latitude Ø is fixed, and its value is given by Ø. All stars with a declination less than 90° – Ø are not circumpolar.
+
+Definition
+Whether a star is circumpolar depends upon the observer's latitude. Since the altitude of the north or south celestial pole (whichever is visible) equals the absolute value of the observer's latitude, any star whose angular distance from the visible celestial pole is less than the absolute latitude will be circumpolar. For example, if the observer's latitude is 50° N, any star will be circumpolar if it is less than 50° from the north celestial pole. If the observer's latitude is 35° S, then all stars within 35° of the south celestial pole are circumpolar. Stars on the celestial equator are not circumpolar when observed from any latitude in either hemisphere of the Earth.
+Whether a given star is circumpolar at the observer's latitude (θ) may be calculated in terms of the star's declination (δ). The star is circumpolar if θ + δ is greater than +90° (observer in Northern Hemisphere), or θ + δ is less than −90° (observer in Southern Hemisphere). Similarly, the star will never rise above the local horizon if δ − θ is less than −90° (observer in Northern Hemisphere), or δ − θ is greater than +90° (observer in Southern Hemisphere). Thus, Canopus is invisible from San Francisco and London, and marginally visible from Seville, Seoul, and Nashville.
+Some stars within the far northern constellation (such as Cassiopeia, Cepheus, Ursa Major, and Ursa Minor) roughly north of the Tropic of Cancer (23° 26′ N) will be circumpolar stars, which never rise or set.
+For British Isles observers, for example, the first magnitude stars Capella (declination +45° 59′) and Deneb (+45° 16′) do not set from anywhere in the country. Vega (+38° 47′) is technically circumpolar north of latitude 51° 13′ N (just south of London); taking atmospheric refraction into account, it will probably only be seen to set at sea level from Cornwall.
+Stars in the far southern constellations (such as Crux, Musca, and Hydrus) roughly south of the Tropic of Capricorn (23° 26′ S) are circumpolar to typical points of observation beyond that tropic.
+Stars (and constellations) that are circumpolar in one hemisphere are always invisible at the same latitude (or higher) of the opposite hemisphere, and these never rise above the horizon. For example, the southern star Acrux is invisible from most of the contiguous United States; likewise, the seven stars of the northern Big Dipper asterism are invisible from most of the Patagonia region of South America.
+
+Constellations
+A circumpolar constellation is a constellation (group of stars) that never sets below the horizon, as viewed from a location on Earth. As viewed from the North Pole, all fully visible constellations north of the celestial equator are circumpolar, and likewise for constellations south of the celestial equator as viewed from the South Pole. As viewed from the Equator, there are no circumpolar constellations. As viewed from mid-northern latitudes (40–50° N), circumpolar constellations may include Ursa Major, Ursa Minor, Draco, Cepheus, Cassiopeia, and the less-known Camelopardalis, Lynx and Lacerta.
+
+See also
+Celestial pole
+Celestial sphere
+Magellan expedition
+Pole star
+Voyages of Christopher Columbus
+
+References
+"Circumpolar Stars." Web. 7 Jan. 2015. http://www.astronomygcse.co.uk/AstroGCSE/New Site/Topic 3/circumpolar_stars.htm.
+
+External links
+
+Bartleby.com: Circumpolar Star
+North Circumpolar Star Trails
+South Circumpolar Star Trails
+Star Trails Photography Tutorial

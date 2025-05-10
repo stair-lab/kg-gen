@@ -1,0 +1,311 @@
+A consumer price index (CPI) is a statistical estimate of the level of prices of goods and services bought for consumption purposes by households. It is calculated as the weighted average price of a market basket of consumer goods and services. Changes in CPI track changes in prices over time. The items in the basket are updated periodically to reflect changes in consumer spending habits. The prices of the goods and services in the basket are collected (often monthly) from a sample of retail and service establishments. The prices are then adjusted for changes in quality or features. Changes in the CPI can be used to track inflation over time and to compare inflation rates between different countries. While the CPI is not a perfect measure of inflation or the cost of living, it is a useful tool for tracking these economic indicators.  It is one of several price indices calculated by many national statistical agencies.
+
+Overview
+A CPI is a statistical estimate constructed using the prices of a sample of representative items whose prices are collected periodically. Sub-indices and sub-sub-indices can be computed for different categories and sub-categories of goods and services, which are combined to produce the overall index with weights reflecting their shares in the total of the consumer expenditures covered by the index.  The annual percentage change in the CPI is used as a measure of inflation. A CPI can be used to index (i.e., adjust for the effect of inflation) the real value of wages, salaries, and pensions; to regulate prices; and to deflate monetary magnitudes to show changes in real values. In most countries, the CPI is one of the most closely watched national economic statistics.
+
+The index is usually computed monthly, or quarterly in some countries, as a weighted average of sub-indices for different components of consumer expenditure, such as food, housing, shoes, and clothing, each of which is, in turn, a weighted average of sub-sub-indices. At the most detailed level, the elementary aggregate level (for example, men's shirts sold in department stores in San Francisco), detailed weighting information is unavailable, so indices are computed using an unweighted arithmetic or geometric mean of the prices of the sampled products. (However, the growing use of barcode scanner data is gradually making weighting information available even at the most detailed level.) These indices compare prices each month with prices in the price-reference month. The weights used to combine them into the higher-level aggregates and then into the overall index relate to the estimated expenditures during the preceding whole year of the consumers covered by the index on the products within its scope in the area covered. Thus, the index is a fixed-weight index but rarely a true Laspeyres index since the weight-reference period of a year and the price-reference period, usually a more recent single month, do not coincide.
+Ideally, all price revalidations are accepted, and the weights would relate to the composition of expenditure during the time between the price-reference month and the current month. There is a large technical economics literature on index formulas that would approximate this and that can be shown to approximate what economic theorists call a true cost-of-living index. Such an index would show how consumer expenditure would have to move to compensate for price changes so as to allow consumers to maintain a constant standard of living. Approximations can only be computed retrospectively, whereas the index has to appear monthly and, preferably, quite soon. Nevertheless, in some countries, notably the United States and Sweden, the philosophy of the index is that it is inspired by and approximates the notion of a true cost of living (constant utility) index, whereas in most of Europe it is regarded more pragmatically.
+The coverage of the index may be limited. Consumers' expenditure abroad is usually excluded; visitors' expenditure within the country may be excluded in principle if not in practice; the rural population may or may not be included; certain groups, such as the very rich or the very poor, may be excluded. Savings and investment are always excluded, though the prices paid for financial services provided by financial intermediaries may be included along with insurance.
+The index reference period, usually called the base year, often differs both from the weight-reference period and the price-reference period. This is just a matter of rescaling the whole time series to make the value for the index reference period equal to 100. Annually revised weights are a desirable but expensive feature of an index; the older the weights, the greater the divergence between the current expenditure pattern and that of the weight reference period.
+It is calculated and reported on a per region or country basis on a monthly and annual basis. International organizations like the Organisation for Economic Co-operation and Development (OECD) report statistical figures like the consumer price index for many of its member countries. In the US the CPI is usually reported by the Bureau of Labor Statistics.
+An English economist by the name of Joseph Lowe first proposed the theory of price basket index in 1822. His fixed basket approach was relatively simple as Lowe computed the price of a list of goods in period 0 and compared the price of that same basket of goods in period 1. Since his proposed theories however were elementary, later economists built on his ideas to form our modern definition.
+
+Calculation
+For a single item
+consumer price index
+        
+        =
+        
+          
+            market basket of desired year
+            market basket of base year
+          
+        
+        ×
+        
+          100
+        
+      
+    
+    {\displaystyle {\text{consumer price index}}={\frac {\text{market basket of desired year}}{\text{market basket of base year}}}\times {\text{100}}}
+  
+
+or
+
+  
+    
+      
+        
+          
+            
+              
+                CPI
+              
+              
+                2
+              
+            
+            
+              
+                CPI
+              
+              
+                1
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                price
+              
+              
+                2
+              
+            
+            
+              
+                price
+              
+              
+                1
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {{\text{CPI}}_{2}}{{\text{CPI}}_{1}}}={\frac {{\text{price}}_{2}}{{\text{price}}_{1}}}}
+  
+
+Where 1 is usually the comparison year and CPI1 is usually an index of 100.
+Alternatively, the CPI can be performed as 
+  
+    
+      
+        
+          CPI
+        
+        =
+        
+          
+            updated cost
+            base period cost
+          
+        
+        ×
+        100
+      
+    
+    {\displaystyle {\text{CPI}}={\frac {\text{updated cost}}{\text{base period cost}}}\times 100}
+  
+. The "updated cost" (i.e. the price of an item at a given year, e.g.: the price of bread today) is divided by that of the initial year (the price of bread in 1970), then multiplied by one hundred.
+
+For multiple Items
+Many but not all price indices are weighted averages using weights that sum to 1 or 100.
+Example: The prices of 85,000 items from 22,000 stores, and 35,000 rental units are added together and averaged. They are weighted this way: housing 41.4%; food and beverages 17.4%; transport 17.0%; medical care 6.9%; apparel 6.0%; entertainment 4.4%; other 6.9%. Taxes (43%) are not included in CPI computation.
+
+  
+    
+      
+        
+          C
+          P
+          I
+        
+        =
+        
+          
+            
+              
+                ∑
+                
+                  i
+                  =
+                  1
+                
+                
+                  n
+                
+              
+              
+                
+                  C
+                  P
+                  I
+                
+                
+                  i
+                
+              
+              ×
+              
+                
+                  w
+                  e
+                  i
+                  g
+                  h
+                  t
+                
+                
+                  i
+                
+              
+            
+            
+              
+                ∑
+                
+                  i
+                  =
+                  1
+                
+                
+                  n
+                
+              
+              
+                
+                  w
+                  e
+                  i
+                  g
+                  h
+                  t
+                
+                
+                  i
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {CPI} ={\frac {\sum _{i=1}^{n}\mathrm {CPI} _{i}\times \mathrm {weight} _{i}}{\sum _{i=1}^{n}\mathrm {weight} _{i}}}}
+  
+
+where the 
+  
+    
+      
+        
+          
+            w
+            e
+            i
+            g
+            h
+            t
+          
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \mathrm {weight} _{i}}
+  
+ terms do not necessarily sum to 1 or 100.
+
+Weighting
+Weights and sub-indices
+By convention, weights are fractions or ratios summing to one, as percentages summing to 100 or as per mile numbers summing to 1000.
+On the European Union's Harmonized Index of Consumer Prices (HICP), for example, each country computes some 80 prescribed sub-indices, their weighted average constituting the national HICP. The weights for these sub-indices will consist of the sum of the weights of a number of component lower level indices. The classification is according to use, developed in a national accounting context. This is not necessarily the kind of classification that is most appropriate for a consumer price index. Grouping together of substitutes or of products whose prices tend to move in parallel might be more suitable.
+For some of these lower-level indices detailed reweighting to make them be available, allowing computations where the individual price observations can all be weighted. This may be the case, for example, where all selling is in the hands of a single national organization which makes its data available to the index compilers. For most lower level indices, however, the weight will consist of the sum of the weights of a number of elementary aggregate indices, each weight corresponding to its fraction of the total annual expenditure covered by the index. An 'elementary aggregate' is a lowest-level component of expenditure: this has a weight, but the weights of each of its sub-components are usually lacking. Thus, for example: Weighted averages of elementary aggregate indices (e.g. for men's shirts, raincoats, women's dresses, etc.) make up low-level indices (e.g. outer garments).
+Weight averages of these, in turn, provide sub-indices at a higher, more aggregated level (e.g. clothing) and weighted averages of the latter provide yet more aggregated sub-indices (e.g. Clothing and Footwear).
+Some of the elementary aggregate indices and some of the sub-indices can be defined simply in terms of the types of goods and/or services they cover. In the case of such products as newspapers in some countries and postal services, which have nationally uniform prices. But where price movements do differ or might differ between regions or between outlet types, separate regional and/or outlet-type elementary aggregates are ideally required for each detailed category of goods and services, each with its own weight. An example might be an elementary aggregate for sliced bread sold in supermarkets in the Northern region.
+Most elementary aggregate indices are necessarily 'unweighted' averages for the sample of products within the sampled outlets. However, in cases where it is possible to select the sample of outlets from which prices are collected so as to reflect the shares of sales to consumers of the different outlet types covered, self-weighted elementary aggregate indices may be computed. Similarly, if the market shares of the different types of products represented by product types are known, even only approximately, the number of observed products to be priced for each of them can be made proportional to those shares.
+
+Estimating weights
+The outlet and regional dimensions noted above mean that the estimation of weights involves a lot more than just the breakdown of expenditure by types of goods and services, and the number of separately weighted indices composing the overall index depends upon two factors:
+
+The degree of detail to which available data permit breakdown of total consumption expenditure in the weight reference-period by type of expenditure, region and outlet type.
+Whether there is reason to believe that price movements vary between these most detailed categories.
+How the weights are calculated, and in how much detail, depends upon the availability of information and upon the scope of the index. In the UK the retail price index (RPI) does not relate to the whole of consumption, for the reference population is all private households with the exception of pensioner households that derive at least three-quarters of their total income from state pensions and benefits, and "high income households" whose total household income lies within the top four per cent of all households. The result is that it is difficult to use data sources relating to total consumption by all population groups.
+For products whose price movements can differ between regions and between different types of outlet:
+
+The ideal, rarely realizable in practice, would consist of estimates of expenditure for each detailed consumption category, for each type of outlet, for each region.
+At the opposite extreme, with no regional data on expenditure totals but only on population (e.g. 24% in the Northern region) and only national estimates for the shares of different outlet types for broad categories of consumption (e.g. 70% of food sold in supermarkets) the weight for sliced bread sold in supermarkets in the Northern region has to be estimated as the share of sliced bread in total consumption × 0.24 × 0.7.
+The situation in most countries comes somewhere between these two extremes. The point is to make the best use of whatever data are available.
+Due to differences in weightings in the consumer basket, different price indices may be calculated for groups with various demographic characteristics. For example, consumer price indices calculated according to the weightings in the consumer basket of income groups may show significantly different trends.
+
+The nature of the data used for weighting
+No firm rules can be suggested on this issue for the simple reason that the available statistical sources differ between countries. However, all countries conduct periodical household-expenditure surveys and all produce breakdowns of consumption expenditure in their national accounts. The expenditure classifications used there may however be different. In particular:
+
+Household-expenditure surveys do not cover the expenditures of foreign visitors, though these may be within the scope of a consumer price index.
+National accounts include imputed rents for owner-occupied dwellings which may not be within the scope of a consumer price index.
+Even with the necessary adjustments, the national-account estimates and household-expenditure surveys usually diverge.
+The statistical sources required for regional and outlet-type breakdowns are usually weak. Only a large-sample Household Expenditure survey can provide a regional breakdown. Regional population data are sometimes used for this purpose, but need adjustment to allow for regional differences in living standards and consumption patterns. Statistics of retail sales and market research reports can provide information for estimating outlet-type breakdowns, but the classifications they use rarely correspond to COICOP categories.
+The increasingly widespread use of bar-code scanners in shops has meant that detailed cash register printed receipts are provided by shops for an increasing share of retail purchases. This development makes possible improved Household Expenditure surveys, as Statistics Iceland has demonstrated. Survey respondents keeping a diary of their purchases need to record only the total of purchases when itemized receipts were given to them and keep these receipts in a special pocket in the diary. These receipts provide not only a detailed breakdown of purchases but also the name of the outlet. Thus response burden is markedly reduced, accuracy is increased, product description is more specific and point of purchase data are obtained, facilitating the estimation of outlet-type weights.
+There are only two general principles for the estimation of weights: use all the available information and accept that rough estimates are better than no estimates.
+
+Reweighting
+Ideally, in computing an index, the weights would represent current annual expenditure patterns. In practice, they necessarily reflect past using the most recent data available or, if they are not of high quality, some average of the data for more than one previous year. Some countries have used a three-year average in recognition of the fact that household survey estimates are of poor quality. In some cases, some of the data sources used may not be available annually, in which case some of the weights for lower-level aggregates within higher-level aggregates are based on older data than the higher level weights.
+Infrequent reweighting saves costs for the national statistical office but delays the introduction into the index of new types of expenditure. For example, subscriptions for Internet service entered index compilation with a considerable time lag in some countries, and account could be taken of digital camera prices between re-weightings only by including some digital cameras in the same elementary aggregate as film cameras.
+
+Owner-occupiers and the price index
+The way in which owner-occupied dwellings should be dealt with in a consumer price index has been, and remains, a subject of heated controversy in many countries. Various approaches have been considered, each with their advantages and disadvantages.
+
+Economists' approach
+Leaving aside the quality of public services, the environment, crime, and so forth, and regarding the standard of living as a function of the level and composition of individuals' consumption, this standard depends upon the amount and range of goods and services they consume. These include the service provided by rented accommodation, which can readily be priced, and the similar services yielded by a flat or house owned by the consumer who occupies it. Its cost to a consumer is, according to the economic way of thinking, an "opportunity cost," namely what he or she sacrifices by living in it. This cost, according to many economists, should form a component of a consumer price index.
+Opportunity cost can be looked at in two ways, since there are two alternatives to continuing to live in an owner-occupied dwelling. One, supposing that it is one year's cost that is to be considered, is to sell it, earn interest on the owner's capital thus released, and buy it back a year later, making an allowance for its physical depreciation. This can be called the "alternative cost" approach. The other, the "rental equivalent" approach, is to let it to someone else for the year, in which case the cost is the rent that could be obtained for it.
+There are practical problems in implementing either of these economists' approaches. Thus, with the alternative cost approach, if house prices are rising fast, the cost can be negative and then become sharply positive once house prices start to fall, so such an index would be very volatile. On the other hand, with the rental equivalent approach, there may be difficulty estimating the movement of rental values for types of property that are not actually rented. If one or other of these measures of the consumption of the services of owner-occupied dwellings is included in consumption, then it must be included in income too, for income equals consumption plus saving. This means that if the movement of incomes is to be compared with the movement of the consumer price index, incomes must be expressed as money income plus this imaginary consumption value. That is logical, but it may not be what users of the index want.
+Although the argument has been expressed in connection with owner-occupied dwellings, the logic applies equally to all durable consumer goods and services. Furniture, carpets, and domestic appliances are not used up soon after purchase in the way that food is. Like dwellings, they yield a consumption service that can continue for years. Furthermore, since strict logic is to be adhered to, there are durable services as well that ought to be treated in the same way; the services consumers derive from appendectomies or crowned teeth continue for a long time. Since estimating values for these components of consumption has not been tackled, economic theorists are torn between their desire for intellectual consistency and their recognition that including the opportunity cost of the use of durables is impracticable.
+
+Spending
+Another approach is to concentrate on spending. Everyone agrees that repairs and maintenance expenditures for owner-occupied dwellings should be covered by a consumer price index, but the spending approach would include mortgage interest too. This turns out to be quite complicated, both conceptually and in practice.
+To explain what is involved, consider a consumer price index computed with reference to 2009 for just one sole consumer who bought her house in 2006, financing half of this sum by raising a mortgage. The problem is to compare how much interest such a consumer would now be paying with the interest that was paid in 2009. Since the aim is to compare like with like, that requires an estimate of how much interest would be paid now in the year 2010 on a similar house bought and 50% mortgage-financed three years ago, in 2007. It does not require an estimate of how much that identical person is paying now on the actual house she bought in 2006, even though that is what personally concerns her now.
+A consumer price index compares how much it would cost now to do exactly what consumers did in the reference period with what it cost then. Application of the principle thus requires that the index for our one house owner reflect the movement of the prices of houses like hers from 2006 to 2007 and the change in interest rates. If she took out a fixed-interest mortgage, it is the change in interest rates from 2006 to 2007 that counts; if she took out a variable-interest mortgage, it is the change from 2009 to 2010 that counts. Thus, her current index with 1999 as a reference period will stand at more than 100 if house prices or, in the case of a fixed-interest mortgage, interest rates rose between 2006 and 2007.
+The application of this principle in the owner-occupied dwellings component of a consumer price index is known as the "debt profile" method. It means that the current movement of the index will reflect past changes in dwelling prices and interest rates. Some people regard this as odd. Quite a few countries use the debt profile method, but in doing so, most of them behave inconsistently. Consistency would require that the index also cover the interest on consumer credit instead of the whole price paid for the products bought on credit if it covers mortgage interest payments. Products bought on credit would then be treated in the same way as owner-occupied dwellings.
+Variants of the debt profile method are employed or have been proposed. One example is to include down payments as well as interest. Another is to correct nominal mortgage rates for changes in dwelling prices or for changes in the rest of the consumer price index to obtain a "real" rate of interest. Also, other methods may be used alongside the debt profile method. Thus, several countries include a purely notional cost of depreciation as an additional index component, applying an arbitrarily estimated, or rather guessed, depreciation rate to the value of the stock of owner-occupied dwellings. Finally, one country includes both mortgage interest and purchase prices in its index.
+
+Transaction prices
+The third approach simply treats the acquisition of owner-occupied dwellings in the same way as acquisitions of other durable products are treated. This means:
+
+Taking account of the transaction prices agreed,
+ignoring whether payments are delayed or are partly financed by borrowing;
+leaving out second-hand transactions. Second-hand purchases correspond to sales by other consumers. Thus, only new dwellings would be included.
+Furthermore, expenditure on enlarging or reconstructing an owner-occupied dwelling would be covered, in addition to regular maintenance and repair. Two arguments of almost theological character are advanced in connection with this transactional approach.
+One argument is that purchases of new dwellings are treated as "investment" in the system of national accounts and should not enter a consumption price index. It is said that this is more than just a matter of terminological uniformity. For example, it may be thought to help understand and facilitate economic analysis if what is included under the heading "consumption" is the same in the consumer price index and in the national income and expenditure accounts. Since these accounts include the equivalent rental value of owner-occupied dwellings, the equivalent rental approach would have to be applied to the consumer price index too. But the national accounts do not apply it to other durables, so the argument demands consistency in one respect but accepts its rejection in another.
+The other argument is that the prices of new dwellings should exclude that part reflecting the value of the land, since this is an irreproducible and permanent asset that cannot be said to be consumed. This would presumably mean deducting site value from the price of a dwelling, with site value being defined as the price the site would fetch at auction if the dwelling were not on it. How this is to be understood in the case of multiple dwellings remains unclear.
+
+Confusion
+The merits of the different approaches are multidimensional, including feasibility, views on the way the index should and would move in particular circumstances, and theoretical properties of the index.
+Statisticians in a country lacking a good dwelling price index (which is required for all except the rental equivalent method) will go along with a proposal to use such an index only if they can obtain the necessary additional resources that will enable them to compile one. Even obtaining mortgage interest rate data can be a major task in a country with a multitude of mortgage lenders and many types of mortgages. Dislike of the effect on the behavior of the consumer price index arising from the adoption of some methods can be a powerful, if sometimes unprincipled, argument.
+Dwelling prices are volatile, so there would be an index incorporating the current value of a dwelling price sub-index, which, in some countries, would have a large weight under the third approach. Furthermore, the weight for owner-occupied dwellings could be altered considerably when reweighting is undertaken. (It could even become negative under the alternative cost approach if weights were estimated for a year during which house prices had been rising steeply.)
+Then, there is the point that a rise in interest rates designed to halt inflation could paradoxically make inflation appear higher if current interest rates showed up in the index. Economists' principles are not acceptable to all, nor is their insistence on consistency between the treatment of owner-occupied dwellings and other durables.
+
+In the United States
+In the United States several different consumer price indices are routinely computed by the Bureau of Labor Statistics (BLS). These include the CPI-U (for all urban consumers), CPI-W (for Urban Wage Earners and Clerical Workers), CPI-E (for the elderly), and C-CPI-U (chained CPI for all urban consumers). These are all built over two stages. First, the BLS collects data to estimate 8,018 separate item–area indices reflecting the prices of 211 categories of consumption items in 38 geographical areas. In the second stage, weighted averages are computed of these 8,018 item–area indices. The different indices differ only in the weights applied to the different 8,018 item–area indices. The weights for CPI-U and CPI-W are held constant for 24 months, changing in January of even-numbered years. The weights for C-CPI-U are updated each month to reflecting changes in consumption patterns in the last month. Thus, if people on average eat more chicken and less beef or more apples and fewer oranges than the previous month, that change would be reflected in next month's C-CPI-U. However, it would not be reflected in CPI-U and CPI-W until January of the next even-numbered year.
+This allows the BLS to compute consumer price indices for each of the designated 38 geographical areas and for aggregates like the Midwest.
+In January of each year, Social Security recipients receive a cost-of-living adjustment (COLA) "to ensure that the purchasing power of Social Security and Supplemental Security Income (SSI) benefits is not eroded by inflation. It is based on the percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W)". The use of CPI-W conflicts with this purpose, because the elderly consume substantially more health care goods and services than younger people. In recent years, inflation in health care has substantially exceeded inflation in the rest of the economy. Since the weight on health care in CPI-W is much less than the consumption patterns of the elderly, this COLA does not adequately compensate them for the real increases in the costs of the items they buy.
+The BLS does track a consumer price index for the elderly (CPI-E). It is not used, in part because the social security trust fund is forecasted to run out of money in roughly 40 years, and using the CPI-E instead of CPI-W would shorten that by roughly five years.
+The most recent December 2021 CPI reading hit 7%, the highest level in over 40 years. In response Jerome Powell, chair of the Federal Reserve has begun Quantitative tightening with rate hikes expected to begin in March 2022.
+
+History
+The CPI for various years are listed below with 1982 as the base year:
+A CPI of 150 means that there was 50% increase in prices, or 50% inflation, since 1982.
+
+Chained CPI
+Former White House Chief of Staff Erskine Bowles and former U.S. Senator Alan K. Simpson suggested a transition to using a "chained CPI" in 2010, when they headed the White House's deficit-reduction commission. They stated that it was a more accurate measure of inflation than the current system and switching from the current system could save the government more than $290 billion over the decade following their report. "The chained CPI is usually 0.25 to 0.30 percentage points lower each year, on average, than the standard CPI measurements".
+However, the National Active and Retired Federal Employees Associations said that the chained CPI does not account for seniors citizens' health care costs. Robert Reich, former United States Secretary of Labor under President Clinton, noted that typical seniors spend between 20 and 40 percent of their income on health care, far more than most Americans. "Besides, Social Security isn't in serious trouble. The Social Security trust fund is flush for at least two decades. If we want to ensure it's there beyond that, there's an easy fix – just lift the ceiling on income subject to Social Security taxes, which is now $113,700."
+Replacing the current cost-of-living adjustment calculation with the chained CPI was considered, but not adopted, as part of a deficit-reduction proposal to avert the sequestration cuts, or fiscal cliff, in January 2013, but President Obama included it in his April 2013 budget proposal.
+
+Personal consumption expenditures price index
+Because of some shortcomings of the CPI, notably that it uses static expenditure weighting and it does not account for the substitution effect, the PCEPI is an alternative price index used by the Federal Reserve, among others, to measure inflation. From January 1959 through July 2018, inflation measured by the PCEPI has averaged 3.3%, while it has averaged 3.8% using CPI.
+
+See also
+References
+Further reading
+Diewert, W. E. (1993). "The early history of price index research". In W. E. Diewert; A. O. Nakamura (eds.). Essays in Index Number Theory. Vol. I. Elsevier Science Publishers, B.V. doi:10.3386/w2713.
+
+External links
+Consumer Price Index Data
+Issues of the Consumer Price Index report from the BLS for 1953–present
+ILO CPI manual – This large manual produced co-operatively by a number of international organizations is the standard work on the methods of compiling consumer price indices and on the underlying economic and statistical theory.
+BLS rebuttal to SGS CPI calculation criticisms

@@ -1,0 +1,31 @@
+AM-2201 (1-(5-fluoropentyl)-3-(1-naphthoyl)indole) is a recreational designer drug that acts as a potent but nonselective full agonist for the cannabinoid receptor. It is part of the AM series of cannabinoids discovered by Alexandros Makriyannis at Northeastern University.
+
+Hazards
+Convulsions have been reported including at doses as low as 10 mg.
+
+Pharmacology
+AM-2201 is a full agonist for cannabinoid receptors. Affinities are: with a Ki of 1.0 nM at CB1 and 2.6 nM at CB2. The 4-methyl functional analog MAM-2201 probably has similar affinities. AM-2201 has an EC50 of 38 nM for human CB1 receptors, and 58 nM for human CB2 receptors. AM-2201 produces bradycardia and hypothermia in rats at doses of 0.3–3 mg/kg, comparable to the potency of JWH-018 in rats, suggesting potent cannabinoid-like activity.
+
+Pharmacokinetics
+AM-2201 metabolism differs only slightly from that of JWH-018. AM-2201 N-dealkylation produces fluoropentane instead of pentane (or plain alkanes in general).
+
+Detection
+A forensic standard of AM-2201 is available, and the compound has been posted on the Forendex website of potential drugs of abuse.
+
+Legal status
+In the United States, AM-2201 is a Schedule I controlled substance.
+
+See also
+AM-694
+AM-1235
+AM-2232
+AM-2233
+JWH-018
+SDB-005
+THJ-018
+THJ-2201
+MEPIRAPIM
+NM-2201
+
+
+== References ==

@@ -1,0 +1,142 @@
+In financial accounting, a balance sheet (also known as statement of financial position or statement of financial condition) is a summary of the financial balances of an individual or organization, whether it be a sole proprietorship, a business partnership, a corporation, private limited company or other organization such as government or not-for-profit entity. Assets, liabilities and ownership equity are listed as of a specific date, such as the end of its financial year. A balance sheet is often described as a "snapshot of a company's financial condition".  It is the summary of each and every financial statement of an organization.
+Of the four basic financial statements, the balance sheet is the only statement which applies to a single point in time of a business's calendar year.
+A standard company balance sheet has two sides: assets on the left, and financing on the right–which itself has two parts; liabilities and ownership equity.  The main categories of assets are usually listed first, and typically in order of liquidity. Assets are followed by the liabilities. The difference between the assets and the liabilities is known as equity or the net assets or the net worth or capital of the company and according to the accounting equation, net worth must equal assets minus liabilities.
+Another way to look at the balance sheet equation is that total assets equals liabilities plus owner's equity. Looking at the equation in this way shows how assets were financed: either by borrowing money (liability) or by using the owner's money (owner's or shareholders' equity). Balance sheets are usually presented with assets in one section and liabilities and net worth in the other section with the two sections "balancing".
+A business operating entirely in cash can measure its profits by withdrawing the entire bank balance at the end of the period, plus any cash in hand. However, many businesses are not paid immediately; they build up inventories of goods and acquire buildings and equipment. In other words: businesses have assets and so they cannot, even if they want to, immediately turn these into cash at the end of each period. Often, these businesses owe money to suppliers and to tax authorities, and the proprietors do not withdraw all their original capital and profits at the end of each period. In other words, businesses also have liabilities.
+
+Types
+A balance sheet summarizes an organization's or individual's assets, equity and liabilities at a specific point in time. Two forms of balance sheet exist. They are the report form and  account form. Individuals and small businesses tend to have simple balance sheets. Larger businesses tend to have more complex balance sheets, and these are presented in the organization's annual report. Large businesses also may prepare balance sheets for segments of their businesses. A balance sheet is often presented alongside one for a different point in time (typically the previous year) for comparison.
+
+Personal
+A personal balance sheet lists current assets such as cash in checking accounts and savings accounts, long-term assets such as common stock and real estate, current liabilities such as loan debt and mortgage debt due, or overdue, long-term liabilities such as mortgage and other loan debt. Securities and real estate values are listed at market value rather than at historical cost or cost basis. Personal net worth is the difference between an individual's total assets and total liabilities.
+
+US small business
+A small business balance sheet lists current assets such as cash, accounts receivable, and inventory, fixed assets such as land, buildings, and equipment, intangible assets such as patents, and liabilities such as accounts payable, accrued expenses, and long-term debt. Contingent liabilities such as warranties are noted in the footnotes to the balance sheet. The small business's equity is the difference between total assets and total liabilities.
+
+Charities
+In England and Wales, smaller charities which are not also companies are permitted to file a statement of assets and liabilities instead of a balance sheet. This statement lists the charity's main assets and liabilities as at the end of its financial year.
+
+Public business entities structure
+Guidelines for balance sheets of public business entities are given by the International Accounting Standards Board and numerous country-specific organizations/companies. The standard used by companies in the US adheres to U.S. Generally Accepted Accounting Principles (GAAP). The Federal Accounting Standards Advisory Board (FASAB) is a United States federal advisory committee whose mission is to develop generally accepted accounting principles (GAAP) for federal financial reporting entities.
+Balance sheet account names and usage depend on the organization's country and the type of organization. Government organizations do not generally follow standards established for individuals or businesses.
+If applicable to the business, summary values for the following items should be included in the balance sheet:
+Assets are all the things the business owns. This will include property, tools, vehicles, furniture, machinery, and so on.
+
+Assets
+Current assets
+
+Accounts receivable
+Cash and cash equivalents
+Inventories
+Cash at bank, Petty Cash, Cash On Hand
+Prepaid expenses for future services that will be used within a year
+Revenue Earned In Arrears (Accrued Revenue) for services done but not yet received for the year
+Loan To (Less than one financial period)
+Non-current assets (Fixed assets)
+
+Property, plant and equipment
+Investment property, such as real estate held for investment purposes
+Intangible assets, such as patents, copyrights and goodwill
+Financial assets (excluding investments accounted for using the equity method, accounts receivables, and cash and cash equivalents), such as notes receivables
+Investments accounted for using the equity method
+Biological assets, which are living plants or animals. Bearer biological assets are plants or animals which bear agricultural produce for harvest, such as apple trees grown to produce apples and sheep raised to produce wool.
+Loan To (More than one financial period)
+
+Liabilities
+Accounts payable
+Provisions for warranties or court decisions (contingent liabilities that are both probable and measurable)
+Financial liabilities (excluding provisions and accounts payables), such as promissory notes and corporate bonds
+Liabilities and assets for current tax
+Deferred tax liabilities and deferred tax assets
+Unearned revenue for services paid for by customers but not yet provided
+Interests on loan stock
+Creditors' equity
+
+Net current assets
+Net current assets means current assets minus current liabilities.
+
+Equity / capital
+The net assets shown by the balance sheet equals the third part of the balance sheet, which is known as the shareholders' equity. It comprises:
+
+Issued capital and reserves attributable to equity holders of the parent company (controlling interest)
+Non-controlling interest in equity
+Formally, shareholders' equity is part of the company's liabilities: they are funds "owing" to shareholders (after payment of all other liabilities); usually, however, "liabilities" are used in the more restrictive sense of liabilities excluding shareholders' equity. The balance of assets and liabilities (including shareholders' equity) is not a coincidence.  Records of the values of each account in the balance sheet are maintained using a system of accounting known as double-entry bookkeeping. In this sense, shareholders' equity by construction must equal assets minus liabilities, and thus the shareholders' equity is considered to be a residual.
+Regarding the items in the equity section, the following disclosures are required:
+
+Numbers of shares authorized, issued and fully-paid, and issued but not fully paid
+Par value of shares
+Reconciliation of shares outstanding at the beginning and the end of the period
+Description of rights, preferences, and restrictions of shares
+Treasury shares, including shares held by subsidiaries and associates
+Shares reserved for issuance under options and contracts
+A description of the nature and purpose of each reserve within owners' equity
+
+Substantiation
+Balance sheet substantiation is the accounting process conducted by businesses on a regular basis to confirm that the balances held in the primary accounting system of record (e.g. SAP, Oracle, other ERP system's General Ledger) are reconciled (in balance with) with the balance and transaction records held in the same or supporting sub-systems.
+Balance sheet substantiation includes multiple processes including reconciliation (at a transactional or at a balance level) of the account, a process of review of the reconciliation and any pertinent supporting documentation and a formal certification (sign-off) of the account in a predetermined form driven by corporate policy.
+Balance sheet substantiation is an important process that is typically carried out on a monthly, quarterly and year-end basis. The results help to drive the regulatory balance sheet reporting obligations of the organization.
+Historically, balance sheet substantiation has been a wholly manual process, driven by spreadsheets, email and manual monitoring and reporting. In recent years software solutions have been developed to bring a level of process automation, standardization and enhanced control to the balance sheet substantiation or account certification process. These solutions are suitable for organizations with a high volume of accounts and/or personnel involved in the Balance Sheet Substantiation process and can be used to drive efficiencies, improve transparency and help to reduce risk.
+Balance sheet substantiation is a key control process in the SOX 404 top-down risk assessment.
+
+Sample
+The following balance sheet is a very brief example prepared in accordance with IFRS. It does not show all possible kinds of assets, liabilities and equity, but it shows the most usual ones. Because it shows goodwill, it could be a consolidated balance sheet. Monetary values are not shown, summary (subtotal) rows are missing as well.
+Under IFRS items are always shown based on liquidity from the least liquid assets at the top, usually land and buildings to the most liquid, i.e. cash. Then liabilities and equity continue from the most immediate liability to be paid (usual account payable) to the least i.e. long-term debt such as mortgages and owner's equity at the very bottom.
+
+Consolidated Statement of Finance Position of XYZ, Ltd.
+ As of 31 December 2025
+
+ASSETS
+ Non-Current Assets (Fixed Assets)
+  Property, Plant and Equipment (PPE)
+     Less : Accumulated Depreciation
+  Goodwill
+  Intangible Assets (Patent, Copyright, Trademark, etc.)
+     Less : Accumulated Amortization
+  Investments in Financial assets due after one year
+  Investments in Associates and Joint Ventures
+  Other Non-Current Assets, e.g. Deferred Tax Assets, Lease Receivable and Receivables due after one year
+
+ Current Assets
+  Inventories
+  Prepaid Expenses
+  Investments in Financial assets due within one year
+  Non-Current and Current Assets Held for sale
+  Accounts Receivable (Debtors) due within one year
+     Less : Allowances for Doubtful debts
+  Cash and Cash Equivalents
+
+TOTAL ASSETS (this will match/balance the total for Liabilities and Equity below)
+
+LIABILITIES and EQUITY
+ Current Liabilities (Creditors: amounts falling due within one year)
+  Accounts Payable
+  Current Income Tax Payable
+  Current portion of Loans Payable
+  Short-term Provisions
+  Other Current Liabilities, e.g. Deferred income, Security deposits
+
+ Non-Current Liabilities (Creditors: amounts falling due after more than one year)
+  Loans Payable
+  Issued Debt Securities, e.g. Notes/Bonds Payable
+  Deferred Tax Liabilities
+  Provisions, e.g. Pension Obligations
+  Other Non-Current Liabilities, e.g. Lease Obligations
+
+ EQUITY
+  Paid-in Capital
+    Share Capital (Ordinary Shares, Preference Shares)
+    Share Premium
+      Less: Treasury Shares
+  Retained Earnings
+  Revaluation Reserve
+  Other Accumulated Reserves
+  Accumulated Other Comprehensive Income
+ 
+  Non-Controlling Interest
+
+TOTAL LIABILITIES and EQUITY (this will match/balance the total for Assets above)
+
+See also
+
+
+== References ==

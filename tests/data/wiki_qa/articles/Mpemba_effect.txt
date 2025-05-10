@@ -1,0 +1,90 @@
+The Mpemba effect is the observation that a liquid (typically water) that is initially hot can freeze faster than the same liquid which begins cold, under otherwise similar conditions. There is disagreement about its theoretical basis and the parameters required to produce the effect.
+The Mpemba effect is named after Tanzanian Erasto Bartholomeo Mpemba, who described it in 1963 as a secondary school student. The initial discovery and observations of the effect originate in ancient times; Aristotle said that it was common knowledge.
+
+Definition
+The phenomenon, when taken to mean "hot water freezes faster than cold", is difficult to reproduce or confirm because it is ill-defined. Monwhea Jeng proposed a more precise wording: "There exists a set of initial parameters, and a pair of temperatures, such that given two bodies of water identical in these parameters, and differing only in initial uniform temperatures, the hot one will freeze sooner."
+Even with Jeng's definition, it is not clear whether "freezing" refers to the point at which water forms a visible surface layer of ice, the point at which the entire volume of water becomes a solid block of ice, or when the water reaches 0 °C (32 °F; 273 K). Jeng's definition suggests simple ways in which the effect might be observed, such as if a warmer temperature melts the frost on a cooling surface, thereby increasing thermal conductivity between the cooling surface and the water container. Alternatively, the Mpemba effect may not be evident in situations and under circumstances that at first seem to qualify.
+
+Observations
+Historical context
+Various effects of heat on the freezing of water were described by ancient scientists, including Aristotle: "The fact that the water has previously been warmed contributes to its freezing quickly: for so it cools sooner. Hence many people, when they want to cool water quickly, begin by putting it in the sun." Aristotle's explanation involved antiperistasis: "...the supposed increase in the intensity of a quality as a result of being surrounded by its contrary quality."
+Francis Bacon noted that "slightly tepid water freezes more easily than that which is utterly cold." René Descartes wrote in his Discourse on the Method, relating the phenomenon to his vortex theory: "One can see by experience that water that has been kept on a fire for a long time freezes faster than other, the reason being that those of its particles that are least able to stop bending evaporate while the water is being heated."
+Scottish scientist Joseph Black in 1775 investigated a special case of the phenomenon by comparing previously boiled with unboiled water. He found that the previously boiled water froze more quickly, even when evaporation was controlled for. He discussed the influence of stirring on the results of the experiment, noting that stirring the unboiled water led to it freezing at the same time as the previously boiled water, and also noted that stirring the very-cold unboiled water led to immediate freezing. Joseph Black then discussed Daniel Gabriel Fahrenheit's description of supercooling of water, arguing that the previously boiled water could not be as readily supercooled.
+
+Mpemba's observation
+The effect is named after Tanzanian student Erasto Mpemba. He described it in 1963 in Form 3 of Magamba Secondary School, Tanganyika; when freezing a hot ice cream mixture in a cookery class, he noticed that it froze before a cold mixture. He later became a student at Mkwawa Secondary (formerly High) School in Iringa. The headmaster invited Dr. Denis Osborne from the University College in Dar es Salaam to give a lecture on physics. After the lecture, Mpemba asked him, "If you take two similar containers with equal volumes of water, one at 35 °C (95 °F) and the other at 100 °C (212 °F), and put them into a freezer, the one that started at 100 °C (212 °F) freezes first. Why?" Mpemba was at first ridiculed by both his classmates and his teacher. After initial consternation, however, Osborne experimented on the issue back at his workplace and confirmed Mpemba's finding. They published the results together in 1969, while Mpemba was studying at the College of African Wildlife Management.
+Mpemba and Osborne described placing 70 ml (2.5 imp fl oz; 2.4 US fl oz) samples of water in 100 ml (3.5 imp fl oz; 3.4 US fl oz) beakers in the icebox of a domestic refrigerator on a sheet of polystyrene foam. They showed the time for freezing to start was longest with an initial temperature of 25 °C (77 °F) and that it was much less at around 90 °C (194 °F). They ruled out loss of liquid volume by evaporation and the effect of dissolved air as significant factors. In their setup, most heat loss was found to be from the liquid surface.
+
+Modern experimental work
+David Auerbach has described an effect that he observed in samples in glass beakers placed into a liquid cooling bath. In all cases the water supercooled, reaching a temperature of typically −6 to −18 °C (21 to 0 °F; 267 to 255 K) before spontaneously freezing. Considerable random variation was observed in the time required for spontaneous freezing to start and in some cases this resulted in the water which started off hotter (partially) freezing first.
+In 2016, Burridge and Linden defined the criterion as the time to reach 0 °C (32 °F; 273 K), carried out experiments, and reviewed published work to date. They noted that the large difference originally claimed had not been replicated, and that studies showing a small effect could be influenced by variations in the positioning of thermometers: "We conclude, somewhat sadly, that there is no evidence to support meaningful observations of the Mpemba effect."
+In controlled experiments, the effect can entirely be explained by undercooling and the time of freezing was determined by what container was used. Experimental results confirming the Mpemba effect have been criticized for being flawed, not accounting for dissolved solids and gasses, and other confounding factors.
+Philip Ball, a reviewer for Physics World wrote: "Even if the Mpemba effect is real — if hot water can sometimes freeze more quickly than cold — it is not clear whether the explanation would be trivial or illuminating." Ball wrote that investigations of the phenomenon need to control a large number of initial parameters (including type and initial temperature of the water, dissolved gas and other impurities, and size, shape and material of the container, and temperature of the refrigerator) and need to settle on a particular method of establishing the time of freezing, all of which might affect the presence or absence of the Mpemba effect. The required vast multidimensional array of experiments might explain why the effect is not yet understood.
+New Scientist recommends starting the experiment with containers at 35 and 5 °C (95 and 41 °F; 308 and 278 K), respectively, to maximize the effect.
+
+Suggested explanations
+While the actual occurrence of the Mpemba effect is disputed, several theoretical explanations could explain its occurrence.
+In 2017, two research groups independently and simultaneously found a theoretical Mpemba effect and also predicted a new "inverse" Mpemba effect in which heating a cooled, far-from-equilibrium system takes less time than another system that is initially closer to equilibrium. Zhiyue Lu and Oren Raz yielded a general criterion based on Markovian statistical mechanics, predicting the appearance of the inverse Mpemba effect in the Ising model and diffusion dynamics. Antonio Lasanta and co-authors also predicted the direct and inverse Mpemba effects for a granular gas in a far-from-equilibrium initial state. Lasanta's paper also suggested that a very generic mechanism leading to both Mpemba effects is due to a particle velocity distribution function that significantly deviates from the Maxwell–Boltzmann distribution. 
+James Brownridge, a physicist at Binghamton University, has said that supercooling is involved. Several molecular dynamics simulations have also supported that changes in hydrogen bonding during supercooling take a major role in the process. In 2017, Yunwen Tao and co-authors suggested that the vast diversity and peculiar occurrence of different hydrogen bonds could contribute to the effect. They argued that the number of strong hydrogen bonds increases as temperature is elevated, and that the existence of the small strongly bonded clusters facilitates in turn the nucleation of hexagonal ice when warm water is rapidly cooled down. The authors used vibrational spectroscopy and modelling with density functional theory-optimized water clusters.
+The following explanations have also been proposed:
+
+Microbubble-induced heat transfer: The process of boiling induced microbubbles in water that remain stably suspended as the water cools, then act by convection to transfer heat more quickly as the water cools.
+Evaporation: The evaporation of the warmer water reduces the mass of the water to be frozen. Evaporation is endothermic, meaning that the water mass is cooled by vapor carrying away the heat, but this alone probably does not account for the entirety of the effect.
+Convection, accelerating heat transfers: Reduction of water density below 4 °C (39 °F) tends to suppress the convection currents that cool the lower part of the liquid mass; the lower density of hot water would reduce this effect, perhaps sustaining the more rapid initial cooling. Higher convection in the warmer water may also spread ice crystals around faster.
+Frost: Frost has insulating effects. The lower temperature water will tend to freeze from the top, reducing further heat loss by radiation and air convection, while the warmer water will tend to freeze from the bottom and sides because of water convection. This is disputed as there are experiments that account for this factor.
+Solutes: Calcium carbonate, magnesium carbonate, and other mineral salts dissolved in water can precipitate out when water is boiled, leading to an increase in the freezing point compared to non-boiled water that contains all the dissolved minerals.
+Thermal conductivity:
+The container of hotter liquid may melt through a layer of frost that is acting as an insulator under the container (frost is an insulator, as mentioned above), allowing the container to come into direct contact with a much colder lower layer that the frost formed on (ice, refrigeration coils, etc.) The container now rests on a much colder surface (or one better at removing heat, such as refrigeration coils) than the originally colder water, and so cools far faster from this point on.
+ Conduction through the bottom is dominant, when the bottom of a hot beaker has been wetted by melted ice, and then sticky frozen to it. In context of Mpemba effect it is a mistake to think that bottom ice insulates, compared to poor air cooling properties.
+Dissolved gases: Cold water can contain more dissolved gases than hot water, which may somehow change the properties of the water with respect to convection currents, a proposition that has some experimental support but no theoretical explanation.
+Hydrogen bonding: In warm water, hydrogen bonding is weaker.
+Crystallization: Another explanation suggests that the relatively higher population of water hexamer states in warm water might be responsible for the faster crystallization.
+Distribution function:  Strong deviations from the Maxwell–Boltzmann distribution result in potential Mpemba effect showing up in gases.
+
+Similar effects
+Other phenomena in which large effects may be achieved faster than small effects are:
+
+Latent heat: Turning 0 °C (32 °F) ice to 0 °C water takes the same amount of energy as heating water from 0 °C to 80 °C (176 °F).
+Leidenfrost effect: Lower temperature boilers can sometimes vaporize water faster than higher temperature boilers.
+
+Strong Mpemba effect
+The possibility of a "strong Mpemba effect" where exponentially faster cooling can occur in a system at particular initial temperatures was predicted in 2019 by Klich, Raz, Hirschberg and Vucelja. In 2020 the strong Mpemba effect was demonstrated experimentally by Avinash Kumar and John Boechhoefer in a colloidal system.
+
+Quantum Mpemba effect
+In 2024, Goold and coworkers described their quantum-mechanical analysis of an abstract problem wherein "an initially hot system is quenched into a cold bath and reaches equilibrium faster than an initially cooler system."In addition to their theoretical work, which used non-equilibrium quantum dynamics, their paper includes computational studies of spin systems which exhibit the effect. They concluded that certain initial conditions of a quantum-dynamical system can lead to a simultaneous increase in the thermalization rate and the free energy.
+
+See also
+Density of water
+Heat capacity
+Water cluster
+Newton's law of cooling
+
+References
+Notes
+
+Bibliography
+Auerbach, David (1995). "Supercooling and the Mpemba effect: when hot water freezes quicker than cold" (PDF). American Journal of Physics. 63 (10): 882–885. Bibcode:1995AmJPh..63..882A. doi:10.1119/1.18059.
+Auerbach attributes the Mpemba effect to differences in the behaviour of supercooled formerly hot water and formerly cold water.
+Chown, Marcus (June 2006). "Why water freezes faster after heating". New Scientist.
+Conover, Emily (2017). "Debate heats up over claims that hot water sometimes freezes faster than cold". Science News. 191 (2): 14. Retrieved 2 April 2018.
+Dorsey, N. Ernest (1948). "The freezing of supercooled water". Trans. Am. Philos. Soc. 38 (3): 247–326. doi:10.2307/1005602. hdl:2027/mdp.39076006405018. JSTOR 1005602.
+An extensive study of freezing experiments.
+Jeng, Monwhea (2006). "The Mpemba effect: When can hot water freeze faster than cold?". American Journal of Physics. 74 (6): 514–522. arXiv:physics/0512262. Bibcode:2006AmJPh..74..514J. doi:10.1119/1.2186331.
+Knight, Charles A. (May 1996). "The MPEMBA effect: The freezing times of hot and cold water". American Journal of Physics. 64 (5): 524. Bibcode:1996AmJPh..64..524K. doi:10.1119/1.18275.
+
+External links
+
+"Heat questions". HyperPhysics. Georgia State University.
+"Mpemba effect: Why hot water can freeze faster than cold". A possible explanation of the Mpemba Effect
+Tyrovolas, Ilias J. (2019). "New Explanation for the Mpemba Effect". The 5th International Electronic Conference on Entropy and Its Applications. p. 2. doi:10.3390/ecea-5-06658.
+"The Mpemba effect: Hot Water may Freeze Faster than Cold Water". An analysis of the Mpemba effect London South Bank University
+"The Mpemba Effect". Archived from the original on 9 October 2011. – History and analysis of the Mpemba effect
+"The story of the Mpemba effect told by the protagonists". YouTube. 10 January 2013. Archived from the original on 12 December 2021. An historical interview with Erasto B. Mpemba, Dr Denis G. Osborne and Ray deSouza
+"Which freezes quicker, hot or cold water?". Retrieved 25 August 2021. High school experiment description, with link to experimental results
+Adams, Cecil; M. Q. C., Mary (1996). "Which freezes faster, hot water or cold water?". The Straight Dope. Chicago Reader, Inc.
+Brownridge, James (2010). "A search for the Mpemba effect: When hot water freezes faster than cold water". arXiv:1003.3185 [physics.pop-ph].
+Jeng, Monwhea (November 1998). "Can hot water freeze faster than cold water?". in the University of California Usenet Physics FAQ
+Mpemba Competition - Royal Society of Chemistry
+Mpemba, E B; Osborne, D G (November 1979). "Cool?". Physics Education. 14 (7): 410–413. Bibcode:1979PhyEd..14..410M. doi:10.1088/0031-9120/14/7/312.
+The Attribute of Water. Springer Series in Chemical Physics. Vol. 113. 2016. doi:10.1007/978-981-10-0180-2. ISBN 978-981-10-0178-9.
+Mossop, S C (April 1955). "The Freezing of Supercooled Water". Proceedings of the Physical Society. Section B. 68 (4): 193–208. Bibcode:1955PPSB...68..193M. doi:10.1088/0370-1301/68/4/301.

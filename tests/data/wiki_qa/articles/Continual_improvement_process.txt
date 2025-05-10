@@ -1,0 +1,45 @@
+A continual improvement process, also often called a continuous improvement process (abbreviated as CIP or CI), is an ongoing effort to improve products, services, or processes. These efforts can seek "incremental" improvement over time or "breakthrough" improvement all at once. Delivery (customer valued) processes are constantly evaluated and improved in the light of their efficiency, effectiveness and flexibility.
+Some see continual improvement processes as a meta-process for most management systems (such as business process management, quality management, project management, and program management). W. Edwards Deming, a pioneer of the field, saw it as part of the 'system' whereby feedback from the process and customer were evaluated against organisational goals. The fact that it can be called a management process does not mean that it needs to be executed by 'management'; but rather merely that it makes decisions about the implementation of the delivery process and the design of the delivery process itself.
+A broader definition is that of the Institute of Quality Assurance who defined "continuous improvement as a gradual never-ending change which is: '... focused on increasing the effectiveness and/or efficiency of an organisation to fulfil its policy and objectives. It is not limited to quality initiatives. Improvement in business strategy, business results, customer, employee and supplier relationships can be subject to continual improvement. Put simply, it means 'getting better all the time'.' ": 498 
+The key features of continual improvement process in general are:
+
+Feedback: The core principle of continual process improvement is the (self) reflection of processes
+Efficiency: The purpose of continual improvement process is the identification, reduction, and elimination of suboptimal processes
+Evolution: The emphasis of continual improvement process is on incremental, continual steps rather than giant leaps
+
+Kaizen
+Some successful implementations use the approach known as kaizen (the translation of kai ('change') zen ('good') is 'improvement'). This method became famous from Imai's 1986 book Kaizen: The Key to Japan's Competitive Success.
+Key features of kaizen include:
+
+Improvements are based on many small changes rather than the radical changes that might arise from Research and Development
+As the ideas come from the workers themselves, they are less likely to be radically different, and therefore easier to implement
+Small improvements are less likely to require major capital investment than major process changes
+The ideas come from the talents of the existing workforce, as opposed to using research, consultants or equipment – any of which could be very expensive
+All employees should continually be seeking ways to improve their own performance
+It helps encourage workers to take ownership for their work, and can help reinforce team working, thereby improving worker motivation.
+The elements above are the more tactical elements of continual improvement processes. The more strategic elements include deciding how to increase the value of the delivery process output to the customer (effectiveness) and how much flexibility is valuable in the process to meet changing needs.
+
+PDCA
+The PDCA (plan, do, check, act) or (plan, do, check, adjust) cycle supports continuous improvement and kaizen. It provides a process for improvement which can be used since the early design (planning) stage of any process, system, product or service.
+
+PDSA
+The PDSA (plan, do, study, act) cycle is often credited to W. Edwards Deming and often called the Deming cycle though W. Edwards Deming referred to it as the Shewhart cycle. Walter A. Shewhart back in the 1920s was working at Western Electric Company with W. Edwards Deming and Joseph M. Juran. Shewhart took the standard academic scientific method of inductive and deductive thinking, used in hypothesis testing, and converted it to a simple notion. When one does something, they plan it, do it, study it, and act on its results – the PDSA cycle. This was a far simpler notion to use and inform the shop floor of Western Electric while building telephones, where many workers would not and could not understand the scientific method. In fact, the PDSA notion could easily be applied to everyday activities such as driving a car to work. Thus, the PDSA cycle was very easy to relate to by Western's workforce and gained the buy-in needed.
+
+In environmental management
+The continual improvement process concept is also used in environmental management systems (EMS), such as ISO 14000 and EMAS. The term "continual improvement", not "continuous improvement", is used in ISO 14000, and is understood to refer to an ongoing series of small or large-scale improvements which are each done discretely, i.e. in a step-wise fashion. Several differences exist between the CIP concept as it is applied in quality management and environmental management. Continual improvement in environmental management systems aims to improve the natural consequences of products and activities, not the products and activities as such. Secondly, there is no client-orientation in EMS-related continual improvement processes. Also, continual improvement processes in environmental management systems is not limited to small, incremental improvements as in kaizen, it also includes innovations of any scale.
+
+ISO change from continuous to continual
+In the late 1990s, the developers of the ISO 9001:2000 standard—which addressed quality management systems and principles—debated whether or not to update the use of the word continuous to continual. ISO Technical Committee 176 and regulatory representatives ultimately decided that "continuous was unenforceable because it meant an organization had to improve minute by minute, whereas, continual improvement meant step-wise improvement or improvement in segments". The committee reportedly did not base the change on dictionary definitions or the standard's vocabulary. This change ran contrary to the common usage of continuous in the standard and other prior business management documentation.
+The concept of continual improvement is the core of the British Standards Institute's 2019 publication: BS 8624 Guide to Continual improvement: Methods for quantification. BS 8624 describes requirements for continual improvement and provides methods and examples of recognized techniques.
+
+See also
+Benchmarking
+ISO/IEC 15504 for software development process/management
+Lean manufacturing
+Minimum viable product
+Perpetual beta
+Training Within Industry (TWI), a service in US from 1940 to 1945 within the War Manpower Commission which provided consulting services to war-related industries
+Operational excellence
+
+
+== References ==

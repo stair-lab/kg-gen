@@ -1,0 +1,31 @@
+BMC Software, Inc. is an American multinational information technology (IT) services and consulting, and enterprise software company based in Houston, Texas.
+
+History
+The company was founded in Houston, Texas, by former Shell employees Scott Boulette, John Moores, and Dan Cloer, whose surname initials were adopted as the company name BMC Software. Moores served as the company's first CEO. The firm primarily wrote software for IBM mainframe computers, the industry standard at the time, but since the mid-1990s has been developing software to monitor, manage and automate both distributed and mainframe systems.
+In 1987, Moores was succeeded by Richard A. Hosley II as CEO and President. In July 1988, BMC was re-incorporated in Delaware and went public with an initial public offering for BMC stock. The first day of trading was August 12, 1988. BMC stock was originally traded on the Nasdaq under the symbol BMCS and later on the New York Stock Exchange with symbol BMC.
+
+Acquisition and privatization by private equity firms
+In May 2013, BMC announced that it was being acquired by a group of major private equity investment groups for $6.9 billion. The process was completed in September 2013 and the company is no longer publicly traded.
+It was announced on October 2, 2018 that BMC was acquired by KKR, a leading global investment firm. The company was acquired from a private investor group led by Bain Capital Private Equity and Golden Gate Capital together with GIC, Insight Venture Partners, and Elliott Management.
+
+Products and services
+BMC Software specializes in software designed to enable an autonomous digital enterprise, developing products used for multiple functions including automation, service management, DevOps, workflow orchestration, AIOps, and security.
+The company supports enterprises using mainframes with its Automated Mainframe Intelligence (AMI) product line, which enables self-managing mainframe systems. Self-managing mainframes use machine learning to improve efficiency by anticipating needs, sending alarms, and taking actions without the need for manual actions.
+BMC's Control-M software is an application workflow orchestration platform that allows businesses to run hundreds of thousands of batch jobs daily and use the data to optimize complex business operations, such as supply chain management. Users can access all enterprise batch jobs through a single graphical interface. Control-M integrates with distributed storage systems such as HDFS, YARN, MapReduce and Apache Spark.  In 2019, the firm made the program available in a Docker container, allowing easy deployment to the public cloud or on-premises. The software has been named the overall leader in workload automation by  Enterprise Management Associates in each report since 2010. In 2020, the firm announced the launch of SaaS-based BMC Helix Control-M application workflow orchestration.
+The TrueSight suite utilizes AI and machine learning to provide insights and network automation capabilities,  and includes TrueSight Operations Management, TrueSight Automation for Networks, TrueSight Automation for Servers, and TrueSight Orchestration.
+
+Directors and staff
+The company was founded by John J. Moores in 1980. Richard A. Hosley II was president and chief executive officer of BMC Software, Inc. from October 1987 until April 1990. Shortly after becoming president, Hosley took the company public in 1988. Hosley was succeeded by Max Watson Jr. in April 1990. Max Watson Jr. was chairman and chief executive officer of BMC Software from April 1990 to January 2001.
+In 2001, BMC appointed the company director, Garland Cupp, as chairman, succeeding Max Watson, who quit the post in January 2001. Watson was succeeded as chairman and CEO by BMC's former senior vice president of product management and development, Robert Beauchamp.
+In December 2016, Peter Leav succeeded Bob Beauchamp as president and chief executive officer. In October 2019, Ayman Sayed was named as President and CEO of BMC Software.
+
+Litigation
+In 2022, BMC won a lawsuit against IBM for "fraudulently inducing and then violating a software licensing agreement", and was awarded over $1.6 billion in damages. This was then overturned by the 5th U.S. Circuit Court of Appeals in New Orleans, stating that "a lower court judge's determination concerning liability was in error." The three-judge panel, U.S. Circuit Judge Edith Jones said AT&T, one of BMC's biggest clients, had switched to IBM software "independently" and that BMC had "lost out to IBM fair and square".
+
+See also
+List of companies in Houston
+Remedy Corp
+
+References
+External links
+Official website

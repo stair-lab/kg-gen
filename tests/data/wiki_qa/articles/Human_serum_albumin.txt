@@ -1,0 +1,83 @@
+Human serum albumin is the serum albumin found in human blood. It is the most abundant protein in human blood plasma; it constitutes about half of serum protein. It is produced in the liver. It is soluble in water, and it is monomeric.
+Albumin transports hormones, fatty acids, and other compounds, buffers pH, and maintains oncotic pressure, among other functions.
+Albumin is synthesized in the liver as preproalbumin, which has an N-terminal peptide that is removed before the nascent protein is released from the rough endoplasmic reticulum. The product, proalbumin, is in turn cleaved in the Golgi apparatus to produce the secreted albumin.
+The reference range for albumin concentrations in serum is approximately 35–50 g/L (3.5–5.0 g/dL).  It has a serum half-life of approximately 21 days. It has a molecular mass of 66.5 kDa.
+The gene for albumin is located on chromosome 4 in locus 4q13.3 and mutations in this gene can result in anomalous proteins. The human albumin gene is 16,961 nucleotides long from the putative 'cap' site to the first poly(A) addition site. It is split into 15 exons that are symmetrically placed within the 3 domains thought to have arisen by triplication of a single primordial domain.
+Human serum albumin (HSA) is a highly water-soluble globular monomeric plasma protein with a relative molecular weight of 67 KDa, consisting of 585 amino acid residues, one sulfhydryl group and 17 disulfide bridges. Among nanoparticulate carriers, HSA nanoparticles have long been the center of attention in the pharmaceutical industry due to their ability to bind to various drug molecules, great stability during storage and in vivo usage, no toxicity and antigenicity, biodegradability, reproducibility, scale up of the production process and a better control over release properties. In addition, significant amounts of drug can be incorporated into the particle matrix because of the large number of drug binding sites on the albumin molecule.
+
+Function
+Maintains oncotic pressure
+Transports thyroid hormones
+Transports other hormones, in particular, ones that are fat-soluble
+Transports fatty acids ("free" fatty acids) to the liver and to myocytes for utilization of energy
+Transports unconjugated bilirubin
+Transports many drugs; serum albumin levels can affect the half-life of drugs.  Competition between drugs for albumin binding sites may cause drug interaction by increasing the free fraction of one of the drugs, thereby affecting potency.
+Competitively binds calcium ions (Ca2+)
+Serum albumin, as a negative acute-phase protein, is down-regulated in inflammatory states. As such, it is not a valid marker of nutritional status; rather, it is a marker of an inflammatory state
+Prevents photodegradation of folic acid
+Prevent pathogenic effects of Clostridioides difficile toxins
+
+Measurement
+Serum albumin is commonly measured by recording the change in absorbance upon binding to a dye such as bromocresol green or bromocresol purple.
+
+Reference ranges
+The normal range of human serum albumin in adults (> 3 y.o.) is 3.5–5.0  g/dL (35–50 g/L). For children less than three years of age, the normal range is broader, 2.9–5.5 g/dL.
+Low albumin (hypoalbuminemia) may be caused by liver disease, nephrotic syndrome, burns, protein-losing enteropathy, malabsorption, malnutrition, late pregnancy, artefact, genetic variations and malignancy.
+High albumin (hyperalbuminemia) is almost always caused by dehydration. In some cases of retinol (Vitamin A) deficiency, the albumin level can be elevated to high-normal values (e.g., 4.9 g/dL) because retinol causes cells to swell with water. (This is also the reason too much Vitamin A is toxic.)
+This swelling also likely occurs during treatment with 13-cis retinoic acid (isotretinoin), a pharmaceutical for treating severe acne, amongst other conditions. In lab experiments it has been shown that all-trans retinoic acid down regulates human albumin production.
+
+Pathology
+Hypoalbuminemia
+Hypoalbuminemia means low blood albumin levels. This can be caused by:
+
+Liver disease; cirrhosis of the liver is most common
+Excess excretion by the kidneys (as in nephrotic syndrome)
+Excess loss in bowel (protein-losing enteropathy, e.g., Ménétrier's disease)
+Burns (plasma loss in the absence of skin barrier)
+Redistribution (hemodilution [as in pregnancy], increased vascular permeability or decreased lymphatic clearance)
+Acute disease states (referred to as a negative acute-phase protein)
+Malnutrition and wasting
+Mutation causing analbuminemia (very rare)
+Anorexia nervosa (most common cause in adolescents)
+In clinical medicine, hypoalbuminemia significantly correlates with a higher mortality rates in several conditions such as heart failure, post-surgery, COVID-19.
+
+Hyperalbuminemia
+Hyperalbuminemia is an increased concentration of albumin in the blood. Typically, this condition is due to dehydration.  Hyperalbuminemia has also been associated with high protein diets.
+
+Medical use
+Human albumin solution (HSA) is available for medical use, usually at concentrations of either 5 or 25%.
+Human albumin is often used to replace lost fluid and help restore blood volume in trauma, burns and surgery patients. There is no strong medical evidence that albumin administration (compared to saline) saves lives for people who have hypovolaemia or for those who are critically ill due to burns or hypoalbuminaemia. It is also not known if there are people who are critically ill that may benefit from albumin. Therefore, the Cochrane Collaboration recommends that it should not be used, except in clinical trials.
+In acoustic droplet vaporization (ADV), albumin is sometimes used as a surfactant.  ADV has been proposed as a cancer treatment by means of occlusion therapy.
+Human serum albumin may be used to potentially reverse drug/chemical toxicity by binding to free drug/agent.
+Human albumin may also be used in treatment of decompensated cirrhosis.
+Human serum albumin has been used as a component of a frailty index.
+
+Glycation
+It has been known for a long time that human blood proteins like hemoglobin  and serum albumin may undergo a slow non-enzymatic glycation, mainly by formation of a Schiff base between ε-amino groups of lysine (and sometimes arginine) residues and glucose molecules in blood (Maillard reaction). This reaction can be inhibited in the presence of antioxidant agents. Although this reaction may happen normally, elevated glycoalbumin is observed in diabetes mellitus.
+Glycation has the potential to alter the biological structure and function of the serum albumin protein.
+Moreover, the glycation can result in the formation of Advanced Glycation End-Products (AGE), which result in abnormal biological effects. Accumulation of AGEs leads to tissue damage via alteration of the structures and functions of tissue proteins, stimulation of cellular responses, through receptors specific for AGE-proteins, and generation of reactive oxygen intermediates. AGEs also react with DNA, thus causing mutations and DNA transposition. Thermal processing of proteins and carbohydrates brings major changes in allergenicity. AGEs are antigenic and represent many of the important neoantigens found in cooked or stored foods. They also interfere with the normal product of nitric oxide in cells.
+Although there are several lysine and arginine residues in the serum albumin structure, very few of them can take part in the glycation reaction.
+
+Oxidation
+The albumin is the predominant protein in most body fluids, its Cys34 represents the largest fraction of free thiols within the body. The albumin Cys34 thiol exists in both reduced and oxidized forms. In plasma of healthy young adults, 70–80% of total HSA contains the free sulfhydryl group of Cys34 in a reduced form or mercaptoalbumin (HSA-SH). However, in pathological states characterized by oxidative stress such as kidney disease, liver disease and diabetes the oxidized form, or non-mercaptoalbumin (HNA), could predominate.  The albumin thiol reacts with radical hydroxyl (.OH), hydrogen peroxide (H2O2) and the reactive nitrogen species as peroxynitrite (ONOO.), and have been shown to oxidize Cys34 to sulfenic acid derivate (HSA-SOH), it can be recycled to mercapto-albumin; however at high concentrations of reactive species leads to the irreversible oxidation to sulfinic (HSA-SO2H) or sulfonic acid (HSA-SO3H) affecting its structure.  Presence of reactive oxygen species (ROS), can induce irreversible structural damage and alter protein activities.
+
+Loss via kidneys
+In the healthy kidney, albumin's size and negative electric charge exclude it from excretion in the glomerulus. This is not always the case, as in some diseases including diabetic nephropathy, which can sometimes be a complication of uncontrolled or of longer term diabetes  in which proteins can cross the glomerulus. The lost albumin can be detected by a simple urine test. Depending on the amount of albumin lost, a patient may have normal renal function, microalbuminuria, or albuminuria.
+
+Interactions
+Human serum albumin has been shown to interact with FCGRT.
+It might also interact with a yet-unidentified albondin (gp60), a certain pair of gp18/gp30, and some other proteins like osteonectin, hnRNPs, calreticulin, cubilin, and megalin.
+
+See also
+Bovine serum albumin
+Serum albumin
+
+References
+Further reading
+External links
+Human Albumin structure in the Protein data bank
+Human Serum Albumin Archived 2006-04-24 at the Wayback Machine on the Human Protein Reference Database Archived 2006-04-24 at the Wayback Machine
+Albumin binding prediction
+Albumin at Lab Tests Online
+Albumin: analyte monograph from the Association for Clinical Biochemistry and Laboratory Medicine
+Overview of all the structural information available in the PDB for UniProt: P02768 (Serum albumin) at the PDBe-KB.

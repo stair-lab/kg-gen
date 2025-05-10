@@ -1,0 +1,47 @@
+Troy weight is a system of units of mass that originated in the Kingdom of England in the 15th century and is primarily used in the precious metals industry. The troy weight units are the grain, the pennyweight (24 grains), the troy ounce (20 pennyweights), and the troy pound (12 troy ounces). The troy grain is equal to the grain unit of the avoirdupois system, but the troy ounce is heavier than the avoirdupois ounce, and the troy pound is lighter than the avoirdupois pound. Legally, one troy ounce (oz t) equals exactly 31.1034768 grams.
+
+Etymology
+Troy weight is generally supposed to take its name from the French market town of Troyes where English merchants traded at least as early as the early 9th century. The name troy is first attested in 1390, describing the weight of a platter, in an account of the travels in Europe of the Earl of Derby.
+Charles Moore Watson (1844–1916) proposes an alternative etymology:  The Assize of Weights and Measures (also known as Tractatus de Ponderibus et Mensuris), one of the statutes of uncertain date from the reign of either Henry III or Edward I, thus before 1307, specifies "troni ponderacionem"—which the Public Record Commissioners translate as "troy weight".  The word tron refers to markets. Wright's The English Dialect Dictionary lists the word troi as meaning a balance, related to the alternate form 'tron' which also means market or the place of weighing. From this, Watson suggests that 'troy' derives from the manner of weighing by balance precious goods such as bullion or drugs; in contrast to the word 'avoirdupois' used to describe bulk goods such as corn or coal, sometimes weighed in ancient times by a kind of steelyard called the auncel.
+Troy weight referred to the Tower system; the earliest reference to the modern troy weights is in 1414.
+
+History
+The origin of the troy weight system is unknown. Although the name probably comes from the Champagne fairs at Troyes, in northeastern France. English troy weights were nearly identical to the troy weight system of Bremen. (The Bremen troy ounce had a mass of 480.8 British Imperial grains.)
+Many aspects of the troy weight system were indirectly derived from the Roman monetary system. Before they used coins, early Romans used bronze bars of varying weights as currency. An aes grave ("heavy bronze") weighed one pound. One twelfth of an aes grave was called an uncia, or in English, an "ounce". Before the adoption of the metric system, many systems of troy weights were in use in various parts of Europe, among them Holland troy, Paris troy, etc. Their values varied from one another by up to several percentage points. Troy weights were first used in England in the 15th century and were made official for gold and silver in 1527. The British Imperial system of weights and measures (also known as imperial units) was established in 1824, prior to which the troy weight system was a subset of pre-imperial English units.
+The troy ounce in modern use is essentially the same as the British Imperial troy ounce (1824–1971), adopted as an official weight standard for United States coinage by act of Congress on May 19, 1828. The British Imperial troy ounce (known more commonly simply as the imperial troy ounce) was based on, and virtually identical with, the pre-1824 British troy ounce and the pre-1707 English troy ounce. (1824 was the year the British Imperial system of weights and measures was adopted; 1707 was the year of the Act of Union which created the Kingdom of Great Britain.) Troy ounces have been used in England since the early 15th century, and the English troy ounce was officially adopted for coinage in 1527. Before that time, various sorts of troy ounces were in use on the continent.
+The troy ounce and grain were also part of the apothecaries' system. This was long used in medicine, but has been largely replaced by the metric system (milligrams). The only troy weight in widespread use is the British Imperial troy ounce and its American counterpart. Both are based on a grain of 0.06479891 gram (exact, by definition), with 480 grains to a troy ounce (compared with 437+1⁄2 grains for an ounce avoirdupois). The British Empire abolished the 12-ounce troy pound in the 19th century. It has been retained, though rarely used, in the American system. Larger amounts of precious metals are conventionally counted in hundreds or thousands of troy ounces, or in kilograms.
+Troy ounces have been and are still often used in precious metal markets in countries that otherwise use International System of Units (SI). However, the People's Bank of China –  which had been using troy measurements in minting Gold Pandas since 1982 –  from 2016 specifies Chinese bullion coins in an integer numbers of grams.
+
+Units of measurement
+Troy pound (lb t)
+The troy pound (lb t) consists of twelve troy ounces and thus is 5760 grains (373.24172 grams). (An avoirdupois pound is approximately 21.53% heavier at 7000 grains (453.59237 grams), and consists of sixteen avoirdupois ounces).
+
+Troy ounce (oz t)
+A troy ounce weighs 480 grains. Since the implementation of the international yard and pound agreement of 1 July 1959, the grain measure is defined as precisely 64.79891 milligrams.: C-19  Thus one troy ounce = 480 grains × 0.06479891 grams/grain = 31.10347680 grams. Since the ounce avoirdupois is defined as 437.5 grains, a troy ounce is exactly 480⁄437.5 = 192⁄175 or about 1.09714 ounces avoirdupois or about 9.7% more. The troy ounce for trading precious metals is considered to be sufficiently approximated by 31.10 g in EU directive 80/181/EEC.
+The Dutch troy system is based on a mark of 8 ounces, the ounce of 20 engels (pennyweights), the engel of 32 as. The mark was rated as 3,798 troy grains or 246.084 grams. The divisions are identical to the tower system.
+
+Pennyweight (dwt)
+The pennyweight symbol is dwt. One pennyweight weighs 24 grains, and 20 pennyweights make one troy ounce. Because there were 12 troy ounces in the old troy pound, there would have been 240 pennyweights to the pound (mass) –  just as there were 240 pennies in the original pound-sterling. However, prior to 1526, the English pound sterling was based on the tower pound, which is 15⁄16 of a troy pound. The d in dwt stands for denarius, the ancient Roman coin that equates loosely to a penny. The symbol d for penny can be recognized in the form of British pre-decimal pennies, in which pounds, shillings, and pence were indicated using the symbols £, s, and d, respectively.
+
+Troy grain
+There is no specific 'troy grain'. All Imperial systems use the same measure of mass called a grain (historically of barley), each weighing 1⁄7000 of an avoirdupois pound (and thus a little under 65 milligrams).
+
+Mint masses
+Mint masses, also known as moneyers' masses, were legalized by Act of Parliament dated 17 July 1649 entitled An Act touching the monies and coins of England. A grain is 20 mites, a mite is 24 droits, a droit is 20 perits, a perit is 24 blanks.
+
+Conversions
+The troy system was used in the apothecaries' system but with different further subdivisions.
+
+See also
+Bullion coin
+Carat (mass)
+Conversion of units
+Fluid ounce
+Mark (unit)
+Tola (unit), a traditional unit of mass equal to exactly 3⁄8 of a troy ounce
+United States customary units
+
+Explanatory footnotes
+
+
+== References ==

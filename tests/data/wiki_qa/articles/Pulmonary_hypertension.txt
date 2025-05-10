@@ -1,0 +1,187 @@
+Pulmonary hypertension (PH or PHTN) is a condition of increased blood pressure in the arteries of the lungs. Symptoms include shortness of breath, fainting, tiredness, chest pain, swelling of the legs, and a fast heartbeat. The condition may make it difficult to exercise. Onset is typically gradual.
+According to the definition at the 6th World Symposium of Pulmonary Hypertension in 2018, a patient is deemed to have pulmonary hypertension if the pulmonary mean arterial pressure is greater than 20mmHg at rest, revised down from a purely arbitrary 25mmHg, and pulmonary vascular resistance (PVR) greater than 3 Wood units.
+The cause is often unknown. Risk factors include a family history, prior pulmonary embolism (blood clots in the lungs), HIV/AIDS, sickle cell disease, cocaine use, chronic obstructive pulmonary disease, sleep apnea, living at high altitudes, and problems with the mitral valve. The underlying mechanism typically involves inflammation and subsequent remodeling of the arteries in the lungs. Diagnosis involves first ruling out other potential causes.High cardiac output states, such as advanced liver disease or the presence of large arteriovenous fistulas, may lead to an elevated mean pulmonary artery pressure (mPAP) greater than 20 mm Hg despite a pulmonary vascular resistance (PVR) less than 2 Wood units, which does not necessarily indicate pulmonary vascular disease.
+As of 2022 there was no cure for pulmonary hypertension, although research to find a cure is ongoing. Treatment depends on the type of disease. A number of supportive measures such as oxygen therapy, diuretics, and medications to inhibit blood clotting may be used. Medications specifically used to treat pulmonary hypertension include epoprostenol, treprostinil, iloprost, bosentan, ambrisentan, macitentan, and sildenafil, tadalafil, selexipag, riociguat. Lung transplantation may be an option in severe cases.
+
+The frequency of occurrence is estimated at 1,000 new cases per year in the United States. Females are more often affected than males. Onset is typically between 20 and 60 years of age. Pulmonary hypertension was identified by Ernst von Romberg in 1891.
+
+Classification
+According to WHO classification there are 5 groups of PH, where Group I (pulmonary arterial hypertension) is further subdivided into Group I' and Group I'' classes. The WHO classification system in 2022 (with adaptations from the more recent ESC/ERS guidelines shown in italics) can be summarized as follows:
+WHO Group I – Pulmonary arterial hypertension (PAH)
+
+Caused by narrowing and thickening of tiny arteries of the lung
+Idiopathic in most cases (heritable in some cases)
+Heritable (BMPR2, ALK1, SMAD9, caveolin 1, KCNK3 mutations)
+Drug- and toxin-induced (e.g., methamphetamine, amphetamine, or cocaine use )
+Associated conditions:Connective tissue disease, HIV infection, Portal hypertension, Congenital heart diseases, Schistosomiasis
+WHO Group I' – Pulmonary veno-occlusive disease (PVOD), pulmonary capillary hemangiomatosis (PCH)
+
+Idiopathic
+Heritable (EIF2AK4 mutations)
+Drugs, toxins and radiation-induced
+Associated conditions:connective tissue disease, HIV infection
+WHO Group I" – Persistent pulmonary hypertension of the newborn
+WHO Group II – Pulmonary hypertension secondary to left heart disease
+
+Left ventricular systolic dysfunction
+Left ventricular diastolic dysfunction
+Valvular heart disease
+Congenital/acquired left heart inflow/outflow tract obstruction and congenital cardiomyopathy
+Congenital/acquired pulmonary venous stenosis
+WHO Group III – Pulmonary hypertension due to lung disease, chronic hypoxia
+
+Chronic obstructive pulmonary disease (COPD)
+Interstitial lung disease
+Mixed restrictive and obstructive pattern pulmonary diseases
+Sleep-disordered breathing
+Alveolar hypoventilation disorders
+Chronic exposure to high altitude
+Developmental abnormalities
+WHO Group IV – Chronic arterial obstruction
+
+Chronic thromboembolic pulmonary hypertension (CTEPH)
+Other pulmonary artery obstructions
+Angiosarcoma or other tumor within the blood vessels
+Arteritis
+Congenital pulmonary artery stenosis
+Parasitic infection (hydatidosis)
+WHO Group V – Pulmonary hypertension with unclear or multifactorial mechanisms
+
+Hematologic diseases: chronic hemolytic anemia (including sickle cell disease)
+Systemic diseases: sarcoidosis, pulmonary Langerhans cell histiocytosis: lymphangioleiomyomatosis, neurofibromatosis, vasculitis
+Metabolic disorders: glycogen storage disease, Gaucher disease, thyroid diseases
+Others: pulmonary tumoral thrombotic microangiopathy, fibrosing mediastinitis, chronic kidney failure, segmental pulmonary hypertension (pulmonary hypertension restricted to one or more lobes of the lungs)
+
+Signs and symptoms
+The symptoms of pulmonary hypertension include the following:
+
+Less common signs/symptoms include non-productive cough and exercise-induced nausea and vomiting. Coughing up of blood may occur in some patients, particularly those with specific subtypes of pulmonary hypertension such as heritable pulmonary arterial hypertension, Eisenmenger syndrome and chronic thromboembolic pulmonary hypertension. Pulmonary venous hypertension typically presents with shortness of breath while lying flat or sleeping (orthopnea or paroxysmal nocturnal dyspnea), while pulmonary arterial hypertension (PAH) typically does not.
+Other typical signs of pulmonary hypertension include an accentuated pulmonary component of the second heart sound, a right ventricular third heart sound, and parasternal heave indicating a hypertrophied right ventricle. Signs of systemic congestion resulting from right-sided heart failure include jugular venous distension, ascites, and hepatojugular reflux. Evidence of tricuspid insufficiency and pulmonic regurgitation is also sought and, if present, is consistent with the presence of pulmonary hypertension.
+
+Causes
+Pulmonary hypertension is a pathophysiologic condition with many possible causes. Indeed, this condition frequently accompanies severe heart or lung conditions. A 1973 World Health Organization meeting was the first attempt to classify pulmonary hypertension by its cause, and a distinction was made between primary PH (resulting from a disease of the pulmonary arteries) and secondary PH (resulting secondary to other, non-vascular causes). Further, primary PH was divided into the "arterial plexiform", "veno-occlusive" and "thromboembolic" forms. In 1998, a second conference at Évian-les-Bains addressed the causes of secondary PH. Subsequent third, fourth, and fifth (2013) World Symposia on PAH have further defined the classification of PH.  The classification continues to evolve based on improved understanding of the disease mechanisms.
+Most recently in 2022, the WHO guidelines were updated by the European Society of Cardiology (ESC) and European Respiratory Society (ERS). These guidelines are endorsed by the International Society for Heart and Lung Transplantation, and provide the current framework for understanding and treatment of pulmonary hypertension.
+
+Genetics
+Mutations in several genes have been associated with this condition these include bone morphogenetic protein receptor type 2 (BMPR2) and eukaryotic translation initiation factor 2 alpha kinase 4 gene (EIF2AK4). 80% of familial pulmonary arterial hypertension and 20% of sporadic variants have mutations in BMPR2. BMPR2 is involved in endothelial proliferation and remodeling. Other mutations associated with PAH include ACVRL1 (which encodes activin receptor–like kinase 1) and ENG encoding endoglin, two proteins which also participate in BMPR2 signaling. The SMAD transcription factor family, including SMAD1, SMAD4, and SMAD9 are involved in signaling pathways downstream from BMPR2 and are also implicated in the development of pulmonary arterial hypertension.
+
+Pathogenesis
+The pathogenesis of pulmonary arterial hypertension (WHO Group I) involves the narrowing of blood vessels connected to and within the lungs. This makes it harder for the heart to pump blood through the lungs, as it is much harder to make water flow through a narrow pipe as opposed to a wide one. Over time, the affected blood vessels become stiffer and thicker, in a process known as fibrosis. The mechanisms involved in this narrowing process include vasoconstriction, thrombosis, and vascular remodeling (excessive cellular proliferation, fibrosis, and reduced apoptosis/programmed cell death in the vessel walls, caused by inflammation, disordered metabolism and dysregulation of certain growth factors). This further increases the blood pressure within the lungs and impairs their blood flow. In common with other types of pulmonary hypertension, these changes result in an increased workload for the right side of the heart. The right ventricle is normally part of a low pressure system, with systolic ventricular pressures that are lower than those that the left ventricle normally encounters. As such, the right ventricle cannot cope as well with higher pressures, and although right ventricular adaptations (hypertrophy and increased contractility of the heart muscle) initially help to preserve stroke volume, ultimately these compensatory mechanisms are insufficient; the right ventricular muscle cannot get enough oxygen to meet its needs and right heart failure follows. As the blood flowing through the lungs decreases, the left side of the heart receives less blood. This blood may also carry less oxygen than normal. Therefore, it becomes harder and harder for the left side of the heart to supply sufficient oxygen to the rest of the body, especially during physical activity. During the end-systolic volume phase of the cardiac cycle, the Gaussian curvature and the mean curvature of right ventricular endocardial wall of PH patients was found to be significantly different as compared to controls.
+In PVOD (WHO Group I'), pulmonary blood vessel narrowing occurs preferentially (though not exclusively) in post-capillary venous blood vessels. PVOD shares several characteristics with PAH, but there are also some important differences, for example differences in prognosis and response to medical therapy.
+Persistent pulmonary hypertension of the newborn occurs when the circulatory system of a newborn baby fails to adapt to life outside the womb; it is characterized by high resistance to blood flow through the lungs, right-to-left cardiac shunting and severe hypoxemia.
+Pathogenesis in pulmonary hypertension due to left heart disease (WHO Group II) is completely different in that constriction or damage to the pulmonary blood vessels is not the issue. Instead, the left heart fails to pump blood efficiently, leading to pooling of blood in the lungs and back pressure within the pulmonary system. This causes pulmonary edema and pleural effusions. In the absence of pulmonary blood vessel narrowing, the increased back pressure is described as 'isolated post-capillary pulmonary hypertension' (older terms include 'passive' or 'proportionate' pulmonary hypertension or 'pulmonary venous hypertension'). However, in some patients, the raised pressure in the pulmonary vessels triggers a superimposed component of vessel narrowing, which further increases the workload of the right side of the heart. This is referred to as 'post-capillary pulmonary hypertension with a pre-capillary component' or 'combined post-capillary and pre-capillary pulmonary hypertension' (older terms include 'reactive' or 'out-of-proportion' pulmonary hypertension).
+In pulmonary hypertension due to lung diseases and/or hypoxia (WHO Group III), low levels of oxygen in the alveoli (due to respiratory disease or living at high altitude) cause constriction of the pulmonary arteries. This phenomenon is called hypoxic pulmonary vasoconstriction and it is initially a protective response to stop too much blood flowing to areas of the lung that are damaged and do not contain oxygen. When the alveolar hypoxia is widespread and prolonged, this hypoxia-mediated vasoconstriction occurs across a large portion of the pulmonary vascular bed and leads to an increase in pulmonary arterial pressure, with thickening of the pulmonary vessel walls contributing to the development of sustained pulmonary hypertension.  Prolonged hypoxia also induces the transcription factor HIF1A, which directly activates downstream growth factor signaling that causes irreversible proliferation and remodeling of pulmonary arterial endothelial cells, leading to chronic pulmonary arterial hypertension.
+In chronic thromboembolic pulmonary hypertension, or CTEPH (WHO Group IV), the initiating event is thought to be blockage or narrowing of the pulmonary blood vessels with unresolved blood clots; these clots can lead to increased pressure and shear stress in the rest of the pulmonary circulation, precipitating structural changes in the vessel walls (remodeling) similar to those observed in other types of severe pulmonary hypertension. This combination of vessel occlusion and vascular remodeling once again increases the resistance to blood flow and so the pressure within the system rises.
+
+Molecular pathology
+The molecular mechanism of pulmonary arterial hypertension (PAH) is not known yet, but it is believed that the endothelial dysfunction results in a decrease in the synthesis of endothelium-derived vasodilators such as nitric oxide and prostacyclin. Moreover, there is a stimulation of the synthesis of vasoconstrictors such as thromboxane and vascular endothelial growth factor (VEGF). These result in a severe vasoconstriction and vascular smooth muscle  and adventitial hypertrophy characteristic of patients with PAH.
+
+Nitric oxide-soluble guanylate cyclase pathway
+In normal conditions, the vascular endothelial nitric oxide synthase produces nitric oxide from L-arginine in the presence of oxygen.
+This nitric oxide diffuses into neighboring cells (including vascular smooth muscle cells and platelets), where it increases the activity of the enzyme soluble guanylate cyclase, leading to increased formation of cyclic guanosine monophosphate (cGMP) from guanosine triphosphate (GTP). The cGMP then activates cGMP-dependent kinase or PKG (protein kinase G). Activated PKG promotes vasorelaxation (via a reduction of intracellular calcium levels), alters the expression of genes involved in smooth muscle cell contraction, migration and differentiation, and inhibits platelet activation. Nitric oxide–soluble guanylate cyclase signaling also leads to anti-inflammatory effects.
+Phosphodiesterase type 5 (PDE5), which is abundant in the pulmonary tissue, hydrolyzes the cyclic bond of cGMP. Consequently, the concentration of cGMP (and thus PKG activity) decreases.
+
+Endothelin
+Endothelin-1 is a peptide (comprising 21 amino acids) that is produced in endothelial cells. It acts on the endothelin receptors ETA and ETB in various cell types including vascular smooth muscle cells and fibroblasts, leading to vasoconstriction, hypertrophy, proliferation, inflammation, and fibrosis. It also acts on ETB receptors in endothelial cells; this leads to the release of both vasoconstrictors and vasodilators from those cells, and clears endothelin-1 from the system.
+
+Prostacyclin and thromboxane
+Prostacyclin is synthesized from arachidonic acid in endothelial cells. In vascular smooth muscle cells, prostacyclin binds mainly to the prostaglandin I receptor. This sends a signal to increase adenylate cyclase activity, which leads to increased synthesis of cyclic adenosine monophosphate (cAMP). This in turn leads to increased cAMP-dependent protein kinase or PKA (protein kinase A) activity, ultimately promoting vasodilation and inhibiting cell proliferation. Prostacyclin signaling also leads to anti-thrombotic, anti-fibrotic, and anti-inflammatory effects. Levels of cAMP (which mediates most of the biological effects of prostacyclin) are reduced by phosphodiesterases 3 and 4.
+The vasoconstrictor thromboxane is also synthesized from arachidonic acid. In PAH, the balance is shifted away from synthesis of prostacyclin toward synthesis of thromboxane.
+
+Other pathways
+The three pathways described above are all targeted by currently available medical therapies for PAH. However, several other pathways have been identified that are also altered in PAH and are being investigated as potential targets for future therapies. For example, the mitochondrial enzyme pyruvate dehydrogenase kinase (PDK) is pathologically activated in PAH, causing a metabolic shift from oxidative phosphorylation to glycolysis and leading to increased cell proliferation and impaired apoptosis.  Expression of vasoactive intestinal peptide, a potent vasodilator with anti-inflammatory and immune-modulatory roles, is reduced in PAH, while expression of its receptor is increased.
+Plasma levels of serotonin, which promotes vasoconstriction, hypertrophy and proliferation, are increased in patients with PAH, although the role played by serotonin in the pathogenesis of PAH remains uncertain. The expression or activity of several growth factors (including platelet-derived growth factor, basic fibroblast growth factor, epidermal growth factor, and vascular endothelial growth factor) is increased and contributes to vascular remodeling in PAH. Other factors underlying the proliferative state of pulmonary vascular smooth muscle cells include OPG and TRAIL. Focusing only on the pulmonary vasculature provides an incomplete picture of PAH; the ability of the right ventricle to adapt to the increased workload varies between patients and is an important determinant of survival. The molecular pathology of PAH in the right ventricle is therefore also being investigated, and recent research has shifted to consider the cardiopulmonary unit as a single system rather than two separate systems. Importantly, right ventricular remodeling is associated with increased apoptosis; this is in contrast to pulmonary vascular remodeling which involves inhibition of apoptosis.
+Even though the primary cause of PAH is unknown, inflammation and oxidative stress have been shown to have a key role in vascular remodeling.  These factors are known to cause DNA damage, and may also promote the proliferative and apoptosis-resistant phenotype that is observed in PAH vascular cells. Elevated levels of DNA damage have been reported to occur in PAH lungs and remodeled arteries, and also in animal models of PH, indicating that DNA damage likely contributes to PAH pathogenesis.
+
+Diagnosis
+In terms of the diagnosis of pulmonary hypertension, it has five major types, and a series of tests must be performed to distinguish pulmonary arterial hypertension from venous, hypoxic, thromboembolic, or unclear multifactorial varieties. PAH is diagnosed after exclusion of other possible causes of pulmonary hypertension.
+
+Physical examination
+A physical examination is performed to look for typical signs of pulmonary hypertension (described above), and a detailed family history is established to determine whether the disease might be heritable. A history of exposure to drugs such as benfluorex (a fenfluramine derivative), dasatinib, cocaine, methamphetamine, ethanol leading to cirrhosis, and tobacco leading to emphysema is considered significant. Use of selective serotonin reuptake inhibitors during pregnancy (particularly late pregnancy) is associated with an increased risk of the baby developing persistent pulmonary hypertension of the newborn.
+
+Echocardiography
+If pulmonary hypertension is suspected based on the above assessments, echocardiography is performed as the next step. A meta-analysis of Doppler echocardiography for predicting the results of right heart catheterization reported a sensitivity and specificity of 88% and 56%, respectively. Thus, Doppler echocardiography can suggest the presence of pulmonary hypertension, but right heart catheterization (described below) remains the gold standard for diagnosis of PAH.
+Echocardiography can also help to detect congenital heart disease as a cause of pulmonary hypertension.
+
+Exclude other diseases
+If the echocardiogram is compatible with a diagnosis of pulmonary hypertension, common causes of pulmonary hypertension (left heart disease and lung disease) are considered and further tests are performed accordingly. These tests generally include electrocardiography (ECG), pulmonary function tests including lung diffusion capacity for carbon monoxide and arterial blood gas measurements, X-rays of the chest and high-resolution computed tomography (CT) scanning.
+
+Ventilation/perfusion scintigraphy
+If heart disease and lung disease have been excluded, a ventilation/perfusion scan is performed to rule out CTEPH. If unmatched perfusion defects are found, further evaluation by CT pulmonary angiography, right heart catheterization, and selective pulmonary angiography is performed.
+
+CT scan
+Signs of pulmonary hypertension on CT scan of the chest are:
+
+Enlargement of the pulmonary trunk (measured at its bifurcation). It is, however, a poor predictor of pulmonary hypertension in patients with interstitial lung disease.
+A diameter of more than 27 mm for women and 29 mm for men is suggested as a cutoff.
+A cutoff of 31.6 mm may be a more statistically robust in individuals without interstitial lung disease.
+Increased ratio of the diameter of the main pulmonary artery (pulmonary trunk) to the ascending aorta (measured at its bifurcation).
+A ratio of 1.0 is suggested as a cutoff in adults.
+Cutoff ~1.09 in children.
+Increased diameter ratio of segmental arteries to bronchi. This finding in three or four lobes, in the presence of a dilated pulmonary trunk (≥29 mm), and absence of significant structural lung disease confers a specificity of 100% for pulmonary hypertension.
+Mural calcification in central pulmonary arteries is most frequently seen in patients with Eisenmenger's syndrome.
+
+Right heart catheterization
+Although pulmonary arterial pressure (PAP) can be estimated on the basis of echocardiography, pressure measurements with a Swan-Ganz catheter inserted through the right side of the heart provide the most definite assessment.[42] Pulmonary hypertension is defined as a mean PAP of at least 20 mm Hg (3300 Pa) at rest, and PAH is defined as precapillary pulmonary hypertension (i.e. mean PAP ≥ 20 mm Hg with pulmonary arterial occlusion pressure [PAOP] ≤ 15 mm Hg and pulmonary vascular resistance [PVR] > 3 Wood Units). PAOP and PVR cannot be measured directly with echocardiography. Therefore, diagnosis of PAH requires right-sided cardiac catheterization. A Swan-Ganz catheter can also measure the cardiac output; this can be used to calculate the cardiac index, which is far more important in measuring disease severity than the pulmonary arterial pressure.
+Mean PAP (mPAP) should not be confused with systolic PAP (sPAP), which is often reported on echocardiogram reports. A systolic pressure of 40 mm Hg typically implies a mean pressure of more than 25 mm Hg. Roughly, mPAP = 0.61•sPAP + 2. Due to the invasive nature of this procedure, the use of computational fluid dynamics based hemodynamic indices have been postulated.
+
+Other
+For people considered likely to have PAH based on the above tests, the specific associated condition is then determined based on the physical examination, medical/family history and further specific diagnostic tests (for example, serological tests to detect underlying connective tissue disease, HIV infection or hepatitis, ultrasonography to confirm the presence of portal hypertension, echocardiography/cardiac magnetic resonance imaging for congenital heart disease, laboratory tests for schistosomiasis, and high-resolution CT for PVOD and pulmonary capillary hemangiomatosis). Routine lung biopsy is discouraged in patients with PAH, because of the risk to the patient and because the findings are unlikely to alter the diagnosis and treatment.
+
+Treatment
+Treatment of pulmonary hypertension is determined by whether the PH is arterial, venous, hypoxic, thromboembolic, or miscellaneous. If it is caused by left heart disease, the treatment is to optimize left ventricular function by the use of medication or to repair/replace the mitral valve or aortic valve. Patients with left heart failure or hypoxemic lung diseases (groups II or III pulmonary hypertension) should not routinely be treated with vasoactive agents including prostanoids, phosphodiesterase inhibitors, or endothelin antagonists, as these are approved for the different condition called primary pulmonary arterial hypertension. To make the distinction, doctors at a minimum will conduct cardiac catheterization of the right heart, echocardiography, chest CT, a seven-minute walk test, and pulmonary function testing. Using treatments for other kinds of pulmonary hypertension in patients with these conditions can harm the patient and wastes substantial medical resources.
+High-dose calcium channel blockers are useful in only 5% of IPAH patients who are vasoreactive by Swan-Ganz catheter. Calcium channel blockers have been largely misused, being prescribed to many patients with non-vasoreactive PAH, leading to excess morbidity and mortality. The criteria for vasoreactivity have changed. Only those patients whose mean pulmonary artery pressure falls by more than 10 mm Hg to less than 40 mm Hg with an unchanged or increased cardiac output when challenged with adenosine, epoprostenol, or nitric oxide are considered vasoreactive. Of these, only half of the patients are responsive to calcium channel blockers in the long term.
+A number of agents have recently been introduced for primary and secondary PAH. The trials supporting the use of these agents have been relatively small, and the only measure consistently used to compare their effectivity is the "six-minute walk test". Many have no data on mortality benefit or time to progression.
+Sotatercept (Winrevair) was approved for medical use in the United States in March 2024.   Keros Therapeutics has decided to end a mid-stage trial of its experimental treatment, cibotercept, after identifying safety concerns, including fluid buildup around the heart in patients with PAH. Keros had aimed to compete with Merck's FDA-approved PAH drug, Sotatercept. 
+Exercise-based rehabilitation
+A 2023 Cochrane review found that exercise-based rehabilitation may lead to a large increase in exercise capacity and an improvement in health related quality of life, without significantly increasing adverse events.
+
+Vasoactive substances
+Many pathways are involved in the abnormal proliferation and contraction of the smooth muscle cells of the pulmonary arteries in patients with pulmonary arterial hypertension. Three of these pathways are important since they have been targeted with drugs – endothelin receptor antagonists, phosphodiesterase type 5 (PDE-5) inhibitors, and prostacyclin derivatives.
+
+Prostaglandins
+Prostacyclin (prostaglandin I2) is commonly considered the most effective treatment for PAH. Epoprostenol (synthetic prostacyclin) is given via continuous infusion that requires a semi-permanent central venous catheter. This delivery system can cause sepsis and thrombosis. Prostacyclin is unstable, and therefore has to be kept on ice during administration. Since it has a half-life of 3 to 5 minutes, the infusion has to be continuous, and interruption can be fatal. Other prostanoids have therefore been developed. Treprostinil can be given intravenously or subcutaneously, but the subcutaneous form can be very painful. An increased risk of sepsis with intravenous Remodulin has been reported by the CDC. Iloprost is also used in Europe intravenously and has a longer half life. Iloprost was the only inhaled form of prostacyclin approved for use in the US and Europe, until the inhaled form of treprostinil was approved by the FDA in July 2009.
+
+Endothelin receptor antagonists
+Moderate quality evidence suggests that endothelin receptor antagonists improve exercise capacity and decrease symptoms severity. The dual (ETA and ETB) endothelin receptor antagonist bosentan was approved in 2001. Macitentan is another ETA and ETB dual endothelin receptor blocker that is used. Sitaxentan (Thelin) was approved for use in Canada, Australia, and the European Union, but not in the United States. In 2010, Pfizer withdrew sitaxentan worldwide because of fatal liver complications. A similar drug, ambrisentan (which is a ETA endothelin receptor blocker) is sold under the brand name Letairis in the US by Gilead Sciences.
+
+Phosphodiesterase type 5 inhibitors
+The US FDA approved sildenafil, a selective inhibitor of cGMP specific phosphodiesterase type 5 (PDE5), for the treatment of PAH in 2005. It is marketed for PAH as Revatio. In 2009, they also approved tadalafil, another PDE5 inhibitor, marketed under the name Adcirca. PDE5 inhibitors are believed to increase pulmonary artery vasodilation, and inhibit vascular remodeling, thus lowering pulmonary arterial pressure and pulmonary vascular resistance.
+Tadalafil is taken orally, as well as sildenafil, and it is rapidly absorbed (serum levels are detectable at 20 minutes). The T1/2 (biological half-life) hovers around 17.5 hours in healthy subjects. Moreover, if we consider pharmacoeconomic implications, patients that take tadalafil would pay two-thirds of the cost of sildenafil therapy. However, there are some adverse effects of this drug such as headache, diarrhea, nausea, back pain, dyspepsia, flushing and myalgia.
+The combination medication macitentan/tadalafil (Opsynvi) was approved for medical use in Canada in October 2021, and in the United States in March 2024.
+
+Activators of soluble guanylate cyclase
+Soluble guanylate cyclase (sGC) is the intracellular receptor for NO. As of April 2009, the sGC activators cinaciguat and riociguat were undergoing clinical trials for the treatment of PAH.
+
+Surgical
+Atrial septostomy is a surgical procedure that creates a communication between the right and left atria. It relieves pressure on the right side of the heart, but at the cost of lower oxygen levels in blood (hypoxemia). Lung transplantation replaces a chronic condition with the ongoing need for treatment. There is a post-surgical median survival of just over five years.
+Pulmonary thromboendarterectomy (PTE) is a surgical procedure that is used for chronic thromboembolic pulmonary hypertension. It is the surgical removal of an organized thrombus (clot) along with the lining of the pulmonary artery; it is a very difficult, major procedure that is currently performed in a few select centers.
+
+Monitoring
+Established clinical practice guidelines dictate the frequency of pulmonary nodule evaluation and surveillance,
+patients are normally monitored through commonly available tests such as:
+
+Prognosis
+PAH is considered a universally fatal illness, although survival time may vary between individuals. The prognosis of pulmonary arterial hypertension (WHO Group I) has an untreated median survival of 2–3 years from time of diagnosis, with the cause of death usually being right ventricular failure (cor pulmonale). The survival time is variable and depends on many factors. A recent outcome study of those patients who had started treatment with bosentan (Tracleer) showed that 89% of patients were alive at 2 years. With new therapies, survival rates are increasing. For 2,635 patients enrolled in The Registry to Evaluate Early and Long-term Pulmonary Arterial Hypertension Disease Management (REVEAL Registry) from March 2006 to December 2009, 1-, 3-, 5-, and 7-year survival rates were 85%, 68%, 57%, and 49%, respectively. For patients with idiopathic/familial PAH, survival rates were 91%, 74%, 65%, and 59%. Levels of mortality are very high in pregnant women with severe pulmonary arterial hypertension (WHO Group I). Pregnancy is sometimes described as contraindicated in these women.
+
+Epidemiology
+The epidemiology of IPAH is about 125–150 deaths per year in the U.S., and worldwide the incidence is similar at 4 cases per million. However, in parts of Europe (France), indications are 6 cases per million of IPAH. Females have a higher incidence rate than males (2–9:1). In 2021, approximately 192,000 people were estimated to have PAH. Other forms of PH are far more common. In systemic scleroderma, the incidence has been estimated to be 8 to 12% of all patients; in rheumatoid arthritis it is rare. However, in systemic lupus erythematosus it is 4 to 14%, and in sickle cell disease, it ranges from 20 to 40%. Up to 4% of people who develop a pulmonary embolism go on to develop chronic thromboembolic disease including pulmonary hypertension. A small percentage of patients with COPD develop pulmonary hypertension with no other disease to explain the high pressure. On the other hand, obesity-hypoventilation syndrome is very commonly associated with right heart failure due to pulmonary hypertension.
+
+Research
+For people that inherited the disease, gene therapy is being studied.
+
+Culture and society
+Notable cases
+Elaine Kaufman, American restaurateur
+Ina Balin, American Broadway and TV actress
+Chloe Temtchine, American singer-songwriter
+Natalie Cole, American singer
+
+See also
+Pulmonary Hypertension Association
+Cambridge Pulmonary Hypertension Outcome Review (CAMPHOR)
+
+References
+Further reading
+External links
+The Merck Manual Home Edition: Pulmonary Hypertension

@@ -1,0 +1,102 @@
+Informal logic encompasses the principles of logic and logical thought outside of a formal setting (characterized by the usage of particular statements). However, the precise definition of "informal logic" is a matter of some dispute. Ralph H. Johnson and J. Anthony Blair define informal logic as "a branch of logic whose task is to develop non-formal standards, criteria, procedures for the analysis, interpretation, evaluation, criticism and construction of argumentation." This definition reflects what had been implicit in their practice and what others were doing in their informal logic texts.
+Informal logic is associated with informal fallacies, critical thinking, the thinking skills movement and the interdisciplinary inquiry known as argumentation theory. Frans H. van Eemeren writes that the label "informal logic" covers a "collection of normative approaches to the study of reasoning in ordinary language that remain closer to the practice of argumentation than formal logic."
+
+History
+Informal logic as a distinguished enterprise under this name emerged roughly in the late 1970s as a sub-field of philosophy. The naming of the field was preceded by the appearance of a number of textbooks that rejected the symbolic approach to logic on pedagogical grounds as inappropriate and unhelpful for introductory textbooks on logic for a general audience, for example Howard Kahane's Logic and Contemporary Rhetoric, subtitled "The Use of Reason in Everyday Life", first published in 1971. Kahane's textbook was described on the notice of his death in the Proceedings And Addresses of the American Philosophical Association (2002) as "a text in informal logic, [that] was intended to enable students to cope with the misleading rhetoric one frequently finds in the media and in political discourse. It was organized around a discussion of fallacies, and was meant to be a practical instrument for dealing with the problems of everyday life. [It has] ... gone through many editions; [it is] ... still in print; and the thousands upon thousands of students who have taken courses in which his text [was] ... used can thank Howard for contributing to their ability to dissect arguments and avoid the deceptions of deceitful rhetoric. He tried to put into practice the ideal of discourse that aims at truth rather than merely at persuasion. (Hausman et al. 2002)" Other textbooks from the era taking this approach were Michael Scriven's Reasoning (Edgepress, 1976) and Logical Self-Defense by Ralph Johnson and J. Anthony Blair, first published in 1977. Earlier precursors in this tradition can be considered Monroe Beardsley's Practical Logic (1950) and Stephen Toulmin's The Uses of Argument (1958).
+The field perhaps became recognized under its current name with the First International Symposium on Informal Logic held in 1978. Although initially motivated by a new pedagogical approach to undergraduate logic textbooks, the scope of the field was basically defined by a list of 13 problems and issues which Blair and Johnson included as an appendix to their keynote address at this symposium:
+
+the theory of logical criticism
+the theory of argument
+the theory of fallacy
+the fallacy approach vs. the critical thinking approach
+the viability of the inductive/deductive dichotomy
+the ethics of argumentation and logical criticism
+the problem of assumptions and missing premises
+the problem of context
+methods of extracting arguments from context
+methods of displaying arguments
+the problem of pedagogy
+the nature, division and scope of informal logic
+the relationship of informal logic to other inquiries
+David Hitchcock argues that the naming of the field was unfortunate, and that philosophy of argument would have been more appropriate. He argues that more undergraduate students in North America study informal logic than any other branch of philosophy, but that as of 2003 informal logic (or philosophy of argument) was not recognized as separate sub-field by the World Congress of Philosophy. Frans H. van Eemeren wrote that "informal logic" is mainly an approach to argumentation advanced by a group of US and Canadian philosophers and largely based on the previous works of Stephen Toulmin and to a lesser extent those of Chaïm Perelman.
+Alongside the symposia, since 1983 the journal Informal Logic has been the publication of record of the field, with Blair and Johnson as initial editors, with the editorial board now including two other colleagues from the University of Windsor—Christopher Tindale and Hans V. Hansen. Other journals that regularly publish articles on informal logic include Argumentation (founded in 1986), Philosophy and Rhetoric, Argumentation and Advocacy (the journal of the American Forensic Association), and Inquiry: Critical Thinking Across the Disciplines (founded in 1988).
+
+Proposed definitions
+Johnson and Blair (2000) proposed the following definition: "Informal logic designates that branch of logic whose task is to develop non-formal2 standards, criteria, procedures for the analysis, interpretation, evaluation, critique and construction of argumentation in everyday discourse." Their meaning of non-formal2 is taken from Barth and Krabbe (1982), which is explained below.
+To understand the definition above, one must understand informal which takes its meaning in contrast to its counterpart formal. (This point was not made for a very long time, hence the nature of informal logic remained opaque, even to those involved in it, for a period of time.) Here it is helpful to have recourse to Barth and Krabbe (1982:14f) where they distinguish three senses of the term form. By form1, Barth and Krabbe mean the sense of the term which derives from the Platonic idea of form—the ultimate metaphysical unit. Barth and Krabbe claim that most traditional logic is formal in this sense. That is, syllogistic logic is a logic of terms where the terms could naturally be understood as place-holders for Platonic (or Aristotelian) forms. In this first sense of form, almost all logic is informal (not-formal). Understanding informal logic this way would be much too broad to be useful.
+By form2, Barth and Krabbe mean the form of sentences and statements as these are understood in modern systems of logic. Here validity is the focus: if the premises are true, the conclusion must then also be true. Now validity has to do with the logical form of the statement that makes up the argument. In this sense of formal, most modern and contemporary logic is formal. That is, such logics canonize the notion of logical form, and the notion of validity plays the central normative role. In this second sense of form, informal logic is not-formal, because it abandons the notion of logical form as the key to understanding the structure of arguments, and likewise retires validity as normative for the purposes of the evaluation of argument. It seems to many that validity is too stringent a requirement, that there are good arguments in which the conclusion is supported by the premises even though it does not follow necessarily from them (as validity requires). An argument in which the conclusion is thought to be "beyond reasonable doubt, given the premises" is sufficient in law to cause a person to be sentenced to death, even though it does not meet the standard of logical validity. This type of argument, based on accumulation of evidence rather than pure deduction, is called a conductive argument.
+By form3, Barth and Krabbe mean to refer to "procedures which are somehow regulated or regimented, which take place according to some set of rules." Barth and Krabbe say that "we do not defend formality3 of all kinds and under all circumstances." Rather "we defend the thesis that verbal dialectics must have a certain form (i.e., must proceed according to certain rules) in order that one can speak of the discussion as being won or lost" (19). In this third sense of form, informal logic can be formal, for there is nothing in the informal logic enterprise that stands opposed to the idea that argumentative discourse should be subject to norms, i.e., subject to rules, criteria, standards or procedures. Informal logic does present standards for the evaluation of argument, procedures for detecting missing premises etc.
+Johnson and Blair (2000) noticed a limitation of their own definition, particularly with respect to "everyday discourse", which could indicate that it does not seek to understand specialized, domain-specific arguments made in natural languages. Consequently, they have argued that the crucial divide is between arguments made in formal languages and those made in natural languages.
+Fisher and Scriven (1997) proposed a more encompassing definition, seeing informal logic as "the discipline which studies the practice of critical thinking and provides its intellectual spine". By "critical thinking" they understand "skilled and active interpretation and evaluation of observations and communications, information and argumentation."
+
+Criticisms
+Some hold the view that informal logic is not a branch or subdiscipline of logic, or even the view that there cannot be such a thing as informal logic. Massey criticizes informal logic on the grounds that it has no theory underpinning it. Informal logic, he says, requires detailed classification schemes to organize it, which in other disciplines is provided by the underlying theory. He maintains that there is no method of establishing the invalidity of an argument aside from the formal method, and that the study of fallacies may be of more interest to other disciplines, like psychology, than to philosophy and logic.
+
+Relation to critical thinking
+Since the 1980s, informal logic has been partnered and even equated, in the minds of many, with critical thinking. The precise definition of critical thinking is a subject of much dispute. Critical thinking, as defined by Johnson, is the evaluation of an intellectual product (an argument, an explanation, a theory) in terms of its strengths and weaknesses. While critical thinking will include evaluation of arguments and hence require skills of argumentation including informal logic, critical thinking requires additional abilities not supplied by informal logic, such as the ability to obtain and assess information and to clarify meaning. Also, many believe that critical thinking requires certain dispositions. Understood in this way, critical thinking is a broad term for the attitudes and skills that are involved in analyzing and evaluating arguments. The critical thinking movement promotes critical thinking as an educational ideal. The movement emerged with great force in the 1980s in North America as part of an ongoing critique of education as regards the thinking skills not being taught.
+
+Relation to argumentation theory
+The social, communicative practice of argumentation can and should be distinguished from implication (or entailment)—a relationship between propositions; and from inference—a mental activity typically thought of as the drawing of a conclusion from premises. Informal logic may thus be said to be a logic of argumentation, as distinguished from implication and inference.
+Argumentation theory is interdisciplinary in the sense that no one discipline will be able to provide a complete account. A full appreciation of argumentation requires insights from logic (both formal and informal), rhetoric, communication theory, linguistics, psychology, and, increasingly, computer science. Since the 1970s, there has been significant agreement that there are three basic approaches to argumentation theory: the logical, the rhetorical and the dialectical. According to Wenzel, the logical approach deals with the product, the dialectical with the process, and the rhetorical with the procedure. Thus, informal logic is one contributor to this inquiry, being most especially concerned with the norms of argument.
+
+See also
+Argument
+Argumentation theory
+Argument map
+Critical reasoning
+Informal fallacy
+Informal inferential reasoning
+Inference objection
+Lemma
+Philosophy of language
+Semantics
+
+Footnotes
+References
+Barth, E. M., & Krabbe, E. C. W. (Eds.). (1982). From axiom to dialogue: A philosophical study of logics and argumentation. Berlin: Walter De Gruyter.
+Blair, J. A & Johnson, R.H. (1980). The recent development of informal logic. In J. Anthony Blair and Ralph H. Johnson (Eds.). Informal logic: The first international symposium, (pp. 3–28). Inverness, CA: Edgepress.
+Ennis, R.H. (1987). A taxonomy of critical thinking dispositions and abilities. In J.B. Baron and R.J. Sternberg (Eds.), Teaching critical thinking skills: Theory and practice, (pp. 9–26). New York: Freeman.
+Eemeren, F. H. van, & Grootendorst, R. (1992). Argumentation, communication and fallacies. Hillsdale, NJ: Lawrence Erlbaum Associates.
+Fisher, A. and Scriven, M. (1997). Critical thinking: Its definition and assessment. Point Reyes, CA: Edgepress
+Fisher, Alec (2004). The logic of real arguments (2nd ed.). Cambridge University Press. ISBN 978-0-521-65481-4.
+Govier, T. (1987). Problems in argument analysis and evaluation. Dordrecht: Foris.
+Govier, T. (1999). The Philosophy of Argument. Newport News, VA: Vale Press.
+Hitchcock, David (2007). "Informal logic and the concept of argument". In Jacquette, Dale (ed.). Philosophy of logic. Elsevier. ISBN 978-0-444-51541-4. preprint
+Johnson, R. H. (1992). The problem of defining critical thinking. In S. P. Norris (Ed.), The generalizability of critical thinking (pp. 38–53). New York: Teachers College Press. (Reprinted in Johnson (1996).)
+Johnson, R. H. (1996). The rise of informal logic. Newport News, VA: Vale Press
+Johnson, R. H. (1999). The relation between formal and informal logic. Argumentation, 13(3) 265–74.
+Johnson, R. H. (2000). Manifest rationality: A pragmatic theory of argument. Mahwah, NJ: Lawrence Erlbaum Associates.
+Johnson, R. H. & Blair, J. A. (1987). The current state of informal logic. Informal Logic 9, 147–51.
+Johnson, R. H. & Blair, J. A. (1996). Informal logic and critical thinking. In F. van Eemeren, R. Grootendorst, & F. Snoeck Henkemans (Eds.), Fundamentals of argumentation theory (pp. 383–86). Mahwah, NJ: Lawrence Erlbaum Associates
+Johnson, R. H. & Blair, J. A. (2002). Informal logic and the reconfiguration of logic. In D. Gabbay, R. H. Johnson, H.-J. Ohlbach and J. Woods (Eds.). Handbook of the logic of argument and inference: The turn towards the practical (pp. 339–396). Elsivier: North Holland.
+MacFarlane, J. (2005). Logical Constants. Stanford Encyclopedia of Philosophy.
+Massey, G. (1981). The fallacy behind fallacies. Midwest Studies of Philosophy, 6, 489–500.
+Munson, R. (1976). The way of words: an informal logic. Boston: Houghton Mifflin.
+Resnick, L. (1987). Education and learning to think. Washington, DC: National Academy Press..
+Walton, D. N. (1990). What is reasoning? What is an argument? The Journal of Philosophy, 87, 399–419.
+Weinstein, M. (1990) Towards a research agenda for informal logic and critical thinking. Informal Logic, 12, 121–143.
+Wenzel, J. 1990 Three perspectives on argumentation. In R Trapp and J Scheutz, (Eds.), Perspectives on argumentation: Essays in honour of Wayne Brockreide, 9-26 Waveland Press: Prospect Heights, IL
+Woods, J. (1980). What is informal logic? In J.A. Blair & R. H. Johnson (Eds.), Informal Logic: The First International Symposium (pp. 57–68). Point Reyes, CA: Edgepress.
+
+Special journal issue
+The open access issue 20(2) of Informal Logic from year 2000 groups a number of papers addressing foundational issues, based on the Panel on Informal Logic that was held at the 1998 World Congress of Philosophy, including:
+
+Hitchcock, D. (2000) The significance of informal logic for philosophy. Informal Logic 20(2), 129–138.
+Johnson, R. H. & Blair, J. A. (2000). Informal logic: An overview. Informal Logic 20(2): 93–99.
+Woods, J. (2000). How Philosophical is Informal Logic? Informal Logic 20(2): 139–167. 2000
+
+Textbooks
+Kahane, H. (1971). Logic and contemporary rhetoric: The use of reasoning in everyday life. Belmont: Wadsworth. Still in print as Nancy Cavender; Howard Kahane (2009). Logic and Contemporary Rhetoric: The Use of Reason in Everyday Life (11th ed.). Cengage Learning. ISBN 978-0-495-80411-6.
+Scriven, Michael (1976). Reasoning. New York: McGraw-Hill. ISBN 978-0-07-055882-3.
+Johnson, R. H. & Blair, J. A. (1977). Logical self-defense. Toronto: McGraw-Hill Ryerson. US Edition. (2006). New York: Idebate Press.
+Fogelin, R.J. (1978). Understanding arguments: An introduction to informal logic. New York: Harcourt, Brace, Jovanovich. Still in print as Sinnott-Armstrong, Walter; Fogelin, Robert (2010), Understanding Arguments: An Introduction to Informal Logic (8th ed.), Belmont, California: Wadsworth Cengage Learning, ISBN 978-0-495-60395-5
+Stephen N. Thomas (1997). Practical reasoning in natural language (4th ed.). Prentice Hall. ISBN 978-0-13-678269-8.
+Irving M. Copi; Keith Burgess-Jackson (1996). Informal logic (3rd ed.). Prentice Hall. ISBN 978-0-13-229048-7.
+Woods, John; Irvine, Andrew; Walton, Douglas N. (2004). Argument: Critical Thinking, Logic and the Fallacies. Toronto: Pearson/Prentice Hall. ISBN 978-0-13-039938-0.
+Groarke, Leo (2004). Good reasoning matters! : a constructive approach to critical thinking (3rd ed.). Toronto: Oxford University Press. ISBN 978-0-19-541904-7.
+Douglas N. Walton (2008). Informal logic: a pragmatic approach (2nd ed.). Cambridge University Press. ISBN 978-0-521-71380-1.
+Trudy Govier (2009). A Practical Study of Argument (7th ed.). Cengage Learning. ISBN 978-0-495-60340-5.
+
+External links
+Groarke, Leo. "Informal Logic". In Zalta, Edward N. (ed.). Stanford Encyclopedia of Philosophy.
+An Outline for Verbal Logic

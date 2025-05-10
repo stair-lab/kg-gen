@@ -1,0 +1,15 @@
+In postal mail, a return address is an explicit inclusion of the address of the person sending the message. It provides the recipient (and sometimes authorized intermediaries) with a means to determine how to respond to the sender of the message if needed.
+The return address should include an address or P.O. box details in the same way as the delivery address should. In most countries such as the United States, Canada, Australia, France, the return address is located in the upper left-hand corner of the envelope, card, or label, which is also recommended by the Universal Postal Union. In the United Kingdom, the return address is usually placed on the reverse of the envelope, after the words "Return address".
+Businesses often use envelopes preprinted with a return address. Many individuals have sheets of adhesive labels preprinted with their home address to affix to their correspondence. Charities sometimes include such sheets in mailshots.  Rolls of return address labels can be purchased from companies that sell personalized labels to provide individuals an easy way to peel and stick return address labels to their envelopes.
+The return address is not required on postal mail. However, lack of a return address prevents the postal service from being able to return the item if it proves undeliverable; such as from damage, postage due, or invalid destination. Such mail may otherwise become dead letter mail.
+
+History
+The return address has been used on US postage since the 1880s. As pressure printing became more commonplace during the early 1900s, labels became cheaper and more easily distributed. The profession involved with producing these labels was known as lithography.
+During the 1950s in the United States, more and more mail was not arriving at intended recipients, and as a result of the lack of a return address, said mail ended up in the dead letter office. With this rise in dead mail, the post office pleaded for people to use a return address. Even after this, the public still tended to neglect to add a return address. This prompted the postmaster to inform the public that mail without a return address would be less of a priority than mail with a return address.
+Still, the public did not widely use a return address until the 1960s when companies began to offer deals for preprinted return labels such as 2,500 labels for $2.00. They became more popular with the invention of label dispensers. With the invention of the personal computer, software enabled people to print their own labels. As email began to overtake written mail, the return address became automatic in an e-mail.
+
+See also
+Nixie (postal)
+
+
+== References ==

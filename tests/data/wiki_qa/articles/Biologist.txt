@@ -1,0 +1,57 @@
+A biologist is a scientist who conducts research in biology. Biologists are interested in studying life on Earth, whether it is an individual cell, a multicellular organism, or a community of interacting populations. They usually specialize in a particular branch (e.g., molecular biology, zoology, and evolutionary biology) of biology and have a specific research focus (e.g., studying malaria or cancer).
+Biologists who are involved in basic research have the aim of advancing knowledge about the natural world. They conduct their research using the scientific method, which is an empirical method for testing hypotheses. Their discoveries may have applications for some specific purpose such as in biotechnology, which has the goal of developing medically useful products for humans.
+In modern times, most biologists have one or more academic degrees such as a bachelor's degree, as well as an advanced degree such as a master's degree or a doctorate. Like other scientists, biologists can be found working in different sectors of the economy such as in academia, nonprofits, private industry, or government.
+
+History
+Francesco Redi, the founder of biology, is recognized to be one of the greatest biologists of all time. Robert Hooke, an English natural philosopher, coined the term cell, suggesting plant structure's resemblance to honeycomb cells.
+Charles Darwin and Alfred Wallace independently formulated the theory of evolution by natural selection, which was described in detail in Darwin's book On the Origin of Species, which was published in 1859. In it, Darwin proposed that the features of all living things, including humans, were shaped by natural processes of descent with accumulated modification leading to divergence over long periods of time. The theory of evolution in its current form affects almost all areas of biology. Separately, Gregor Mendel formulated the principles of inheritance in 1866, which became the basis of modern genetics.
+In 1953, James D. Watson and Francis Crick described the basic structure of DNA, the genetic material for expressing life in all its forms, building on the work of Maurice Wilkins and Rosalind Franklin, suggested that the structure of DNA was a double helix.
+Ian Wilmut led a research group that in 1996 first cloned a mammal from an adult somatic cell, a Finnish Dorset lamb named Dolly.
+
+Education
+An undergraduate degree in biology typically requires coursework in molecular and cellular biology, development, ecology, genetics, microbiology, anatomy, physiology, botany, and zoology. Additional requirements may include physics, chemistry (general, organic, and biochemistry), calculus, and statistics.
+Students who aspire to a research-oriented career usually pursue a graduate degree such as a master's or a doctorate (e.g., PhD) whereby they would receive training from a research head based on an apprenticeship model that has been in existence since the 1800s. Students in these graduate programs often receive specialized training in a particular subdiscipline of biology.
+
+Research
+Biologists who work in basic research formulate theories and devise experiments to advance human knowledge on life including topics such as evolution, biochemistry, molecular biology, neuroscience and cell biology.
+Biologists typically conduct laboratory experiments involving animals, plants, microorganisms or biomolecules. However, a small part of biological research also occurs outside the laboratory and may involve natural observation rather than experimentation. For example, a botanist may investigate the plant species present in a particular environment, while an ecologist might study how a forest area recovers after a fire.
+Biologists who work in applied research use instead the accomplishments gained by basic research to further knowledge in particular fields or applications. For example, this applied research may be used to develop new pharmaceutical drugs, treatments and medical diagnostic tests. Biological scientists conducting applied research and product development in private industry may be required to describe their research plans or results to non-scientists who are in a position to veto or approve their ideas. These scientists must consider the business effects of their work.
+Swift advances in knowledge of genetics and organic molecules spurred growth in the field of biotechnology, transforming the industries in which biological scientists work. Biological scientists can now manipulate the genetic material of animals and plants, attempting to make organisms (including humans) more productive or resistant to disease. Basic and applied research on biotechnological processes, such as recombining DNA, has led to the production of important substances, including human insulin and growth hormone. Many other substances not previously available in large quantities are now produced by biotechnological means. Some of these substances are useful in treating diseases.
+Those working on various genome (chromosomes with their associated genes) projects isolate genes and determine their function. This work continues to lead to the discovery of genes associated with specific diseases and inherited health risks, such as sickle cell anemia. Advances in biotechnology have created research opportunities in almost all areas of biology, with commercial applications in areas such as medicine, agriculture, and environmental remediation.
+
+Specializations
+Most biological scientists specialize in the study of a certain type of organism or in a specific activity, although recent advances have blurred some traditional classifications.
+
+Geneticists study genetics, the science of genes, heredity, and variation of organisms.
+Neuroscientists study the nervous system.
+Developmental biologists study the process of development and growth of organisms
+Biochemists study the chemical composition of living things. They analyze the complex chemical combinations and reactions involved in metabolism, reproduction, and growth.
+Molecular biologists study the biological activity between biomolecules.
+Microbiologists investigate the growth and characteristics of microscopic organisms such as bacteria, algae, or fungi.
+Physiologists study life functions of plants and animals,  in the whole organism and at the cellular or molecular level, under normal and abnormal conditions. Physiologists often specialize in functions such as growth, reproduction, photosynthesis, respiration, or movement, or in the physiology of a certain area or system of the organism.
+Biophysicists use experimental methods traditionally employed in physics to answer biological questions .
+Computational biologists apply the techniques of computer science, applied mathematics and statistics to address biological problems. The main focus lies on developing mathematical modeling and computational simulation techniques. By these means it addresses scientific research topics with their theoretical and experimental questions without a laboratory.
+Zoologists and wildlife biologists study animals and wildlife—their origin, behavior, diseases, and life processes. Some experiment with live animals in controlled or natural surroundings, while others dissect dead animals to study their structure. Zoologists and wildlife biologists also may collect and analyze biological data to determine the environmental effects of current and potential uses of land and water areas. Zoologists usually are identified by the animal group they study. For example, ornithologists study birds, mammalogists study mammals, herpetologists study reptiles and amphibians, ichthyologists study fish, cnidariologists study jellyfishes and entomologists study insects.
+Botanists study plants and their environments. Some study all aspects of plant life, including algae, lichens, mosses, ferns, conifers, and flowering plants; others specialize in areas such as identification and classification of plants, the structure and function of plant parts, the biochemistry of plant processes, the causes and cures of plant diseases, the interaction of plants with other organisms and the environment, the geological record of plants and their evolution.  Mycologists study fungi, such as yeasts, mold and mushrooms, which are a separate kingdom from plants.
+Aquatic biologists study micro-organisms, plants, and animals living in water. Marine biologists study salt water organisms, and limnologists study fresh water organisms. Much of the work of marine biology centers on molecular biology, the study of the biochemical processes that take place inside living cells. Marine biology is a branch of oceanography, which is the study of the biological, chemical, geological, and physical characteristics of oceans and the ocean floor. (See the Handbook statements on environmental scientists and hydrologists and on geoscientists.)
+Ecologists investigate the relationships among organisms and between organisms and their environments, examining the effects of population size, pollutants, rainfall, temperature, and altitude. Using knowledge of various scientific disciplines, ecologists may collect, study, and report data on the quality of air, food, soil, and water.
+Evolutionary biologists investigate the evolutionary processes that produced the diversity of life on Earth, starting from a single common ancestor. These processes include natural selection, common descent, and speciation.
+
+Employment
+Biologists typically work regular hours but longer hours are not uncommon. Researchers may be required to work odd hours in laboratories or other locations (especially while in the field), depending on the nature of their research.
+Many biologists depend on grant money to fund their research. They may be under pressure to meet deadlines and to conform to rigid grant-writing specifications when preparing proposals to seek new or extended funding.
+Marine biologists encounter a variety of working conditions. Some work in laboratories; others work on research ships, and those who work underwater must practice safe diving while working around sharp coral reefs and hazardous marine life. Although some marine biologists obtain their specimens from the sea, many still spend a good deal of their time in laboratories and offices, conducting tests, running experiments, recording results, and compiling data.
+Biologists are not usually exposed to unsafe or unhealthy conditions. Those who work with dangerous organisms or toxic substances in the laboratory must follow strict safety procedures to avoid contamination. Many biological scientists, such as botanists, ecologists, and zoologists, conduct field studies that involve strenuous physical activity and primitive living conditions. Biological scientists in the field may work in warm or cold climates, in all kinds of weather.
+
+Honors and awards
+The highest honor awarded to biologists is the Nobel Prize in Physiology or Medicine, awarded since 1901, by the Royal Swedish Academy of Sciences. Other significant awards include the Crafoord Prize in Biosciences (established in 1980), and the Maxwell/Hanrahan Award in Field Biology (established in 2020).
+
+See also
+Biology
+Glossary of biology
+List of biologists
+Lists of biologists by author abbreviation
+
+References
+
+U.S. Department of Labor, Occupational Outlook Handbook

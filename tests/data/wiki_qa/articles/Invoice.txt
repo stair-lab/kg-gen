@@ -1,0 +1,101 @@
+An invoice, bill, tab, or bill of costs is a commercial document that includes an itemized list of goods or services furnished by a seller to a buyer relating to a sale transaction, that usually specifies the price and terms of sale, quantities, and agreed-upon prices and terms of sale for products or services the seller had provided the buyer.
+Payment terms are usually stated on the invoice. These may specify that the buyer has a maximum number of days to pay and is sometimes offered a discount if paid before the due date. The buyer could have already paid for the products or services listed on the invoice. To avoid confusion and consequent unnecessary communications from buyer to seller, some sellers clearly state in large and capital letters on an invoice whether it has already been paid.
+From a seller's point of view, an invoice is a sales invoice. From a buyer's point of view, an invoice is a purchase invoice. The document indicates the buyer and seller, but the term invoice indicates money is owed or owing.
+
+History
+Invoices appear as one of the very earliest manifestations of written records in ancient Mesopotamia. The practice of invoicing can be traced back to ancient civilizations. Around 5,000 years ago, merchants in Mesopotamia used cuneiform script on clay tablets to document trade transactions, including details such as quantities, prices, and the parties involved. These records functioned as contracts and receipts. In ancient Egypt, transactions and tax records were documented on papyrus scrolls, serving as an early method of financial record-keeping. The invention of paper in China around AD 105 facilitated advancements in documentation, eventually spreading to the Middle East and Europe.
+During the Middle Ages, European merchants began using handwritten invoices to detail sales transactions, often recording information such as dates, descriptions of goods, quantities and prices. The printing press was introduced in the 15th century that enabled the production of standardized invoice forms, contributing to more consistent financial documentation.
+By the 19th century, printed invoices became widespread, with businesses incorporating elements such as company names, addresses, and logos. The 20th and 21st centuries saw the transition to digital and automated invoicing systems, further improving efficiency and record-keeping practices.
+
+Format
+The typical format of an invoice starts with a header prominently featuring the term "Invoice". This is usually followed by information needed to establish the context of the transactions such as the name, address, and contact information of the parties involved (e.g. buyer and seller) and important dates such as when payment must be received. The main body of the invoice provides an itemized list of goods or services rendered, specifying descriptions, unit prices, quantities, and total prices for each line item. Additional financial elements like taxes, shipping charges, and discounts are separately enumerated and added to the subtotal to calculate the grand total amount due. The invoice often concludes with standardized elements or other information not included in the pre-body. This structured format serves various functions, including billing, accounting, auditing, and, in cases of disagreement, legal evidence for dispute resolution.
+Header
+
+The word "Invoice"
+Seller's logo
+Invoice Number
+Seller's and Buyer's Contact Information
+Invoice Date
+Payment Due Date
+Shipping Information
+Date of sending or delivery of the goods or service;
+Credit Terms
+Purchase-order number (or similar tracking numbers requested by the buyer to be mentioned on the invoice);
+Body
+
+List of Goods/Services
+Description of the product(s);
+Unit price(s) of the product(s), if relevant;
+Subtotal
+Tax amounts, if relevant (e.g., GST or VAT);
+Discounts
+Shipping Charges
+Total Amount Due
+Footer
+
+Payment details (such as indicating one or more acceptable methods of payment, and details about charges for late payments, etc.);
+Credit Terms
+Tax or company registration details of the seller, if relevant, e.g. ABN for Australian businesses or VAT number for businesses in the EU;
+Advanced details (including vehicle no, LR no., LR date, mode of transport, net weight, gross weight, tare weight, out time, freight type, driver name, drive contact no. etc.)
+In countries where wire transfer is the preferred method of settling debts, the printed bill will contain the bank account number of the creditor and usually a reference code to be passed along with the transaction identifying the payer.
+The European Union requires a VAT (value-added tax) identification number for official VAT invoices, which all VAT-registered businesses are required to issue to their customers. In the UK, this number may be omitted on invoices if the words "this is not a VAT invoice" are present on the invoice. Such an invoice is called a pro-forma invoice, and is not an adequate substitute for a full VAT invoice for VAT-registered customers.
+In Canada, the registration number for GST purposes must be furnished for all supplies over $30 made by a registered supplier in order to claim input tax credits.
+Recommendations about invoices used in international trade are also provided by the UNECE Committee on Trade, which involves a more detailed description of the logistics aspect of merchandise and, therefore may be convenient for international logistics and customs procedures.
+
+Variations
+There are different types of invoices:
+
+Pro forma invoice – In foreign trade, a pro forma invoice is a document that states a commitment from the seller to provide specified goods to the buyer at specific prices. It is often used to declare value for customs. It is not an actual invoice, and thus the seller does not record a pro forma invoice as an account receivable and the buyer does not record a pro forma invoice as an account payable. A pro forma invoice is not issued by the seller until the seller and buyer have agreed to the terms of the order. In a few cases, a pro forma invoice is issued to request advance payments from the buyer, either to allow production to start or for security of the goods produced.
+Credit memo - If the buyer returns the goods, the seller usually issues a credit memo for the same or lower amount than the invoice, and then refunds the money to the buyer, or the buyer can apply that credit memo to another invoice.
+Commercial invoice - a customs declaration form used in international trade that describes the parties involved in the shipping transaction, the goods being transported, and the value of the goods. It is the primary document used by customs, and must meet specific customs requirements, such as the Harmonized System number and the country of manufacture. It is used to calculate tariffs.
+Debit memo - When a company fails to pay or short-pays an invoice, it is common practice to issue a debit memo for the balance and any late fees owed. In function, debit memos are identical to invoices.
+Self-billing invoice - A self billing invoice is used when a buyer issues the invoice to themselves (e.g. according to the consumption levels he is taking out of a vendor-managed inventory stock). The buyer (i.e. the issuer) should treat the invoice as an account payable and the seller should treat it as an account receivable. If there is tax on the sale, e.g. VAT or GST, then the buyer and seller may need to adjust their tax accounts in accordance with tax legislation. Under Article 224 of the EU VAT Directive, self-billing processes may only be used "if there is a prior agreement between the two parties and provided that a procedure exists for the acceptance of each invoice" by the supplier. A Self-Billing Agreement will usually provide for the supplier not to issue their own sales invoices as well.
+Evaluated receipt settlement (ERS) - ERS is a process of paying for goods and services from a packing slip rather than from a separate invoice document. The payee uses data in the packing slip to apply for the payments. "In an ERS transaction, the supplier ships goods based upon an Advance Shipping Notice (ASN), and the purchaser, upon receipt, confirms the existence of a corresponding purchase order or contract, verifies the identity and quantity of the goods, and then pays the supplier."
+Timesheet - Invoices for hourly services issued by businesses such as lawyers and consultants often pull data from a timesheet. A timesheet invoice may also be generated by Operated equipment rental companies where the invoice will be a combination of timesheet based charges and equipment rental charges.
+Statement - A periodic customer statement includes opening balance, invoices, payments, credit memos, debit memos, and ending balance for the customer's account during a specified period. A monthly statement can be used as a summary invoice to request a single payment for accrued monthly charges.
+Progress billing used to obtain partial payment on extended contracts, particularly in the construction industry (see Schedule of values)
+Collective Invoicing is also known as monthly invoicing in Japan. Japanese businesses tend to have many orders with small amounts because of the outsourcing system (Keiretsu), or of demands for less inventory control (Kanban). To save the administration work, invoicing is normally processed on monthly basis.
+Continuation Invoicing or Recurring Invoicing is standard within the equipment rental industry, including tool rental. A recurring invoice is one generated on a cyclical basis during the lifetime of a rental contract. For example, if you rent an excavator from 1 January to 15 April, on a calendar monthly arrears billing cycle, you would expect to receive an invoice at the end of January, another at the end of February, another at the end of March and a final Off-rent invoice would be generated at the point when the asset is returned. The same principle would be adopted if you were invoiced in advance, or if you were invoiced on a specific day of the month.
+Electronic Invoicing is not necessarily the same as EDI invoicing. Electronic invoicing in its widest sense embraces EDI as well as XML invoice messages as well as other formats such as Acrobat/PDF. Historically, formats such as PDF were not included in the wider definition of an electronic invoice because they were not machine readable and the process benefits of an electronic message could not be achieved. However, as data extraction techniques have evolved and as environmental concerns have begun to dominate the business case for the implementation of electronic invoicing, other formats are now incorporated into the wider definition.
+
+Electronic
+Some invoices are no longer paper-based, but rather transmitted electronically over the Internet. It is still common for electronic remittance or invoicing to be printed in order to maintain paper records. Standards for electronic invoicing vary widely from country to country. Electronic Data Interchange (EDI) standards such as the United Nation's EDIFACT standard include message encoding guidelines for electronic invoices. The EDIFACT is followed up in the UN/CEFACT ebXML syntax cross industry invoice.
+
+EDIFACT
+The United Nations standard for electronic invoices ("INVOIC") includes standard codes for transmitting header information (common to the entire invoice) and codes for transmitting details for each of the line items (products or services). The "INVOIC" standard can also be used to transmit credit and debit memos.
+In the European Union legislation was passed in 2010 in the form of directive 2010/45/EU to facilitate the growth of Electronic Invoicing across all its member states. This legislation caters for varying VAT and inter-country invoicing requirements within the EU, in addition to legislating for the authenticity and integrity of invoices being sent electronically. It is estimated that in 2011 alone roughly 5 million EU businesses will have sent Electronic Invoices.
+
+Open Application Group Integration Specification from OAGi
+The XML message format for electronic invoices has been used since the inception of XML in 1998. Open Application Group Integration Specification (OAGIS) has included an invoice since 2001. The Open Applications Group (OAGi) has a working relationship with UN/CEFACT where OAGi and its members participate in defining many of the Technology and Methodology specifications. OAGi also includes support for these Technology and Methodology specifications within OAGIS.
+
+CEFACT and UBL
+There are two XML-based standards currently being developed. One is the cross industry invoice under development by the United Nations standards body UN/CEFACT and the other is Universal Business Language (UBL) which is issued by Organization for the Advancement of Structured Information Standards (OASIS). Implementations of invoices based on UBL are common, most importantly in the public sector in Denmark as it was the first country where the use of UBL was mandated by law for all invoices in the public sector. Further implementations are underway in the Scandinavian countries as result of the North European Subset project. Implementations are also underway in Italy, Spain, and the Netherlands (UBL 2.0) and with the European Commission itself.
+The NES work has been transferred to European Committee for Standardization (CEN), the standards body of the European Union), workshop CEN/BII, for public procurement in Europe. The result of that work is PEPPOL. There UBL procurement documents are implemented between various European countries.
+An agreement was made between UBL and UN/CEFACT for convergence of the two XML messages standards with the objective of merging the two standards into one before end of 2009, including the provision of an upgrade path for implementations started in either standard.
+
+ISDOC
+ISDOC is a standard that was developed in the Czech Republic as a universal format for electronic invoices. On 16 October 2008, 14 companies and the Czech government signed a declaration to use this format within one year in their products.
+
+E-invoicing
+After implantation of the Goods and Services Tax (GST) in India, concept of e-invoicing has been introduced for businesses with a turnover of more than Rs 5 crore from 1 August 2023. Now reporting of Business to Business (B2B) invoices for notified category of taxpayer. As of 2022, Business to Consumer (B2C) invoices are exempt from e-invoicing.
+
+Payment
+Organizations purchasing goods and services usually have a process in place for approving payment of invoices based on an employee's confirmation that the goods or services have been received.
+Typically, when paying an invoice, a remittance advice will be sent to the supplier to inform them their invoice has been paid.
+Non-payment and late payment of invoices is estimated to be the cause of 25% of corporate bankruptcies. To mitigate this, the European Commission has introduced the Late Payment Directive that sets a limit on businesses to settle their invoices within 60 days.
+
+See also
+Australian Business Number
+Bill of lading
+Cash collection
+Commercial invoice
+Document automation
+Dunning
+List of accounting roles
+Order (business)
+Order fulfillment
+Receipt
+Category:Financial regulation
+
+
+== References ==

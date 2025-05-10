@@ -1,0 +1,654 @@
+The semicolon ; (or semi-colon) is a symbol commonly used as orthographic punctuation. In the English language, a semicolon is most commonly used to link (in a single sentence) two independent clauses that are closely related in thought, such as when restating the preceding idea with a different expression. When a semicolon joins two or more ideas in one sentence, those ideas are then given equal rank. Semicolons can also be used in place of commas to separate items in a list, particularly when the elements of the list themselves have embedded commas.
+The semicolon is one of the least understood of the standard marks, and is not frequently used by many English speakers.
+In the QWERTY keyboard layout, the semicolon resides in the unshifted homerow beneath the little finger of the right hand and has become widely used in programming languages as a statement separator or terminator.
+
+History
+In 1496, the semicolon ; is attested in Pietro Bembo's book De Aetna printed by Aldo Manuzio. The punctuation also appears in later writings of Bembo. Moreover, it is used in 1507 by Bartolomeo Sanvito, who was close to Manuzio's circle.: 49 
+In 1561, Manuzio's grandson, also called Aldo Manuzio, explains the semicolon's use with several examples in Orthographiae ratio. In particular, Manuzio motivates the need for punctuation (interpungō) to divide (distinguō) sentences and thereby make them understandable. The comma, semicolon, colon, and period are seen as steps, ascending from low to high; the semicolon thereby being an intermediate value between the comma , and colon :. Here are four examples used in the book to illustrate this:: 49 
+
+Publica, privata; sacra, profana; tua, aliena.
+Public, private; sacred, profane; thine, another's.
+
+Ratio docet, si adversa fortuna sit, nimium dolendum non esse; si secunda, moderate laetandum.
+Reason teaches, if fortune is adverse, not to complain too much; if favorable, to rejoice in moderation.
+
+Tu, quid divitiae valeant, libenter spectas; quid virtus, non item.
+You, what riches are worth, gladly consider; what virtue (is worth), not so much.
+
+Etsi ea perturbatio est omnium rerum, ut suae quemque fortunae maxime paeniteat; nemoque sit, quin ubivis, quam ibi, ubi est, esse malit: tamen mihi dubium non est, quin hoc tempore bono viro, Romae esse, miserrimum sit.
+Although it is a universal confusion of affairs(,) such that everyone regrets their own fate above all others; and there is no one, who would not rather anywhere else in the world, than there, where he is, prefer to be: yet I have no doubt, at the present time for an honest man, to be in Rome, is the worst form of misery.
+
+Around 1580, Henry Denham starts using the semicolon "with propriety" for English texts, and more widespread usage picks up in the next decades.: 52 
+Around 1640, in Ben Jonson's book The English Grammar, the character ; is described as "somewhat a longer breath" compared to the comma. The aim of the breathing, according to Jonson, is to aid understanding.
+In 1644, in Richard Hodges' The English Primrose, it is written:
+
+At a comma, stop a little;
+[...]
+At a semi-colon, somewhat more;
+[...]
+At a colon, a little more than the former;
+[...]
+At a period, make a full stop;
+
+In 1762, in Robert Lowth's A Short Introduction to English Grammar, a parallel is drawn between punctuation marks and rest in music:
+
+The Period is a pause in quantity or duration double of the Colon; the Colon is double of the Semicolon; and the Semicolon is double of the Comma. So that they are in the same proportion to one another as the Sembrief, the Minim, the Crotchet, and the Quaver, in Music.
+
+In 1798, in Lindley Murray's English Grammar, the semicolon is introduced as follows:
+
+The Semicolon is used for dividing a compound sentence into two or more parts, not so closely connected as those which are separated by a comma, nor yet so little dependent on each other, as those which are distinguished by a colon.
+The semicolon is sometimes used, when the preceding member of the sentence does not of itself give a complete sense, but depends on the following clause; and sometimes when the sense of that member would be complete without the concluding one; as in the following instances.
+
+Natural languages
+English
+Although terminal marks (i.e. full stops, exclamation marks, and question marks) indicate the end of a sentence, the comma, semicolon, and colon are normally inside sentences, making them secondary boundary marks. In modern English orthography, the semicolon falls between terminal marks and the comma; its strength is equal to that of the colon.
+The most common use of the semicolon is to join two independent clauses without using a conjunction such as "and". Semicolons are followed by a lower case letter, unless that letter would ordinarily be capitalised mid-sentence (e.g., the word "I", acronyms/initialisms, or proper nouns). In older English printed texts, colons and semicolons are offset from the preceding word by a non-breaking space, a convention still current in modern continental French texts. Ideally, the space is less wide than the inter-word spaces. Some guides recommend separation by a hair space. Modern style guides recommend no space before them and one space after. They also typically recommend placing semicolons outside ending quotation marks, although this was not always the case. For example, the first edition of The Chicago Manual of Style (1906) recommended placing the semicolon inside ending quotation marks.
+Uses of the semicolon in English include:
+
+Between items in a series or listing when the items contain internal punctuation, especially parenthetic commas, where the semicolons function as the serial commas for the series or listing. The semicolon divides the items on the list from each other, to avoid having a jumble of commas with differing functions which could cause confusion for the reader. This is sometimes called the "super comma" function of the semicolon:
+The people present were Jamie, a man from New Zealand; John, the milkman's son; and George, a gaunt kind of man with no friends.
+Several fast food restaurants can be found within the following cities: London, England; Paris, France; Dublin, Ireland; and Madrid, Spain.
+Here are three examples of familiar sequences: one, two, and three; a, b, and c; first, second, and third.
+(Fig. 8; see also plates in Harley 1941, 1950; Schwab 1947).
+Between closely related independent clauses not conjoined with a coordinating conjunction, when the two clauses are balanced, opposed or contradictory:
+My wife said she would like tea; coffee would have been my choice.
+I went to the basketball court; it was closed for cleaning.
+I told Kate she's running for the hills; she knew I was joking.
+In rare instances, when a comma replaces a period (full stop) in a quotation, or when a quotation otherwise links two independent sentences:
+"I have no use for this," he said; "you are welcome to it."
+"Is this your book?" she asked; "I found it on the floor."
+In a list or sequence, if even one item needs its own internal comma, use of the semicolon as the separator throughout that list is justified, as shown by this example from the California Penal Code:A crime or public offense is an act committed or omitted in violation of a law forbidding or commanding it, and to which is annexed, upon conviction, either of the following punishments:
+Death;
+Imprisonment;
+Fine;
+Removal from office; or,
+Disqualification to hold and enjoy any office of honor, trust, or profit in this State.
+
+Arabic
+In Arabic, the semicolon is called fasila manqoota (Arabic: فاصلة منقوطة) which means literally "a dotted comma", and is written inverted ؛. In Arabic, the semicolon has several uses:
+
+It can be used between two phrases, in which the first phrase causes the second.
+Example: "He played a lot; so, his clothes became dirty". (Arabic: لَعِبَ كَثِيرًا؛ فَٱتَّسَخَتْ مَلَابِسُهُ.)
+It can be used between two phrases, where the second is a reason for the first.
+Example: "Your sister did not get high marks; she didn't study". (Arabic: لم تحقق أختك درجات عالية؛ لأنها لم تدرس .)
+
+Greek and Church Slavonic
+In Greek and Church Slavonic, the question mark looks exactly the way a semicolon looks in English, similar to the question mark used in Latin. To indicate a long pause or to separate sections that already contain commas (the semicolon's purposes in English), Greek uses, but extremely rarely, the interpunct · (Greek: άνω τελεία, romanized: áno teleía, lit. 'upper dot').
+Church Slavonic with a question mark: гдѣ єсть рождeйсѧ царь їудeйскій; (Where is the one who is born king of the Jews? – Matthew 2:1)
+Greek with a question mark: Τι είναι μια διασύνδεση; (What is a connection?)
+
+French
+In French, a semicolon (point-virgule, literally "dot-comma") is a separation between two full sentences, used where neither a colon nor a comma would be appropriate. The phrase following a semicolon has to be an independent clause, related to the previous one but not explaining it. (When the second clause explains the first one, French consistently uses a colon.)
+The dash character is used in French writing too, but not as widely as the semicolon. Usage of these devices (semicolon and dash) varies from author to author.
+
+Literature
+Some authors have avoided and rejected the use of the semicolon throughout their works. Lynne Truss stated:
+
+Samuel Beckett spliced his way merrily through such novels as Molloy and Malone Dies, thumbing his nose at the semicolon all the way. James Joyce preferred the colon, as he thought it was more authentically classical. P. G. Wodehouse did an effortlessly marvelous job without it, George Orwell tried to avoid the semicolon completely in Coming Up for Air (1939), Martin Amis included just one semicolon in Money (1984), and Umberto Eco was congratulated by an academic reader for using zero semicolons in The Name of the Rose (1983).
+In response to Truss, Ben Macintyre, a columnist in The Times,  wrote:
+
+Americans have long regarded the semi-colon with suspicion, as a genteel, self-conscious, neither-one-thing-nor-the other sort of punctuation mark, with neither the butchness of a full colon nor the flighty promiscuity of the comma. Hemingway, Chandler, and Stephen King wouldn't be seen dead in a ditch with a semi-colon (though Truman Capote might). Real men, goes the unwritten rule of American punctuation, don't use semi-colons.
+Semicolon use in British fiction has declined by 25% from 1991 to 2021.
+
+Character encoding
+In Unicode, the semicolon is encoded at U+003B ; SEMICOLON; this is the same value as it had in ASCII and ISO 8859-1.
+Unicode contains encoding for several other semicolon or semicolon-like characters:
+
+U+037E ; GREEK QUESTION MARK
+U+061B ؛ ARABIC SEMICOLON – Arabic script
+U+1364 ፤ ETHIOPIC SEMICOLON – Geʽez script
+U+204F ⁏ REVERSED SEMICOLON – used in old writing systems, such as Hungarian Runic and Sindhi language
+U+236E ⍮ APL FUNCTIONAL SYMBOL SEMICOLON UNDERBAR – used in the APL programming language
+U+2E35 ⸵ TURNED SEMICOLON – "indicates sudden glottal closure" in the International Phonetic Alphabet
+U+A6F6 ꛶ BAMUM SEMICOLON – Bamum script
+U+FE14 ︔ PRESENTATION FORM FOR VERTICAL SEMICOLON – determines orientation when wide-character scripts are written vertically instead of horizontally
+U+FE54 ﹔ SMALL SEMICOLON – Small Form Variants are for compatibility with Chinese National Standard CNS 11643
+U+FF1B ； FULLWIDTH SEMICOLON – for use in wide-character scripts such as kanji
+U+E003B  TAG SEMICOLON – deprecated tags block
+
+Computing
+Programming
+In computer programming, the semicolon is often used to separate multiple statements (for example, in Perl, Pascal, and SQL; see Pascal: Semicolons as statement separators). In other languages, semicolons are called terminators and are required after every statement (such as in PL/I, Java, and the C family). Today semicolons as terminators has largely won out, but this was a divisive issue in programming languages from the 1960s into the 1980s. An influential and frequently cited study in this debate was Gannon & Horning (1975), which concluded strongly in favor of semicolon as a terminator: "The most important [result] was that having a semicolon as a statement terminator was better than having a semicolon as a statement separator." The study has been criticized as flawed by proponents of semicolon as a separator, due to participants being familiar with a semicolon-as-terminator language and unrealistically strict grammar. Nevertheless, the debate ended in favor of semicolon as terminator. Therefore, semicolon provides structure to the programming language.
+Semicolons are optional in a number of languages, including BCPL, Python, R, Eiffel, and Go, meaning that they are part of the formal grammar for the language but can be inferred in many or all contexts (e.g., by end of line that ends a statement, as in Go and R). As languages can be designed without them, semicolons are considered an unnecessary nuisance by some.
+The use of semicolons in control-flow structures and blocks of code is varied – semicolons are generally omitted after a closing brace, but included for a single statement branch of a control structure (the "then" clause), except in Pascal, where a semicolon terminates the entire if...then...else clause (to avoid dangling else) and thus is not allowed between a "then" and the corresponding "else", as this causes unnesting.
+This use originates with ALGOL 60 and falls between the comma , –  used as a list separator –  and the period/full stop . –  used to mark the end of the program. The semicolon, as a mark separating statements, corresponds to the ordinary English usage of separating independent clauses and gives the entire program the gross syntax of a single ordinary sentence. Of these other characters, whereas commas have continued to be widely used in programming for lists (and rare other uses, such as the comma operator that separates expressions in C), they are rarely used otherwise, and the period as the end of the program has fallen out of use. The last major use of the comma, semicolon, and period hierarchy is in Erlang (1986), where commas separate expressions; semicolons separate clauses, both for control flow and for function clauses; and periods terminate statements, such as function definitions or module attributes, not the entire program. Drawbacks of having multiple different separators or terminators (compared to a single terminator and single grouping, as in semicolon-and-braces) include mental overhead in selecting punctuation, and overhead in rearranging code, as this requires not only moving lines around, but also updating the punctuation.
+In some cases the distinction between a separator and a terminator is strong, such as early versions of Pascal, where a final semicolon yields a syntax error. In other cases a final semicolon is treated either as optional syntax or as being followed by a null statement, which is either ignored or treated as a NOP (no operation or null command); compare trailing commas in lists. In some cases a blank statement is allowed, allowing a sequence of semicolons or the use of a semicolon by itself as the body of a control-flow structure. For example, a blank statement (a semicolon by itself) stands for a NOP in C/C++, which is useful in busy waiting synchronization loops.
+APL uses semicolons to separate declarations of local variables: 61  and to separate axes when indexing multidimensional arrays, for example, matrix[2;3].: 220, 275 
+Other languages (for instance, some assembly languages and LISP dialects, CONFIG.SYS and INI files) use semicolons to mark the beginning of comments.
+Example C code:
+
+Or in JavaScript:
+
+Conventionally, in many languages, each statement is written on a separate line, but this is not typically a requirement of the language. In the above examples, two statements are placed on the same line; this is legal, because the semicolon separates the two statements. Thus programming languages like Java, the C family, Javascript etc. use semicolons to obtain a proper structure in the respective languages.
+
+Data
+The semicolon is often used to separate elements of a string of text. For example, multiple e-mail addresses in the "To" field in some e-mail clients have to be delimited by a semicolon.
+In Microsoft Excel, the semicolon is used as a list separator, especially in cases where the decimal separator is a comma, such as  0,32; 3,14; 4,50, instead of 0.32, 3.14, 4.50.
+In Lua, semicolons or commas can be used to separate table elements.
+In MATLAB and GNU Octave, the semicolon can be used as a row separator when defining a vector or matrix (whereas a comma separates the columns within a row of a vector or matrix) or to execute a command silently, without displaying the resulting output value in the console.
+In HTML, a semicolon is used to terminate a character entity reference, either named or numeric. The declarations of a style attribute in Cascading Style Sheets (CSS) are separated and terminated with semicolons.
+The file system of RSX-11 and OpenVMS, Files-11, uses semicolons to indicate a file's version number. The semicolon is permitted in long filenames in the Microsoft Windows file systems NTFS and VFAT, but not in its short names.
+In some delimiter-separated values file formats, the semicolon is used as the separator character, as an alternative to comma-separated values.
+
+Mathematics
+In mathematical derivations, a semicolon is used to separate expressions in a sequence, similar to its use in spoken English, and may be considered either punctuation for the mathematical expressions, or as punctuation for the words spoken when reading the expressions. For example, completing the square:
+
+  
+    
+      
+         
+        
+           
+          G
+          i
+          v
+          e
+          n
+           
+        
+        
+        a
+        
+          x
+          
+            2
+          
+        
+        +
+        b
+        x
+        +
+        c
+        =
+        0
+        
+        
+           
+          a
+          n
+          d
+           
+        
+        
+        a
+        ≠
+        0
+         
+        ;
+      
+    
+    {\displaystyle ~\mathrm {~Given~} \;ax^{2}+bx+c=0\quad \mathrm {~and~} \quad a\neq 0\ ;}
+  
+
+  
+    
+      
+         
+        
+          [
+          
+            
+              x
+              
+                2
+              
+            
+            +
+            2
+             
+            
+              
+                b
+                
+                   
+                  2
+                  a
+                   
+                
+              
+            
+            x
+            +
+            
+              
+                (
+                
+                  
+                    b
+                    
+                       
+                      2
+                      a
+                       
+                    
+                  
+                
+                )
+              
+              
+                2
+              
+            
+          
+          ]
+        
+        −
+        
+          
+            (
+            
+              
+                b
+                
+                   
+                  2
+                  a
+                   
+                
+              
+            
+            )
+          
+          
+            2
+          
+        
+        +
+        
+          
+            
+               
+              c
+               
+            
+            a
+          
+        
+        =
+        0
+        
+        
+           
+          f
+          o
+          r
+           
+          a
+          l
+          l
+           
+        
+        
+        a
+        ≠
+        0
+        ,
+         
+         
+        
+           
+          a
+          n
+          d
+           
+          a
+          n
+          y
+           
+        
+        
+        b
+        ,
+        c
+         
+        ;
+      
+    
+    {\displaystyle \ \left[x^{2}+2\ {\frac {b}{\ 2a\ }}x+\left({\frac {b}{\ 2a\ }}\right)^{2}\right]-\left({\frac {b}{\ 2a\ }}\right)^{2}+{\frac {\ c\ }{a}}=0\qquad \mathrm {~for\ all~} \;a\neq 0,~~\mathrm {~and\ any~} \;b,c\ ;}
+  
+
+  
+    
+      
+         
+        
+          
+            [
+            
+              x
+              +
+              
+                
+                  b
+                  
+                     
+                    2
+                    a
+                     
+                  
+                
+              
+            
+            ]
+          
+          
+            2
+          
+        
+        =
+        
+          
+            (
+            
+              
+                b
+                
+                   
+                  2
+                  a
+                   
+                
+              
+            
+            )
+          
+          
+            2
+          
+        
+        −
+        
+          
+            
+               
+              c
+               
+            
+            a
+          
+        
+         
+        ;
+      
+    
+    {\displaystyle \ \left[x+{\frac {b}{\ 2a\ }}\right]^{2}=\left({\frac {b}{\ 2a\ }}\right)^{2}-{\frac {\ c\ }{a}}\ ;}
+  
+
+  
+    
+      
+         
+        
+          
+            |
+          
+        
+        x
+        +
+        
+          
+            b
+            
+               
+              2
+              a
+               
+            
+          
+        
+        
+          
+            |
+          
+        
+        =
+        
+          
+             
+            
+              
+                (
+                
+                  
+                    b
+                    
+                       
+                      2
+                      a
+                       
+                    
+                  
+                
+                )
+              
+              
+                2
+              
+            
+            −
+            
+              
+                
+                   
+                  c
+                   
+                
+                a
+              
+            
+             
+             
+          
+        
+        
+        
+           
+          i
+          f
+           
+        
+        
+        x
+        +
+        
+          
+            b
+            
+               
+              2
+              a
+               
+            
+          
+        
+        ∈
+        
+          R
+        
+        
+        
+           
+          a
+          n
+          d
+           
+        
+        
+        
+          
+            (
+            
+              
+                b
+                
+                   
+                  2
+                  a
+                   
+                
+              
+            
+            )
+          
+          
+            2
+          
+        
+        −
+        
+          
+            
+               
+              c
+               
+            
+            a
+          
+        
+        ≥
+        0
+         
+        .
+      
+    
+    {\displaystyle \ {\Biggl |}x+{\frac {b}{\ 2a\ }}{\Biggr |}={\sqrt {\ \left({\frac {b}{\ 2a\ }}\right)^{2}-{\frac {\ c\ }{a}}~~}}\qquad \mathrm {~if~} \quad x+{\frac {b}{\ 2a\ }}\in \mathbb {R} \quad \mathrm {~and~} \quad \left({\frac {b}{\ 2a\ }}\right)^{2}-{\frac {\ c\ }{a}}\geq 0~.}
+  
+
+In the argument list of a mathematical function 
+  
+    
+      
+         
+        f
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+         
+        
+          x
+          
+            2
+          
+        
+        ,
+         
+        …
+         
+        ;
+         
+        
+          a
+          
+            1
+          
+        
+        ,
+         
+        
+          a
+          
+            2
+          
+        
+        ,
+         
+        …
+        )
+        
+        ,
+      
+    
+    {\displaystyle \ f(x_{1},\ x_{2},\ \dots \ ;\ a_{1},\ a_{2},\ \dots )\;,}
+  
+ a semicolon may be used to separate variables from fixed parameters.
+In differential geometry and tensor analysis a semicolon preceding an index is used to indicate the covariant derivative of a function with respect to the coordinate associated with that index.
+In the calculus of relations, the semicolon is used in infix notation for the composition of relations: 
+  
+    
+      
+        A
+        ;
+        B
+         
+        =
+         
+        {
+        (
+        x
+        ,
+        z
+        )
+        :
+        ∃
+        y
+         
+         
+        x
+        A
+        y
+         
+        ∧
+         
+        y
+        B
+        z
+        }
+         
+        .
+      
+    
+    {\displaystyle A;B\ =\ \{(x,z):\exists y\ \ xAy\ \land \ yBz\}~.}
+  
+
+In piecewise functions, a semicolon or comma may follow the subfunction or subdomain; the 
+  
+    
+      
+        
+          if
+        
+      
+    
+    {\displaystyle {\text{if}}}
+  
+ or 
+  
+    
+      
+        
+          for
+        
+      
+    
+    {\displaystyle {\text{for}}}
+  
+ can be omitted, in which case it seems replaced by the semicolon or comma.
+The ; Humphrey point is sometimes used as the "decimal point" in duodecimal numbers: 54;612 equals 64.510.
+
+Other uses
+The semicolon is commonly used as parts of emoticons, in order to indicate winking or crying, as in ;) and ;_;.
+Project Semicolon is the name of an anti-suicide initiative (since the semicolon continues a sentence rather than ending it) which has led to the punctuation mark becoming a highly symbolic and popular tattoo (most commonly done on the wrist).  While some consider this to be faith-based, the movement is in general faith-neutral and is inclusive for all people.
+
+See also
+Colon – Punctuation mark with two dots
+Comma – Punctuation mark (,)
+Full stop – Punctuation to signal the end of a sentence (.)
+
+Notes
+References
+Sources
+
+Gannon, J. D.; Horning, J. J. (1975). The impact of language design on the production of reliable software. Proceedings of the international conference on Reliable software. pp. 10–22. doi:10.1145/800027.808420.
+Truss, Lynn (2004). Eats, Shoots & Leaves: The Zero Tolerance Approach to Punctuation. New York: Gotham Books. ISBN 1-59240-087-6.
+
+Further reading
+Collins, Paul (20 June 2008). "Has Modern Life Killed the Semicolon?". Slate. Retrieved 23 January 2019.
+Hacker, Diana (2008). The Bedford Handbook (6th ed.). Boston: Bedford/St. Martin's. ISBN 978-0-312-41281-4.
+Henley, Jon (3 April 2008). "The End of the Line?". The Guardian. London. Retrieved 23 January 2019.
+Roberts, Sam (19 February 2008) [18 February 2008]. "Delegating the Semicolon in a Most Unlikely Location". The New York Times. p. B3 [as "Celebrating the Semicolon in a Most Unlikely Location"]. Retrieved 23 January 2019.
+Watson, Cecelia (2019). Semicolon – The Past, Present, and Future of a Misunderstood Mark. HarperCollins. ISBN 978-0062853059.

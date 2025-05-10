@@ -1,0 +1,178 @@
+Metformin, sold under the brand name Glucophage, among others, is the main first-line medication for the treatment of type 2 diabetes, particularly in people who are overweight. It is also used in the treatment of polycystic ovary syndrome, and is sometimes used as an off-label adjunct to lessen the risk of metabolic syndrome in people who take antipsychotic medication. It has been shown to inhibit inflammation, and is not associated with weight gain. Metformin is taken by mouth.
+Metformin is generally well tolerated. Common adverse effects include diarrhea, nausea, and abdominal pain. It has a small risk of causing low blood sugar. High blood lactic acid level (acidosis) is a concern if the medication is used in overly large doses or prescribed in people with severe kidney problems.
+Metformin is a biguanide anti-hyperglycemic agent. It works by decreasing glucose production in the liver, increasing the insulin sensitivity of body tissues, and increasing GDF15 secretion, which reduces appetite and caloric intake.
+Metformin was first described in the scientific literature in 1922 by Emil Werner and James Bell. French physician Jean Sterne began the study in humans in the 1950s. It was introduced as a medication in France in 1957. It is on the World Health Organization's List of Essential Medicines. It is available as a generic medication. In 2022, it was the second most commonly prescribed medication in the United States, with more than 86 million prescriptions. In Australia, it was one of the top 10 most prescribed medications between 2017 and 2023.
+
+Medical uses
+Metformin is used to lower the blood glucose in those with type 2 diabetes. It is also used as a second-line agent for infertility in those with polycystic ovary syndrome.
+
+Type 2 diabetes
+The American Diabetes Association and the American College of Physicians both recommend metformin as a first-line agent to treat type 2 diabetes. It is as effective as repaglinide and more effective than all other oral drugs for type 2 diabetes.
+
+Efficacy
+Treatment guidelines for major professional associations, including the European Association for the Study of Diabetes, the European Society for Cardiology, and the American Diabetes Association, describe evidence for the cardiovascular benefits of metformin as equivocal. A 2020 Cochrane systematic review did not find enough evidence of reduction of cardiovascular mortality, non-fatal myocardial infarction or non-fatal stroke when comparing metformin monotherapy to other glucose-lowering drugs, behavior change interventions, placebo or no intervention.
+The use of metformin reduces body weight in people with type 2 diabetes in contrast to sulfonylureas, which are associated with weight gain. Some evidence shows that metformin is associated with weight loss in obesity in the absence of diabetes. Metformin has a lower risk of hypoglycemia than the sulfonylureas, although hypoglycemia has uncommonly occurred during intense exercise, calorie deficit, or when used with other agents to lower blood glucose. Metformin modestly reduces low density lipoprotein and triglyceride levels.
+In individuals with prediabetes, a 2019 systematic review comparing the effects of metformin with other interventions in the reduction of risk of developing type 2 diabetes found moderate-quality evidence that metformin reduced the risk of developing type 2 diabetes when compared to diet and exercise or a placebo. However, when comparing metformin to intensive diet or exercise, moderate-quality evidence was found that metformin did not reduce risk of developing type 2 diabetes and very low-quality evidence was found that adding metformin to intensive diet or exercise did not show any advantage or disadvantage in reducing risk of type 2 diabetes when compared to intensive exercise and diet alone. The same review also found one suitable trial comparing the effects of metformin and sulfonylurea in reducing the risk of developing type 2 diabetes in prediabetic individuals, however, this trial did not report any patient-relevant outcomes.
+
+Polycystic ovary syndrome
+In those with polycystic ovary syndrome (PCOS), tentative evidence shows that metformin use increases the rate of live births. This includes those who have not been able to get pregnant with clomiphene. Metformin does not appear to change the risk of miscarriage. A number of other benefits have also been found both during pregnancy and in nonpregnant women with PCOS. In an updated Cochrane (2020) review on metformin versus placebo/no treatment before or during IVF/ICSI in women with PCOS no conclusive evidence of improved live birth rates was found. In long GnRH-agonist protocols there was uncertainty in the evidence of improved live birth rates but there could be increases in clinical pregnancy rate. In short GnRH-antagonist protocols metformin may reduce live birth rates with uncertainty on its effect on clinical pregnancy rate. Metformin may result in a reduction of OHSS but could come with a greater frequency of side effects. There was uncertainty as to metformin's impact on miscarriage. The evidence does not support general use during pregnancy for improving maternal and infant outcomes in obese women.
+The United Kingdom's National Institute for Health and Clinical Excellence recommended in 2004 that women with PCOS and a body mass index above 25 be given metformin for anovulation and infertility when other therapies fail to produce results. UK and international clinical practice guidelines do not recommend metformin as a first-line treatment or do not recommend it at all, except for women with glucose intolerance. The guidelines suggest clomiphene as the first medication option and emphasize lifestyle modification independently from medical treatment. Metformin treatment decreases the risk of developing type 2 diabetes in women with PCOS who exhibited impaired glucose tolerance at baseline.
+
+Diabetes and pregnancy
+A total review of metformin use during pregnancy compared to insulin alone found good short-term safety for both the mother and baby, but safety in the longer term is unclear. Several observational studies and randomized controlled trials found metformin to be as effective and safe as insulin for the management of gestational diabetes. Nonetheless, several concerns have been raised and evidence on the long-term safety of metformin for both mother and child is lacking. Compared with insulin, women with gestational diabetes treated with metformin gain less weight and are less likely to develop pre‐eclampsia during pregnancy. Babies born to women treated with metformin have less visceral fat, and this may make them less prone to insulin resistance in later life. The use of metformin for gestational diabetes resulted in smaller babies compared to treatment with insulin. However, despite initially lower birth weight, children exposed to metformin during pregnancy had accelerated growth after birth, and were heavier by mid-childhood than those exposed to insulin during pregnancy. This pattern of initial low birth weight followed by catch-up growth that surpasses comparative children has been associated with long-term cardiometabolic disease.
+A systematic review and meta-analysis of metformin, published in 2024, found that it is safe and effective in managing gestational diabetes or diabetes in pregnancy with no adverse impact on the mother or the child after eleven years of childbirth.
+
+Weight change
+Metformin use is typically associated with weight loss. It appears to be safe and effective in counteracting the weight gain caused by the antipsychotic medications olanzapine and clozapine. Although modest reversal of clozapine-associated weight gain is found with metformin, primary prevention of weight gain is more valuable.
+
+Use with insulin
+Metformin may reduce the insulin requirement in type 1 diabetes, albeit with an increased risk of hypoglycemia.
+
+Contraindications
+Metformin is contraindicated in people with:
+
+Severe renal impairment (estimated glomerular filtration rate (eGFR) below 30 mL/min/1.73 m2)
+Known hypersensitivity to metformin
+Acute or chronic metabolic acidosis, including diabetic ketoacidosis (from uncontrolled diabetes), with or without coma
+
+Adverse effects
+The most common adverse effect of metformin is gastrointestinal irritation, including diarrhea, cramps, nausea, vomiting, and increased flatulence. Metformin is more commonly associated with gastrointestinal adverse effects than most other antidiabetic medications. The most serious potential adverse effect of metformin is lactic acidosis; this complication is rare, and seems to be related to impaired liver or kidney function. Metformin is not approved for use in those with severe kidney disease, but may still be used at lower doses in those with kidney problems.
+
+Gastrointestinal
+Gastrointestinal upset can cause severe discomfort; it is most common when metformin is first administered, or when the dose is increased. The discomfort can often be avoided by beginning at a low dose (1.0 to 1.7 g/day) and increasing the dose gradually, but even with low doses, 5% of people may be unable to tolerate metformin. Use of slow or extended-release preparations may improve tolerability.
+Long-term use of metformin has been associated with increased homocysteine levels and malabsorption of vitamin B12. Higher doses and prolonged use are associated with increased incidence of vitamin B12 deficiency, and some researchers recommend screening or prevention strategies.
+
+Vitamin B12
+Metformin treatment has been associated with reductions in vitamin B12 in certain people. Left untreated, vitamin B12 deficiencies can lead to serious health problems including neurological problems and anemia. Although more research is needed to understand the mechanisms of this association, it is suggested that people who take metformin monitor their vitamin B12 levels and if low, begin supplementation. In most cases of deficiencies if the person's deficiency can be corrected with exogenous administration of vitamin B12, they can continue their metformin treatment under the supervision of their doctor.
+
+Lactic acidosis
+Lactic acidosis rarely occurs with metformin exposure during routine medical care. Rates of metformin-associated lactic acidosis are about nine per 100,000 persons/year, which is similar to the background rate of lactic acidosis in the general population. A systematic review concluded no data exists to definitively link metformin to lactic acidosis.
+Metformin is generally safe in people with mild to moderate chronic kidney disease, with a proportional reduction of metformin dose according to severity of estimated glomerular filtration rate (eGFR) and with periodic assessment of kidney function, (e.g., periodic plasma creatinine measurement). The US Food and Drug Administration (FDA) recommends avoiding the use of metformin in more severe chronic kidney disease, below the eGFR cutoff of 30 mL/minute/1.73 m2. Lactate uptake by the liver is diminished with metformin use because lactate is a substrate for hepatic gluconeogenesis, a process that metformin inhibits. In healthy individuals, this slight excess is cleared by other mechanisms (including uptake by unimpaired kidneys), and no significant elevation in blood levels of lactate occurs. Given severely impaired kidney function, clearance of metformin and lactate is reduced, increasing levels of both, and possibly causing lactic acid buildup. Because metformin decreases liver uptake of lactate, any condition that may precipitate lactic acidosis is a contraindication. Common causes include alcoholism (due to depletion of NAD+ stores), heart failure, and respiratory disease (due to inadequate tissue oxygenation); the most common cause is kidney disease.
+Metformin-associated lactate production may also take place in the large intestine, which could potentially contribute to lactic acidosis in those with risk factors. The clinical significance of this is unknown, though, and the risk of metformin-associated lactic acidosis is most commonly attributed to decreased hepatic uptake rather than increased intestinal production.
+
+Overdose
+The most common symptoms following an overdose include vomiting, diarrhea, abdominal pain, tachycardia, drowsiness, and rarely, hypoglycemia or hyperglycemia. Treatment of metformin overdose is generally supportive, as no specific antidote is known. Extracorporeal treatments are recommended in severe overdoses. Due to metformin's low molecular weight and lack of plasma protein binding, these techniques have the benefit of removing metformin from the blood plasma, preventing further lactate overproduction.
+Metformin may be quantified in blood, plasma, or serum to monitor therapy, confirm a diagnosis of poisoning, or assist in a forensic death investigation. Blood or plasma metformin concentrations are usually in a range of 1–4 mg/L in persons receiving therapeutic doses, 40–120 mg/L in victims of acute overdosage, and 80–200 mg/L in fatalities. Chromatographic techniques are commonly employed.
+The risk of metformin-associated lactic acidosis is also increased by a massive overdose of metformin, although even quite large doses are often not fatal.
+
+Interactions
+The H2-receptor antagonist cimetidine causes an increase in the plasma concentration of metformin by reducing clearance of metformin by the kidneys; both metformin and cimetidine are cleared from the body by tubular secretion, and both, particularly the cationic (positively charged) form of cimetidine, may compete for the same transport mechanism. A small double-blind, randomized study found the antibiotic cephalexin to also increase metformin concentrations by a similar mechanism; theoretically, other cationic medications may produce the same effect.
+Metformin also interacts with anticholinergic medications, due to their effect on gastric motility. Anticholinergic drugs reduce gastric motility, prolonging the time drugs spend in the gastrointestinal tract. This impairment may lead to more metformin being absorbed than without the presence of an anticholinergic drug, thereby increasing the concentration of metformin in the plasma and increasing the risk for adverse effects.
+
+Pharmacology
+Mechanism of action
+The molecular mechanism of metformin is not completely understood. Multiple potential mechanisms of action have been proposed: inhibition of the mitochondrial respiratory chain (complex I), activation of AMP-activated protein kinase (AMPK), inhibition of glucagon-induced elevation of cyclic adenosine monophosphate (cAMP) with reduced activation of protein kinase A (PKA), complex IV–mediated inhibition of the GPD2 variant of mitochondrial glycerol-3-phosphate dehydrogenase (thereby reducing the contribution of glycerol to hepatic gluconeogenesis), and an effect on gut microbiota.
+Metformin exerts an anorexiant effect in most people, decreasing caloric intake. Metformin decreases gluconeogenesis (glucose production) in the liver. Metformin inhibits basal secretion from the pituitary gland of growth hormone, adrenocorticotropic hormone, follicle stimulating hormone, and expression of proopiomelanocortin, which in part accounts for its insulin-sensitizing effect with multiple actions on tissues including the liver, skeletal muscle, endothelium, adipose tissue, and the ovaries. The average patient with type 2 diabetes has three times the normal rate of gluconeogenesis; metformin treatment reduces this by over one-third.
+Activation of AMPK was required for metformin's inhibitory effect on liver glucose production. AMPK is an enzyme that plays an important role in insulin signaling, whole-body energy balance, and the metabolism of glucose and fats. AMPK activation is required for an increase in the expression of small heterodimer partner, which in turn inhibited the expression of the hepatic gluconeogenic genes phosphoenolpyruvate carboxykinase and glucose 6-phosphatase. Metformin is frequently used in research along with AICA ribonucleotide as an AMPK agonist. The mechanism by which biguanides increase the activity of AMPK remains uncertain: metformin increases the concentration of cytosolic adenosine monophosphate (AMP) (as opposed to a change in total AMP or total AMP/adenosine triphosphate) which could activate AMPK allosterically at high levels; a newer theory involves binding to PEN-2. Metformin inhibits cyclic AMP production, blocking the action of glucagon, and thereby reducing fasting glucose levels. Metformin also induces a profound shift in the faecal microbial community profile in diabetic mice, and this may contribute to its mode of action possibly through an effect on glucagon-like peptide-1 secretion.
+In addition to suppressing hepatic glucose production, metformin increases insulin sensitivity, enhances peripheral glucose uptake (by inducing the phosphorylation of GLUT4 enhancer factor), decreases insulin-induced suppression of fatty acid oxidation, and decreases the absorption of glucose from the gastrointestinal tract. Increased peripheral use of glucose may be due to improved insulin binding to insulin receptors. The increase in insulin binding after metformin treatment has also been demonstrated in patients with type 2 diabetes.
+AMPK probably also plays a role in increased peripheral insulin sensitivity, as metformin administration increases AMPK activity in skeletal muscle. AMPK is known to cause GLUT4 deployment to the plasma membrane, resulting in insulin-independent glucose uptake. Some metabolic actions of metformin do appear to occur by AMPK-independent mechanisms, however, AMPK likely has a modest overall effect and its activity is not likely to directly decrease gluconeogenesis in the liver.
+Metformin has indirect antiandrogenic effects in women with insulin resistance, such as those with PCOS, due to its beneficial effects on insulin sensitivity. It may reduce testosterone levels in such women by as much as 50%. A Cochrane review, though, found that metformin was only slightly effective for decreasing androgen levels in women with PCOS.
+Metformin also has significant effects on the gut microbiome, such as its effect on increasing agmatine production by gut bacteria, but the relative importance of this mechanism compared to other mechanisms is uncertain.
+Due to its effect on GLUT4 and AMPK, metformin has been described as an exercise mimetic.
+
+Pharmacokinetics
+Metformin has an oral bioavailability of 50–60% under fasting conditions, and is absorbed slowly. Peak plasma concentrations (Cmax) are reached within 1–3 hours of taking immediate-release metformin and 4–8 hours with extended-release formulations. The plasma protein binding of metformin is negligible, as reflected by its very high apparent volume of distribution (300–1000 L after a single dose). Steady state is usually reached in 1–2 days.
+Metformin has acid dissociation constant values (pKa) of 2.8 and 11.5, so it exists very largely as the hydrophilic cationic species at physiological pH values. The metformin pKa values make it a stronger base than most other basic medications with less than 0.01% nonionized in blood. Furthermore, the lipid solubility of the nonionized species is slight as shown by its low logP value (log(10) of the distribution coefficient of the nonionized form between octanol and water) of −1.43. These chemical parameters indicate low lipophilicity and, consequently, rapid passive diffusion of metformin through cell membranes is unlikely. As a result of its low lipid solubility, it requires the transporter SLC22A1 for it to enter cells. The logP of metformin is less than that of phenformin (−0.84) because two methyl substituents on metformin impart lesser lipophilicity than the larger phenylethyl side chain in phenformin. More lipophilic derivatives of metformin are presently under investigation to produce prodrugs with superior oral absorption than metformin.
+Metformin is not metabolized. It is cleared from the body by tubular secretion and excreted unchanged in the urine; it is undetectable in blood plasma within 24 hours of a single oral dose. The average elimination half-life in plasma is 6.2 hours. Metformin is distributed to (and appears to accumulate in) red blood cells, with a much longer elimination half-life: 17.6 hours (reported as ranging from 18.5 to 31.5 hours in a single-dose study of nondiabetics).
+Some evidence indicates that liver concentrations of metformin in humans may be two to three times higher than plasma concentrations, due to portal vein absorption and first-pass uptake by the liver in oral administration.
+
+Chemistry
+Metformin hydrochloride (1,1-dimethylbiguanide hydrochloride) is freely soluble in water, slightly soluble in ethanol, but almost insoluble in acetone, ether, or chloroform. The pKa of metformin is 12.4. The usual synthesis of metformin, originally described in 1922, involves the one-pot reaction of dimethylamine hydrochloride and 2-cyanoguanidine over heat.
+
+According to the procedure described in the 1975 Aron patent, and the Pharmaceutical Manufacturing Encyclopedia, equimolar amounts of dimethylamine and 2-cyanoguanidine are dissolved in toluene with cooling to make a concentrated solution, and an equimolar amount of hydrogen chloride is slowly added. The mixture begins to boil on its own, and after cooling, metformin hydrochloride precipitates with a 96% yield.
+
+Impurities
+In December 2019, the US Food and Drug Administration (FDA) announced that it learned that some metformin medicines manufactured outside the United States might contain a nitrosamine impurity called N-nitrosodimethylamine (NDMA), classified as a probable human carcinogen, at low levels. Health Canada announced that it was assessing NDMA levels in metformin.
+In February 2020, the FDA found NDMA levels in some tested metformin samples that did not exceed the acceptable daily intake.
+In February 2020, Health Canada announced a recall of Apotex immediate-release metformin, followed in March by recalls of Ranbaxy metformin and in March by Jamp metformin.
+In May 2020, the FDA asked five companies to voluntarily recall their sustained-release metformin products. The five companies were not named, but they were revealed to be Amneal Pharmaceuticals, Actavis Pharma, Apotex Corp, Lupin Pharma, and Marksans Pharma Limited in a letter sent to Valisure, the pharmacy that had first alerted the FDA to this contaminant in metformin via a Citizen Petition.
+In June 2020, the FDA posted its laboratory results showing NDMA amounts in metformin products it tested. It found NDMA in certain lots of ER metformin and is recommending companies recall lots with levels of NDMA above the acceptable intake limit of 96 nanograms per day. The FDA is also collaborating with international regulators to share testing results for metformin.
+In July 2020, Lupin Pharmaceuticals pulled all lots (batches) of metformin after discovering unacceptably high levels of NDMA in tested samples.
+In August 2020, Bayshore Pharmaceuticals recalled two lots of tablets.
+The FDA issued revised guidelines about nitrosamine impurities in September 2024.
+
+History
+The biguanide class of antidiabetic medications, which also includes the withdrawn agents phenformin and buformin, originates from the plant Goat's rue (Galega officinalis) also known as Galega, French lilac, Italian fitch, Spanish sainfoin, Pestilenzkraut, or Professor-weed. (The plant should not be confused with plants in the genus Tephrosia which are highly toxic and sometimes also called Goat's rue.) Galega officinalis has been used in folk medicine for several centuries. G. officinalis itself does not contain biguanide medications which are chemically synthesized compounds composed of two guanidine molecules and designed to be less toxic than the plant-derived parent compounds guanidine and galegine (isoamylene guanidine).
+Metformin was first described in the scientific literature in 1922, by Emil Werner and James Bell, as a product in the synthesis of N,N-dimethylguanidine. In 1929, Slotta and Tschesche discovered its sugar-lowering action in rabbits, finding it the most potent biguanide analog they studied. This result was ignored, as other guanidine analogs such as the synthalins, took over and were themselves soon overshadowed by insulin.
+Interest in metformin resumed at the end of the 1940s. In 1950, metformin, unlike some other similar compounds, was found not to decrease blood pressure and heart rate in animals. That year, Filipino physician Eusebio Y. Garcia used metformin (he named it Fluamine) to treat influenza; he noted the medication "lowered the blood sugar to minimum physiological limit" and was not toxic. Garcia believed metformin to have bacteriostatic, antiviral, antimalarial, antipyretic, and analgesic actions. In a series of articles in 1954, Polish pharmacologist Janusz Supniewski was unable to confirm most of these effects, including lowered blood sugar. Instead, he observed antiviral effects in humans.
+French diabetologist Jean Sterne studied the antihyperglycemic properties of galegine, an alkaloid isolated from G. officinalis, which is related in structure to metformin, and had seen brief use as an antidiabetic before the synthalins were developed. Later, working at Laboratoires Aron in Paris, he was prompted by Garcia's report to reinvestigate the blood sugar-lowering activity of metformin and several biguanide analogs. Sterne was the first to try metformin on humans for the treatment of diabetes; he coined the name "Glucophage" (glucose eater) for the medication and published his results in 1957.
+It was introduced as a medication in France in 1957. Metformin became available in the British National Formulary in 1958. It was sold in the UK by a small Aron subsidiary called Rona.
+Broad interest in metformin was not rekindled until the withdrawal of the other biguanides in the 1970s. Metformin was approved in Canada in 1972, but did not receive approval by the U.S. Food and Drug Administration (FDA) for type 2 diabetes until 1994. Produced under license by Bristol-Myers Squibb, Glucophage was the first branded formulation of metformin to be marketed in the U.S., beginning on 3 March 1995. Generic formulations are available in several countries.
+The US FDA granted the application for metformin orphan drug designation. The European Medicines Agency granted orphan drug status to metformin.
+
+Society and culture
+Environmental impact
+Metformin and its major transformation product guanylurea are present in wastewater treatment plant effluents and regularly detected in surface waters. Guanylurea concentrations above 200 μg/L have been measured in the German river Erpe, which are amongst the highest reported for pharmaceutical transformation products in aquatic environments.
+
+Formulations
+Metformin is the British Approved Name (BAN), the United States Adopted Name (USAN), and the International Nonproprietary Name (INN). It is sold under several brand names. Common brand names include Glucophage, Riomet, Fortamet, and Glumetza in the US. In other areas of the world, there is also Obimet, Gluformin, Dianben, Diabex, Diaformin, Metsol, Siofor, Metfogamma and Glifor. There are several formulations of metformin available on the market, and all but the liquid form have generic equivalents.
+
+Combination with other medications
+When used for type 2 diabetes, metformin is often prescribed in combination with other medications. Several medications are available as fixed-dose combinations, with the potential to reduce pill burden, decrease cost, and simplify administration.
+
+Thiazolidinediones (glitazones)
+Rosiglitazone
+A combination of metformin and rosiglitazone was released in 2002, and sold as Avandamet by GlaxoSmithKline, or as a generic medication. Formulations are 500/1, 500/2, 500/4, 1000/2, and 1000 mg/4 mg of metformin/rosiglitazone.
+In 2009, it was the most popular metformin combination.
+In 2005, the stock of Avandamet was removed from the market, after inspections showed the factory where it was produced was violating good manufacturing practices. The medication pair continued to be prescribed separately, and Avandamet was again available by the end of that year. A generic formulation of metformin/rosiglitazone from Teva received tentative approval from the FDA and reached the market in early 2012.
+However, following a meta-analysis in 2007, that linked the medication's use to an increased risk of heart attack, concerns were raised over the safety of medicines containing rosiglitazone. In September 2010, the European Medicines Agency recommended that the medication be suspended from the European market because the benefits of rosiglitazone no longer outweighed the risks.
+It was withdrawn from the market in the UK and India in 2010, and in New Zealand and South Africa in 2011. From November 2011 until November 2013 the FDA did not allow rosiglitazone or metformin/rosiglitazone to be sold without a prescription; moreover, makers were required to notify patients of the risks associated with its use, and the drug had to be purchased by mail order through specified pharmacies.
+In November 2013, the FDA lifted its earlier restrictions on rosiglitazone after reviewing the results of the 2009 RECORD clinical trial (a six-year, open-label randomized control trial), which failed to show elevated risk of heart attack or death associated with the medication.
+
+Pioglitazone
+The combination of metformin and pioglitazone (Actoplus Met, Piomet, Politor, Glubrava) is available in the US and the European Union.
+
+DPP-4 inhibitors
+Dipeptidyl peptidase-4 inhibitors inhibit dipeptidyl peptidase-4 and thus reduce glucagon and blood glucose levels.
+DPP-4 inhibitors combined with metformin include a sitagliptin/metformin combination (Janumet), a saxagliptin/metformin combination (Kombiglyze XR, Komboglyze), and an alogliptin/metformin combination (Kazano, Vipdomet).
+Linagliptin combined with metformin hydrochloride is sold under the brand name Jentadueto. As of August 2021, linagliptin/metformin is available as a generic medicine in the US.
+
+SGLT2 inhibitors
+There are combinations of metformin with the SGLT2 inhibitors dapagliflozin, empagliflozin, and canagliflozin.
+
+Sulfonylureas
+Sulfonylureas act by increasing insulin release from the beta cells in the pancreas.
+A 2019 systematic review suggested that there is limited evidence if the combined use of metformin with sulfonylurea compared to the combination of metformin plus another glucose-lowering intervention, provides benefit or harm in mortality, severe adverse events, macrovascular and microvascular complications. Combined metformin and sulfonylurea therapy did appear to lead to a higher risk of hypoglycemia.
+Metformin is available combined with the sulfonylureas glipizide (Metaglip) and glibenclamide (US: glyburide) (Glucovance). Generic formulations of metformin/glipizide and metformin/glibenclamide are available (the latter is more popular).
+
+Meglitinide
+Meglitinides are similar to sulfonylureas, as they bind to beta cells in the pancreas, but differ by the site of binding to the intended receptor and the drugs' affinities to the receptor. As a result, they have a shorter duration of action compared to sulfonylureas and require higher blood glucose levels to begin to secrete insulin. Both meglitinides, known as nateglinide and repanglinide, are sold in formulations combined with metformin. A repaglinide/metformin combination is sold as Prandimet, or as its generic equivalent.
+
+Triple combination
+The combination of metformin with dapagliflozin and saxagliptin is available in the United States as Qternmet XR.
+The combination of metformin with pioglitazone and glibenclamide is available in India as Accuglim-MP, Adglim MP, and Alnamet-GP; and in the Philippines as Tri-Senza.
+The combination of metformin with pioglitazone and lipoic acid is available in Turkey as Pional.
+
+Research
+Metformin is a pleiotropic drug, with extensive off-target activity beyond its antidiabetic effect. Much of this has been attributed to its action on AMPK, although other mechanisms have been proposed. Metformin has been studied for its effects on multiple other conditions, including:
+
+Non-alcoholic fatty liver disease
+Premature puberty
+Cancer
+Cardiovascular disease in people with diabetes
+Aging
+
+Aging and life extension
+No evidence shows that metformin extends the human lifespan. Despite that, metformin has received substantial interest as an agent that delays aging; it has been shown to increase longevity in some animal models (e.g., C. elegans and crickets). This effect may be mediated by insulin and carbohydrate regulation, similar to its effects on diabetes. Whether metformin may help extend life, even in otherwise healthy people, remains unknown; a 2021 review of the literature found it is likely to improve healthspan, i.e., the number of years spent in good health, rather than lifespan overall.
+A 2017 review found that people with diabetes who were taking metformin had lower all-cause mortality. They also had reduced cancer and cardiovascular disease compared with those on other therapies. In people without diabetes, metformin does not appear to reduce the risk of cancer and cardiovascular disease.
+
+Cancer
+The potential anticancer effects of metformin are believed to be mediated through multiple pathways, particularly involving AMPK activation and IGF-1R modulation. Research has focused particularly on stomach cancer, with evidence of protective impact (reducing the risk of cancer) and improving survival rates among patients in whom cancer has already developed. Despite promising findings, evidence is still preliminary and there is no consensus on its preventive and therapeutic role.
+
+COVID-19
+A study found a benefit using metformin to reduce the occurrence of long COVID.
+It is unclear if there is a reduced risk of death using metformin to treat people with COVID-19.
+
+Neurological and neurodegenerative disorders
+There has been extensive research into the potential neuroprotective effects of metformin in developmental and neurodegenerative diseases, including Alzheimer's disease and other dementias, Parkinson's disease, Huntington's disease, certain types of epilepsy, and fragile X syndrome, with mixed results.
+Preliminary studies have examined whether metformin can reduce the risk of Alzheimer's disease and whether there is a correlation between type 2 diabetes and the risk of Alzheimer's disease.
+While metformin may reduce body weight in persons with fragile X syndrome, whether it improves neurological or psychiatric symptoms is uncertain.
+
+Derivatives
+A derivative HL156A, also known as IM156, is a potential new drug for medical use.
+
+References
+Further reading
+External links
+
+"Nitrosamine impurities in medications: Guidance". Health Canada. 4 April 2022.

@@ -1,0 +1,208 @@
+Blood urea nitrogen (BUN) is a medical test that measures the amount of urea nitrogen found in blood. The liver produces urea in the urea cycle as a waste product of the digestion of protein.  Normal human adult blood should contain 7 to 18 mg/dL (0.388 to 1 mmol/L) of urea nitrogen. Individual laboratories may have different reference ranges, as they may use different assays. The test is used to detect kidney problems. It is not considered as reliable as creatinine or BUN-to-creatinine ratio blood studies.
+
+Interpretation
+BUN is an indication of kidney health.  The normal range is 2.1–7.1 mmol/L or 6–20 mg/dL.
+The main causes of an increase in BUN are: high-protein diet, decrease in glomerular filtration rate (GFR) (suggestive of kidney failure), decrease in blood volume (hypovolemia), congestive heart failure, gastrointestinal hemorrhage, fever, rapid cell destruction from infections, athletic activity, excessive muscle breakdown, and increased catabolism.
+Hypothyroidism can cause both decreased GFR and hypovolemia, but BUN-to-creatinine ratio has been found to be lowered in hypothyroidism and raised in hyperthyroidism.
+The main causes of a decrease in BUN are malnutrition (low-protein diet), severe liver disease, anabolic state, and  syndrome of inappropriate antidiuretic hormone.
+
+Another rare cause of a decreased BUN is ornithine transcarbamylase deficiency, which is a genetic disorder inherited in an X-linked recessive pattern. OTC deficiency is also accompanied by hyperammonemia and high orotic acid levels.
+
+Units
+BUN is usually reported in mg/dL in some countries (e.g. United States, Mexico, Italy, Austria, and Germany). Elsewhere, the concentration of urea is reported in SI units as mmol/L.
+
+  
+    
+      
+        B
+        U
+        
+          N
+          
+            m
+            g
+            
+              /
+            
+            d
+            L
+          
+        
+      
+    
+    {\displaystyle BUN_{mg/dL}}
+  
+ represents the mass of nitrogen within urea/volume, not the mass of whole urea. Each molecule of urea has two nitrogen atoms, each having molar mass 14 g/mol. To convert from mg/dL of blood urea nitrogen to mmol/L of urea:
+
+  
+    
+      
+        U
+        r
+        e
+        
+          a
+          
+            m
+            m
+            o
+            l
+            
+              /
+            
+            L
+          
+        
+        =
+        B
+        U
+        
+          N
+          
+            m
+            m
+            o
+            l
+            
+              /
+            
+            L
+          
+        
+        =
+        B
+        U
+        
+          N
+          
+            m
+            g
+            
+              /
+            
+            d
+            L
+          
+        
+        ∗
+        
+          
+            
+              10
+              
+                d
+                L
+                
+                  /
+                
+                L
+              
+            
+            
+              14
+              ∗
+              2
+            
+          
+        
+        =
+        B
+        U
+        
+          N
+          
+            m
+            g
+            
+              /
+            
+            d
+            L
+          
+        
+        ∗
+        0.3571
+      
+    
+    {\displaystyle Urea_{mmol/L}=BUN_{mmol/L}=BUN_{mg/dL}*{\frac {10_{dL/L}}{14*2}}=BUN_{mg/dL}*0.3571}
+  
+
+Note that molar concentrations of urea and urea nitrogen are equal, because both nitrogen gas and urea has two nitrogen atoms.
+Convert BUN to urea in mg/dL by using following formula:
+
+  
+    
+      
+        U
+        r
+        e
+        
+          a
+          
+            m
+            g
+            
+              /
+            
+            d
+            L
+          
+        
+        =
+        B
+        U
+        
+          N
+          
+            m
+            g
+            
+              /
+            
+            d
+            L
+          
+        
+        ∗
+        
+          
+            60
+            
+              14
+              ∗
+              2
+            
+          
+        
+        =
+        B
+        U
+        
+          N
+          
+            m
+            g
+            
+              /
+            
+            d
+            L
+          
+        
+        ∗
+        2.14
+      
+    
+    {\displaystyle Urea_{mg/dL}=BUN_{mg/dL}*{\frac {60}{14*2}}=BUN_{mg/dL}*2.14}
+  
+
+Where 60 represents MW of urea and 14*2 MW of urea nitrogen.
+
+See also
+Kt/V
+Standardized Kt/V
+Urea reduction ratio
+Urine urea nitrogen
+
+
+== References ==

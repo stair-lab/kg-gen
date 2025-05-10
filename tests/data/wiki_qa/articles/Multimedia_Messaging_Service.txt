@@ -1,0 +1,56 @@
+Multimedia Messaging Service (MMS) is a standard way to send messages that include multimedia content to and from a mobile phone over a cellular network. Users and providers may refer to such a message as a PXT, a picture message, or a multimedia message. The MMS standard extends the core SMS (Short Message Service) capability, allowing the exchange of text messages greater than 160 characters in length. Unlike text-only SMS, MMS can deliver a variety of media, including up to forty seconds of video, one image, a slideshow of multiple images, or audio.
+Media companies have utilized MMS on a commercial basis as a method of delivering news and entertainment content, and retailers have deployed it as a tool for delivering scannable coupon codes, product images, videos, and other information. On (mainly) older devices, messages that start off with text, as SMS, are converted to and sent as an MMS when an emoji is added.
+The commercial introduction of MMS started in March 2002, although picture messaging had already been established in Japan. It was built using the technology of SMS as a captive technology which enabled service providers to "collect a fee every time anyone snaps a photo." MMS was designed to be able to work on the then-new GPRS and 3G networks and could be implemented through either a WAP-based or IP-based gateway. The 3GPP and WAP Forum groups fostered the development of the MMS standard, which was then continued by the Open Mobile Alliance (OMA).
+
+Technical description
+MMS messages are delivered in a different way from SMS. The first step is for the sending device to encode the multimedia content in a fashion similar to sending a MIME message (MIME content formats are defined in the MMS Message Encapsulation specification). The message is then forwarded to the carrier's MMS store and forward server, known as the MMSC (Multimedia Messaging Service Centre). If the receiver is on a carrier different from the sender, then the MMSC acts as a relay, and forwards the message to the MMSC of the recipient's carrier using the Internet.
+Once the recipient's MMSC has received a message, it first determines whether the receiver's handset is "MMS capable" or not.  If it supports the standards for receiving MMS, the content is extracted and sent to a temporary storage server with an HTTP front-end. An SMS "control message" containing the URL of the content is then sent to the recipient's handset to trigger the receiver's WAP browser to open and receive the content from the embedded URL. Several other messages are exchanged to indicate the status of the delivery attempt.  Before delivering content, some MMSCs also include a conversion service that will attempt to modify the multimedia content into a format suitable for the receiver. This is known as "content adaptation".
+
+If the receiver's handset is not MMS capable, the message is usually delivered to a web-based service from where the content can be viewed from a normal web browser. The URL for the content is usually sent to the receiver's phone in a normal text message. This behavior is usually known as a "legacy experience" since content can still be received by the user.
+The method for determining whether a handset is MMS capable is not specified by the standards. A database is usually maintained by the operator, and in it each mobile phone number is marked as being associated with a legacy handset or not. This method is unreliable, however, because customers can independently change their handsets, and many of these databases are not updated dynamically.
+MMS does not utilize operator-maintained "data" plans to distribute multimedia content; they are used only if the user clicks links inside the message.
+E-mail and web-based gateways to the MMS system are common. On the reception side, the content servers can typically receive service requests both from WAP and normal HTTP browsers, so delivery via the web is simple. For sending from external sources to handsets, most carriers allow a MIME encoded message to be sent to the receiver's phone number using a special e-mail address combining the recipient's public phone number and a special domain name, which is typically carrier-specific.
+
+Challenges
+There are some challenges with MMS that do not exist with SMS:
+
+Content adaptation: Multimedia content created by one brand of MMS phone may not be entirely compatible with the capabilities of the recipient's MMS phone. In the MMS architecture, the recipient MMSC is responsible for providing for content adaptation (e.g., image resizing, audio codec transcoding, etc.), if this feature is enabled by the mobile network operator.  When content adaptation is supported by a network operator, its MMS subscribers enjoy compatibility with a larger network of MMS users than would otherwise be available.
+Distribution lists: Current MMS specifications do not include distribution lists nor methods by which large numbers of recipients can be conveniently addressed, particularly by content providers, called Value-added service providers (VASPs) in 3GPP. Since most SMSC vendors have adopted FTP as an ad-hoc method by which large distribution lists are transferred to the SMSC prior to being used in a bulk-messaging SMS submission, it is expected that MMSC vendors will also adopt FTP.
+Bulk messaging: The flow of peer-to-peer MMS messaging involves several over-the-air transactions that become inefficient when MMS is used to send messages to large numbers of subscribers, as is typically the case for VASPs. For example, when one MMS message is submitted to a very large number of recipients, it is possible to receive a delivery report and read-reply report for each and every recipient. Future MMS specification work is likely to optimize and reduce the transactional overhead for the bulk-messaging case.
+Handset configuration: Unlike SMS, MMS requires a number of handset parameters to be set. Poor handset configuration is often blamed as the first point of failure for many users. Service settings are sometimes preconfigured on the handset, but mobile operators are now looking at new device management technologies as a means of delivering the necessary settings for data services (MMS, WAP, etc.) via over-the-air programming (OTA).
+WAP Push: Few mobile network operators offer direct connectivity to their MMSCs for content providers.  This has resulted in many content providers using WAP push as the only method available to deliver 'rich content' to mobile handsets.  WAP push enables 'rich content' to be delivered to a handset by specifying the URL (via binary SMS) of a pre-compiled MMS, hosted on a content provider's web server.  A consequence is that the receiver who pays WAP per kb or minute (as opposed to a flat monthly fee) pays for receiving the MMS, as opposed to only paying for sending one, and also paying a different rate.
+Although the standard does not specify a maximum size for a message, 300 kB and 600 kB are the recommended sizes used by networks for compatibility with MMS 1.2 and MMS 1.3 devices respectively. The limit for the first generation of MMS was 50 kB.
+
+Interfaces
+MM1: the 3GPP interface between MMS User Agent and MMS Center (MMSC, the combination of the MMS Relay & Server)
+MM2: the 3GPP interface between MMS Relay and MMS Server
+MM3: the 3GPP interface between MMSC and external servers
+MM4: the 3GPP interface between different MMSCs
+MM5: the 3GPP interface between MMSC and HLR
+MM6: the 3GPP interface between MMSC and user databases
+MM7: the 3GPP interface between MMS VAS applications and MMSC
+MM8: the 3GPP interface between MMSC and the billing systems
+MM9: the 3GPP interface between MMSC and an online charging system
+MM10: the 3GPP interface between MMSC and a message service control function
+MM11: the 3GPP interface between MMSC and an external transcoder
+
+Usage, decline and discontinuation
+Verizon launched its MMS service in July 2003. Between 2010 and 2013, MMS traffic in the U.S. increased by 70% from 57 billion to 96 billion messages sent. This is due in part to the wide adoption of smartphones. However take-up of MMS never matched the widespread popularity of SMS text messaging. 
+Due to lower cost and improved functionality provided by modern internet-based instant messengers such as WhatsApp, Telegram, and Signal, MMS usage has declined, and it has been discontinued by several telcos since the early 2020s. Countries with operators that have discontinued MMS include: India (BSNL; from 1 November 2015), Philippines (Sun Cellular, Smart Communications, TNT; from 28 September 2018), Singapore (Singtel, M1, Starhub; from 16 November 2021), Kazakhstan (Kcell; from 6 May 2022), Switzerland (Swisscom, Salt Mobile; from 10 January 2023), Germany (Vodafone; from 17 January 2023).
+RCS is intended to be the successor technology for MMS and SMS.
+
+See also
+Enhanced Messaging Service (EMS)
+Rich Communication Services (RCS)
+OTA bitmap, a Nokia specification for picture messaging
+Mobile marketing
+Short code
+Synchronized Multimedia Integration Language
+
+References
+External links
+
+"Multimedia Messaging Service 1.3". Open Mobile Alliance. Retrieved 14 Jan 2009.
+"Consumer Best Practices Guide for Cross-Carrier Mobile Content Programs (United States)" (PDF). Mobile Marketing Association. Archived from the original (PDF) on 17 December 2011. Retrieved 14 Jan 2009.
+Eicher, Richard (13 Jan 2009). "Advances in MMS offer interactive tools to mobile marketers". Mobile Marketer. Retrieved 14 Jan 2009.
+Morrison, Diane See (17 Sep 2008). "BMW MMS Campaign Gets 30 Percent Conversion Rate". mocoNews.net. Archived from the original on 21 September 2008. Retrieved 14 Jan 2009.

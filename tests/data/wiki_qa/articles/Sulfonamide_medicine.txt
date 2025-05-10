@@ -1,0 +1,47 @@
+Sulfonamide is a functional group (a part of a molecule) that is the basis of several groups of drugs, which are called sulphonamides, sulfa drugs or sulpha drugs. The original antibacterial sulfonamides  are synthetic antimicrobial agents that contain the sulfonamide group. Some sulfonamides are also devoid of antibacterial activity, e.g., the anticonvulsant sultiame. The sulfonylureas and thiazide diuretics are newer drug groups based upon the antibacterial sulfonamides.
+Allergies to sulfonamides are common. The overall incidence of adverse drug reactions to sulfa antibiotics is approximately 3%, close to penicillin; hence medications containing sulfonamides are prescribed carefully.
+Sulfonamide drugs were the first broadly effective antibacterials to be used systemically, and paved the way for the antibiotic revolution in medicine.
+
+Function
+In bacteria, antibacterial sulfonamides act as competitive inhibitors of the enzyme dihydropteroate synthase (DHPS), an enzyme involved in folate synthesis. Sulfonamides are therefore bacteriostatic and inhibit growth and multiplication of bacteria, but do not kill them. Humans, in contrast to bacteria, acquire folate (vitamin B9) through the diet.
+
+Sulfonamides are used to treat allergies and coughs, as well as having antifungal and antimalarial functions. The moiety is also present in other medications that are not antimicrobials, including thiazide diuretics (including hydrochlorothiazide, metolazone, and indapamide, among others), loop diuretics (including furosemide, bumetanide, and torsemide), acetazolamide, sulfonylureas (including glipizide, glyburide, among others), and some COX-2 inhibitors (e.g., celecoxib).
+Sulfasalazine, in addition to its use as an antibiotic, is also used in the treatment of inflammatory bowel disease.
+
+History
+Sulfonamide drugs were the first broadly effective antibacterials to be used systemically, and paved the way for the antibiotic revolution in medicine. The first sulfonamide, trade-named Prontosil, was a prodrug. Experiments with Prontosil began in 1932 in the laboratories of Bayer AG, at that time a component of the huge German chemical trust IG Farben. The Bayer team believed that coal-tar dyes which are able to bind preferentially to bacteria and parasites might be used to attack harmful organisms in the body. After years of fruitless trial-and-error work on hundreds of dyes, a team led by physician/researcher Gerhard Domagk (working under the general direction of IG Farben executive Heinrich Hörlein) finally found one that worked: a red dye synthesized by Bayer chemist Josef Klarer that had remarkable effects on stopping some bacterial infections in mice. The first official communication about the breakthrough discovery was not published until 1935, more than two years after the drug was patented by Klarer and his research partner Fritz Mietzsch.
+Prontosil, as Bayer named the new drug, was the first medicine ever discovered that could effectively treat a range of bacterial infections inside the body. It had a strong protective action against infections caused by streptococci, including blood infections, childbed fever, and erysipelas, and a lesser effect on infections caused by other cocci. However, it had no effect at all in the test tube, exerting its antibacterial action only in live animals. Later, it was discovered by Daniel Bovet, Federico Nitti, and Jacques and Thérèse Tréfouël, a French research team led by Ernest Fourneau at the Pasteur Institute, that the drug was metabolized into two parts inside the body, releasing from the inactive dye portion a smaller, colorless, active compound called sulfanilamide. The discovery helped establish the concept of "bioactivation" and dashed the German corporation's dreams of enormous profit; the active molecule sulfanilamide (or sulfa) had first been synthesized in 1906 and was widely used in the dye-making industry; its patent had since expired and the drug was available to anyone.
+The result was a sulfa craze. For several years in the late 1930s, hundreds of manufacturers produced myriad forms of sulfa. This and the lack of testing requirements led to the elixir sulfanilamide disaster in the fall of 1937, during which at least 100 people were poisoned with diethylene glycol. This led to the passage of the Federal Food, Drug, and Cosmetic Act in 1938 in the United States, giving authority to the U.S. Food and Drug Administration (FDA) to oversee the safety of food, drugs, medical devices, and cosmetics. As the first and only effective broad-spectrum antibiotic available in the years before penicillin, heavy use of sulfa drugs continued into the early years of World War II. They are credited with saving the lives of tens of thousands of patients, including Franklin Delano Roosevelt Jr. (son of US President Franklin Delano Roosevelt) and Winston Churchill. Sulfa had a central role in preventing wound infections during the war. American soldiers were issued a first-aid kit containing sulfa pills and powder and were told to sprinkle it on any open wound.
+The sulfanilamide compound is more active in the protonated form. The drug has very low solubility and sometimes can crystallize in the kidneys, due to its first pKa of around 10. This is a very painful experience, so patients are told to take the medication with copious amounts of water. Newer analogous compounds prevent this complication because they have a lower pKa, around 5–6, making them more likely to remain in a soluble form.
+Many thousands of molecules containing the sulfanilamide structure have been created since its discovery (by one account, over 5,400 permutations by 1945), yielding improved formulations with greater effectiveness and less toxicity. Sulfa drugs are still widely used for conditions such as acne and urinary tract infections, and are receiving renewed interest for the treatment of infections caused by bacteria resistant to other antibiotics.
+
+Preparation
+Sulfonamides are prepared by the reaction of a sulfonyl chloride with ammonia or an amine. Certain sulfonamides (sulfadiazine or sulfamethoxazole) are sometimes mixed with the drug trimethoprim, which acts against dihydrofolate reductase. As of 2013 Ireland is the largest exporter worldwide of sulfonamides, accounting for approximately 32% of total exports.
+
+Varieties
+Side effects
+Sulfonamides have the potential to cause a variety of adverse effects, including urinary tract disorders, haemopoietic disorders, porphyria and hypersensitivity reactions. When used in large doses, they may cause a strong allergic reaction. The most serious of these are classified as severe cutaneous adverse reactions (i.e. SCARs) and include the Stevens–Johnson syndrome, toxic epidermal necrolysis (also known as Lyell syndrome), the DRESS syndrome, and a not quite as serious SCARs reaction, acute generalized exanthematous pustulosis. Any one of these SCARs may be triggered by certain sulfonamides.
+Approximately 3% of the general population have adverse reactions when treated with sulfonamide antimicrobials. Of note is the observation that patients with HIV have a much higher prevalence, at about 60%.
+Hypersensitivity reactions are less common in nonantibiotic sulfonamides, and, though controversial, the available evidence suggests those with hypersensitivity to sulfonamide antibiotics do not have an increased risk of hypersensitivity reaction to the nonantibiotic agents. A key component to the allergic response to sulfonamide antibiotics is the arylamine group at N4, found in sulfamethoxazole, sulfasalazine, sulfadiazine, and the anti-retrovirals amprenavir and fosamprenavir. Other sulfonamide drugs do not contain this arylamine group; available evidence suggests that patients who are allergic to arylamine sulfonamides do not cross-react to sulfonamides that lack the arylamine group, and may therefore safely take non-arylamine sulfonamides. It has therefore been argued that the terms "sulfonamide allergy" or "sulfa allergy" are misleading and should be replaced by a reference to a specific drug (e.g., "cotrimoxazole allergy").
+Two regions of the sulfonamide antibiotic chemical structure are implicated in the hypersensitivity reactions associated with the class.
+
+The first is the N1 heterocyclic ring, which causes a type I hypersensitivity reaction.
+The second is the N4 amino nitrogen that, in a stereospecific process, forms reactive metabolites that cause either direct cytotoxicity or immunologic response.
+The nonantibiotic sulfonamides lack both of these structures.
+The most common manifestations of a hypersensitivity reaction to sulfa drugs are rash and hives. However, there are several life-threatening manifestations of hypersensitivity to sulfa drugs, including Stevens–Johnson syndrome, toxic epidermal necrolysis, agranulocytosis, hemolytic anemia, thrombocytopenia, fulminant hepatic necrosis, and acute pancreatitis, among others.
+
+See also
+Dihydropteroate synthase
+Elixir sulfanilamide
+Hellmuth Kleinsorge (1920–2001) German medical doctor
+PABA
+Timeline of antibiotics
+
+References
+External links
+List of sulfonamides
+A History of the Fight Against Tuberculosis in Canada (Chemotherapy)
+Presentation speech, Nobel Prize in Physiology and Medicine, 1939
+The History of WW II Medicine
+"Five Medical Miracles of the Sulfa Drugs". Popular Science, June 1942, pp. 73–78.
+A history of antibiotics

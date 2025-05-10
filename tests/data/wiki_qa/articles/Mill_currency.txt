@@ -1,0 +1,61 @@
+The mill (American English) or mil (Commonwealth English, except Canada) is a unit of currency, used in several countries as one-thousandth of the base unit. It is symbolized as ₥, the MILL SIGN character in Unicode. 
+In the United States, it is a notional unit equivalent to a thousandth of a United States dollar (a hundredth of a dime or a tenth of a cent). In the United Kingdom, it was proposed during the decades of discussion on decimalisation as a 1⁄1000 division of the pound sterling. While this system was never adopted in the United Kingdom, the currencies of some British or formerly British territories did adopt it, such as the Palestine pound and the Maltese lira.
+The term comes from the Latin "millesimum", meaning "thousandth part".
+
+Usage
+United States
+In the United States, the term was first used by the Continental Congress in 1786, being described as the "lowest money of account, of which 1000 shall be equal to the federal dollar".
+The Coinage Act of 1792 describes milles and other subdivisions of the dollar: 
+
+That the money of account of the United States shall be expressed in dollars or units, dismes or tenths, cents or hundredths, and milles or thousandths, a disme being the tenth part of a dollar, a cent the hundredth part of a dollar, a mille the thousandth part of a dollar, and that all accounts in the public offices and all proceedings in the courts of the United States shall be kept and had in conformity to this regulation.
+The US Mint in Philadelphia made half cents worth 5 mills each from 1793 to 1857.
+Tokens in this denomination were issued by some states and local governments (and by some private interests) for such uses as payment of sales tax. These were of inexpensive materials such as tin, aluminium, plastic or paper. Rising inflation depreciated the value of these tokens in relation to the value of their constituent materials; this depreciation led to their eventual abandonment. Virtually none were made after the 1960s.
+Today, most Americans would refer to fractions of a cent rather than mills, a term that is widely unknown.  For example, a gasoline price of $3.019 per gallon, if pronounced in full, would be "three dollars [and] one and nine-tenths cents" or "three <point> zero-one-nine dollars". Discount coupons, such as those for grocery items, usually include in their fine print a statement such as "Cash value less than 1⁄10 of 1 cent". There are also common occurrences of "half-cent" discounts on goods bought in quantity. However, the term "mill" is still used when discussing billing in the electric power industry as shorthand for the lengthier "1⁄1000 of a dollar per kilowatt hour". The term is also commonly used when discussing stock prices, the issuance of the founder's stock of a company, and cigarette taxes.
+
+Property tax
+Property taxes are also expressed in terms of mills per dollar assessed (a mill levy, known more widely in the US as a "mill rate"). For instance, with a millage rate of 2.8₥, a house with an assessment of $100,000 would be taxed (2.8 × 100,000) = 280,000₥, or $280.00. The term is often spelled "mil" when used in this context.
+With respect to property taxes, a "mil" is also slang for one million units of currency, especially as a rate expressed per mille "‰", as one million units of currency per milliard on the long scale of numeration, that is, 1,000,000 per 1,000,000,000 currency units of assessed valuation on all private property throughout the "mill yard" or property tax levy district.
+
+Finance
+The term mill is often used in finance, particularly in conjunction with equity market microstructure. For example, a broker that charges 5 mils per share is taking in $5 every 1000 shares traded.  Additionally, in finance the term is sometimes spelled "mil". Cf. basis point.
+Some exchanges allow prices to be accounted in ten-thousandths of a dollar ($29.4125 = 29,412.5₥ for example).  This last digit is sometimes called a "decimill" or "deci-mill", but no exchange officially recognizes the term.
+
+Fiction
+Mark Twain introduced a fictional elaboration of the mill in his 1889 novel A Connecticut Yankee in King Arthur's Court. When Hank Morgan, the American time traveler, introduces decimal currency to Arthurian Britain, he has it denominated in cents, mills, and "milrays", or tenths of a mill (the name perhaps suggested by "myriad", meaning ten thousand or by the Portuguese and Brazilian milreis).
+
+Canada
+In Canada, the mill rate system is fundamental for calculating property taxes at the municipal level, reflecting the amount of tax per $1,000 of assessed property value. Municipalities determine annual mill rates based on budget needs for public services like education, infrastructure, healthcare, and law enforcement.
+This calculation helps standardize property taxes while allowing flexibility to address specific financial needs in each locality. Mill rates are subject to adjustment annually or periodically, depending on factors like government spending requirements, economic conditions, and shifts in property valuations, providing a fair and balanced approach to local tax funding.
+For example, if a property is valued at $100,000 and the mill rate is set at 50, the tax due would be calculated as: 100,000 × (50 / 1000) = 5,000. This straightforward calculation offers transparency for taxpayers and aids municipalities in consistent revenue collection.
+
+United Kingdom
+Proposed on several occasions as a means of decimalising sterling under the "pound and mil" system suggested in 1855 by Sir William Brown MP, the mil was occasionally used in accounting.
+The 1862 report from the Select committee on Weights and Measures noted that the Equitable Insurance Company had been keeping accounts in mils (rather than in shillings and pence) for such purposes for over 100 years. Such a unit of a thousandth of a pound would have also been similar in value to the farthing coin (worth 1⁄960 of a pound).
+By the time British currency was decimalised in 1971, the farthing had been demonetised eleven years prior, in part due to having its value eroded by inflation; thus, the mil was no longer necessary.
+
+Malta
+The Maltese lira was decimalised in 1972 on the "pound and mil" system. The coinage included denominations of 2 mils, 3 mils, and 5 mils from 1972 to 1994, with 10 mils being equal to one cent. While prices could still be marked using mils until 2008, when the country switched to the euro, in practice these were rounded off for accounting purposes.
+
+Mandatory Palestine, Israel, Jordan
+The Palestine pound, used as the currency of the British Mandate for Palestine from 1927 to 1948, was divided into 1,000 mils. Its successor currencies, the Israeli lira and the Jordanian dinar retained the 1⁄1000 division, respectively named the pruta and fils. The Israeli pruta lasted until 1960, and the Jordanian fils until 1992, and in Supermarket prices and taxi meters well into the 21st century.
+
+Hong Kong
+Between 1863 and 1866 the one mil coin was the lowest denomination issued by the British government in Hong Kong; it was eliminated due to its unpopularity.
+
+Cyprus
+The Cypriot pound was decimalised using the "pound and mil" system in 1955 and lasting until 1983. However, coins smaller than 5 mils ceased being used in the mid 1960s. When switched to cents in 1983, a ½-cent coin was struck that was abolished a few years later.
+
+Tunisia
+Coins are minted in 10, 20, 50, and 100 millimes, thousandths of a Tunisian dinar.  Older coins of 5 millimes remain in circulation.
+
+Related units
+
+The Egyptian pound is divided into 1,000 milliemes, 10 milliemes equal 1 piastre (25 piastres is the smallest currently-minted coin).
+The Tunisian dinar is divided into 1,000 millimes (10 millimes is the smallest currently-minted coin).
+The Kuwaiti dinar, Bahraini dinar, Jordanian dinar, and Iraqi dinar are divided into 1,000 fils.  The smallest coins currently minted are 5 fils (Kuwait and Bahrain), 1/4 dinar (Jordan), 25 dinars (Iraq).
+The Omani rial is divided into 1,000 baisa.
+The Libyan dinar has been divided into 1,000 dirhams since 1971.
+The Japanese yen was formerly divided into 1,000 rin.  An early proposed (but not accepted) design for the 1-rin coin used "1 mil" in the Romanized text.
+
+
+== References ==

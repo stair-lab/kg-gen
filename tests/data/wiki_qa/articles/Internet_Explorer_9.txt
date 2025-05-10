@@ -1,0 +1,158 @@
+Internet Explorer 9 or IE9 (officially Windows Internet Explorer 9) is the ninth major version of the Internet Explorer web browser for Windows. It was released by Microsoft on March 14, 2011, as the successor to Internet Explorer 8. Microsoft released Internet Explorer 9 as a major out-of-band version that was not tied to the release schedule of any particular version of Windows, unlike previous versions. It is the first version of Internet Explorer not to be bundled with a Windows operating system, although some OEMs have installed it with Windows on their PCs.  It was the last version to be called Windows Internet Explorer. The software was rebranded simply as Internet Explorer starting with the release of Internet Explorer 10.
+Internet Explorer 9 supports ECMAScript 5 (ES5), several CSS 3 properties, and embedded ICC v2 or v4 color profiles support via Windows Color System, and has improved JavaScript performance. It was the last of the major web browsers to implement support for Scalable Vector Graphics (SVG). It also features hardware-accelerated graphics rendering using Direct2D, hardware-accelerated text rendering using DirectWrite, hardware-accelerated video rendering using Media Foundation, imaging support provided by Windows Imaging Component, and high fidelity printing powered by the XML Paper Specification (XPS) print pipeline. Internet Explorer 9 also supports the HTML media tags <video> and <audio> and the Web Open Font Format (WOFF).
+
+History
+Development
+Development of Internet Explorer 9 began shortly after Internet Explorer 8 was released. Microsoft began taking features suggestions through Microsoft Connect soon after Internet Explorer 8 was released. The Internet Explorer team focused on improving support and performance for HTML5, CSS3, SVG, XHTML, JavaScript, hardware acceleration, and the user interface featuring agility and "a clean new design".
+Microsoft first announced Internet Explorer 9 at PDC 2009 and spoke mainly about how it takes advantage of hardware acceleration in DirectX to improve the performance of web applications and improve the quality of web typography.
+Later, Microsoft announced that they had joined the W3C's SVG Working Group, which sparked speculation that Internet Explorer 9 will support the SVG W3C recommendation. This was proven to be true at MIX 10, where they demonstrated support for basic SVG markup and improved support for HTML5. They also announced that they would increase the support greatly by the time the first Internet Explorer 9 Beta was released. The Internet Explorer team also introduced the new JavaScript engine for 32-bit Internet Explorer 9, codenamed Chakra, which uses Just-in-time compilation to execute JavaScript as native code. In mid-September 2011, the Acid3 test was revised to remove a few "antiquated and unusual" tests, and as a result, IE9 now passes the test with a score of 100/100.
+At MIX 10, the first Internet Explorer 9 Platform Preview was released, which featured support for CSS3 and SVG, a new JavaScript engine called Chakra, and a score of 55/100 on the Acid3 test, up from 20/100 for Internet Explorer 8. On May 5, 2010, the second Internet Explorer 9 Platform Preview was released, which featured a score of 68/100 on the Acid3 test and faster performance on the WebKit SunSpider JavaScript benchmark than the first Internet Explorer 9 Platform Preview. On June 23, 2010, the third Internet Explorer 9 Platform Preview was released, which featured a score of 83/100 on the Acid3 test and a faster JavaScript engine than the second Internet Explorer 9 Platform Preview. The third Internet Explorer 9 Platform Preview also includes support for audio, video, and canvas tags, and WOFF. On August 4, 2010, the fourth Internet Explorer 9 Platform Preview was released, which features a score of 95/100 on the Acid3 test and a faster JavaScript engine than the third Internet Explorer 9 Platform Preview. On September 15, 2010, the Internet Explorer 9 Public Beta was released alongside Platform Preview 5, featuring a new user interface. In contrast to the previews, the Beta replaces any previously installed version of Internet Explorer. The sixth Internet Explorer 9 Platform Preview was released on October 28, 2010, and includes support for CSS 2D transforms and HTML semantic elements. The seventh Internet Explorer 9 Platform Preview was released on November 17, 2010, and features better JavaScript performance.
+These previews were not full builds of Internet Explorer 9, as they were for testing the latest version of the MSHTML (Trident) browser engine. They were for web developers to send feedback on the improvements made, functioned in parallel with any other installed browsers, and were previews of the renderer technology only, containing minimalistic user interfaces and lacking traditional interface elements such as an address bar and navigation buttons. Microsoft updated these previews approximately every eight weeks.
+On November 23, 2010, two updates for the Internet Explorer 9 Public Beta were released. KB2448827 brings improvements to reliability and fixes stability issues from the previous beta release. There are not much details of resolved issues disclosed by Microsoft. Moreover, KB2452648 resolves the in-built feedback issue with Internet Explorer 9 and the latest version of Windows Live Sign-in Assistant. These updates can be fetched from Windows Update or the Microsoft Download Center website. On the same day, Internet Explorer build 9.0.8027.6000 based on Internet Explorer 9 Platform Preview 7 was leaked. On February 10, 2011, the Internet Explorer 9 Release Candidate and Platform Preview 8 were released. The Release Candidate version featured improved performance, a Tracking Protection feature, a refined UI, support for more web standards, use of hardware accelerated graphics, and other improvements.
+The final version of Internet Explorer 9 was publicly released during the South by Southwest (SXSW) Interactive conference in Austin, Texas, on March 14, 2011.
+
+Release history
+End of life
+Support for Internet Explorer 9 on most Windows versions ended on January 12, 2016, when Microsoft began requiring customers to use the latest version of Internet Explorer available for each Windows version. For versions of Windows where Internet Explorer 9 was the final version of Internet Explorer available, support ended when support for that version of Windows ended. On January 14, 2020, Microsoft released the final regular IE9 update. However, IE9 (via Windows Server 2008) is eligible for the paid ESU (Extended Security Updates) and Premium Assurance programs. ESU security updates from Microsoft for IE9 were released until January 10, 2023 (January 9, 2024, for Azure customers) and Premium Assurance security updates will continue until January 13, 2026. Following which, only IE11 (the final version of Internet Explorer) will continue to be supported in any capacity.
+
+Changes from previous versions
+User Interface
+Internet Explorer 9 includes significant alterations to its user interface when compared with previous versions. These include:
+
+Pinned Sites: Integrates with the taskbar to make web site experience more like an application where users may "pin" a site and then return to it later like a shortcut. In the release candidate, users can pin a site and add more homepages to that site (e.g. pin Facebook and add Twitter as another homepage to that pinned site, so it would become a social program)
+Security-enabled Download Manager: Manages file transfers and can pause and resume downloads and informs if a file may be malicious
+Enhanced Tabs and Tab Page: the new tab page can show most visited sites, and tabs are shown next to the address bar (there is an option to have a separate row, like in Internet Explorer 8) with the feature of closing an inactive tab. Tabs can be "torn off" which means they can be dragged up and down to be moved from one IE window to another. This also ties in with the Aero Snap feature.
+Add-on Performance Advisor: Shows which third-party add-ons may be slowing down browser performance and then allows the option to disable or remove them
+Compact user interface, which includes the removal of the separate search box found in Internet Explorer 7 and 8. Also removed is the tab menu list found in Internet Explorer 8.
+
+Scripting
+JavaScript engine
+Internet Explorer 9 (32-bit) features a faster JavaScript engine than Internet Explorer 8's, internally known as Chakra. Chakra has a separate background thread for compiling JavaScript. Windows runs that thread in parallel on a separate core when one is available. Compiling in the background enables users to keep interacting with webpages while Internet Explorer 9 generates even faster code. By running separately in the background, this process can take advantage of modern multi-core machines.
+In Microsoft's preliminary SunSpider benchmarks for the third 32-bit Internet Explorer 9 Platform Preview, it outperformed the Internet Explorer 8 engine by a factor of 10 and also outperformed the newest Firefox 4.0 pre-release. Microsoft provided information that its new JavaScript engine uses dead code elimination optimization for faster performance, which included a small section of code in the SunSpider test as dead code. Robert Sayre, a Mozilla developer investigated this further, showing that Internet Explorer 9 Preview 3's dead code elimination had bugs, providing test cases exposing these bugs resulting in wrong compilation.
+After its final release, 32-bit Internet Explorer 9 has been tested to be the leading mainstream browser in the SunSpider performance test.
+The engine significantly improves support for ECMA-262: ECMAScript Language Specification standard, including features new to the recently finalized Fifth Edition of ECMA-262 (often abbreviated ES5). The Internet Explorer 9 browser release scored only 3 faults from 10440 tests in the Test262 Ecmascript conformance test (Ver. 0.6.2 5-Apr-2011) created by Ecma International.
+The 64-bit version of Internet Explorer 9, which is not the default browser even on 64-bit systems, does not have the JIT compiler and performs up to 4 times slower.
+
+DOM
+DOM improvements include:
+
+DOM Traversal and Range
+Full DOM L2 and L3 events
+getComputedStyle from DOM Style
+DOMContentLoaded
+
+CSS
+Internet Explorer 9 has improved Cascading Style Sheets (CSS) support. The Internet Explorer 9 implementation report, which was created using Internet Explorer 9 Beta, shows Internet Explorer 9 passing 97.7% of all tests on the W3C CSS 2.1 test suite. This is the highest pass rate amongst CSS 2.1 implementation reports submitted to W3C.
+CSS3 improvements include support for the following modules:
+
+CSS3 2D Transforms 
+CSS3 Backgrounds and Borders 
+CSS3 Color 
+CSS3 Fonts 
+CSS3 Media Queries 
+CSS3 Namespaces 
+CSS3 Values and Units 
+CSS3 Selectors
+
+HTML
+HTML Media
+Internet Explorer 9 includes support for the HTML media tags video and audio.
+The audio tag will include native support for the MP3 and AAC codecs, while the video tag will natively support H.264/MPEG-4 AVC. Support for other video formats, such as WebM, require third-party plugins.
+
+Canvas
+Internet Explorer 9 includes support for the canvas element.
+
+Inline SVG support
+The first Internet Explorer 9 Platform Preview has support for:
+
+Methods of embedding: inline HTML, inline XHTML, <object>, full .svg documents
+Structure: <svg>, <defs>, <use>, <g>, <image>
+Shapes: <circle>, <ellipse>, <rect>, <line>, <polyline>, <polygon>, <path>
+Text
+Filling, Stroking, (CSS3) Color
+DOML2 Core and SVGDOM
+Events
+Presentation Attributes and CSS Styling
+Transform definitions: translate, skewX, skewY, scale, rotate
+SVG elements that are supported in the Platform Preview are fully implemented. Elements that exist in the Platform Preview have corresponding SVGDOM support and can be styled with CSS/presentation attributes.
+The final build of Internet Explorer 9 also supports:
+
+Methods of embedding: <embed>, <iframe>, <img>, css image, .svgz
+Gradients and Patterns
+Clipping, Masking, and Compositing
+Cursor, Marker
+Remainder of Text, Transforms, Events
+
+Web typography
+Internet Explorer was the first browser to support web fonts through the @font-face rule, but only supported the Embedded OpenType (EOT) format, and lacked support for parts of the CSS3 fonts module. Internet Explorer 9 completed support for the CSS3 fonts module and added WOFF support. It is the first version of Internet Explorer to support TTF fonts, but will only use them if none of their embedding permission bits are set.
+
+Navigation Timings
+Internet Explorer 9 implements the new W3C Navigation Timings format. Microsoft has been a part of creating this format during the development of Internet Explorer 9.
+
+Tracking Protection
+Internet Explorer 9 includes a Tracking Protection feature which improves upon Internet Explorer 8's InPrivate Filtering. Internet Explorer 8's InPrivate Filtering blocked third-party content using an XML list which had to be imported or automatically built a list by observing third-party servers that users kept interacting with as they browsed the web, and once a server showed up more than a set number of times, InPrivate Filtering would block future connections to it
+Internet Explorer 9 supports two methods of tracking protection. The primary method is through the use of Tracking Protection Lists (TPL) which are now supplied by internet privacy-related organizations or companies. Tracking Protection by default remains on once enabled, unlike InPrivate Filtering which had to be enabled each time Internet Explorer 8 started. When a TPL is selected, Internet Explorer 9 blocks or allows third-party URI downloads based on rules in the TPL. Users can create their personal TPL's or select a TPL supplied by a third party Archived 2011-03-26 at the Wayback Machine.
+The other method is the use of a Do Not Track header and DOM property. Browser requests from Internet Explorer 9 include this header whenever a TPL is selected. Websites that follow this header should not deliver tracking mechanisms in their websites. At the moment following this header is a voluntary code of conduct but this method could in future be enforced by government legislation.
+These tracking protection methods were submitted to W3C for standardization.
+
+Malware protection
+Internet Explorer 9 uses layered protection against malware. It uses technical measures to protect its memory like the DEP/NSX protection, Safe Exception handlers (SafeSEH) and ASLR protection used in Internet Explorer 8.
+In addition to those existing forms of memory protection, Internet Explorer 9 now opts-in to SEHOP (Structured Exception Handler Overwrite Protection) which works by validating the integrity of the exception handling chain before dispatching exceptions. This helps ensure that structured exception handling cannot be used as an exploit vector, even when running outdated browser add-ons that have not been recompiled to take advantage of SafeSEH.
+In addition, Internet Explorer 9 is compiled with the new C++ compiler provided with Visual Studio 2010. This compiler includes a feature known as Enhanced GS, also known as Stack Buffer Overrun Detection, which helps prevent stack buffer overruns by detecting stack corruption and avoiding execution if such corruption is encountered.
+Internet Explorer 8 used SmartScreen technology, which, according to Microsoft, was successful against phishing or other malicious sites and in blocking of socially engineered malware. In Internet Explorer 9, the protection against malware downloads is extended with SmartScreen Application Reputation. This warns downloaders if they are downloading an application without a safe reputation from a site that does not have a safe reputation.
+In late 2010, the results of browser malware testing undertaken by NSS labs were published. The study looked at the browser's capability to prevent users following socially engineered links of a malicious nature and downloading malicious software. It did not test the browser's ability to block malicious web pages or code.
+According to NSS, Internet Explorer 9 blocked 99% of malware downloads compared to 90% for Internet Explorer 8 that does not have SmartScreen Application Reputation feature.
+In early 2010, similar tests gave Internet Explorer 8 an 85% passing grade, the 5% improvement being attributed to "continued investments in improved data intelligence". By comparison, the same research showed that Chrome 6, Firefox 3.6 and Safari 5, which all rely on Google's Safe Browsing Service, scored 6%, 19% and 11%, respectively. Opera 10 scored 0%, failing to "detect any of the socially engineered malware samples".
+Manufacturers of other browsers criticized the test, focusing upon the lack of transparency of URLs tested and the lack of consideration of layered security additional to the browser, with Google commenting that "The report itself clearly states that it does not evaluate browser security related to vulnerabilities in plug-ins or the browsers themselves", and Opera commenting that the results appeared "odd that they received no results from our data providers" and that "social malware protection is not an indicator of overall browser security".
+Internet Explorer 9's dual-pronged approach to blocking access to malicious URLs—SmartScreen Filter to block bad URLs, and Application Reputation to detect untrustworthy executables—provides the best socially engineered malware blocking of any stable browser version. Internet Explorer 9 blocked 92 percent of malware with its URL-based filtering, and 100 percent with Application-based filtering enabled. Internet Explorer 8, in second place, blocked 90 percent of malware. Tied for third place were Safari 5, Chrome 10, and Firefox 4, each blocking just 13 percent. Bringing up the rear was Opera 11, blocking just 5 percent of malware.
+
+User agent string
+Due to technical improvements of the browser, the Internet Explorer developer team decided to change the user agent (UA) string. The Mozilla/4.0 token was changed to Mozilla/5.0 to match the user agent strings of other recent browsers and to indicate that Internet Explorer 9 is more interoperable than previous versions. The Trident/4.0 token was likewise changed to Trident/5.0. Because long, extended UA strings cause compatibility issues, Internet Explorer 9's default UA string does not include .NET identifiers or other "pre-platform" and "post-platform" tokens that were sent by previous versions of the browser. The extended string is still available to websites via the browser's .userAgent property, and is sent when a web page is displayed in Compatibility View mode.
+
+Extensibility
+In Internet Explorer 9, the extensibility mechanisms for Browser Helper Objects (BHOs) and toolbars remain the same. Not loading BHOs or toolbars improves startup time, but limits the ability of developers to augment the user experience through these extensibility mechanisms.
+
+Removed features
+Separate search box
+Security zone information and Protected Mode status, progress bar, and other status bar elements except for the Zoom button
+Support for DirectX page transitions
+Possibility to place the menu bar above the address bar
+
+Reception
+Release candidate
+Noting that according to Net Applications, Internet Explorer's share fell to 56% in January 2011, the BBC quoted Microsoft's claims that Internet Explorer 9 is "playing catch up, but it leapfrogs everything" and "you are seeing innovation after innovation that other folks are catching up to."
+In The Register, Tim Anderson said Internet Explorer 9 was Microsoft's answer to the fall in Internet Explorer's market share (from 68.5% in July 2008 to 46% in January 2011, according to StatCounter). He felt it was "fast and polished", a "remarkable improvement" over version 8, noting "superb" development tools and "real and significant" support for HTML5, though "not as comprehensive as the company's publicity implies." However, configuration options are "strewn all over the user interface", and the "distinctive and excellent" ActiveX filtering and Tracking Protection features might be "perplexing for less technical users." Having reached release candidate status eleven months after it was originally announced at the March 2010 MIX conference, "Microsoft's development process is too slow." The new version is "a good modern browser" but "the competition is moving faster."
+Computing observed that "the feature set has piled up" since development began, with recent changes including "a completely rejigged JavaScript engine, and far better web standards support." It reported that Internet Explorer 9 RC ranked above Firefox, slightly above Safari, and below Chrome and Opera on Futuremark's Peacekeeper browser benchmark. Internet Explorer 9 scored 95% on the unofficial Acid3 standards test.
+Michael Muchmore's first impressions in PC Magazine were broadly positive, praising features of the InPrivate mode (which "I'm surprised other browser makers haven't included") and concluding that Internet Explorer 9's tracking protection was "more flexible and comprehensive" than Mozilla's. The review reported that Internet Explorer 9 "now wins the SunSpider JavaScript Benchmark" and had achieved "a hefty improvement" on Google's JavaScript benchmark – though it was still far behind Chrome 9. However "in normal browsing, I was hard pressed to see a [performance] difference between Chrome and Internet Explorer." The release candidate was also "perfectly" compatible with far more sites than the beta, but there are still issues with some sites because their developers are not yet testing with the new browser. The RC scores 4 out of 5 ("very good") for now.
+
+Final release
+On its first day of commercial availability, Internet Explorer 9 was downloaded over 2.35 million times.
+Blogging his March 2011 performance tests for ZDNet, Adrian Kingsley-Hughes concluded that Chrome 10, Internet Explorer 9 (32-bit) Final Release, Opera 11.01 and Firefox 4's Release candidate were "pretty evenly matched.... Microsoft has worked hard on IE, taking it from being the slowest in the pack to one of the fastest. Bottom line, I really don't think that JavaScript performance is an issue any more, and certainly in real-world testing it's hard to see a difference between the browsers."
+On 31 October 2011, PC World ranked Internet Explorer 9 as #19 on its 100 Best Products of 2011. The other web browser listed was Maxthon 3.1, a hybrid browser based on Google Chrome and Internet Explorer. A review of IE9 beta in PC World noted a performance improvement over IE8.
+
+System requirements
+Both IA-32 and x64 builds are available. It is the last version of Internet Explorer to support Windows Vista SP2, Windows Server 2008 SP2, Windows 7 RTM and Windows Server 2008 R2 RTM.
+
+Mobile version
+At the February 2011 Mobile World Congress, Steve Ballmer announced a major update to Windows Phone due towards the end of 2011, which will include a mobile version of Internet Explorer 9 that supports the same web standards (e.g. HTML5) and hardware accelerated graphics as the PC version. Microsoft demonstrated hardware-accelerated performance of a fish-tank demo using a development build of mobile Internet Explorer 9 compared with slow performance on the November 2010 iOS 4.2.1 RTM of Safari on iPhone 4.
+
+See also
+Browser wars
+Comparison of web browsers
+List of web browsers
+Timeline of web browsers
+Usage share of web browsers
+
+References
+Further reading
+Mediati, Nick (September 15, 2010). "Microsoft Internet Explorer 9 Browser Software Review". PC World. PCWorld Communications, Inc. Archived from the original on December 1, 2010. Retrieved October 19, 2010.
+Gralla, Preston (September 15, 2010). "Internet Explorer 9 beta strips down for speed". Computerworld. Computerworld Inc. Archived from the original on June 24, 2013. Retrieved October 19, 2010.
+McCracken, Harry (September 21, 2010). "Finally, a 21st Century Browser from Microsoft". TIME. Archived from the original on September 22, 2010. Retrieved October 19, 2010.
+Stern, Joanna (September 15, 2010). "Internet Explorer 9 Beta review". Engadget. AOL Inc. Retrieved October 19, 2010.
+Crowley, Matthew (2010). Pro Internet Explorer 8 & 9 development. New York: Apress. ISBN 978-1-4302-2853-0.
+
+External links
+Official website
+Beauty of the Web: Showcasing Internet Explorer – a Microsoft website that showcases Internet Explorer in general
+Internet Explorer Test Drive – a Microsoft website that features web browser benchmark tests
+Build My Pinned Site – a Microsoft website that teaches how to use site pinning capabilities of Internet Explorer 9 and later

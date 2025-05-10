@@ -1,0 +1,202 @@
+Hydrogen gas is produced by several industrial methods. Nearly all of the world's current supply of hydrogen is created from fossil fuels. Most hydrogen is gray hydrogen made through steam methane reforming. In this process, hydrogen is produced from a chemical reaction between steam and methane, the main component of natural gas. Producing one tonne of hydrogen through this process emits 6.6–9.3 tonnes of carbon dioxide. When carbon capture and storage is used to remove a large fraction of these emissions, the product is known as blue hydrogen.
+Green hydrogen is usually understood to be produced from renewable electricity via electrolysis of water. Less frequently, definitions of green hydrogen  include hydrogen produced from other low-emission sources such as biomass. Producing green hydrogen is currently more expensive than producing gray hydrogen, and the efficiency of energy conversion is inherently low. Other methods of hydrogen production include biomass gasification, methane pyrolysis, and extraction of underground hydrogen.
+As of 2023, less than 1% of dedicated hydrogen production is low-carbon, i.e. blue hydrogen, green hydrogen, and hydrogen produced from biomass.
+In 2020, roughly 87 million tons of hydrogen was produced worldwide for various uses, such as oil refining, in the production of ammonia through the Haber process, and in the production of methanol through reduction of carbon monoxide. The global hydrogen generation market was fairly valued at US$155 billion in 2022, and expected to grow at a compound annual growth rate of 9.3% from 2023 to 2030.
+
+Overview
+Molecular hydrogen was discovered in the Kola Superdeep Borehole. It is unclear how much molecular hydrogen is available in natural reservoirs, but at least one company specializes in drilling wells to extract hydrogen. Most hydrogen in the lithosphere is bonded to oxygen in water.
+Manufacturing elemental hydrogen requires the consumption of a hydrogen carrier such as a fossil fuel or water. The former carrier consumes the fossil resource and in the steam methane reforming (SMR) process produces greenhouse gas carbon dioxide. However, in the newer methane pyrolysis process no greenhouse gas carbon dioxide is produced. These processes typically require no further energy input beyond the fossil fuel.
+
+Decomposing water, the latter carrier, requires electrical or heat input, generated from some primary energy source (fossil fuel, nuclear power or a renewable energy). Hydrogen produced by electrolysis of water using renewable energy sources such as wind and solar power, referred to as green hydrogen. When derived from natural gas by zero greenhouse emission methane pyrolysis, it is referred to as turquoise hydrogen.
+When fossil fuel derived with greenhouse gas emissions, is generally referred to as grey hydrogen. If most of the carbon dioxide emission is captured, it is referred to as blue hydrogen. Hydrogen produced from coal may be referred to as brown or black hydrogen.
+
+Classification based on production method
+Hydrogen is often referred to by various colors to indicate its origin (perhaps because gray symbolizes "dirty hydrogen").
+
+Current production methods
+Steam reforming – gray or blue
+Hydrogen is industrially produced from steam reforming (SMR), which uses natural gas. The energy content of the produced hydrogen is around 74% of the energy content of the original fuel, as some energy is lost as excess heat during production. In general, steam reforming emits carbon dioxide, a greenhouse gas, and is known as gray hydrogen. If the carbon dioxide is  captured and stored, the hydrogen produced is known as blue hydrogen.
+Steam methane reforming (SMR) produces hydrogen from natural gas, mostly methane (CH4), and water. It is the cheapest source of industrial hydrogen, being the source of nearly 50% of the world's hydrogen. The process consists of heating the gas to 700–1,100 °C (1,300–2,000 °F) in the presence of steam over a nickel catalyst. The resulting endothermic reaction  forms carbon monoxide and molecular hydrogen (H2).
+In the water-gas shift reaction, the carbon monoxide reacts with steam  to obtain further quantities of H2.  The WGSR also requires a catalyst, typically over iron oxide or other oxides. The byproduct is CO2. Depending on the quality of the feedstock (natural gas, naphtha, etc.), one ton of hydrogen produced will also produce 9 to 12 tons of CO2, a greenhouse gas that may be captured.
+For this process, high temperature steam (H2O) reacts with methane (CH4) in an endothermic reaction to yield syngas.
+
+CH4 + H2O   →   CO  +  3 H2
+In a second stage, additional hydrogen is generated through the lower-temperature, exothermic, water-gas shift reaction, performed at about 360 °C (680 °F):
+
+CO + H2O → CO2 + H2
+Essentially, the oxygen (O) atom is stripped from the additional water (steam) to oxidize CO to CO2. This oxidation also provides energy to maintain the reaction.  Additional heat required to drive the process is generally supplied by burning some portion of the methane.
+
+From water
+Methods to produce hydrogen without the use of fossil fuels involve the process of water splitting, or splitting the water molecule (H2O) into its components oxygen and hydrogen. When the source of energy for water splitting is renewable or low-carbon, the hydrogen produced is sometimes referred to as green hydrogen. The conversion can be accomplished in several ways, but all methods are currently considered more expensive than fossil-fuel based production methods.
+
+Electrolysis of water – green, pink or yellow
+Hydrogen can be made via high pressure electrolysis, low pressure electrolysis of water, or a range of other emerging electrochemical processes such as high temperature electrolysis or carbon assisted electrolysis. However, current best processes for water electrolysis have an effective electrical efficiency of 70-80%, so that producing 1 kg of hydrogen (which has a specific energy of 143 MJ/kg or about 40 kWh/kg) requires 50–55 kWh of electricity.
+In parts of the world, steam methane reforming is between $1–3/kg on average excluding hydrogen gas pressurization cost. This makes production of hydrogen via electrolysis cost competitive in many regions already, as outlined by Nel Hydrogen and others, including an article by the IEA examining the conditions which could lead to a competitive advantage for electrolysis.
+A small part (2% in 2019) is produced by electrolysis using electricity and water, consuming approximately 50 to 55 kilowatt-hours of electricity per kilogram of hydrogen produced.
+
+Water electrolysis is using electricity to split water into hydrogen and oxygen. 
+As of 2020, less than 0.1% of hydrogen production comes from water electrolysis. 
+Electrolysis of water is 70–80% efficient (a 20–30% conversion loss) while steam reforming of natural gas has a thermal efficiency between 70 and 85%. The electrical efficiency of electrolysis is expected to reach 82–86% before 2030, while also maintaining durability as progress in this area continues apace.
+Water electrolysis can operate at 50–80 °C (120–180 °F), while steam methane reforming requires temperatures at 700–1,100 °C (1,300–2,000 °F). The difference between the two methods is the primary energy used; either electricity (for electrolysis) or natural gas (for steam methane reforming).  Due to their use of water, a readily available resource, electrolysis and similar water-splitting methods have attracted the interest of the scientific community. With the objective of reducing the cost of hydrogen production, renewable sources of energy have been targeted to allow electrolysis.
+There are three main types of electrolytic cells, solid oxide electrolyser cells (SOECs), polymer electrolyte membrane cells (PEM) and alkaline electrolysis cells (AECs). Traditionally, alkaline electrolysers are cheaper in terms of investment (they generally use nickel catalysts), but less-efficient; PEM electrolysers, conversely, are more expensive (they generally use expensive platinum group metal catalysts) but are more efficient and can operate at higher current densities, and can therefore be possibly cheaper if the hydrogen production is large enough.
+SOECs operate at high temperatures, typically around 800 °C (1,500 °F). At these high temperatures, a significant amount of the energy required can be provided as thermal energy (heat), and as such is termed high-temperature electrolysis. The heat energy can be provided from a number of different sources, including waste industrial heat, nuclear power stations or concentrated solar thermal plants. This has the potential to reduce the overall cost of the hydrogen produced by reducing the amount of electrical energy required for electrolysis.
+PEM electrolysis cells typically operate below 100 °C (212 °F). These cells have the advantage of being comparatively simple and can be designed to accept widely varying voltage inputs, which makes them ideal for use with renewable sources of energy such as photovoltaic solar panels. AECs optimally operate at high concentrations of electrolyte (KOH or potassium carbonate) and at high temperatures, often near 200 °C (392 °F).
+
+Industrial output and efficiency
+Efficiency of modern hydrogen generators is measured by energy consumed per standard volume of hydrogen (MJ/m3), assuming standard temperature and pressure of the H2. The lower the energy used by a generator, the higher would be its efficiency; a 100%-efficient electrolyser would consume 39.4 kilowatt-hours per kilogram (142 MJ/kg) of hydrogen, 12,749 joules per litre (12.75 MJ/m3).  Practical electrolysis typically uses a rotating electrolyser, where centrifugal force helps separate gas bubbles from water. Such an electrolyser at 15 bar pressure may consume 50 kilowatt-hours per kilogram (180 MJ/kg), and a further 15 kilowatt-hours (54 MJ) if the hydrogen is compressed for use in hydrogen cars.
+Conventional alkaline electrolysis has an efficiency of about 70%, however advanced alkaline water electrolysers with efficiency of up to 82% are available. Accounting for the use of the higher heat value (because inefficiency via heat can be redirected back into the system to create the steam required by the catalyst), average working efficiencies for PEM electrolysis are around 80%, or 82% using the most modern alkaline electrolysers.
+PEM efficiency is expected to increase to approximately 86% before 2030. Theoretical efficiency for PEM electrolysers is predicted up to 94%.
+
+As of 2020, the cost of hydrogen by electrolysis is around $3–8/kg. Considering the industrial production of hydrogen, and using current best processes for water electrolysis (PEM or alkaline electrolysis) which have an effective electrical efficiency of 70–82%, producing 1 kg of hydrogen (which has a specific energy of 143 MJ/kg or about 40 kWh/kg) requires 50–55 kWh of electricity. At an electricity cost of $0.06/kWh, as set out in the Department of Energy hydrogen production targets for 2015, the hydrogen cost is $3/kg.
+The US DOE target price for hydrogen in 2020 is $2.30/kg, requiring an electricity cost of $0.037/kWh, which is achievable given recent PPA tenders for wind and solar in many regions. The report by IRENA.ORG is an extensive factual report of present-day industrial hydrogen production consuming about 53 to 70  kWh per kg could go down to about 45 kWh/kg H2. The thermodynamic energy required for hydrogen by electrolysis  translates to 33 kWh/kg, which is higher than steam reforming with carbon capture and higher than methane pyrolysis.
+One of the advantages of electrolysis over hydrogen from steam methane reforming (SMR) is that the hydrogen can be produced on-site, meaning that the costly process of delivery via truck or pipeline is avoided.
+
+Chemically assisted electrolysis
+In addition to reduce the voltage required for electrolysis via the increasing of the temperature of the electrolysis cell it is also possible to electrochemically consume the oxygen produced in an electrolyser by introducing a fuel (such as carbon/coal, methanol, ethanol, formic acid,  glycerol, etc.) into the oxygen side of the reactor. This reduces the required electrical energy and has the potential to reduce the cost of hydrogen to less than 40~60% with the remaining energy provided in this manner.
+Carbon/hydrocarbon assisted water electrolysis (CAWE) has the potential to offer a less energy intensive, cleaner method of using chemical energy in various sources of carbon, such as low-rank and high sulfur coals, biomass, alcohols and methane (Natural Gas), where pure CO2 produced can be easily sequestered without the need for separation.
+
+Hydrogen from biomass – green
+Biomass is converted into syngas by gasification and syngas is further converted into hydrogen by water-gas shift reaction (WGSR).
+
+Hydrogen as a byproduct of other chemical processes
+The industrial production of chlorine and caustic soda by electrolysis generates a sizable amount of Hydrogen as a byproduct. In the port of Antwerp a 1MW demonstration fuel cell power plant is powered by such byproduct. This unit has been operational since late 2011. The excess hydrogen is often managed with a hydrogen pinch analysis.
+Gas generated from coke ovens in steel production is similar to Syngas with 60% hydrogen by volume. The hydrogen can be extracted from the coke oven gas economically.
+
+Other fossil fuel methods
+Partial oxidation
+Hydrogen production from natural gas and heavier hydrocarbons is achieved by partial oxidation. A fuel-air or fuel-oxygen mixture is partially combusted, resulting in a hydrogen- and carbon monoxide-rich syngas. More hydrogen and carbon dioxide are then obtained from carbon monoxide (and water) via the water-gas shift reaction.  Carbon dioxide can be co-fed to lower the hydrogen to carbon monoxide ratio.
+The partial oxidation reaction occurs when a substoichiometric fuel-air mixture or fuel-oxygen is partially combusted in a reformer or partial oxidation reactor. A distinction is made between thermal partial oxidation (TPOX) and catalytic partial oxidation (CPOX). The chemical reaction takes the general form:
+
+2 CnHm + nO2 → 2n CO + mH2
+Idealized examples for heating oil and coal, assuming compositions C12H24 and C24H12 respectively, are as follows:
+
+C12H24 + 6 O2 → 12 CO + 12 H2
+C24H12 + 12 O2 → 24 CO + 6 H2
+
+Plasma pyrolysis
+The Kværner process or Kvaerner carbon black and hydrogen process (CB&H) is a plasma pyrolysis method, developed in the 1980s by a Norwegian company of the same name, for the production of hydrogen and carbon black from liquid hydrocarbons (CnHm). Of the available energy of the feed, approximately 48% is contained in the hydrogen, 40% is contained in activated carbon and 10% in superheated steam. CO2 is not produced in the process.
+A variation of this process was presented in 2009 using plasma arc waste disposal technology for the production of hydrogen, heat and carbon from methane and natural gas in a plasma converter.
+
+Coal
+For the production of hydrogen from coal, coal gasification is used. The process of coal gasification uses steam and oxygen to break molecular bonds in coal and form a gaseous mixture of hydrogen and carbon monoxide. Carbon dioxide and pollutants may be more easily removed from gas obtained from coal gasification versus coal combustion.  Another method for conversion is low-temperature and high-temperature coal carbonization.
+Coke oven gas made from pyrolysis (oxygen free heating) of coal has about 60% hydrogen, the rest being methane, carbon monoxide, carbon dioxide, ammonia, molecular nitrogen, and hydrogen sulfide (H2S).  Hydrogen can be separated from other impurities by the pressure swing adsorption process.  Japanese steel companies have carried out production of hydrogen by this method.
+
+Petroleum coke
+Petroleum coke can also be converted to hydrogen-rich syngas via coal gasification. The produced syngas consists mainly of hydrogen, carbon monoxide and H2S from the sulfur in the coke feed. Gasification is an option for producing hydrogen from almost any carbon source.
+
+Radiolysis
+Nuclear radiation can break water bonds through radiolysis. In the Mponeng gold mine, South Africa, researchers found bacteria in a naturally occurring high radiation zone. The bacterial community which was dominated by a new phylotype of Desulfotomaculum, was feeding on primarily radiolytically produced hydrogen.
+
+Thermolysis
+Water spontaneously dissociates at around 2500 °C, but this thermolysis occurs at temperatures too high for usual process piping and equipment resulting in a rather low commercialization potential.
+
+Pyrolysis on biomass
+Pyrolysis can be divided into different types based on the pyrolysis temperature, namely low-temperature slow pyrolysis, medium-temperature rapid pyrolysis, and high-temperature flash pyrolysis. The source energy is mainly solar energy, with help of photosynthetic microorganisms to decompose water or biomass to produce hydrogen. However, this process has relatively low hydrogen yields and high operating cost. It is not a feasible method for industry.
+
+Nuclear-assisted thermolysis
+The high-temperature gas-cooled reactor (HTGR) is one of the most promising CO2-free nuclear technique to produce hydrogen by splitting water in a large scale. In this method, iodine-sulfur (IS) thermo-chemical cycle for splitting water and high-temperature steam electrolysis (HTSE) were selected as the main processes for nuclear hydrogen production. The S-I cycle follows three chemical reactions:
+Bunsen reaction: I2+SO2+2H2O→H2SO4+2HI
+HI decomposition: 2HI→H2+I2
+Sulfuric acid decomposition: H2SO4→SO2+1/2O2+H2O
+The hydrogen production rate of HTGR with IS cycle is approximately 0.68 kg/s, and the capital cost to build a unit of power plant is $100 million.
+
+Thermochemical cycle
+Thermochemical cycles combine solely heat sources (thermo) with chemical reactions to split water into its hydrogen and oxygen components. The term cycle is used because aside from water, hydrogen and oxygen, the chemical compounds used in these processes are continuously recycled. If electricity is partially used as an input, the resulting thermochemical cycle is defined as a hybrid one.
+The sulfur-iodine cycle (S-I cycle) is a thermochemical cycle processes which generates hydrogen from water with an efficiency of approximately 50%.  The sulfur and iodine used in the process are recovered and reused, and not consumed by the process.  The cycle can be performed with any source of very high temperatures, approximately 950 °C, such as by Concentrating solar power systems (CSP) and is regarded as being well suited to the production of hydrogen by high-temperature nuclear reactors, and as such, is being studied in the High-temperature engineering test reactor in Japan. There are other hybrid cycles that use both high temperatures and some electricity, such as the Copper–chlorine cycle, it is classified as a hybrid thermochemical cycle because it uses an electrochemical reaction in one of the reaction steps, it operates at 530 °C and has an efficiency of 43 percent.
+
+Ferrosilicon method
+Ferrosilicon is used by the military to quickly produce hydrogen for balloons. The chemical reaction uses sodium hydroxide, ferrosilicon, and water. The generator is small enough to fit a truck and requires only a small amount of electric power, the materials are stable and not combustible, and they do not generate hydrogen until mixed. The method has been in use since World War I.  A heavy steel pressure vessel is filled with sodium hydroxide and ferrosilicon, closed, and a controlled amount of water is added; the dissolving of the hydroxide heats the mixture to about 93 °C and starts the reaction; sodium silicate, hydrogen and steam are produced.
+
+Photobiological water splitting
+Biological hydrogen can be produced in an algae bioreactor. In the late 1990s it was discovered that if the algae are deprived of sulfur it will switch from the production of oxygen, i.e. normal photosynthesis, to the production of hydrogen. It seems that the production is now economically feasible by surpassing the 7–10 percent energy efficiency (the conversion of sunlight into hydrogen) barrier. with a hydrogen production rate of 10–12 ml per liter culture per hour.
+
+Photocatalytic water splitting
+The conversion of solar energy to hydrogen by means of water splitting process is one of the most interesting ways to achieve clean and renewable energy systems. However, if this process is assisted by photocatalysts suspended directly in water instead of using photovoltaic and an electrolytic system the reaction is in just one step, it can be made more efficient. Current systems, however have low performance for commercial implementation.
+
+Biohydrogen routes
+Biomass and waste streams can in principle be converted into biohydrogen with biomass gasification, steam reforming, or biological conversion like biocatalysed electrolysis or fermentative hydrogen production.
+Among hydrogen production methods biological routes are potentially  less energy intensive. In addition, a wide variety of waste and low-value materials such as agricultural biomass as renewable sources can be utilized to produce hydrogen via biochemical or thermochemical pathways. Nevertheless, at present hydrogen is produced mainly from fossil fuels, in particular, natural gas which are non-renewable sources. Hydrogen is not only the cleanest fuel but also widely used in a number of industries, especially fertilizer, petrochemical and food ones.
+Biochemical routes to hydrogen are classified as dark and photo fermentation processes. In dark fermentation, carbohydrates are converted to hydrogen by fermentative microorganisms including strict anaerobe and facultative anaerobic bacteria. A theoretical maximum of 4 mol H2/mol glucose can be produced.  Sugars are convertible to volatile fatty acids (VFAs) and alcohols as by-products during this process. Photo fermentative bacteria are able to generate hydrogen from VFAs. Hence, metabolites formed in dark fermentation can be used as feedstock in photo fermentation to enhance the overall yield of hydrogen.
+An enzyme-catalyzed process convert the common sugar xylose into hydrogen with nearly 100% of the theoretical yield. The process employs 13 enzymes, including a novel polyphosphate xylulokinase (XK).
+
+Fermentative hydrogen production
+Fermentative hydrogen production converts organic substrates to hydrogen.  A diverse group of bacteria promote this transformation. Photofermentation differs from dark fermentation because it only proceeds in the presence of light. For example, photo-fermentation with Rhodobacter sphaeroides SH2C can be employed to convert some fatty acids into hydrogen.
+Fermentative hydrogen production can be done using direct biophotolysis by green algae, indirect biophotolysis by cyanobacteria, photo-fermentation by anaerobic photosynthetic bacteria and dark fermentation by anaerobic fermentative bacteria. For example, studies on hydrogen production using H. salinarium, an anaerobic photosynthetic bacteria, coupled to a hydrogenase donor like E. coli,  are reported in literature.  Enterobacter aerogenes is another hydrogen producer.
+
+Enzymatic hydrogen generation
+Diverse enzymatic pathways have been designed to generate hydrogen from sugars.
+
+Biocatalysed electrolysis
+Besides dark fermentation, electrohydrogenesis (electrolysis using microbes) is another possibility. Using microbial fuel cells, wastewater or plants can be used to generate power. Biocatalysed electrolysis should not be confused with biological hydrogen production, as the latter only uses algae and with the latter, the algae itself generates the hydrogen instantly, where with biocatalysed electrolysis, this happens after running through the microbial fuel cell and a variety of aquatic plants can be used. These include reed sweetgrass, cordgrass, rice, tomatoes, lupines and algae.
+
+Nanogalvanic aluminium alloy powder
+Aluminium alloy powder reacts with water to produce hydrogen gas upon contact with water. It reportedly generates hydrogen at 100 percent of the theoretical yield. The process is not economical.
+
+Natural hydrogen
+Hydrogen is also present naturally underground. This natural hydrogen, also called white hydrogen or gold hydrogen, can be extracted from wells in a similar manner as fossil fuels such as oil and natural gas.
+
+White hydrogen could be found or produced in the Mid-continental Rift System at scale for a renewable hydrogen economy. Water could be pumped down to hot iron-rich rock to extract the hydrogen.
+
+Experimental production methods
+Methane pyrolysis – turquoise
+Pyrolysis of methane (natural gas) with a one-step process bubbling methane through a molten metal catalyst is a "no greenhouse gas" approach to produce hydrogen that was demonstrated in laboratory conditions in 2017 and now being tested at larger scales. The process is conducted at high temperatures (1065 °C). Producing 1 kg of hydrogen requires about 18 kWh of electricity for process heat. The pyrolysis of methane can be expressed by the following reaction equation.
+
+CH4(g) → C(s) + 2 H2(g) ΔH° = 74.8 kJ/mol
+The industrial quality solid carbon may be sold as manufacturing feedstock, included in asphalt pavement, or landfilled.
+Methane pyrolysis technologies are in the early development stages at several companies as of 2023.  They have obstacles to overcome before commercialization.
+
+Biological production
+Fermentative hydrogen production is the fermentative conversion of organic substrate to biohydrogen manifested by a diverse group of bacteria using multi enzyme systems involving three steps similar to anaerobic conversion. Dark fermentation reactions do not require light energy, so they are capable of constantly producing hydrogen from organic compounds throughout the day and night. Photofermentation differs from dark fermentation because it only proceeds in the presence of light. Electrohydrogenesis is used in microbial fuel cells to produce hydrogen from organic matter.
+Biological hydrogen can be produced in an algae bioreactor. In the late 1990s it was discovered that if the algae is deprived of sulfur it will switch from the production of oxygen, i.e. normal photosynthesis, to the production of hydrogen.  Biological hydrogen can also be produced using feedstocks other than algae, the most common feedstock being waste streams. The process involves bacteria feeding on hydrocarbons and excreting hydrogen and CO2.
+
+Biocatalysed electrolysis
+Besides regular electrolysis, electrolysis using microbes is another possibility. With biocatalysed electrolysis, hydrogen is generated after running through the microbial fuel cell and a variety of aquatic plants Archived 2010-05-17 at the Wayback Machine can be used. These include reed sweetgrass, cordgrass, rice, tomatoes, lupines, and algae
+
+High-pressure electrolysis
+High pressure electrolysis is the electrolysis of water by decomposition of water (H2O) into oxygen (O2) and hydrogen gas (H2) by means of an electric current being passed through the water. The difference with a standard electrolyzer is the compressed hydrogen output around 120–200 bar (1740–2900 psi, 12–20 MPa). By pressurising the hydrogen in the electrolyser, through a process known as chemical compression, the need for an external hydrogen compressor is eliminated, the average energy consumption for internal compression is around 3%. European largest (1 400 000 kg/a, High-pressure Electrolysis of water, alkaline technology) hydrogen production plant is operating at Kokkola, Finland.
+
+High-temperature electrolysis
+Hydrogen can be generated from energy supplied in the form of heat and electricity through high-temperature electrolysis (HTE). Since some of the energy in HTE is supplied in the form of heat, less of the energy must be converted twice from heat to electricity, and then to hydrogen.  Therefore, potentially less energy is required to produce hydrogen.  Nuclear heat could be used to split hydrogen from water. High temperature (950–1000 °C) gas cooled nuclear reactors have the potential to split hydrogen from water by thermochemical means using nuclear heat.  High-temperature electrolysis has been demonstrated in a laboratory, at 108 MJ (thermal) per kilogram of hydrogen produced, but not at a commercial scale. In addition, this is lower-quality "commercial" grade Hydrogen, unsuitable for use in fuel cells.
+
+Photoelectrochemical water splitting
+Using electricity produced by photovoltaic systems offers the cleanest way to produce hydrogen. Water is broken into hydrogen and oxygen by electrolysis – a photoelectrochemical cell (PEC) process which is also named artificial photosynthesis. William Ayers at Energy Conversion Devices demonstrated and patented the first multijunction high efficiency photoelectrochemical system for direct splitting of water in 1983. This group demonstrated direct water splitting now referred to as an "artificial leaf" or "wireless solar water splitting" with a low cost thin film amorphous silicon multijunction sheet immersed directly in water.
+Hydrogen evolved on the front amorphous silicon surface decorated with various catalysts while oxygen evolved off the back metal substrate. A Nafion membrane above the multijunction cell provided a path for ion transport. Their patent also lists a variety of other semiconductor multijunction materials for the direct water splitting in addition to amorphous silicon and silicon germanium alloys. Research continues towards developing high-efficiency multi-junction cell technology at universities and the photovoltaic industry. If this process is assisted by photocatalysts suspended directly in water instead of using photovoltaic and an electrolytic system, the reaction is in just one step, which can improve efficiency.
+
+Photoelectrocatalytic production
+A method studied by Thomas Nann and his team at the University of East Anglia consists of a gold electrode covered in layers of indium phosphide (InP) nanoparticles. They introduced an iron-sulfur complex into the layered arrangement, which when submerged in water and irradiated with light under a small electric current, produced hydrogen with an efficiency of 60%.
+In 2015, it was reported that Panasonic Corp. has developed a photocatalyst based on niobium nitride that can absorb 57% of sunlight to support the decomposition of water to produce hydrogen gas. The company plans to achieve commercial application "as early as possible", not before 2020.
+
+Concentrating solar thermal
+Very high temperatures are required to dissociate water into hydrogen and oxygen. A catalyst is required to make the process operate at feasible temperatures. Heating the water can be achieved through the use of water concentrating solar power. Hydrosol-2 is a 100-kilowatt pilot plant at the Plataforma Solar de Almería in Spain which uses sunlight to obtain the required 800 to 1,200 °C to heat water. Hydrosol II has been in operation since 2008. The design of this 100-kilowatt pilot plant is based on a modular concept. As a result, it may be possible that this technology could be readily scaled up to the megawatt range by multiplying the available reactor units and by connecting the plant to heliostat fields (fields of sun-tracking mirrors) of a suitable size.
+
+Thermochemical production
+There are more than 352 thermochemical cycles which can be used for water splitting, around a dozen of these cycles such as the iron oxide cycle, cerium(IV) oxide-cerium(III) oxide cycle, zinc zinc-oxide cycle, sulfur-iodine cycle, copper-chlorine cycle and hybrid sulfur cycle, aluminium aluminium-oxide cycle, are under research and in testing phase to produce hydrogen and oxygen from water and heat without using electricity. These processes can be more efficient than high-temperature electrolysis, typical in the range from 35% – 49% LHV efficiency. Thermochemical production of hydrogen using chemical energy from coal or natural gas is generally not considered, because the direct chemical path is more efficient.
+None of the thermochemical hydrogen production processes have been demonstrated at production levels, although several have been demonstrated in laboratories.
+
+Kværner process
+The Kværner process or Kvaerner carbon black and hydrogen process (CB&H) is a method, developed in the 1980s by a Norwegian company of the same name, for the production of hydrogen from hydrocarbons (CnHm), such as methane, natural gas and biogas. Of the available energy of the feed, approximately 48% is contained in the hydrogen, 40% is contained in activated carbon and 10% in superheated steam.
+
+Extraction of naturally-occurring hydrogen – White Hydrogen
+As of 2019, hydrogen is mainly used as an industrial feedstock, primarily for the production of ammonia and methanol, and in petroleum refining. Although initially hydrogen gas was thought not to occur naturally in convenient reservoirs, it is now demonstrated that this is not the case; a hydrogen system is currently being exploited near Bourakebougou, Koulikoro Region in Mali, producing electricity for the surrounding villages. More discoveries of naturally occurring hydrogen in continental, on-shore geological environments have been made in recent years and open the way to the novel field of natural or native hydrogen, supporting energy transition efforts.
+
+White hydrogen could be found or produced in the Mid-continental Rift System at scale for a renewable hydrogen economy.  Water could be pumped down to hot iron-rich rock to produce hydrogen and the hydrogen could be extracted.
+
+Environmental impact
+Most hydrogen is produced from fossil fuels, resulting in carbon dioxide emissions. Hydrogen produced by this technology has been described as grey hydrogen when emissions are released to the atmosphere, and blue hydrogen when emissions are captured through carbon capture and storage (CCS). Blue hydrogen has been estimated to have a greenhouse gas footprint that is 20% greater than burning gas or coal for heat and 60% greater when compared to burning diesel for heat, assuming US up- and mid-stream methane leakage rates and production via steam methane reformers (SMR) retrofitted with carbon dioxide capture.
+The use of autothermal reformers (ATR) with integrated capture of carbon dioxide allows higher capture rates at satisfactory energy efficiencies and life cycle assessments have shown lower greenhouse gas emissions for such plants compared to SMRs with carbon dioxide capture. Application of ATR technology with integrated capture of carbon dioxide in Europe has been assessed to have a lower greenhouse gas footprint than burning natural gas, e.g. for the H21 project with a reported reduction of 68% due to a reduced carbon dioxide intensity of natural gas combined with a more suitable reactor type for capture of carbon dioxide.
+Hydrogen produced from renewable energy sources is often referred to as green hydrogen. Two ways of producing hydrogen from renewable energy sources are claimed to be practical. One is to use power to gas, in which electric power is used to produce hydrogen from electrolysis of water, and the other is to use landfill gas to produce hydrogen in a steam reformer. Hydrogen fuel, when produced by renewable sources of energy like wind or solar power, is a renewable fuel. Hydrogen produced from nuclear energy via electrolysis is sometimes viewed as a subset of green hydrogen, but can also be referred to as pink hydrogen. The Oskarshamn Nuclear Power Plant made an agreement in January 2022 to supply commercial pink hydrogen in the order of kilograms per day.
+As of 2020, estimated costs of production are $1–1.80/kg for grey hydrogen and  blue hydrogen, and $2.50–6.80 for green hydrogen.
+94 million tonnes of grey hydrogen are produced globally using fossil fuels as of 2022, primarily natural gas, and are therefore a significant source of greenhouse gas emissions.
+
+Hydrogen uses
+Hydrogen is used for the conversion of heavy petroleum fractions into lighter ones via hydrocracking.  It is also used in other processes including the aromatization process, hydrodesulfurization and the production of ammonia via the Haber process, the primary industrial method for the production of synthetic nitrogen fertilizer for growing 47 percent of food worldwide.
+Hydrogen may be used in fuel cells for local electricity generation or potentially as a transportation fuel.
+Hydrogen is produced as a by-product of industrial chlorine production by electrolysis. Although requiring expensive technologies, hydrogen can be cooled, compressed and purified for use in other processes on site or sold to a customer via pipeline, cylinders or trucks. The discovery and development of less expensive methods of production of bulk hydrogen is relevant to the establishment of a hydrogen economy.
+
+See also
+References
+Sources
+The Future of Hydrogen. International Energy Agency. 2019.
+
+Further reading
+Francesco Calise; et al., eds. (2019). Solar Hydrogen Production. Academic Press. ISBN 978-0-12-814853-2.

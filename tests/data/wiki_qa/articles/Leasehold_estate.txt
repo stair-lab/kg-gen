@@ -1,0 +1,119 @@
+A leasehold estate is an ownership of a temporary right to hold land or property in which a lessee or a tenant has rights of real property by some form of title from a lessor or landlord. Although a tenant does hold rights to real property, a leasehold estate is typically considered personal property.
+Leasehold is a form of land tenure or property tenure where one party buys the right to occupy land or a building for a given time. As a lease is a legal estate, leasehold estate can be bought and sold on the open market. A leasehold thus differs from a freehold or fee simple where the ownership of a property is purchased outright and after that held for an indeterminate length of time, and also differs from a tenancy where a property is let (rented) periodically such as weekly or monthly.
+Terminology and types of leasehold vary from country to country. Sometimes, but not always, a residential tenancy under a lease agreement is colloquially known as renting. The leaseholder can remain in occupation for a fixed period, measured in months or years. Terms of the agreement are contained in a lease, which has elements of contract and property law intertwined.
+
+History
+Laws governing landlord–tenant relationships can be found as far back as the Code of Hammurabi. However, the common law of the landlord-tenant relationship evolved in England during the Middle Ages. That law still retains many archaic terms and principles pertinent to a feudal social order and an agrarian economy, where land was the primary economic asset and ownership of land was the primary source of rank and status.
+The tenancy was essential to the feudal hierarchy after the statute Quia Emptores prohibited subinfeudation (the creation of new feudal estates by existing feudal landholders) in the late 13th century; a lord would own land, and the tenants became vassals. Leasehold estates can still be Crown land today. For example, in the Australian Capital Territory, all private land "ownerships" are leaseholds of Crown land.
+
+Terminology
+A distinction may be made between a residential tenancy, offering a person a place to live, and a business tenancy, where premises are occupied for business purposes. There may be different statutory provisions for residential and business tenancies, for example in the UK's Landlord and Tenant Act 1954, Part I (now largely superseded) dealt with residential tenancies and Part II dealt with business tenancies.
+
+Fixed-term tenancy or tenancy for years
+A "fixed-term tenancy" or tenancy for years lasts for some fixed period of time. Despite the name, such a tenancy can last for any period of time – even a tenancy for one week would be called a tenancy for years. In common law, the duration did not need to be certain, but could be conditioned upon the happening of some event (e.g. "until the crops are ready for harvest", "until the war is over"). This is now disfavored, and some jurisdictions have made fixed durations a requirement.
+
+Termination or expiration
+The tenancy will end automatically when the fixed term runs out or in the case of a tenancy that ends on the happening of an event when the event occurs. It is also possible for a tenant to give up the tenancy to the landlord, either expressly or implicitly. This process is known as a surrender of the lease. A tenancy may end when and if the tenant accepts a buyout agreement from their landlord. The landlord can offer to repurchase the property from their tenant as long as both parties agree upon the price (as with any other consideration, this need neither be market-rate, nor indeed monetary at all).
+Depending on the laws in force in a particular jurisdiction, different circumstances may legally arise where a tenant remains in possession of property after the expiration of a lease.
+
+Periodic tenancy
+A periodic tenancy, also known as a tenancy from year to year, month to month, or week to week, is an estate that exists for some period of time determined by the term of the payment of rent. An oral lease for a tenancy of years that violates the statute of frauds (by committing to a lease of more than—depending on the jurisdiction—one year without being in writing) may create a periodic tenancy, the construed term being dependent on the laws of the jurisdiction where the leased premises are located. In many jurisdictions the "default" tenancy, where the parties have not explicitly specified a different arrangement, and where none is presumed under local or business custom, is the month-to-month tenancy.
+
+Tenancy at will
+A tenancy at will or estate at will is a leasehold such that either the landlord or the tenant may terminate the tenancy at any time by giving reasonable notice. It usually occurs in the absence of a lease, or where the tenancy is not for consideration. Under the modern common law, tenancy at will can arise under the following circumstances:
+
+the parties expressly agree that the tenancy is at will and not for rent.
+a family member is allowed to live at home without formal arrangement. A nominal consideration may be required.
+a tenant wishes to occupy the property urgently, but there was insufficient time to negotiate and execute a lease. The tenancy at will terminates in this case as soon as a written lease is completed. The tenant must vacate the property if a lease fails to be realized.
+In a residential lease for consideration, a tenant may not be removed except for cause, even in the absence of a written lease. If a landlord can terminate the tenancy at will, a tenant by operation of law is also granted a reciprocal right to terminate at will. However, a lease that expressly continues at the will of the tenant ("for as long as the tenant desires to live on this land") does not automatically provide the landlord with a reciprocal right to terminate, even for cause. Rather, such language may be construed to convey to the tenant a life estate or even a fee simple.
+A tenancy at will terminates by operation of law, if:
+
+the tenant commits waste against the property;
+the tenant attempts to assign his tenancy;
+the landlord transfers his interest in the property;
+the landlord leases the property to another person;
+the tenant or the landlord dies.
+
+Tenancy at sufferance
+A tenancy at sufferance (sometimes called a holdover tenancy) is created when a tenant wrongfully holds over past the end of the duration period of the tenancy (for example, a tenant who stays past the expiration of his or her lease). In this case, the landlord can hold over the tenant to a new tenancy, and collect rent for the period the tenant has held over.
+A tenancy at sufferance may exist when a tenant remains in possession of property even after the end of the lease, until the landlord acts to eject the tenant. The occupant may legally be a trespasser at this point, and the possession of this type may not be a true estate in land, even if authorities recognize the condition to hold the tenant liable for rent. The landlord may be able to evict such a tenant at any time without notice. Action to evict will terminate a tenancy at sufferance, because the tenant no longer enjoys possession. Some jurisdictions impose an irrevocable election whereby the landlord treats the holdover as either a trespasser, or as a tenant at sufferance. A trespasser is not in possession; but a tenant at sufferance continues to enjoy possession of the real property.
+The landlord may also be able to impose a new lease on the holdover tenant. For a residential tenancy, such new tenancy lasts month to month. For a commercial tenancy of more than a year, the new tenancy is year to year; otherwise, the tenancy lasts for the same length of time as the duration under the original lease. In either case, the landlord can charge a higher rent, if the landlord, before the expiration of the original lease, has notified the tenant of the increase.
+Simply leaving property behind on the premises does not constitute possession; thus, a tenancy at sufferance cannot be established. E.g., Nathan Lane Assocs. v. Merchants Wholesale, 698 N.W.2d 136 (Iowa 2005); Brown v. Music, Inc., 359 P.2d 295 (Alaska 1961).
+
+Continuation tenancy
+In some jurisdictions, the tenant has a legal right to remain in occupation of the premises after the end of a lease unless the landlord complies with a formal process to dispossess the tenant of the property. For example, in England and Wales, a business tenant has a right to continue occupying their demise after the end of their lease under the provisions of sections 24–28 of the Landlord and Tenant Act 1954 (unless these provisions were formally excluded by agreement before the lease was completed). At the end of their lease they need do nothing but continue payment of rent at the previous level and uphold all other relevant covenants such as to keep the building in good repair. They cannot be evicted unless the landlord serves a formal notice to end the tenancy and successfully opposes the grant of the new lease to which the tenant has an automatic right. Even this can only be done under prescribed circumstances, for example the landlord's desire to occupy the premises himself or to demolish and redevelop the building.
+
+Contemporary practice
+Australia
+Leasehold land
+Leasehold land is a land holding leased to a person or company by the relevant state (as the Crown); however, all mineral rights are reserved to the Crown. There are different types of leasehold tenure from state to state. Pastoral leases cover about 44% of mainland Australia, mostly in arid and semi-arid regions and the tropical savannahs.
+There are three types of leasehold tenure in Australia:
+
+Term lease – usually 1–50 years, for a specified purpose.
+Perpetual lease, or lease in perpetuity – may be used only for a specified purpose.
+Freeholding lease – after approval is granted, convert a lease to freehold, and the lessee pays the purchase price in installments. This is an interim tenure; freehold title is not issued until all purchase costs have been paid.
+All land in the Australian Capital Territory (ACT) is leasehold, issued with 99-year leases. The rent on the leases was abolished by the Gorton government in 1970, with the leasehold system now "almost identical in operation" to the freehold tenure typical of residential properties in other Australian jurisdictions.
+
+Residential tenancies
+Australian residential tenancies differ from state to state, governed by local legislation.
+
+United Kingdom
+Modern leasehold estates in England and Wales can take one of four forms—the fixed-term tenancy or tenancy for years, the periodic tenancy, the tenancy at will, and the tenancy at sufferance. Forms no longer used include socage and burgage.
+When a landowner allows one or more persons, called "tenants", to use the land in some way for some fixed period, the land becomes a leasehold, and the resident- (or worker-) landowner relation is called a "tenancy". A tenant pays rent (a form of consideration) to the landowner. The leasehold can include buildings and other improvements to the land. The tenant can do one or more of: farm the leasehold, live on it, or practise a trade on it. Typically, leasehold estates are held by tenants for a specific period of time.
+In England in recent years, some new homes and apartments have been sold by large housebuilders with a leasehold where the ground rent payable doubles every 10 to 25 years, with consequently a very high price to buy out the lease. This has caused some recently built homes to be complicated to sell. In 2017, the British government launched a consultation on legal reforms to end such exploitative schemes.
+Scotland has different laws, and under Scots Law it has been forbidden by statute since 1974 to create a lease of a dwelling lasting longer than 20 years or to grant any other lease of over 175 years.
+
+United States
+In the US, food co-ops supply tenants with a place to grow their own produce. Rural tenancy is also a common practice. Under a rural tenancy, a person buys a large amount of land, and the rural community uses it agriculturally as a source of income.
+The term estate for years appears to be a US term. This refers to a leasehold estate for any specific period of time (the word "years" is misleading, as the duration of the lease could be a day, a week, a month, etc.). An estate for years is not automatically renewed.
+
+Duties of participants
+Duties of landlord
+The first duty of the landlord is to put the tenant in physical possession of the land at the outset of the lease (the English and majority rule, as opposed to the American rule which only requires the tenant be given legal possession, or the right to possess); the second is to provide the premises in a habitable condition—there is an implied warranty of habitability. If landlord violates either, the tenant can terminate the lease and move out, or stay on the premises, while continuing to pay rent, and sue the landlord for damages (or withhold rent and use breach of implied warranty of habitability as a defense when the landlord attempts to collect rent).
+The lease also includes an implied covenant of quiet enjoyment – landlord will not interfere with tenant's quiet enjoyment. This can be breached in three ways.
+
+Total eviction of the tenant through direct physical invasion by landlord.
+Partial eviction – when the landlord keeps the tenant off part of the leased property (even locking a single room). Tenant can stay on the remaining property without paying any rent.
+Partial eviction by someone other than landlord – where this occurs, rent is apportioned. If landlord claims to lease tenant an area of 1,000 square metres but 400 square metres of the area belongs to another person, tenant only has to pay 60% of the rent.
+
+Landlord's tort liability
+Under the common law, the landlord had no duties to the tenant to protect the tenant or the tenant's licensees and invitees, except in the following situations:
+
+Failure to disclose latent defects of which the landlord knows or has reason to know. The landlord is not obligated to repair the defect as long as the tenant is made aware of it, though typical rental agreements would make the landlord responsible for reasonable repairs.
+For a short-term lease (typically three months or less) of a furnished dwelling, the tenants are treated as invitees, and the landlord is liable for defects even if the landlord neither knows nor has reason to know of them.
+Common areas under landlord's control (e.g. hallways in an apartment building), if the landlord failed to maintain them to a reasonable standard or otherwise was negligent in their management.
+Injury resulting from landlord's negligent repairs, whatever the cause.
+Use by the general public, if the following three factors exist:
+The landlord knows or should know that the tenant is (or intends to) use the land for a public-facing purpose, such as if a shopkeeper rents premises at which to do business;
+The landlord knows or should know that there is a defect; and
+The landlord knows or should know that the tenant will not fix the defect (particularly when the agreement makes the landlord responsible for repairs).
+
+Duties of tenant
+Under the common law, the tenant has a number of duties to the landlord:
+
+to pay rent, when it is due,
+to avoid waste (intentional or negligent destruction) of the property. When a property is leased for the development of its natural resources, this duty may not apply inasmuch as “waste” (i.e. non-renewable use of the resources on the land) is essential to the purpose of the lease.
+to inform the landlord of anything notable that goes on affecting the property (such as building a structure, the occurrence of a fire, etc.)
+A tenant is liable to third-party invitees for negligent failure to correct a dangerous condition on the premise – even if the landlord was contractually liable.
+
+Effects of condemnation
+If land under lease to a tenant is seized by eminent domain, the tenant may be able to earn either a reduction in rent or a portion of the condemnation award (the price paid by the government) to the owner, depending on the amount of land taken, and the value of the leasehold property.
+With a partial taking of the land, the tenant may claim apportioned rent for property taken. For example, suppose a tenant leases land for six months for ¤1,000 per month, and that two months into the lease, the government condemns 25% of the land. The tenant will then be entitled to take a portion of the condemnation award equal to 25% of the rent due for the remaining four months of the lease—¤1,000, derived from ¤250 per month for four months.
+A full taking, however, extinguishes the lease and excuses all rent from that point. The tenant will not be entitled to any portion of the condemnation award, unless the value of the lease was greater than the rent paid. In this case, the tenant can recover the difference. Suppose in the above example that the land's market value was actually ¤1,200 a month, but the ¤1,000 per month rate represented a break given to the tenant by the landlord. Because the tenant is losing the ability to continue renting the land at this bargain rate (and probably must move to more expensive land), the tenant will be entitled to the difference between the lease rate and the market value – ¤200 per month for a total of ¤800.
+
+See also
+Case v. Minot
+Housing cooperative
+Landlord and Tenant Act
+Landlord harassment
+Leasehold valuation tribunal
+Life estate
+Rental agreement
+Tenant farmer
+Tenement
+Tenement (law)
+
+References
+External links
+
+Lease advice, the UK government's leasehold advisory service for England

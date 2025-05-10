@@ -1,0 +1,66 @@
+The vas deferens (pl.: vasa deferentia), ductus deferens (pl.: ductūs deferentes), or sperm duct is part of the male reproductive system of many vertebrates. In mammals, spermatozoa are produced in the seminiferous tubules and flow into the epididymal duct. The end of the epididymis is connected to the vas deferens. The vas deferens ends with an opening into the ejaculatory duct at a point where the duct of the seminal vesicle also joins the ejaculatory duct.
+The vas deferens is a partially coiled tube which exits the abdominal cavity through the inguinal canal.
+
+Etymology
+Vas deferens is Latin, meaning "carrying-away vessel" while ductus deferens, also Latin, means "carrying-away duct".
+
+Structure
+The human vas deferens measures 30–35 cm in length, and 2–3 mm in diameter.: 1297   It is continuous proximally with the tail of the epididymis,: 1296  and exhibits a tortuous, convoluted initial/proximal section (which measures 2–3 cm in length). Distally, it forms a dilated and tortuous segment termed the ampulla of vas deferens before ending: 1297  by uniting with a duct of the seminal vesicle to form the ejaculatory duct.  Together they form part of the spermatic cord.
+
+Blood supply
+The vasa deferentia are supplied with blood by accompanying arteries, the (arteries of vas deferens). These arteries normally arises from the superior (sometimes inferior) vesical arteries, a branch of the internal iliac arteries.
+
+Innervation
+The vas deferens receives innervation from an autonomic plexus of post-ganglionic sympathetic fibres derived from the inferior hypogastric plexus.: 1297 
+It is innervated by a variety of nerve endings, although of the efferent nerves the sympathetic innveration dominates. Adrenergic junctions (those which release noradrenaline) are found in the smooth muscle layers. Cholinergic synapses and vasoactive intestinal peptide synapses are found in the connective tissue of the mucosa.
+
+Anatomical relations
+Within the spermatic cord, the vas deferens is situated posterior (and parallel to) the vessels of the spermatic cord.: 1297 
+The vas deferens traverses the inguinal canal to reach the pelvic cavity; it enters the pelvic cavity lateral to the inferior epigastric vessels. At the deep inguinal ring, the vas deferens diverges from the testicular vessels to pass medially to reach the base of the prostate posteriorly.: 1297
+
+Histology
+The vas deferens consists of an external adventitial sheath containing blood vessels and nerves, a muscular middle layer composed of three layers of smooth muscle (with a circular muscle layer interposed between two longitudinal muscle layers), and an internal mucosal lining consisting of pseudostratified columnar epithelium (which bears the non-motile stereocilia).
+The vas deferens has the greatest muscle-to-lumen ratio of any hollow organ.: 1297
+
+Function
+During ejaculation, the smooth muscle in the walls of the vas deferens contracts reflexively, thus propelling the sperm forward. This is also known as peristalsis. The epithelial sodium channel ENaC is strongly expressed in smooth muscle cells of the vas deferens. It has been suggested that ENaC functions as a mechanosensor in vascular smooth muscle cells that initiate pressure‐induced constriction known as the "myogenic response". Ion channels ENaC and CFTR, aquaporin of type AQP9 are localized on the apical border of the epithelia. Thus, these channels are involved concurrently in the regulation of fluid and electrolyte balance in the lumen of the vas deferens.
+The sperm are transferred from each vas deferens into the urethra, partially mixing with secretions from the male accessory sex glands such as the seminal vesicles, prostate gland and the bulbourethral glands, which form the bulk of semen.
+
+Clinical significance
+Damage to the vas deferens during inguinal hernia repair may cause infertility.
+
+Contraception
+A vasectomy is a method of contraception in which the vasa deferentia are permanently cut. In some cases, it can be reversed. A modern variation, vas-occlusive contraception, involves injecting an obstructive material into the ductus to block the flow of sperm.
+
+Disease
+The vas deferens may be obstructed, or it may be completely absent in a condition known as congenital absence of the vas deferens (CAVD, a potential feature of cystic fibrosis), causing male infertility. Acquired obstructions can occur due to infections. To treat these causes of male infertility, sperm can be harvested by testicular sperm extraction (TESE) or microsurgical epididymal sperm aspiration (MESA).
+
+Uses in pharmacology and physiology
+The vas deferens has a dense sympathetic innervation, making it a useful system for studying sympathetic nerve function and for studying drugs that modify neurotransmission.
+It has been used:
+
+as a bioassay for the discovery of enkephalins, the endogenous opiates.
+to demonstrate quantal transmission from sympathetic nerve terminals.
+as the first direct measure of free Ca2+ concentration in a postganglionic nerve terminal.
+to develop an optical method for monitoring packeted transmission (similar to quantal transmission).
+
+Other animals
+Most vertebrates have some form of duct to transfer the sperm from the testes to the urethra. In cartilaginous fish and amphibians, sperm are carried through the archinephric duct, which also partially helps to transport urine from the kidneys. In teleosts, there is a distinct sperm duct, separate from the ureters, and often called the vas deferens, although probably not truly homologous with that in humans. The vas deferens loops over the ureter in placental mammals, but not in marsupial mammals.
+In cartilaginous fishes, the part of the archinephric duct closest to the testis is coiled up to form an epididymis. Below this are a number of small glands secreting components of the seminal fluid. The final portion of the duct also receives ducts from the kidneys in most species.
+In amniotes (mammals, birds, and reptiles), the archinephric duct has become a true vas deferens, and is used only for conducting sperm, never urine. As in cartilaginous fish, the upper part of the duct forms the epididymis. In many species, the vas deferens ends in a small sac for storing sperm.
+The only vertebrates to lack any structure resembling a vas deferens are the primitive jawless fishes, which release sperm directly into the body cavity, and then into the surrounding water through a simple opening in the body wall.
+
+Additional images
+See also
+Intra vas device
+Excretory duct of seminal gland
+Vas deferens in the reproductive system of gastropods
+
+References
+External links
+
+Anatomy photo:36:07-0301 at the SUNY Downstate Medical Center—"Inguinal Region, Scrotum and Testes: Layers of the Spermatic Cord"
+Anatomy photo:44:02-0301 at the SUNY Downstate Medical Center—"The Male Pelvis: Distribution of the Peritoneum in the Male Pelvis"
+MedicalMnemonics.com: 2424 319   
+Cross section image: pelvis/pelvis-e12-15—Plastination Laboratory at the Medical University of Vienna
+inguinalregion at The Anatomy Lesson by Wesley Norman (Georgetown University) (testes)

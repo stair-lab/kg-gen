@@ -1,0 +1,300 @@
+BlackBerry is a discontinued brand of smartphones and other related mobile services and devices. The line was originally developed and maintained by the Canadian company BlackBerry Limited (formerly known as Research In Motion, or RIM) from 1999 to 2016, after which it was licensed to various companies.
+Specializing in secure communications and mobile productivity, BlackBerry was once well known for the keyboards on most of its devices and software services that ran through its own servers. At its peak in September 2011, there were 85 million BlackBerry subscribers worldwide. However, BlackBerry lost its dominant position in the market due to the success of the Android and iOS platforms; its numbers had fallen to 23 million in March 2016, a decline of almost three-quarters.
+Historically, BlackBerry devices used a proprietary operating system—known as BlackBerry OS—developed by BlackBerry Limited. In 2013, BlackBerry introduced BlackBerry 10, a major revamp of the platform based on the QNX operating system. BlackBerry 10 was meant to replace the aging BlackBerry OS platform with a new system that was more in line with the user experiences of Android and iOS platforms. In 2015, BlackBerry began releasing Android-based smartphones, beginning with the BlackBerry Priv.
+On September 28, 2016, BlackBerry Limited announced it would cease designing its own BlackBerry devices in favor of licensing to partners to design, manufacture, and market. The original licensors were BB Merah Putih for the Indonesian market, Optiemus Infracom for the South Asian market, and BlackBerry Mobile (a trade name of TCL Technology) for all other markets.
+On January 4, 2022, BlackBerry Limited discontinued blackberry.net email, BlackBerry Messenger, BlackBerry World, BlackBerry Protect and Voice Search for all non-Android devices. All other features on non-Android devices are operational.
+
+History
+Research in Motion (RIM), founded in Waterloo, Ontario, first developed the Inter@ctive Pager 900, announced on September 18, 1996. The Inter@ctive Pager 900 was a clamshell-type device that allowed two-way paging. After the success of the 900, the Inter@ctive Pager 800 was created for IBM, which bought US$10 million worth of them on February 4, 1998. The next device to be released was the Inter@ctive Pager 950, on August 26, 1998. The first device to carry the BlackBerry name was the BlackBerry 850, an email pager, released January 19, 1999. Although identical in appearance to the 950, the 850 was the first device to integrate email and the name Inter@ctive Pager was no longer used to brand the device.
+The first BlackBerry device, the 850, was introduced in 1999 as a two-way pager in Munich, Germany. BlackBerry was a solution devised by RIM for delivering e-mail over several different wireless networks. The name BlackBerry was coined by the marketing company Lexicon Branding. The name was chosen out of about 40 potential names, because of the resemblance of the keyboard's buttons to that of the drupelets that compose the blackberry fruit, and the instant pronunciation which reflected the speed of this push email system.
+The original BlackBerry devices, the RIM 850 and 857, used the DataTAC network. In 2002, the more commonly known convergent BlackBerry 5810 smartphone was released, which supports push email, mobile telephone, text messaging, Internet faxing, Web browsing and other wireless information services.
+BlackBerry gained market share in the mobile industry by concentrating on email. BlackBerry began to offer email service on non-BlackBerry devices, such as the Palm Treo, through the proprietary BlackBerry Connect software.
+The original BlackBerry device had a monochrome display while newer models installed color displays. All newer models have been optimized for "thumbing", the use of only the thumbs to type on a keyboard. The Storm 1 and Storm 2 include a SureType keypad for typing. Originally, system navigation was achieved with the use of a scroll wheel mounted on the right side of device models prior to the 8700. The trackwheel was replaced by the trackball with the introduction of the Pearl series, which allowed four-way scrolling. The trackball was replaced by the optical trackpad with the introduction of the Curve 8500 series. Models made to use iDEN networks, such as Nextel, SouthernLINC, NII Holdings, and Mike also incorporate a push-to-talk (PTT) feature, similar to a two-way radio.
+On January 30, 2013, BlackBerry announced the release of the Z10 and Q10 smartphones. Both models consisted of touch screens: the Z10 features an all-touch design and the Q10 combines a QWERTY keyboard with touchscreen features.
+On March 5, 2013, BlackBerry announced the signature of a large contract to secure German government Data and Voice communications. Angela Merkel signed the contract publicly and appeared at Cebit along with BlackBerry Europe Managing Director, Herve Liboureau.
+During the second financial quarter of 2013, BlackBerry sold 6.8 million handsets, but was eclipsed by the sales of competitor Nokia's Lumia model for the first time.
+On August 12, 2013, BlackBerry announced the intention to sell the company due to their increasingly unfavorable financial position and competition in the mobile industry. Largely due to lower than expected sales on the Z10, BlackBerry announced on September 20, 2013, that 4,500 full- and part-time positions (an estimated 40% of its operating staff) have been terminated and its product line has been reduced from six to four models. On September 23, 2013, Fairfax Financial, which owns a 10% equity stake in BlackBerry, made an offer to acquire BlackBerry for $4.7 billion (at $9.00 per share). Following the announcement, BlackBerry announced an acceptance of the offer provisionally but it would continue to seek other offers until November 4, 2013.
+On November 4, 2013, BlackBerry replaced Thorsten Heins with new interim CEO John S. Chen, the former CEO of Sybase. On November 8, the BlackBerry board rejected proposals from several technology companies for various BlackBerry assets on grounds that a break-up did not serve the interest of all stakeholders, which include employees, customers and suppliers in addition to shareholders, said the sources, who did not want to be identified as the discussions were confidential. On November 13, 2013, Chen released an open message: "We are committed to reclaiming our success."
+On December 17, 2013, BlackBerry announced a contract for more than 10'000 BlackBerry Z10 for Peugeot SA.
+On February 26, 2014, during Mobile World Congress, Airbus signed a contract with BlackBerry Europe Managing Director, Herve Liboureau, for the BlackBerry 10 entire Mobility Management suite.
+In early July 2014, the TechCrunch online publication published an article titled "BlackBerry Is One Of The Hottest Stocks Of 2014, Seriously", following a 50 percent rise in the company's stock, an increase that was greater than peer companies such as Apple and Google; however, an analysis of BlackBerry's financial results showed that neither revenue or profit margin were improved, but, instead, costs were markedly reduced. During the same period, BlackBerry also introduced the new Passport handset—consisting of a 4.5-inch (11 cm) square screen with "Full HD-class" (1,440 x 1,440) resolution and marketed to professional fields such as healthcare and architecture—promoted its Messenger app and released minor updates for the BB10 mobile operating system.
+On December 17, 2014, the BlackBerry Classic was introduced; it is meant to be more in line with the former Bold series, incorporating navigation buttons similar to the previous BlackBerry OS devices. When it was discontinued in June 2016, it was the last BlackBerry with a keyboard that dominates the front of the phone in the classic style.
+In September 2015, BlackBerry officially unveiled the BlackBerry Priv, a slider, with a German made camera lens with 18 megapixels, phablet that utilizes the Android operating system with additional security and productivity-oriented features inspired by the BlackBerry operating systems. However, BlackBerry COO Marty Beard told Bloomberg that "The company's never said that we would not build another BB10 device."
+On July 26, 2016, the company hinted that another model with a physical keyboard was "coming shortly". The same day, BlackBerry unveiled a mid-range Android model with only an on-screen keyboard, the BlackBerry DTEK50, powered by the then latest version of Android Marshmallow (version 6.0). (The Priv could be upgraded to the same version of the
+Android operating system as well.) This device featured a 5.2-inch full high-definition (or in other words, a FHD), display. BlackBerry chief security officer David Kleidermacher stressed data security during the launch, indicating that this model included built-in malware protection and encryption of all user information. Industry observers pointed out that the DTEK50 is a re-branded version of the Alcatel Idol 4 with additional security-oriented software customizations, manufactured and designed by TCL.
+In September 2016, BlackBerry Limited agreed to a licensing partnership with an Indonesian company to set up a new joint venture company called BB Merah Putih to "source, distribute, and market BlackBerry handsets in Indonesia".
+On October 25, 2016, BlackBerry released the BlackBerry DTEK60, the second device in the DTEK series, manufactured and designed by TCL. The device features a 5.5-inch Quad-HD touch screen display running on Qualcomm's Snapdragon 820 processor with support for Quick Charge 3.0, USB Type-C, and a fingerprint sensor.
+In October 2016, it was announced that BlackBerry will be working with the Ford Motor Company of Canada to develop software for the car manufacturer's connected vehicles.
+In February 2017, a $20m class action lawsuit against BlackBerry was announced by the former employees of the company.
+In March 2017, BB Merah Putih announced the BlackBerry Aurora, an Indonesian-made and sold device, running an operating system based on Android 7.0 out of the box.
+In March 2018, it was announced that BlackBerry would be working with Jaguar Land Rover to develop software for the car manufacturer's vehicles. In June 2018, BlackBerry in partnership with TCL Mobile and Optiemus Infracom launched the KEY2 at a global launch in New York. This is the third device to sport a keyboard while running Google's Android OS.
+In 2017, BlackBerry Mobile released the BlackBerry KeyOne—which was known for having a physical keyboard below its 4.5 inch touchscreen and a long battery life—and was the last device to be designed internally by BlackBerry. Also in 2017, BlackBerry Mobile, under their partner license agreements, released the BlackBerry Aurora, BlackBerry KeyOne L/E BLACK, and the BlackBerry Motion.
+In June 2018, the BlackBerry Key2 was launched in international markets, and in India by licensee Optiemus Infracom. The Key2 sports a dual camera setup and incorporates features such as portrait mode and optical zoom. In August 2018, after the launch of the BlackBerry Key2, Optiemus Infracom announced the launch of the BlackBerry Evolve and Evolve X smartphones for the Indian market sold exclusively on Amazon India. The smartphones have been conceptualized, designed and manufactured in India.
+As of 2019, BB Merah Putih's website has been repurposed, with BlackBerry Limited stating that only technical support will be offered for the Indonesian devices built by the company. Additionally, the operational status of Optiemus is unknown as of September 2020, as there have not been any updates posted regarding BlackBerry products in India since 2018.
+On January 4, 2022, BlackBerry Limited discontinued services for all non-Android BlackBerry devices.
+In October 2023, it was announced that Blackberry Chief Operating Officer, John Chen would be leaving the company after ten years. Richard Lynch will take over as interim CEO and chair of the board.
+
+Intellectual property litigation
+NTP Inc case
+In 2000 NTP sent notice of its wireless email patents to a number of companies and offered to license the patents to them. NTP brought a patent-infringement lawsuit against one of the companies, Research In Motion, in the United States District Court for the Eastern District of Virginia. This court is well known for its strict adherence to timetables and deadlines, sometimes referred to as the "rocket docket", and is particularly efficient at trying patent cases.
+The jury eventually found that the NTP patents were valid; furthermore, the jury established that RIM had infringed the patents in a "willful" manner, and the infringement had cost NTP US$33 million in damages (the greater of a reasonable royalty or lost profits). The judge, James R. Spencer, increased the damages to US$53 million as a punitive measure due to the willful nature of the infringement. He also instructed RIM to pay NTP's legal fees of US$4.5 million and issued an injunction ordering RIM to cease and desist infringing the patents—this decision would have resulted in the closure of BlackBerry's systems in the US. RIM appealed all of the findings of the court. The injunction and other remedies were stayed pending the outcome of the appeals.
+In March 2005 during appeal, RIM and NTP tried to negotiate a settlement of their dispute; the settlement was to be for $450 million. Negotiations broke down due to other issues. On June 10, 2005, the matter returned to the courts. In early November 2005 the US Department of Justice filed a brief requesting that RIM's service be allowed to continue because of the large number of BlackBerry users in the US Federal Government.
+In January 2006 the US Supreme Court refused to hear RIM's appeal of the holding of liability for patent infringement, and the matter was returned to a lower court. The prior granted injunction preventing all RIM sales in the US and use of the BlackBerry device might have been enforced by the presiding district court judge had the two parties been unable to reach a settlement.
+On February 9, 2006, the US Department of Defense (DOD) filed a brief stating that an injunction shutting down the BlackBerry service while excluding government users was unworkable. The DOD also stated that the BlackBerry was crucial for national security given the large number of government users.
+On February 9, 2006, RIM announced that it had developed software workarounds that would not infringe the NTP patents, and would implement those if the injunction was enforced.
+On March 3, 2006, after a stern warning from Judge Spencer, RIM and NTP announced that they had settled their dispute. Under the terms of the settlement, RIM has agreed to pay NTP $612.5 million (USD) in a "full and final settlement of all claims." In a statement, RIM said that "all terms of the agreement have been finalized and the litigation against RIM has been dismissed by a court order this afternoon. The agreement eliminates the need for any further court proceedings or decisions relating to damages or injunctive relief." The settlement amount is believed low by some analysts, because of the absence of any future royalties on the technology in question.
+On May 26, 2017, BlackBerry announced that it had reached an agreement with Qualcomm Incorporated resolving all amounts payable in connection with the interim arbitration decision announced on April 12, 2017. Following a joint stipulation by the parties, the arbitration panel has issued a final award providing for the payment by Qualcomm to BlackBerry of a total amount of U.S.$940,000,000 including interest and attorneys' fees, net of certain royalties due from BlackBerry for calendar 2016 and the first quarter of calendar 2017.
+In summer 2020, the Texas-based startup OnwardMobility signed a new licensing agreement with BlackBerry Limited to develop a new 5G BlackBerry smartphone. OnwardMobility was cooperating with BlackBerry Limited and FIH Mobile (a subsidiary of Foxconn) as they "sought to revitalize the iconic BlackBerry brand through an Android-based, next-gen Wi-Fi device." However, in a statement released on February 18, 2022, OnwardMobility said that not only would the development of the new BlackBerry device not be moving forward, but the company itself would be shutting down, as well.
+
+KIK
+On November 24, 2010, Research In Motion (RIM) removed Kik Messenger from BlackBerry App World and limited the functionality of the software for its users. RIM also sued Kik Interactive for patent infringement and misuse of trademarks. In October 2013, the companies settled the lawsuit, with the terms undisclosed.
+
+Facebook and Instagram
+In 2018 it was reported that BlackBerry would be filing legal action against Facebook over perceived intellectual property infringements within both Facebook Messenger and WhatsApp as well as with Instagram. They settled for an undisclosed amount on the 15th of January 2021.
+
+Service outages
+At various stages of the company's history it suffered occasional service outages that have been referred to in the media as "embarrassing".
+In 2005 the company suffered a relatively short-term outage reportedly among a small handful of North America carriers. The service was restored after several hours.
+In 2007 the e-mail service suffered an outage which led for calls by some questioning the integrity towards BlackBerry's perceived centralized system.
+In 2009 the company had an outage reportedly covering the whole of North America.
+At 2011-10-10 10:00 UTC began a multi-day outage in Europe, the Middle East and Africa, affecting millions of BlackBerry users. There was another outage the following day. By October 12, 2011, the BlackBerry Internet Service went down in North America. Research In Motion attributed data overload due to switch failures in their two data centres in Waterloo in Canada and Slough in England as the cause of the service disruptions. The outage intensified calls by shareholders for a shake-up in the company's leadership.
+Some estimates by BlackBerry are that the company lost between $50 million to $54 million due to global email service failure and outage in 2011.
+
+Retail stores
+Many BlackBerry retail stores operated outside North America, such as in Thailand, Indonesia, United Arab Emirates. In December 2007 a BlackBerry Store opened in Farmington Hills, Michigan. The store offers BlackBerry device models from AT&T, T-Mobile, Verizon, and Sprint, the major U.S. carriers which offer smartphones. There were three prior attempts at opening BlackBerry stores in Toronto (Canada) and London (United Kingdom), but they eventually folded. There are also BlackBerry Stores operated by Wireless Giant at airports in Atlanta, Boston, Charlotte, Minneapolis–St. Paul, Philadelphia, Houston, and Newark, but several have been slated for closing.
+On September 23, 2015, BlackBerry opened its first pop-up store in Frankfurt, Germany.
+
+Certification
+BCESA (BlackBerry Certified Enterprise Sales Associate, BCESA40 in full) is a BlackBerry Certification for professional users of RIM (Research In Motion) BlackBerry wireless email devices. The Certification requires the user to pass several exams relating to the BlackBerry Devices, all its functions including Desktop software and providing technical support to Customers of BlackBerry Devices.
+The BCESA, BlackBerry Certified Enterprise Sales Associate qualification, is the first of three levels of professional BlackBerry Certification.
+
+BCTA (BlackBerry Certified Technical Associate)
+BlackBerry Certified Support Associate T2
+More information on certifications is on the BlackBerry.com website.
+The BlackBerry Technical Certifications available are:
+
+BlackBerry Certified Enterprise Server Consultant (BCESC)
+BlackBerry Certified Server Support Technician (BCSST)
+BlackBerry Certified Support Technician (BCSTR)
+
+Products
+Android devices:
+
+BlackBerry Evolve X (2018)
+BlackBerry Evolve (2018)
+BlackBerry Key2 (2018)
+BlackBerry Motion (2017)
+BlackBerry Aurora (2017)
+BlackBerry KeyOne (2017)
+BlackBerry DTEK60 (2016)
+BlackBerry DTEK50 (2016)
+BlackBerry Priv (2015)
+BlackBerry 10 devices:
+
+BlackBerry Leap (2015)
+BlackBerry Classic (2014)
+BlackBerry Passport (2014)
+BlackBerry Porsche Design P'9983 (2014)
+BlackBerry Z3 (2014)
+BlackBerry Z30 (2013)
+BlackBerry Porsche Design P'9982 (2013)
+BlackBerry Q10 (2013)
+BlackBerry Z10 (2013)
+BlackBerry Q5 (2013)
+BlackBerry 7 devices:
+
+BlackBerry Bold series (2011): BlackBerry Bold 9900/9930/9790
+BlackBerry 9720 (2013)
+BlackBerry Porsche Design (2012): BlackBerry Porsche Design P'9981
+BlackBerry Torch series (2011): BlackBerry Torch 9810
+BlackBerry Torch series (2011): BlackBerry Torch 9850/9860
+BlackBerry Curve series (2011): BlackBerry 9350/9360/9370/9380
+BlackBerry Curve 9320/9220 (2012)
+BlackBerry 6 devices:
+
+BlackBerry Torch series (2010): BlackBerry Torch 9800
+BlackBerry Curve series (2010): BlackBerry Curve 9300/9330
+BlackBerry Style 9670 (2010)
+BlackBerry Pearl series (2010): BlackBerry Pearl 3G 9100/9105
+BlackBerry Bold series (2010–2011): BlackBerry Bold 9780/9788
+BlackBerry 5 devices:
+
+BlackBerry Bold series (2008–2010): BlackBerry Bold 9000/9700/9650
+BlackBerry Tour series (2009): BlackBerry Tour (9630)
+BlackBerry Storm series (2009): BlackBerry Storm 2 (9520/9550)
+BlackBerry Storm series (2008): BlackBerry Storm (9500/9530)
+BlackBerry Curve series (2009–2010): BlackBerry Curve 8900 (8900/8910/8980)
+BlackBerry Curve series (2009): BlackBerry Curve 8520/8530
+BlackBerry 4 devices:
+
+BlackBerry 8800 series (2007): BlackBerry 8800/8820/8830
+BlackBerry Pearl series (2006): BlackBerry Pearl 8100/8110/8120/8130
+BlackBerry Pearl Flip series (2008): BlackBerry Pearl Flip 8220/8230
+BlackBerry Curve series (2007): BlackBerry Curve 8300 (8300/8310/8320/8330/8350i)
+BlackBerry 3 devices:
+
+BlackBerry Java-based series: 5000, 6000
+BlackBerry 2 devices:
+
+BlackBerry phone series: BlackBerry Charm 7100
+BlackBerry color series: 7200, 7500, 7700
+BlackBerry 1 devices:
+
+BlackBerry pager models: 850, 857, 950, 957
+
+Hardware
+Modern LTE based phones such as the BlackBerry Z10 have a Qualcomm Snapdragon S4 Plus, a proprietary Qualcomm SOC which is based on ARMv7-A architecture, featuring two 1.5 GHz Qualcomm Krait CPU cores, and a 400 MHz Adreno 225 GPU. GSM-based BlackBerry phones incorporate an ARM 7, 9 or 11 processor. Some of the BlackBerry models (Torch 9850/9860, Torch 9810, and Bold 9900/9930) have a 1.2 GHz MSM8655 Snapdragon S2 SOC, 768 MB system memory, and 8 GB of on-board storage. Entry-level models, such as the Curve 9360, feature a Marvell PXA940 clocked at 800 MHz.
+Some previous BlackBerry devices, such as the Bold 9000, were equipped with Intel XScale 624 MHz processors. The Bold 9700 featured a newer version of the Bold 9000's processor but is clocked at the same speed. The Curve 8520 featured a 512 MHz processor, while BlackBerry 8000 series smartphones, such as the 8700 and the Pearl, are based on the 312 MHz ARM XScale ARMv5TE PXA900. An exception to this is the BlackBerry 8707 which is based on the 80 MHz Qualcomm 3250 chipset; this was due to the PXA900 chipset not supporting 3G networks. The 80 MHz processor in the BlackBerry 8707 meant the device was often slower to download and render web pages over 3G than the 8700 was over EDGE networks. Early BlackBerry devices, such as the BlackBerry 950, used Intel 80386-based processors.
+BlackBerry's latest Flagship phone the BlackBerry Z30 based on a 5-inch Super AMOLED, 1280×720 resolution, at 295 ppi 24-bit color depth and powered by Quad-Graphics and Qualcomm's Dual Core 1.7 GHz MSM8960T Pro.
+The first BlackBerry with an Android operating system was released in late November 2015, the 192 grams (6.8 ounces) BlackBerry Priv. It launched with version 5.1.1 but was later upgraded to version 6.0 Android Marshmallow. It was first available in four countries but increased to 31 countries by February 28, 2016.
+Employing a Qualcomm 8992 Snapdragon 808 Hexa-Core, 64-bit, Adreno 418, 600 MHz GPU with 3 GB RAM processor, this unit is equipped with a curved 5.4-inch (2560 x 1440) OLED display and a sliding QWERTY keyboard which is hidden when not in use; Google's voice recognition that allows for dictating e-mails is also available. The Priv retained the best BlackBerry 10 features. Its 3,410 mAh battery is said to provide 22.5 hours of mixed use. The 18-megapixel camera, with a Schneider-Kreuznach lens, can also record 4K video; a secondary selfie camera is also provided. Several important apps unique to the Priv were available from Google Play by mid December.
+
+Software
+A new operating system, BlackBerry 10, was released for two new BlackBerry models (Z10 and Q10) on January 30, 2013. At BlackBerry World 2012, RIM CEO Thorsten Heins demonstrated some of the new features of the OS, including a camera which is able to rewind frame-by-frame separately of individual faces in an image, to allow selection of the best of different shots, which is then stitched seamlessly to an optimal composite, an intelligent, predictive, and adapting keyboard, and a gesture based user interface designed around the idea of "peek" and "flow". Apps are available for BlackBerry 10 devices through the BlackBerry World storefront.
+The previous operating system developed for older BlackBerry devices was BlackBerry OS, a proprietary multitasking environment developed by RIM. The operating system is designed for use of input devices such as the track wheel, track ball, and track pad. The OS provides support for Java MIDP 1.0 and WAP 1.2. Previous versions allowed wireless synchronisation with Microsoft Exchange Server email and calendar, as well as with Lotus Domino email. OS 5.0 provides a subset of MIDP 2.0, and allows complete wireless activation and synchronisation with Exchange email, calendar, tasks, notes and contacts, and adds support for Novell GroupWise and Lotus Notes. The BlackBerry Curve 9360, BlackBerry Torch 9810, Bold 9900/9930, Curve 9310/9320 and Torch 9850/9860 featured the 2011 BlackBerry OS 7. Apps are available for these devices through BlackBerry World (which before 2013 was called BlackBerry App World).
+
+Third-party developers can write software using these APIs, and proprietary BlackBerry APIs as well. Any application that makes use of certain restricted functionality must be digitally signed so that it can be associated to a developer account at RIM. This signing procedure guarantees the authorship of an application but does not guarantee the quality or security of the code. RIM provides tools for developing applications and themes for BlackBerry. Applications and themes can be loaded onto BlackBerry devices through BlackBerry World, Over The Air (OTA) through the BlackBerry mobile browser, or through BlackBerry Desktop Manager.
+BlackBerry devices, as well as Android, iOS, and Windows Phone platforms, have the ability to use the proprietary BlackBerry Messenger, also known as BBM, software for sending and receiving encrypted instant messages, voice notes, images and videos via BlackBerry PIN. As long as your cell phone has a data plan these messages are all free of charge. Some of the features of BBM include groups, bar-code scanning, lists, shared calendars, BBM Music and integration with apps and games using the BBM social platform.
+In April 2013, BlackBerry announced that it was shutting down its streaming music service, BBM Music, which was active for almost two years since its launch. BlackBerry Messenger Music closed on June 2, 2013.
+In July 2014, BlackBerry revealed BlackBerry Assistant, a new feature for BlackBerry OS 10.3, and BlackBerry Passport hardware. The feature is a digital personal assistant to help keep you "organized, informed and productive."
+In December 2014, BlackBerry and NantHealth, a healthcare-focused data provider, launched a secure cancer genome browser, giving doctors the ability to access patients' genetic data on the BlackBerry Passport smartphone.
+On January 3, 2022, BlackBerry announced that they would discontinue their services on all BlackBerry phones not running on Android on January 4. According to BlackBerry, "As of this date, devices running these legacy services and software through either carrier or Wi-Fi connections will no longer reliably function, including for data, phone calls, SMS and 9-1-1 functionality".
+
+Phones with BlackBerry email client
+Several non-BlackBerry mobile phones have been released featuring the BlackBerry email client which connects to BlackBerry servers. Many of these phones have full QWERTY keyboards.
+
+AT&T Tilt
+HTC Advantage X7500
+HTC TyTN
+Motorola MPx220, some models
+Nokia 6810
+Nokia 6820
+Nokia 9300
+Nokia 9300i
+Nokia 9500
+Nokia Eseries phones, except models Nokia E66, Nokia E71
+Qtek 9100
+Qtek 9000
+Samsung t719
+Siemens SK65
+Sony Ericsson P910
+Sony Ericsson P990
+Sony Ericsson M600i
+Sony Ericsson P1
+
+Third-party software
+Third-party software available for use on BlackBerry devices includes full-featured database management systems, which can be used to support customer relationship management clients and other applications that must manage large volumes of potentially complex data.
+In March 2011, RIM announced an optional Android player that could play applications developed for the Android system would be available for the BlackBerry PlayBook, RIM's first entry in the tablet market.
+On August 24, 2011 Bloomberg News reported unofficial rumors that BlackBerry devices would be able to run Android applications when RIM brings QNX and the Android App Player to BlackBerry.
+On October 20, 2011, RIM officially announced that Android applications could run, unmodified, on the BlackBerry tablet and the newest BlackBerry phones, using the newest version of its operating system.
+
+Connectivity
+BlackBerry smartphones can be integrated into an organization's email system through a software package called BlackBerry Enterprise Server (BES) through version 5, and BlackBerry Enterprise Service (BES) as of version 10. (There were no versions 6 through 9.) Versions of BES are available for Microsoft Exchange, Lotus Domino, Novell GroupWise and Google Apps. While individual users may be able to use a wireless provider's email services without having to install BES themselves, organizations with multiple users usually run BES on their own network. BlackBerry devices running BlackBerry OS 10 or later can also be managed directly by a Microsoft Exchange Server, using Exchange ActiveSync (EAS) policies, in the same way that an iOS or Android device can. (EAS supports fewer management controls than BES does.) Some third-party companies provide hosted BES solutions. Every BlackBerry has a unique ID called a BlackBerry PIN, which is used to identify the device to the BES. BlackBerry at one time provided a free BES software called BES Express (BESX).
+The primary BES feature is to relay email from a corporate mailbox to a BlackBerry phone. The BES monitors the user's mailbox, relaying new messages to the phone via BlackBerry's Network Operations Center (NOC) and user's wireless provider. This feature is known as push email, because all new emails, contacts, task entries, memopad entries, and calendar entries are pushed out to the BlackBerry device immediately (as opposed to the user synchronising the data manually or having the device poll the server at intervals).
+BlackBerry also supports polling email, through third-party applications. The messaging system built into the BlackBerry only understands how to receive messages from a BES or the BIS, these services handle the connections to the user's mail providers. Device storage also enables the mobile user to access all data off-line in areas without wireless service. When the user reconnects to wireless service, the BES sends the latest data.
+A feature of the newer models of the BlackBerry is their ability to quickly track the user's current location through trilateration without the use of GPS, thus saving battery life and time. Trilateration can be used as a quick, less battery intensive way to provide location-aware applications with the co-ordinates of the user. However, the accuracy of BlackBerry trilateration is less than that of GPS due to a number of factors, including cell tower blockage by large buildings, mountains, or distance.
+BES also provides phones with TCP/IP connectivity accessed through a component called MDS (Mobile Data System) Connection Service. This allows custom application development using data streams on BlackBerry devices based on the Sun Microsystems Java ME platform.
+In addition, BES provides network security, in the form of Triple DES or, more recently, AES encryption of all data (both email and MDS traffic) that travels between the BlackBerry phone and a BlackBerry Enterprise Server.
+Most providers offer flat monthly pricing via special BlackBerry tariffs for unlimited data between BlackBerry units and BES. In addition to receiving email, organizations can make intranets or custom internal applications with unmetered traffic.
+With more recent versions of the BlackBerry platform, the MDS is no longer a requirement for wireless data access. Starting with OS 3.8 or 4.0, BlackBerry phones can access the Internet (i.e. TCP/IP access) without an MDS – formerly only email and WAP access was possible without a BES/MDS. The BES/MDS is still required for secure email, data access, and applications that require WAP from carriers that do not allow WAP access.
+The primary alternative to using BlackBerry Enterprise Server is to use the BlackBerry Internet Service (BIS). BlackBerry Internet Service is available in 91 countries internationally. BlackBerry Internet Service was developed primarily for the average consumer rather than for the business consumer. The service allows users to access POP3, IMAP, and Outlook Web App (not via Exchange ActiveSync) email accounts without connecting through a BlackBerry Enterprise Server (BES). BlackBerry Internet Service allows up to 10 email accounts to be accessed, including proprietary as well as public email accounts (such as Gmail, Outlook, Yahoo and AOL). BlackBerry Internet Service also supports the push capabilities of various other BlackBerry Applications. Various applications developed by RIM for BlackBerry utilise the push capabilities of BIS, such as the Instant Messaging clients (like Google Talk, Windows Live Messenger and Yahoo Messenger). The MMS, PIN, interactive gaming, mapping and trading applications require data plans like BIS (not just Wi-Fi) for use. The service is usually provisioned through a mobile phone service provider, though BlackBerry actually runs the service.
+
+BlackBerry PIN
+The BlackBerry PIN (Personal Identification Number) is an eight-character hexadecimal identification number assigned to each BlackBerry device. PINs cannot be changed manually on the device (though BlackBerry technicians are able to reset or update a PIN server-side), and are locked to each specific BlackBerry. BlackBerry devices can message each other using the PIN directly or by using the BlackBerry Messenger application. BlackBerry PINs are tracked by BlackBerry Enterprise Servers and the BlackBerry Internet Service and are used to direct messages to a BlackBerry device. Emails and any other messages, such as those from the BlackBerry Push Service, are typically directed to a BlackBerry device's PIN. The message can then be routed by a RIM Network Operations Center, and sent to a carrier, which will deliver the message the last mile to the device. In September 2012 RIM announced that the BlackBerry PIN would be replaced by users' BlackBerry ID starting in 2013 with the launch of the BlackBerry 10 platform.
+
+Competition and financial results
+The BlackBerry grew swiftly in popularity during the early 2000s, and by 2005 had become highly popular and influential in North America. It then gained the nickname "Crackberry" due to its seemingly addictive nature.
+As of 2006, some of the BlackBerry's main competitors included offerings from Motorola (namely Motorola Q), Palm, Inc., the iPAQ and other Pocket PCs, and Nokia (namely Nokia E61).
+As of 2009, RIM held 56 percent of the American smartphone market. While the iPhone from Apple Inc. quickly became popular after its launch, RIM remained market leaders and was growing too, with sales tripling between 2007 and 2009. In Fortune's list of the Fastest Growing Companies of 2009, RIM ranked first, while the BlackBerry Curve became the best-selling smartphone in the U.S. in 2009.
+Despite market share loss, on a global basis, the number of active BlackBerry subscribers increased substantially through the years. For example, for the fiscal period during which the Apple iPhone was first released, RIM reported that they had a subscriber base of 10.5 million BlackBerry subscribers. At the end of 2008, when Android first hit the market, RIM reported that the number of BlackBerry subscribers had increased to 21 million. After the release of the Apple iPhone 5 in September 2012, RIM CEO Thorsten Heins announced that the current global subscribers was up to 80 million, which sparked a 7% jump in shares price.
+In the year 2010, RIM and Apple continued to dominate the U.S. smartphone market, although the BlackBerry Curve had lost its spot as the single highest selling product to the iPhone 3GS.
+In the early 2010s, BlackBerry struggled to compete against both the iPhone and the Android platform - after device sales peaking in 2011, its share plunged in the years after, leading to speculation that it would be unable to survive as an independent going concern. However, it managed to maintain significant positions in some markets. BlackBerry's global user base (meaning active accounts) declined dramatically since its peak of 80 million in June 2012, dropping to 46 million users in September 2014. Its market share globally had also declined to less than 1 percent.
+During the report of its third quarter 2015 results on December 18, 2015, the company said that approximately 700,000 handsets had been sold, down from 1.9 million in the same quarter in 2014, and down from 800,000 in Q2 of 2015. The average sale price per unit was up from $240 to $315, however. This should continue to increase with sales of the new Android Priv device which was selling at a premium price ($800 in Canada, for example). In Q3 of 2015, BlackBerry had a net loss of $89 million U.S. or 17 cents per share, but only a $15 million net loss, or three cents per share, when excluding restructuring charges and other one-time items.
+Revenue was up slightly from a year earlier, at $557 million U.S. vs. $548 million, primarily because of software sales. Chief executive officer John Chen said that he expects the company's software business to grow at (14 percent) or above the market. At the time, the company was not ready to provide sales figures for the Android-based Priv handset which had been released only weeks earlier, and in only four countries at that time, but Chen offered this comment to analysts: "Depending on how Priv does ... there is a chance we could achieve or get closer to break-even operating profitability for our overall device business in the (fourth) quarter".
+Due to a continuous reduction in BlackBerry users, in February 2016 the BlackBerry headquarters in Waterloo, Ontario, Canada, slashed 35 percent of its workforce. By early 2016, BlackBerry market share dropped to 0.2%. In Q4 2016, reports indicate BlackBerry sold only 207,900 units—equivalent to a 0.0% market share.
+
+Indonesian market
+In 2011, BlackBerry shipped 43% of all smartphones to Indonesia. By April 2014 this had fallen to 3%. The decline in the Indonesian market share mirrors a global trend for the company (0.6% of North America). The retail price of 2,199,000 Indonesian Rupiah ($189) failed to give BlackBerry the boost it needed in Indonesia. The company launched the device with a discounted offer to the first 1000 purchasers, which resulted in a stampede in the capital in which several people were injured. BlackBerry lost market share in Indonesia despite the launch of the Z3 on May 13, 2014. The new device was given a worldwide launch in the city of Jakarta and came on the back of the news that Research in Motion (RIM) was to cut hardware production costs by outsourcing this to Taiwan-based Foxconn Group.
+
+Worldwide user base numbers
+The number of active BlackBerry users since 2000 globally:
+
+Security agencies access
+Research in Motion agreed to give access to private communications to the governments of United Arab Emirates and Saudi Arabia in 2010, and India in 2012. The Saudi and UAE governments had threatened to ban certain services because their law enforcement agencies could not decrypt messages between people of interest.
+It was revealed as a part of the 2013 mass surveillance disclosures that the American and British intelligence agencies, the National Security Agency (NSA) and the Government Communications Headquarters (GCHQ) respectively, have access to the user data on BlackBerry devices. The agencies are able to read almost all smartphone information, including SMS, location, e-mails, and notes through BlackBerry Internet Service, which operates outside corporate networks, and which, in contrast to the data passing through internal BlackBerry services (BES), only compresses but does not encrypt data.
+Documents stated that the NSA was able to access the BlackBerry e-mail system and that they could "see and read SMS traffic". There was a brief period in 2009 when the NSA was unable to access BlackBerry devices, after BlackBerry changed the way they compress their data. Access to the devices was re-established by GCHQ. GCHQ has a tool named SCRAPHEAP CHALLENGE, with the capability of "Perfect spoofing of emails from Blackberry targets".
+In response to the revelations BlackBerry officials stated that "It is not for us to comment on media reports regarding alleged government surveillance of telecommunications traffic" and added that a "back door pipeline" to their platform had not been established and did not exist.
+Similar access by the intelligence agencies to many other mobile devices exists, using similar techniques to hack into them.
+The BlackBerry software includes support for the Dual EC DRBG CSPRNG algorithm which, due to being probably backdoored by the NSA, the US National Institute of Standards and Technology "strongly recommends" no longer be used. BlackBerry Ltd. has however not issued an advisory to its customers, because they do not consider the probable backdoor a vulnerability. BlackBerry Ltd. also owns US patent 2007189527, which covers the technical design of the backdoor.
+
+Usage
+Initially the BlackBerry was mostly popular by corporate and business users. By the late 2000s however, a growing number of other consumers were using it.
+The (formerly) advanced encryption capabilities of the BlackBerry Smartphone made it eligible for use by government agencies and state forces. On January 4, 2022, BlackBerry announced that older phones running BlackBerry 10, 7.1 OS and earlier will no longer work.
+
+Barack Obama
+Former United States president Barack Obama became known for his dependence on a BlackBerry device for communication during his 2008 Presidential campaign. Despite the security issues, he insisted on using it even after inauguration. This was seen by some as akin to a "celebrity endorsement", which marketing experts have estimated to be worth between $25 million and $50 million. His usage of BlackBerry continued until around the end of his presidency.
+
+Hillary Clinton
+The Hillary Clinton email controversy is associated with Hillary Clinton continuing to use her black colored BlackBerry after assuming the office of Secretary of State.
+
+Use by government forces
+An example is the West Yorkshire Police, which allowed the increase in the presence of police officers along the streets and a reduction in public spending, given that each officer could perform desk work directly via the mobile device, as well as in several other areas and situations. The US Federal Government was slow to move away from the BlackBerry platform, a State Department spokesperson saying in 2013 that BlackBerry devices were still the only mobile devices approved for U.S. missions abroad by the State Department. The high encryption standard that made BlackBerry smartphones and the PlayBook tablet unique, have since been implemented in other devices, including most Apple devices released after the iPhone 4.
+The Bangalore City Police is one of the few police departments in India along with the Pune Police and Kochi Police to use BlackBerry devices.
+
+Use by transportation staff
+In the United Kingdom, South West Trains and Northern Rail issued BlackBerry devices to guards in order to improve the communication between control, guards and passengers.
+In Canada, Toronto and many other municipalities within Canada issued BlackBerry devices to most of its employees including but not limited to transportation, technical, water and operations inspection staff and all management staff in order to improve the communication between contracted construction companies, its winter maintenance operations and to assist and successfully organize multimillion-dollar contracts. The devices were the standard mobile device to receive e-mail redirected from GroupWise.
+As part of their Internet of Things endeavours, the company announced plans of moving into the shipping industry by adapting the smartphones devices to the communication necessities of freight containers.
+
+Other notable users
+As of 2024, Eminem uses a BlackBerry OS phone.
+Kim Kardashian was also a BlackBerry user. In 2014, she reportedly said at the Code/Mobile conference that "BlackBerry has my heart and soul. I love it. I'll never get rid of it" and "I have anxiety that I will run out and I won't be able to have a BlackBerry. I'm afraid it will go extinct." Kardashian also admitted to keeping a supply of BlackBerry phones with her because she was loyal to the BlackBerry Bold model. She has since been spotted using an iPhone instead.
+Katy Perry was also a BlackBerry user. She used the 8800 in her Part of Me music video, used the Bold 9780, Torch and other models in her film, was seen using the Curve 8900 and Bold 9900 and attended the launch of the Pearl Flip. In 2012, she switched to the iPhone 4S for 2 weeks and switched back to BlackBerry for the keyboard. She has since been spotted using an iPhone instead.
+E.L. James wrote Fifty Shades of Grey on her BlackBerry.
+Nigerian author Stephen Buoro wrote the first draft of his debut novel on his BlackBerry.
+Eric Schmidt, Executive Chairman of Google from 2001 to 2011, was a longtime BlackBerry user. Although smartphones running Google's Android mobile operating system compete with BlackBerry, Schmidt said in a 2013 interview that he uses a BlackBerry because he prefers its keyboard.
+The Italian criminal group known as the 'Ndrangheta was reported in February 2009 to have communicated overseas with the Gulf Cartel, a Mexican drug cartel, through the use of the BlackBerry Messenger, since the BBM Texts are "very difficult to intercept".
+
+In popular culture
+In August 2022, it was announced that a docudrama film about the history of the BlackBerry brand, simply titled BlackBerry, had wrapped production. The film, written by Matt Johnson and Matthew Miller, was adapted from the book Losing the Signal: The Untold Story Behind the Extraordinary Rise and Spectacular Fall of BlackBerry. BlackBerry features Jay Baruchel and Glenn Howerton in the principal roles of Lazaridis and Jim Balsillie respectively, with writer/director Johnson portraying Doug Fregin. In September 2022, the rights to the film's distribution in the U.S. were acquired by IFC Films. It was released in May 2023. There was an extended three-part miniseries released in fall 2023, with each episode running 60 minutes.
+
+Marketing
+BlackBerry paid these celebrities to promote its devices:
+
+Alicia Keys
+Beyonce
+Black Eyed Peas
+Diplo
+Indiana Jones
+Jessie J
+John Mayer
+Martin Eberhard, founder of Tesla Motors
+Pixie Lott
+Tara Reid
+U2
+
+See also
+BlackBerry Limited (formerly Research in Motion)
+BBM (BlackBerry Messenger)
+BlackBerry Mobile
+Comparison of smartphones
+Index of articles related to BlackBerry OS
+List of BlackBerry products
+QWERTY
+Science and technology in Canada
+T9 (predictive text)
+
+References
+Bibliography
+Cunningham, Stuart; Turner, Graeme (2006). Media and Communications in Australia. Southwood Press Pty Ltd. pp. 259–278.
+HTStaff (November 26, 2018). "BlackBerry to acquire cybersecurity firm Cylance for $1.4 billion". Hashtribe. Archived from the original on November 27, 2018. Retrieved April 28, 2020.
+Levinson, P. (2004). Cellphone. New York: Routledge. pp. 15–33.
+Research In Motion Reports Fourth Quarter and Year-End Results for Fiscal 2005
+Research In Motion 2005 Annual Report
+Research In Motion Fourth Quarter and 2007 Fiscal Year End Results
+Rheingold, H. (2002). Smart Mobs: The Next Social Revolution. Cambridge, Massachusetts: Perseus Pub. pp. xi–xxii, 157–182. ISBN 978-0738206080. OCLC 904554660.
+Sweeny, Alastair (2009). BlackBerry Planet: The Story of Research in Motion and the Little Device That Took the World by Storm. John Wiley & Sons Canada. ISBN 978-0-470-15940-8.
+
+External links
+
+Official website

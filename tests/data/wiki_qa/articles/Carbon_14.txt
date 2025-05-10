@@ -1,0 +1,74 @@
+Carbon-14, C-14, 14C or radiocarbon, is a radioactive isotope of carbon with an atomic nucleus containing 6 protons and 8 neutrons. Its presence in organic matter is the basis of the radiocarbon dating method pioneered by Willard Libby and colleagues (1949) to date archaeological, geological and hydrogeological samples. Carbon-14 was discovered on February 27, 1940, by Martin Kamen and Sam Ruben at the University of California Radiation Laboratory in Berkeley, California. Its existence had been suggested by Franz Kurie in 1934.
+There are three naturally occurring isotopes of carbon on Earth: carbon-12 (12C), which makes up 99% of all carbon on Earth; carbon-13 (13C), which makes up 1%; and carbon-14 (14C), which occurs in trace amounts, making up about 1-1.5 atoms per 1012 atoms of carbon in the atmosphere. 12C and 13C are both stable; 14C is unstable, with half-life 5700±30 years. Carbon-14 has a specific activity of 62.4 mCi/mmol (2.31 GBq/mmol), or 164.9 GBq/g. Carbon-14 decays into nitrogen-14 (14N) through beta decay. A gram of carbon containing 1 atom of carbon-14 per 1012 atoms, emits ~0.2 beta (β) particles per second. The primary natural source of carbon-14 on Earth is cosmic ray action on nitrogen in the atmosphere, and it is therefore a cosmogenic nuclide. However, open-air nuclear testing between 1955 and 1980 contributed to this pool.
+The different isotopes of carbon do not differ appreciably in their chemical properties. This resemblance is used in chemical and biological research, in a technique called carbon labeling: carbon-14 atoms can be used to replace nonradioactive carbon, in order to trace chemical and biochemical reactions involving carbon atoms from any given organic compound.
+
+Radioactive decay and detection
+Carbon-14 undergoes beta decay:
+
+146C → 147N + e− + νe + 0.156.5 MeV
+By emitting an electron and an electron antineutrino, one of the neutrons in carbon-14 decays to a proton and the carbon-14 (half-life of 5700±30 years) decays into the stable (non-radioactive) isotope nitrogen-14.
+As usual with beta decay, almost all the decay energy is carried away by the beta particle and the neutrino. The emitted beta particles have a maximum energy of about 156 keV, while their weighted mean energy is 49 keV. These are relatively low energies; the maximum distance traveled is estimated to be 22 cm in air and 0.27 mm in body tissue. The fraction of the radiation transmitted through the dead skin layer is estimated to be 0.11. Small amounts of carbon-14 are not easily detected by typical Geiger–Müller (G-M) detectors; it is estimated that G-M detectors will not normally detect contamination of less than about 100,000 decays per minute (0.05 μCi). Liquid scintillation counting is the preferred method although more recently, accelerator mass spectrometry has become the method of choice; it counts all the carbon-14 atoms in the sample and not just the few that happen to decay during the measurements; it can therefore be used with much smaller samples (as small as individual plant seeds), and gives results much more quickly. The G-M counting efficiency is estimated to be 3%. The half-distance layer in water is 0.05 mm.
+
+Radiocarbon dating
+Radiocarbon dating is a radiometric dating method that uses 14C to determine the age of carbonaceous materials up to about 60,000 years old. The technique was developed by Willard Libby and his colleagues in 1949 during his tenure as a professor at the University of Chicago. Libby estimated that the radioactivity of exchangeable 14C would be about 14 decays per minute (dpm) per gram of carbon, and this is still used as the activity of the modern radiocarbon standard. In 1960, Libby was awarded the Nobel Prize in chemistry for this work.
+One of the frequent uses of the technique is to date organic remains from archaeological sites. Plants fix atmospheric carbon during photosynthesis; so the level of 14C in plants and animals when they die, roughly equals the level of 14C in the atmosphere at that time. However, it thereafter decreases exponentially; so the date of death or fixation can be estimated. The initial 14C level for the calculation can either be estimated, or else directly compared with known year-by-year data from tree-ring data (dendrochronology) up to 10,000 years ago (using overlapping data from live and dead trees in a given area), or else from cave deposits (speleothems), back to about 45,000 years before present. A calculation or (more accurately) a direct comparison of carbon-14 levels in a sample, with tree ring or cave-deposit 14C levels of a known age, then gives the wood or animal sample age-since-formation. Radiocarbon is also used to detect disturbance in natural ecosystems; for example, in peatland landscapes, radiocarbon can indicate that carbon which was previously stored in organic soils is being released due to land clearance or climate change.
+Cosmogenic nuclides are also used as proxy data to characterize cosmic particle and solar activity of the distant past.
+
+Origin
+Natural production in the atmosphere
+Carbon-14 is produced in the upper troposphere and the stratosphere by thermal neutrons absorbed by nitrogen atoms. When cosmic rays enter the atmosphere, they undergo various transformations, including the production of neutrons. The resulting neutrons (n) participate in the following n-p reaction (p is proton):
+
+147N + n → 146C + p + 0.626 MeV
+The highest rate of carbon-14 production takes place at altitudes of 9 to 15 kilometres (30,000 to 49,000 ft) and at high geomagnetic latitudes.
+The rate of 14C production can be modeled, yielding values of 16,400 or 18,800 atoms of 14C per second per square meter of Earth's surface, which agrees with the global carbon budget that can be used to backtrack, but attempts to measure the production time directly in situ were not very successful. Production rates vary because of changes to the cosmic ray flux caused by the heliospheric modulation (solar wind and solar magnetic field), and, of great significance, due to variations in the Earth's magnetic field. Changes in the carbon cycle however can make such effects difficult to isolate and quantify.
+
+Occasional spikes may occur; for example, there is evidence for an unusually high production rate in AD 774–775, caused by an extreme
+solar energetic particle event, the strongest such event to have occurred within the last ten millennia. Another "extraordinarily large" 14C increase (2%) has been associated with a 5480 BC event, which is unlikely to be a solar energetic particle event.
+Carbon-14 may also be produced by lightning but in amounts negligible, globally, compared to cosmic ray production. Local effects of cloud-ground discharge through sample residues are unclear, but possibly significant.
+
+Other carbon-14 sources
+Carbon-14 can also be produced by other neutron reactions, including in particular 13C(n,γ)14C and 17O(n,α)14C with thermal neutrons, and 15N(n,d)14C and 16O(n,3He)14C with fast neutrons. The most notable routes for 14C production by thermal neutron irradiation of targets (e.g., in a nuclear reactor) are summarized in the table. 
+Another source of carbon-14 is cluster decay branches from traces of naturally occurring isotopes of radium, though this decay mode has a branching ratio on the order of 10−8 relative to alpha decay, so radiogenic carbon-14 is extremely rare.
+
+Formation during nuclear tests
+The above-ground nuclear tests that occurred in several countries in 1955-1980 (see List of nuclear tests) dramatically increased the amount of 14C in the atmosphere and subsequently the biosphere; after the tests ended, the atmospheric concentration of the isotope began to decrease, as radioactive CO2 was fixed into plant and animal tissue, and dissolved in the oceans.
+One side-effect of the change in atmospheric 14C is that this has enabled some options (e.g. bomb-pulse dating) for determining the birth year of an individual, in particular, the amount of 14C in tooth enamel, or the carbon-14 concentration in the lens of the eye.
+In 2019, Scientific American reported that carbon-14 from nuclear testing has been found in animals from one of the most inaccessible regions on Earth, the Mariana Trench in the Pacific Ocean.
+The concentration of 14C in atmospheric CO2, reported as the 14C/12C ratio with respect to a standard, has (since about 2022) declined to levels similar to those prior to the above-ground nuclear tests of the 1950s and 1960s. Though the extra 14C generated by those nuclear tests has not disappeared from the atmosphere, oceans and biosphere, it is diluted due to the Suess effect.
+
+Emissions from nuclear power plants
+Carbon-14 is produced in coolant at boiling water reactors (BWRs) and pressurized water reactors (PWRs). It is typically released into the air in the form of carbon dioxide at BWRs, and methane at PWRs. Best practice for nuclear power plant operator management of carbon-14 includes releasing it at night, when plants are not photosynthesizing. Carbon-14 is also generated inside nuclear fuels (some due to transmutation of oxygen in the uranium oxide, but most significantly from transmutation of nitrogen-14 impurities), and if the spent fuel is sent to nuclear reprocessing then the 14C is released, for example as CO2 during PUREX.
+
+Occurrence
+Dispersion in the environment
+After production in the upper atmosphere, the carbon-14 reacts rapidly to form mostly (about 93%) 14CO (carbon monoxide), which subsequently oxidizes at a slower rate to form 14CO2, radioactive carbon dioxide. The gas mixes rapidly and becomes evenly distributed throughout the atmosphere (the mixing timescale on the order of weeks). Carbon dioxide also dissolves in water and thus permeates the oceans, but at a slower rate. The atmospheric half-life for removal of 14CO2 has been estimated at roughly 12 to 16 years in the Northern Hemisphere. The transfer between the ocean shallow layer and the large reservoir of bicarbonates in the ocean depths occurs at a limited rate.
+In 2009 the activity of 14C was 238 Bq per kg carbon of fresh terrestrial biomatter, close to the values before atmospheric nuclear testing (226 Bq/kg C; 1950).
+
+Total inventory
+The inventory of carbon-14 in Earth's biosphere is about 300 megacuries (11 EBq), of which most is in the oceans.
+The following inventory of carbon-14 has been given:
+
+Global inventory: ~8500 PBq (about 50 t)
+Atmosphere: 140 PBq (840 kg)
+Terrestrial materials: the balance
+From nuclear testing (until 1990): 220 PBq (1.3 t)
+
+In fossil fuels
+Many human-made chemicals are derived from fossil fuels (such as petroleum or coal) in which 14C is greatly depleted because the age of fossils far exceeds the half-life of 14C. The relative absence of 14CO2 is therefore used to determine the relative contribution (or mixing ratio) of fossil fuel oxidation to the total carbon dioxide in a given region of Earth's atmosphere.
+Dating a specific sample of fossilized carbonaceous material is more complicated. Such deposits often contain trace amounts of 14C. These amounts can vary significantly between samples, ranging up to 1% of the ratio found in living organisms (an apparent age of about 40,000 years). This may indicate contamination by small amounts of bacteria, underground sources of radiation causing a 14N(n,p)14C reaction, direct uranium decay (though reported measured ratios of 14C/U in uranium-bearing ores would imply roughly 1 uranium atom for every two carbon atoms in order to cause the 14C/12C ratio, measured to be on the order of 10−15), or other unknown secondary sources of 14C production. The presence of 14C in the isotopic signature of a sample of carbonaceous material possibly indicates its contamination by biogenic sources or the decay of radioactive material in surrounding geologic strata. In connection with building the Borexino solar neutrino observatory, petroleum feedstock (for synthesizing the primary scintillant) was obtained with low 14C content. In the Borexino Counting Test Facility, a 14C/12C ratio of 1.94×10−18 was determined; probable reactions responsible for varied levels of 14C in different petroleum reservoirs, and the lower 14C levels in methane, have been discussed by Bonvicini et al.
+
+In the human body
+Since many sources of human food are ultimately derived from terrestrial plants, the relative concentration of 14C in human bodies is nearly identical to the relative concentration in the atmosphere. The rates of disintegration of potassium-40 (40K) and 14C in the normal adult body are comparable (a few thousand decays per second). The beta decays from external (environmental) radiocarbon contribute about 0.01 mSv/year (1 mrem/year) to each person's dose of ionizing radiation. This is small compared to the doses from potassium-40, 40K (0.39 mSv/year) and radon (variable depending on where you live).
+14C can be used as a radioactive tracer in medicine. In the initial variant of the urea breath test, a diagnostic test for Helicobacter pylori, urea labeled with about 37 kBq (1.0 μCi) 14C is fed to a patient (i.e. 37,000 decays per second). In the event of a H. pylori infection, the bacterial urease enzyme breaks down the urea into ammonia and radioactively-labeled carbon dioxide, which can be detected by low-level counting of the patient's breath.
+
+See also
+Carbon-to-nitrogen ratio
+Diamond battery
+Isotopes of carbon
+Isotopic labeling
+Radiocarbon dating
+
+References
+Further reading
+External links
+What is Carbon Dating?, Woods Hole Oceanographic Institute

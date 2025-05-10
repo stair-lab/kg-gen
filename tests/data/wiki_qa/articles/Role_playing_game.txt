@@ -1,0 +1,90 @@
+A role-playing game (sometimes spelled roleplaying game, or abbreviated as RPG) is a game in which players assume the roles of characters in a fictional setting. Players take responsibility for acting out these roles within a narrative, either through literal acting or through a process of structured decision-making regarding character development. Actions taken within many games succeed or fail according to a formal system of rules and guidelines.
+There are several forms of role-playing games. The original form, sometimes called the tabletop role-playing game (TRPG or TTRPG), is conducted through discussion, whereas in live action role-playing (LARP), players physically perform their characters' actions. Both forms feature collaborative storytelling. In both TTRPGs and LARPs, often an arranger called a game master (GM) decides on the game system and setting to be used, while acting as a facilitator or referee. Each of the other players takes on the role of a single character in the fiction.
+Several varieties of RPG also exist in electronic media, such as multiplayer text-based Multi-User Dungeons (MUDs) and their graphics-based successors, massively multiplayer online role-playing games (MMORPGs).
+Role-playing games also include single-player role-playing video games in which the player controls one or more characters who are on a quest.
+Role-playing video games may include player capabilities that advance over time using statistical mechanics. These electronic games sometimes share settings and rules with tabletop RPGs, but emphasize character advancement more than collaborative storytelling.
+Some RPG-related game forms, such as trading/collectible card games (CCGs) and wargames, may or may not be included under the definition of role-playing games. Although some amount of role-playing activity may be present in such games, it is not the primary focus. 
+The term role-playing game is also sometimes used to describe other games involving roleplay simulation, such as exercises used in teaching, training, academic research, or therapeutic settings.
+
+Purpose
+Both authors and major publishers of tabletop role-playing games consider them to be a form of interactive and collaborative storytelling. Events, characters, and narrative structure give a sense of a narrative experience, and the game need not have a strongly-defined storyline. Interactivity is the crucial difference between role-playing games and traditional fiction. Whereas a viewer of a television show is a passive observer, a player in a role-playing game makes choices that affect the story. Such role-playing games extend an older tradition of storytelling games where a small party of friends collaborate to create a story.
+While simple forms of role-playing exist in traditional children's games of make believe, role-playing games add a level of sophistication and persistence to this basic idea with additions such as game facilitators and rules of interaction. Participants in a role-playing game will generate specific characters and an ongoing plot. A consistent system of rules and a more or less realistic campaign setting in games aids suspension of disbelief. The level of realism in games ranges from just enough internal consistency to set up a believable story or credible challenge up to full-blown simulations of real-world processes.
+Tabletop role-playing games may also be used in therapy settings to help individuals develop behavioral, social, and even language skills. Beneficiaries commonly include young people with neurodevelopmental conditions, such as Autism spectrum disorders, attention-deficit hyperactive disorder (ADHD), and dyslexia.
+
+Varieties
+Role-playing games are played in a wide variety of formats, ranging from discussing character interaction in tabletop form, physically acting out characters in LARP to playing characters virtually in digital media. There is also a great variety of systems of rules and game settings. Games that emphasize plot and character interaction over game mechanics and combat sometimes prefer the name storytelling game. These types of games tend to reduce or eliminate the use of dice and other randomizing elements. Some games are played with characters created before the game by the GM, rather than those created by the players. This type of game is typically played at gaming conventions, or in standalone games that do not form part of a campaign.
+
+Tabletop
+Tabletop (TTRPG) and pen-and-paper (PnP) RPGs are conducted through discussion in a small social gathering. In traditional TTRPGs, a GM describes the game world and its inhabitants. The other players describe the intended actions of their characters, and the GM describes the outcomes. Some outcomes are determined by the game system, and some are chosen by the GM. This is the format in which role-playing games were first popularized. In contrast, many indie role-playing games experiment with different structures of play, such as sharing the responsibility for creating setting details and NPCs among all players.
+The first commercially available RPG, Dungeons & Dragons (D&D), was inspired by fantasy literature and the wargaming hobby and was published in 1974. The popularity of D&D led to the birth of the tabletop role-playing game industry, which publishes games with many different themes, rules, and styles of play. 
+The popularity of tabletop games decreased in the late 1990s due to competition from online MMO RPGs, role-playing video games, and collectible card games. However, TTRPGs experienced a resurgence in popularity between the mid-2010s and early 2020s due to actual play web series and online play through videoconferencing during the COVID-19 lockdowns.
+The tabletop format is often referred to simply as a role-playing game. To distinguish this form of RPG from other formats, the retronyms tabletop role-playing game or pen and paper role-playing game are sometimes used, though neither a table nor pen and paper are strictly necessary.
+
+Live action
+A LARP is played more like improvisational theatre. Participants act out their characters' actions instead of describing them, and the real environment is used to represent the imaginary setting of the game world. Players are often costumed as their characters and use appropriate props, and the venue may be decorated to resemble the fictional setting. Some live-action role-playing games use rock paper scissors or comparison of attributes to resolve conflicts symbolically, while other LARPs use physical combat with simulated arms such as airsoft guns or foam weapons.
+LARPs vary in size from a handful of players to several thousand, and in duration from a couple of hours to several days. Because the number of players in a LARP is usually larger than in a tabletop role-playing game, and the players may be interacting in separate physical spaces, there is typically less of an emphasis on tightly maintaining a narrative or directly entertaining the players, and game sessions are often managed in a more distributed manner.
+
+Electronic media
+Tabletop role-playing games have been translated into a variety of electronic formats. As early as 1974, the same year as the release of Dungeons & Dragons, unlicensed versions of it were developed on mainframe university systems under titles such as dnd and Dungeon. These early computer RPGs influenced all of electronic gaming, as well as spawning the role-playing video game genre. Some authors divide digital role-playing games into two intertwined groups: single-player games using RPG-style mechanics, and multiplayer games incorporating social interaction.
+
+Single-player
+Single-player role-playing video games form a loosely defined genre of computer and console games with origins in role-playing games such as Dungeons & Dragons, on which they base much of their terminology, settings, and game mechanics. This translation changes the experience of the game, providing a visual representation of the world but emphasizing statistical character development over collaborative, interactive storytelling.
+
+Multiplayer
+Online text-based role-playing games involve many players using some type of text-based interface and an Internet connection to play an RPG. Games played in a real-time way include MUDs, MUSHes, and other varieties of MU*. Games played in a turn-based fashion include play-by-mail games and play-by-post games.
+Massively multiplayer online role-playing games (MMORPGs) combine the large-scale social interaction and persistent world of MUDs with graphic interfaces. Most MMORPGs do not actively promote in-character role-playing, however, players can use the games' communication functions to role-play so long as other players cooperate. The majority of players in MMORPGs do not engage in role-playing in this sense.
+Computer-assisted gaming can be used to add elements of computer gaming to in-person tabletop role-playing, where computers are used for record-keeping and sometimes to resolve combat, while the participants generally make decisions concerning character interaction.
+
+People
+Gamemaster
+One common feature of many RPGs is the role of a gamemaster (GM), a participant who has special duties to present the fictional setting, arbitrate the results of character actions, and maintain the narrative flow. In tabletop and live-action RPGs the GM performs these duties in person. In video RPGs, many of the functions of a GM are fulfilled by the game engine. However, some multi-player video RPGs also allow for a participant to take on a GM role through a visual interface called a GM toolkit, albeit with abilities limited by the available technology.
+
+Player character
+Another standard concept in RPGs is the player character, a character in the fictional world of the game whose actions the player controls. Typically each player controls a separate player character, sometimes more, each of whom acts as a protagonist in the story.
+
+Non-player character
+In contrast to player characters, non-player characters (NPCs) are controlled by the gamemaster or game engine, or by people assisting the gamemaster. Non-player characters fill out the population of the fictional setting and can act as antagonists, bystanders, or allies of the player characters.
+
+See also
+Types of RPGs
+Actual play
+Live-action role-playing game
+Online text-based role-playing game
+Play-by-post role-playing game
+Role-playing video game
+Tabletop role-playing game
+
+Movements and Traditions
+History of role-playing games
+Indie role-playing games
+Japanese role-playing games
+Nordic LARP
+Old School Renaissance
+Polish role-playing games
+Role-playing game theory
+
+Parts of Games
+Adventure
+Campaign setting
+Character creation
+Role-playing game terms
+RPG Statistics
+
+Lists
+List of campaign settings
+List of designers of role-playing games
+List of game manufacturers (including role-playing games)
+List of role-playing game artists
+List of role-playing game publishers
+List of role-playing games by name
+List of role-playing game software
+
+Other
+Conversation games
+Gaming conventions
+Timeline of role-playing games
+
+Notes
+References
+External links
+ Media related to Role-playing games at Wikimedia Commons

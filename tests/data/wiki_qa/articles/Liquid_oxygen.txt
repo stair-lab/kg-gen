@@ -1,0 +1,52 @@
+Liquid oxygen, sometimes abbreviated as LOX or LOXygen, is a clear cyan liquid form of dioxygen O2. It was used as the oxidizer in the first liquid-fueled rocket invented in 1926 by Robert H. Goddard, an application which is ongoing.
+
+Physical properties
+Liquid oxygen has a clear cyan color and is strongly paramagnetic: it can be suspended between the poles of a powerful horseshoe magnet. Liquid oxygen has a density of 1.141 kg/L (1.141 g/ml), slightly denser than liquid water, and is cryogenic with a freezing point of 54.36 K (−218.79 °C; −361.82 °F) and a boiling point of 90.19 K (−182.96 °C; −297.33 °F) at 1 bar (14.5 psi). Liquid oxygen has an expansion ratio of 1:861 and because of this, it is used in some commercial and military aircraft as a transportable source of breathing oxygen.
+Because of its cryogenic nature, liquid oxygen can cause the materials it touches to become extremely brittle. Liquid oxygen is also a very powerful oxidizing agent: organic materials will burn rapidly and energetically in liquid oxygen. Further, if soaked in liquid oxygen, some materials such as coal briquettes, carbon black, etc., can detonate unpredictably from sources of ignition such as flames, sparks or impact from light blows. Petrochemicals, including asphalt, often exhibit this behavior.
+The tetraoxygen molecule (O4) was predicted in 1924 by Gilbert N. Lewis, who proposed it to explain why liquid oxygen defied Curie's law. Modern computer simulations indicate that, although there are no stable O4 molecules in liquid oxygen, O2 molecules do tend to associate in pairs with antiparallel spins, forming transient O4 units.
+Liquid nitrogen has a lower boiling point at −196 °C (77 K) than oxygen's −183 °C (90 K), and vessels containing liquid nitrogen can condense oxygen from air: when most of the nitrogen has evaporated from such a vessel, there is a risk that liquid oxygen remaining can react violently with organic material. Conversely, liquid nitrogen or liquid air can be oxygen-enriched by letting it stand in open air; atmospheric oxygen dissolves in it, while nitrogen evaporates preferentially.
+The surface tension of liquid oxygen at its normal pressure boiling point is 13.2 dyn/cm (13.2 mN/m).
+
+Uses
+In commerce, liquid oxygen is classified as an industrial gas and is widely used for industrial and medical purposes. Liquid oxygen is obtained from the oxygen found naturally in air by fractional distillation in a cryogenic air separation plant.
+
+Air forces have long recognized the strategic importance of liquid oxygen, both as an oxidizer and as a supply of gaseous oxygen for breathing in hospitals and high-altitude aircraft flights. In 1985, the USAF started a program of building its own oxygen-generation facilities at all major consumption bases.
+
+In rocket propellant
+Liquid oxygen is the most common cryogenic liquid oxidizer propellant for spacecraft rocket applications, usually in combination with liquid hydrogen, kerosene or methane.
+Liquid oxygen was used in the first liquid fueled rocket. The World War II  V-2 missile also used liquid oxygen under the name A-Stoff and Sauerstoff. In the 1950s, during the Cold War both the United States' Redstone and Atlas rockets, and the Soviet R-7 Semyorka used liquid oxygen. Later, in the 1960s and 1970s, the ascent stages of the Apollo Saturn rockets, and the Space Shuttle main engines used liquid oxygen.
+As of 2025, many active rockets use liquid oxygen: 
+
+Chinese space program
+CASC: Long March 5, Long March 6, Long March 7, Long March 8, Long March 12, Long March 9 (under development), Long March 10 (under development)
+Galactic Energy: Pallas-1 (under development)
+i-Space: Hyperbola-3 (under development)
+LandSpace: Zhuque-2, Zhuque-3 (under development)
+Orienspace: Gravity-2 (under development)
+Space Pioneer: Tianlong-2, Tianlong-3 (under development)
+Europe
+European Space Agency: Ariane 6
+Isar Aerospace: Spectrum (under development)
+Rocket Factory Augsburg: RFA One (under development)
+Indian Space Research Organisation: GSLV, LVM3
+JAXA (Japan): H-IIA, H3
+Korea Aerospace Research Institute: Nuri
+Roscosmos (Russia): Soyuz-2, Angara
+United States
+Blue Origin: New Shepard, New Glenn
+Firefly Aerospace: Firefly Alpha
+NASA: Space Launch System
+Northrop Grumman: Antares 300 (under development)
+Rocket Lab: Electron, Neutron (under development)
+SpaceX: Falcon 9, Falcon Heavy, Starship
+United Launch Alliance: Atlas V, Vulcan
+
+History
+By 1845, Michael Faraday had managed to liquefy most gases then known to exist. Six gases, however, resisted every attempt at liquefaction and were known at the time as "permanent gases". They were oxygen, hydrogen, nitrogen, carbon monoxide, methane, and nitric oxide.
+In 1877, Louis Paul Cailletet in France and Raoul Pictet in Switzerland succeeded in producing the first droplets of liquid air.
+In 1883, Polish professors Zygmunt Wróblewski and Karol Olszewski produced the first measurable quantity of liquid oxygen.
+
+See also
+References
+Further reading
+Schmidt, Eckart W. (2022). "Oxygen". Encyclopedia of Oxidizers. De Gruyter. pp. 3053–3218. doi:10.1515/9783110750294-025. ISBN 978-3-11-075029-4.

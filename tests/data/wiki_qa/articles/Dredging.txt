@@ -1,0 +1,167 @@
+Dredging is the excavation of material from a water environment. Possible reasons for dredging include improving existing water features; reshaping land and water features to alter drainage, navigability, and commercial use; constructing dams, dikes, and other controls for streams and shorelines; and recovering valuable mineral deposits or marine life having commercial value. In all but a few situations the excavation is undertaken by a specialist floating plant, known as a dredger.
+Usually the main objectives of dredging is to recover material of value, or to create a greater depth of water. Dredging systems can either be shore-based, brought to a location based on barges, or built into purpose-built vessels.
+Dredging can have environmental impacts: it can disturb marine sediments, creating dredge plumes which can lead to both short- and long-term water pollution, damage or destroy seabed ecosystems, and release legacy human-sourced toxins captured in the sediment. These environmental impacts can reduce marine wildlife populations, contaminate sources of drinking water, and interrupt economic activities such as fishing.
+
+Description
+Dredging is excavation carried out underwater or partially underwater, in shallow waters or ocean waters. It keeps waterways and ports navigable, and assists coastal protection, land reclamation and coastal redevelopment, by gathering up bottom sediments and transporting it elsewhere. Dredging can be done to recover materials of commercial value; these may be high value minerals or sediments such as sand and gravel that are used by the construction industry.
+Dredging is a four-part process: loosening the material, bringing the material to the surface (together extraction), transportation and disposal.
+The extract can be disposed of locally or transported by barge or in a liquid suspension in pipelines. Disposal can be to infill sites, or the material can be used constructively to replenish eroded sand that has been lost to coastal erosion, or constructively create sea-walls, building land or whole new landforms such as viable islands in coral atolls.
+
+History
+Ancient authors refer to harbour dredging. The seven arms of the Nile were channelled and wharfs built at the time of the pyramids (3rd millennium BC), there was extensive harbour building in the eastern Mediterranean from 1000 BC and the disturbed sediment layers gives evidence of dredging. At Marseille, dredging phases are recorded from the third century BC onwards, the most extensive during the first century AD. The remains of three dredging boats have been unearthed; they were abandoned at the bottom of the harbour during the first and second centuries AD.
+The Banu Musa brothers during the Muslim Golden Age, while working at the Bayt-Al-Hikmah (house of wisdom) in Baghdad, designed an original invention in their book named Book of Ingenious Devices, a grab machine that does not appear in any earlier Greek works. The grab they described was used to extract objects from underwater, and recover objects from the beds of streams.
+During the renaissance Leonardo da Vinci drew a design for a drag dredger.
+Dredging machines have been used during the construction of the Suez Canal from the late 1800s to present day expansions and maintenance. The completion of the Panama Canal in 1914, the most expensive U.S. engineering project at the time, relied extensively on dredging.
+
+Purposes
+Capital dredging: dredging carried out to create a new harbour, berth or waterway, or to deepen existing facilities in order to allow larger ships access. Because capital works usually involve hard material or high-volume works, the work is usually done using a cutter suction dredge or large trailing suction hopper dredge; but for rock works, drilling and blasting along with mechanical excavation may be used.
+Land reclamation: dredging to mine sand, clay or rock from the seabed and using it to construct new land elsewhere. This is typically performed by a cutter-suction dredge or trailing suction hopper dredge. The material may also be used for flood or erosion control.
+Maintenance: dredging to deepen or maintain navigable waterways or channels which are threatened to become silted with the passage of time, due to sedimented sand and mud, possibly making them too shallow for navigation. This is often carried out with a trailing suction hopper dredge. Most dredging is for this purpose, and it may also be done to maintain the holding capacity of reservoirs or lakes.
+Harvesting materials: dredging sediment for elements like gold, diamonds or other valuable trace substances. Hobbyists examine their dredged matter to pick out items of potential value, similar to the hobby of metal detecting.
+Fishing dredging is a technique for catching certain species of edible clams and crabs. In Louisiana and other American states, with salt water estuaries that can sustain bottom oyster beds, oysters are raised and harvested. A heavy rectangular metal scoop is towed astern of a moving boat with a chain bridle attached to a cable. This drags along the bottom scooping up oysters. It is periodically winched aboard and the catch is sorted and bagged for shipment.
+Preparatory: dredging work and excavation for future bridges, piers or docks or wharves, This is often to build the foundations.
+Winning construction materials: dredging sand and gravels from offshore licensed areas for use in construction industry, principally for use in concrete. This very specialist industry is focused in NW Europe, it uses specialized trailing suction hopper dredgers self discharging the dry cargo ashore. Land based old river beddings can be processed in this manner too.
+Contaminant remediation: to reclaim areas affected by chemical spills, storm water surges (with urban runoff), and other soil contaminations, including silt from sewage sludge and from decayed matter, like wilted plants. Disposal becomes a proportionally large factor in these operations.
+Flood prevention: dredging increases the channel depth and therefore increase a channel's capacity for carrying water.
+
+Other
+Beach nourishment: this is mining sand offshore and placing on a beach to replace sand eroded by storms or wave action. This enhances the recreational and protective function of the beach, which are also eroded by human activity. This is typically performed by a cutter-suction dredge or trailing suction hopper dredge. 
+Peat extraction: dredging poles or dredge hauls were used on the back of small boats to manually dredge the beds of peat-moor waterways. The extracted peat was used as a fuel. This tradition is now more or less obsolete. The tools are now significantly changed.
+Removing rubbish and debris: often done in combination with maintenance dredging, this process removes non-natural matter from the bottoms of rivers and canals and harbours. Law enforcement agencies sometimes need to use a 'drag' to recover evidence or corpses from beneath the water.
+Anti-eutrophication: A kind of contaminant remediation, dredging is an expensive option for the remediation of eutrophied (or de-oxygenated) water bodies; one of the causes is like mentioned above, sewage sludge. However, as artificially elevated phosphorus levels in the sediment aggravate the eutrophication process, controlled sediment removal is occasionally the only option for the reclamation of still waters.
+Seabed mining: is a possible future use, recovering natural metal ore nodules from the sea's deepest troughs.
+
+Types
+Suction dredgers
+These operate by sucking through a long tube like some vacuum cleaners but on a larger scale.
+A plain suction dredger has no tool at the end of the suction pipe to disturb the material.
+
+Trailing suction
+A trailing suction hopper dredger (TSHD) trails its suction pipe when working. The pipe, which is fitted with a dredge drag head, loads the dredge spoil into one or more hoppers in the vessel.
+When the hoppers are full, the TSHD sails to a disposal area and either dumps the material through doors in the hull or pumps the material out of the hoppers. Some dredges also self-offload using drag buckets and conveyors.
+As of 2008 the largest trailing suction hopper dredgers in the world were Jan De Nul's Cristobal Colon (launched 4 July 2008) and her sister ship Leiv Eriksson (launched 4 September 2009). Main design specifications for the Cristobal Colon and the  Leiv Eriksson are: 46,000 cubic metre hopper and a design dredging depth of 155 m. Next largest is HAM 318 (Van Oord) with its 37,293 cubic metre hopper and a maximum dredging depth of 101 m.
+
+Cutter-suction
+A cutter-suction dredger's (CSD) suction tube has a cutting mechanism at the suction inlet. The cutting mechanism loosens the bed material and transports it to the suction mouth. The dredged material is usually sucked up by a wear-resistant centrifugal pump and discharged either through a pipe line or to a barge. Cutter-suction dredgers are most often used in geological areas consisting of hard surface materials (for example gravel deposits or surface bedrock) where a standard suction dredger would be ineffective. They can, if sufficiently powerful, be used instead of underwater blasting.
+As of 2024, the most powerful cutter-suction dredger in the world is DEME's Spartacus, which entered service in 2021.
+
+Auger suction
+The auger dredge system functions like a cutter suction dredger, but the cutting tool is a rotating Archimedean screw set at right angles to the suction pipe. Mud Cat invented the auger dredge in the 1970s.
+
+Jet-lift
+These use the Venturi effect of a concentrated high-speed stream of water to pull the nearby water, together with bed material, into a pipe.
+
+Air-lift
+An airlift is a type of small suction dredge. It is sometimes used like other dredges. At other times, an airlift is handheld underwater by a diver. It works by blowing air into the pipe, and that air, being lighter than water, rises inside the pipe, dragging water with it.
+
+Mechanical dredgers
+Some bucket dredgers and grab dredgers are powerful enough to rip out coral to make a shipping channel through coral reefs.
+
+Bucket dredgers
+A bucket dredger is equipped with a bucket dredge, which is a device that picks up sediment by mechanical means, often with many circulating buckets attached to a wheel or chain.
+
+Grab dredgers
+A grab dredger picks up seabed material with a clam shell bucket, which hangs from an onboard crane or a crane barge, or is carried by a hydraulic arm, or is mounted like on a dragline. This technique is often used in excavation of bay mud. Most of these dredges are crane barges with spuds, steel piles that can be lowered and raised to position the dredge.
+
+Backhoe/dipper dredgers
+A backhoe/dipper dredger has a backhoe like on some excavators. A crude but usable backhoe dredger can be made by mounting a land-type backhoe excavator on a pontoon. The six largest backhoe dredgers in the world are currently the Vitruvius, the Mimar Sinan, Postnik Yakovlev (Jan De Nul), the Samson (DEME), the Simson and the Goliath (Van Oord). They featured barge-mounted excavators. Small backhoe dredgers can be track-mounted and work from the bank of ditches. A backhoe dredger is equipped with a half-open shell. The shell is filled moving towards the machine. Usually dredged material is loaded in barges. This machine is mainly used in harbours and other shallow water.
+Excavator dredge attachments
+The excavator dredge attachment uses the characteristics of cutter-suction dredgers, consisting of cutter heads and a suction pump for transferring material. These hydraulic attachments mount onto the boom arm of an excavator allowing an operator to maneuver the attachment along the shoreline and in shallow water for dredging.
+
+Bed leveler
+This is a bar or blade which is pulled over the seabed behind any suitable ship or boat. It has an effect similar to that of a bulldozer on land. The chain-operated steam dredger Bertha, built in 1844 to a design by Brunel and as of 2009 was the oldest operational steam vessel in Britain, was of this type.
+
+Krabbelaar
+This is an early type of dredger which was formerly used in shallow water in the Netherlands. It was a flat-bottomed boat with spikes sticking out of its bottom. As tide current pulled the boat, the spikes scraped seabed material loose, and the tide current washed the material away, hopefully to deeper water. Krabbelaar is the Dutch word for "scratcher".
+
+Water injection
+A water injection dredger (WID) uses a small jet to inject water under low pressure (to prevent the sediment from exploding into the surrounding waters) into the seabed to bring the sediment in suspension, which then becomes a turbidity current, which flows away down slope, is moved by a second burst of water from the WID or is carried away in natural currents. Water injection results in a lot of sediment in the water which makes measurement with most hydrographic equipment (for instance: singlebeam echosounders) difficult.
+
+Pneumatic
+These dredgers use a chamber with inlets, out of which the water is pumped with the inlets closed. It is usually suspended from a crane on land or from a small pontoon or barge. Its effectiveness depends on depth pressure.
+
+Snagboat
+A snagboat is designed to remove big debris such as dead trees and parts of trees from North America waterways.
+
+Amphibious
+Some of these are any of the above types of dredger, which can operate normally, or by extending legs, also known as spuds, so it stands on the seabed with its hull out of the water. Some forms can go on land.
+Some of these are land-type backhoe excavators whose wheels are on long hinged legs so it can drive into shallow water and keep its cab out of water. Some of these may not have a floatable hull and, if so, cannot work in deep water. Oliver Evans (1755–1819) in 1804 invented the Oruktor Amphibolos, an amphibious dredger which was America's first steam-powered road vehicle.
+
+Submersible
+These are usually used to recover useful materials from the seabed. Many of them travel on continuous track. A unique variant is intended to walk on legs on the seabed.
+
+Fishing
+Fishing dredges are used to collect various species of clams, scallops, oysters or mussels from the seabed. Some dredges are also designed to catch crabs, sea urchins, sea cucumbers, and conch. These dredges have the form of a scoop made of chain mesh, and are towed by a fishing boat. Clam-specific dredges can utilize hydraulic injection to target deeper into the sand. Dredging can be destructive to the seabed and some scallop dredging has been replaced by collecting via scuba diving.
+
+Notable individual dredgers
+As of June 2018, the largest dredger in Asia is MV Tian Kun Hao, a 140-metre (460 ft) long dredger constructed in China, with a capacity of 6,000 cubic metres per hour (59,000 cu ft/ks).  An even larger dredger, retired in 1980, was the U.S. Army Corps of Engineers Essayons, which was 525.17 feet (160.07 m) long. The Mallard II, a clamshell dredger that maintains levees in San Francisco Bay, has operated continuously since being built in 1936.: 61
+
+Dredge monitoring software
+Dredgers are often equipped with dredge monitoring software to help the dredge operator position the dredger and monitor the current dredge level. The monitoring software often uses Real Time Kinematic satellite navigation to accurately record where the machine has been operating and to what depth the machine has dredged to.
+
+Transportation and disposal of materials
+In a "hopper dredger", the dredged materials end up in a large onboard hold called a "hopper." A suction hopper dredger is usually used for maintenance dredging. A hopper dredge usually has doors in its bottom to empty the dredged materials, but some dredges empty their hoppers by splitting the two-halves of their hulls on large hydraulic hinges. Either way, as the vessel dredges, excess water in the dredged materials is spilled off as the heavier solids settle to the bottom of the hopper. This excess water is returned to the sea to reduce weight and increase the amount of solid material (or slurry) that can be carried in one load. When the hopper is filled with slurry, the dredger stops dredging and goes to a dump site and empties its hopper.
+Some hopper dredges are designed so they can also be emptied from above using pumps if dump sites are unavailable or if the dredge material is contaminated. Sometimes the slurry of dredgings and water is pumped straight into pipes which deposit it on nearby land. These pipes are also commonly known as dredge hoses, too. There are a few different types of dredge hoses that differ in terms of working pressure, float-ability, armored or not etc. Suction hoses, discharge armored hoses and self-floating hoses are some of the popular types engineered for transporting and discharging dredge materials. Some even had the pipes or hoses customised to exact dredging needs etc. Other times, it is pumped into barges (also called scows), which deposit it elsewhere while the dredge continues its work.
+A number of vessels, notably in the UK and NW Europe de-water the hopper to dry the cargo to enable it to be discharged onto a quayside 'dry'. This is achieved principally using self discharge bucket wheel, drag scraper or excavator via conveyor systems.
+When contaminated (toxic) sediments are to be removed, or large volume inland disposal sites are unavailable, dredge slurries are reduced to dry solids via a process known as dewatering, to minimize the dredge plume. Current dewatering techniques employ either centrifuges, geotube containers, large textile based filters or polymer flocculant/congealant based apparatus.
+In many projects, slurry dewatering is performed in large inland settling pits, although this is becoming less and less common as mechanical dewatering techniques continue to improve.
+Similarly, many groups (most notable in east Asia) are performing research towards utilizing dewatered sediments for the production of concretes and construction block, although the high organic content (in many cases) of this material is a hindrance toward such ends.
+The proper management of contaminated sediments is a modern-day issue of significant concern. Because of a variety of maintenance activities, thousands of tonnes of contaminated sediment are dredged worldwide from commercial ports and other aquatic areas at high level of industrialization. Dredged material can be reused after appropriate decontamination. A variety of processes has been proposed and tested at different scales of application (technologies for environmental remediation). Once decontaminated, the material could well suit the building industry, or could be used for beach nourishment.
+
+Environmental impacts
+Dredging can disturb aquatic ecosystems, often with adverse impacts. In addition, dredge spoils may contain toxic chemicals that may have an adverse effect on the disposal area; furthermore, the process of dredging often dislodges chemicals residing in benthic substrates and injects them into the water column, where they become toxic dredge plumes.
+Dredging can have numerous significant impacts on the environment, including the following:
+
+Release of toxic chemicals (including heavy metals and PCB) from bottom sediments into the water column.
+Short term increases in turbidity, which can affect aquatic species metabolism and interfere with spawning. Suction dredging activity is allowed only during non-spawning time frames set by fish and game (in-water work periods).
+Secondary impacts to marsh productivity from sedimentation and general changes in wetland chemistry after dredging.
+Tertiary impacts to avifauna which may prey upon contaminated aquatic organisms.
+Secondary impacts to aquatic and benthic organisms' metabolism and mortality.
+Possible contamination of dredge spoils sites.
+Changes to the topography by creating "spoil islands" from the accumulated spoil.
+Releases toxic compound Tributyltin, a biocide often used in anti-fouling paint banned in 2008, into the water.
+The nature of dredging operations and possible environmental impacts requires that the activity often be closely regulated and requires comprehensive regional environmental impact assessments alongside continuous monitoring. For example, in the U.S., the Clean Water Act requires that any discharge of dredged or fill materials into "waters of the United States," including wetlands, is forbidden unless authorized by a permit issued by the Army Corps of Engineers. 
+Due to potential environmental impacts, dredging is often restricted to licensed areas, with vessel activity monitored closely using automatic GPS systems.
+Town Of Oyster Bay v. Commander Oil Corporation, Court of Appeals of New York (2001) , showed a case in which the dredger had received a permit from the Army Corps of Engineers preventing the nearby city (Town Of Oyster Bay) to stop the dredging.
+
+Major dredging companies
+According to a Rabobank outlook report in 2013, the largest dredging companies in the world are in order of size, based on dredging sales in 2012 
+
+China Harbour Engineering (China)
+Jan De Nul (Belgium)
+DEME (Belgium)
+Royal Boskalis Westminster (Netherlands)
+Van Oord Dredging and Marine Contractors (Netherlands)
+National Marine Dredging Company (United Arab Emirates)
+Great Lakes Dredge & Dock Company (United States)
+Notable dredging companies in North America
+
+Manson Construction Co. (United States)
+Notable dredging companies in South Asia
+
+Dredging Corporation of India
+Adani Ports & SEZ (India)
+Maldives Transport and Contracting Company (Maldives)
+
+Images
+See also
+Chemistry of wetland dredging
+Dredge ball joint, connection between 2 pipes that are used to transport mixture of water and sand from a dredger to the discharging area
+Dredge drag head
+Dumping of dredged sediment in Long Island Sound
+Navigability
+Peace in Africa (ship), a diamond-mining dredger
+Queen of the Netherlands (ship), a big dredger
+River engineering for inland dredging and other river management systems
+WT Preston, a snagboat
+Foreign Dredge Act of 1906, a US law banning foreign-built and foreign-owned dredges from operating in US waters
+Gold dredge
+
+References
+External links
+
+Directory of Dredgers (a close to exhaustive private collection of dredger photographs)
+Dredging and Spoil Disposal Policy (from the Australian Government)
+The Art of Dredging (Knowledge sharing)
+International Association of Dredging Companies Archived 5 July 2018 at the Wayback Machine Knowledge centre
+World of Boats (EISCA) Collection ~ Isambard Kingdom Brunel's Bertha

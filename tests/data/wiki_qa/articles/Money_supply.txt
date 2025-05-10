@@ -1,0 +1,200 @@
+In macroeconomics, money supply (or money stock) refers to the total volume of money held by the public at a particular point in time. There are several ways to define "money", but standard measures usually include currency in circulation (i.e. physical cash) and demand deposits (depositors' easily accessed assets on the books of financial institutions). Money supply data is recorded and published, usually by the national statistical agency or the central bank of the country. Empirical money supply measures are usually named M1, M2, M3, etc., according to how wide a definition of money they embrace. The precise definitions vary from country to country, in part depending on national financial institutional traditions. 
+Even for narrow aggregates like M1, by far the largest part of the money supply consists of deposits in commercial banks, whereas currency (banknotes and coins) issued by central banks only makes up a small part of the total money supply in modern economies. The public's demand for currency and bank deposits and commercial banks' supply of loans are consequently important determinants of money supply changes. As these decisions are influenced by central banks' monetary policy, not least their setting of interest rates, the money supply is ultimately determined by complex interactions between non-banks, commercial banks and central banks. 
+According to the quantity theory supported by the monetarist school of thought, there is a tight causal connection between growth in the money supply and inflation. In particular during the 1970s and 1980s this idea was influential, and several major central banks during that period attempted to control the money supply closely, following a monetary policy target of increasing the money supply stably. However, the strategy was generally found to be impractical because money demand turned out to be too unstable for the strategy to work as intended. 
+Consequently, the money supply has lost its central role in monetary policy, and central banks today generally do not try to control the money supply. Instead they focus on adjusting interest rates, in developed countries normally as part of a direct inflation target which leaves little room for a special emphasis on the money supply. Money supply measures may still play a role in monetary policy, however, as one of many economic indicators that central bankers monitor to judge likely future movements in central variables like employment and inflation.
+
+Measures of money supply
+There are several standard measures of the money supply, classified along a spectrum or continuum between narrow and broad monetary aggregates. Narrow measures include only the most liquid assets: those most easily used to spend (currency, checkable deposits). Broader measures add less liquid types of assets (certificates of deposit, etc.).
+This continuum corresponds to the way that different types of money are more or less controlled by monetary policy. Narrow measures include those more directly affected and controlled by monetary policy, whereas broader measures are less closely related to monetary-policy actions.
+The different types of money are typically classified as "M"s. The "M"s usually range from M0 (narrowest) to M3 (and M4 in some countries) (broadest), but which "M"s, if any, are actually focused on in central bank communications depends on the particular institution. A typical layout for each of the "M"s is as follows for the United States:
+
+M0: In some countries, such as the United Kingdom, M0 includes bank reserves, so M0 is referred to as the monetary base, or narrow money.
+MB: is referred to as the monetary base or total currency. This is the base from which other forms of money (like checking deposits, listed below) are created and is traditionally the most liquid measure of the money supply.
+M1: Bank reserves are not included in M1.
+M2: Represents M1 and "close substitutes" for M1. M2 is a broader classification of money than M1.
+M3: M2 plus large and long-term deposits. Since March, 23, 2006, M3 is no longer published by the US central bank, as one of Alan Greenspan's last acts, because of its expense.  However, there are still estimates produced by various private institutions.
+MZM: Money with zero maturity. It measures the supply of financial assets redeemable at par on demand.
+
+Creation of money
+Both central banks and commercial banks play a role in the process of money creation. In short, in the fractional-reserve banking system used throughout the world, money can be subdivided into two types:
+
+central bank money – obligations of a central bank, including currency and central bank depository accounts
+commercial bank money – obligations of commercial banks, including checking accounts and savings accounts.
+In the money supply statistics, central bank money is MB while the commercial bank money is divided up into the M1–M3 components, where it makes up the non-M0 component. 
+By far the largest part of the money used by individuals and firms to execute economic actions are commercial bank money, i.e. deposits issued by banks and other financial institutions. In the United Kingdom, deposit money outweighs the central bank issued currency by a factor of more than 30 to 1. In the United States, where the country's currency has a special international role being used in many transactions around the world, legally as well as illegally, the ratio is still more than 8 to 1. Commercial banks create money whenever they make a loan and simultaneously create a matching deposit in the borrower's bank account. In return, money is destroyed when the borrower pays back the principal on the loan. Movements in the money supply therefore to a large extent depend on the decisions of commercial banks to supply loans and consequently deposits, and the public's behavior in demanding currency as well as bank deposits. These decisions are influenced by the monetary policy of central banks, so that money supply is ultimately created by complex interactions between banks, non-banks and central banks. 
+Even though central banks today rarely try to control the amount of money in circulation, their policies still impact the actions of both commercial banks and their customers. When setting the interest rate on central bank reserves, interest rates on bank loans are affected, which in turn affects their demand. Central banks may also affect the money supply more directly by engaging in various open market operations. They can increase the money supply by purchasing government securities, such as government bonds or treasury bills. This increases the liquidity in the banking system by converting the illiquid securities of commercial banks into liquid deposits at the central bank. This also causes the price of such securities to rise due to the increased demand, and interest rates to fall. In contrast, when the central bank "tightens" the money supply, it sells securities on the open market, drawing liquid funds out of the banking system. The prices of such securities fall as supply is increased, and interest rates rise. 
+In some economics textbooks, the supply-demand equilibrium in the markets for money and reserves is represented by a simple so-called money multiplier relationship between the monetary base of the central bank and the resulting money supply including commercial bank deposits. This is a short-hand simplification which disregards several other factors determining commercial banks' reserve-to-deposit ratios and the public's money demand.
+
+National definitions of "money"
+East Asia
+Hong Kong
+The Hong Kong Basic Law and the Sino-British Joint Declaration provides that Hong Kong retains full autonomy with respect to currency issuance. Currency in Hong Kong is issued by the government and three local banks under the supervision of the territory's de facto central bank, the Hong Kong Monetary Authority. Bank notes are printed by Hong Kong Note Printing.
+A bank can issue a Hong Kong dollar only if it has the equivalent exchange in US dollars on deposit. The currency board system ensures that Hong Kong's entire monetary base is backed with US dollars at the linked exchange rate. The resources for the backing are kept in Hong Kong's exchange fund, which is among the largest official reserves in the world. Hong Kong also has huge deposits of US dollars, with official foreign currency reserves of 331.3 billion USD as of September 2014.
+
+Currency peg history
+Hong Kong's exchange rate regime has changed over time.
+
+1967: Sterling was devalued, the peg was increased from 1 shilling 3 pence (£1 = HK$16) to 1 shilling 4½ pence (£1 = HK$14.5455). Valued in USD, the currency went from US$1 = HK$5.71 to US$1 = HK$6.06
+1972: pegged to the US dollar, US$1 = HK$5.65
+1973: US$1 = HK$5.085
+1974 to 1983: The Hong Kong dollar was floated
+October 17, 1983: Pegged at US$1 = HK$7.80 through the currency board system
+May 18, 2005: A lower and upper guaranteed limit are in place at 7.75 to the US dollar. Lower limit was lowered from 7.80 to 7.85, between May 23 and June 20, 2005. The Monetary Authority indicated this was to narrow the gap between interest rates between Hong Kong and the US, and to avoid the HK dollar being used as a proxy for speculative bets on a renminbi revaluation.
+
+Japan
+The Bank of Japan defines the monetary aggregates as:
+
+M1: cash currency in circulation, plus deposit money
+M2 + CDs: M1 plus quasi-money and CDs
+M3 + CDs: M2 + CDs plus deposits of post offices; other savings and deposits with financial institutions; and money trusts
+Broadly defined liquidity: M3 and CDs, plus money market, pecuniary trusts other than money trusts, investment trusts, bank debentures, commercial paper issued by financial institutions, repurchase agreements and securities lending with cash collateral, government bonds and foreign bonds
+
+Europe
+Eurozone
+The European Central Bank's definition of euro area monetary aggregates:
+
+M1: Currency in circulation plus overnight deposits
+M2: M1 plus deposits with an agreed maturity up to two years plus deposits redeemable at a period of notice up to three months.
+M3: M2 plus repurchase agreements plus money market fund (MMF) shares/units, plus debt securities up to two years
+
+United Kingdom
+There are just two official UK measures. M0 is referred to as the "wide monetary base" or "narrow money" and M4 is referred to as "broad money" or simply "the money supply".
+
+M0: Notes and coin in circulation plus banks' reserve balance with Bank of England. (When the bank introduced Money Market Reform in May 2006, the bank ceased publication of M0 and instead began publishing series for reserve balances at the Bank of England to accompany notes and coin in circulation.)
+M4: Cash outside banks (i.e. in circulation with the public and non-bank firms) plus private-sector retail bank and building society deposits plus private-sector wholesale bank and building society deposits and certificates of deposit. In 2010 the total money supply (M4) measure in the UK was £2.2 trillion while the actual notes and coins in circulation totalled only £47 billion, 2.1% of the actual money supply.
+There are several different definitions of money supply to reflect the differing stores of money. Owing to the nature of bank deposits, especially time-restricted savings account deposits, M4 represents the most illiquid measure of money. M0, by contrast, is the most liquid measure of the money supply.
+
+North America
+United States
+The United States Federal Reserve published data on three monetary aggregates until 2006, when it ceased publication of M3 data and only published data on M1 and M2. M1 consists of money commonly used for payment, basically currency in circulation and checking account balances; and M2 includes M1 plus balances that generally are similar to transaction accounts and that, for the most part, can be converted fairly readily to M1 with little or no loss of principal. The M2 measure is thought to be held primarily by households. Prior to its discontinuation, M3 comprised M2 plus certain accounts that are held by entities other than individuals and are issued by banks and thrift institutions to augment M2-type balances in meeting credit demands, as well as balances in money market mutual funds held by institutional investors. The aggregates have had different roles in monetary policy as their reliability as guides has changed. The principal components are:
+
+M0: The total of all physical currency including coinage. M0 = Federal Reserve Notes + US Notes + Coins. It is not relevant whether the currency is held inside or outside of the private banking system as reserves.
+MB: The total of all physical currency plus Federal Reserve Deposits (special deposits that only banks can have at the Fed). MB = Coins + US Notes + Federal Reserve Notes + Federal Reserve Deposits
+M1: The total amount of M0 (cash/coin) outside of the private banking system plus the amount of demand deposits, travelers checks and other checkable deposits + most savings accounts.
+M2: M1 + money market accounts, retail money market mutual funds, and small denomination time deposits (certificates of deposit of under $100,000).
+MZM: 'Money Zero Maturity' is one of the most popular aggregates in use by the Fed because its velocity has historically been the most accurate predictor of inflation. It is M2 – time deposits + money market funds
+M3: M2 + all other CDs (large time deposits, institutional money market mutual fund balances), deposits of eurodollars and repurchase agreements.
+M4-: M3 + Commercial Paper
+M4: M4- + T-Bills (or M3 + Commercial Paper + T-Bills)
+L: The broadest measure of liquidity, that the Federal Reserve no longer tracks. L is very close to M4 + Bankers' Acceptance
+Money Multiplier: M1 / MB. As of December 3, 2015, it was 0.756. While a multiplier under one is historically an oddity, this is a reflection of the popularity of M2 over M1 and the massive amount of MB the government has created since 2008.
+Prior to 2020, savings accounts were counted as M2 and not part of M1 as they were not considered "transaction accounts" by the Fed. (There was a limit of six transactions per cycle that could be carried out in a savings account without incurring a penalty.) On March 15, 2020, the Federal Reserve eliminated reserve requirements for all depository institutions and rendered the regulatory distinction between reservable "transaction accounts" and nonreservable "savings deposits" unnecessary. On April 24, 2020, the Board removed this regulatory distinction by deleting the six-per-month transfer limit on savings deposits. From this point on, savings account deposits were included in M1.
+Although the Treasury can and does hold cash and a special deposit account at the Fed (TGA account), these assets do not count in any of the aggregates. So in essence, money paid in taxes paid to the Federal Government (Treasury) is excluded from the money supply. To counter this, the government created the Treasury Tax and Loan (TT&L) program in which any receipts above a certain threshold are redeposited in private banks. The idea is that tax receipts won't decrease the amount of reserves in the banking system. The TT&L accounts, while demand deposits, do not count toward M1 or any other aggregate either.
+When the Federal Reserve announced in 2005 that they would cease publishing M3 statistics in March 2006, they explained that M3 did not convey any additional information about economic activity compared to M2, and thus, "has not played a role in the monetary policy process for many years." Therefore, the costs to collect M3 data outweighed the benefits the data provided. Some politicians have spoken out against the Federal Reserve's decision to cease publishing M3 statistics and have urged the U.S. Congress to take steps requiring the Federal Reserve to do so. Congressman Ron Paul (R-TX) claimed that "M3 is the best description of how quickly the Fed is creating new money and credit. Common sense tells us that a government central bank creating new money out of thin air depreciates the value of each dollar in circulation." Some of the data used to calculate M3 are still collected and published on a regular basis. Current alternate sources of M3 data are available from the private sector.
+In the United States, a bank's reserves consist of U.S. currency held by the bank (also known as "vault cash") plus the bank's balances in Federal Reserve accounts. For this purpose, cash on hand and balances in Federal Reserve ("Fed") accounts are interchangeable (both are obligations of the Fed). Reserves may come from any source, including the federal funds market, deposits by the public, and borrowing from the Fed itself.
+As of April 2013, the monetary base was $3 trillion and M2, the broadest measure of money supply, was $10.5 trillion.
+
+Oceania
+Australia
+The Reserve Bank of Australia defines the monetary aggregates as:
+
+M1: currency in circulation plus bank current deposits from the private non-bank sector
+M3: M1 plus all other bank deposits from the private non-bank sector, plus bank certificate of deposits, less inter-bank deposits
+Broad money: M3 plus borrowings from the private sector by NBFIs, less the latter's holdings of currency and bank deposits
+Money base: holdings of notes and coins by the private sector plus deposits of banks with the Reserve Bank of Australia (RBA) and other RBA liabilities to the private non-bank sector.
+
+New Zealand
+The Reserve Bank of New Zealand defines the monetary aggregates as:
+
+M1: notes and coins held by the public plus chequeable deposits, minus inter-institutional chequeable deposits, and minus central government deposits
+M2: M1 + all non-M1 call funding (call funding includes overnight money and funding on terms that can of right be broken without break penalties) minus inter-institutional non-M1 call funding
+M3: the broadest monetary aggregate. It represents all New Zealand dollar funding of M3 institutions and any Reserve Bank repos with non-M3 institutions. M3 consists of notes & coin held by the public plus NZ dollar funding minus inter-M3 institutional claims and minus central government deposits
+
+South Asia
+India
+The Reserve Bank of India defines the monetary aggregates as:
+
+Reserve money (M0): Currency in circulation, plus bankers' deposits with the RBI and 'other' deposits with the RBI. Calculated from net RBI credit to the government plus RBI credit to the commercial sector, plus RBI's claims on banks and net foreign assets plus the government's currency liabilities to the public, less the RBI's net non-monetary liabilities. M0 outstanding was ₹30.297 trillion as on March 31, 2020.
+M1: Currency with the public plus deposit money of the public (demand deposits with the banking system and 'other' deposits with the RBI). M1 was 184 per cent of M0 in August 2017.
+M2: M1 plus savings deposits with post office savings banks. M2 was 879 per cent of M0 in August 2017.
+M3 (the broad concept of money supply): M1 plus time deposits with the banking system, made up of net bank credit to the government plus bank credit to the commercial sector, plus the net foreign exchange assets of the banking sector and the government's currency liabilities to the public, less the net non-monetary liabilities of the banking sector (other than time deposits). M3 was 555 per cent of M0 as on March 31, 2020(i.e. ₹167.99 trillion.)
+M4: M3 plus all deposits with post office savings banks (excluding National Savings Certificates).
+
+Importance of money supply
+The importance which has historically been attached to the money supply in the monetary policy of central banks is due to the suggestion that movements in money may determine important economic variables like prices (and hence inflation), output and employment. Indeed, two prominent analytical frameworks in the 20th century both built on this premise: the Keynesian IS-LM model and the monetarist quantity theory of money.
+
+IS-LM model
+The IS-LM model was introduced by John Hicks in 1937 to describe Keynesian macroeconomic theory. Between the 1940s and mid-1970s, it was the leading framework of macroeconomic analysis and is still today an important conceptual introductory tool in many macroeconomics textbooks. In the traditional version of this model it is assumed that the central bank conducts monetary policy by increasing or decreasing the money supply, which affects interest rates and consequently investment, aggregate demand and output.
+In light of the fact that modern central banks have generally ceased to target the money supply as an explicit policy variable, in some more recent macroeconomic textbooks the IS-LM model has been modified to incorporate the fact that rather than manipulating the money supply, central banks tend to conduct their policies by setting policy interest rates more directly.
+
+Quantity theory of money
+According to the quantity theory of money, inflation is caused by movements in the supply of money and hence can be controlled by the central bank if the bank controls the money supply. The theory builds upon Irving Fisher's equation of exchange from 1911:
+
+  
+    
+      
+        M
+        ×
+        V
+        =
+        P
+        ×
+        Q
+      
+    
+    {\displaystyle M\times V=P\times Q}
+  
+
+where
+
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  
+ is the total dollars in the nation's money supply,
+
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+  
+ is the number of times per year each dollar is spent (velocity of money),
+
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+  
+ is the average price of all the goods and services sold during the year,
+
+  
+    
+      
+        Q
+      
+    
+    {\displaystyle Q}
+  
+ is the quantity of assets, goods and services sold during the year.
+In practice, macroeconomists almost always use real GDP to define Q, omitting the role of all other transactions. Either way, the equation in itself is an identity which is true by definition rather than describing economic behavior. That is, velocity is defined by the values of the other three variables. Unlike the other terms, the velocity of money has no independent measure and can only be estimated by dividing PQ by M. Adherents of the quantity theory of money assume that the velocity of money is stable and predictable, being determined mostly by financial institutions. If that assumption is valid, then changes in M can be used to predict changes in PQ. If not, then a model of V is required in order for the equation of exchange to be useful as a macroeconomics model or as a predictor of prices.
+Most macroeconomists replace the equation of exchange with equations for the demand for money which describe more regular economic behavior. However, predictability (or the lack thereof) of the velocity of money is equivalent to predictability (or the lack thereof) of the demand for money (since in equilibrium real money demand is simply ⁠Q/V⁠).
+There is some empirical evidence of a direct relationship between the growth of the money supply and long-term price inflation, at least for rapid increases in the amount of money in the economy. The quantity theory was a cornerstone for the monetarists and in particular Milton Friedman, who together with Anna Schwartz in 1963 in a pioneering work documented the relationship between money and inflation in the United States during the period 1867–1960. During the 1970s and 1980s the monetarist ideas were increasingly influential, and major central banks like the Federal Reserve, the Bank of England and the German Bundesbank officially followed a monetary policy objective of increasing the money supply in a stable way.
+
+Declining importance
+Starting in the mid-1970s and increasingly over the next decades, the empirical correlation between fluctuations in the money supply and changes in income or prices broke down, and there appeared clear evidence that money demand (or, equivalently, velocity) was unstable, at least in the short and medium run, which is the time horizon that is relevant to monetary policy. This made a money target less useful for central banks and led to the decline of money supply as a tool of monetary policy. Instead central banks generally switched to steering interest rates directly, allowing money supply to fluctuate to accommodate fluctuations in money demand. Concurrently, most central banks in developed countries implemented direct inflation targeting as the foundation of their monetary policy, which leaves little room for a special emphasis on the money supply. In the United States, the strategy of targeting the money supply was tried under Federal Reserve chairman Paul Volcker from 1979, but was found to be impractical and later given up. According to Benjamin Friedman, the number of central banks that actively seek to influence money supply as an element of their monetary policy is shrinking to zero. 
+Even though today central banks generally do not try to determine the money supply, monitoring money supply data may still play a role in the preparation of monetary policy as part of a wide array of financial and economic data that policymakers review. Developments in money supply may contain information of the behavior of commercial banks and of the general economic stance which is useful for judging future movements in, say, employment and inflation. Also in this respect, however, money supply data have a mixed record. In the United States, for instance, the Conference Board Leading Economic Index originally included a real money supply (M2) component as one of its 10 leading indicators, but removed it from the index in 2012 after having ascertained that it had performed poorly as a leading indicator since 1989.
+
+See also
+References
+Further reading
+Article in the New Palgrave on Money Supply by Milton Friedman
+St. Louis Fed: Monetary Aggregates
+Investopedia: Money Zero Maturity (MZM)
+
+External links
+Aggregate Reserves Of Depository Institutions And The Monetary Base (H.3)
+Historical H.3 releases
+Money Stock Measures (H.6)
+Data on Monetary Aggregates in Australia
+Monetary Statistics on Hong Kong Monetary Authority
+Monetary Survey from People's Bank of China

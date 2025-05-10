@@ -1,0 +1,197 @@
+Airbus SE ( AIR-buss; French: [ɛʁbys] ; German: [ˈɛːɐ̯bʊs] ; Spanish: [ˈejɾβus]) is a European aerospace corporation. The company's primary business is the design and manufacturing of commercial aircraft but it also has separate defence and space and helicopter divisions. Airbus has long been the world's leading helicopter manufacturer and, in 2019, also emerged as the world's biggest manufacturer of airliners.
+The company was incorporated as the European Aeronautic Defence and Space Company (EADS) in the year 2000 through the merger of the French Aérospatiale-Matra, the German DASA and Spanish CASA. The new entity subsequently acquired full ownership of its subsidiary, Airbus Industrie GIE, a joint venture of European aerospace companies originally incorporated in 1970 to develop and produce a wide-body aircraft to compete with American-built airliners. EADS rebranded itself as Airbus SE in 2015. Reflecting its multinational origin, the company operates major offices and assembly plants in France, Germany, Spain, and the United Kingdom, along with more recent additions in Canada, Malaysia, United States, Morocco and India.
+Airbus' headquarters are legally registered in Leiden, Netherlands, but daily management is conducted from the company's main office located in Blagnac, France. The SE in its corporate name stands for Societas Europaea. The company is led by CEO Guillaume Faury and is a component of the EURO STOXX 50 stock market index. Since its inception in 2000, the company's shares have been listed on the Paris Stock Exchange, the Frankfurt Stock Exchange and the four regional Spanish stock exchanges (including the Bolsa de Madrid).
+
+History
+The current company is the product of consolidation in the European aerospace industry, tracing back to the formation of the Airbus Industrie GIE consortium in 1970. In 2000, the European Aeronautic Defence and Space Company (EADS) NV was established. In addition to other subsidiaries pertaining to security and space activities, EADS owned 100% of the pre-existing Eurocopter SA, established in 1992, as well as 80% of Airbus Industrie GIE. In 2001, Airbus Industrie GIE was reorganised as Airbus SAS, a simplified joint-stock company. In 2006, EADS acquired BAE Systems' remaining 20% of Airbus. EADS NV was renamed Airbus Group NV and SE in 2014 and 2015, respectively. Due to the dominance of the Airbus SAS division within Airbus Group SE, the executive committees of the parent and subsidiary companies were aligned in January 2017, but the companies were kept as separate legal entities. The holding company was given its present name in April 2017.
+
+The logos of Airbus Industrie GIE and Airbus SAS displayed a stylised turbine symbol, redolent of a jet engine, and a font similar to Helvetica Black. The logo colours were reflected in the standard Airbus aircraft livery in each period. The EADS logo between 2000 and 2010 combined the logos of the merged companies, DaimlerChrysler Aerospace AG (a four-ray star) and Aérospatiale-Matra (a curved arrow), after which these elements were removed and a new font with 3D shading was chosen. This font was retained in the logos of Airbus Group NV (2014–2015) and Airbus Group SE (2015–2017), then Airbus SE:
+
+Products
+Civilian
+The Airbus product line started with the A300 in 1972, the world's first wide-body, twinjet aircraft. The aircraft greatly benefited from the 1976 introduction of the ETOPS 90 rule, which allowed twinjet aircraft to operate up to 90 minutes (increased from 60 minutes) away from the nearest airport. Under the new rule, the A300 was able to operate over the North Atlantic, the Bay of Bengal, and the Indian Ocean more efficiently than the trijets and four-engined jet aircraft offered by competitors.
+
+They then went on to make the Airbus A310, also a wide-body aircraft. Airbus had identified a demand for an aircraft smaller than the Airbus A300, the first twin-jet wide-body. It was manufactured from 1981-1998.
+
+Building on its success with the A300, Airbus worked to develop a narrow-body aircraft along with additional wide-body aircraft based on the A300.
+The narrow-body efforts led to the launch of the A320 in 1987, which was and continues to be a major commercial success. The A320 was the first commercial jet to use a digital fly-by-wire control system. All Airbus aircraft developed since then have cockpit systems similar to the A320, making it easier to train crew. The success led Airbus to introduce a lengthened version, the A321 in 1993, along with the shorter A319 in 1995 and the even shorter A318 in 2002. In 2016, Airbus re-engineered the narrow-body family, in a programme called the A320neo (new engine option).
+
+The wide-body programme led to the introduction of the four-engine A340 in 1991 and the twinjet A330 in 1992. At that time, Airbus wanted to offer four-engined jet aircraft to allow for longer transatlantic and transpacific flights. However, during the aircraft's development, new rules extended twinjet operations to 120 minutes in 1986, and 180 minutes in 1989. Although the new rules hurt sales of the A340, they greatly benefited the A330. Production of the A340 ended in 2011, while the A330 would be re-engineered as the A330neo (new engine option) in 2018.
+The world's largest passenger airliner was introduced by Airbus in 2005; the A380 is a four-engine aircraft with two full-length passenger seating decks. Intended to challenge the dominance of the Boeing 747 in the long-haul market, the A380 was ultimately a money-losing venture for Airbus due to large development costs and limited sales arising from high operating costs, and production ended in December 2021.
+The A350, a wide-body, twinjet aircraft was introduced in 2013. The A350 was the first Airbus aircraft made largely from carbon-fiber-reinforced polymers. It is longer and wider than the fuselage used on the A300, A310, A330, and A340.
+A second narrow-body jet was added to the product list in 2018 when Airbus gained control of the Bombardier CSeries programme, and rebranded it as the A220. The jet offers five-abreast seating compared to the six-abreast seating on the A320.
+In December 2024, it was reported that the total aircraft delivery in the year for Airbus has reached 643 units, with 84 planes delivered in November 2024 alone. Subsequently in January 2025, it was reported that Airbus have successfully delivered 766 aircraft to its customers out of 878 orders in the entire 2024, marking a 4% increase from the previous year and further reinforce its position as the leading aircraft manufacturer in the world.
+
+The company is also a 50% owner of the ATR joint venture which builds the ATR 42 and ATR 72 regional aircraft.
+
+Corporate jets
+Airbus Corporate Jets markets and modifies new aircraft for private and corporate customers. It has a model range that parallels the commercial aircraft offered by the company. Following the entry of the 737-based Boeing Business Jet, Airbus joined the business jet market with the A319 Corporate Jet in 1997. Although the term Airbus Corporate Jet was initially used only for the A319CJ, it is now often used for all models, including VIP widebodies. As of December 2008, 121 corporate and private jets are operating, and 164 aircraft have been ordered.
+The company is also a 10% owner of Dassault Aviation, which builds the Falcon family of smaller business jets.
+
+Military
+Airbus Defence and Space markets and either builds or modifies new aircraft for military use. Airbus became increasingly interested in developing and selling to the military aviation market in the late 1990s. It embarked on two main fields of development: aerial refuelling with the Airbus A310 MRTT (Multi-Role Tanker Transport) and later the Airbus A330 MRTT, and tactical airlift with the Airbus A400M Atlas. The company has also continued to market and assemble some military aircraft previously offered by the companies that formed Airbus, notably CASA.
+The A310 and A330-based MRTT aircraft are conversions of civilian airliners. The aircraft are called multi-role tanker transports because, in addition to their aerial refuelling capability, the aircraft can also be configured for troop transport, medevac, and cargo transportation.
+The A400M Atlas is a four-engine, turboprop-powered tactical transport aircraft. The A400M is sized between the American-made C-130 and the C-17 transports, and while it can carry heavier loads than the C-130, its turboprop engines allow it to retain the ability to use rough landing strips. The A400M was developed for European NATO members Belgium, France, Germany, Luxembourg, Spain, Turkey and the UK, as an alternative to relying on foreign aircraft. During development, the A400M programme faced delays and cost overruns; with customer nations stepping in offer additional subsidies.  The first aircraft was delivered to the French Air Force in 2013, and by 2023, more than 100 aircraft had been built.
+The Defence and Space division also market and assembles the EADS CASA C295, a smaller tactical transport aircraft, that was designed and initially manufactured by the Spanish aerospace company CASA.
+The company is also a 50% owner of the ArianeGroup joint venture which builds the Ariane 5 space launch vehicle, a 46% owner of the Eurofighter joint venture which builds the Typhoon fighter jet, a 42.5% owner of the Panavia Aircraft joint venture which built the Tornado fighter jet, a 37.5% owner of the MBDA joint venture which builds missiles, and a 10% owner of Dassault Aviation which builds the Rafale fighter jet, and previously, the Mirage 2000 fighter.
+
+Helicopters
+Airbus Helicopters markets and builds new rotorcraft for civilian and military use. The division was founded formed in 1992 as the Eurocopter Group, through the merger of the helicopter divisions of Aérospatiale and DASA (two of the founding companies of Airbus). Airbus Helicopters is the foremost player in the turbine helicopter industry both in terms of revenues and deliveries.
+The division's civilian products include the single engine H125 and H130, the light twin engine H135 and H145, the medium twin engine H155 and H160, the super medium twin engine H175, and the heavy twin engine H215 and H225.
+Military products include the Tiger attack helicopter, along with militarized versions of the H125, H135, H145, H160, H175, H215, and H225.
+The company is also a 62.5% owner of the NHIndustries joint venture, which builds the NH90 military utility helicopter.
+
+Organisation
+Divisions
+Commercial Aircraft
+Commercial aircraft generated 74% of total revenue for the Airbus group in 2018 and 72% in 2023. The key trends for Airbus Commercial Aircraft (excluding Defence, Space and Helicopters) are as of each financial year ending December 31:
+
+Defence and Space
+The division Airbus Defence and Space was formed in January 2014 as part of the group restructuring from the former EADS divisions Airbus Military, Astrium, and Cassidian (composed of Cassidian Electronics – develops and manufactures sensors, radars, avionics and electronic warfare systems for military and security applications, Cassidian Air Systems – develops manned and unmanned aerial systems (UAVs), mission avionics, electronic defence and warning systems and Cassidian Systems – provides global security systems such as command & control, lead system integration, TETRA and TETRAPOL communication systems for public safety, industry, transportation and defence). This line of business was the first one in the world to begin field tests with TETRA Enhanced Data Service (TEDS).
+
+EADS 3 Sigma – a Hellenic company focused on the design, development, production and services provision of airborne and surface target drone systems.
+The Airbus Military division, which manufactured tanker, transport and mission aircraft; Airbus Helicopters, the world's largest helicopter supplier; Astrium, provided systems for aerial, land, naval and civilian security applications including Ariane, Galileo and Cassidian. Through Cassidian, EADS was a partner in the Eurofighter consortium as well as in the missile systems provider MBDA.
+
+Helicopters
+Airbus Helicopters, formerly known as Eurocopter, is a helicopter manufacturing and support company.
+
+Subsidiaries
+Airbus APWorks
+AirBusiness Academy
+Airbus Flight Academy
+Airbus Group, Inc. – the U.S. holding company for the North American activities of Airbus Group
+Airbus Transport International – cargo airline managing the transportation of Airbus parts between facilities
+Airbus Protect
+Airbus Crisa
+Dornier Consulting
+GPT
+NAVBLUE
+Premium AEROTEC
+Satair
+Airbus Atlantic
+Testia
+UP42
+VoltAir
+
+Joint ventures
+Largest shareholders
+The 10 largest shareholder of Airbus in early 2024 were:
+
+Government of France (10.83%)
+Government of Germany (10.82%)
+Government of Spain (4.081%)
+The Children's Investment Fund Management (3.013%)
+Amundi (0.3994%)
+Silverbay Capital Management (0.2518%)
+OFI Invest Asset Management (0.1688%)
+Crédit Mutuel (0.1611%)
+Moneta Asset Management (0.1139%)
+Rothschild & Co (0.1110%)
+
+Senior leadership
+The corporate management of Airbus is:
+
+Chairman: René Obermann (since April 2020)
+Chief Executive: Guillaume Faury (since April 2019)
+
+International manufacturing presence
+Airbus has several final assembly lines for different models and markets. These are:
+Toulouse, France (A320 family, A330 and A350)
+Airbus Hamburg-Finkenwerder, Hamburg, Germany (A320 family)
+Seville, Spain (A400M and C295)
+Tianjin, China (A320 family)
+Airbus Mobile, Mobile, Alabama, United States (A220 and A320 family)
+Mirabel, Quebec: Airbus Canada originator of the A220
+Airbus, however, has a number of other plants in different European locations, reflecting its foundation as a consortium.
+For aircraft assembled in Europe, aircraft parts often move between the different factories and the assembly lines via the use of the Beluga and BelugaXL, a fleet modified aircraft capable of carrying entire sections of fuselage. For aircraft assembled in China and the United States, the parts needed to build an aircraft meet in a single European location where they are loaded onto ships for the final journey to the assembly line.
+Airbus opened an assembly plant for the A320 family of aircraft in Tianjin, China in 2009. Airbus started constructing a $350 million component manufacturing plant in Harbin, China in July 2009, which now employs over 1,000 people.  It was fully operational by early 2011, the 30,000 square metre plant manufactures composite parts and assembles composite work-packages for the A350 XWB, A320 families and future Airbus programmes. Harbin Aircraft Industry Group Corporation, Hafei Aviation Industry Company Ltd, AviChina Industry & Technology and other Chinese partners hold an 80% stake in the plant while Airbus controls the remaining 20%. In 2022, the Tianjin plant finished upgrading works to allow for production of A321. In 2023, the Tianjin final assembly plant started construction to be expanded with a second production line.
+North America plays a crucial role for Airbus, both in terms of aircraft sales and suppliers. Of the approximately 5,300 Airbus jetliners sold worldwide, 2,000 are ordered by North American customers. These orders span Airbus' entire product line, from the compact A318 to the massive A380, accommodating 107 to 565 passengers. Notably, US contractors contribute significantly, supporting around 120,000 jobs and generating an estimated $5.5 billion in business. For instance, one variant of the A380 boasts 51% American content in terms of work share value. 
+Plans for a Mobile, Alabama aircraft assembly plant were unveiled by Airbus CEO Fabrice Brégier from the Mobile Convention Centre on 2 July 2012. The plans include a $600 million factory at the Mobile Aeroplex at Brookley for the assembly of the A220, A319, A320 and A321 aircraft. It could employ up to 1,000 full-time workers when operational. Construction began on 8 April 2013, and became operable by 2015, producing up to 50 aircraft per year by 2017.
+On 16 December 2024, it was reported that Airbus has leased 650,000 sq ft of office space in Bengaluru's Whitefield to build its Global Capacity Centre. The lease is for 10 years and valued at Rs 500 crore, securing the entire building in Titanium Tech Park. This marks a significant milestone for Airbus in strengthening its technology and innovation in India.
+
+Financial information
+The key trends of Airbus SE are (as of each financial year ending December 31):
+
+In October 2005 the British Ministry of Defence warned European politicians to stop, as it saw it, interfering in the corporate governance of EADS. The former UK Defence Procurement Minister Lord Drayson hinted that the UK government, a major customer for EADS, may withhold future contracts. "As a key customer, we see it as important for EADS to move in a direction that is free from political interference."
+On 4 April 2006, DaimlerChrysler announced its intention to reduce its shareholding from 30 % to 22.5 %. The company placed a value of the stake at "approximately €2.0 billion." Lagardère was to reduce its holding by an identical amount. However, Caisse des Dépôts et Consignations, a unit of the French government, acquired 2.25 % of EADS. At issue, as a result, is the fact that the German and French shareholdings were now in imbalance.
+On 30 August 2006, shortly after the stock price decline caused by the A380 delivery delays, more than 5 % of EADS stock was reportedly purchased by the Russian state-owned Vneshtorgbank, bringing its share to nearly 6 %. In December 2007, Vneshtorgbank sold EADS shares to another state-controlled bank, Vnesheconombank. EADS shares were to be delivered by Vneshekonombank to the charter capital of JSC United Aircraft Corporation in 2008.
+On 3 October 2006, shortly after EADS admitted further delays in the Airbus 380 programme would cost the company 4.8 billion euros in lost earnings in 2010, EADS shares, traded on the Paris arm of Euronext, were suspended after they surpassed the 10 % loss limit. Trading resumed later in the day with the one-day loss holding at 7 %.
+In 2007, Dubai Holding acquired 3.12 % of EADS stock, making the Dubai buy-out fund one of the largest institutional shareholders.
+In 2008, EADS had arms sales equivalent to $17.9 billion, which constituted 28 % of total revenue.
+In April 2013, Daimler sold its shares in EADS.
+As of 31 December 2024, 73.7 % of Airbus Group stock is publicly traded on six European stock exchanges (Euronext Paris in France, the Frankfurt Stock Exchange in Germany, and the four regional stock exchanges Bolsa de Madrid, Borsa de Barcelona, Bolsa de Valencia and Bolsa de Bilbao in Spain). 0.6 % of the shares are treasury shares owned by Airbus, while the remaining 25.7% are owned by a "Contractual Partnership." As of 31 December 2024, the partnership is owned by SOGEPA (10.8%), GZBV (10.8%) and SEPI (4.1%). SOGEPA is owned by the French State, GZBV is majority owned by the German state-owned investment and development bank KfW, and SEPI is a Spanish state holding company.
+In April 2020, Airbus announced that it had cut aircraft production by a third due to the COVID-19 outbreak. According to Guillaume Faury, the company was "bleeding cash at an unprecedented speed." The recession put its survival at stake and presented the need for deep job cuts throughout all Airbus departments. 3,000 workers in France were involved in government-assisted furlough schemes.
+
+Environmental record
+Airbus has committed to "Flightpath 2050", an aviation industry plan to reduce noise, CO2, and NOx emissions.
+Airbus was the first aerospace business to become ISO 14001 certified, in January 2007; this is a broader certification covering the whole organisation, not just the aircraft it produces.
+
+Co-development of biofuels
+In association with Honeywell and JetBlue, Airbus has developed an aviation biofuel to reduce pollution and dependence on fossil fuels, claiming that this has the potential to replace up to a third of the world's aviation fuel. Algae-based biofuel absorbs carbon dioxide during growth and does not compete with food production. This alternative may be commercially available by 2030 but algae and other vegetation-based fuels are in an early stage of development, and fuel-bearing algae have been expensive to develop. Airbus offers delivery flights to airlines using a 10% biofuel blend in standard engines. The fuel does not cut carbon emissions but is free of sulphur emissions, which demonstrates that the fuel could be used in commercial flights in unmodified engines.
+On 22 July 2024, at the 2024 
+Farnborough International Airshow, Airbus and Airports Council International (ACI) World association signed a cooperation agreement to support the industry’s efforts to reduce the environmental impact of aviation, including the adoption of sustainable aviation fuel (SAF).
+
+Hydrogen powered aircraft concepts announced
+In September 2020, Airbus unveiled three liquid hydrogen-fueled "ZEROe" concept aircraft that it claims could become the first commercial zero-emission aircraft, entering service by 2035. The design includes an aircraft with six eight-bladed turbo-prop removable motors.
+At the Airbus Summit in March 2025, Airbus delivered updates on its development of the ZEROe hydrogen powered aircaraft.
+
+Controversies
+Government subsidies
+Boeing has continually protested over "launch aid" and other forms of government aid to Airbus, while Airbus has argued that Boeing receives illegal subsidies through military and research contracts and tax breaks.
+In July 2004, former Boeing CEO Harry Stonecipher accused Airbus of abusing a 1992 bilateral EU-US agreement providing for disciplines for large civil aircraft support from governments. Airbus is given reimbursable launch investment (RLI), called "launch aid" by the US, from European governments, with the money being paid back with interest plus indefinite royalties, but only if the aircraft is a commercial success. Airbus contends that this system is fully compliant with the 1992 agreement and WTO rules. The agreement allows up to 33% of the programme cost to be met through government loans, which are to be fully repaid within 17 years with interest and royalties. These loans are held at a minimum interest rate equal to the cost of government borrowing plus 0.25%, which would be below market rates available to Airbus without government support. Airbus claims that since the signature of the EU-US agreement in 1992, it has repaid European governments more than U.S.$6.7 billion and that this is 40% more than it has received.
+Airbus argues that the military contracts awarded to Boeing, the second largest U.S. defence contractor, are in effect a form of subsidy, such as the controversy surrounding the Boeing KC-767 military contracting arrangements. The significant U.S. government support of technology development via NASA also provides significant support to Boeing, as do the large tax breaks offered to Boeing, which some people claim are in violation of the 1992 agreement and WTO rules. In its recent products such as the 787, Boeing has also been offered direct financial support from local and state governments.
+In January 2005 the European Union and United States trade representatives, Peter Mandelson and Robert Zoellick respectively, agreed to talks aimed at resolving the increasing tensions. These talks were not successful with the dispute becoming more acrimonious rather than approaching a settlement.
+WTO ruled in August 2010 and in May 2011 that Airbus had received improper government subsidies through loans with below market rates from several European countries. In a separate ruling in February 2011, WTO found that Boeing had received local and federal aid in violation of WTO rules.
+
+Cluster bomb allegation
+In 2005 the Government Pension Fund of Norway recommended the exclusion of several companies producing cluster bombs or components. EADS and its sister company EADS Finance BV were among them, arguing that EADS manufactures "key components for cluster bombs". The criticism was centred around TDA, a joint venture between EADS and Thales S.A. TDA produced the mortar ammunition PR Cargo, which can be considered cluster ammunition, however this definition has since been successfully battled by EADS. EADS and its subsidiaries are now regarded as fulfilling all the conditions of the Ottawa Treaty. According to the new point of view, no product of EADS or its subsidiaries falls into the category of antipersonnel mines as defined by the Ottawa Treaty ("landmines under the Ottawa Treaty"). In April 2006, the fund declared that the basis for excluding EADS from investments related to the production of cluster munitions is no longer valid, however its shareholding of MBDA means the fund still excludes EADS due to its indirect involvement in nuclear weapons production.
+
+Insider trading investigation
+On 2 June 2006 co-CEO Noël Forgeard and Airbus CEO Gustav Humbert resigned following the controversy caused by the June 2006 announcement that deliveries of the A380 would be delayed by a further six months. Forgeard was one of a number of executives including Jean-Paul Gut who exercised stock options in November 2005 and March 2006. He and twenty-one other executives are under investigation as to whether they knew about the delays in the Airbus A380 project which caused a 26 % fall in EADS shares when publicised.
+The French government's actions were also under investigation; The state-owned bank Caisse des Dépots et Consignations (CDC) bought part of Lagardère's 7.5 % stake in EADS in April 2006, allowing that latter to partially escape the June 2006 losses.
+
+Investment in Chinese firm supplying Myanmar military
+In 2024, Airbus received negative press attention for increasing their investments in Aviation Industry Corporation of China, a Chinese company that provides weapons to the Myanmar junta.
+
+Bribery allegations
+South Africa
+In 2003 Tony Yengeni, former chief whip of South Africa's African National Congress, was convicted of fraud worth around US$5 billion relating to an arms deal with South Africa, in which Airbus (formerly EADS) were major players. It was claimed that Airbus had admitted that it had "rendered assistance" to around thirty senior officials, including defence force chief General Siphiwe Nyanda, to obtain luxury vehicles. In March 2003, South Africa withdrew all charges of bribery against the former head of EADS South Africa, and in September 2004, the prosecutor's office dismissed the bribery charges against Yengeni.
+
+Saudi Arabia
+In August 2012 the UK's Serious Fraud Office opened a criminal investigation into an EADS subsidiary, GPT Special Project Management Ltd, regarding bribery allegations made by GPT's former programme director, Ian Foxley. Foxley alleged that luxury cars were bought for senior Saudis, and that millions of pounds sterling were paid to mysterious Cayman Islands companies, possibly to secure a £2 billion contract to renew the Saudi Arabian National Guard's military telecommunications network. Foxley's allegations were supported by two other GPT employees. The later agreement between Airbus and the SFO on 31 January 2020 excluded the settlement of this case.
+
+British and French investigations
+The French National Financial Prosecutor's Office (PNF), the UK Serious Fraud Office (SFO) and the US Department of Justice (DoJ) had been jointly investigating irregularities in Airbus marketing practices since 2016, in particular the activities of agents Saudi Arabia, Kazakhstan, the Philippines, Indonesia and Austria, but also China, the United Arab Emirates, South Korea, Japan, Taiwan, Kuwait, Turkey, Russia, Mexico, Brazil, Vietnam, India, Colombia and Nepal.
+In July 2016, SFO opened a criminal investigation into "suspicions of fraud, bribes and corruption" after Airbus informed British authorities of a failure to disclose the role played by some intermediaries facilitating the sale of aircraft. Airbus was required to provide this information in order to benefit from export credits, which the British, French and German governments had suspended. In March 2017, the PNF subsequently opened a preliminary investigation into "suspicions of fraud and corruption in civil aviation activities" in cooperation with the SFO.
+The allegations included that from 2012 onwards Airbus was responsible for recruiting and remunerating intermediaries to influence the award of civil and military contracts. Payments worth hundreds of millions of euros in alleged secret commissions were made and numerous sales including in Saudi Arabia, Kazakhstan, Philippines, Indonesia, Austria, China and Mauritius were under suspicion of bribery.
+The investigation focused on the Airbus, Strategy and Marketing Organization (SMO), the department responsible for negotiating sales contracts and which, La Tribune reported as having "a network and an incredible influence around the world." Directed successively by Jean-Paul Gut and Marwan Lahoud, the SMO was dissolved in 2016 under the new executive director, Thomas Enders, as part of a "clean hands" operation.
+In 2014, in a case referred to as the Kazakhgate affair, a search at Airbus Helicopters by French authorities found emails confirming that Airbus had agreed in principle to pay €12 million in bribes to the Prime Minister of Kazakhstan to facilitate the sale of helicopters. Officers from the Central Anti-Corruption Office (OCLCIFF) then searched the home of Marwan Lahoud on 8 February 2016. This revealed that two Turkish intermediaries had claimed payment of commissions due in connection with the sale of 160 aircraft to China valued at US$10 billion. A message by Lahoud suggested that the commissions could reach US$250 million. The SMO was to conceal these commissions as false invoices for a fictitious Caspian pipeline project.
+In January 2020, French, British and American courts validated three agreements between Airbus and the PNF, the UK SFO, and the US DoJ. Airbus recognised the charges and agreed to pay fines of €2.1 billion in France, €984 million in the United Kingdom and €526 million in the United States. The penalties were the highest ever issued by the French and British bodies.
+These settlements close the prosecution of Airbus regarding the Kazakhstan case but not allegations of misconduct in Saudi Arabia, China and Turkey, which Airbus denies. Airbus managers may still be pursued as private individuals.
+
+See also
+Airbus Training Centre Europe
+Aerospace industry in the United Kingdom
+Airbus affair
+Boeing
+Bombardier Aerospace
+Comac
+Competition between Airbus and Boeing
+Competition in the regional jet market
+Embraer
+Liebherr Aerospace
+United Aircraft Corporation
+
+Notes
+References
+Further reading
+Congressional Research Service (1992). Airbus Industrie: An Economic and Trade Perspective. U.S. Library of Congress.
+Heppenheimer, T.A. (1995). Turbulent Skies: The History of Commercial Aviation. John Wiley. ISBN 0-471-19694-0.
+Lynn, Matthew (1997). Birds of Prey: Boeing vs. Airbus, a Battle for the Skies. Four Walls Eight Windows. ISBN 1-56858-107-6.
+McGuire, Steven (1997). Airbus Industrie: Conflict and Cooperation in U.S.E.C. Trade Relations. St. Martin's Press.
+McIntyre, Ian (1982). Dogfight: The Transatlantic Battle Over Airbus. Praeger Publishers. ISBN 0-275-94278-3.
+Thornton, David Weldon (1995). Airbus Industrie: The Politics of an International Industrial Collaboration. St. Martin's Press. ISBN 0-312-12441-4.
+
+External links
+
+Official website

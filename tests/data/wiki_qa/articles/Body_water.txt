@@ -1,0 +1,195 @@
+In physiology, body water is the water content of an animal body that is contained in the tissues, the blood, the bones and elsewhere. The percentages of body water contained in various fluid compartments add up to total body water (TBW). This water makes up a significant fraction of the human body, both by weight and by volume. Ensuring the right amount of body water is part of fluid balance, an aspect of homeostasis.
+
+Location
+By weight, the average adult human is approximately 60% water, and the average child is approximately 65% water. There can be considerable variation in body water percentage based on a number of factors like age, health, water intake, weight, and sex. In a large study of adults of all ages and both sexes, the adult human body averaged ~65% water. However, this varied substantially by age, sex, and adiposity (amount of fat in body composition). The figure for water fraction by weight in this sample was found to be 58 ±8% water for males and 48 ±6% for females. The body water constitutes as much as 75% of the body weight of a newborn infant, whereas some obese people are as little as 45% water by weight. This is due to how fat tissue does not retain water as well as lean tissue. These statistical averages will vary with factors such as type of population, age of people sampled, number of people sampled, and methodology. So there is not, and cannot be, a figure that is exactly the same for all people, for this or any other physiological measure.
+Most animal body water is contained in various body fluids. These include intracellular fluid; extracellular fluid; plasma; interstitial fluid; and transcellular fluid.  Water is also contained inside organs, in gastrointestinal, cerebrospinal, peritoneal, and ocular fluids.  Adipose tissue contains about 10% of water, while muscle tissue contains about 75%.
+In Netter's Atlas of Human Physiology (2002), body water is broken down into the following compartments:
+
+Intracellular fluid (2/3 of body water) is fluid contained within cells. In a 72 kg (159 lb) body containing 40 litres of fluid, about 25 litres is intracellular, which amounts to 62.5%. Jackson's texts states 70% of body fluid is intracellular.
+Extracellular fluid (1/3 of body water) is fluid contained in areas outside of cells. For a 40-litre body, about 15 litres is extracellular, which amounts to 37.5%.
+Plasma (1/5 of extracellular fluid). Of this 15 litres of extracellular fluid, plasma volume averages 3 litres, or 20%.
+Interstitial fluid (4/5 of extracellular fluid)
+Transcellular fluid (a.k.a. "third space," normally ignored in calculations) contained inside organs, such as the gastrointestinal, cerebrospinal, peritoneal, and ocular fluids.
+
+Measurement
+Dilution and equilibration
+An individual’s total body water can be determined using flowing-afterglow mass spectrometry (FA-MS) to measure the abundance of deuterium in breath samples.  A known dose of deuterated water (heavy water, D2O) is ingested and allowed to equilibrate within the body water. Then, the FA-MS instrument measures the ratio D:H of deuterium to hydrogen in the water vapour in exhaled breath.  The total body water is then accurately measured from the increase in breath deuterium content in relation to the volume of D2O ingested.
+The water in individual compartments can be measured with different substances:
+
+total body water: tritiated water or heavy water.
+extracellular fluid: inulin
+blood plasma: Evans blue
+Intracellular fluid may then be estimated by subtracting extracellular fluid from total body water.
+
+Bioelectrical impedance analysis
+Another method of determining total body water percentage (TBW%) is via bioelectrical impedance analysis (BIA). In the traditional BIA method, a person lies on a cot and spot electrodes are placed on the hands and bare feet. Electrolyte gel is applied first, and then a weak current of frequency 50kHz is introduced. This AC waveform allows the creation of a current inside the body via the very capacitive skin without causing a DC flow or burns, and limited in the ~20mA range current for safety.
+BIA has emerged as a promising technique because of its simplicity, low cost, high reproducibility, and noninvasiveness. BIA prediction equations can be either generalized or population-specific, allowing this method to be potentially very accurate. Selecting the appropriate equation is important to determining the quality of the results.
+For clinical purposes, scientists are developing a multi-frequency BIA method that may further improve the method's ability to predict a person's hydration level. New segmental BIA equipment that uses more electrodes may lead to more precise measurements of specific parts of the body.
+
+Calculation
+In humans, total body water can be estimated based on the premorbid (or ideal) body weight and correction factor.
+
+  
+    
+      
+        T
+        B
+        W
+        =
+        w
+        e
+        i
+        g
+        h
+        t
+        ∗
+        C
+      
+    
+    {\displaystyle TBW=weight*C}
+  
+
+C is a coefficient for the expected percentage of weight made up of free water. For adult, non-elderly males, C = 0.6. For adult elderly males, malnourished males, or females, C = 0.5. For adult elderly or malnourished females, C = 0.45. A total body water deficit (TBWD) can then be approximated by the following formula:
+
+  
+    
+      
+        T
+        B
+        W
+        D
+        =
+        T
+        B
+        W
+        ∗
+        (
+        1
+        −
+        
+          
+            
+              [
+              N
+              a
+              ]
+              t
+            
+            
+              [
+              N
+              a
+              ]
+              m
+            
+          
+        
+        )
+      
+    
+    {\displaystyle TBWD=TBW*(1-{\frac {[Na]t}{[Na]m}})}
+  
+
+Where [Na]t = target sodium concentration (usually 140 mEq/L), and [Na]m = measured sodium concentration.
+The resultant value is the approximate volume of free water required to correct a hypernatremic state. In practice, the value rarely approximates the actual amount of free water required to correct a deficit due to insensible losses, urinary output, and differences in water distribution among patients. 
+Total water may also be estimated by use of anthropometric equations:
+
+  
+    
+      
+        T
+        B
+        
+          W
+          
+            male
+          
+        
+        
+           (L)
+        
+        =
+        2.447
+        −
+        0.09516
+        ×
+        
+          age (years)
+        
+        +
+        0.1074
+        ×
+        
+          height (cm)
+        
+        +
+        0.3362
+        ×
+        
+          weight (kg)
+        
+      
+    
+    {\displaystyle TBW_{\text{male}}{\text{ (L)}}=2.447-0.09516\times {\text{age (years)}}+0.1074\times {\text{height (cm)}}+0.3362\times {\text{weight (kg)}}}
+  
+
+  
+    
+      
+        T
+        B
+        
+          W
+          
+            female
+          
+        
+        
+           (L)
+        
+        =
+        −
+        2.097
+        +
+        0.1069
+        ×
+        
+          height (cm)
+        
+        +
+        0.2466
+        ×
+        
+          weight (kg)
+        
+      
+    
+    {\displaystyle TBW_{\text{female}}{\text{ (L)}}=-2.097+0.1069\times {\text{height (cm)}}+0.2466\times {\text{weight (kg)}}}
+  
+
+The equations above (the Watson equations) have been found to give reasonable estimates in most cases, as a diverse set of subject data was used. Other equations have been given for specific populations, such as Americans, Tunisians, and Cameroonians. Anthropometric TBW equations do not generalize well beyond healthy adult subjects outside their measured population, and it has been recommended to use a more accurate method such as BIA for most clinical settings.
+
+Functions
+Water in the animal body performs a number of functions: as a solvent for transportation of nutrients; as a medium for excretion; a means for heat control; as a lubricant for joints; and for shock absorption.
+
+Changes
+The usual way of adding water to a body is by drinking.  Water also enters the body with foods, especially those rich in water, such as plants, raw meat, and fish. About 10% of human adult water intake comes as a by-product of metabolism.
+The amount of this water that is retained in animals is affected by several factors. Water amounts vary with the age of the animal. The older the vertebrate animal, the higher its relative bone mass and the lower its body water content.
+In diseased states, where body water is affected, the fluid compartment or compartments that have changed can give clues to the nature of the problem, or problems. Body water is regulated by hormones, including antidiuretic hormone, aldosterone and atrial natriuretic peptide.
+
+Loss of water
+Volume contraction is a decrease in body fluid volume, with or without a concomitant loss of osmolytes. The loss of the body water component of body fluid is specifically termed dehydration.
+Sodium loss approximately correlates with fluid loss from extracellular fluid, since sodium has a much higher concentration in extracellular fluid (ECF) than intracellular fluid (ICF). In contrast, K+ has a much higher concentration in ICF than ECF, and therefore its loss rather correlates with fluid loss from ICF, since K+ loss from ECF causes the K+ in ICF to diffuse out of the cells, dragging water with it by osmosis.
+
+References
+Further reading
+Fluid, Electrolyte, and Acid-Base Disorders in Small Animal Practice
+Essentials of Animal Physiology
+The Encyclopedia of Farm Animal Nutrition
+Animal Osmoregulation
+Animal Nutrition Science
+
+External links
+
+Body+water at the U.S. National Library of Medicine Medical Subject Headings (MeSH)
+Body+fluid+compartments at the U.S. National Library of Medicine Medical Subject Headings (MeSH)

@@ -1,0 +1,177 @@
+An otoacoustic emission (OAE) is a sound that is generated from within the inner ear. Having been predicted by Austrian astrophysicist Thomas Gold in 1948, its existence was first demonstrated experimentally by British physicist David Kemp in 1978, and otoacoustic emissions have since been shown to arise through a number of different cellular and mechanical causes within the inner ear. Studies have shown that OAEs disappear after the inner ear has been damaged, so OAEs are often used in the laboratory and the clinic as a measure of inner ear health.
+Broadly speaking, there are two types of otoacoustic emissions: spontaneous otoacoustic emissions (SOAEs), which occur without external stimulation, and evoked otoacoustic emissions (EOAEs), which require an evoking stimulus.
+
+Mechanism of occurrence
+OAEs are considered to be related to the amplification function of the cochlea. In the absence of external stimulation, the activity of the cochlear amplifier increases, leading to the production of sound. Several lines of evidence suggest that, in mammals, outer hair cells are the elements that enhance cochlear sensitivity and frequency selectivity and hence act as the energy sources for amplification.
+
+Types
+Spontaneous
+Spontaneous otoacoustic emissions (SOAEs) are sounds that are emitted from the ear without external stimulation and are measurable with sensitive microphones in the external ear canal. At least one SOAE can be detected in approximately 35–50% of the population. The sounds are frequency-stable between 500 Hz and 4,500 Hz and have unstable volumes between -30 dB SPL and +10 dB SPL. The majority of those with SOAEs are unaware of them, however 1–9% perceive a SOAE as an annoying tinnitus. It has been suggested that "The Hum" phenomena are SOAEs.
+
+Evoked
+Evoked otoacoustic emissions are currently evoked using three different methodologies.
+
+Stimulus-frequency OAEs (SFOAEs) are measured during the application of a pure-tone stimulus and are detected by the vectorial difference between the stimulus waveform and the recorded waveform (which consists of the sum of the stimulus and the OAE).
+Transient-evoked OAEs (TEOAEs or TrOAEs) are evoked using a click (broad frequency range) or toneburst (brief duration pure tone) stimulus. The evoked response from a click covers the frequency range up to around 4 kHz, while a toneburst will elicit a response from the region that has the same frequency as the pure tone.
+Distortion-product OAEs (DPOAEs) are evoked using a pair of primary tones 
+  
+    
+      
+        
+          f
+          
+            1
+          
+        
+      
+    
+    {\displaystyle f_{1}}
+  
+ and 
+  
+    
+      
+        
+          f
+          
+            2
+          
+        
+      
+    
+    {\displaystyle f_{2}}
+  
+ with particular intensity (usually either 65–55 dB SPL or 65 for both) and ratio (
+  
+    
+      
+        
+          f
+          
+            1
+          
+        
+        
+          
+             
+          
+        
+        :
+        
+          
+             
+          
+        
+        
+          f
+          
+            2
+          
+        
+      
+    
+    {\displaystyle f_{1}{\mbox{ }}:{\mbox{ }}f_{2}}
+  
+).
+The evoked responses from these stimuli occur at frequencies (
+  
+    
+      
+        
+          f
+          
+            d
+            p
+          
+        
+      
+    
+    {\displaystyle f_{dp}}
+  
+) mathematically related to the primary frequencies, with the two most prominent being 
+  
+    
+      
+        
+          f
+          
+            d
+            p
+          
+        
+        =
+        2
+        
+          f
+          
+            1
+          
+        
+        −
+        
+          f
+          
+            2
+          
+        
+      
+    
+    {\displaystyle f_{dp}=2f_{1}-f_{2}}
+  
+ (the "cubic" distortion tone, most commonly used for hearing screening), because they produce the most robust emission, and 
+  
+    
+      
+        
+          f
+          
+            d
+            p
+          
+        
+        =
+        
+          f
+          
+            2
+          
+        
+        −
+        
+          f
+          
+            1
+          
+        
+      
+    
+    {\displaystyle f_{dp}=f_{2}-f_{1}}
+  
+ (the "quadratic" distortion tone, or simple difference tone).
+
+Clinical importance
+Otoacoustic emissions are clinically important because they are the basis of a simple, non-invasive test for cochlear hearing loss in newborn babies and in children or adults who are unable or unwilling to cooperate during conventional hearing tests. In addition, the OAEs are highly reliable making it suitable for diagnostic and screening applications. Many western countries now have national programmes for the universal hearing screening of newborn babies. Newborn hearing screening is state-mandated prior to hospital discharge in the United States. Periodic early childhood hearing screenings programs are also utilizing OAE technology. The Early Childhood Hearing Outreach Initiative at the National Center for Hearing Assessment and Management (NCHAM) at Utah State University has helped hundreds of Early Head Start programs across the United States implement OAE screening and follow-up practices in those early childhood educational settings. The primary screening tool is a test for the presence of a click-evoked OAE. Otoacoustic emissions also assist in differential diagnosis of cochlear and higher level hearing losses (e.g., auditory neuropathy).
+The relationships between otoacoustic emissions and tinnitus have been explored. Several studies suggest that in about 6% to 12% of normal-hearing persons with tinnitus and SOAEs, the SOAEs are at least partly responsible for the tinnitus. Studies have found that some subjects with tinnitus display oscillating or ringing EOAEs, and in these cases, it is hypothesized that the oscillating EOAEs and tinnitus are related to a common underlying pathology rather than the emissions being the source of the tinnitus.
+In conjunction with audiometric testing, OAE testing can be completed to determine changes in the responses. Studies have found that exposure to noise can cause a decline in OAE responses. OAEs are a measurement of the activity of outer hair cells in the cochlea, and noise-induced hearing loss occurs as a result of damage to the outer hair cells in the cochlea. Therefore, the damage or loss of some outer hair cells will likely show up on OAEs before showing up on the audiogram. Studies have shown that for some individuals with normal hearing that have been exposed to excessive sound levels, fewer, reduced, or no OAEs can be present. This could be an indication of noise-induced hearing loss before it is seen on an audiogram.
+In one study, a group of subjects with noise exposure was compared to a group of subjects with normal audiograms and a history of noise exposure, as well as a group of military recruits with no history of noise exposure and a normal audiogram. They found that an increase in severity of the noise-induced hearing loss resulted in OAEs with a smaller range of emissions and reduced amplitude of the emissions. The loss of emissions due to noise exposure was found to occur mostly in higher frequencies, and it was more prominent in the groups that had noise exposure in comparison to the non-exposed group. It was found that OAEs were more sensitive to identifying noise-induced cochlear damage than pure tone audiometry. In conclusion, the study identified OAEs as a method for helping with detection of the early onset of noise-induced hearing loss.
+It has been found that distortion-product otoacoustic emissions (DPOAE's) have provided the most information for detecting hearing loss in high frequencies when compared to transient-evoked otoacoustic emissions (TEOAE). This is an indication that DPOAE's can help with detecting an early onset of noise-induced hearing loss. A study measuring audiometric thresholds and DPOAEs among individuals in the military showed that there was a decrease in DPOAEs after noise exposure, but did not show a shift in audiometric threshold. This supports OAEs as predicting early signs of noise damage.
+
+Biometric importance
+In 2009, Stephen Beeby of the University of Southampton led research into utilizing otoacoustic emissions for biometric identification. Devices equipped with a microphone could detect these subsonic emissions and potentially identify an individual, thereby providing access to the device, without the need of a traditional password. It is speculated, however, that colds, medication, trimming one's ear hair, or recording and playing back a signal to the microphone could subvert the identification process.
+
+Measuring otoacoustic emissions on earphones
+High-end personalized headphone products (e.g., Nuraphone) are being designed to measure OAEs and determine the listener’s sensitivity to different acoustic frequencies. This is then used to  personalize the audio signal for each listener.
+In 2022, researchers at the University of Washington built a low-cost prototype that can reliably detect otoacoustic emissions using commodity earphones and microphones attached to a smartphone. The low-cost prototype sends two frequency tones through each of the headphone’s earbuds, detects the distortion-product OAEs generated by the cochlea and recorded via the microphone. Such low-cost technologies may help larger efforts to achieve universal neonatal hearing screening across the world.
+
+See also
+Auditory brainstem response
+Entoptic phenomenon
+Maryanne Amacher, a composer who used this phenomenon in her music
+Pure tone audiometry
+The Hum
+
+References
+Further reading
+M.S. Robinette and T.J. Glattke (eds., 2007). Otoacoustic Emissions: Clinical Applications, third edition (Thieme).
+G.A. Manley, R.R. Fay, and A.N. Popper (eds., 2008). Active Processes and Otoacoustic Emissions (Springer Handbook of Auditory Research, vol. 30).
+S. Dhar and J.W. Hall, III (2011). Otoacoustic Emissions: Principles, Procedures, and Protocols (Plural Publishing).

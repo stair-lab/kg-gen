@@ -1,0 +1,118 @@
+Dmitri Ivanovich Mendeleev ( MEN-dəl-AY-əf; 8 February [O.S. 27 January] 1834 – 2 February [O.S. 20 January] 1907) was a Russian chemist known for formulating the periodic law and creating a version of the periodic table of elements. He used the periodic law not only to correct the then-accepted properties of some known elements, such as the valence and atomic weight of uranium, but also to predict the properties of three elements that were yet to be discovered (germanium, gallium and scandium).
+
+Early life
+Mendeleev was born in the village of Verkhnie Aremzyani, near Tobolsk in Siberia, to Ivan Pavlovich Mendeleev (1783–1847) and Maria Dmitrievna Mendeleeva (née Kornilieva) (1793–1850). Ivan worked as a school principal and a teacher of fine arts, politics and philosophy at the Tambov and Saratov gymnasiums. Ivan's father, Pavel Maximovich Sokolov, was a Russian Orthodox priest from the Tver region. As per the tradition of priests of that time, Pavel's children were given new family names while attending the theological seminary, with Ivan getting the family name Mendeleev after the name of a local landlord.
+Maria Kornilieva came from a well-known family of Tobolsk merchants, founders of the first Siberian printing house who traced their ancestry to Yakov Korniliev, a 17th-century posad man turned a wealthy merchant. In 1889, a local librarian published an article in the Tobolsk newspaper where he claimed that Yakov was a baptized Teleut, an ethnic minority known as "white Kalmyks" at the time. Since no sources were provided and no documented facts of Yakov's life were ever revealed, biographers generally dismiss it as a myth. In 1908, shortly after Mendeleev's death, one of his nieces published Family Chronicles. Memories about D. I. Mendeleev where she voiced "a family legend" about Maria's grandfather who married "a Kyrgyz or Tatar beauty whom he loved so much that when she died, he also died from grief". This, however, contradicts the documented family chronicles, and neither of those legends is supported by Mendeleev's autobiography, his daughter's or his wife's memoirs. Yet some Western scholars still refer to Mendeleev's supposed "Mongol", "Tatar", "Tartarian" or simply "Asian" ancestry as a fact.
+Mendeleev was raised as an Orthodox Christian, his mother encouraging him to "patiently search divine and scientific truth". His son Ivan would later inform that Mendeleev had departed from the Church and embraced a form of "romanticized deism".
+Mendeleev was the youngest of 17 siblings, of whom "only 14 stayed alive to be baptized" according to Mendeleev's brother Pavel, meaning the others died soon after their birth. The exact number of Mendeleev's siblings differs among sources and is still a matter of some historical dispute. Unfortunately for the family's financial well-being, his father became blind and lost his teaching position. His mother was forced to work and she restarted her family's abandoned glass factory. At the age of 13, after the passing of his father and the destruction of his mother's factory by fire, Mendeleev attended the Gymnasium in Tobolsk.
+In 1849, his mother took Mendeleev across Russia from Siberia to Moscow with the aim of getting Mendeleev enrolled at the Moscow University. The university in Moscow did not accept him. The mother and son continued to Saint Petersburg to the father's alma mater. The now poor Mendeleev family relocated to Saint Petersburg, where he entered the Main Pedagogical Institute in 1850. After graduation, he contracted tuberculosis, causing him to move to the Crimean Peninsula on the northern coast of the Black Sea in 1855. While there, he became a science master of the 1st Simferopol Gymnasium. In 1857, he returned to Saint Petersburg with fully restored health.
+Between 1859 and 1861, he worked on the capillarity of liquids and the workings of the spectroscope in Heidelberg. Later in 1861, he published a textbook named Organic Chemistry. This won him the Demidov Prize of the Petersburg Academy of Sciences.
+On 4 April 1862, he became engaged to Feozva Nikitichna Leshcheva, and they married on 27 April 1862 at Nikolaev Engineering Institute's church in Saint Petersburg (where he taught).
+Mendeleev became a professor at the Saint Petersburg Technological Institute and Saint Petersburg State University in 1864, and 1865, respectively. In 1865, he became a Doctor of Science for his dissertation "On the Combinations of Water with Alcohol". He achieved tenure in 1867 at St. Petersburg University and started to teach inorganic chemistry while succeeding Voskresenskii to this post; by 1871, he had transformed Saint Petersburg into an internationally recognized center for chemistry research.
+
+Periodic table
+In 1863, there were 56 known elements, with a new element being discovered at a rate of approximately one per year. Other scientists had previously identified periodicity of elements. John Newlands described a Law of Octaves, noting their periodicity according to relative atomic weight in 1864, publishing it in 1865. His proposal identified the potential for new elements such as germanium. The concept was criticized, and his innovation was not recognized by the Society of Chemists until 1887. Another person to propose a periodic table was Lothar Meyer, who published a paper in 1864 describing 28 elements classified by their valence, but with no predictions of new elements.
+After becoming a teacher in 1867, Mendeleev wrote Principles of Chemistry (Russian: Основы химии, romanized: Osnovy khimii), which became the definitive textbook of its time. It was published in two volumes between 1868 and 1870, and Mendeleev wrote it as he was preparing a textbook for his course. This is when he made his most important discovery. As he attempted to classify the elements according to their chemical properties, he noticed patterns that led him to postulate his periodic table; he claimed to have envisioned the complete arrangement of the elements in a dream:
+
+I saw in a dream a table where all elements fell into place as required. Awakening, I immediately wrote it down on a piece of paper, only in one place did a correction later seem necessary.
+Unaware of the earlier work on periodic tables going on in the 1860s, he made the following table:
+
+By adding additional elements following this pattern, Mendeleev developed his extended version of the periodic table. On 6 March 1869, he made a formal presentation to the Russian Chemical Society, titled The Dependence between the Properties of the Atomic Weights of the Elements, which described elements according to both atomic weight (now called relative atomic mass) and valence. This presentation stated that
+
+The elements, if arranged according to their atomic weight, exhibit an apparent periodicity of properties.
+Elements which are similar regarding their chemical properties either have similar atomic weights (e.g., Pt, Ir, Os) or have their atomic weights increasing regularly (e.g., K, Rb, Cs).
+The arrangement of the elements in groups of elements in the order of their atomic weights corresponds to their so-called valencies, as well as, to some extent, to their distinctive chemical properties; as is apparent among other series in that of Li, Be, B, C, N, O, and F.
+The elements which are the most widely diffused have small atomic weights.
+The magnitude of the atomic weight determines the character of the element, just as the magnitude of the molecule determines the character of a compound body.
+We must expect the discovery of many yet unknown elements – for example, two elements, analogous to aluminium and silicon, whose atomic weights would be between 65 and 75.
+The atomic weight of an element may sometimes be amended by a knowledge of those of its contiguous elements. Thus the atomic weight of tellurium must lie between 123 and 126, and cannot be 128. (Tellurium's atomic weight is 127.6, and Mendeleev was incorrect in his assumption that atomic weight must increase with position within a period.)
+Certain characteristic properties of elements can be foretold from their atomic weights.
+Mendeleev published his periodic table of all known elements and predicted several new elements to complete the table in a Russian-language journal. Only a few months after, Meyer published a virtually identical table in a German-language journal. Mendeleev has the distinction of accurately predicting the properties of what he called ekasilicon, ekaaluminium and ekaboron (germanium, gallium and scandium, respectively).
+Mendeleev also proposed changes in the properties of some known elements. Prior to his work, uranium was supposed to have valence 3 and atomic weight about 120. Mendeleev realized that these values did not fit in his periodic table, and doubled both to valence 6 and atomic weight 240 (close to the modern value of 238).
+For his predicted three elements, he used the prefixes of eka, dvi, and tri (Sanskrit one, two, three) in their naming. Mendeleev questioned some of the currently accepted atomic weights (they could be measured only with a relatively low accuracy at that time), pointing out that they did not correspond to those suggested by his Periodic Law. He noted that tellurium has a higher atomic weight than iodine, but he placed them in the right order, incorrectly predicting that the accepted atomic weights at the time were at fault. He was puzzled about where to put the known lanthanides, and predicted the existence of another row to the table which were the actinides which were some of the heaviest in atomic weight. Some people dismissed Mendeleev for predicting that there would be more elements, but he was proven to be correct when Ga (gallium) and Ge (germanium) were found in 1875 and 1886 respectively, fitting perfectly into the two missing spaces.
+By using Sanskrit prefixes to name "missing" elements, Mendeleev may have recorded his debt to the Sanskrit grammarians of ancient India, who had created theories of language based on their discovery of the two-dimensional patterns of speech sounds (exemplified by the Śivasūtras in Pāṇini's Sanskrit grammar). Mendeleev was a friend and colleague of the Sanskritist Otto von Böhtlingk, who was preparing the second edition of his book on Pāṇini at about this time, and Mendeleev wished to honor Pāṇini with his nomenclature.
+The original draft made by Mendeleev would be found years later and published under the name Tentative System of Elements.
+Dmitri Mendeleev is often referred to as the Father of the Periodic Table. He called his table or matrix, "the Periodic System".
+
+Later life
+In 1876, he became obsessed with Anna Ivanovna Popova and began courting her; in 1881 he proposed to her and threatened suicide if she refused. His divorce from Leshcheva was finalized one month after he had married Popova (on 2 April) in early 1882. Even after the divorce, Mendeleev was technically a bigamist; the Russian Orthodox Church required at least seven years before lawful remarriage. His divorce and the surrounding controversy contributed to his failure to be admitted to the Russian Academy of Sciences (despite his international fame by that time). His daughter from his second marriage, Lyubov, became the wife of the famous Russian poet Alexander Blok. His other children were son Vladimir (a sailor, he took part in the notable Eastern journey of Nicholas II) and daughter Olga, from his first marriage to Feozva, and son Ivan and twins from Anna.
+Though Mendeleev was widely honored by scientific organizations all over Europe, including (in 1882) the Davy Medal from the Royal Society of London (which later also awarded him the Copley Medal in 1905), he resigned from Saint Petersburg University on 17 August 1890. He was elected a Foreign Member of the Royal Society (ForMemRS) in 1892, and in 1893 he was appointed director of the Bureau of Weights and Measures, a post which he occupied until his death.
+Mendeleev also investigated the composition of petroleum, and helped to found the first oil refinery in Russia. He recognized the importance of petroleum as a feedstock for petrochemicals. He is credited with a remark that burning petroleum as a fuel "would be akin to firing up a kitchen stove with bank notes".
+
+Mendeleev was nominated for Nobel Prize in Chemistry for the last three years of his life, 1905, 1906 and 1907 in 9 nominations.
+In 1905, Mendeleev was elected a member of the Royal Swedish Academy of Sciences and received three nominations. The following year he received four nominations and the Nobel Committee for Chemistry recommended to the Swedish Academy to award the Nobel Prize in Chemistry for 1906 to Mendeleev for his discovery of the periodic system. He was also elected an International Member of the American Philosophical Society. The Chemistry Section of the Swedish Academy supported this recommendation. The academy was then supposed to approve the committee's choice, as it has done in almost every case. Unexpectedly, at the full meeting of the academy, a dissenting member of the Nobel Committee, Peter Klason, proposed the candidacy of Henri Moissan whom he favored. Svante Arrhenius, although not a member of the Nobel Committee for Chemistry, had a great deal of influence in the academy and also pressed for the rejection of Mendeleev, arguing that the periodic system was too old to acknowledge its discovery in 1906. According to the contemporaries, Arrhenius was motivated by the grudge he held against Mendeleev for his critique of Arrhenius's dissociation theory. After heated arguments, the majority of the academy chose Moissan by a margin of one vote. The two nominations of Mendeleev in 1907 were again frustrated by the absolute opposition of Arrhenius.
+In 1907, Mendeleev died at the age of 72 in Saint Petersburg from influenza, just 6 days short of his 73rd birthday. His last words were to his physician: "Doctor, you have science, I have faith," which is possibly a Jules Verne quote.
+
+Other achievements
+Mendeleev made other important contributions to science. The Russian chemist and science historian Lev Chugaev characterized him as
+"a chemist of genius, first-class physicist, a fruitful researcher in the fields of hydrodynamics, meteorology, geology, certain branches of chemical technology (explosives, petroleum, and fuels, for example) and other disciplines adjacent to chemistry and physics, a thorough expert of chemical industry and industry in general, and an original thinker in the field of economy [...]"
+
+Mendeleev was one of the founders, in 1868, of the Russian Chemical Society. He worked on the theory and practice of protectionist trade and on agriculture.
+In an attempt at a chemical conception of the aether, he put forward a hypothesis that there existed two inert chemical elements of lesser atomic weight than hydrogen. Of these two proposed elements, he thought the lighter to be an all-penetrating, all-pervasive gas, and the slightly heavier one to be a proposed element, coronium.
+Mendeleev devoted much study and made important contributions to the determination of the nature of such indefinite compounds as solutions.
+
+In another department of physical chemistry, he investigated the expansion of liquids with heat, and devised a formula similar to Gay-Lussac's law of the uniformity of the expansion of gases, while in 1861 he anticipated Thomas Andrews' conception of the critical temperature of gases by defining the absolute boiling-point of a substance as the temperature at which cohesion and heat of vaporization become equal to zero and the liquid changes to vapor, irrespective of the pressure and volume.
+Mendeleev is given credit for the introduction of the metric system to the Russian Empire.
+He invented pyrocollodion, a kind of smokeless powder based on nitrocellulose. This work had been commissioned by the Russian Navy, which however did not adopt its use. In 1892 Mendeleev organized its manufacture.
+Mendeleev studied the origins of petroleum; he concluded that hydrocarbons are abiogenic and form deep within the earth – see Abiogenic petroleum origin.
+He wrote: "The capital fact to note is that petroleum was born in the depths of the earth, and it is only there that we must seek its origin."
+
+Activities beyond chemistry
+Beginning in the 1870s, he published widely beyond chemistry, looking at aspects of Russian industry, and technical issues in agricultural productivity. He explored demographic issues, sponsored studies of the Arctic Sea, tried to measure the efficacy of chemical fertilizers, and promoted the merchant navy. He was especially active in improving the Russian petroleum industry, making detailed comparisons with the more advanced industry in Pennsylvania. Although not well-grounded in economics, he had observed industry throughout his European travels, and in 1891 he helped convince the Ministry of Finance to impose temporary tariffs with the aim of fostering Russian infant industries.
+In 1890 he resigned his professorship at St. Petersburg University following a dispute with officials at the Ministry of Education over the treatment of university students. In 1892 he was appointed director of Russia's Central Bureau of Weights and Measures, and led the way to standardize fundamental prototypes and measurement procedures. He set up an inspection system, and introduced the metric system to Russia.
+He debated against the scientific claims of spiritualism, arguing that metaphysical idealism was no more than ignorant superstition. He bemoaned the widespread acceptance of spiritualism in Russian culture, and its negative effects on the study of science.
+
+Vodka myth
+A very popular Russian story credits Mendeleev with setting the 40% standard strength of vodka. For example, Russian Standard vodka advertises: "In 1894, Dmitri Mendeleev, the greatest scientist in all Russia, received the decree to set the Imperial quality standard for Russian vodka and the 'Russian Standard' was born" Others cite "the highest quality of Russian vodka approved by the royal government commission headed by Mendeleev in 1894".
+In fact, the 40% standard was already introduced by the Russian government in 1843, when Mendeleev was nine years old. It is true that Mendeleev in 1892 became head of the Archive of Weights and Measures in Saint Petersburg, and evolved it into a government bureau the following year, but that institution was charged with standardising Russian trade weights and measuring instruments, not setting any production quality standards. Also, Mendeleev's 1865 doctoral dissertation was entitled "A Discourse on the combination of alcohol and water", but it only discussed medical-strength alcohol concentrations over 70%, and he never wrote anything about vodka.
+
+Commemoration
+A number of places and objects are associated with the name and achievements of the scientist.
+In Saint Petersburg his name was given to D. I. Mendeleev Institute for Metrology, the National Metrology Institute, dealing with establishing and supporting national and worldwide standards for precise measurements. Next to it there is a monument to him that consists of his sitting statue and a depiction of his periodic table on the wall of the establishment.
+In the Twelve Collegia building, now being the centre of Saint Petersburg State University and in Mendeleev's time – Head Pedagogical Institute – there is Dmitry Mendeleev's Memorial Museum Apartment with his archives. The street in front of these is named after him as Mendeleevskaya liniya (Mendeleev Line).
+In Moscow, there is the D. Mendeleyev University of Chemical Technology of Russia.
+Mendelevium, which is a synthetic chemical element with the symbol Md (formerly Mv) and the atomic number 101, was named after Mendeleev. It is a metallic radioactive transuranic element in the actinide series, usually synthesized by bombarding einsteinium with alpha particles.
+The mineral mendeleevite-Ce, Cs6(Ce22Ca6)(Si70O175)(OH,F)14(H2O)21, was named in Mendeleev's honor in 2010. The related species mendeleevite-Nd, Cs6[(Nd,REE)23Ca7](Si70O175)(OH,F)19(H2O)16, was described in 2015.
+A large lunar impact crater Mendeleev, that is located on the far side of the Moon, also bears the name of the scientist.
+The Russian Academy of Sciences has occasionally awarded a Mendeleev Golden Medal since 1965.
+On 8 February 2016, Google celebrated Dmitri Mendeleev's 182nd Birthday with a doodle.
+
+Works
+Менделеев Д. И. Периодический закон (DjVu). Т. 1. // Собрание сочинений в 3 томах — М.: Издательство Академии наук СССР — via Runivers
+Менделеев Д. И. Растворы (DjVu). Т. 2. (DjVu)]. Т. 2. // Собрание сочинений в 3 томах — М.: Издательство Академии наук СССР — via Runivers
+Менделеев Д. И. Периодический закон. Дополнительные материалы (DjVu). Т. 3. // Собрание сочинений в 3 томах — М.: Издательство Академии наук СССР — via Runivers
+Менделеев Д. И. Ещё о расширении жидкостей (Ответ профессору Авенариусу). — СПб.: Тип. В. Демакова, 1884. — 18 с.
+Менделеев Д. И. Об опытах над упругостью газов. Сообщение Д. И. Менделеева в Императорском Русском техническом обществе — 21 янв. 1881 г. — СПб., 1881. — 22 с.
+Менделеев, Д. (1994) [1906]. Савинкин, А.Е. (ed.). К познанию России (PDF). Российский военный сборник (in Russian). Vol. 7. Москва: ГА ВС. pp. 174–231.
+Менделеев Д. И. Дополнения к познанию России. Посмертное издание. СПб.: А. С. Суворин, 1907. — 109 с. + I л. портрет.
+Менделеев Д. И. Изоморфизм в связи с другими отношениями кристаллической формы к составу. Диссертация, представленная при окончании курса в Главном педагогическом институте студентом Д. Менделеевым. — СПб., 1856. — 234 с.
+Менделеев Д. И. О сопротивлении жидкостей и о воздухоплавании: Вып. 1. — СПб.: Тип. В. Демакова, 1880. — 80 с.: табл.
+Менделеев Д. И. Заветные мысли (1905)
+Менделеев Д. И. Попытка химического понимания мирового эфира (1902)
+54 articles for the Brockhaus and Efron Encyclopedic Dictionary
+
+See also
+List of Russian chemists
+Mendeleev's predicted elements
+Periodic systems of small molecules
+
+Notes
+References
+Citations
+Works cited
+Gordin, Michael D. (2019). A Well-Ordered Thing: Dmitrii Mendeleev and the Shadow of the Periodic Table (Revised ed.). Princeton: Princeton University Press. p. 384. ISBN 9780691172385.
+Heilbron, John L. (2003). The Oxford Companion to the History of Modern Science. Oxford University Press. ISBN 978-0-19-974376-6.
+
+Further reading
+Mendeleev, Dmitry Ivanovich; Jensen, William B. (2005). Mendeleev on the Periodic Law: Selected Writings, 1869–1905. Mineola, New York: Dover Publications. ISBN 978-0486445717.
+Strathern, Paul (2001). Mendeleyev's Dream: The Quest For the Elements. New York: St Martins Press. ISBN 978-0241140659.
+Mendeleev, Dmitrii Ivanovich (1901). Principles of Chemistry. New York: Collier.
+
+External links
+
+Works by Dmitri Mendeleev at Project Gutenberg
+Babaev, Eugene V. (February 2009). Dmitriy Mendeleev: A Short CV, and A Story of Life Archived 25 August 2017 at the Wayback Machine – 2009 biography on the occasion of Mendeleev's 175th anniversary
+Babaev, Eugene V., Moscow State University. Dmitriy Mendeleev Online
+Original Periodic Table, annotated.
+"Everything in its Place", essay by Oliver Sacks
+Dmitri Mendeleev's official site

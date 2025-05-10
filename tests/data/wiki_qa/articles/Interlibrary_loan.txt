@@ -1,0 +1,55 @@
+Inter-library loan (abbreviated ILL, sometimes called document delivery, document supply, inter-lending, inter-library services, inter-loan, or resource sharing) is a service that enables patrons of one library to borrow materials that are held by another library.
+
+Methods
+After receiving a request, the borrowing library identifies potential lending libraries with the desired item. The lending library delivers the item physically or electronically, and the borrowing library receives the item and delivers it to their patron, and if necessary, arranges for its return. Sometimes, fees accompany interlibrary loan services. 
+Libraries can define what materials from their holdings are eligible for interlibrary loan. Many journal or database licenses specify whether a library can or cannot supply journal articles via ILL, with libraries negotiating for ILL eligibility.
+The International Organization for Standardization (ISO) developed ISO standards 10160 and 10161 to standardize terminology and define a set of communication protocols between interlibrary loan systems.
+
+History
+Informal borrowing and lending between libraries has examples in Western Europe as early as the 8th century CE.
+In the 16th century, Nicolas-Claude Fabri de Peiresc unsuccessfully attempted to establish an interlibrary loan system between the Royal Library at the Louvre Palace in Paris and the Vatican Library in Rome.
+
+In 1876, Massachusetts librarian Samuel Swett Green published a proposal for an interlibrary loan system modeled on European examples, writing, "It would add greatly to the usefulness of our reference libraries if an agreement should be made to lend books to each other for short periods of time."In 1886, Joseph C. Rowell, librarian at the University of California, Berkeley, sought permission to begin an interlibrary loan program. In 1894, Rowell initiated U.C. Berkeley's first program of interlibrary lending with the California State Library. In 1917, the American Library Association established a national code for interlibrary loan in the United States.
+In China, formalized interlibrary loan policies were established as early as 1924 through the Shanghai Library Constitution.
+In 1927, an increase in international lending and borrowing between libraries  following the First World War led to the establishment of the International Federation of Library Associations and Institutions (IFLA). IFLA published the "International Resource Sharing and Document Delivery: Principles and Guidelines for Procedure" in 1954.
+In Great Britain, Kate Edith Pierce became the chair of the newly formed East Midlands Regional Library Bureau in 1935. Enabled by Carnegie Trust funding, the Bureau introduced formalized "Inter-Library Lending".
+The Ohio State University and others in Ohio began integrating campus library systems at an early date. In the 1960s, state funds supported development of the Ohio College Library Center, now the Online Computer Library Center (OCLC).
+In 1994, the Reference and User Services Association (RUSA) of the ALA (America Library Association) formed an ALA Interlibrary Loan Code for the United States.
+In 1997, following the 1997 Spring Creek flood, which significantly damaged its physical journal holdings, Colorado State University developed RapidILL as a resource sharing solution. The service has grown to include over 300 member libraries internationally, with most member libraries in the United States. In 2019, Ex Libris acquired RapidILL from CSU.
+
+Resource sharing networks
+Libraries have established voluntary associations for resource sharing, organized on a regional or national basis, or through other affiliations such as university systems with multiple campuses, communities of libraries with related holdings and research interests, or established library consortia.
+The International Federation of Library Associations and Institutions (IFLA) guides interlibrary loan policies internationally.
+
+North America
+In the US, the Online Computer Library Center (OCLC) is used by public and academic libraries. Formerly, Research Libraries Group (RLG) was used primarily by academic libraries, but it merged with OCLC in July, 2006. The Center for Research Libraries (CRL) is a major resource sharing network in North America with a buy-in membership system. Other large resource sharing networks include Libraries Very Interested in Sharing (LVIS) and Amigos.
+Medical libraries in the United States participate in the National Network of Libraries of Medicine to share resources. The National Library of Medicine developed the request routing system DOCLINE for this purpose.
+
+Africa
+The South African Bibliographic and Information Network (SABINET) was developed in 1983 for the purposes of collection development and resource sharing across libraries in South Africa.
+In Ghana, the Ghana Inter-Library Lending and Document Delivery Network (GILLDDNET) pioneered resource sharing in West Africa. The network was replaced in 2004 by the Consortium of Academic and Research Libraries (CARLIGH).
+
+Central and South America
+Consorcio Iberoamericano para la Educación en Ciencia y Tecnología (ISTEC) is a consortium and resource sharing network of 50 institutions across 17 countries in Latin America and the Iberian Peninsula, with a focus on science and technology materials. Many ISTEC member libraries use the software Celsius, which was developed as part of the consortium initiative.
+Consorcio de Bibliotecas Universitarias de El Salvador (CBUES) is a resource sharing consortium of institutions in El Salvador with comments that there are other CBUES affiliated institutions along the Atlantic coast, including libraries from Costa Rica, Nicaragua, Mexico and Panama; however only El Salvadorian institutions are listed on CBUES's website.
+
+Europe
+In France, the PEB ILL network services over 300 libraries using the SUPEB ILL software.
+In Germany, Gateway Bayern (GB) is the ILL network and tool for Bavarian libraries, including the Bavarian State Library.
+
+Asia
+National Library of New Zealand (Te Puna Mātauranga o Aotearoa)DELNET, the Developing Library Network (formerly the Delhi Library Network), is a resource sharing network supporting India and South Asia.
+The National Diet Library of Japan serves as a resource sharing hub for Japanese-language materials domestically and internationally.
+Launched in 1998, China Academic Library and Information System (CALIS) is a Beijing-based academic library consortium that facilitates interlibrary loan among research libraries in China.
+
+Oceania
+Australia uses TROVE
+New Zealand utilizes the National Library of New Zealand.
+
+References
+Further reading
+Boucher, Virginia (1997). Interlibrary Loan Practices Handbook, 2nd Edition. Chicago and London: American Library Association.
+Frederiksen, Linda; Cummings, Joel; Cummings, Lara; Carroll, Diane (2011). "Ebooks and Interlibrary Loan: Licensed to Fill?". Journal of Interlibrary Loan, Document Delivery & Electronic Reserve. 21 (3): 117–131. doi:10.1080/1072303X.2011.585102. hdl:2376/4898. S2CID 62548634.
+Journal of Library Administration; Volume 23, Numbers 1–2 (subscription required), 1996: A special issue devoted to ILL.
+Levine-Clark, Michael (2011). "Whither ILL? Wither ILL: The Changing Nature of Resource Sharing for E-Books". Collaborative Librarianship. 3 (2): 71–72. doi:10.29087/2011.3.2.01. ISSN 1943-7528.
+Newcombe, Luxmoore. Library Co-operation in the British Isles. Practical Library Handbooks series, no. 4. London: G. Allen & Unwin, 1937.

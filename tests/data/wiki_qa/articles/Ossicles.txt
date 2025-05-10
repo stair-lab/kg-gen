@@ -1,0 +1,37 @@
+The ossicles (also called auditory ossicles) are three irregular bones in the middle ear of humans and other mammals, and are among the smallest bones in the human body. Although the term "ossicle" literally means "tiny bone" (from Latin ossiculum) and may refer to any small bone throughout the body, it typically refers specifically to the malleus, incus and stapes ("hammer, anvil, and stirrup") of the middle ear.
+The auditory ossicles serve as a kinematic chain to transmit and amplify (intensify) sound vibrations collected from the air by the ear drum to the fluid-filled labyrinth (cochlea). The absence or pathology of the auditory ossicles would constitute a moderate-to-severe conductive hearing loss.
+
+Structure
+The ossicles are, in order from the eardrum to the inner ear (from superficial to deep): the malleus, incus, and stapes, terms that in Latin are translated as "the hammer, anvil, and stirrup".
+
+The malleus (English: "hammer") articulates with the incus through the incudomalleolar joint and is attached to the tympanic membrane (eardrum), from which vibrational sound pressure motion is passed.
+The incus (English: "anvil") is connected to both the other bones.
+The stapes (English: "stirrup") articulates with the incus through the incudostapedial joint and is attached to the membrane of the fenestra ovalis, the elliptical or oval window or opening between the middle ear and the vestibule of the inner ear. It is the smallest bone in the body.
+
+Development
+Studies have shown that ear bones in mammal embryos are attached to the dentary, which is part of the lower jaw. These are ossified portions of cartilage—called Meckel's cartilage—that are attached to the jaw. As the embryo develops, the cartilage hardens to form bone. Later in development, the bone structure breaks loose from the jaw and migrates to the inner ear area. The structure is known as the middle ear, and is made up of the stapes, incus, malleus, and tympanic membrane. These correspond to the columella, quadrate, articular, and angular structures in the amphibian, bird or reptile jaw.
+
+Evolution
+Function
+As sound waves vibrate the tympanic membrane (eardrum), it in turn moves the nearest ossicle, the malleus, to which it is attached. The malleus then transmits the vibrations, via the incus, to the stapes, and so ultimately to the membrane of the fenestra ovalis (oval window), the opening to the vestibule of the inner ear.
+Sound traveling through the air is mostly reflected when it comes into contact with a liquid medium; only about 1/30 of the sound energy moving through the air would be transferred into the liquid. This is observed from the abrupt cessation of sound that occurs when the head is submerged underwater. This is because the relative incompressibility of a liquid presents resistance to the force of the sound waves traveling through the air. The ossicles give the eardrum a mechanical advantage via lever action and a reduction in the area of force distribution; the resulting vibrations are stronger but don't move as far. This allows more efficient coupling than if the sound waves were transmitted directly from the outer ear to the oval window. This reduction in the area of force application allows a large enough increase in pressure to transfer most of the sound energy into the liquid. The increased pressure will compress the fluid found in the cochlea and transmit the stimulus. Thus, the lever action of the ossicles changes the vibrations so as to improve the transfer and reception of sound, and is a form of impedance matching.
+However, the extent of the movements of the ossicles is controlled (and constricted) by two muscles attached to them (the tensor tympani and the stapedius). It is believed that these muscles can contract to dampen the vibration of the ossicles, in order to protect the inner ear from excessively loud noise (theory 1) and that they give better frequency resolution at higher frequencies by reducing the transmission of low frequencies (theory 2) (see acoustic reflex). These muscles are more highly developed in bats and serve to block outgoing cries of the bats during echolocation (SONAR).
+
+Clinical relevance
+Occasionally the joints between the ossicles become rigid. One condition, otosclerosis, results in the fusing of the stapes to the oval window. This reduces hearing and may be treated surgically using a passive middle ear implant.
+
+History
+There is some doubt as to the discoverers of the auditory ossicles and several anatomists from the early 16th century have the discovery attributed to them with the two earliest being Alessandro Achillini and Jacopo Berengario da Carpi. Several sources, including Eustachi and Casseri, attribute the discovery of the malleus and incus to the anatomist and philosopher Achillini. The first written description of the malleus and incus was by Berengario da Carpi in his Commentaria super anatomia Mundini (1521), although he only briefly described two bones and noted their theoretical association with the transmission of sound. Niccolo Massa's Liber introductorius anatomiae described the same bones in slightly more detail and likened them both to little hammers. A much more detailed description of the first two ossicles followed in Andreas Vesalius' De humani corporis fabrica in which he devoted a chapter to them. Vesalius was the first to compare the second element of the ossicles to an anvil although he offered the molar as an alternative comparison for its shape. The first published description of the stapes came in Pedro Jimeno's Dialogus de re medica (1549) although it had been previously described in public lectures by Giovanni Filippo Ingrassia at the University of Naples as early as 1546.
+The term ossicle derives from ossiculum, a diminutive of "bone" (Latin: os; genitive ossis). The malleus gets its name from Latin malleus, meaning "hammer", the incus gets its name from Latin incus meaning "anvil" from incudere meaning "to forge with a hammer", and the stapes gets its name from Modern Latin "stirrup", probably an alteration of Late Latin stapia related to stare "to stand" and pedem, an accusative of pes "foot", so called because the bone is shaped like a stirrup – this was an invented Modern Latin word for "stirrup", for which there was no classical Latin word, as the ancients did not use stirrups.
+
+See also
+Evolution of mammalian auditory ossicles
+
+Incudomalleolar joint – Synovial joint between malleus and incus
+Incudostapedial joint – Small joint between the incus and the stapes
+Otolith – Inner-ear structure in vertebrates which detects acceleration
+
+References
+External links
+
+The middle ear and the ossicles

@@ -1,0 +1,25 @@
+A toothed belt, timing belt, cogged belt, cog belt, or synchronous belt is a flexible belt with teeth moulded onto its inner surface. Toothed belts are usually designed to run over matching toothed pulleys or sprockets. Toothed belts are used in a wide array of mechanical devices where high power transmission is desired.
+
+Design and application
+Timing belts, toothed belts, cogged or cog belts, and synchronous belts are non-slipping mechanical drive belts. They are made as flexible belts with teeth moulded onto their inner surface. The belts run over matching toothed pulleys or sprockets. When correctly tensioned, these types of belts have no slippage, and are often used to transfer motion for indexing or timing purposes (hence their name). They are often used in lieu of chains or gears, so there is less noise and a lubrication bath is not necessary.
+Toothed belts are used widely in mechanical devices, including sewing machines, photocopiers and many others. A major use of toothed belts is as the timing belt used to drive the camshafts within an automobile or motorcycle engine.
+As toothed belts can deliver more power than a friction-drive belt, they are used for high-power transmissions. These include the primary drive of some motorcycles, notably later Harley-Davidsons; and the supercharger used for dragsters.
+Microlight aircraft driven by high-speed two-stroke engines such as the Rotax 532 use toothed belt reduction drives to allow the use of a quieter and more efficient slower-speed propeller. Some amateur-built airplanes powered by automotive engines use cog belt reduction drive units.
+
+Other names
+A Gilmer belt was a brand or trade name for a mechanical belt used for transferring power between axles in a machine.  The Gilmer belt was originally sold by the L. H. Gilmer company after 1949, and represents one of the earliest toothed belt designs. Gilmer belts use trapezoidal teeth to engage matching grooves on toothed pulleys in order to maintain synchronicity between moving parts. Belts are no longer sold under the Gilmer name, although enthusiasts are still likely to refer to toothed belts by the Gilmer name.
+
+Fabrication
+Toothed belts are made of a flexible polymer over a fabric reinforcement. Originally this was rubber over a natural textile, but developments in material science have had a substantial effect in increasing the lifetime of these belts. This included changes from natural to synthetic rubber and polyurethane and also the adoption of steel, nylon, Kevlar (or other aramid fibres), and/or carbon fibres in their reinforcement.
+
+Belt failure
+Toothed belts have two failure modes, one gradual and one catastrophic. There is an increased risk of either failure over the lifetime of the belt, so it is common for highly-stressed belts to be given a service lifetime and to be replaced before this failure can occur.
+One failure mode is gradual wear to the tooth shape, which may eventually lead to slippage over rounded teeth. The belt often continues to work, but the relative timing between shafts changes.
+The catastrophic failure mode is caused by delamination between the belt and its fabric reinforcement. Although this may be caused by age and wear, it is often accelerated by mistreatment of the belt, often during initial installation. Overloading the belt by bending it to a narrow radius is a common cause of damage, either by bending out of the belt's designed axis, twisting, levering it into place with tools, bending in the correct axis but to a too small radius, or even knotting a belt in storage. Another cause, particularly with natural rubber belts, is contamination by oil, especially to the edges where the reinforcing fabric is exposed and can cause a wick effect.
+It is extremely rare for a timing belt to break. More common is for the belt to delaminate, disconnecting the fabric strength member from the teeth that ride on the pulleys. The belt is then often thrown from the pulleys and may be further damaged, cut, or broken. Although worn teeth may be detectable by careful inspection, internal deterioration is not considered to be reliably detectable and so the observance of service lifetimes is important.
+
+See also
+Polygroove belt
+
+
+== References ==

@@ -1,0 +1,47 @@
+Windows Installer (msiexec.exe, previously known as Microsoft Installer, codename Darwin) is a software component and application programming interface (API) of Microsoft Windows used for the installation, maintenance, and removal of software. The installation information, and optionally the files themselves, are packaged in installation packages, loosely relational databases structured as COM Structured Storages and commonly known as "MSI files", from their default filename extensions. The packages with the file extensions mst contain Windows Installer "Transformation Scripts", those with the msm extensions contain "Merge Modules" and the file extension pcp is used for "Patch Creation Properties". Windows Installer contains significant changes from its predecessor, Setup API. New features include a GUI framework and automatic generation of the uninstallation sequence.  Windows Installer is positioned as an alternative to stand-alone executable installer frameworks such as older versions of InstallShield and NSIS.
+Before the introduction of Microsoft Store (then named Windows Store), Microsoft encouraged third parties to use Windows Installer as the basis for installation frameworks, so that they synchronize correctly with other installers and keep the internal database of installed products consistent. Important features such as rollback and versioning depend on a consistent internal database for reliable operation. Furthermore, Windows Installer facilitates the principle of least privilege by performing software installations by proxy for unprivileged users.
+
+Logical structure of packages
+A package describes the installation of one or more full products and is universally identified by a GUID. A product is made up of components, grouped into features. Windows Installer does not handle dependencies between products.
+
+Products
+A single, installed, working program (or set of programs) is a product. A product is identified by a unique GUID (the ProductCode property) providing an authoritative identity throughout the world. The GUID, in combination with the version number (ProductVersion property), allows for release management of the product's files and registry keys.
+A package includes the package logic and other metadata that relates to how the package executes when running. For example, changing an EXE file in the product may require the ProductCode or ProductVersion to be changed for the release management. However, merely changing or adding a launch condition (with the product remaining exactly the same as the previous version) would still require the PackageCode to change for release management of the MSI file itself.
+
+Features
+A feature is a hierarchical group of components. A feature may contain any number of components and other sub-features. Smaller packages can consist of a single feature. More complex installers may display a "custom setup" dialog box, from which the user can select which features to install or remove.
+The package author defines the product features. A word processor, for example, might place the program's core file into one feature, and the program's help files, optional spelling checker and stationery modules into additional features.
+
+Components
+A component is the basic unit of a product. Each component is treated by Windows Installer as a unit. The installer cannot install just part of a component. Components can contain program files, folders, COM components, registry keys, and shortcuts. The user does not directly interact with components.
+Components are identified globally by GUIDs; thus the same component can be shared among several features of the same package or multiple packages, ideally through the use of Merge Modules.
+
+Key paths
+A key path is a specific file, registry key, or ODBC data source that the package author specifies as critical for a given component. Because a file is the most common type of key path, the term key file is commonly used. A component can contain at most one key path; if a component has no explicit key path, the component's destination folder is taken to be the key path. When an MSI-based program is launched, Windows Installer checks the existence of key paths. If there is a mismatch between the current system state and the value specified in the MSI package (e.g., a key file is missing), the related feature is re-installed. This process is known as self-healing or self-repair. No two components should use the same key path.
+
+Developing installer packages
+Creating an installer package for a new application is not trivial. It is necessary to specify which files must be installed, to where and with what registry keys. Any non-standard operations can be done using Custom Actions, which are typically developed in DLLs. There are a number of commercial and freeware products to assist in creating MSI packages, including Visual Studio (natively up to VS 2010, with an extension on newer VS versions), InstallShield, WiX, InnoSetup and InstallSimple. To varying degrees, the user interface and behavior may be configured for use in less common situations such as unattended installation. Once prepared, an installer package is "compiled" by reading the instructions and files from the developer's local machine, and creating the .msi file.
+Windows Installer may be slower than native code installation technologies, such as InstallAware, due to the overhead of component registration and rollback support, which often involves generating tens of thousands of registry keys and temporary files.
+The user interface (dialog boxes) presented at the start of installation can be changed or configured by the setup engineer developing a new installer. There is a limited language of buttons, text fields and labels which can be arranged in a sequence of dialogue boxes. An installer package should be capable of running without any UI, for what is called "unattended installation".
+
+ICE validation
+Microsoft provides a set of Internal Consistency Evaluators (ICE) that can be used to detect potential problems with an MSI database. The ICE rules are combined into CUB files, which are stripped-down MSI files containing custom actions that test the target MSI database's contents for validation warnings and errors. ICE validation can be performed with the Platform SDK tools Orca and msival2, or with validation tools that ship with the various authoring environments.
+For example, some of the ICE rules are:
+
+ICE09: Validates that any component destined for the System folder is marked as being permanent.
+ICE24: Validates that the product code, product version, and product language have appropriate formats.
+ICE33: Validates that the Registry table is not used for data better suited for another table (Class, Extension, Verb, and so on).
+Addressing ICE validation warnings and errors is an important step in the release process.
+
+See also
+APPX – Software package format used on Microsoft's Windows Store
+App-V – Software package format used for virtualization and streaming
+.exe
+List of installation software
+Package management system
+Windows Package Manager
+ZAP file – a way to perform an application installation when no MSI file exists
+
+References
+External links
+Official website

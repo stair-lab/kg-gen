@@ -1,0 +1,63 @@
+In financial regulation, a Suspicious Activity Report (SAR) or Suspicious Transaction Report (STR) is a report made by a financial institution about suspicious or potentially suspicious activity as required under laws designed to counter money laundering, financing of terrorism and other financial crimes. The criteria to decide when a report must be made varies from country to country, but generally, it is any financial transaction that either a) does not make sense to the financial institution; b) is unusual for that particular client; or c) appears to be done only for the purpose of hiding or obfuscating another, separate transaction. The report is filed with that country's Financial Intelligence Unit, which is typically a specialist agency designed to collect and analyse transactions and then report these to relevant law enforcement teams.
+Front-line staff in the financial institution have the responsibility to identify transactions that may be suspicious and these are reported to a designated person who is responsible for reporting the suspicious transaction. This means that the front line staff can ask questions and in some cases refuse the transaction. However, the financial institution is not allowed to inform the client or parties involved in the transaction that a SAR has been lodged, otherwise known as tipping off under the Financial Action Task Force's Recommendations.
+The Financial Action Task Force's Recommendations are widely recognized as the international standard in anti-money laundering and countering financing terrorism with endorsements from 180 nations. FATF Recommendations set forth essential measures to combat money laundering and to protect domestic and international monetary systems including the application of preventive measures for the financial sector and other designated sectors; and the establishment of powers and responsibilities for the relevant competent authorities (e.g., investigative, law enforcement and supervisory authorities), including guidelines regarding suspicious activity reports.
+Most countries have laws that require financial institutions to report suspicious transactions and will have a designated agency to receive them. The agency to which a report is required to be filed for a given country is typically part of the law enforcement or financial regulatory department of that country. For example, in the United States, suspicious transaction reports must be reported to the Financial Crimes Enforcement Network (FinCEN), an agency of the United States Department of the Treasury. FinCEN maintains a team of analysts who meticulously review these Suspicious Activity Reports to detect potential money laundering activities. They also supply informational support to local law enforcement, along with national and international bodies including the International Association of Chiefs of Police (IACP), the National White-Collar Crime Center (NWCCC), and the National Association of Attorneys General (NAAG), facilitating further actions.
+In Australia, the Suspicious Matter Report must be reported to Australian Transaction Reports and Analysis Centre (AUSTRAC), an Australian government agency. A 2020 Bank Policy Institute study found that American SARs elicited a response from law enforcement in a median of 4% of reports and that a tiny subset of those responses resulted in arrest and conviction, suggesting that 90% to 95% of SARs reports were false positives of unlawful activity.
+European Securities and Markets Authority reported around 52% of Suspicious Transaction and Order Reports in European Union was insider trading, while market manipulation was around 47% for 2023.
+
+History
+In 1992, the requirement to file suspicious activity reports (as well as the accompanying implied gag order) in the United States was added by Section 1517(b) of the Annunzio-Wylie Anti-Money Laundering Act (part of the Housing and Community Development Act of 1992, Pub. L. 102–550, 106 Stat. 3762, 4060).
+
+Reporting
+SARs include detailed information about transactions that are or appear to be suspicious. The goal of SAR filings is to help the government identify individuals, groups, and organizations involved in fraud, such as terrorist financing, money laundering, and other crimes. The typical reporting limit for SARs begin at $2000.
+The purpose of a suspicious activity report is to detect and report known or suspected violations of law or suspicious activity observed by financial institutions subject to the regulations (for example, the United States Bank Secrecy Act (BSA)). In many instances, SARs have been instrumental in enabling law enforcement to initiate or supplement major money laundering or terrorist financing investigations and other criminal cases. Information provided in SAR forms also presents governments with a method of identifying emerging trends and patterns associated with financial crimes. The information about those trends and patterns is vital to law enforcement agencies and provides valuable feedback to financial institutions.
+Under the United States Bank Secrecy Act (BSA), financial institutions are required to assist U.S. government agencies in detecting and preventing money laundering, such as:
+
+Keep records of cash purchases of negotiable instruments,
+File reports of cash transactions exceeding $10,000 (daily aggregate amount), and
+Report suspicious activity that might signal criminal activity (e.g., money laundering, tax evasion)
+
+Reporters
+The report can start with any employee of a financial services institution. The employees are trained to be alert for suspicious activity, such as situations where people are trying to wire money out of the country without identification, or activity by someone with no job who starts depositing large amounts of cash into an account. Employees are trained to ask questions about the transaction and communicate their suspicion up their chain of command where further decisions are made about whether to file a report or not.
+Many different types of finance-related industries are required to file SARs. These include:
+
+depository institutions (for example, banks and credit unions)
+securities and futures dealers (for example, stock brokers and mutual fund brokers)
+money services businesses (for example, check cashing services, currency exchange bureaus, and money order providers)
+casinos and card clubs
+dealers in precious metals and gems (for example, jewelry dealers)
+insurance companies
+mortgage companies and brokers
+
+Other related reports
+Most countries also require other types of transactions to be reported. For example, in the United States, there is a Currency Transaction Report, which FinCEN requires businesses and individuals to report:
+
+individuals who transport more than $10,000 in currency into or out of the country
+shippers and receivers involved in the transfer of $10,000 in currency into or out of the country
+businesses that receive more than $10,000 in currency in a single transaction or in related transactions
+people who have control over more than $10,000 in financial accounts outside of the country during a calendar year
+
+Confidentiality
+In most countries, unauthorized disclosure of a SAR filing is an offense. In the United States, it is specifically a federal criminal offense.
+Financial institutions are required to undertake an investigation process prior to filing a SAR to ensure that the information reported is appropriate, complete, and accurate. This process will often include review by financial investigators, management and/or attorneys prior to filing.
+To encourage complete candor and cooperation, there are disclosure and evidentiary privileges that protect SAR filers. First, an individual or organization is precluded from discovering the existence or contents of a SAR that includes the individual or organization's name. SARs filers are immune from the discovery process. Second, SAR filers enjoy immunity for all statements made in their SARs, regardless of whether those statements were allegedly made in bad faith.
+
+Penalties for non-compliance
+In most countries financial institutions and their employees face civil and criminal penalties for failing to properly file suspicious activity reports, including any combination of fines, regulatory restrictions, loss of banking charter, or imprisonment.
+
+By country
+The number of Suspicious Transaction and Order Reports for 2023 was in Germany more than two thousand, in France more than one thousand, and in Sweden more than five hundred, as reported by European Securities and Markets Authority.
+
+See also
+Casino regulations under the Bank Secrecy Act
+FinCEN Files
+Money laundering
+Political corruption
+Structuring
+Suspicious Activity Report (justice and homeland security)
+Tax evasion
+Terrorist financing
+
+References
+External links
+Suspicious Activity Reports (SAR) — United States Office of the Comptroller of the Currency

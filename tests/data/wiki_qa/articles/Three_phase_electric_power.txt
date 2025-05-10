@@ -1,0 +1,1309 @@
+Three-phase electric power (abbreviated 3ϕ) is a common type of alternating current (AC) used in electricity generation, transmission, and distribution. It is a type of polyphase system employing three wires (or four including an optional neutral return wire) and is the most common method used by electrical grids worldwide to transfer power.
+Three-phase electrical power was developed in the 1880s by several people. In three-phase power, the voltage on each wire is 120 degrees phase shifted relative to each of the other wires. Because it is an AC system, it allows the voltages to be easily stepped up using transformers to high voltage for transmission and back down for distribution, giving high efficiency.
+A three-wire three-phase circuit is usually more economical than an equivalent two-wire single-phase circuit at the same line-to-ground voltage because it uses less conductor material to transmit a given amount of electrical power. Three-phase power is mainly used directly to power large induction motors, other electric motors and other heavy loads. Small loads often use only a two-wire single-phase circuit, which may be derived from a three-phase system.
+
+Terminology
+The conductors between a voltage source and a load are called lines, and the voltage between any two lines is called line voltage. The voltage measured between any line and neutral is called phase voltage. For example, in countries with nominal 230 V power, the line voltage is 400 V and the phase voltage is 230 V.  For a 208/120 V service, the line voltage is 208 V and the phase voltage is 120 V.
+
+History
+Polyphase power systems were independently invented by Galileo Ferraris, Mikhail Dolivo-Dobrovolsky, Jonas Wenström, John Hopkinson, William Stanley Jr., and Nikola Tesla in the late 1880s.
+
+Three phase power evolved out of electric motor development. In 1885, Galileo Ferraris was doing research on rotating magnetic fields. Ferraris experimented with different types of asynchronous electric motors. The research and his studies resulted in the development of an alternator, which may be thought of as an alternating-current motor operating in reverse, so as to convert mechanical (rotating) power into electric power (as alternating current). On 11 March 1888, Ferraris published his research in a paper to the Royal Academy of Sciences in Turin.
+Two months later Nikola Tesla gained U.S. patent 381,968 for a three-phase electric motor design, application filed October 12, 1887. Figure 13 of this patent shows that Tesla envisaged his three-phase motor being powered from the generator via six wires.
+These alternators operated by creating systems of alternating currents displaced from one another in phase by definite amounts, and depended on rotating magnetic fields for their operation. The resulting source of polyphase power soon found widespread acceptance. The invention of the polyphase alternator is key in the history of electrification, as is the power transformer. These inventions enabled power to be transmitted by wires economically over considerable distances. Polyphase power enabled the use of water-power (via hydroelectric generating plants in large dams) in remote places, thereby allowing the mechanical energy of the falling water to be converted to electricity, which then could be fed to an electric motor at any location where mechanical work needed to be done. This versatility sparked the growth of power-transmission network grids on continents around the globe.
+Mikhail Dolivo-Dobrovolsky developed a three-phase electrical generator and a three-phase electric motor in 1888 and studied star and delta connections. His three-phase three-wire transmission system was displayed in 1891 in Germany at the International Electrotechnical Exhibition, where Dolivo-Dobrovolsky used the system to transmit electric power at the distance of 176 km (110 miles) with 75% efficiency. In 1891 he also created a three-phase transformer and short-circuited (squirrel-cage) induction motor. He designed the world's first three-phase hydroelectric power plant in 1891. Inventor Jonas Wenström received in 1890 a Swedish patent on the same three-phase system. The possibility of transferring electrical power from a waterfall at a distance was explored at the Grängesberg mine.  A 45 m fall at Hällsjön, Smedjebackens kommun, where a small iron work had been located, was selected. In 1893,  a three-phase 9.5 kV system was used to transfer 400 horsepower (300 kW) a distance of 15 km (10 miles), becoming the first commercial application.
+
+Principle
+In a symmetric three-phase power supply system, three conductors each carry an alternating current of the same frequency and voltage amplitude relative to a common reference, but with a phase difference of one third of a cycle (i.e., 120 degrees out of phase) between each. The common reference is usually connected to ground and often to a current-carrying conductor called the neutral. Due to the phase difference, the voltage on any conductor reaches its peak at one third of a cycle after one of the other conductors and one third of a cycle before the remaining conductor. This phase delay gives constant power transfer to a balanced linear load. It also makes it possible to produce a rotating magnetic field in an electric motor and generate other phase arrangements using transformers (for instance, a two-phase system using a Scott-T transformer). The amplitude of the voltage difference between two phases is 
+  
+    
+      
+        
+          
+            3
+          
+        
+        =
+        1.732
+        …
+      
+    
+    {\displaystyle {\sqrt {3}}=1.732\ldots }
+  
+ times the amplitude of the voltage of the individual phases.
+The symmetric three-phase systems described here are simply referred to as three-phase systems because, although it is possible to design and implement asymmetric three-phase power systems (i.e., with unequal voltages or phase shifts), they are not used in practice because they lack the most important advantages of symmetric systems.
+In a three-phase system feeding a balanced and linear load, the sum of the instantaneous currents of the three conductors is zero. In other words, the current in each conductor is equal in magnitude to the sum of the currents in the other two, but with the opposite sign. The return path for the current in any phase conductor is the other two phase conductors.
+Constant power transfer is possible with any number of phases greater than one.  However, two-phase systems do not have neutral-current cancellation and thus use conductors less efficiently, and more than three phases complicates infrastructure unnecessarily.
+Additionally, in some practical generators and motors, 
+two phases can result in a less smooth (pulsating) torque.  
+Three-phase systems may have a fourth wire, common in low-voltage distribution. This is the neutral wire. The neutral allows three separate single-phase supplies to be provided at a constant voltage and is commonly used for supplying multiple single-phase loads. The connections are arranged so that, as far as possible in each group, equal power is drawn from each phase. Further up the distribution system, the currents are usually well balanced. Transformers may be wired to have a four-wire secondary and a three-wire primary, while allowing unbalanced loads and the associated secondary-side neutral currents.
+
+Phase sequence
+Wiring for three phases is typically identified by colors that vary by country and voltage. The phases must be connected in the correct order to achieve the intended direction of rotation of three-phase motors. For example, pumps and fans do not work as intended in reverse. Maintaining the identity of phases is required if two sources could be connected at the same time. A direct connection between two different phases is a short circuit and leads to flow of unbalanced current.
+
+Advantages and disadvantages
+As compared to a single-phase AC power supply that uses two current-carrying conductors (phase and neutral), a three-phase supply with no neutral and the same phase-to-ground voltage and current capacity per phase can transmit three times as much power by using just 1.5 times as many wires (i.e., three instead of two). Thus, the ratio of capacity to conductor material is doubled. The ratio of capacity to conductor material increases to 3:1 with an ungrounded three-phase and center-grounded single-phase system (or 2.25:1 if both use grounds with the same gauge as the conductors). That leads to higher efficiency, lower weight, and cleaner waveforms.
+Three-phase supplies have properties that make them desirable in electric power distribution systems:
+
+The phase currents tend to cancel out one another, summing to zero in the case of a linear balanced load, which allows a reduction of the size of the neutral conductor because it carries little or no current. With a balanced load, all the phase conductors carry the same current and so can have the same size.
+Power transfer into a linear balanced load is constant, which, in motor/generator applications, helps to reduce vibrations.
+Three-phase systems can produce a rotating magnetic field with a specified direction and constant magnitude, which simplifies the design of electric motors, as no starting circuit is required.
+However, most loads are single-phase. In North America, single-family houses and individual apartments are supplied one phase from the power grid and use a split-phase system to the panelboard from which most branch circuits will carry 120 V. Circuits designed for higher powered devices such as stoves, dryers, or outlets for electric vehicles carry 240 V.
+In Europe, three-phase power is normally delivered to the panelboard and further to higher powered devices.
+
+Generation and distribution
+At the power station, an electrical generator converts mechanical power into a set of three AC electric currents, one from each coil (or winding) of the generator. The windings are arranged such that the currents are at the same frequency but with the peaks and troughs of their wave forms offset to provide three complementary currents with a phase separation of one-third cycle (120° or 2π⁄3 radians). The generator frequency is typically 50 or 60 Hz, depending on the country.
+At the power station, transformers change the voltage from generators to a level suitable for transmission in order to minimize losses.
+After further voltage conversions in the transmission network, the voltage is finally transformed to the standard utilization before power is supplied to customers.
+Most automotive alternators generate three-phase AC and rectify it to DC with a diode bridge.
+
+Transformer connections
+A "delta" (Δ) connected transformer winding is connected between phases of a three-phase system. A "wye" (Y) transformer connects each winding from a phase wire to a common neutral point.
+A single three-phase transformer can be used, or three single-phase transformers.
+In an "open delta" or "V" system, only two transformers are used. A closed delta made of three single-phase transformers can operate as an open delta if one of the transformers has failed or needs to be removed. In open delta, each transformer must carry current for its respective phases as well as current for the third phase, therefore capacity is reduced to 87%. With one of three transformers missing and the remaining two at 87% efficiency, the capacity is 58% (2⁄3 of 87%).
+Where a delta-fed system must be grounded for detection of stray current to ground or protection from surge voltages, a grounding transformer (usually a zigzag transformer) may be connected to allow ground fault currents to return from any phase to ground. Another variation is a "corner grounded" delta system, which is a closed delta that is grounded at one of the junctions of transformers.
+
+Three-wire and four-wire circuits
+There are two basic three-phase configurations: wye (Y) and delta (Δ). As shown in the diagram, a delta configuration requires only three wires for transmission, but a wye (star) configuration may have a fourth wire. The fourth wire, if present, is provided as a neutral and is normally grounded. The three-wire and four-wire designations do not count the ground wire present above many transmission lines, which is solely for fault protection and does not carry current under normal use.
+A four-wire system with symmetrical voltages between phase and neutral is obtained when the neutral is connected to the "common star point" of all supply windings. In such a system, all three phases will have the same magnitude of voltage relative to the neutral. Other non-symmetrical systems have been used.
+The four-wire wye system is used when a mixture of single-phase and three-phase loads are to be served, such as mixed lighting and motor loads. An example of application is local distribution in Europe (and elsewhere), where each customer may be only fed from one phase and the neutral (which is common to the three phases). When a group of customers sharing the neutral draw unequal phase currents, the common neutral wire carries the currents resulting from these imbalances. Electrical engineers try to design the three-phase power system for any one location so that the power drawn from each of three phases is the same, as far as possible at that site. Electrical engineers also try to arrange the distribution network so the loads are balanced as much as possible, since the same principles that apply to individual premises also apply to the wide-scale distribution system power. Hence, every effort is made by supply authorities to distribute the power drawn on each of the three phases over a large number of premises so that, on average, as nearly as possible a balanced load is seen at the point of supply.
+
+For domestic use, some countries such as the UK may supply one phase and neutral at a high current (up to 100 A) to one property, while others such as Germany may supply 3 phases and neutral to each customer, but at a lower fuse rating, typically 40–63 A per phase, and "rotated" to avoid the effect that more load tends to be put on the first phase.
+
+Based on wye (Y) and delta (Δ) connection. Generally, there are four different types of three-phase transformer winding connections for transmission and distribution purposes:
+
+wye (Y) – wye (Y) is used for small current and high voltage,
+Delta (Δ) – Delta (Δ) is used for large currents and low voltages,
+Delta (Δ) – wye (Y) is used for step-up transformers, i.e., at generating stations,
+wye (Y) – Delta (Δ) is used for step-down transformers, i.e., at the end of the transmission.
+In North America, a high-leg delta supply is sometimes used where one winding of a delta-connected transformer feeding the load is center-tapped and that center tap is grounded and connected as a neutral as shown in the second diagram. This setup produces three different voltages: If the voltage between the center tap (neutral) and each of the top and bottom taps (phase and anti-phase) is 120 V (100%), the voltage across the phase and anti-phase lines is 240 V (200%), and the neutral to "high leg" voltage is ≈ 208 V (173%).
+The reason for providing the delta connected supply is usually to power large motors requiring a rotating field. However, the premises concerned will also require the "normal" North American 120 V supplies, two of which are derived (180 degrees "out of phase") between the "neutral" and either of the center-tapped phase points.
+
+Balanced circuits
+In the perfectly balanced case all three lines share equivalent loads. Examining the circuits, we can derive relationships between line voltage and current, and load voltage and current for wye- and delta-connected loads.
+In a balanced system each line will produce equal voltage magnitudes at phase angles equally spaced from each other. With V1 as our reference and V3 lagging V2 lagging V1, using angle notation, and VLN the voltage between the line and the neutral we have:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  V
+                  
+                    1
+                  
+                
+              
+              
+                
+                =
+                
+                  V
+                  
+                    LN
+                  
+                
+                ∠
+                
+                  0
+                  
+                    ∘
+                  
+                
+                ,
+              
+            
+            
+              
+                
+                  V
+                  
+                    2
+                  
+                
+              
+              
+                
+                =
+                
+                  V
+                  
+                    LN
+                  
+                
+                ∠
+                
+                  
+                    −
+                    120
+                  
+                  
+                    ∘
+                  
+                
+                ,
+              
+            
+            
+              
+                
+                  V
+                  
+                    3
+                  
+                
+              
+              
+                
+                =
+                
+                  V
+                  
+                    LN
+                  
+                
+                ∠
+                
+                  
+                    +
+                    120
+                  
+                  
+                    ∘
+                  
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}V_{1}&=V_{\text{LN}}\angle 0^{\circ },\\V_{2}&=V_{\text{LN}}\angle {-120}^{\circ },\\V_{3}&=V_{\text{LN}}\angle {+120}^{\circ }.\end{aligned}}}
+  
+
+These voltages feed into either a wye- or delta-connected load.
+
+Wye (or, star; Y)
+The voltage seen by the load will depend on the load connection; for the wye case, connecting each load to a phase (line-to-neutral) voltages gives
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  I
+                  
+                    1
+                  
+                
+              
+              
+                
+                =
+                
+                  
+                    
+                      V
+                      
+                        1
+                      
+                    
+                    
+                      
+                        |
+                      
+                      
+                        Z
+                        
+                          total
+                        
+                      
+                      
+                        |
+                      
+                    
+                  
+                
+                ∠
+                (
+                −
+                θ
+                )
+                ,
+              
+            
+            
+              
+                
+                  I
+                  
+                    2
+                  
+                
+              
+              
+                
+                =
+                
+                  
+                    
+                      V
+                      
+                        2
+                      
+                    
+                    
+                      
+                        |
+                      
+                      
+                        Z
+                        
+                          total
+                        
+                      
+                      
+                        |
+                      
+                    
+                  
+                
+                ∠
+                (
+                −
+                
+                  120
+                  
+                    ∘
+                  
+                
+                −
+                θ
+                )
+                ,
+              
+            
+            
+              
+                
+                  I
+                  
+                    3
+                  
+                
+              
+              
+                
+                =
+                
+                  
+                    
+                      V
+                      
+                        3
+                      
+                    
+                    
+                      
+                        |
+                      
+                      
+                        Z
+                        
+                          total
+                        
+                      
+                      
+                        |
+                      
+                    
+                  
+                
+                ∠
+                (
+                
+                  120
+                  
+                    ∘
+                  
+                
+                −
+                θ
+                )
+                ,
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}I_{1}&={\frac {V_{1}}{|Z_{\text{total}}|}}\angle (-\theta ),\\I_{2}&={\frac {V_{2}}{|Z_{\text{total}}|}}\angle (-120^{\circ }-\theta ),\\I_{3}&={\frac {V_{3}}{|Z_{\text{total}}|}}\angle (120^{\circ }-\theta ),\end{aligned}}}
+  
+
+where Ztotal is the sum of line and load impedances (Ztotal = ZLN + ZY), and θ is the phase of the total impedance (Ztotal).
+The phase angle difference between voltage and current of each phase is not necessarily 0 and depends on the type of load impedance, Zy. Inductive and capacitive loads will cause current to either lag or lead the voltage. However, the relative phase angle between each pair of lines (1 to 2, 2 to 3, and 3 to 1) will still be −120°.
+
+By applying Kirchhoff's current law (KCL) to the neutral node, the three phase currents sum to the total current in the neutral line. In the balanced case:
+
+  
+    
+      
+        
+          I
+          
+            1
+          
+        
+        +
+        
+          I
+          
+            2
+          
+        
+        +
+        
+          I
+          
+            3
+          
+        
+        =
+        
+          I
+          
+            N
+          
+        
+        =
+        0.
+      
+    
+    {\displaystyle I_{1}+I_{2}+I_{3}=I_{\text{N}}=0.}
+
+Delta (Δ)
+In the delta circuit, loads are connected across the lines, and so loads see line-to-line voltages:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  V
+                  
+                    12
+                  
+                
+              
+              
+                
+                =
+                
+                  V
+                  
+                    1
+                  
+                
+                −
+                
+                  V
+                  
+                    2
+                  
+                
+                =
+                (
+                
+                  V
+                  
+                    LN
+                  
+                
+                ∠
+                
+                  0
+                  
+                    ∘
+                  
+                
+                )
+                −
+                (
+                
+                  V
+                  
+                    LN
+                  
+                
+                ∠
+                
+                  
+                    −
+                    120
+                  
+                  
+                    ∘
+                  
+                
+                )
+              
+            
+            
+              
+              
+                
+                =
+                
+                  
+                    3
+                  
+                
+                
+                  V
+                  
+                    LN
+                  
+                
+                ∠
+                
+                  30
+                  
+                    ∘
+                  
+                
+                =
+                
+                  
+                    3
+                  
+                
+                
+                  V
+                  
+                    1
+                  
+                
+                ∠
+                (
+                
+                  ϕ
+                  
+                    
+                      V
+                      
+                        1
+                      
+                    
+                  
+                
+                +
+                
+                  30
+                  
+                    ∘
+                  
+                
+                )
+                ,
+              
+            
+            
+              
+                
+                  V
+                  
+                    23
+                  
+                
+              
+              
+                
+                =
+                
+                  V
+                  
+                    2
+                  
+                
+                −
+                
+                  V
+                  
+                    3
+                  
+                
+                =
+                (
+                
+                  V
+                  
+                    LN
+                  
+                
+                ∠
+                
+                  
+                    −
+                    120
+                  
+                  
+                    ∘
+                  
+                
+                )
+                −
+                (
+                
+                  V
+                  
+                    LN
+                  
+                
+                ∠
+                
+                  120
+                  
+                    ∘
+                  
+                
+                )
+              
+            
+            
+              
+              
+                
+                =
+                
+                  
+                    3
+                  
+                
+                
+                  V
+                  
+                    LN
+                  
+                
+                ∠
+                
+                  
+                    −
+                    90
+                  
+                  
+                    ∘
+                  
+                
+                =
+                
+                  
+                    3
+                  
+                
+                
+                  V
+                  
+                    2
+                  
+                
+                ∠
+                (
+                
+                  ϕ
+                  
+                    
+                      V
+                      
+                        2
+                      
+                    
+                  
+                
+                +
+                
+                  30
+                  
+                    ∘
+                  
+                
+                )
+                ,
+              
+            
+            
+              
+                
+                  V
+                  
+                    31
+                  
+                
+              
+              
+                
+                =
+                
+                  V
+                  
+                    3
+                  
+                
+                −
+                
+                  V
+                  
+                    1
+                  
+                
+                =
+                (
+                
+                  V
+                  
+                    LN
+                  
+                
+                ∠
+                
+                  120
+                  
+                    ∘
+                  
+                
+                )
+                −
+                (
+                
+                  V
+                  
+                    LN
+                  
+                
+                ∠
+                
+                  0
+                  
+                    ∘
+                  
+                
+                )
+              
+            
+            
+              
+              
+                
+                =
+                
+                  
+                    3
+                  
+                
+                
+                  V
+                  
+                    LN
+                  
+                
+                ∠
+                
+                  150
+                  
+                    ∘
+                  
+                
+                =
+                
+                  
+                    3
+                  
+                
+                
+                  V
+                  
+                    3
+                  
+                
+                ∠
+                (
+                
+                  ϕ
+                  
+                    
+                      V
+                      
+                        3
+                      
+                    
+                  
+                
+                +
+                
+                  30
+                  
+                    ∘
+                  
+                
+                )
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}V_{12}&=V_{1}-V_{2}=(V_{\text{LN}}\angle 0^{\circ })-(V_{\text{LN}}\angle {-120}^{\circ })\\&={\sqrt {3}}V_{\text{LN}}\angle 30^{\circ }={\sqrt {3}}V_{1}\angle (\phi _{V_{1}}+30^{\circ }),\\V_{23}&=V_{2}-V_{3}=(V_{\text{LN}}\angle {-120}^{\circ })-(V_{\text{LN}}\angle 120^{\circ })\\&={\sqrt {3}}V_{\text{LN}}\angle {-90}^{\circ }={\sqrt {3}}V_{2}\angle (\phi _{V_{2}}+30^{\circ }),\\V_{31}&=V_{3}-V_{1}=(V_{\text{LN}}\angle 120^{\circ })-(V_{\text{LN}}\angle 0^{\circ })\\&={\sqrt {3}}V_{\text{LN}}\angle 150^{\circ }={\sqrt {3}}V_{3}\angle (\phi _{V_{3}}+30^{\circ }).\end{aligned}}}
+  
+
+(Φv1 is the phase shift for the first voltage, commonly taken to be 0°; in this case, Φv2 = −120° and Φv3 = −240° or 120°.)
+Further:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  I
+                  
+                    12
+                  
+                
+              
+              
+                
+                =
+                
+                  
+                    
+                      V
+                      
+                        12
+                      
+                    
+                    
+                      
+                        |
+                      
+                      
+                        Z
+                        
+                          Δ
+                        
+                      
+                      
+                        |
+                      
+                    
+                  
+                
+                ∠
+                (
+                
+                  30
+                  
+                    ∘
+                  
+                
+                −
+                θ
+                )
+                ,
+              
+            
+            
+              
+                
+                  I
+                  
+                    23
+                  
+                
+              
+              
+                
+                =
+                
+                  
+                    
+                      V
+                      
+                        23
+                      
+                    
+                    
+                      
+                        |
+                      
+                      
+                        Z
+                        
+                          Δ
+                        
+                      
+                      
+                        |
+                      
+                    
+                  
+                
+                ∠
+                (
+                −
+                
+                  90
+                  
+                    ∘
+                  
+                
+                −
+                θ
+                )
+                ,
+              
+            
+            
+              
+                
+                  I
+                  
+                    31
+                  
+                
+              
+              
+                
+                =
+                
+                  
+                    
+                      V
+                      
+                        31
+                      
+                    
+                    
+                      
+                        |
+                      
+                      
+                        Z
+                        
+                          Δ
+                        
+                      
+                      
+                        |
+                      
+                    
+                  
+                
+                ∠
+                (
+                
+                  150
+                  
+                    ∘
+                  
+                
+                −
+                θ
+                )
+                ,
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}I_{12}&={\frac {V_{12}}{|Z_{\Delta }|}}\angle (30^{\circ }-\theta ),\\I_{23}&={\frac {V_{23}}{|Z_{\Delta }|}}\angle (-90^{\circ }-\theta ),\\I_{31}&={\frac {V_{31}}{|Z_{\Delta }|}}\angle (150^{\circ }-\theta ),\end{aligned}}}
+  
+
+where θ is the phase of delta impedance (ZΔ).
+Relative angles are preserved, so I31 lags I23 lags I12 by 120°. Calculating line currents by using KCL at each delta node gives
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  I
+                  
+                    1
+                  
+                
+              
+              
+                
+                =
+                
+                  I
+                  
+                    12
+                  
+                
+                −
+                
+                  I
+                  
+                    31
+                  
+                
+                =
+                
+                  I
+                  
+                    12
+                  
+                
+                −
+                
+                  I
+                  
+                    12
+                  
+                
+                ∠
+                
+                  120
+                  
+                    ∘
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  
+                    3
+                  
+                
+                
+                  I
+                  
+                    12
+                  
+                
+                ∠
+                (
+                
+                  ϕ
+                  
+                    
+                      I
+                      
+                        12
+                      
+                    
+                  
+                
+                −
+                
+                  30
+                  
+                    ∘
+                  
+                
+                )
+                =
+                
+                  
+                    3
+                  
+                
+                
+                  I
+                  
+                    12
+                  
+                
+                ∠
+                (
+                −
+                θ
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}I_{1}&=I_{12}-I_{31}=I_{12}-I_{12}\angle 120^{\circ }\\&={\sqrt {3}}I_{12}\angle (\phi _{I_{12}}-30^{\circ })={\sqrt {3}}I_{12}\angle (-\theta )\end{aligned}}}
+  
+
+and similarly for each other line:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  I
+                  
+                    2
+                  
+                
+              
+              
+                
+                =
+                
+                  
+                    3
+                  
+                
+                
+                  I
+                  
+                    23
+                  
+                
+                ∠
+                (
+                
+                  ϕ
+                  
+                    
+                      I
+                      
+                        23
+                      
+                    
+                  
+                
+                −
+                
+                  30
+                  
+                    ∘
+                  
+                
+                )
+                =
+                
+                  
+                    3
+                  
+                
+                
+                  I
+                  
+                    23
+                  
+                
+                ∠
+                (
+                −
+                
+                  120
+                  
+                    ∘
+                  
+                
+                −
+                θ
+                )
+                ,
+              
+            
+            
+              
+                
+                  I
+                  
+                    3
+                  
+                
+              
+              
+                
+                =
+                
+                  
+                    3
+                  
+                
+                
+                  I
+                  
+                    31
+                  
+                
+                ∠
+                (
+                
+                  ϕ
+                  
+                    
+                      I
+                      
+                        31
+                      
+                    
+                  
+                
+                −
+                
+                  30
+                  
+                    ∘
+                  
+                
+                )
+                =
+                
+                  
+                    3
+                  
+                
+                
+                  I
+                  
+                    31
+                  
+                
+                ∠
+                (
+                
+                  120
+                  
+                    ∘
+                  
+                
+                −
+                θ
+                )
+                ,
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}I_{2}&={\sqrt {3}}I_{23}\angle (\phi _{I_{23}}-30^{\circ })={\sqrt {3}}I_{23}\angle (-120^{\circ }-\theta ),\\I_{3}&={\sqrt {3}}I_{31}\angle (\phi _{I_{31}}-30^{\circ })={\sqrt {3}}I_{31}\angle (120^{\circ }-\theta ),\end{aligned}}}
+  
+
+where, again, θ is the phase of delta impedance (ZΔ).
+
+Inspection of a phasor diagram, or conversion from phasor notation to complex notation, illuminates how the difference between two line-to-neutral voltages yields a line-to-line voltage that is greater by a factor of √3. As a delta configuration connects a load across phases of a transformer, it delivers the line-to-line voltage difference, which is √3 times greater than the line-to-neutral voltage delivered to a load in the wye configuration. As the power transferred is V2/Z, the impedance in the delta configuration must be 3 times what it would be in a wye configuration for the same power to be transferred.
+
+Single-phase loads
+Except in a high-leg delta system and a corner-grounded delta system, single-phase loads may be connected across any two phases, or a load can be connected from phase to neutral. Distributing single-phase loads among the phases of a three-phase system balances the load and makes most economical use of conductors and transformers.
+In a symmetrical three-phase four-wire wye system, the three phase conductors have the same voltage to the system neutral. The voltage between line conductors is √3 times the phase conductor to neutral voltage:
+
+  
+    
+      
+        
+          V
+          
+            LL
+          
+        
+        =
+        
+          
+            3
+          
+        
+        
+          V
+          
+            LN
+          
+        
+        .
+      
+    
+    {\displaystyle V_{\text{LL}}={\sqrt {3}}V_{\text{LN}}.}
+  
+
+The currents returning from the customers' premises to the supply transformer all share the neutral wire. If the loads are evenly distributed on all three phases, the sum of the returning currents in the neutral wire is approximately zero. Any unbalanced phase loading on the secondary side of the transformer will use the transformer capacity inefficiently.
+If the supply neutral is broken, phase-to-neutral voltage is no longer maintained. Phases with higher relative loading will experience reduced voltage, and phases with lower relative loading will experience elevated voltage, up to the phase-to-phase voltage.
+A high-leg delta provides phase-to-neutral relationship of VLL = 2 VLN , however, LN load is imposed on one phase. A transformer manufacturer's page suggests that LN loading not exceed 5% of transformer capacity.
+Since √3 ≈ 1.73, defining VLN as 100% gives VLL ≈ 100% × 1.73 = 173%. If VLL was set as 100%, then VLN ≈ 57.7%.
+
+Unbalanced loads
+When the currents on the three live wires of a three-phase system are not equal or are not at an exact 120° phase angle, the power loss is greater than for a perfectly balanced system. The method of symmetrical components is used to analyze unbalanced systems.
+
+Non-linear loads
+With linear loads, the neutral only carries the current due to imbalance between the phases. Gas-discharge lamps and devices that utilize rectifier-capacitor front-end such as switch-mode power supplies, computers, office equipment and such produce third-order harmonics that are in-phase on all the supply phases. Consequently, such harmonic currents add in the neutral in a wye system (or in the grounded (zigzag) transformer in a delta system), which can cause the neutral current to exceed the phase current.
+
+Three-phase loads
+An important class of three-phase load is the electric motor. A three-phase induction motor has a simple design, inherently high starting torque and high efficiency. Such motors are applied in industry for many applications. A three-phase motor is more compact and less costly than a single-phase motor of the same voltage class and rating, and single-phase AC motors above 10 hp (7.5 kW) are uncommon. Three-phase motors also vibrate less and hence last longer than single-phase motors of the same power used under the same conditions.
+Resistive heating loads such as electric boilers or space heating may be connected to three-phase systems. Electric lighting may also be similarly connected.
+Line frequency flicker in light is detrimental to high-speed cameras used in sports event broadcasting for slow-motion replays. It can be reduced by evenly spreading line frequency operated light sources across the three phases so that the illuminated area is lit from all three phases. This technique was applied successfully at the 2008 Beijing Olympics.
+Rectifiers may use a three-phase source to produce a six-pulse DC output. The output of such rectifiers is much smoother than rectified single phase and, unlike single-phase, does not drop to zero between pulses. Such rectifiers may be used for battery charging, electrolysis processes such as aluminium production and the electric arc furnace used in steelmaking, and for operation of DC motors. Zigzag transformers may make the equivalent of six-phase full-wave rectification, twelve pulses per cycle, and this method is occasionally employed to reduce the cost of the filtering components, while improving the quality of the resulting DC.
+
+In many European countries electric stoves are usually designed for a three-phase feed with permanent connection. Individual heating units are often connected between phase and neutral to allow for connection to a single-phase circuit if three-phase is not available. Other usual three-phase loads in the domestic field are tankless water heating systems and storage heaters. Homes in Europe have standardized on a nominal 230 V ±10% between any phase and ground. Most groups of houses are fed from a three-phase street transformer so that individual premises with above-average demand can be fed with a second or third phase connection.
+
+Phase converters
+Phase converters are used when three-phase equipment needs to be operated on a single-phase power source. They are used when three-phase power is not available or cost is not justifiable. Such converters may also allow the frequency to be varied, allowing speed control. Some railway locomotives use a single-phase source to drive three-phase motors fed through an electronic drive.
+A rotary phase converter is a three-phase motor with special starting arrangements and power factor correction that produces balanced three-phase voltages. When properly designed, these rotary converters can allow satisfactory operation of a three-phase motor on a single-phase source. In such a device, the energy storage is performed by the inertia (flywheel effect) of the rotating components. An external flywheel is sometimes found on one or both ends of the shaft.
+A three-phase generator can be driven by a single-phase motor. This motor-generator combination can provide a frequency changer function as well as phase conversion, but requires two machines with all their expenses and losses. The motor-generator method can also form an uninterruptible power supply when used in conjunction with a large flywheel and a battery-powered DC motor; such a combination will deliver nearly constant power compared to the temporary frequency drop experienced with a standby generator set gives until the standby generator kicks in.
+Capacitors and autotransformers can be used to approximate a three-phase system in a static phase converter, but the voltage and phase angle of the additional phase may only be useful for certain loads.
+Variable-frequency drives and digital phase converters use power electronic devices to synthesize a balanced three-phase supply from single-phase input power.
+
+Testing
+Verification of the phase sequence in a circuit is of considerable practical importance. Two sources of three-phase power must not be connected in parallel unless they have the same phase sequence, for example, when connecting a generator to an energized distribution network or when connecting two transformers in parallel. Otherwise, the interconnection will behave like a short circuit, and excess current will flow. The direction of rotation of three-phase motors can be reversed by interchanging any two phases; it may be impractical or harmful to test a machine by momentarily energizing the motor to observe its rotation. Phase sequence of two sources can be verified by measuring voltage between pairs of terminals and observing that terminals with very low voltage between them will have the same phase, whereas pairs that show a higher voltage are on different phases.
+Where the absolute phase identity is not required, phase rotation test instruments can be used to identify the rotation sequence with one observation. The phase rotation test instrument may contain a miniature three-phase motor, whose direction of rotation can be directly observed through the instrument case. Another pattern uses a pair of lamps and an internal phase-shifting network to display the phase rotation. Another type of instrument can be connected to a de-energized three-phase motor and can detect the small voltages induced by residual magnetism, when the motor shaft is rotated by hand. A lamp or other indicator lights to show the sequence of voltages at the terminals for the given direction of shaft rotation.
+
+Alternatives to three-phase
+Split-phase electric power
+Used when three-phase power is not available and allows double the normal utilization voltage to be supplied for high-power loads.
+Two-phase electric power
+Uses two AC voltages, with a 90-electrical-degree phase shift between them. Two-phase circuits may be wired with two pairs of conductors, or two wires may be combined, requiring only three wires for the circuit. Currents in the common conductor add to 1.4 times (
+  
+    
+      
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}}
+  
+ ) the current in the individual phases, so the common conductor must be larger. Two-phase and three-phase systems can be interconnected by a Scott-T transformer, invented by Charles F. Scott. Very early AC machines, notably the first generators at Niagara Falls, used a two-phase system, and some remnant two-phase distribution systems still exist, but three-phase systems have displaced the two-phase system for modern installations.
+Monocyclic power
+An asymmetrical modified two-phase power system used by General Electric around 1897, championed by Charles Proteus Steinmetz and Elihu Thomson. This system was devised to avoid patent infringement. In this system, a generator was wound with a full-voltage single-phase winding intended for lighting loads and with a small fraction (usually 1/4 of the line voltage) winding that produced a voltage in quadrature with the main windings. The intention was to use this "power wire" additional winding to provide starting torque for induction motors, with the main winding providing power for lighting loads. After the expiration of the Westinghouse patents on symmetrical two-phase and three-phase power distribution systems, the monocyclic system fell out of use; it was difficult to analyze and did not last long enough for satisfactory energy metering to be developed.
+High-phase-order systems
+Have been built and tested for power transmission. Such transmission lines typically would use six or twelve phases. High-phase-order transmission lines allow transfer of slightly less than proportionately higher power through a given volume without the expense of a high-voltage direct current (HVDC) converter at each end of the line. However, they require correspondingly more pieces of equipment.
+DC
+AC was historically used because it could be easily transformed to higher voltages for long distance transmission. However modern electronics can raise the voltage of DC with high efficiency, and DC lacks skin effect which permits transmission wires to be lighter and cheaper and so high-voltage direct current gives lower losses over long distances.
+
+Color codes
+Conductors of a three-phase system are usually identified by a color code, to facilitate balanced loading and to assure the correct phase rotation for motors. Colors used may adhere to International Standard IEC 60446 (later IEC 60445), older standards or to no standard at all and may vary even within a single installation. For example, in the U.S. and Canada, different color codes are used for grounded (earthed) and ungrounded systems.
+
+See also
+Notes
+References
+Further reading
+Neidhofer, Gerhard (2007). "Early Three-Phase Power [History]". IEEE Power and Energy Magazine. 5 (5): 88–100. doi:10.1109/MPE.2007.904752. ISSN 1540-7977.
+
+External links
+AC Power History and Timeline

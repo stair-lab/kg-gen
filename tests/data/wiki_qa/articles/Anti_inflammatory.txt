@@ -1,0 +1,20 @@
+Anti-inflammatory or antiphlogistic is the property of a substance or treatment that reduces inflammation or swelling. Anti-inflammatory drugs, also called anti-inflammatories, make up about half of analgesics. These drugs remedy pain by reducing inflammation as opposed to opioids, which affect the central nervous system to block pain signaling to the brain.
+
+Drugs
+Nonsteroidals
+Nonsteroidal anti-inflammatory drugs (NSAIDs) alleviate pain by counteracting the cyclooxygenase (COX) enzyme. On its own, COX enzyme synthesizes prostaglandins, creating inflammation. In whole, the NSAIDs prevent the prostaglandins from ever being synthesized, reducing or eliminating the inflammation and resulting pain.
+Some common examples of NSAIDs are aspirin, ibuprofen, and naproxen. The newer specific COX-inhibitors are not classified together with the traditional NSAIDs, even though they presumably share the same mode of action.
+On the other hand, there are analgesics that are commonly associated with anti-inflammatory drugs but that have no anti-inflammatory effects. An example is paracetamol (known as acetaminophen in the U.S). Contrary to NSAIDs, which reduce pain and inflammation by inhibiting COX enzymes, paracetamol has—as early as 2006—been shown to block the reuptake of endocannabinoids, which only reduces pain, likely explaining why it has minimal effect on inflammation; paracetamol is sometimes combined with an NSAID (in place of an opioid) in clinical practice to enhance the pain relief of the NSAID, while still receiving the injury/disease modulating effect of NSAID-induced inflammation reduction (which is not received from opioid/paracetamol combinations).
+
+Side effects
+Long-term use of NSAIDs can cause gastric erosions, which can become stomach ulcers and in extreme cases can cause severe haemorrhage, resulting in death. The risk of death as a result of GI bleeding caused by the use of NSAIDs is 1 in 12,000 for adults aged 16–45. The risk increases almost twentyfold for those over 75. Other dangers of NSAIDs are exacerbating asthma and causing kidney damage. Apart from aspirin, prescription and over-the-counter NSAIDs also increase the risk of heart attack and stroke.
+
+Corticosteroids
+Corticosteroids, specifically glucocorticoids or glucocorticoid receptor agonists, are powerful anti-inflammatory agents, but they are also powerful immunosuppressants and are associated with various toxicities, which constrains their use.
+
+Antileukotrienes
+
+Antileukotrienes are anti-inflammatory agents which function as leukotriene-related enzyme inhibitors (arachidonate 5-lipoxygenase) or leukotriene receptor antagonists (cysteinyl leukotriene receptors), and consequently oppose the function of these inflammatory mediators. Although they are not used for analgesic benefits, they are widely utilized in the treatment of diseases related to inflammation of the lungs, such as asthma and COPD, as well as sinus inflammation in allergic rhinitis. 
+
+
+== References ==

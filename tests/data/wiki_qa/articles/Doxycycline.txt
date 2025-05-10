@@ -1,0 +1,185 @@
+Doxycycline is a broad-spectrum antibiotic of the tetracycline class used in the treatment of infections caused by bacteria and certain parasites. It is used to treat bacterial pneumonia, acne, chlamydia infections, Lyme disease, cholera, typhus, and syphilis. It is also used to prevent malaria. Doxycycline may be taken by mouth or by injection into a vein.
+Common side effects include diarrhea, nausea, vomiting, abdominal pain, and an increased risk of sunburn. Use during pregnancy is not recommended. Like other agents of the tetracycline class, it either slows or kills bacteria by inhibiting protein production. It kills malaria by targeting a plastid organelle, the apicoplast.
+
+Doxycycline was patented in 1957 and came into commercial use in 1967. It is on the World Health Organization's List of Essential Medicines. Doxycycline is available as a generic medicine. In 2022, it was the 68th most commonly prescribed medication in the United States, with more than 9 million prescriptions.
+
+Medical uses
+In addition to the general indications for all members of the tetracycline antibiotics group, doxycycline is frequently used to treat Lyme disease, chronic prostatitis, sinusitis, pelvic inflammatory disease, severe acne, rosacea, and rickettsial infections. The efficiency of oral doxycycline for treating papulopustular rosacea and adult acne is not solely based on its antibiotic properties, but also on its anti-inflammatory and anti-angiogenic properties.
+In Canada, in 2004, doxycycline was considered a first-line treatment for chlamydia and non-gonococcal urethritis and with cefixime for uncomplicated gonorrhea.
+
+Antibacterial
+General indications
+Doxycycline is a broad-spectrum antibiotic that is employed in the treatment of numerous bacterial infections. It is effective against bacteria such as Moraxella catarrhalis, Brucella melitensis, Chlamydia pneumoniae, and Mycoplasma pneumoniae. Additionally, doxycycline is used in the prevention and treatment of serious conditions like anthrax, leptospirosis, bubonic plague, and Lyme disease. However, some bacteria, including Haemophilus spp., Mycoplasma hominis, and Pseudomonas aeruginosa, have shown resistance to doxycycline. It is also effective against Yersinia pestis (the infectious agent of bubonic plague), and is prescribed for the treatment of Lyme disease, ehrlichiosis, and Rocky Mountain spotted fever.
+Specifically, doxycycline is indicated for treatment of the following diseases:
+
+Rocky Mountain spotted fever, typhus fever and the typhus group, scrub typhus, Q fever, rickettsialpox, and tick fevers caused by Rickettsia,
+respiratory tract infections caused by Mycoplasma pneumoniae,
+Lymphogranuloma venereum, trachoma, inclusion conjunctivitis, and uncomplicated urethral, endocervical, or rectal infections in adults caused by Chlamydia trachomatis,
+psittacosis,
+non-gonococcal urethritis caused by Ureaplasma urealyticum,
+relapsing fever due to Borrelia recurrentis,
+chancroid caused by Haemophilus ducreyi,
+plague due to Yersinia pestis,
+tularemia,
+cholera,
+campylobacter fetus infections,
+brucellosis caused by Brucella species (in conjunction with streptomycin),
+bartonellosis,
+granuloma inguinale (Klebsiella species),
+Lyme disease (Borrelia species).
+
+Gram-negative bacteria specific indications
+When bacteriologic testing indicates appropriate susceptibility to the drug, doxycycline may be used to treat these infections caused by Gram-negative bacteria:
+
+Escherichia coli infections,
+Enterobacter aerogenes (formerly Aerobacter aerogenes) infections,
+Shigella species infections,
+Acinetobacter species (formerly Mima species and Herellea species) infections,
+respiratory tract infections caused by Haemophilus influenzae,
+respiratory tract and urinary tract infections caused by Klebsiella species.
+
+Gram-positive bacteria specific indications
+Some Gram-positive bacteria have developed resistance to doxycycline. Up to 44% of Streptococcus pyogenes and up to 74% of S. faecalis specimens have developed resistance to the tetracycline group of antibiotics. Up to 57% of P. acnes strains developed resistance to doxycycline. When bacteriologic testing indicates appropriate susceptibility to the drug, doxycycline may be used to treat these infections caused by Gram-positive bacteria:
+
+upper respiratory infections caused by Streptococcus pneumoniae (formerly Diplococcus pneumoniae),
+skin and soft tissue infections caused by Staphylococcus aureus, including methicillin-resistant Staphylococcus aureus infections,
+anthrax caused by Bacillus anthracis infection.
+
+Specific applications of doxycycline when penicillin is contraindicated
+When penicillin is contraindicated, doxycycline can be used to treat:
+
+syphilis caused by Treponema pallidum,
+yaws caused by Treponema pertenue,
+listeriosis due to Listeria monocytogenes,
+Vincent's infection caused by Fusobacterium fusiforme,
+actinomycosis caused by Actinomyces israelii,
+infections caused by Clostridium species.
+
+Use as adjunctive therapy
+Doxycycline may also be used as adjunctive therapy for severe acne.
+Subantimicrobial-dose doxycycline (SDD) is widely used as an adjunctive treatment to scaling and root planing for periodontitis. Significant differences were observed for all investigated clinical parameters of periodontitis in favor of the scaling and root planing + SDD group where SDD dosage regimens is 20 mg twice daily for three months in a meta-analysis published in 2011. SDD is also used to treat skin conditions such as acne and rosacea, including ocular rosacea. In ocular rosacea, treatment period is 2 to 3 months. After discontinuation of doxycycline, recurrences may occur within three months; therefore, many studies recommend either slow tapering or treatment with a lower dose over a longer period of time.
+Doxycycline is used as an adjunctive therapy for acute intestinal amebiasis.
+Doxycycline is also used as an adjunctive therapy for chancroid.
+
+As prophylaxis against sexually transmitted infections
+Doxycycline is used for post-exposure prophylaxis (PEP) to reduce the incidence of sexually transmitted bacterial infections (STIs), but it has been associated with tetracycline resistance in associated species, in particular, in Neisseria gonorrhoeae. For this reason, the Australian consensus statement mentions that doxycycline for PEP particularly in gay, bisexual, and other men who have sex with men (GBMSM) should be considered only for the prevention of syphilis in GBMSM, and that the risk of increasing antimicrobial resistance outweighed any potential benefit from reductions in other bacterial STIs in GBMSM.
+Appropriate use of doxycycline for PEP is supported by guidelines from the US Centers for Disease Control and Prevention (CDC) and the Australasian Society for HIV Medicine.
+
+Use in combination
+The first-line treatment for brucellosis is a combination of doxycycline and streptomycin. The second-line is a combination of doxycycline and rifampicin (rifampin).
+
+Antimalarial
+Doxycycline is active against the erythrocytic stages of Plasmodium falciparum but not against the gametocytes of P. falciparum. It is used to prevent malaria. It is not recommended alone for initial treatment of malaria, even when the parasite is doxycycline-sensitive, because the antimalarial effect of doxycycline is delayed.
+Doxycycline blocks protein production in apicoplast (an organelle) of P. falciparum—such blocking leads to two main effects: it disrupts the parasite's ability to produce fatty acids, which are essential for its growth, and it impairs the production of heme, a cofactor. These effects occur late in the parasite's life cycle when it is in the blood stage, causing the symptoms of malaria. By blocking important processes in the parasite, doxycycline both inhibits the growth and prevents the multiplication of P. falciparum. It does not directly kill the living organisms of P. falciparum but creates conditions that prevent their growth and replication.
+The World Health Organization (WHO) guidelines state that the combination of doxycycline with either artesunate or quinine may be used for the treatment of uncomplicated malaria due to P. falciparum or following intravenous treatment of severe malaria.
+
+Antihelminthic
+Doxycycline kills the symbiotic Wolbachia bacteria in the reproductive tracts of parasitic filarial nematodes, making the nematodes sterile, and thus reducing transmission of diseases such as onchocerciasis and elephantiasis. Field trials in 2005 showed an eight-week course of doxycycline almost eliminates the release of microfilariae.
+
+Spectrum of susceptibility
+Doxycycline has been used successfully to treat sexually transmitted, respiratory, and ophthalmic infections. Representative pathogenic genera include Chlamydia, Streptococcus, Ureaplasma, Mycoplasma, and others. The following represents minimum inhibitory concentration susceptibility data for a few medically significant microorganisms.
+
+Chlamydia psittaci: 0.03 μg/mL
+Mycoplasma pneumoniae: 0.016–2 μg/mL
+Streptococcus pneumoniae: 0.06–32 μg/mL
+
+Sclerotherapy
+Doxycycline is also used for sclerotherapy in slow-flow vascular malformations, namely venous and lymphatic malformations, as well as post-operative lymphoceles.
+
+Off-label use
+Doxycycline has found off-label use in the treatment of transthyretin amyloidosis (ATTR). Together with tauroursodeoxycholic acid, doxycyclin appears to be a promising combination capable of disrupting transthyretin TTR fibrils in existing amyloid deposits of ATTR patients.
+
+Routes of administration
+Doxycycline can be administered via oral or intravenous routes.
+The combination of doxycycline with dairy, antacids, calcium supplements, iron products, laxatives containing magnesium, or bile acid sequestrants is not inherently dangerous, but any of these foods and supplements may decrease absorption of doxycycline.
+Doxycycline has a high oral bioavailability, as it is almost completely absorbed in the stomach and proximal small intestine. Unlike other tetracyclines, its absorption is not significantly affected by food or dairy intake. However, co-administration of dairy products reduces the serum concentration of doxycycline by 20%. Doxycycline absorption is also inhibited by divalent and trivalent cations, such as iron, bismuth, aluminum, calcium and magnesium. Doxycycline forms unstable complexes with metal ions in the acidic gastric environment, which dissociate in the small intestine, allowing the drug to be absorbed. However, some doxycycline remains complexed with metal ions in the duodenum, resulting in a slight decrease in absorption.
+
+Contraindications
+Severe liver disease or concomitant use of isotretinoin or other retinoids are contraindications, as both tetracyclines and retinoids can cause intracranial hypertension (increased pressure around the brain) in rare cases.
+
+Pregnancy and lactation
+Doxycycline is categorized by the FDA as a class D drug in pregnancy. Doxycycline crosses into breastmilk. Other tetracycline antibiotics are contraindicated in pregnancy and up to eight years of age, due to the potential for disrupting bone and tooth development. They include a class warning about staining of teeth and decreased development of dental enamel in children exposed to tetracyclines in utero, during breastfeeding or during young childhood. However, the FDA has acknowledged that the actual risk of dental staining of primary teeth is undetermined for doxycycline specifically. The best available evidence indicates that doxycycline has little or no effect on hypoplasia of dental enamel or on staining of teeth. The CDC recommends the use of doxycycline for treatment of Q fever and tick-borne rickettsial diseases in young children; others advocate for its use in malaria.
+
+Adverse effects
+Adverse effects are similar to those of other members of the tetracycline antibiotic group. Doxycycline can cause gastrointestinal upset. Oral doxycycline can cause pill esophagitis, particularly when it is swallowed without adequate fluid, or by persons with difficulty swallowing or impaired mobility. Doxycycline is less likely than other antibiotic drugs to cause Clostridioides difficile colitis.
+An erythematous rash in sun-exposed parts of the body has been reported to occur in 7.3–21.2% of persons taking doxycycline as prophylaxis against malaria. One study examined the tolerability of various malaria prophylactic regimens and found doxycycline did not cause a significantly higher percentage of all skin events (photosensitivity not specified) when compared with other antimalarials. The rash resolves upon discontinuation of the drug.
+Unlike some other members of the tetracycline group, it may be used in those with renal impairment.
+Doxycycline use has been associated with increased risk of inflammatory bowel disease. In one large retrospective study, patients who were prescribed doxycycline for their acne had a 2.25-fold greater risk of developing Crohn's disease.
+
+Interactions
+Previously, doxycycline was believed to impair the effectiveness of many types of hormonal contraception due to CYP450 induction. Research has shown no significant loss of effectiveness in oral contraceptives while using most tetracycline antibiotics (including doxycycline), although many physicians still recommend the use of barrier contraception for people taking the drug to prevent unwanted pregnancy.
+
+Pharmacology
+Doxycycline, like other tetracycline antibiotics, is bacteriostatic. It works by preventing bacteria from reproducing by inhibiting protein synthesis.
+Doxycycline is highly lipophilic, so it can easily enter cells, meaning the drug is easily absorbed after oral administration and has a large volume of distribution. It can also be re-absorbed in the renal tubules and gastrointestinal tract due to its high lipophilicity, giving it a long elimination half-life. It is also prevented from accumulating in the kidneys of patients with kidney failure due to the compensatory excretion in faeces. Doxycycline–metal ion complexes are unstable at acidic pH, therefore more doxycycline enters the duodenum for absorption than the earlier tetracycline compounds. In addition, food has less effect on the absorption of doxycycline than on the absorption of earlier drugs, with doxycycline serum concentrations being reduced by about 20% by test meals compared with 50% for tetracycline.
+
+Mechanism of action
+Doxycycline is a broad-spectrum bacteriostatic antibiotic. It inhibits the synthesis of bacterial proteins by binding to the 30S ribosomal subunit, which is only found in bacteria. This prevents the binding of transfer RNA to messenger RNA at the ribosomal subunit, meaning amino acids cannot be added to polypeptide chains and new proteins cannot be made. This stops bacterial growth, giving the immune system time to kill and remove the bacteria.
+
+Pharmacokinetics
+The substance is almost completely absorbed from the upper part of the small intestine. It reaches highest concentrations in the blood plasma after one to two hours and has a high plasma protein binding rate of about 80–90%. Doxycycline penetrates into almost all tissues and body fluids. Very high concentrations are found in the gallbladder, liver, kidneys, lungs, breast milk, bones, and genitals; low concentrations are found in saliva, aqueous humor, cerebrospinal fluid (CSF), and especially in inflamed meninges. By comparison, the tetracycline antibiotic minocycline penetrates significantly better into the CSF and meninges.
+Doxycycline metabolism is negligible. It is actively excreted into the gut (in part via the gallbladder, in part directly from blood vessels), where some of it is inactivated by forming chelates. About 40% are eliminated via the kidneys, much less in people with end-stage kidney disease. The biological half-life is 18 to 22 hours (16 ± 6 hours according to another source) in healthy people, slightly longer in those with end-stage kidney disease, and significantly longer in those with liver disease.
+
+Chemistry
+Expired tetracyclines or tetracyclines allowed to stand at a pH less than 2 are reported to be nephrotoxic due to the formation of a degradation product, anhydro-4-epitetracycline causing Fanconi syndrome. In the case of doxycycline, the absence of a hydroxyl group in C-6 prevents the formation of the nephrotoxic compound. Nevertheless, tetracyclines and doxycycline itself have to be taken with caution in patients with kidney injury, as they can worsen azotemia due to catabolic effects.
+
+Chemical properties
+Doxycycline, doxycycline monohydrate and doxycycline hyclate are yellow, crystalline powders with a bitter taste. The latter smells faintly of ethanol, a 1% aqueous solution has a pH of 2–3, and the specific rotation is 
+  
+    
+      
+        [
+        α
+        
+          ]
+          
+            D
+          
+          
+            25
+          
+        
+      
+    
+    {\displaystyle [\alpha ]_{D}^{25}}
+  
+ −110° cm3/dm·g in 0.01 N methanolic hydrochloric acid.
+
+History
+After penicillin revolutionized the treatment of bacterial infections in World War II, many chemical companies moved into the field of discovering antibiotics by bioprospecting. American Cyanamid was one of these, and in the late 1940s chemists there discovered chlortetracycline, the first member of the tetracycline class of antibiotics. Shortly thereafter, scientists at Pfizer discovered oxytetracycline and it was brought to market. Both compounds, like penicillin, were natural products and it was commonly believed that nature had perfected them, and further chemical changes could only degrade their effectiveness. Scientists at Pfizer led by Lloyd Conover modified these compounds, which led to the invention of tetracycline itself, the first semi-synthetic antibiotic. Charlie Stephens' group at Pfizer worked on further analogs and created one with greatly improved stability and pharmacological efficacy: doxycycline. It was clinically developed in the early 1960s and approved by the FDA in 1967.
+As its patent grew near to expiring in the early 1970s, the patent became the subject of lawsuit between Pfizer and International Rectifier that was not resolved until 1983; at the time it was the largest litigated patent case in US history. Instead of a cash payment for infringement, Pfizer took the veterinary and feed-additive businesses of International Rectifier's subsidiary, Rachelle Laboratories.
+In January 2013, the FDA reported shortages of some, but not all, forms of doxycycline "caused by increased demand and manufacturing issues". Companies involved included an unnamed major generics manufacturer that ceased production in February 2013, Teva (which ceased production in May 2013), Mylan, Actavis, and Hikma Pharmaceuticals. The shortage came at a particularly bad time, since there were also shortages of an alternative antibiotic, tetracycline, at the same time. The market price for doxycycline dramatically increased in the United States in 2013 and early 2014 (from $20 to over $1800 for a bottle of 500 tablets), before decreasing again.
+
+Society and culture
+Doxycycline is available worldwide under many brand names. Doxycycline is available as a generic medicine. Doxycycline is also used in the prevention of certain sexually transmitted infections, particularly among men who have sex with men.
+
+Research
+Medical conditions
+Research areas on the application of doxycycline include the following medical conditions:
+
+macular degeneration;
+rheumatoid arthritis instead of minocycline (both of which have demonstrated modest efficacy for this disease).
+
+Dosing
+Although doxycycline is approved to treat Lyme disease, the optimal dosing and duration of treatment for this condition is a topic of ongoing research. it can be used in adults and children. For treatment or prophylaxis of Lyme disease in children, it can be used for a duration of up to 21 days in children of any age. Doxycycline is specifically indicated to treat Lyme disease for patients presenting with erythema migrans. As for the optimal duration of treatment of this disease, guidelines vary, with some recommending a 10-day course of doxycycline, while others suggest a 14-day course; still, recent data suggest that even a 7-day course of doxycycline can be effective. Compared to other drugs, there are no significant differences in treatment response across antibiotic agents, doses, or durations when comparing 14 days versus 21 days; as such, the optimal duration of treatment of Lyme disease remains uncertain, as prolonged antibiotic courses have drawbacks, including diminishing returns in terms of patient outcomes, heightened risks of adverse events, superinfections, increased healthcare costs, and the potential for development of antibiotic resistance. Therefore, the consensus remains to treat patients with the shortest effective duration of antibiotics, as is the case with doxycycline for Lyme disease as well.
+
+Anti-inflammatory agent
+Some studies show doxycycline as a potential agent to possess anti-inflammatory properties acting by inhibiting proinflammatory cytokines such as interleukin-1 (IL-1), interleukin-6 (IL-6), tumor necrosis factor-alpha (TNF-α), and matrix metalloproteinases (MMPs) while increasing the production of anti-inflammatory cytokines such as interleukin-10 (IL-10). Cytokines are small proteins that are secreted by immune cells and play a key role in the immune response. Some studies suggest that doxycycline can suppress the activation of the nuclear factor-kappa B (NF-κB) pathway, which is responsible for upregulating several inflammatory mediators in various cells, including neurons; therefore, it is studied as a potential agent for treating neuroinflammation.
+A potential explanation of doxycycline's anti-inflammatory properties is its inhibition of matrix metalloproteinases (MMPs), which are a group of proteases known to regulate the turnover of extracellular matrix (ECM) and thus are suggested to be important in the process of several diseases associated with tissue remodeling and inflammation. Doxycycline has been shown to inhibit MMPs, including matrilysin (MMP7), by interacting with the structural zinc atom and/or calcium atoms within the structural metal center of the protein.
+Doxycycline also inhibits allikrein-related peptidase 5 (KLK5). The inhibition of MMPs and KLK5 enzymes subsequently suppresses the expression of LL-37, a cathelicidin antimicrobial peptide that, when overexpressed, can trigger inflammatory cascades. By inhibiting LL-37 expression, doxycycline helps to mitigate these downstream inflammatory cascades, thereby reducing inflammation and the symptoms of inflammatory conditions.
+Doxycycline is used to treat acne vulgaris and rosacea. However, there is no clear understanding of what contributes more: the bacteriostatic properties of doxycycline, which affect bacteria (such as Propionibacterium acnes) on the surface of sebaceous glands even in lower doses called "submicrobial" or "subantimicrobial", or whether doxycycline's anti-inflammatory effects, which reduce inflammation in acne vulgaris and rosacea, including ocular rosacea, contribute more to its therapeutic effectiveness against these skin conditions. Subantimicrobial-dose doxycycline (SDD) can still have a bacteriostatic effect, especially when taken for extended periods, such as several months in treating acne and rosacea. While the SDD is believed to have anti-inflammatory effects rather than solely antibacterial effects, SDD was proven to work by reducing inflammation associated with acne and rosacea. Still, the exact mechanisms have yet to be fully discovered. One probable mechanism is doxycycline's ability to decrease the amount of reactive oxygen species (ROS). Inflammation in rosacea may be associated with increased production of ROS by inflammatory cells; these ROS contribute toward exacerbating symptoms. Doxycycline may reduce ROS levels and induce antioxidant activity because it directly scavenges hydroxyl radicals and singlet oxygen, helping minimize tissue damage caused by highly oxidative and inflammatory conditions. Studies have shown that SDD can effectively improve acne and rosacea symptoms, probably without inducing antibiotic resistance. It is observed that doxycycline exerts its anti-inflammatory effects by inhibiting neutrophil chemotaxis and oxidative bursts, which are common mechanisms involved in inflammation and ROS activity in rosacea and acne.
+Doxycycline's dual benefits as an antibacterial and anti-inflammatory make it a helpful treatment option for diseases involving inflammation not only of the skin, such as rosacea and acne, but also in conditions such as osteoarthritis or periodontitis. Nevertheless, current results are inconclusive, and evidence of doxycycline's anti-inflammatory properties needs to be improved, considering conflicting reports from animal models so far. Doxycycline has been studied in various immunological disorders, including rheumatoid arthritis, lupus, and periodontitis. In these conditions, doxycycline has been researched to determine anti-inflammatory and immunomodulatory effects that could be beneficial in treating these conditions. However, a solid conclusion still needs to be provided.
+Doxycycline is also studied for its neuroprotective properties which are associated with antioxidant, anti-apoptotic, and anti-inflammatory mechanisms. In this context, it is important to note that doxycycline is able to cross the blood–brain barrier. Several studies have shown that doxycycline inhibits dopaminergic neurodegeneration through the upregulation of axonal and synaptic proteins. Axonal degeneration and synaptic loss are key events at the early stages of neurodegeneration and precede neuronal death in neurodegenerative diseases, including Parkinson's disease (PD). Therefore, the regeneration of the axonal and synaptic network might be beneficial in PD. It has been demonstrated that doxycycline mimics nerve growth factor (NGF) signaling in PC12 cells. However, the involvement of this mechanism in the neuroprotective effect of doxycycline is unknown. Doxycycline is also studied in reverting inflammatory changes related to depression. While there is some research on the use of doxycycline for treating major depressive disorder, the results are mixed.
+After a large-scale trial showed no benefit of using doxycycline in treating COVID‑19, the UK's National Institute for Health and Care Excellence (NICE) updated its guidance to not recommend the medication for the treatment of COVID‑19. Doxycycline was expected to possess anti-inflammatory properties that could lessen the cytokine storm associated with a SARS-CoV-2 infection, but the trials did not demonstrate the expected benefit. Researchers also believed that doxycycline possesses anti-inflammatory and immunomodulatory effects that could reduce the production of cytokines in COVID-19, but these supposed effects failed to improve the outcome of COVID-19 treatment.
+
+Wound healing
+Research on novel drug formulations for the delivery of doxycycline in wound treatment is expanding, focusing on overcoming stability limitations for long-term storage and developing consumer-friendly, parenteral antibiotic delivery systems. The most common and practical form of doxycycline delivery is through wound dressings, which have evolved from mono- to three-layered systems to maximize healing effectiveness.
+Research directions on the use of doxycycline in wound healing include the continuous stabilization of doxycycline, scaling up technology and industrial production, and exploring non-contact wound treatment methods like sprays and aerosols for use in emergencies and when medical care is not readily accessible.
+
+Research reagent
+Doxycycline and other members of the tetracycline class of antibiotics are often used as research reagents in in vitro and in vivo biomedical research experiments involving bacteria as well in experiments in eukaryotic cells and organisms with inducible protein expression systems using tetracycline-controlled transcriptional activation. The mechanism of action for the antibacterial effect of tetracyclines relies on disrupting protein translation in bacteria, thereby damaging the ability of microbes to grow and repair; however protein translation is also disrupted in eukaryotic mitochondria impairing metabolism and leading to effects that can confound experimental results. Doxycycline is also used in "tet-on" (gene expression activated by doxycycline) and "tet-off" (gene expression inactivated by doxycycline) tetracycline-controlled transcriptional activation to regulate transgene expression in organisms and cell cultures. Doxycycline is more stable than tetracycline for this purpose. At subantimicrobial doses, doxycycline is an inhibitor of matrix metalloproteases, and has been used in various experimental systems for this purpose, such as for recalcitrant recurrent corneal erosions.
+
+References
+
+
+== External links ==

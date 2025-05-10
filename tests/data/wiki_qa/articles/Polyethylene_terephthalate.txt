@@ -1,0 +1,145 @@
+Polyethylene terephthalate (or poly(ethylene terephthalate), PET, PETE, or the obsolete PETP or PET-P), is the most common thermoplastic polymer resin of the polyester family and is used in fibres for clothing, containers for liquids and foods, and thermoforming for manufacturing, and in combination with glass fibre for engineering resins.
+In 2016, annual production of PET was 56 million tons. The biggest application is in fibres (in excess of 60%), with bottle production accounting for about 30% of global demand. In the context of textile applications, PET is referred to by its common name, polyester, whereas the acronym PET is generally used in relation to packaging. PET used in non-fiber applications (i.e. for packaging) makes up about 6% of world polymer production by mass. Accounting for the >60% fraction of polyethylene terephthalate produced for use as polyester fibers, PET is the fourth-most-produced polymer after polyethylene (PE), polypropylene (PP) and polyvinyl chloride (PVC).
+PET consists of repeating (C10H8O4) units. PET is commonly recycled, and has the digit 1 (♳) as its resin identification code (RIC). The National Association for PET Container Resources (NAPCOR) defines PET as: "Polyethylene terephthalate items referenced are derived from terephthalic acid (or dimethyl terephthalate) and mono ethylene glycol, wherein the sum of terephthalic acid (or dimethyl terephthalate) and mono ethylene glycol reacted constitutes at least 90 percent of the mass of monomer reacted to form the polymer, and must exhibit a melting peak temperature between 225 °C and 255 °C, as identified during the second thermal scan in procedure 10.1 in ASTM D3418, when heating the sample at a rate of 10 °C/minute."
+Depending on its processing and thermal history, polyethylene terephthalate may exist both as an amorphous (transparent) and as a semi-crystalline polymer. The semicrystalline material might appear transparent (particle size less than 500 nm) or opaque and white (particle size up to a few micrometers) depending on its crystal structure and particle size.
+One process for making PET uses bis(2-hydroxyethyl) terephthalate, which can be synthesized by the esterification reaction between terephthalic acid and ethylene glycol with water as a byproduct (this is also known as a condensation reaction), or by transesterification reaction between ethylene glycol and dimethyl terephthalate (DMT) with methanol as a byproduct. It can also be obtained by recycling of PET itself.  Polymerization is through a polycondensation reaction of the monomers (done immediately after esterification/transesterification) with water as the byproduct.
+
+Uses
+Textiles
+Polyester fibres are widely used in the textile industry. The invention of the polyester fibre is attributed to J. R. Whinfield. It was first commercialized in the 1940s by ICI, under the brand 'Terylene'.  Subsequently E. I. DuPont launched the brand 'Dacron'. As of 2022, there are many brands around the world, mostly Asian.
+Polyester fibres are used in fashion apparel often blended with cotton, as heat insulation layers in thermal wear, sportswear and workwear and automotive upholstery.
+
+Rigid packaging
+Plastic bottles made from PET are widely used for soft drinks, both still and sparkling. For beverages that are degraded by oxygen, such as beer, a multilayer structure is used. PET sandwiches an additional polyvinyl alcohol (PVOH) or polyamide (PA) layer to further reduce its oxygen permeability.
+Non-oriented PET sheet can be thermoformed to make packaging trays and blister packs.  Both amorphous PET and BoPET are transparent to the naked eye.  Color-conferring dyes can easily be formulated into PET sheet.
+PET is permeable to oxygen and carbon dioxide and this imposes shelf life limitations of contents packaged in PET.: 104 
+In the early 2000s, the global PET packaging market grew at a compound annual growth rate of 9% to €17 billion in 2006.
+
+Flexible packaging
+Biaxially oriented PET (BOPET) film (including brands like "Mylar") can be aluminized by evaporating a thin film of metal onto it to reduce its permeability, and to make it reflective and opaque (MPET). These properties are useful in many applications, including flexible food packaging and thermal insulation (such as space blankets).
+
+Photovoltaic modules
+BOPET is used in the backsheet of photovoltaic modules.  Most backsheets consist of a layer of BOPET laminated to a fluoropolymer or a layer of UV stabilized BOPET.
+PET is also used as a substrate in thin film solar cells.
+
+Thermoplastic resins
+PET can be compounded with glass fibre and crystallization accelerators, to make thermoplastic resins.  These can be injection moulded into parts such as housings, covers, electrical appliance components and elements of the ignition system.
+
+Nanodiamonds
+PET is stoichiometrically a mixture of carbon and H2O, and therefore has been used in an experiment involving laser-driven shock compression which created nanodiamonds and superionic water. This could be a possible way of producing nanodiamonds commercially.
+
+Other applications
+A waterproofing barrier in undersea cables.
+As a film base.
+As a fibre, spliced into bell rope tops to help prevent wear on the ropes as they pass through the ceiling.
+Since late 2014 as liner material in type IV composite high pressure gas cylinders. PET works as a much better barrier to oxygen than earlier used (LD)PE.
+As a 3D printing filament, as well as in the 3D printing plastic PETG (polyethylene terephthalate glycol). In 3D printing PETG has become a popular material - used for high-end applications like surgical fracture tables to automotive and aeronautical sectors, among other industrial applications. The surface properties can be modified to make PETG self-cleaning for applications like the fabrication of traffic signs for the manufacture of light-emitting diode LED spotlights.
+As one of three layers for the creation of glitter; acting as a plastic core coated with aluminum and topped with plastic to create a light reflecting surface, although as of 2021 many glitter manufacturing companies have begun to phase out the use of PET after calls from organizers of festivals to create bio-friendly glitter alternatives.
+Film for tape applications, such as the carrier for magnetic tape or backing for pressure-sensitive adhesive tapes.  Digitalization has caused the virtual disappeance of the magnetic audio and videotape application.
+Water-resistant paper.
+
+History
+PET was patented in 1941 by John Rex Whinfield, James Tennant Dickson and their employer the Calico Printers' Association of Manchester, England. E. I. DuPont de Nemours in Delaware, United States, first produced Dacron (PET fiber) in 1950 and used the trademark Mylar (boPET film) in June 1951 and received registration of it in 1952. It is still the best-known name used for polyester film. The current owner of the trademark is DuPont Teijin Films.
+In the Soviet Union, PET was first manufactured in the laboratories of the Institute of High-Molecular Compounds of the USSR Academy of Sciences in 1949, and its name "Lavsan" is an acronym thereof (лаборатории Института высокомолекулярных соединений Академии наук СССР).
+The PET bottle was invented in 1973 by Nathaniel Wyeth and patented by DuPont.
+
+Physical properties
+PET in its most stable state is a colorless, semi-crystalline resin. However it is intrinsically slow to crystallize compared to other semicrystalline polymers. Depending on processing conditions it can be formed into either non-crystalline (amorphous) or crystalline articles.  Its amenability to drawing in manufacturing makes PET useful in fibre and film applications. Like most aromatic polymers, it has better barrier properties than aliphatic polymers. It is strong and impact-resistant. PET is hygroscopic and absorbs water.
+About 60% crystallization is the upper limit for commercial products, with the exception of polyester fibers. Transparent products can be produced by rapidly cooling molten polymer below the glass transition temperature (Tg) to form a non-crystalline amorphous solid. Like glass, amorphous PET forms when its molecules are not given enough time to arrange themselves in an orderly, crystalline fashion as the melt is cooled. While at room temperature the molecules are frozen in place, if enough heat energy is put back into them afterward by heating the material above Tg, they can begin to move again, allowing crystals to nucleate and grow. This procedure is known as solid-state crystallization. Amorphous PET also crystallizes and becomes opaque when exposed to solvents, such as chloroform or toluene.
+A more crystalline product can be produced by allowing the molten polymer to cool slowly. Rather than forming one large single crystal, this material has a number of spherulites (crystallized areas) each containing many small crystallites (grains). Light tends to scatter as it crosses the boundaries between crystallites and the amorphous regions between them, causing the resulting solid to be translucent. Orientation also renders polymers more transparent. This is why BOPET film and bottles are both crystalline, to a degree, and transparent.
+
+Flavor absorption
+PET has an affinity for hydrophobic flavors, and drinks sometimes need to be formulated with a higher flavor dosage, compared to those going into glass, to offset the flavor taken up by the container.: 115  While heavy gauge PET bottles returned for re-use, as in some EU countries, the propensity of PET to absorb flavors makes it necessary to conduct a "sniffer test" on returned bottles to avoid cross-contamination of flavors.: 115
+
+Intrinsic viscosity
+Different applications of PET require different degrees of polymerization, which can be obtained by modifying the process conditions.  The molecular weight of PET is measured by solution viscosity. The preferred method to measure this viscosity is the intrinsic viscosity (IV) of the polymer. Intrinsic viscosity is a dimensionless measurement found by extrapolating the relative viscosity (measured in (dℓ/g)) to zero concentration. Shown below are the IV ranges for common applications:
+
+Copolymers
+PET is often copolymerized with other diols or diacids to optimize the properties for particular applications.
+
+PETG
+For example, cyclohexanedimethanol (CHDM) can be added to the polymer backbone in place of ethylene glycol. Since this building block is much larger (six additional carbon atoms) than the ethylene glycol unit it replaces, it does not fit in with the neighboring chains the way an ethylene glycol unit would. This interferes with crystallization and lowers the polymer's melting temperature. In general, such PET is known as PETG or PET-G (polyethylene terephthalate glycol-modified). It is a clear amorphous thermoplastic that can be injection-molded, sheet-extruded or extruded as filament for 3D printing. PETG can be colored during processing.
+
+Isophthalic acid
+Another common modifier is isophthalic acid, replacing some of the 1,4-(para-) linked terephthalate units. The 1,2-(ortho-) or 1,3-(meta-) linkage produces an angle in the chain, which also disturbs crystallinity.
+
+Advantages
+Such copolymers are advantageous for certain molding applications, such as thermoforming, which is used for example to make tray or blister packaging from co-PET film, or amorphous PET sheet (A-PET/PETA) or PETG sheet. On the other hand, crystallization is important in other applications where mechanical and dimensional stability are important, such as seat belts. For PET bottles, the use of small amounts of isophthalic acid, CHDM, diethylene glycol (DEG) or other comonomers can be useful: if only small amounts of comonomers are used, crystallization is slowed but not prevented entirely. As a result, bottles are obtainable via stretch blow molding ("SBM"), which are both clear and crystalline enough to be an adequate barrier to aromas and even gases, such as carbon dioxide in carbonated beverages.
+
+Production
+Polyethylene terephthalate is produced largely from purified terephthalic acid (PTA), as well as to a lesser extent from (mono-)ethylene glycol (MEG) and dimethyl terephthalate (DMT).  As of 2022, ethylene glycol is made from ethene found in natural gas, while terephthalic acid comes from p-xylene made from crude oil.  Typically an antimony or titanium compound is used as a catalyst, a phosphite is added as a stabilizer and a bluing agent such as cobalt salt is added to mask any yellowing.
+
+Processes
+Dimethyl terephthalate process
+In the dimethyl terephthalate (DMT) process, DMT and excess ethylene glycol (MEG) are transesterified in the melt at 150–200 °C with a basic catalyst. Methanol (CH3OH) is removed by distillation to drive the reaction forward. Excess MEG is distilled off at higher temperature with the aid of vacuum. The second transesterification step proceeds at 270–280 °C, with continuous distillation of MEG as well.
+The reactions can be summarized as follows:
+
+First step
+C6H4(CO2CH3)2 + 2 HOCH2CH2OH → C6H4(CO2CH2CH2OH)2 + 2 CH3OH
+Second step
+n C6H4(CO2CH2CH2OH)2 → [(CO)C6H4(CO2CH2CH2O)]n + n HOCH2CH2OH
+
+Terephthalic acid process
+In the terephthalic acid process, MEG and PTA are esterified directly at moderate pressure (2.7–5.5 bar) and high temperature (220–260 °C). Water is eliminated in the reaction, and it is also continuously removed by distillation:
+
+n C6H4(CO2H)2 + n HOCH2CH2OH → [(CO)C6H4(CO2CH2CH2O)]n + 2n H2O
+
+Bio-PET
+Bio-PET is the bio-based counterpart of PET.  Essentially in Bio-PET, the MEG is manufactured from ethylene derived from sugar cane ethanol.  A better process based on oxidation of ethanol has been proposed, and it is also technically possible to make PTA from readily available bio-based furfural.
+
+Bottle processing equipment
+There are two basic molding methods for PET bottles, one-step and two-step. In two-step molding, two separate machines are used. The first machine injection molds the preform, which resembles a test tube, with the bottle-cap threads already molded into place. The body of the tube is significantly thicker, as it will be inflated into its final shape in the second step using stretch blow molding.
+In the second step, the preforms are heated rapidly and then inflated against a two-part mold to form them into the final shape of the bottle. Preforms (uninflated bottles) are now also used as robust and unique containers themselves; besides novelty candy, some Red Cross chapters distribute them as part of the Vial of Life program to homeowners to store medical history for emergency responders.
+The two-step process lends itself to third party production remote from the user site.  The preforms can be transported and stored by the thousand in a much smaller space than would finished containers, for the second stage to be carried out on the user site on a 'just in time' basis.
+In one-step machines, the entire process from raw material to finished container is conducted within one machine, making it especially suitable for molding non-standard shapes (custom molding), including jars, flat oval, flask shapes, etc. Its greatest merit is the reduction in space, product handling and energy, and far higher visual quality than can be achieved by the two-step system.
+
+Degradation
+PET is subject to degradation during processing. If the moisture level is too high, hydrolysis will reduce the molecular weight by chain scission, resulting in brittleness. If the residence time and/or melt temperature (temperature at melting) are too high, then thermal degradation or thermooxidative degradation will occur resulting in discoloration and reduced molecular weight, as well as the formation of acetaldehyde, and the formation "gel" or "fish-eye" formations through cross-linking. Mitigation measures include copolymerisation with other monomers like CHDM or isophthalic acid, which lower the melting point and thus the melt temperature of the resin, as well as the addition of polymer stabilisers such as phosphites.
+
+Acetaldehyde
+Acetaldehyde, which can form by degradation of PET after mishandling of the material, is a colorless, volatile substance with a fruity smell. Although it forms naturally in some fruit, it can cause an off-taste in bottled water. As well as high temperatures (PET decomposes above 300 °C or 570 °F) and long barrel residence times, high pressures and high extruder speeds (which cause shear raising the temperature), can also contribute to the production of acetaldehyde. Photo-oxidation can also cause the gradual formation acetaldehyde over the object's lifespan. This proceeds via a Type II Norrish reaction.
+
+When acetaldehyde is produced, some of it remains dissolved in the walls of a container and then diffuses into the product stored inside, altering the taste and aroma. This is not such a problem for non-consumables (such as shampoo), for fruit juices (which already contain acetaldehyde), or for strong-tasting drinks like soft drinks. For bottled water, however, low acetaldehyde content is quite important, because if nothing masks the aroma, even extremely low concentrations (10–20 parts per billion in the water) of acetaldehyde can produce an off-taste.
+
+Safety and environmental concerns
+Commentary published in Environmental Health Perspectives in April 2010 suggested that PET might yield endocrine disruptors under conditions of common use and recommended research on this topic. Proposed mechanisms include leaching of phthalates as well as leaching of antimony.
+An article published in Journal of Environmental Monitoring in April 2012 concludes that antimony concentration in deionized water stored in PET bottles stays within EU's acceptable limit even if stored briefly at temperatures up to 60 °C (140 °F), while bottled contents (water or soft drinks) may occasionally exceed the EU limit after less than a year of storage at room temperature.
+
+Antimony
+Antimony (Sb) is a metalloid element that is used as a catalyst in the form of compounds such as antimony trioxide (Sb2O3) or antimony triacetate in the production of PET. After manufacturing, a detectable amount of antimony can be found on the surface of the product. This residue can be removed with washing. Antimony also remains in the material itself and can, thus, migrate out into food and drinks. Exposing PET to boiling or microwaving can increase the levels of antimony significantly, possibly above US EPA maximum contamination levels.
+The drinking water limit assessed by WHO is 20 parts per billion (WHO, 2003), and the drinking water limit in the United States is 6 parts per billion. Although antimony trioxide is of low toxicity when taken orally, its presence is still of concern. The Swiss Federal Office of Public Health investigated the amount of antimony migration, comparing waters bottled in PET and glass: The antimony concentrations of the water in PET bottles were higher, but still well below the allowed maximum concentration. The Swiss Federal Office of Public Health concluded that small amounts of antimony migrate from the PET into bottled water, but that the health risk of the resulting low concentrations is negligible (1% of the "tolerable daily intake" determined by the WHO). A later (2006) but more widely publicized study found similar amounts of antimony in water in PET bottles.
+The WHO has published a risk assessment for antimony in drinking water.
+Fruit juice concentrates (for which no guidelines are established), however, that were produced and bottled in PET in the UK were found to contain up to 44.7 μg/L of antimony, well above the EU limits for tap water of 5 μg/L.
+
+Shed microfibres
+Clothing sheds microfibres in use, during washing and machine drying. Plastic litter slowly forms small particles. Microplastics which are present on the bottom of the river or seabed can be ingested by small marine life, thus entering the food chain. As PET has a higher density than water, a significant amount of PET microparticles may be precipitated in sewage treatment plants. PET microfibers generated by apparel wear, washing or machine drying can become airborne, and be dispersed into fields, where they are ingested by livestock or plants and end up in the human food supply. An study published in the journal Science of The Total Environment found PET accounted for 18% of microplastics in human lung tissue samples, and that there were 0.69 ± 0.84 microplastics per gram of lung tissue.
+SAPEA have declared that such particles 'do not pose a widespread risk'.
+PET is known to degrade when exposed to sunlight and oxygen.  As of 2016, scarce information exists regarding the life-time of the synthetic polymers in the environment.
+
+Polyester recycling
+While most thermoplastics can, in principle, be recycled, PET bottle recycling is more practical than many other plastic applications because of the high value of the resin and the almost exclusive use of PET for widely used water and carbonated soft drink bottling. PET bottles lend themselves well to recycling (see below).  In many countries PET bottles are recycled to a substantial degree, for example about 75% in Switzerland. The term rPET is commonly used to describe the recycled material, though it is also referred to as R-PET or post-consumer PET (POSTC-PET).
+The prime uses for recycled PET are polyester fiber, strapping, and non-food containers. Because of the recyclability of PET and the relative abundance of post-consumer waste in the form of bottles, PET is also rapidly gaining market share as a carpet fiber. PET, like many plastics, is also an excellent candidate for thermal disposal (incineration), as it is composed of carbon, hydrogen, and oxygen, with only trace amounts of catalyst elements (but no sulfur). In general, PET can either be chemically recycled into its original raw materials (PTA, DMT, and EG), destroying the polymer structure completely; mechanically recycled into a different form, without destroying the polymer; or recycled in a process that includes transesterification and the addition of other glycols, polyols, or glycerol to form a new polyol. The polyol from the third method can be used in polyurethane (PU foam) production, or epoxy-based products, including paints.
+In 2023 a process was announced for using PET as the basis for supercapacitor production. PET, being stoichiometrically carbon and H2O, can be turned into a form of carbon containing sheets and nanospheres, with a very high surface area. The process involves holding a mixture of PET, water, nitric acid, and ethanol at a high temperature and pressure for eight hours, followed by centrifugation and drying.
+Significant investments were announced in 2021 and 2022 for chemical recycling of PET by glycolysis, methanolysis, and enzymatic recycling to recover monomers. Initially these will also use bottles as feedstock but it is expected that fibres will also be recycled this way in future.
+PET is also a desirable fuel for waste-to-energy plants, as it has a high calorific value which helps to reduce the use of primary resources for energy generation.
+
+Biodegradation
+At least one species of bacterium in the genus Nocardia can degrade PET with an esterase enzyme.  Esterases are enzymes able to cleave the ester bond between two oxygens that links subunits of PET.  The initial degradation of PET can also be achieved esterases expressed by Bacillus, as well as Nocardia. Japanese scientists have isolated another bacterium, Ideonella sakaiensis, that possesses two enzymes which can break down the PET into smaller pieces digestible by the bacteria. A colony of I. sakaiensis can disintegrate a plastic film in about six weeks. French researchers report developing an improved PET hydrolase that can depolymerize (break apart) at least 90 percent of PET in 10 hours, breaking it down into individual monomers. Also, an enzyme based on a natural PET-ase was designed with the help of a machine learning algorithm to be able to tolerate pH and temperature changes by the University of Texas at Austin. The PET-ase was found to able to degrade various products and could break them down as fast as 24 hours.
+
+See also
+BoPET (biaxially oriented PET)
+Bioplastic
+PET bottle recycling
+Plastic recycling
+Polycyclohexylenedimethylene terephthalate—a polyester with a similar structure to PET
+Polyester
+Solar water disinfection—a method of disinfecting water using only sunlight and plastic PET bottles
+
+References
+External links
+Arropol commercial producer of polyol from post-consumer PET fiber
+
+American Plastics Council: PlasticInfo.org
+KenPlas Industry Ltd.: "What is PET (Polyethylene Terephthalate)" Archived 10 December 2007 at the Wayback Machine
+PET vs PETg: What’s the Difference?
+"WAVE Polymer Technology: PET (Polyethylene Terephthalate) flakes processing"

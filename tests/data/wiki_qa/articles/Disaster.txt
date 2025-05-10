@@ -1,0 +1,59 @@
+A disaster is an event that causes serious harm to people, buildings, economies, or the environment, and the affected community cannot handle it alone. Natural disasters like avalanches, floods, earthquakes, and wildfires are caused by natural hazards. Human-made disasters like oil spills, terrorist attacks and power outages are caused by people. Nowadays, it is hard to separate natural and human-made disasters because human actions can make natural disasters worse. Climate change also affects how often disasters due to extreme weather hazards happen.
+Disasters usually hit people in developing countries harder than people in wealthy countries. Over 95% of deaths from disasters happen in low-income countries, and those countries lose a lot more money compared to richer countries. For example, the damage from natural disasters is 20 times greater in developing countries than in industrialized countries. This is because low-income countries often do not have well-built buildings or good plans to handle emergencies.
+To reduce the damage from disasters, it is important to be prepared and have fit for purpose infrastructure. Disaster risk reduction (DRR) aims to make communities stronger and better prepared to handle disasters. It focuses on actions to reduce risk before a disaster occurs, rather than on response and recovery after the event. DRR and climate change adaptation measures are similar in that they aim to reduce vulnerability of people and places to natural hazards.
+When a disaster happens, the response includes actions like warning and evacuating people, rescuing those in danger, and quickly providing food, shelter, and medical care. The goal is to save lives and help people recover as quickly as possible. In some cases, national or international help may be needed to support recovery. This can happen, for example, through the work of humanitarian organizations.
+
+Definitions
+The UN defines a disaster as "a serious disruption of the functioning of a community or a society at any scale".: 13  It results from hazards in places where people live in exposed or vulnerable conditions. Some human failures make communities vulnerable to climate hazards. These are poor planning or development, or a lack of preparation.
+Disasters are events that have an effect on people. A hazard that overwhelms or injures a community is considered a disaster. The international disaster database EM-DAT defines a disaster as “a situation or event that overwhelms local capacity, necessitating a request for external assistance at the national or international level; it is an unforeseen and often sudden event that causes great damage, destruction and human suffering.” The effects of a disaster include all human, material, economic and environmental losses and impacts.: 13 
+UNDRO (1984) defined a disaster in a more qualitative fashion as: "an event, concentrated in time and space, in which a community undergoes severe danger and incurs such losses to its members and physical appurtenances that the social structure is disrupted and the fulfilment of all or some of the essential functions of the society is prevented." Like other definitions this looks beyond the social aspects of the disaster impacts. It also focuses on losses. This raises the need for emergency response as an aspect of the disaster. It does not set out quantitative thresholds or scales for damage, death, or injury.
+A study in 1969 defined major disasters as conforming to the following criteria, based on the amount of deaths or damage: At least 100 people dead, at least 100 people injured, or at least $1 million damage. This definition includes indirect losses of life caused after the initial onset of the disaster. These could be the effects of diseases such as cholera or dysentery arising from the disaster. This definition is still commonly used. However it is limited to the number of deaths, injuries, and damage in money terms.
+
+Types
+The scale of a disaster matters. Small-scale disasters only affect local communities but need help beyond the affected community. Large-scale disasters affect wider society and need national or international help.
+It is usual to divide disasters into natural or human-made. Recently the divide between natural, man-made and man-accelerated disasters has become harder to draw. Some manufactured disasters such as smog and acid rain have been wrongly attributed to nature.
+
+Related to natural hazards
+Disasters with links to natural hazards are commonly called natural disasters. However experts have questioned this term for a long time.
+
+Unrelated to natural hazards
+Human-made disasters are serious harmful events caused by human actions and social processes. Technological hazards also fall into this category. That is because they result in human-instigated disasters. Human-made hazards are sometimes called anthropogenic hazards.: 18  Examples include criminality, social unrest, crowd crushes, fires, transport accidents, industrial accidents, power outages, oil spills, terrorist attacks, and nuclear explosions/nuclear radiation. Catastrophic climate change, nuclear war, and bioterrorism also fall into this category.
+Climate change and environmental degradation are sometimes called socio-natural hazards. These are hazards involving a combination of both natural and human factors. : 18  All disasters can be regarded as human-made, because of failure to introduce the right emergency management measures.
+Famines may be caused locally by drought, flood, fire or pestilence. In modern times there is plenty of food globally. Long-lasting local shortages are generally due to government mismanagement, violent conflict, or an economic system that does not distribute food where needed.
+
+Others
+Complex disasters, where there is no single root cause, are more common in developing countries. A specific hazard may also spawn a secondary disaster that increases the impact. A classic example is an earthquake that causes a tsunami. This results in coastal flooding, damaging a nuclear power plant on the coast. The Fukushima nuclear disaster is a case in point. Experts examine these cascading events to see how risks and impacts can amplify and spread. This is particularly important given the increase in climate risks.: 143–145 
+Some researchers distinguish between recurring events like seasonal flooding and unpredictable one-off events. Recurring events often carry an estimate of how often they occur. Experts call this the return period.
+
+Impacts
+The effects of a disaster include all human, material, economic and environmental losses and impacts.: 13 
+The Emergency Events Database (EM-DAT) records statistics about disasters related to natural hazards. For 2023, EM-DAT recorded 399 disasters, which was higher than the 20-year average of 369.
+
+Economic losses
+Between 2016 and 2020 the total reported economic losses amounted to $293 billion. This figure is likely to be an underestimation. It is very challenging to measure the costs of disasters accurately, and many countries lack the resources and technical capacity to do so.: 50  Over the 40-year period from 1980 to 2020 losses were estimated at $5.2 trillion.
+
+Human impacts
+In 2023, natural hazard-related disasters resulted in 86,473 fatalities and affected 93.1 million people. Whilst the number of deaths was much higher than the 20-year average of 64,148, the number affected was much lower than the 20-year average of 175.5 million.
+According to a UN report, 91% of deaths from hazards from 1970 to 2019 occurred in developing countries. These countries already have higher vulnerability and lower resilience to these events, which exacerbates the effects of the hazards.
+
+Effects of climate change
+Hazards such as droughts, floods, and cyclones are naturally occurring phenomena. However, climate change has caused these hazards to become more unreliable, frequent and severe. They thus contribute to disaster risks. Countries contributing most to climate change are often at the lowest risk of feeling the consequences. As of 2019, countries with the highest vulnerability per capita release the lowest amount of emissions per capita, and yet still experience the most heightened droughts and extreme precipitation.
+
+Prevention and response
+Disaster risk reduction
+Disaster response
+Etymology
+The word disaster is derived from Middle French désastre which comes from Old Italian disastro. This in turn comes from the Ancient Greek pejorative prefix δυσ- (dus-) "bad" and ἀστήρ (aster), "star". So the word disaster ("bad star" in Greek) comes from an astrological sense of a calamity blamed on the position of planets.
+
+See also
+Act of God – Natural disaster outside human control
+Emergency management – Dealing with all humanitarian aspects of emergencies
+List of accidents and disasters by death toll
+Lists of disasters
+
+References
+External links
+
+ReliefWeb of the United Nations Office for the Coordination of Humanitarian Affairs –ReliefWeb
+United Nations Office for Disaster Risk Reduction – UNDRR
+Global Disaster Alert and Coordination System – a joint initiative of the United Nations Office for the Coordination of Humanitarian Affairs (OCHA) and the European Commission

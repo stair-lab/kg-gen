@@ -1,0 +1,37 @@
+A diaphragm pump (also known as a Membrane pump) is a positive displacement pump that uses a combination of the reciprocating action of a rubber, thermoplastic or teflon diaphragm and suitable valves on either side of the diaphragm
+(check valve, butterfly valves, flap valves, or any other form of shut-off valves) to pump a fluid.
+There are three main types of diaphragm pumps:
+
+Those in which the diaphragm is sealed with one side in the fluid to be pumped, and the other in air or hydraulic fluid. The diaphragm is flexed, causing the volume of the pump chamber to increase and decrease. A pair of non-return check valves prevent reverse flow of the fluid.
+Those employing volumetric positive displacement where the prime mover of the diaphragm is electro-mechanical, working through a crank or geared motor drive, or purely mechanical, such as with a lever or handle.  This method flexes the diaphragm through simple mechanical action, and one side of the diaphragm is open to air.
+Those employing one or more unsealed diaphragms with the fluid to be pumped on both sides. The diaphragm(s) again are flexed, causing the volume to change.
+When the volume of a chamber of either type of pump is increased (the diaphragm moving up), the pressure decreases, and fluid is drawn into the chamber. When the chamber pressure later increases from decreased volume (the diaphragm moving down), the fluid previously drawn in is forced out. Finally, the diaphragm moving up once again draws fluid into the chamber, completing the cycle. This action is similar to that of the cylinder in an internal combustion engine. Diaphragm Pumps deliver a hermetic seal between the drive mechanism and the compression chamber, allowing the pump to transfer, compress, and evacuate the medium without a lubricant.
+An elastomeric diaphragm can be used as a versatile dynamic seal that removes many of the limitations found with other sealing methods. They do not leak, offer little friction, and can be constructed for low pressure sensitivity. With the right material consideration, diaphragms can seal over a wide range of pressures and temperatures without needing lubrication or maintenance.
+
+Characteristics
+Diaphragm pump characteristics are:
+
+Self-regulated: The flow rate of an air-powered diaphragm pump can be easily set from zero to maximum just by adjusting the air inlet or the fluid outlet valve. No need to stop running the pump before closing the fluid outlet valve. The pump will just stop by itself and will not consume energy or overheat. Reopening the valve will make the pump restart to resume operation.
+Self priming and have good suction lift characteristics.
+Can be designed to handle abrasive sludges and slurries with a relatively high amount of grit and solid content.
+Have good dry running characteristics.
+Handle fluids smoothly and carefully, the diaphragm pump design avoids mechanical or chemical damages to the fluid during the transfer: No shear, no foam and no heating.
+Pump design separates pump fluids from potentially sensitive internal pump parts.
+A multitude of different diaphragm elastomers can be selected, allowing compatibility with very corrosive solutions.
+Can handle low to medium viscous liquids. A viscosity correction chart can be used as a tool to help prevent under-sizing AOD pumps.
+Can be effectively driven by compressed air or by electricity. Air driven versions typically achieve the safety requirements to operate in flammable or explosive atmospheres.
+Hydraulically driven versions are suitable for discharge pressure up to 1,200 bar.
+Internal pump parts can be suspended and isolated within oil, to promote pump longevity.
+Can be up to 97% efficient.
+
+Air compressors
+Small mechanically activated diaphragm pumps are also used as air compressors and as a source of low-grade vacuum. Compared to other designs, diaphragm compressors are quiet, cheap, and have no moving parts in the air stream. This allows them to be used without added lubrication in contact with the air, so the compressed air produced can be guaranteed clean. An example is a typical aquarium air pump.
+
+Main Diaphragm Pump Manufacturers
+ARO, founded in 1930.
+Verder
+Graco
+GODO, founded in 1990.
+
+
+== References ==

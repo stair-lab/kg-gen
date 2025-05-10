@@ -1,0 +1,121 @@
+In the United States, a Social Security number (SSN) is a nine-digit number issued to U.S. citizens, permanent residents, and temporary (working) residents under section 205(c)(2) of the Social Security Act, codified as 42 U.S.C. § 405(c)(2). The number is issued to an individual by the Social Security Administration, an independent agency of the United States government. Although the original purpose for the number was for the Social Security Administration to track individuals, the Social Security number has become a de facto national identification number for taxation and other purposes.
+A Social Security number may be obtained by applying on Form SS-5, Application for a Social Security Number Card.
+
+History
+Social Security numbers were first issued by the Social Security Administration in November 1936 as part of the New Deal Social Security program. Within three months, 25 million numbers were issued.
+On November 24, 1936, 1,074 of the nation's 45,000 post offices were designated "typing centers" to type up Social Security cards that were then sent to Washington, D.C. On December 1, 1936, as part of the publicity campaign for the new program, Joseph L. Fay of the Social Security Administration selected a record from the top of the first stack of 1,000 records and announced that the first Social Security number in history was assigned to John David Sweeney, Jr. of New Rochelle, New York. However, since the Social Security numbers were not assigned in chronological order, Sweeney did not receive the lowest Social Security number, 001-01-0001. That distinction belongs to Grace D. Owen of Concord, New Hampshire.
+Before 1986, people often did not obtain a Social Security number until the age of about 14, since the numbers were used for income tracking purposes, and those under that age seldom had substantial income. The Tax Reform Act of 1986 required parents to list Social Security numbers for each dependent over the age of 5 for whom the parent wanted to claim a tax deduction. Before this act, parents claiming tax deductions were simply trusted not to lie about the number of children they supported. During the first year of the Tax Reform Act, this anti-fraud change resulted in seven million fewer minor dependents being claimed. The disappearance of these dependents is believed to have involved either children who never existed or tax deductions improperly claimed by non-custodial parents. In 1988, the threshold was lowered to two years old, and in 1990, the threshold was lowered yet again to one year old. Today, an SSN is required regardless of the child's age to receive an exemption. Since then, parents have often applied for Social Security numbers for their children soon after birth; today, it can be done on the application for a birth certificate.
+
+Purpose and use
+The original purpose of this number was to track individuals' accounts within the Social Security program.  It has since come to be used as an identifier for individuals within the United States, although rare errors occur where duplicates do exist. A few duplications did occur when prenumbered cards were sent out to regional SSA offices and (originally) post offices.
+Employee, patient, student, and credit records are sometimes indexed by Social Security number.
+The U.S. Armed Forces have used the Social Security number as an identification number for Army and Air Force personnel since July 1, 1969, the Navy and Marine Corps for their personnel since January 1, 1972, and the Coast Guard for their personnel since October 1, 1974. Previously, the United States military used a much more complicated system of service numbers that varied by service.
+Beginning in June 2011, the DOD began removing the Social Security number from military identification cards, replacing them with a unique DOD identification number, formally known as the EDIPI.
+
+Non-universal status
+Social Security was originally a universal tax, but when Medicare was passed in 1965, objecting religious groups in existence prior to 1951 were allowed to opt out of the system.  Because of this, not every American is part of the Social Security program, and not everyone has a number. However, a Social Security number is required for parents to claim their children as dependents for federal income tax purposes, and the Internal Revenue Service requires all corporations to obtain SSNs (or alternative identifying numbers) from their employees, as described below. The Old Order Amish have fought to prevent universal Social Security by overturning rules such as a requirement to provide a Social Security number for a hunting license.
+Social Security cards printed from January 1946 until January 1972 expressly stated that people should not use the number and card for identification. Since nearly everyone in the United States now has an SSN, it became convenient to use it anyway and the message was removed.
+Since then, Social Security numbers have become de facto national identification numbers. Although some people do not have an SSN assigned to them, it is becoming increasingly difficult to engage in legitimate financial activities such as applying for a loan or a bank account without one. While the government cannot require an individual to disclose their SSN without a legal basis, companies may refuse to provide service to an individual who does not provide an SSN. The card on which an SSN is issued is still not suitable for primary identification as it has no photograph, no physical description, and no birth date. Instead, a driver's license or state ID card is used as an identification for adults.
+
+Use required for federal tax purposes
+Internal Revenue Code section 6109(d) provides: "The social security account number issued to an individual for purposes of section 205(c)(2)(A) of the Social Security Act [codified as 42 U.S.C. § 405(c)(2)(A)] shall, except as shall otherwise be specified under regulations of the Secretary [of the Treasury or his delegate], be used as the identifying number for such individual for purposes of this title [the Internal Revenue Code, title 26 of the United States Code]."
+The Internal Revenue Code also provides, when required by regulations prescribed by the secretary of the treasury or their delegate:
+
+Inclusion in returns: Any person required under the authority of this title to make a return, statement, or other document shall include in such return, statement, or other document such identifying number as may be prescribed for securing proper identification of such person.
+Furnishing number to other persons: Any person with respect to whom a return, statement, or other document is required under the authority of this title to be made by another person or whose identifying number is required to be shown on a return of another person shall furnish to such other person such identifying number as may be prescribed for securing their proper identification.
+According to U.S. Treasury regulations, any person who, after October 31, 1962, works as an employee for wages subject to Social Security taxes, Medicare taxes, or U.S. federal income tax withholdings is required to apply for "an account number" using Form SS-5.
+A taxpayer who is not eligible to have a Social Security Number (SSN) must obtain an alternative Taxpayer Identification Number (TIN).
+
+Types of Social Security cards
+Four different classifications of Social Security cards are issued. Such cards are issued by geographic location (SSN Area Number) to:
+
+persons of natural birth within the territorial boundaries of any one of the member States of the United States of America;
+persons who become U.S. citizens by oath, or birth within the exclusive legislative or territorial jurisdiction of the U.S. government;
+persons who become U.S. permanent residents;
+persons with certain restrictions.
+There are two restricted types of Social Security cards:
+
+One reads "not valid for employment." Such cards cannot be used as proof of work authorization, and are not acceptable as a List C document on the I-9 form.
+The other reads "valid for work only with DHS authorization", or the older, "valid for work only with INS authorization." These cards are issued to people who have temporary work authorization in the U.S. from the Department of Homeland Security -- the nation's border agency.  They can satisfy the I-9 requirement, if they are accompanied by a work authorization card.
+The cards commonly display the cardholder's name and number. 
+In 2004 Congress passed The Intelligence Reform and Terrorism Prevention Act; parts of which mandated that the Social Security Administration redesign the SSN card to prevent forgery. From April 2006 through August 2007, the SSA and Government Printing Office (GPO) employees were assigned to redesign the Social Security number card to the specifications of the Interagency Task Force created by the commissioner of Social Security in consultation with the secretary of Homeland Security.
+The new SSN card design utilizes both covert and overt security features created by the SSA and GPO design teams.
+
+Identity theft
+Many citizens and privacy advocates are concerned about the disclosure and processing of Social Security numbers. Furthermore, researchers at Carnegie Mellon University have demonstrated an algorithm that uses publicly available personal information to reconstruct a given SSN.
+The SSN is frequently used by those involved in identity theft. This is because it is interconnected with many other forms of identification and people asking for it treat it as an authenticator. Financial institutions generally require an SSN to set up bank accounts, credit cards, and loans—partly because they assume that no one except the person it was issued to knows it.
+Exacerbating the problem of using the Social Security number as an identifier is the fact that the Social Security card contains no biometric identifiers of any sort, making it essentially impossible to tell whether a person using a certain SSN truly belongs to someone without relying on other documentation (which may itself have been falsely procured through use of the fraudulent SSN). Congress has proposed federal laws that restrict the use of SSNs for identification and bans their use for a number of commercial purposes—e.g., rental applications.
+The Internal Revenue Service (IRS) offers alternatives to SSNs in some places where providing untrusted parties with identification numbers is essential. Tax return preparers must obtain and use a Preparer Tax Identification Number (PTIN) to include on their client's tax returns (as part of signature requirements). Day care services have tax benefits, and even a sole proprietor should give parents an Employer Identification Number (EIN) to use on their tax return.
+The Social Security Administration has suggested that, if asked to provide their Social Security number, a citizen should ask which law requires its use. In accordance with §7213 of the 9/11 Commission Implementation Act of 2004 and 20 CFR 422.103, the number of replacement Social Security cards per person is generally limited to three per calendar year and ten in a lifetime.
+Identity confusion has also occurred because of the use of local Social Security numbers by the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau, whose numbers overlap with those of residents of New Hampshire and Maine.
+Similarly, Social Security numbers are often valued information for hackers to gain in attacks such as social engineering attacks, where attackers try and manipulate people into disclosing private information. For example, in the social engineering attack involving Hewlett-Packard, executives hired private investigators to manipulate phone companies into disclosing calling information and social security numbers of employees they suspected were leaking information to the press.
+
+Replacement numbers
+A person can request a new Social Security number, but only under certain conditions:
+
+Where sequential numbers assigned to members of the same family are causing problems.
+In the event of duplicates having been issued.
+In cases where the person has been a victim of domestic violence or harassment, and there is a clear need to change their number for their personal safety.
+When a person has been a victim of identity theft, and their Social Security number continues to be problematic.
+Where a person has a demonstrable religious objection to a number (such as certain Christians being averse to the number 666).
+For all of these conditions, credible third-party evidence such as a restraining order or police report is required.
+
+Structure
+The Social Security number is a nine-digit number in the format "AAA-GG-SSSS". The number has three parts: the first three digits, called the area number because they were formerly assigned by geographical region; the middle two digits, the group number; and the last four digits, the serial number.
+On June 25, 2011, the Social Security Administration changed the SSN assignment process to "SSN randomization", which did the following:
+
+It eliminated the geographical significance of the first three digits of the SSN (the area number), by ceasing to allocate specific numbers by state for assignment to individuals.
+It eliminated the significance of the highest group number assigned for each area number; the High Group List therefore is frozen in time and can be used for validation of only those SSNs issued before randomization.
+Previously unassigned area numbers have been introduced for assignment, excluding area numbers 000, 666, and 900–999.
+Because Individual Taxpayer Identification Numbers (ITINs) are issued by the IRS, they are not affected by this SSA change.
+
+Previous structure
+Before randomization, the first three digits, the area numbers, were assigned by geographical region. Before 1973, cards were issued in local Social Security offices around the country, and the area number represented the office that issued the card. This did not have to be in the area where the applicant lived, because one could apply for a card in any Social Security office. Beginning in 1973, when the SSA began assigning SSNs and issuing cards centrally from Baltimore, the area number was assigned according to the ZIP Code of the mailing address on the application for the original Social Security card. The applicant's mailing address did not have to be the same as their place of residence, so the area number did not necessarily represent the applicant's state of residence, regardless of whether the card was issued before or after 1973.
+Generally, numbers were assigned beginning in the northeast and moving south and west, so that people applying from addresses on the east coast had the lowest numbers and those on the west coast had the highest numbers. As the areas assigned to a locality were exhausted, new areas from the pool were assigned, so some states had noncontiguous groups of numbers.
+The middle two digits, group number, range from 01 to 99. Even before SSN randomization, the group numbers were not assigned consecutively in an area. Instead, for administrative reasons, group numbers were issued in the following order:
+
+odd numbers from 01 through 09
+even numbers from 10 through 98
+even numbers from 02 through 08
+odd numbers from 11 through 99
+Group number 98, for example, would be issued before 11.
+The last four digits, serial numbers, were assigned in a straight numerical sequence of digits from 0001 to 9999 within the group.
+
+Valid SSNs
+Before June 25, 2011, a valid SSN could not have an area number in the range 734–749, or above 772, the highest area number the Social Security Administration had allocated. Since June 25, 2011, the SSA has assigned SSNs randomly and allowed the assignment of area numbers 734–749 and 773–899.  These are not Taxpayer Identification Numbers (TINs), which include additional area numbers.
+Some special numbers are never allocated:
+
+Numbers with all zeros in any digit group (000-##-####, ###-00-####, ###-##-0000).
+Numbers with 666 or 900–999 (Individual Taxpayer Identification Number) in the first digit group.
+Until 2011, the SSA published the last group number used for each area number. Because group numbers were allocated in a regular pattern, it was possible to identify an unissued SSN that contained an invalid group number. Now numbers are assigned randomly, and fraudulent SSNs are not easily detectable with publicly available information. Many online services, however, provide SSN validation.
+Unlike many similar numbers, Social Security numbers have no check digit.
+
+Exhaustion and re-use
+The Social Security Administration does not reuse Social Security numbers. It has issued over 450 million since the start of the program, about 5.5 million per year. It says it has enough to last several generations without reuse and without changing the number of digits. There have been accidental assignments of the same number to more than one person.
+An estimated 1 in 7 Social Security numbers have been used by more than one person; usually an innocent typographical error by someone miss-typing a SSN.
+
+SSNs used in advertising
+Some SSNs used in advertising have rendered those numbers invalid. One famous instance of this occurred in 1938 when the E. H. Ferree Company in Lockport, New York, decided to promote its product by showing how a Social Security card would fit into its wallets. A sample card, used for display purposes, was placed in each wallet, which was sold by Woolworth and other department stores across the country; the wallet manufacturer's vice president and treasurer Douglas Patterson used the actual SSN of his secretary, Hilda Schrader Whitcher.
+Even though the card was printed in red (the real card is printed in blue) and had "specimen" printed across the front, many people used Whitcher's SSN as their own. The Social Security Administration's account of the incident also claims that the fake card was half the size of a real card, despite a miniature card being useless for its purpose and despite  Whitcher's holding two cards of apparently identical size in the accompanying photograph. Over time, the number that appeared (078-05-1120) has been claimed by a total of over 40,000 people as their own. The SSA initiated an advertising campaign stating that it was incorrect to use the number (Hilda Whitcher was issued a new SSN). However, the number was found to be in use by 12 individuals as late as 1977.
+More recently, Todd Davis distributed his SSN in advertisements for his company's LifeLock identity theft protection service, which allowed his identity to be stolen over a dozen times.
+
+List of Social Security area numbers
+List showing the geographical location of the first three digits of the Social Security numbers assigned in the United States and its territories from 1936 until June 25, 2011. Repeated numbers indicate that they have been transferred to another location or are shared by more than one location.
+On June 25, 2011, the SSA changed the SSN assignment process to "SSN randomization". SSN randomization affects the SSN assignment process. Among its changes, it eliminates the geographical significance of the first three digits of the SSN, previously referred to as the Area Number, by no longer allocating the Area Numbers for assignment to individuals in specific states.
+
+See also
+Death Master File
+National identification number
+Social insurance number (SIN) – Canadian equivalent
+My Number Card – Japanese equivalent
+National Insurance number (NINO) – UK equivalent
+Personally identifiable information
+
+Notes
+References
+External links
+Social Security Administration
+Social Security Number & Card at SSA.gov
+How to get, replace, or correct a Social Security card at USA.gov
+Social Security Cards Issued by Woolworth: "The most misused SSN of all time was (078-05-1120)."
+Puckett, Carolyn (2009). "The Story of the Social Security Number". Social Security Bulletin. 69 (2): 55–74. PMID 19697506. Retrieved October 19, 2018. (PDF version)

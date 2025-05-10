@@ -1,0 +1,30 @@
+In poker, bad beat is a subjective term for a hand in which a player with what appear to be strong cards nevertheless loses. It most often occurs where one player bets the clearly stronger hand and their opponent makes a mathematically poor call that wins with any subsequent dealing to complete the hand.
+In pure mathematical terms a one-outer can be considered a pure bad beat, however there is no consensus among poker players as to what else exactly constitutes a bad beat and often players will disagree about whether a particular hand was a bad beat.  A few examples are:  quads over full house, quads over quads, straight flush over quads, small full house vs. bigger full house or better.
+
+Types of bad beats
+Virtually any hand that looked like a favorite to win can end up losing as more cards are dealt, but bad beats usually involve one of two not mutually exclusive scenarios:
+
+The player who wins on a bad beat is rewarded for a mathematically unsound play. Calling a bet despite having neither the best hand nor the right pot odds or implied odds to call, then winning anyway, is characteristic of this type of bad beat.  It can also involve the inferior hand catching running cards when it requires two cards in a row to come from behind to win the pot. For example, catching cards on both the turn and the river in Texas hold 'em that complete a straight or flush.
+A very strong hand loses to an even stronger one, better known as "cooler".  This type of beat occurs with some frequency in movies.  In the films The Cincinnati Kid and Casino Royale, The Kid and Le Chiffre, respectively, each lose with a full house to a straight flush. In this situation, it is possible that both players have played their cards well, and avoiding the bad beat could not have been achieved without committing a mistake.
+
+Reacting to bad beats
+A bad beat can be a profound psychological blow, and can easily lead to a player going on tilt.  Professional player Phil Hellmuth, among others, is notorious for his pronounced reactions to bad beats. However, suffering a bad beat means that the losing player was "getting the money in good" and in most instances would win by playing the same hand the same way. Thus, the more stoic poker players accept bad beats as an unpleasant but necessary drawback to a tactic that works the vast majority of the time.
+
+Bad beats online
+In online poker rooms, bad beats often lead to accusations that the random number generator is "rigged", even though such beats also occur in offline games. Many online poker rooms post statistical data to demonstrate the randomness of the hands generated. In online poker games players have an opportunity to play in "bad beat" tables where the player who has the best losing hand receives an accumulated prize pool. An additional amount of rake is taken from each hand to fund the jackpot. The largest online jackpot to date was €1.25 million, hit in July 2011 with €443,000 going to the loser of the hand.
+Players are statistically more likely to experience bad beats online, since playing using a computer allows for more hands played per hour. Also, online players may play multiple cash game tables and/or tournaments at the same time, also increasing the frequency of hands dealt.
+Also, tells are rendered moot, so players are incapable of reading clues such as body language in aid of deriving the strength of an opponent's hand.
+Finally, online poker games (especially freeroll tournaments) are far more accessible to the average player who, being average, is less likely to be knowledgeable regarding the techniques of the game, in turn making it more likely they will bet from the gut or intuition rather than experience.
+
+Bad beat jackpot
+A bad beat jackpot is a prize that is paid when a sufficiently strong hand is shown down and loses to an even stronger hand held by another player.  Not all poker games offer bad beat jackpots, and those that do have specific requirements for how strong a losing hand must be to qualify for the jackpot.  For example, the losing hand may be required to be four-of-a-kind or better.  There may be additional requirements as well.  For example, in Texas hold 'em there is usually a requirement that both hole cards play in both the losing and winning hands, or that where a full house is the minimum (usually aces full of jacks or higher), both hole cards must be used to make the three-of-a-kind in the full house.
+Bad beat jackpots are usually progressive, often with a small rake being taken out of each pot to fund the jackpot (in addition to the regular rake).  When a jackpot is won, it is usually split among all players sitting at the table at the time of the bad beat with the losing hand getting the largest share, followed by the winning hand, and all the other players dividing the remainder. Generally, only the best losing hand is eligible to win the largest share, even if another hand would also qualify.
+Specific rules, collections, payout percentages, and amounts vary greatly from one casino or cardroom to the next, and are sometimes changed.
+
+See also
+Poker probability
+
+Notes
+Books
+Bad Beats and Lucky Draws by Phil Hellmuth ISBN 0-06-074083-3
+Poker: Bets, Bluffs, And Bad Beats by A. Alvarez ISBN 0-8118-4627-X

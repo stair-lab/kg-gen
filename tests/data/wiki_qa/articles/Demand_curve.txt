@@ -1,0 +1,294 @@
+A demand curve is a graph depicting the inverse demand function, a relationship between the price of a certain commodity (the y-axis) and the quantity of that commodity that is demanded at that price (the x-axis). Demand curves can be used either for the price-quantity relationship for an individual consumer (an individual demand curve), or for all consumers in a particular market (a market demand curve).
+It is generally assumed that demand curves slope down, as shown in the adjacent image. This is because of the law of demand: for most goods, the quantity demanded falls if the price rises. Certain unusual situations do not follow this law. These include Veblen goods, Giffen goods, and speculative bubbles where buyers are attracted to a commodity if its price rises.  
+Demand curves are used to estimate behaviour in competitive markets and are often combined with supply curves to find the equilibrium price (the price at which sellers together are willing to sell the same amount as buyers together are willing to buy, also known as market clearing price) and the equilibrium quantity (the amount of that good or service that will be produced and bought without surplus/excess supply or shortage/excess demand) of that market.: 57   
+Movement "along the demand curve" refers to how the quantity demanded changes when the price changes. 
+Shift of the demand curve as a whole occurs when a factor other than price causes the price curve itself to translate along the x-axis; this may be associated with an advertising campaign or perceived change in the quality of the good.
+Demand curves are estimated by a variety of techniques. The usual method is to collect data on past prices, quantities, and variables such as consumer income and product quality that affect demand and apply statistical methods, variants on multiple regression. The issue with this approach, as outlined by Baumol, is that only one point on a demand curve can ever be observed at a specific time. Demand curves exist for a certain period of time and within a certain location, and so, rather than charting a single demand curve, this method charts a  series of positions within a series of demand curves. Consumer surveys and experiments are alternative sources of data. For the shapes of a variety of goods' demand curves, see the article price elasticity of demand.
+
+Shape of the demand curve
+In most circumstances the demand curve has a negative slope, and therefore slopes downwards. This is due to the law of demand which conditions that there is an inverse relationship between price and the demand of commodity (good or a service). As price goes up quantity demanded reduces and as price reduces quantity demanded increases. 
+For convenience, demand curves are often graphed as straight lines, where a and b are parameters:
+
+  
+    
+      
+        Q
+        =
+        a
+        +
+        b
+        P
+        
+           where 
+        
+        b
+        <
+        0
+      
+    
+    {\displaystyle Q=a+bP{\text{ where }}b<0}
+  
+.
+The constant a  embodies the effects of all factors other than price that affect demand. If income were to change, for example, the effect of the change would be represented by a change in the value of "a" and be reflected graphically as a shift of the demand curve. The constant b is the slope of the demand curve and shows how the price of the good affects the quantity demanded.
+The graph of the demand curve uses the inverse demand function in which price is expressed as a function of quantity. The standard form of the demand equation can be converted to the inverse equation by solving for P:
+
+  
+    
+      
+        P
+        =
+        
+          
+            
+              Q
+              −
+              a
+            
+            b
+          
+        
+      
+    
+    {\displaystyle P={\frac {Q-a}{b}}}
+  
+.
+
+Curvature
+The demand is called convex (with respect to the origin) if the (generally down-sloping) curve bends upwards, concave otherwise. 
+The demand curvature is fundamentally hard to estimate from the empirical data, with some researchers suggesting that demand with high convexity is practically improbable. Demand curve are, however, considered to be generally convex in accordance with diminishing marginal utility. Theoretically, the Demand curve is equivalent to the Price-offer curve and can be derived by charting the points of tangency between Budget Lines and indifference curves for all possible prices of the good in question.
+
+Assumptions underlying the derivation of the demand curve
+Income of the consumer remains constant.
+Price of other related goods remain constant.
+Preference, tastes, habits and fashions of consumer remains constant.
+Number of buyers remain constant.
+
+Three categories of demand curves
+Individual demand curve: the relationship between the quantity of a product a single consumer is willing to buy and its price.
+Market demand curve: the relationship between the quantity of a product that all consumers in the market are willing to buy and its price. The market demand curve can be obtained by adding up the individual demand curves of individual consumers in the industry horizontally.
+Firm demand curve: (A firm demand curve may also be referred to as the demand curve of the market to which the firm is exposed.) It refers to the relationship between the number of customers willing to buy a certain product from the enterprise and its price.
+The slope of the market industry demand curve is greater than the slope of the individual demand curve; the slope of the enterprise demand curve is less than the slope of the industry demand curve.
+The slope of a firm's demand curve is less than the slope of the industry's demand curve.
+
+Shift of a demand curve
+The shift of a demand curve takes place when there is a change in any non-price determinant of demand, resulting in a new demand curve. Non-price determinants of demand are those things that will cause demand to change even if prices remain the same—in other words, the things whose changes might cause a consumer to buy more or less of a good even if the good's own price remained unchanged (exogenous changes).
+Some of the more important factors are the prices of related goods (both substitutes and complements), income, population, and expectations. However, demand is the willingness and ability of a consumer to purchase a good under the prevailing circumstances; so, any circumstance that affects the consumer's willingness or ability to buy the good or service in question can be a non-price determinant of demand. As an example, weather could be a factor in the demand for beer at a baseball game.
+When income increases, the demand curve for normal goods shifts outward as more will be demanded at all prices, while the demand curve for inferior goods shifts inward due to the increased attainability of superior substitutes (the demand decrease for each price). When a good is a neutral good its demand want change by a change of income. 
+With respect to related goods, when the price of a good (e.g. a hamburger) rises, the demand curve for substitute goods (e.g. chicken) shifts out, while the demand curve for complementary goods (e.g. ketchup) shifts in (i.e. there is more demand for substitute goods as they become more attractive in terms of value for money, while demand for complementary goods contracts in response to the contraction of quantity demanded of the underlying good).
+With factors of individual demand and market demand, both complementary goods and substitutes affect the demand curve.
+
+Complementary goods are goods A and B where the demand for the former and the price of the latter have an inverse relationship, with an increase in the price of the former leading to a decrease in the demand for the latter and vice versa, but there is no relationship between them as capital goods and consumer goods.
+Substitutes are those goods for which there is a positive relationship between the demand for good A and the price of good B (e.g., an increase in the price of one good is an increase in the demand for the other) and which are in competition with each other.
+
+Factors affecting individual demand
+Changes in the prices of related goods (substitutes and complements)
+Changes in disposable income, the magnitude of the shift also being related to the income elasticity of demand.
+Changes in tastes and preferences. Tastes and preferences are assumed to be fixed in the short-run. This assumption of fixed preferences is a necessary condition for aggregation of individual demand curves to derive market demand.
+Changes in expectations.: 61–62
+
+Factors affecting market demand
+In addition to the factors which can affect individual demand there are three factors that can cause the market demand curve to shift:
+
+a change in the number of consumers,
+a change of tastes among consumers,
+a change in the distribution of income among consumers with different tastes.
+Some factors which increase the demand (the demand increase for every price - a shift of the demand curve to the right) 
+
+Decrease in price of a substitute
+Increase in price of a complement
+Decrease in income if good is normal good
+Increase in income if good is inferior good
+
+Movement along a demand curve
+There is movement along a demand curve (edogenous changes) when a change in price causes the quantity demanded to change. It is important to distinguish between movement along a demand curve, and a shift in a demand curve. Movements along a demand curve happen only when the price of the good changes. When a non-price determinant of demand changes, the curve shifts. These "other variables" are part of the demand function. They are "merely lumped into intercept term of a simple linear demand function." Thus a change in a non-price determinant of demand is reflected in a change in the x-intercept causing the curve to shift along the x axis.
+
+Elasticity of demand for a good with respect to its own price
+The price elasticity of demand is a measure of the sensitivity of the quantity variable, Q, to changes in the price variable, P. The elasticity of demand for a good with respect to its own price is the percentage of change in quantity divided by the percentage of change in price. For example an elasticity equals to -2 (The elasticity is negative because the price rises, and the quantity demanded falls, a consequence of the law of demand) means that if the price increases by 4% the quantity decreases by 2%. This is thus important in determining how revenue will change. Formally, the elasticity of demand for good X with respect to its price is calculated as following:
+
+  
+    
+      
+        
+          E
+          
+            x
+          
+        
+        ,
+        
+          p
+          
+            x
+          
+        
+        =
+        
+          
+            
+              Δ
+              x
+            
+            x
+          
+        
+        
+          /
+        
+        
+          
+            
+              Δ
+              
+                p
+                
+                  x
+                
+              
+            
+            
+              p
+              
+                x
+              
+            
+          
+        
+        =
+        
+          
+            
+              Δ
+              x
+            
+            
+              Δ
+              
+                p
+                
+                  x
+                
+              
+            
+          
+        
+        
+          
+            
+              p
+              
+                x
+              
+            
+            x
+          
+        
+      
+    
+    {\displaystyle E_{x},p_{x}={\frac {\Delta x}{x}}/{\frac {\Delta p_{x}}{p_{x}}}={\frac {\Delta x}{\Delta p_{x}}}{\frac {p_{x}}{x}}}
+  
+. If we have a specific differential function we can use derivatives: 
+
+  
+    
+      
+        
+          E
+          
+            x
+          
+        
+        ,
+        
+          p
+          
+            x
+          
+        
+        =
+        
+          
+            
+              d
+              x
+            
+            
+              d
+              
+                p
+                
+                  x
+                
+              
+            
+          
+        
+        
+          
+            
+              p
+              
+                x
+              
+            
+            x
+          
+        
+      
+    
+    {\displaystyle E_{x},p_{x}={\frac {dx}{dp_{x}}}{\frac {p_{x}}{x}}}
+  
+.
+The elasticity of demand indicates how sensitive the demand for a good is to a price change. If the elasticity's absolute value is between zero and 1, demand is said to be inelastic; if it equals 1, demand is "unitary elastic"; if it is greater than 1, demand is elastic. If it is smaller than 1, wh have inelastic demand, which implies that changes in price have little influence on demand. High elasticity indicates that consumers will respond to a price rise by buying much less of the good. For examples of elasticities of particular goods, see the article section, "Selected price elasticities".
+The elasticity of demand usually will vary depending on the price. If the demand curve is linear, demand is inelastic at high prices and elastic at low prices, with unitary elasticity somewhere in between. 
+There does exist a family of demand curves with constant elasticity for all prices. They have the demand equation 
+  
+    
+      
+        Q
+        =
+        a
+        
+          P
+          
+            c
+          
+        
+      
+    
+    {\displaystyle Q=aP^{c}}
+  
+, where c is the elasticity of demand and a is a parameter for the size of the market. These demand curves are smoothly curving with steep slopes for high values of price and gentle slopes for low values.
+
+Taxes and subsidies
+A sales tax on the commodity does not directly change the demand curve, if the price axis in the graph represents the price including tax. Similarly, a subsidy on the commodity does not directly change the demand curve, if the price axis in the graph represents the price after deduction of the subsidy.
+If the price axis in the graph represents the price before addition of tax and/or subtraction of subsidy then the demand curve moves inward when a tax is introduced, and outward when a subsidy is introduced.
+
+Effect of taxation on the demand curve
+When the demand curve is perfectly inelastic (vertical demand curve), all taxes are borne by the consumer.
+When the demand curve is perfectly elastic (horizontal demand curve), all taxes are borne by the supplier.
+If the demand curve is more elastic, the supplier bears a larger share of the cost increase or tax.
+
+Derived demand
+The demand for goods can be further divorced into the demand markets for final and intermediate goods. An intermediate good is a good utilized in the process of creating another good, effectively named the final good. It is important to note that the cooperation of several inputs in many circumstances yields a final good and thus the demand for these goods is derived from the demand of the final product; this concept is known as derived demand. The relationship between the intermediate goods and the final good is direct and positive as demand for a final product increases demand for the intermediate goods used to make it.
+In order to construct a derived demand curve, specific assumptions must be made and values held constant. The supply curves for other inputs, demand curve for the final good, and production conditions must all be held constant to ascertain an effective derived demand curve.
+
+See also
+Demand (economics)
+Price–performance ratio
+Effect of taxes and subsidies on price
+Feasibility condition
+Hicksian demand
+Inverse demand function
+Law of demand
+Marshallian demand
+Price point
+Supply and demand
+Wikiversity:Building the demand curve
+
+References
+Sources
+Malueg, David A. (1994). "Monopoly Output and Welfare: The Role of Curvature of the Demand Function". The Journal of Economic Education. 25 (3). Informa UK Limited: 235–250. doi:10.1080/00220485.1994.10844832. ISSN 0022-0485.
+RBB Economics (February 2014). "Cost pass-through: theory, measurement, and potential policy implications" (PDF). Government of the UK.
+
+External links
+Pricing to the demand curve

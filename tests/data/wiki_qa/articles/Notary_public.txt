@@ -1,0 +1,221 @@
+A notary public (a.k.a. notary or public notary; pl. notaries public) of the common law is a public officer constituted by law to serve the public in non-contentious matters usually concerned with general financial transactions, estates, deeds, powers-of-attorney, and foreign and international business. A notary's main functions are to validate the signature of a person (for purposes of signing a document); administer oaths and affirmations; take affidavits and statutory declarations, including from witnesses; authenticate the execution of certain classes of documents; take acknowledgments (e.g., of deeds and other conveyances); provide notice of foreign drafts; provide exemplifications and notarial copies; and, to perform certain other official acts depending on the jurisdiction. Such transactions are known as notarial acts, or more commonly, notarizations. The term notary public only refers to common-law notaries and should not be confused with civil-law notaries.
+With the exceptions of Louisiana, Puerto Rico, Quebec (whose private law is based on civil law), and British Columbia (whose notarial tradition stems from scrivener notary practice), a notary public in the rest of the United States and most of Canada has powers that are far more limited than those of civil-law or other common-law notaries, both of whom are qualified lawyers admitted to the bar: such notaries may be referred to as notaries-at-law or lawyer notaries. Therefore, at common law, notarial service is distinctly different from the practice of law, and giving legal advice and preparing legal instruments is forbidden to lay notaries such as those appointed throughout most of the United States. Despite these distinctions, lawyers in the United States may apply to become notaries, and this class of notary is allowed to provide legal advice, such as determining the type of act required (affidavit, acknowledgment, etc.).
+
+Overview
+Notaries are appointed by a government authority, such as a court, governor, county commissioners, or lieutenant governor, or by a regulating body often known as a society or faculty of notaries public. For lawyer notaries, an appointment may be for life, while lay notaries are usually commissioned for a briefer term (often 3 to 5 years in the U.S.), with the possibility of renewal.
+In most common law countries, appointments and their number for a given notarial district are highly regulated. However, since the majority of American notaries are lay persons who provide officially required services, commission numbers are not regulated, which is part of the reason why there are far more notaries in the United States than in other countries (4.5 million vs. approx. 740 in England and Wales and approx. 1,250 in Australia and New Zealand). Furthermore, all U.S. and some Canadian notarial functions are applied to domestic affairs and documents, where fully systematized attestations of signatures and acknowledgment of deeds are a universal requirement for document authentication. In the U.S., notaries public do not authenticate documents in a traditional sense: instead, they authenticate that the signature(s) on a document belongs to the person(s) claiming to be the signer(s), thus ensuring trust among interested parties. By contrast, outside North American common law jurisdictions, notarial practice is restricted to international legal matters or where a foreign jurisdiction is involved, and almost all notaries are also qualified lawyers.
+For the purposes of authentication, most countries require commercial or personal documents which originate from or are signed in another country to be notarized before they can be used or officially recorded or before they can have any legal effect. To these documents a notary affixes a notarial certificate–a separate document stating the notarial act performed and upon which the party(ies) and notary sign–which attests to the execution of the document, usually by the person who appears before the notary, known as an appearer or constituent (U.S.). In the U.S., many documents include the notarial wording within the document, thus eliminating the need for an additional page for the certificate only (i.e., the document is signed and notarized, including application of the Notary's seal). In cases where notaries are also lawyers, such a notary may also draft legal instruments known as notarial acts or deeds which have probative value and executory force, as they do in civil law jurisdictions. Originals or secondary originals are then filed and stored in the notary's archives, or protocol. As noted, lay notaries public in the U.S. are forbidden to advise signers as to which type of act suits the signer's situation: instead, the signer must provide the certificate/wording that is appropriate.
+Notaries are generally required to undergo special training in the performance of their duties, often culminating in an examination and ongoing education/re-examination upon commission renewal. Some states have no training for their notaries public. Some must also first serve as an apprentice before being commissioned or licensed to practice their profession. In some countries, even licensed lawyers, e.g., barristers or solicitors, must follow a prescribed specialized course of study and be mentored for two years before being allowed to practice as a notary (e.g., British Columbia, England). However, notaries public in the U.S., of which the vast majority are lay people, require only a brief training seminar and are expressly forbidden to engage in any activities that could be construed as the unlicensed practice of law unless they are also qualified attorneys. That said, even lay notaries public must know all applicable laws in their jurisdiction (e.g., state) to practice, and a commission could be revoked for a single deviation from such laws. Notarial practice is universally considered to be distinct and separate from that of an attorney (solicitor/barrister). In England and Wales, there is a course of study for notaries which is conducted under the auspices of the University of Cambridge and the Society of Notaries of England and Wales. In the State of Victoria, Australia, applicants for appointment must first complete a Graduate Diploma of Notarial Practice which is administered by the Sir Zelman Cowen Centre in Victoria University, Melbourne. The United States is a notable exception to these practices: lawyer-notaries need only be approved by their jurisdiction and possibly by a local court or bar association.
+In bi-juridical jurisdictions, such as South Africa or Louisiana, the office of notary public is a legal profession with educational requirements similar to those for attorneys. Many even have institutes of higher learning that offer degrees in notarial law. Therefore, despite their name, "notaries public" in these jurisdictions are in effect civil law notaries.
+
+History
+Notaries public (also called "notaries", "notarial officers", or "public notaries") hold an office that can trace its origins back to the ancient Roman Republic, when they were called scribae ("scribes"), tabelliones forenses, or personae publicae.
+The history of notaries is set out in detail in Chapter 1 of Brooke's Notary (13th edition):
+
+The office of a public notary is a public office. It has a long and distinguished history. The office has its origin in the civil institutions of ancient Rome. Public officials, called scribae, that is to say, scribes, rose in rank from being mere recorders of facts and judicial proceedings, copiers and transcribers to a learned profession prominent in private and public affairs. Some were permanent officials attached to the Senate and courts of law whose duties were to record public proceedings, transcribe state papers, supply magistrates with legal forms, and register the decrees and judgments of magistrates.
+In the last century of the Republic, probably in the time of Cicero, and apparently by his adoptive son Marcus Tullius Tiro, after whom they were named 'notae Tironianae' a new form of shorthand was invented and certain arbitrary marks and signs, called notae, were substituted for words in common use. A writer who adopted the new method was called a notarius. Originally, a notary was one who took down statements in shorthand using these notes, and wrote them out in the form of memoranda or minutes. Later, the title notarius was applied almost exclusively to registrars attached to high government officials, including provincial governors and secretaries to the Emperor.
+Notwithstanding the collapse of the Western Empire in the 5th century AD, the notary remained a figure of some importance in many parts of continental Europe throughout the Dark Ages. When the civil law experienced its renaissance in medieval Italy from the 12th century onwards, the notary was established as a central institution of that law, a position which still exists in countries whose legal systems are derived from the civil law, including most of Europe and South America. The office of notary reached its apogee in the Italian city of Bologna in the twelfth century, its most distinguished scion being Rolandino Passeggeri generally known as Rolandino of Bologna, who died in 1300 AD, whose masterwork was the Summa Artis Notariae.
+The separate development of the common law in England, free from most of the influences of Roman law, meant that notaries were not introduced into England until later in the 13th and 14th centuries. At first, notaries in England were appointed by the Papal Legate. In 1279 the Archbishop of Canterbury was authorized by the Pope to appoint notaries. Not surprisingly, in those early days, many of the notaries were members of the clergy. In the course of time, members of the clergy ceased to take part in secular business and laymen, especially in towns and trading centers, began to assume the official character and functions of a modern common law notary.
+The Reformation produced no material change in the position and functions of notaries in England. However, in 1533 the enactment of "the Act Concerning Peter's Pence and Dispensations" (the Ecclesiastical Licences Act 1533) terminated the power of the Pope to appoint notaries and vested that power in the King who then transferred it to the Archbishop of Canterbury who in turn assigned it to the Court of Faculties and the Master of the Faculties.
+
+Traditionally, notaries recorded matters of judicial importance as well as private transactions or events where an officially authenticated record or a document drawn up with professional skill or knowledge was required.
+
+Common law jurisdictions
+The duties and functions of notaries public are described in Brooke's Notary on page 19 in these terms:
+
+Generally speaking, a notary public [...] may be described as an officer of the law [...] whose public office and duty it is to draw, attest or certify under his/her official seal deeds and other documents, including wills or other testamentary documents, conveyances of real and personal property and powers of attorney; to authenticate such documents under his signature and official seal in such a manner as to render them acceptable, as proof of the matters attested by him, to the judicial or other public authorities in the country where they are to be used, whether by means of issuing a notarial certificate as to the due execution of such documents or by drawing them in the form of public instruments; to keep a protocol containing originals of all instruments which he makes in the public form and to issue authentic copies of such instruments; to administer oaths and declarations for use in proceedings [...] to note or certify transactions relating to negotiable instruments, and to draw up protests or other formal papers relating to occurrences on the voyages of ships and their navigation as well as the carriage of cargo in ships." [Footnotes omitted.]
+A notary, in almost all common law jurisdictions other than most of North America, is a practitioner trained in the drafting and execution of legal documents. Historically, notaries recorded matters of judicial importance in addition to private transactions or events where an officially authenticated record or a document drawn up with professional skill or knowledge was required. The functions of notaries specifically include the preparation of certain types of documents (including international contracts, deeds, wills, and powers of attorney) and certification of their due execution, administering of oaths, witnessing affidavits and statutory declarations, certification of copy documents, noting and protesting of bills of exchange, and the preparation of ships' protests.
+
+Documents certified by notaries are sealed with the notary's seal (which may be a traditional embossed marking or a modern stamp) and are often, as a matter of best practice or else jurisdictional law, recorded by the notary in a register (also called a "protocol") maintained and permanently kept by him or her. The use of a seal by definition means a "notarial act" was performed. 
+In countries subscribing to the Hague Convention Abolishing the Requirement of Legalization for Foreign Public Documents or Apostille Convention, additional steps are required for use of documents across international borders. Some documents must be notarized locally and then sealed by the regulating authority (e.g., in the U.S., the Secretary of State of the state in which the notary is commissioned)–sometimes, documents may skip directly to this level–and then a final act of certification is required, known as an apostille. The apostille is issued by a government department (usually the Foreign Affairs Department; the Department of State in the U.S.; or similar). For countries which are not subscribers to that convention, an "authentication" or "legalization" must be provided by one of a number of methods, including by the Foreign Affairs Ministry of the country from which the document is being sent or the embassy, Consulate-General, consulate or High Commission of the country to which it is being sent.
+
+Information on individual countries
+Australia
+In all Australian states and territories (except Queensland) notaries public are appointed by the Supreme Court of the relevant state or territory. Very few have been appointed as a notary for more than one state or territory.
+Queensland, like New Zealand, continues the practice of appointment by the Archbishop of Canterbury acting through the Master of the Faculties.
+Australian notaries are lawyers and are members of the Australian and New Zealand College of Notaries, the Society of Notaries of New South Wales Inc., the Public Notaries Society of Western Australia Inc, and other state-based societies. The overall number of lawyers who choose to become a notary is relatively low. For example, in South Australia (a state with a population of 1.5 million), of the over 2,500 lawyers in that state only about 100 are also notaries and most of those do not actively practice as such. In Melbourne, Victoria, in 2002 there were only 66 notaries for a city with a population of 3.5 million and only 90 for the entire state. In Western Australia, there are approximately 58 notaries as at 2017 for a city with a population of 2.07 million people. Compare this with the United States where it has been estimated that there are nearly 5 million notaries for a nation with a population of 296 million.
+As Justice Debelle of the Supreme Court of South Australia said in the case of In The Matter of an Application by Marilyn Reys Bos to be a Public Notary [2003] SASC 320, delivered 12 September 2003, in refusing the application by a non-lawyer for appointment as a notary:
+
+As a general rule, an applicant [for appointment as a notary] should be a legal practitioner of several years standing at least. Even a cursory perusal of texts on the duties and functions of a public notary demonstrates that a number of those functions and duties require at the very least a sound working knowledge of Australian law and commercial practice. In other words, the preparation of a notarial act plainly requires a sound knowledge of law and practice in Australia especially of the due preparation and execution of commercial and contractual instruments. It is essential that notaries in this state have a sufficient level of training, qualification and status to enable them efficiently and effectively to discharge the functions of the office.
+Historically there have been some very rare examples of patent attorneys or accountants being appointed, but that now seems to have ceased.
+However, there are three significant differences between notaries and other lawyers.
+
+the duty of a notary is to the transaction as a whole, and not just to one of the parties. In certain circumstances a notary may act for both parties to a transaction as long as there is no conflict between them, and in such cases it is their duty is to ensure that the transaction that they conclude is fair to both sides.
+a notary will often need to place and complete a special clause onto or attach a special page (known as an eschatocol) to a document in order to make it valid for use overseas.In the case of some documents which are to be used in some foreign countries it may also be necessary to obtain another certificate known either as an "authentication" or an "apostille" (see above) (depending on the relevant foreign country) from the Department of Foreign Affairs and Trade.
+a notary identifies themselves on documents by the use of their individual seal. Such seals have historical origins and are regarded by most other countries as of great importance for establishing the authenticity of a document.
+Their principal duties include:
+
+attestation of documents and certification of their due execution for use internationally
+preparation and certification of powers of attorney, wills, deeds, contracts and other legal documents for use internationally
+administering of oaths for use internationally
+witnessing affidavits, statutory declarations and other documents for use internationally
+certification of copy documents for use internationally
+exemplification of official documents for use internationally
+noting and protesting of bills of exchange (which is rarely performed)
+preparation of ships' protests
+providing certificates as to Australian law and legal practice for use internationally
+It is usual for Australian notaries to use an embossed seal with a red wafer, and now some notaries also use an inked stamp replicating the seal. It is also common for the seal or stamp to include the notary's chosen logo or symbol.
+In South Australia and Scotland, it is acceptable for a notary to use the letters "NP" after their name. Thus a South Australian notary may have "John Smith LLB NP" or similar on his business card or letterhead.
+Australian notaries do not hold "commissions" which can expire. Generally, once appointed they are authorized to act as a notary for life and can only be "struck off" the Roll of Notaries for proven misconduct.  In certain states, for example, New South Wales and Victoria, they cease to be qualified to continue as a notary once they cease to hold a practicing certificate as a legal practitioner. Even judges, who do not hold practicing certificates, are not eligible to continue to practice as notaries.
+Notaries in some states of Australia are regulated by legislation.  In New South Wales the Public Notaries Act 1997 applies and in Victoria the Public Notaries Act 2001 applies.
+There are also Notary Societies throughout Australia and the societies keep a searchable list of their members.  In New South Wales, The Society of Notaries of New South Wales Inc.; in Queensland The Society of Notaries Queensland Inc.; in South Australia the Notaries' Society of South Australia Inc. and in Victoria, The Society of Notaries of Victoria Inc..
+Notaries collecting information for the purposes of verification of the signature of the deponent might retain the details of documents which identify the deponent, and this information is subject to the Privacy Act 1988. A notary must protect the personal information the notary holds from misuse and loss and from unauthorised access, modification or disclosure.
+All Australian jurisdictions also have justices of the peace (JP) or commissioners for affidavits and other unqualified persons who are qualified to take affidavits or statutory declarations and to certify documents. However they can only do so if the relevant affidavit, statutory declaration or copy document is to be used only in Australia and not in a foreign country, with the possible exception of a few Commonwealth countries not including the United Kingdom or New Zealand except for very limited purposes. Justices of the peace (JPs) are (usually) laypersons who have minimal, if any, training (depending on the jurisdiction) but are of proven good character. Therefore, a US notary resembles an Australian JP rather than an Australian notary.
+
+Brazil
+Notaries in Brazil need to pass stringent exams in addition to holding law degrees. Civil life in Brazil relies upon the notary public system heavily. Brazilian notaries public specialize in seven main areas: 1. Civil Records; 2. Notes. 3. Real Estate Records; 4. Credit Notes and Documents; 5. Protest of Credit Notes; 6. Business Enterprises Records; and 7. Central Notaries (a.k.a. "Distribution Notaries). Brazilian notaries have a hybrid nature. They are private but appointed by the Judiciary and are recognized as an official authority ("dotado de fé pública").
+
+Canada
+Canadian notaries public (except in the province of British Columbia and Quebec) are very much like their American counterparts, generally restricted to administering oaths, witnessing signatures on affidavits and statutory declarations, providing acknowledgements, certifying true copies, and so forth.
+
+British Columbia
+In British Columbia, a notary public is more like a British or Australian notary. Notaries are appointed for life by the Supreme Court of British Columbia and as a self-regulating profession, the Society of Notaries Public of British Columbia is the regulatory body overseeing and setting standards to maintain public confidence. A BC notary is also a commissioner for taking affidavits for British Columbia, by reason of office. Furthermore, BC notaries exercise far greater power, able to dispense legal advice and draft public instruments including:
+
+Notarization – notarizations/attestations of signatures, affidavits, statutory declarations, certified true copies, letters of invitation for foreign travel, authorization of minor child travel, execution/authentications of international documents, passport application documentation, proof of identity for travel purposes
+Real estate law – home purchase/sale; business purchase/sale; mortgages and refinancing; residential, commercial, and manufactures home transfer of title; restrictive covenants and builder's liens
+Wills and estate planning – preparation and searches of last wills and testaments, advance directives, representation agreements and power of attorney
+Contract law – preparation of contracts and agreements, commercial lease and assignments
+easements and right of way
+insurance loss declarations
+marine bills of sale and mortgages
+marine protestations
+personal property security agreements
+purchaser's side for foreclosures
+subdivisions and statutory building schemes
+zoning applications
+
+Nova Scotia
+In Nova Scotia a person may be a notary public, a commissioner of oaths, or both. A notary public and a commissioner of oaths are regulated by the provincial Notaries and Commissioners Act. Individuals hold a commission granted to them by the Minister of Justice.
+Under the Act a notary public in has the "power of drawing, passing, keeping and issuing all deeds and contracts, charter-parties and other mercantile transactions in this Province, and also of attesting all commercial instruments brought before him for public protestation, and otherwise of acting as is usual in the office of notary, and may demand, receive and have all the rights, profits and emoluments rightfully appertaining and belonging to the said calling of notary during pleasure."
+Under the Act a commissioner of oaths is "authorized to administer oaths and take and receive affidavits, declarations and affirmations within the Province in and concerning any cause, matter or thing, depending or to be had in the Supreme Court, or any other court in the Province."
+Every barrister of the Supreme Court of Nova Scotia is a commissioner of oaths but must receive an additional commission to act as a notary public.
+"A Commissioner of Oaths is deemed to be an officer of the Supreme Court of Nova Scotia. Commissioners take declarations concerning any matter to come before a court in the Province.". Additionally, individuals with other specific qualifications, such as being a current Member of the Legislative Assembly, commissioned officer of the Royal Canadian Mounted Police or Canadian Forces may act as if explicitly being a commissioner of oaths.
+
+Quebec
+Since Quebec uses a civil law system for non-criminal matters, notaries in that province are civil-law notaries (notaires) that are full lawyers licensed to practice notarial law and regulated by the Chamber of Notaries of Quebec. Quebec notaries draft and prepare major legal instruments (notarial acts), provide complex legal advice, represent clients (out of court) and make appearances on their behalf, act as arbitrator, mediator, or conciliator, and even act as a court commissioner in non-contentious matters. To become a notary in Quebec, a candidate must hold a bachelor's degree in civil law and a one-year Master's in notarial law and serve a traineeship (stage) before being admitted to practice.
+The concept of notaries public in Quebec does not exist. Instead, the province has Commissioners of Oaths (Commissaires à l'assermentation)  who may administer oaths in Quebec (and outside of Quebec, if authorized) for a procedure or a document intended for Quebec (or Federal matters).  A Quebec commissioner for oaths can not certify documents or attest that a copy of a document is in accordance to the original; only a notaire can do it.
+
+India
+The central government appoints notaries for the whole or any part of the country. State governments, too, appoint notaries for the whole or any part of the states. On an application being made, any person who had been practicing as a Lawyer for at least ten years is eligible to be appointed a notary. The applicant, if not a legal practitioner, should be a member of the Indian Legal Service or have held an office under the central or state government, requiring special knowledge of law, after enrollment as an advocate or held an office in the department of Judge, Advocate-General or in the armed forces.
+
+Iran
+Notary public is a trained lawyer that should pass some special examinations to be able to open their office and start their work. Persian meaning of this word is سردفتر means head of the office and their assistant called دفتریار. Both these persons should have bachelor's degree in law or master's degree in civil-law.
+
+Ireland
+There is archival evidence showing that public notaries, acting pursuant to papal and imperial authority, practised in Ireland in the 13th century, and it is reasonable to assume that notaries functioned here before that time. In Ireland, public notaries were at various times appointed by the Archbishop of Canterbury and the Archbishop of Armagh. The position remained so until the Reformation.
+After the Reformation, persons appointed to the office of public notary either in Great Britain or Ireland received the faculty by royal authority, and appointments under faculty from the Pope and the emperor ceased.
+In 1871, under the Matrimonial Causes and Marriage Law (Ireland) Amendment 1870, the jurisdiction previously exercised by the Archbishop of Armagh in the appointment of notaries was vested in and became exercisable by the Lord Chancellor of Ireland.
+In 1920, the power to appoint notaries public was transferred to the Lord Lieutenant of Ireland. The position in Ireland changed once again in 1924 following the establishment of the Irish Free State. Under the Courts of Justice Act, 1924 the jurisdiction over notaries public was transferred to the Chief Justice of the Irish Free State.
+In 1961, under the Courts (Supplemental Provisions) Act of that year, and the power to appoint notaries public became exercisable by the Chief Justice. This remains the position in Ireland, where notaries are appointed on petition to the Supreme Court, after passing prescribed examinations.  The governing body is the Faculty of Notaries Public in Ireland.  The vast majority of notaries in Ireland are also solicitors. A non-solicitor, who was successful in the examinations as set by the governing body, applied in the standard way to the Chief Justice to be appointed a notary public.  The Chief Justice heard the adjourned application on 3 March 2009 and appointed the non-solicitor as a notary on 18 July 2011.
+In Ireland notaries public cannot agree on a standard fee due to competition law. In practice the price per signature appears to be €100. A cheaper alternative is to visit a commissioner for oaths who will charge less per signature, but that is only possible where whoever is to receive a document will recognize the signature of a commissioner for oaths.
+
+Malaysia
+A notary public is a lawyer authorized by the Attorney General. The fees are regulated by the Notary Public (Fees) Rules 1954.
+A commissioner for oaths is a person appointed by the Chief Justice under section 11 of Court of Judicature Act 1964, and Commissioners for Oaths Rules 1993.
+
+New Zealand
+A notary public in New Zealand is a lawyer authorised by the Archbishop of Canterbury in England to officially witness signatures on legal documents, collect sworn statements, administer oaths and certify the authenticity of legal documents usually for use overseas.
+The Master of the Faculties appoints notaries in the exercise of the general authorities granted by s 3 of the Ecclesiastical Licences Act 1533 and Public Notaries Act 1833. Recommendations are made by the New Zealand Society of Notaries, which normally requires and applicant to have 10 years' experience post admission as a lawyer and 5 years as a Law Firm Partner or equivalent.
+
+Singapore
+A Notary Public in Singapore must be appointed by the Board of Commissioners for Oaths and Notaries Public. A Notary Public must be a qualified lawyer who is at least 40 years old, with at least 15 years of experience in active legal practice. The Notary Public is responsible for certifying the authenticity and valid execution of documents.
+
+Sri Lanka
+Notaries in Sri Lanka are more akin to civil law notaries, their main functions are conveyancing, drafting of legal instruments, etc. They are appointed under the Notaries Ordinance No 1 of 1907. They must pass exam held by the Ministry of Justice and apprentice under senior notary for a period of two years. Alternatively, attorneys at law who pass the conveyancing exam are also admitted as a notary public under warrant of the Minister. The Minister of Justice may appoint any attorney at law as a commissioner for oaths, authorized to certify and authenticate the affidavit/documents and any such other certificates that are submitted by the general public with the intention of certifying by the commissioner for oath.
+
+United Kingdom
+England and Wales
+After the passage of the Ecclesiastical Licences Act 1533, which was a direct result of the Reformation in England, all notary appointments were issued directly through the Court of Faculties. The Court of Faculties is attached to the office of the Archbishop of Canterbury.
+In England and Wales there are two main classes of notaries: general notaries and scrivener notaries. Their functions are almost identical. All notaries, like solicitors, barristers, legal executives, costs lawyers and licensed conveyancers, are also commissioners for oaths. They also acquire the same powers as solicitors and other law practitioners, with the exception of the right to represent others before the courts (unless also members of the bar or admitted as a solicitor) once they are commissioned notaries.  In practice almost all English notaries, and all Scottish ones, are also solicitors, and usually practise as solicitors.
+Commissioners of oaths are able to undertake the bulk of routine domestic attestation work in England and Wales. Many documents, including signatures for normal property transactions, do not need professional attestation of signature at all, a lay witness being sufficient.
+In practice the need for notaries in purely English legal matters is very small; for example they are not involved in normal property transactions. Since a great many solicitors also perform the function of commissioners for oaths and can witness routine declarations etc. (all are qualified to do so, but not all offer the service), most work performed by notaries relates to international matters in some way. They witness or authenticate documents to be used abroad. Many English notaries have strong foreign language skills and often a foreign legal qualification. The work of notaries and solicitors in England is separate although most notaries are solicitors. The Notaries Society gives the number of notaries in England and Wales as "about 1,000", all but seventy of whom are also solicitors.
+Scrivener notaries get their name from the Worshipful Company of Scriveners. Until 1999, when they lost this monopoly, they were the only notaries permitted to practise in the City of London. They used not to have to first qualify as solicitors, but they had knowledge of foreign laws and languages.
+Currently to qualify as a notary public in England and Wales it is necessary to have earned a law degree or qualified as a solicitor or barrister in the past five years, and then to take a two-year distance-learning course styled the Postgraduate Diploma in Notarial Practice. At the same time, any applicant must also gain practical experience. The few who go on to become scrivener notaries require further study of two foreign languages and foreign law and a two-year mentorship under an active scrivener notary.
+The other notaries in England are either ecclesiastical notaries whose functions are limited to the affairs of the Church of England or other qualified persons who are not trained as solicitors or barristers but satisfy the Master of the Faculties of the Archbishop of Canterbury that they possess an adequate understanding of the law. Both the latter two categories are required to pass examinations set by the Master of Faculties.
+The regulation of notaries was modernised by section 57 of the Courts and Legal Services Act 1990.
+Notarial services generally include: 
+
+attesting the signature and execution of documents
+authenticating the execution of documents
+authenticating the contents of documents
+administration of oaths and declarations
+drawing up or noting (and extending) protests of happenings to ships, crews and cargoes
+presenting bills of exchange for acceptance and payment, noting and protesting bills in cases of dishonour and preparing acts of honour
+attending upon the drawing up of bonds
+drawing mercantile documents, deeds, sales or purchases of property, and wills in English and (via translation), in foreign languages for use in Britain, the Commonwealth and other foreign countries
+providing documents to deal with the administration of the estate of people who are abroad, or own property abroad
+authenticating personal documents and information for immigration or emigration purposes, or to apply to marry, divorce, adopt children or to work abroad
+verification of translations from foreign languages to English and vice versa
+taking evidence in England and Wales as a commissioner for oaths for foreign courts
+provision of notarial copies
+preparing and witnessing powers of attorney, corporate records, contracts for use in Britain or overseas
+authenticating company and business documents and transactions
+international Internet domain name transfers
+
+Scotland
+Notaries public have existed in Scotland since the 13th century and developed as a distinct element of the Scottish legal profession.  Those who wish to practice as a notary must petition the Court of Session.  This petition is usually presented at the same time as a petition to practice as a solicitor, but can sometimes be earlier or later.  However, to qualify, a notary must hold a current Practising Certificate from the Law Society of Scotland, a new requirement from 2007, before which all Scottish solicitors were automatically notaries.
+Whilst notaries in Scotland are always solicitors, the profession remains separate in that there are additional rules and regulations governing notaries and it is possible to be a solicitor, but not a notary.  Since 2007 an additional Practising Certificate is required, so now most, but not all, solicitors in Scotland are notaries – a significant difference from the English profession.  They are also separate from notaries in other jurisdictions of the United Kingdom.
+The profession is administered by the Council of the Law Society of Scotland under the Law Reform (Miscellaneous Provisions) (Scotland) Act 1990.
+In Scotland, the duties and services provided by the notary are similar to England and Wales, although they are needed for some declarations in divorce matters for which they are not in England.  Their role declined following the Law Agents (Scotland) Amendment Act 1896 which stipulated only enrolled law agents could become notaries and the Conveyancing (Scotland) Act 1924 which extended notarial execution to law agents.  The primary functions of a Scottish notary are:
+
+oaths, affidavits, and affirmations
+affidavits in undefended divorces and for matrimonial homes
+maritime protests
+execution or certification for foreign jurisdictions, e.g., estates, court actions, powers of attorney, etc.
+notarial execution for the blind or illiterate
+entry of a person to overseas territories
+completion of the documentation required for the registration of a company in certain foreign jurisdictions; and
+drawing for repayment of Bonds of Debenture
+
+United States
+Civil law jurisdictions
+The role of notaries in civil law countries is much greater than in common law countries. Civilian notaries are full-time lawyers and holders of a public office who routinely undertake non-contentious transactional work done in common law countries by attorneys/solicitors, as well as, in some countries, those of government registries, title offices, and public recorders. The qualifications imposed by civil law countries are much greater, requiring generally an undergraduate law degree, a graduate degree in notarial law and practice, three or more years of practical training ("articles") under an established notary, and the sitting of a national examination, to be admitted to practice. Typically, notaries work in private practice and earn fees, but a small minority of countries have salaried public service (or "government" / "state") notaries (e.g., Ukraine, Russia, Baden-Württemberg in Germany (until 2017), certain cantons of Switzerland, and Portugal).
+Notaries in civil law countries have had a critical historical role in providing archives. A considerable amount of historical data of tremendous value is available in France, Spain and Italy thanks to notarial minutes, contracts and conveyances, some of great antiquity which have survived in spite of losses, deterioration and willful destruction.
+Civil law notaries have jurisdiction over strictly non-contentious domestic civil-private law in the areas of property law, family law, agency, wills and succession, and company formation. The point to which a country's notarial profession monopolizes these areas can vary greatly. On one extreme is France (and French-derived systems) which statutorily give notaries a monopoly over their reserved areas of practice, as opposed to Austria where there is no discernible monopoly whatsoever and notaries are in direct competition with attorneys/solicitors.
+In the few United States jurisdictions where trained notaries are allowed (such as Louisiana and Puerto Rico), the practice of these legal practitioners is limited to legal advice on purely non-contentious matters that fall within the purview of a notary's reserved areas of practice.
+
+Notable notaries
+Upon the death of President Warren G. Harding in 1923, Calvin Coolidge was sworn in as president by his father, John Calvin Coolidge, Sr., a Vermont notary public. As there was some controversy as to whether a state notary public had the authority to administer the presidential oath of office, Coolidge took the oath, again, upon returning to Washington.
+
+See also
+Articles about common notarial certificates (varies by jurisdiction):
+Acknowledgment (law)
+Commissioner of deeds
+Copy certification
+Jurat
+eNotary
+Lawyer
+Legalization
+Peace Commissioner
+Justice of the Peace
+Medallion signature guarantee
+
+References
+Further reading
+Australia
+Peter Zablud. A Notary's Forms and Precedents. Melbourne: Psophidian, 2002.
+Peter Zablud. Principles of Notarial Practice. Melbourne: Psophidian, 2005.
+Peter Zablud. Notarizing for international use: a guide for American notaries, attorneys and public officials. Melbourne: Notary Press, 2012.
+England & Wales
+A. G. Dunford. The Provincial Notary, 3rd edn. Originally by G. E. Delafield. Ipswich: Notaries' Society, 1991.
+A. G. Dunford. The General Notary, 2nd edn. Woodbridge: Notaries' Society, 2004.
+A. G. Dunford. The notary and the company: a guide for notaries. Woodbridge: Notaries' Society, 2002.
+Nigel P. Ready. Brooke's Notary, 14th edn. London: Sweet & Maxwell, 2013.
+India
+S. K. Sarvaria. Law relating to notaries: commentary on the Notaries Act, 1952 and Notaries rules, 1956 along with relevant statutes, 2nd edn. Gurgaon, Haryana: LexisNexis, 2016 (1st 2009).
+Ireland
+E. Rory O'Connor. The Irish Notary. Abingdon, Oxon: Professional Books, 1987.
+E. Rory O'Connor & Eamonn G. Hall. O'Connor's The Irish notary: supplement. Dublin: Faculty of Notaries Public in Ireland, 2007.
+South Africa
+M. J. Lowe et al. Elliott: The South African Notary, 6th edn. Cape Town: Juta, 1987 (reprint 1995).
+Frans van der Merwe. Notarial Practice / Notariële praktyk, 2nd edn. Durban: Butterworths, 2001.
+
+External links
+The Society of Notaries of New South Wales Inc. (AUS)
+The Society of Notaries of Victoria Inc. (AUS)
+The Society of Notaries of Queensland Inc. (AUS)
+The Notaries Society (UK)
+The Society of Scrivener Notaries (UK)
+The Faculty of Notaries Public in Ireland
+The Society of Notaries Public of BC (Canada)
+Colorado Notary Blog's notary history section  (Archived) has a collection of articles on notary history, including Ancient Egypt, Phoenicia, Babylonia, Rome, Greece, medieval Europe, the Renaissance, Columbus, Spanish Conquistadors, French Louisiana, New England colonial notaries, Republic of Texas notaries and Colorado Old West notaries.

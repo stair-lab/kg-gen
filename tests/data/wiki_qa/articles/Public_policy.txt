@@ -1,0 +1,204 @@
+Public policy is an institutionalized proposal or a decided set of elements like laws, regulations, guidelines, and actions to solve or address relevant and problematic social issues, guided by a conception and often implemented by programs. These policies govern and include various aspects of life such as education, health care, employment, finance, economics, transportation, and all over elements of society. The implementation of public policy is known as public administration. Public policy can be considered the sum of a government's direct and indirect activities and has been conceptualized in a variety of ways.
+They are created and/or enacted on behalf of the public, typically by a government. Sometimes they are made by Non-state actors or are made in co-production with communities or citizens, which can include potential experts, scientists, engineers and stakeholders or scientific data, or sometimes use some of their results. They are typically made by policy-makers affiliated with (in democratic polities) currently elected politicians. Therefore, the "policy process is a complex political process in which there are many actors: elected politicians, political party leaders, pressure groups, civil servants, publicly employed professionals, judges, non-governmental organizations, international agencies, academic experts, journalists and even sometimes citizens who see themselves as the passive recipients of policy."
+A popular way of understanding and engaging in public policy is through a series of stages known as "the policy cycle", which was first discussed by the political scientist Harold Laswell in his book The Decision Process: Seven Categories of Functional Analysis, published in 1956. The characterization of particular stages can vary, but a basic sequence is agenda setting, policy formulation, legitimation, implementation, and evaluation. "It divides the policy process into a series of stages, from a notional starting point at which policymakers begin to think about a policy problem to a notional end point at which a policy has been implemented, and policymakers think about how successful it has been before deciding what to do next."
+Officials considered policymakers bear the responsibility to advance the interests of various stakeholders. Policy design entails conscious and deliberate effort to define policy aims and map them instrumentally. Academics and other experts in policy studies have developed a range of tools and approaches to help in this task. Government action is the decisions, policies, and actions taken by governments, which can have a significant impact on individuals, organizations, and society at large. Regulations, subsidies, taxes, and spending plans are just a few of the various shapes it might take. Achieving certain social or economic objectives, such as fostering economic expansion, lowering inequality, or safeguarding the environment, is the aim of government action.
+
+Varying conceptions of public policy
+Public policy can be conceptualized in varying ways, according to the purposes of the speaker or author, and the characteristics of the situation they are concerned with.
+One dividing line in conceptions of public policy is between those that see it primarily in terms of ideas (principles and plans of action) and those that see it as a collection of empirical phenomena (the things that are done, and their outcomes). The first of these conceptualizations is suitable when the matter of concern is relatively simple and unambiguous, and the means of enactment are expected to be highly disciplined. But where the matter is complex and/or contested – where intentions are confused and/or disguised – it may not be possible to define the policy ideas clearly and unambiguously. In this case it may be useful to identify a policy in terms of what actually happens.
+David Easton in the USA of the 1950s provided an illustration of the need he found to broaden his conceptualization of public policy beyond stated ideas: "If the formal policy of an educational system forbids discrimination against Negroes but local school boards or administrators so zone school attendance that Negroes are segregated in a few schools, both the impartial law and discriminatory practices must be considered part of the policy." Easton characterized public policy as "a web of decisions and actions that allocates values".
+Other definitions of public policy in terms of a broad range of empirical phenomena include that of Paul Cairney: "the sum total of government action from signals of intent to the final outcomes".
+An example of conceiving public policy as ideas is a definition by Richard Titmuss: "the principles that govern action directed towards given ends". Titmuss' perspective was particularly one of social contract ethics.
+More recently, Antonio Lassance has defined public policy as "an institutionalized proposal to solve a central problem, guided by a conception" (Lassance, 2020: 7). Lassance's perspective and concerns are grounded in a theory of change or program theory which he believes can be empirically tested.
+One of the most known and controversial concepts of public policy is that of Thomas R. Dye, according to whom "public policy is whatever governments choose to do or not to do" (Dye, 1972: 2). Although widely used, Dye's concept is also criticized as being an empty concept. Dye himself admitted that his concept "discourages elaborate academic discussions of the definition of public policy - we say simply that public policy is whatever governments choose to do or not to do".
+In an institutionalist view, the foundation of public policy is composed of national constitutional laws and regulations. Further foundational aspects include both judicial interpretations and regulations which are generally authorized by legislation. Public policy is considered strong when it solves problems efficiently and effectively, serves and supports governmental institutions and policies, and encourages active citizenship.
+In his book Advanced Introduction to Public Policy, B. Guy Peters defines public policy as "the set of activities that governments engage in for the purpose of changing their economy and society", effectively saying that public policy is legislation brought in with the aim of benefiting or impacting the electorate in some way. In another definition, author B. Dente in his book Understanding Policy Decisions explains public policy as "a set of actions that affect the solution of a policy problem, i.e. a dissatisfaction regarding a certain need, demand or opportunity for public intervention. Its quality is measured by the capacity to create public value."
+Other scholars define public policy as a system of "courses of action, regulatory measures, laws, and funding priorities concerning a given topic promulgated by a governmental entity or its representatives". Public policy is commonly embodied in "constitutions, legislative acts, and judicial decisions". Transformative constitutions of Global South considers judicial actions for Public policy as paramount, since the political forces that facilitate legislative decisions may run counter to the will of the people.
+Public policy focuses on the decisions that create the outputs of a political system, such as transport policies, the management of a public health service, the administration of a system schooling and the organization of a defense force. The directly measurable policy outputs, "actions actually taken in pursuance of policy decisions and statements," can be differentiated from the broader policy outcomes, "focus[ing] on a policy's societal consequences."
+In the United States, this concept refers not only to the result of policies, but more broadly to the decision-making and analysis of governmental decisions. As an academic discipline, public policy is studied by professors and students at public policy schools of major universities throughout the country. The U.S. professional association of public policy practitioners, researchers, scholars, and students is the Association for Public Policy Analysis and Management.
+Much of public policy is concerned with evaluating decision-making in governments and public bureaucracies.
+
+Frameworks of public policy
+Public policy frameworks provide systematic approaches to policy implementation, analysis and improvements offering insights into the roles of actors, institutional dynamics, and the broader context influencing decisions.
+
+Policy Cycle Framework
+Proposed by Harold Lasswell, the policy cycle framework is one of the oldest public policy framework. It outlines a sequence of stages in the policymaking process: agenda-setting, policy formulation, implementation, and evaluation. This framework emphasizes the iterative and dynamic nature of policymaking, enabling a structured analysis of how policies evolve over time.
+
+Multiple Streams Framework
+Developed by John Kingdon, this framework focuses on the convergence of three streams—problems, policies, and politics—to create a "policy window" for change. Kingdon emphasizes the critical role of timing and policy entrepreneurs in shaping policy outcomes.
+
+Punctuated Equilibrium Theory
+Proposed by Frank Baumgartner and Bryan Jones, this theory explains periods of policy stability punctuated by sudden, significant changes. According to Baumgartner and Jones, these shifts occur due to interactions between institutional dynamics and issue framing.
+
+Policy Feedback Theory
+Suzanne Mettler and Mallory SoRelle advanced the policy feedback theory, which examines how existing policies influence future political and social dynamics. Their framework highlights the feedback loops that policies create, shaping subsequent political action and societal responses.
+
+Advocacy Coalition Framework
+Introduced by Paul Sabatier, this framework explores how coalitions of actors with shared beliefs influence policy processes over extended periods. Sabatier's work is particularly valuable for understanding policy change in complex and contested policy areas.
+
+Public policy making and implementation
+Public policy making can be characterized as a dynamic, complex, and interactive system through which public problems are identified and resolved through the creation of new policy or reform of existing policy.
+Public problems can originate in endless ways and require different policy responses (such as regulations, subsidies, import quotas, and laws) on the local, national, or international level. The public problems that influence public policy making can be of economic, social, or political nature.
+A government holds a legal monopoly to initiate or threaten physical force to achieve its ends when necessary. For instance, in times of chaos when quick decision making is needed.
+
+Public policy visualization
+A topology model can be used to demonstrate the types of and implementation of public policy:
+
+Direct government action involving the use of money can be classified into 2 subsections. A government can either use its available resources to address the issue (Make), or can contract out to the private sector (Buy).
+Indirect government action involving money is the use of fiscal policy to indirectly affect behaviours. These come in the form of levying taxes (Tax) or by subsidizing an alternative (Subsidize).
+Other direct government action falls under the category of regulation. This is when a government uses its authoritative power to make persons behave a certain way (Oblige) or by making a behaviour illegal (Prohibit).
+Indirect government action without the use of money can again be classified into 2 types. A government can provide information to its citizens on a particular issue, with hopes it affects their behaviour (Inform), or by appealing to their morality as a human or as a stakeholder in society (Implore).
+
+Public policy making
+Public policy making is a time-consuming 'policy cycle'.
+The policy cycle as set out in Understanding Public Policy: Theories and Issues.
+
+Agenda setting
+Agenda setting identifies problems that require government attention, deciding which issue deserve the most attention and defining the nature of the problem.
+
+Social construction of problems
+Most public problems are made through the reflection of social and ideological values. As societies and communities evolve over time, the nature in which norms, customs and morals are proven acceptable, unacceptable, desirable or undesirable changes as well. Thus, the search of crucial problems to solve becomes difficult to distinguish within 'top-down' governmental bodies.
+
+Policy stream
+The policy stream is a concept developed by John Kingdon as a model proposed to show compelling problems need to be conjoined with two other factors: appropriate political climate and favorable and feasible solutions (attached to problems) that flow together to move onto policy agenda. This reinforces the policy window, another concept demonstrating the critical moment within a time and situation that a new policy could be motivated.
+
+Problem stream
+Because the definition of public problems are not obvious, they are most often denied and not acted upon. The problem stream represents a policy process to compromise for how worthy problems are to create policies and solutions. This is represented in five discrete factors:
+
+Indicators: Scientific measurements, qualitative, statistical data using empirical evidence is used to bring relevance to particular phenomena.
+Interpretation: Policymakers make judgements whether an issue constitutes a problem worthy of action.
+Ideology: Elements of dominant values, customs, beliefs are crucial to devising problems needed for attention.
+Instances: Media coverage supports by drawing attention to issues, thus prompting policymakers to respond and address changes.
+Therefore, John Kingdon's model suggests the policy window appears through the emergence and connection of problems, politics and policies, emphasizing an opportunity to stimulate and initiate new policies.
+
+Issue attention cycle
+The issue attention cycle is a concept developed by Anthony Downs (1972) where problems progress through five distinct stages. This reinforces how the policy agenda does not necessarily lead to policy change, as public interest dissipates, most problems end up resolving themselves or get ignored by policymakers. Its key stages include:
+
+Pre-problem stage: The problem is not recognized by the public, media or policy makers.
+Alarmed discovery and euphoric enthusiasm: Something is identified as a problem, supported awareness by media to pursue seriousness of problem
+Realization of costs which will be incurred by the solutions: Investigating through cost-benefit analysis, bringing awareness of financial, environmental, structural curbs to consider solutions and what makes for their consequences.
+Decline in public interest in issue: Citizens acquire acceptance of the problem and it becomes normalized. Newer issues attract the attention of the public. Limited attention span encourages policymakers to delay developing policy to see which public troubles demand necessary and worthwhile solving.
+Issue slips off, or back down, the policy agenda: The issue effectively disappears, although it has the possibility to re-emerge in other pressing circumstances.
+
+Policy formulation
+This is the setting of the objectives for the policy, along with identifying the cost and effect of solutions that could be proposed from policy instruments.
+
+Legitimation
+Legitimation is when approval/ support for the policy instruments is gathered, involving one of or a combination of executive approval, legislative approval, and seeking consent through consultation or referendums.
+
+Implementation
+Policy implementation is establishing or employing an organization to take responsibility for the policy, making sure the organization has the resources/legal authority to do so, in addition to making sure the policy is carried out as planned. An example of this would be the department of education being set up.
+
+Enforcement
+Enforcement mechanisms are a central part of various policies. Enforcement mechanisms co-determine natural resource governance outcomes and pollution-related policies may require proper enforcement mechanisms (and often substitutes) to have a positive effect. Enforcement may include law enforcement or combine incentive and disincentive-based policy instruments. A meta-analysis of policy studies across multiple policy domains suggests enforcement mechanisms are the "only modifiable treaty design choice" with the potential to improve the mostly low effectiveness of international treaties.
+
+Policy-Implementation gap
+The Policy-Implementation gap refers to the difference between policy ideas and goals on paper relative to how they are carried out and implemented in practicality. This gap arises when the goals, objectives, or provisions of a policy fail to be fully realized in practice, often due to challenges, inefficiencies, or unforeseen obstacles in the implementation process. As an issue, it is often overlooked by governments, with implementation seen as an afterthought, sometimes referred to as 'the rest'.
+
+Top-down and bottom-up implementation
+"Top-down" and "bottom-up" describe the process of policy implementation. Top-down implementation means the carrying out of a policy at the top i.e. central government or legislature. The bottom-up approach suggests that the implementation should start with the target group, as they are seen as the actual implementers of policy.
+
+Evaluation
+Evaluation is the process of assessing the extent to which the policy has been successful, or if this was the right policy to begin with/ was it implemented correctly and if so, did it go as expected.
+
+Policy maintenance
+Maintenance is when the policy makers decide to either terminate or continue the policy. The policy is usually either continued as is, modified, or discontinued.
+
+Composition
+This cycle will unless discontinued go back to the agenda-setting phase and the cycle will commence again. However, the policy cycle is illustrated in a chronological and cyclical structure which could be misleading as in actuality, policymaking would include overlapping stages between the multiple interactions of policy proposals, adjustments, decision-making amongst multiple government institutions and respective authoritative actors. Likewise, although its heuristic model is straightforward and easy to understand, the cycle is not totally applicable in all situations of policymaking due to it being far too simple as there are more crucial steps that should go into more complex real life scenarios.
+
+Criticism of the "policy studies" approach
+The mainstream tradition of policy studies has been criticized for oversimplifying the processes of public policy, particularly in use of models based on rational choice theory, failing to capture the current dynamics in today's society as well as sustaining ambiguities and misunderstandings. In contrast, an anthropological approach to studying public policy deconstructs many of the categories and concepts that are currently used, seeking to gain a deeper understanding of the configurations of actors, activities, and influences that go into shaping policy decisions, implementations and results.
+
+Responsibility of policymakers
+Each system is influenced by different public problems and issues, and has different stakeholders; as such, each requires different public policy.
+In public policy making, numerous individuals, corporations, non-profit organizations and interest groups compete and collaborate to influence policymakers to act in a particular way. Therefore, "the failure [of public policies] is possibly not only the politician's fault because he/she is never the lone player in the field of decision making. There is a multitude of actors pursuing their goals, sometimes complementary, often competing or contradictory ones." In this sense, public policies can be the result of actors involved, such as interest organization's, and not necessarily the will of the public. Furthermore, public policy is also affected by social and economic conditions, prevailing political values, the publics mood and the structure of government which all play a role in the complexity of public policy making.
+The large set of actors in the public policy process, such as politicians, civil servants, lobbyists, domain experts, and industry or sector representatives, use a variety of tactics and tools to advance their aims, including advocating their positions publicly, attempting to educate supporters and opponents, and mobilizing allies on a particular issue. The use of effective tools and instruments determines the outcome of a policy.
+Many actors can be important in the public policy process, but government officials ultimately choose public policy in response to the public issue or problem at hand. In doing so, government officials are expected to meet public sector ethics and take the needs of all project stakeholders into account.
+It is however worth noting that what public policy is put forward can be influenced by the political stance of the party in power. Following the 2008/2009 financial crisis, David Cameron's Conservative party looked to implement a policy of austerity in 2010 after winning the general election that year, to shore up the economy and diminish the UK's national debt. Whilst the Conservatives saw reducing the national debt as an absolute priority, the Labour Party, since the effects of Conservative austerity became apparent, have slated the policy for its 'needless' pressure on the working classes and those reliant on welfare, their 2019 election manifesto stating "Tory cuts [have] pushed our public services to breaking point" and that "the Conservatives have starved our education system of funding". Furthermore, in the US, Members of Congress have observed that partisan rancour, ideological disputes, and decreased willingness to compromise on policies have made policy making far more difficult than it was only a decade ago. These are good examples of how varying political beliefs can impact what is perceived as paramount for the electorate.
+Since societies have changed in the past decades, the public policy making system changed too. In the 2010s, public policy making is increasingly goal-oriented, aiming for measurable results and goals, and decision-centric, focusing on decisions that must be taken immediately.
+Furthermore, mass communications and technological changes such as the widespread availability of the Internet have caused the public policy system to become more complex and interconnected. This is because there is a new level of scrutiny which the 'tabloid society' provides of the decisions made by politicians and policy makers, often concentrating on the 'people story' side of these decisions. The changes pose new challenges to the current public policy systems and pressures leaders to evolve to remain effective and efficient.
+Public policies come from all governmental entities and at all levels: legislatures, courts, bureaucratic agencies, and executive offices at national, local and state levels. On the federal level, public policies are laws enacted by Congress, executive orders issued by the president, decisions handed down by the US Supreme Court, and regulations issued by bureaucratic agencies.
+On the local, public policies include city ordinances, fire codes, and traffic regulations. They also take the form of written rules and regulations of city governmental departments: the police, fire departments, street repair, or building inspection. On the state level, public policies involve laws enacted by the state legislatures, decisions made by state courts, rules developed by state bureaucratic agencies, and decisions made by governors.
+
+Policy analysis
+In the contemporary era, there has been a massive influx of policy analysis. However, there is no evidence to suggest that this influx has aided to solving policy issues.
+Distributive theory claims that legislatures in reality have little use for information that pertains to the policies they vote on.
+It has been determined that instead of certain fields having a higher concentration of information and analysis, it is rather competitive issues that are focused on more. The same report this was determined from also reported that information and analysis only seemed to affect issues over a long-term period and thusly ineffective at reactionary action.
+
+Policy design
+Policy design entails conscious and deliberate effort to define policy aims and map them instrumentally. Policy design proposes critical analysis of policy instruments and their implementation. Uncertainties policy designers face include (in brief):
+
+Technical difficulties: mechanism, design, constituency, environment of public policies
+Cost issues: resources, materials, products, etc.
+Political problems: selection process of solutions and decision making. Policies require tedious and rigorous research on advice for its feasibility, legitimacy and choice.
+Compliance: Understanding the target market and discovering data for those dependent, disadvantaged or deviant on policy change.
+Effectiveness: There is a possibility of spillovers, complementariness and inconsistencies.
+Nevertheless, policy design is elemental for the succession of public policy, with it comes intricate and multi-level approaches but it is necessary for good, careful policy design to be considered before implementing the policy.
+
+Data-driven policy
+Data-driven policy is a policy designed by a government based on existing data, evidence, rational analysis and use of information technology to crystallize problems and highlight effective solutions. Data-driven policy making aims to make use of data and collaborate with citizens to co-create policy. Policy makers can now make use of new data sources and technological developments like Artificial Intelligence to gain new insights and make policy decisions which contribute to societal development.
+In the 2020s, policymakers will use data for policies and public service design, while responding to citizen engagement demands. The Anticipatory Governance model is particularly important when considering the sheer amount of data available. In terms of using new technology to collect, analyze, and disseminate data, governments are only just beginning to utilize data science for policy implementation. With new technologies implemented in government administration, a more complete visualization of current problems will emerge, allowing for more precision in targeted policy-making. Data science involves the transformation, analysis, visualization, and presentation of data, and potentially improve the quality of life and society by providing a more informational environment for public debate and political decision-making. Some examples of utilizing data science in public policy making are resource optimization, improving current public services, and fraud and error mitigation.
+Data sets rarely merge between government agencies or within agencies or countries' governments. This is beginning to change with the COVID-19 pandemic spreading globally in early 2020. Forecasting and creating data models to prevent the propagation of the virus has become a vital approach for policy makers in governments around the world.
+
+User-centered policy design
+User-centered policies are policies that are designed and implemented with the end-users, or those who are impacted by the policy, as co-designers. Policymakers using this design process utilize users' knowledge of their lived experiences. This can allow for policymakers focus on including both comprehensiveness and comprehension within policies to aid in clarity for end-users, such as workers or organizations.
+
+Small system dynamics model
+The small system dynamics model is a method of condensing and simplifying the understanding of complex issues related to overall productivity.
+
+Evidence-based policy
+Evidence-based policy is associated with Adrian Smith because in his 1996 presidential address to the Royal Statistical Society, Smith questioned the current process of policy making and urged for a more "evidence-based approach" commenting that it has "valuable lessons to offer".
+Some policy scholars now avoid using the term evidence-based policy, using others such as evidence informed. This language shift allows continued thinking about the underlying desire to improve evidence use in terms of its rigor or quality, while avoiding some of the key limitations or reductionist ideas at times seen with the evidence-based language. Still, the language of evidence-based policy is widely used and, as such, can be interpreted to reflect a desire for evidence to be used well or appropriately in one way or another – such as by ensuring systematic consideration of rigorous and high quality policy relevant evidence, or by avoiding biased and erroneous applications of evidence for political ends.
+The development and analysis of evidence based / evidence informed policy are supported by multidisciplinary public policy research and policy analysis.
+
+In the U.S.
+Unlike the UK, the U.S. has a largely devolved government, with power at local, state and federal level. Due to these various levels of governance, it can often be difficult to coordinate passing bills and legislation, and there is often disagreement. Despite this, the system allows citizens to be relatively involved in inputting legislation. Furthermore, each level of government is set up in a similar way with similar rules, and all pump money into creating what is hoped to be effective legislation. Policy creation in America is often seen as unique to other countries.
+
+Academic discipline
+As an academic discipline, public policy brings in elements of many social science fields and concepts, including economics, sociology, political economy, social policy, program evaluation, policy analysis, and public management, all as applied to problems of governmental administration, management, and operations. At the same time, the study of public policy is distinct from political science or economics, in its focus on the application of theory to practice. While the majority of public policy degrees are master's and doctoral degrees, there are several universities that offer undergraduate education in public policy. Notable institutions include:
+
+Balsillie School of International Affairs
+Blavatnik School of Government
+Durham University
+Lee Kuan Yew School of Public Policy, NUS
+Leiden University
+Hertie School, Berlin
+Graduate Institute of International and Development Studies, Geneva
+John F. Kennedy School of Government, Harvard
+London School of Economics
+Sciences Po, Paris
+National Defence University, Pakistan
+Jamia Hamdard
+Traditionally, the academic field of public policy focused on domestic policy. However, the wave of economic globalization that occurred in the late 20th and early 21st centuries created a need for a subset of public policy that focused on global governance, especially as it relates to issues that transcend national borders such as climate change, terrorism, nuclear proliferation, and economic development. Consequently, many traditional public policy schools had to adjust their curricula to better suit this new policy landscape, as well as develop entirely new curricula altogether.
+
+Controversies
+The Austrian and Chicago school of economics criticise public policymakers for not "understanding basic economics". In particular, a member of the Chicago school of economics, Thomas Sowell writes "Under popularly elected government, the political incentives are to do what is popular, even if the consequences are worse than the consequences of doing nothing, or doing something that is less popular". Therefore, since "Economics studies the consequences of decisions that are made about the use of land, labour, capital and other resources that go into producing the volume of output which determines a country's standard of living"; this means that artificially tampering with the allocation of scarce resources such as implementing certain public policies such as price controls will cause inefficiency in the economy and decline in the standard of living within society.
+One of the biggest controversies of public policy is that policy making is often influenced by lobbyists such as big corporations in order to sway policies in their favour. The National Rifle Association of America (NRA) is an organisation that lobbies United States lawmakers to oppose stricter gun laws.
+International policy frameworks such as the United Nations have a complete inability to enforce legally binding agreements on nations. The Declaration on granting of Independence to Colonial Countries and Peoples was implemented in 1960 with the goal of decolonising the areas colonised by the colonial powers of the 20th century, however colonial territories continue to exists despite the General Assemblies attempts to force countries to return land.
+Another controversy surrounding public policy is that much like anyone, policymakers can sometimes hold bias and end up looking for facts that can prove their preconceptions to be true. In a study of politicians in Denmark, which was published in the British Journal of Political Science, it was established that they interpreted data between two groups in a case study more successfully when there was no labeling based on class or status as opposed to when they were labeled according to their class or status; their preconceptions affected how they viewed data.
+
+See also
+Advocacy
+Advocacy evaluation
+Artificial intelligence in government
+Eightfold path (policy analysis)
+Harold Lasswell
+List of public policy topics by country
+List of public administration schools
+Mandate (politics)
+Overton window
+Policy
+Policy analysis
+Public comment
+Public criminology
+Public policy school
+
+References
+Further reading
+Bueno de Mesquita, Ethan. 2017. Political Economy for Public Policy. Princeton University Press
+Gilbert, Brett Anitra; David B. Audretsch, McDougall, Patricia P. (2004), The Emergence of Entrepreneurship Policy, Small Business Economics 22
+Cohen, Nissim (2012) "Policy entrepreneurs and the design of public policy: Conceptual framework and the case of the National Health Insurance Law in Israel" Journal of Social Research & Policy, 3 (1): 5–26.
+David B. Audretsch; Grilo, Isabel; Thurik, A. Roy (2007), Explaining entrepreneurship and the role of policy: a framework, in: David Audretsch, Isabel Grilo and A. Roy Thurik (eds.), Handbook of Research on Entrepreneurship Policy, Edward Elgar Publishing
+David B. Audretsch and Beckmann, Iris A.M. (2007), From Small Business to Entrepreneurship Policy, in: David Audretsch, Isabel Grilo and A. Roy Thurik (eds.), Handbook of Research on Entrepreneurship Policy, Edward Elgar Publishing
+Considine, Mark (2005). Making Public Policy. Polity Press

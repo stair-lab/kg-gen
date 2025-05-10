@@ -1,0 +1,30 @@
+Naturally occurring cobalt, Co, consists of a single stable isotope, 59Co (thus, cobalt is a mononuclidic element). Twenty-eight radioisotopes have been characterized; the most stable are 60Co with a half-life of 5.2714 years, 57Co (271.811 days), 56Co (77.236 days), and 58Co (70.844 days). All other isotopes have half-lives of less than 18 hours and most of these have half-lives of less than 1 second. This element also has 19 meta states, of which the most stable is 58m1Co with a half-life of 8.853 h.
+The isotopes of cobalt range in atomic weight from 50Co to 78Co. The main decay mode for isotopes with atomic mass less than that of the stable isotope, 59Co, is electron capture and the main mode of decay for those of greater than 59 atomic mass units is beta decay. The main decay products before 59Co are iron isotopes and the main products after are nickel isotopes.
+Radioisotopes can be produced by various nuclear reactions. For example, 57Co is produced by cyclotron irradiation of iron. The main reaction is the (d,n) reaction 56Fe + 2H → n + 57Co.
+
+List of isotopes
+Stellar nucleosynthesis of cobalt-56
+One of the terminal nuclear reactions in stars prior to supernova produces 56Ni. Following its production, 56Ni decays to 56Co, and then 56Co subsequently decays to 56Fe. These decay reactions power the luminosity displayed in light decay curves. Both the light decay and radioactive decay curves are expected to be exponential. Therefore, the light decay curve should give an indication of the nuclear reactions powering it. This has been confirmed by observation of bolometric light decay curves for SN 1987A. Between 600 and 800 days after SN1987A occurred, the bolometric light curve decreased at an exponential rate with half-life values from τ1/2 = 68.6 days to τ1/2 = 69.6 days. The rate at which the luminosity decreased closely matched the exponential decay of 56Co with a half-life of τ1/2 = 77.233 days.
+
+Use of cobalt radioisotopes in medicine
+Cobalt-57 (57Co or Co-57) is used in medical tests; it is used as a radiolabel for vitamin B12 uptake. It is useful for the Schilling test.
+Cobalt-60 (60Co or Co-60) is used in radiotherapy. It produces two gamma rays with energies of 1.17 MeV and 1.33 MeV. The 60Co source is about 2 cm in diameter and as a result produces a geometric penumbra, making the edge of the radiation field fuzzy. The metal has the unfortunate habit of producing fine dust, causing problems with radiation protection. The 60Co source is useful for about 5 years but even after this point is still very radioactive, and so cobalt machines have fallen from favor in the Western world where Linacs are common.
+
+Industrial uses for radioactive isotopes
+Cobalt-60 (60Co) is useful as a gamma ray source because it can be produced in predictable quantities, and for its high radioactivity simply by exposing natural cobalt to neutrons in a reactor. The uses for industrial cobalt include:
+
+Sterilization of medical supplies and medical waste
+Radiation treatment of foods for sterilization (cold pasteurization)
+Industrial radiography (e.g., weld integrity radiographs)
+Density measurements (e.g., concrete density measurements)
+Tank fill height switches
+57Co is used as a source in Mössbauer spectroscopy of iron-containing samples. Electron capture by 57Co forms an excited state of the 57Fe nucleus, which in turn decays to the ground state with the emission of a gamma ray. Measurement of the gamma-ray spectrum provides information about the chemical state of the iron atom in the sample.
+
+References
+
+Isotope masses from:
+Audi, Georges; Bersillon, Olivier; Blachot, Jean; Wapstra, Aaldert Hendrik (2003), "The NUBASE evaluation of nuclear and decay properties", Nuclear Physics A, 729: 3–128, Bibcode:2003NuPhA.729....3A, doi:10.1016/j.nuclphysa.2003.11.001
+Half-life, spin, and isomer data selected from the following sources.
+Audi, Georges; Bersillon, Olivier; Blachot, Jean; Wapstra, Aaldert Hendrik (2003), "The NUBASE evaluation of nuclear and decay properties", Nuclear Physics A, 729: 3–128, Bibcode:2003NuPhA.729....3A, doi:10.1016/j.nuclphysa.2003.11.001
+National Nuclear Data Center. "NuDat 2.x database". Brookhaven National Laboratory.
+Holden, Norman E. (2004). "11. Table of the Isotopes". In Lide, David R. (ed.). CRC Handbook of Chemistry and Physics (85th ed.). Boca Raton, Florida: CRC Press. ISBN 978-0-8493-0485-9.

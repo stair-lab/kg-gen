@@ -1,0 +1,15 @@
+A memory card reader is a device for accessing the data on a memory card such as a CompactFlash (CF), Secure Digital (SD) or MultiMediaCard (MMC). Most card readers also offer write capability, and together with the card, this can function as a pen drive.
+Some printers and Smartphones have a built-in card reader, as do many laptops and the majority of Tablet computers.
+A multi card reader is used for communication with more than one type of flash memory card.  Multi card readers do not have built-in memory capacity, but are able to accept multiple types and styles of memory cards.
+Memory card readers, unlike smartphones, telephones and other devices, such as cameras and digital cameras, allow formatting in a file system other than FAT (FAT16, FAT32, exFAT) to NTFS in Windows, ext, ext2, ext3 in Linux or HFS, HFS + for Mac OS. Smartphones or other devices like cameras format them only in FAT. Internal card readers are usually connected to internal USB 1.1 / 2.0 / 3.x ports
+The number of compatible memory cards varies from reader to reader and can include more than 20 different types. The number of different memory cards that a multi card reader can accept is expressed as x-in-1, with x being a figure of merit indicating the number of memory cards accepted, such as 35-in-1. There are three categories of card readers sorted by the type and quantity of the card slots: single card reader (e.g. 1x SD-only), multi card reader (e.g. 9-in-1) and series card reader (e.g. 4x SD-only).
+Some kinds of memory cards with their own USB functions do not need the card reader, such as the Intelligent Stick memory card, which can plug directly into a USB slot.
+The USB device class used is 0x08.
+Modern UDMA-7 CompactFlash Cards and UHS-I Secure Digital cards provide data rates in excess of 89 MB/s and up to 145 MB/s, when used with memory card readers capable of USB 3.0 data transfer rates. As of 2011, Secure Digital memory cards received an additional option of a UHS-II bus interface. It increased the maximum data transfer speed to 312 MB/s.
+
+See also
+
+Card reader
+
+
+== References ==

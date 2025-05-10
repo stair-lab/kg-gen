@@ -1,0 +1,3302 @@
+The fundamental theorem of calculus is a theorem that links the concept of differentiating a function (calculating its slopes, or rate of change at every point on its domain) with the concept of integrating a function (calculating the area under its graph, or the cumulative effect of small contributions). Roughly speaking, the two operations can be thought of as inverses of each other.
+The first part of the theorem, the first fundamental theorem of calculus, states that for a continuous function f , an antiderivative or indefinite integral F can be obtained as the integral of f over an interval with a variable upper bound.
+Conversely, the second part of the theorem, the second fundamental theorem of calculus, states that the integral of a function f over a fixed interval is equal to the change of any antiderivative F between the ends of the interval. This greatly simplifies the calculation of a definite integral provided an antiderivative can be found by symbolic integration, thus avoiding numerical integration.
+
+History
+The fundamental theorem of calculus relates differentiation and integration, showing that these two operations are essentially inverses of one another. Before the discovery of this theorem, it was not recognized that these two operations were related. Ancient Greek mathematicians knew how to compute area via infinitesimals, an operation that we would now call integration. The origins of differentiation likewise predate the fundamental theorem of calculus by hundreds of years; for example, in the fourteenth century the notions of continuity of functions and motion were studied by the Oxford Calculators and other scholars. The historical relevance of the fundamental theorem of calculus is not the ability to calculate these operations, but the realization that the two seemingly distinct operations (calculation of geometric areas, and calculation of gradients) are actually closely related.
+Calculus as a unified theory of integration and differentiation started from the conjecture and the proof of the fundamental theorem of calculus. The first published statement and proof of a rudimentary form of the fundamental theorem, strongly geometric in character, was by James Gregory (1638–1675). Isaac Barrow (1630–1677) proved a more generalized version of the theorem, while his student Isaac Newton (1642–1727) completed the development of the surrounding mathematical theory. Gottfried Leibniz (1646–1716) systematized the knowledge into a calculus for infinitesimal quantities and introduced the notation used today.
+
+Geometric meaning/Proof
+The first fundamental theorem may be interpreted as follows. Given a continuous function 
+  
+    
+      
+        y
+        =
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle y=f(x)}
+  
+ whose graph is plotted as a curve, one defines a corresponding "area function" 
+  
+    
+      
+        x
+        ↦
+        A
+        (
+        x
+        )
+      
+    
+    {\displaystyle x\mapsto A(x)}
+  
+ such that A(x) is the area beneath the curve between 0 and x. The area A(x) may not be easily computable, but it is assumed to be well defined.
+The area under the curve between x and x + h could be computed by finding the area between 0 and x + h, then subtracting the area between 0 and x. In other words, the area of this "strip" would be A(x + h) − A(x).
+There is another way to estimate the area of this same strip. As shown in the accompanying figure, h is multiplied by f(x) to find the area of a rectangle that is approximately the same size as this strip. So:
+
+  
+    
+      
+        A
+        (
+        x
+        +
+        h
+        )
+        −
+        A
+        (
+        x
+        )
+        ≈
+        f
+        (
+        x
+        )
+        ⋅
+        h
+      
+    
+    {\displaystyle A(x+h)-A(x)\approx f(x)\cdot h}
+  
+
+Dividing by h on both sides, we get:
+
+  
+    
+      
+        
+          
+            
+              A
+              (
+              x
+              +
+              h
+              )
+              −
+              A
+              (
+              x
+              )
+            
+            h
+          
+        
+        ≈
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle {\frac {A(x+h)-A(x)}{h}}\approx f(x)}
+  
+
+This estimate becomes a perfect equality when h approaches 0:
+
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        
+          lim
+          
+            h
+            →
+            0
+          
+        
+        
+          
+            
+              A
+              (
+              x
+              +
+              h
+              )
+              −
+              A
+              (
+              x
+              )
+            
+            h
+          
+        
+         
+        
+          
+            
+              
+                =
+              
+              
+                def
+              
+            
+          
+        
+         
+        
+          A
+          ′
+        
+        (
+        x
+        )
+        .
+      
+    
+    {\displaystyle f(x)=\lim _{h\to 0}{\frac {A(x+h)-A(x)}{h}}\ {\stackrel {\text{def}}{=}}\ A'(x).}
+  
+That is, the derivative of the area function A(x) exists and is equal to the original function f(x), so the area function is an antiderivative of the original function.
+Thus, the derivative of the integral of a function (the area) is the original function, so that derivative and integral are inverse operations which reverse each other. This is the essence of the Fundamental Theorem.
+
+Physical intuition
+Intuitively, the fundamental theorem states that integration and differentiation are inverse operations which reverse each other.
+The second fundamental theorem says that the sum of infinitesimal changes in a quantity (the integral of the derivative of the quantity) adds up to the net change in the quantity. To visualize this, imagine traveling in a car and wanting to know the distance traveled (the net change in position along the highway). You can see the velocity on the speedometer but cannot look out to see your location. Each second, you can find how far the car has traveled using distance = speed × time, that is, multiplying the current speed (in kilometers or miles per hour) by the time interval (1 second = 
+  
+    
+      
+        
+          
+            
+              1
+              3600
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {1}{3600}}}
+  
+ hour). By summing up all these small steps, you can approximate the total distance traveled, in spite of not looking outside the car:
+  
+    
+      
+        
+          distance traveled
+        
+        =
+        ∑
+        
+          (
+          
+            
+              
+                
+                  
+                    velocity at
+                  
+                
+              
+              
+                
+                  
+                    each time
+                  
+                
+              
+            
+          
+          )
+        
+        ×
+        
+          (
+          
+            
+              
+                
+                  
+                    time
+                  
+                
+              
+              
+                
+                  
+                    interval
+                  
+                
+              
+            
+          
+          )
+        
+        =
+        ∑
+        
+          v
+          
+            t
+          
+        
+        ×
+        Δ
+        t
+        .
+      
+    
+    {\displaystyle {\text{distance traveled}}=\sum \left({\begin{array}{c}{\text{velocity at}}\\{\text{each time}}\end{array}}\right)\times \left({\begin{array}{c}{\text{time}}\\{\text{interval}}\end{array}}\right)=\sum v_{t}\times \Delta t.}
+  
+As 
+  
+    
+      
+        Δ
+        t
+      
+    
+    {\displaystyle \Delta t}
+  
+ becomes infinitesimally small, the summing up corresponds to integration. Thus, the integral of the velocity function (the derivative of position) computes how far the car has traveled (the net change in position).
+The first fundamental theorem says that the value of any function is the rate of change (the derivative) of its integral from a fixed starting point up to any chosen end point. Continuing the above example using a velocity as the function, you can integrate it from the starting time up to any given time to obtain a distance function whose derivative is that velocity. (To obtain your highway-marker position, you would need to add your starting position to this integral and to take into account whether your travel was in the direction of increasing or decreasing mile markers.)
+
+Formal statements
+There are two parts to the theorem. The first part deals with the derivative of an antiderivative, while the second part deals with the relationship between antiderivatives and definite integrals.
+
+First part
+This part is sometimes referred to as the first fundamental theorem of calculus.
+Let f be a continuous real-valued function defined on a closed interval [a, b]. Let F be the function defined, for all x in [a, b], by
+
+  
+    
+      
+        F
+        (
+        x
+        )
+        =
+        
+          ∫
+          
+            a
+          
+          
+            x
+          
+        
+        f
+        (
+        t
+        )
+        
+        d
+        t
+        .
+      
+    
+    {\displaystyle F(x)=\int _{a}^{x}f(t)\,dt.}
+  
+
+Then F is uniformly continuous on [a, b] and differentiable on the open interval (a, b), and
+
+  
+    
+      
+        
+          F
+          ′
+        
+        (
+        x
+        )
+        =
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle F'(x)=f(x)}
+  
+
+for all x in (a, b) so F is an antiderivative of f.
+
+Corollary
+The fundamental theorem is often employed to compute the definite integral of a function 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  
+ for which an antiderivative 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+  
+ is known. Specifically, if 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  
+ is a real-valued continuous function on 
+  
+    
+      
+        [
+        a
+        ,
+        b
+        ]
+      
+    
+    {\displaystyle [a,b]}
+  
+ and 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+  
+ is an antiderivative of 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  
+ in 
+  
+    
+      
+        [
+        a
+        ,
+        b
+        ]
+      
+    
+    {\displaystyle [a,b]}
+  
+, then
+
+  
+    
+      
+        
+          ∫
+          
+            a
+          
+          
+            b
+          
+        
+        f
+        (
+        t
+        )
+        
+        d
+        t
+        =
+        F
+        (
+        b
+        )
+        −
+        F
+        (
+        a
+        )
+        .
+      
+    
+    {\displaystyle \int _{a}^{b}f(t)\,dt=F(b)-F(a).}
+  
+
+The corollary assumes continuity on the whole interval. This result is strengthened slightly in the following part of the theorem.
+
+Second part
+This part is sometimes referred to as the second fundamental theorem of calculus or the Newton–Leibniz theorem.
+Let 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  
+ be a real-valued function on a closed interval 
+  
+    
+      
+        [
+        a
+        ,
+        b
+        ]
+      
+    
+    {\displaystyle [a,b]}
+  
+ and 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+  
+ a continuous function on 
+  
+    
+      
+        [
+        a
+        ,
+        b
+        ]
+      
+    
+    {\displaystyle [a,b]}
+  
+ which is an antiderivative of 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  
+ in 
+  
+    
+      
+        (
+        a
+        ,
+        b
+        )
+      
+    
+    {\displaystyle (a,b)}
+  
+:
+
+  
+    
+      
+        
+          F
+          ′
+        
+        (
+        x
+        )
+        =
+        f
+        (
+        x
+        )
+        .
+      
+    
+    {\displaystyle F'(x)=f(x).}
+  
+
+If 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  
+ is Riemann integrable on 
+  
+    
+      
+        [
+        a
+        ,
+        b
+        ]
+      
+    
+    {\displaystyle [a,b]}
+  
+ then
+
+  
+    
+      
+        
+          ∫
+          
+            a
+          
+          
+            b
+          
+        
+        f
+        (
+        x
+        )
+        
+        d
+        x
+        =
+        F
+        (
+        b
+        )
+        −
+        F
+        (
+        a
+        )
+        .
+      
+    
+    {\displaystyle \int _{a}^{b}f(x)\,dx=F(b)-F(a).}
+  
+
+The second part is somewhat stronger than the corollary because it does not assume that 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  
+ is continuous.
+When an antiderivative 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+  
+ of 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  
+ exists, then there are infinitely many antiderivatives for 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  
+, obtained by adding an arbitrary constant to 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+  
+. Also, by the first part of the theorem, antiderivatives of 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  
+ always exist when 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  
+ is continuous.
+
+Proof of the first part
+For a given function f, define the function F(x) as
+
+  
+    
+      
+        F
+        (
+        x
+        )
+        =
+        
+          ∫
+          
+            a
+          
+          
+            x
+          
+        
+        f
+        (
+        t
+        )
+        
+        d
+        t
+        .
+      
+    
+    {\displaystyle F(x)=\int _{a}^{x}f(t)\,dt.}
+  
+
+For any two numbers x1 and x1 + Δx in [a, b], we have
+
+  
+    
+      
+        
+          
+            
+              
+                F
+                (
+                
+                  x
+                  
+                    1
+                  
+                
+                +
+                Δ
+                x
+                )
+                −
+                F
+                (
+                
+                  x
+                  
+                    1
+                  
+                
+                )
+              
+              
+                
+                =
+                
+                  ∫
+                  
+                    a
+                  
+                  
+                    
+                      x
+                      
+                        1
+                      
+                    
+                    +
+                    Δ
+                    x
+                  
+                
+                f
+                (
+                t
+                )
+                
+                d
+                t
+                −
+                
+                  ∫
+                  
+                    a
+                  
+                  
+                    
+                      x
+                      
+                        1
+                      
+                    
+                  
+                
+                f
+                (
+                t
+                )
+                
+                d
+                t
+              
+            
+            
+              
+              
+                
+                =
+                
+                  ∫
+                  
+                    
+                      x
+                      
+                        1
+                      
+                    
+                  
+                  
+                    
+                      x
+                      
+                        1
+                      
+                    
+                    +
+                    Δ
+                    x
+                  
+                
+                f
+                (
+                t
+                )
+                
+                d
+                t
+                ,
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}F(x_{1}+\Delta x)-F(x_{1})&=\int _{a}^{x_{1}+\Delta x}f(t)\,dt-\int _{a}^{x_{1}}f(t)\,dt\\&=\int _{x_{1}}^{x_{1}+\Delta x}f(t)\,dt,\end{aligned}}}
+  
+
+the latter equality resulting from the basic properties of integrals and the additivity of areas.
+According to the mean value theorem for integration, there exists a real number 
+  
+    
+      
+        c
+        ∈
+        [
+        
+          x
+          
+            1
+          
+        
+        ,
+        
+          x
+          
+            1
+          
+        
+        +
+        Δ
+        x
+        ]
+      
+    
+    {\displaystyle c\in [x_{1},x_{1}+\Delta x]}
+  
+ such that
+
+  
+    
+      
+        
+          ∫
+          
+            
+              x
+              
+                1
+              
+            
+          
+          
+            
+              x
+              
+                1
+              
+            
+            +
+            Δ
+            x
+          
+        
+        f
+        (
+        t
+        )
+        
+        d
+        t
+        =
+        f
+        (
+        c
+        )
+        ⋅
+        Δ
+        x
+        .
+      
+    
+    {\displaystyle \int _{x_{1}}^{x_{1}+\Delta x}f(t)\,dt=f(c)\cdot \Delta x.}
+  
+
+It follows that
+
+  
+    
+      
+        F
+        (
+        
+          x
+          
+            1
+          
+        
+        +
+        Δ
+        x
+        )
+        −
+        F
+        (
+        
+          x
+          
+            1
+          
+        
+        )
+        =
+        f
+        (
+        c
+        )
+        ⋅
+        Δ
+        x
+        ,
+      
+    
+    {\displaystyle F(x_{1}+\Delta x)-F(x_{1})=f(c)\cdot \Delta x,}
+  
+
+and thus that
+
+  
+    
+      
+        
+          
+            
+              F
+              (
+              
+                x
+                
+                  1
+                
+              
+              +
+              Δ
+              x
+              )
+              −
+              F
+              (
+              
+                x
+                
+                  1
+                
+              
+              )
+            
+            
+              Δ
+              x
+            
+          
+        
+        =
+        f
+        (
+        c
+        )
+        .
+      
+    
+    {\displaystyle {\frac {F(x_{1}+\Delta x)-F(x_{1})}{\Delta x}}=f(c).}
+  
+
+Taking the limit as 
+  
+    
+      
+        Δ
+        x
+        →
+        0
+        ,
+      
+    
+    {\displaystyle \Delta x\to 0,}
+  
+ and keeping in mind that 
+  
+    
+      
+        c
+        ∈
+        [
+        
+          x
+          
+            1
+          
+        
+        ,
+        
+          x
+          
+            1
+          
+        
+        +
+        Δ
+        x
+        ]
+        ,
+      
+    
+    {\displaystyle c\in [x_{1},x_{1}+\Delta x],}
+  
+ one gets 
+
+  
+    
+      
+        
+          lim
+          
+            Δ
+            x
+            →
+            0
+          
+        
+        
+          
+            
+              F
+              (
+              
+                x
+                
+                  1
+                
+              
+              +
+              Δ
+              x
+              )
+              −
+              F
+              (
+              
+                x
+                
+                  1
+                
+              
+              )
+            
+            
+              Δ
+              x
+            
+          
+        
+        =
+        
+          lim
+          
+            Δ
+            x
+            →
+            0
+          
+        
+        f
+        (
+        c
+        )
+        ,
+      
+    
+    {\displaystyle \lim _{\Delta x\to 0}{\frac {F(x_{1}+\Delta x)-F(x_{1})}{\Delta x}}=\lim _{\Delta x\to 0}f(c),}
+  
+
+that is, 
+
+  
+    
+      
+        
+          F
+          ′
+        
+        (
+        
+          x
+          
+            1
+          
+        
+        )
+        =
+        f
+        (
+        
+          x
+          
+            1
+          
+        
+        )
+        ,
+      
+    
+    {\displaystyle F'(x_{1})=f(x_{1}),}
+  
+
+according to the definition of the derivative, the continuity of f, and the squeeze theorem.
+
+Proof of the corollary
+Suppose F is an antiderivative of f, with f continuous on [a, b]. Let
+
+  
+    
+      
+        G
+        (
+        x
+        )
+        =
+        
+          ∫
+          
+            a
+          
+          
+            x
+          
+        
+        f
+        (
+        t
+        )
+        
+        d
+        t
+        .
+      
+    
+    {\displaystyle G(x)=\int _{a}^{x}f(t)\,dt.}
+  
+
+By the first part of the theorem, we know G is also an antiderivative of f. Since F′ − G′ = 0 the mean value theorem implies that F − G is a constant function, that is, there is a number c such that G(x) = F(x) + c for all x in [a, b]. Letting x = a, we have
+
+  
+    
+      
+        F
+        (
+        a
+        )
+        +
+        c
+        =
+        G
+        (
+        a
+        )
+        =
+        
+          ∫
+          
+            a
+          
+          
+            a
+          
+        
+        f
+        (
+        t
+        )
+        
+        d
+        t
+        =
+        0
+        ,
+      
+    
+    {\displaystyle F(a)+c=G(a)=\int _{a}^{a}f(t)\,dt=0,}
+  
+
+which means c = −F(a). In other words, G(x) = F(x) − F(a), and so
+
+  
+    
+      
+        
+          ∫
+          
+            a
+          
+          
+            b
+          
+        
+        f
+        (
+        x
+        )
+        
+        d
+        x
+        =
+        G
+        (
+        b
+        )
+        =
+        F
+        (
+        b
+        )
+        −
+        F
+        (
+        a
+        )
+        .
+      
+    
+    {\displaystyle \int _{a}^{b}f(x)\,dx=G(b)=F(b)-F(a).}
+
+Proof of the second part
+This is a limit proof by Riemann sums.
+To begin, we recall the mean value theorem. Stated briefly, if F is continuous on the closed interval [a, b] and differentiable on the open interval (a, b), then there exists some c in (a, b) such that
+
+  
+    
+      
+        
+          F
+          ′
+        
+        (
+        c
+        )
+        (
+        b
+        −
+        a
+        )
+        =
+        F
+        (
+        b
+        )
+        −
+        F
+        (
+        a
+        )
+        .
+      
+    
+    {\displaystyle F'(c)(b-a)=F(b)-F(a).}
+  
+
+Let f be (Riemann) integrable on the interval [a, b], and let f admit an antiderivative F on (a, b) such that F is continuous on [a, b]. Begin with the quantity F(b) − F(a). Let there be numbers x0, ..., xn such that
+
+  
+    
+      
+        a
+        =
+        
+          x
+          
+            0
+          
+        
+        <
+        
+          x
+          
+            1
+          
+        
+        <
+        
+          x
+          
+            2
+          
+        
+        <
+        ⋯
+        <
+        
+          x
+          
+            n
+            −
+            1
+          
+        
+        <
+        
+          x
+          
+            n
+          
+        
+        =
+        b
+        .
+      
+    
+    {\displaystyle a=x_{0}<x_{1}<x_{2}<\cdots <x_{n-1}<x_{n}=b.}
+  
+
+It follows that
+
+  
+    
+      
+        F
+        (
+        b
+        )
+        −
+        F
+        (
+        a
+        )
+        =
+        F
+        (
+        
+          x
+          
+            n
+          
+        
+        )
+        −
+        F
+        (
+        
+          x
+          
+            0
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle F(b)-F(a)=F(x_{n})-F(x_{0}).}
+  
+
+Now, we add each F(xi) along with its additive inverse, so that the resulting quantity is equal:
+
+  
+    
+      
+        
+          
+            
+              
+                F
+                (
+                b
+                )
+                −
+                F
+                (
+                a
+                )
+              
+              
+                
+                =
+                F
+                (
+                
+                  x
+                  
+                    n
+                  
+                
+                )
+                +
+                [
+                −
+                F
+                (
+                
+                  x
+                  
+                    n
+                    −
+                    1
+                  
+                
+                )
+                +
+                F
+                (
+                
+                  x
+                  
+                    n
+                    −
+                    1
+                  
+                
+                )
+                ]
+                +
+                ⋯
+                +
+                [
+                −
+                F
+                (
+                
+                  x
+                  
+                    1
+                  
+                
+                )
+                +
+                F
+                (
+                
+                  x
+                  
+                    1
+                  
+                
+                )
+                ]
+                −
+                F
+                (
+                
+                  x
+                  
+                    0
+                  
+                
+                )
+              
+            
+            
+              
+              
+                
+                =
+                [
+                F
+                (
+                
+                  x
+                  
+                    n
+                  
+                
+                )
+                −
+                F
+                (
+                
+                  x
+                  
+                    n
+                    −
+                    1
+                  
+                
+                )
+                ]
+                +
+                [
+                F
+                (
+                
+                  x
+                  
+                    n
+                    −
+                    1
+                  
+                
+                )
+                −
+                F
+                (
+                
+                  x
+                  
+                    n
+                    −
+                    2
+                  
+                
+                )
+                ]
+                +
+                ⋯
+                +
+                [
+                F
+                (
+                
+                  x
+                  
+                    2
+                  
+                
+                )
+                −
+                F
+                (
+                
+                  x
+                  
+                    1
+                  
+                
+                )
+                ]
+                +
+                [
+                F
+                (
+                
+                  x
+                  
+                    1
+                  
+                
+                )
+                −
+                F
+                (
+                
+                  x
+                  
+                    0
+                  
+                
+                )
+                ]
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}F(b)-F(a)&=F(x_{n})+[-F(x_{n-1})+F(x_{n-1})]+\cdots +[-F(x_{1})+F(x_{1})]-F(x_{0})\\&=[F(x_{n})-F(x_{n-1})]+[F(x_{n-1})-F(x_{n-2})]+\cdots +[F(x_{2})-F(x_{1})]+[F(x_{1})-F(x_{0})].\end{aligned}}}
+  
+
+The above quantity can be written as the following sum:
+
+The function F is differentiable on the interval (a, b) and continuous on the closed interval [a, b]; therefore, it is also differentiable on each interval (xi−1, xi) and continuous on each interval [xi−1, xi]. According to the mean value theorem (above), for each i there exists a 
+  
+    
+      
+        
+          c
+          
+            i
+          
+        
+      
+    
+    {\displaystyle c_{i}}
+  
+ in (xi−1, xi) such that
+
+  
+    
+      
+        F
+        (
+        
+          x
+          
+            i
+          
+        
+        )
+        −
+        F
+        (
+        
+          x
+          
+            i
+            −
+            1
+          
+        
+        )
+        =
+        
+          F
+          ′
+        
+        (
+        
+          c
+          
+            i
+          
+        
+        )
+        (
+        
+          x
+          
+            i
+          
+        
+        −
+        
+          x
+          
+            i
+            −
+            1
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle F(x_{i})-F(x_{i-1})=F'(c_{i})(x_{i}-x_{i-1}).}
+  
+
+Substituting the above into (1'), we get
+
+  
+    
+      
+        F
+        (
+        b
+        )
+        −
+        F
+        (
+        a
+        )
+        =
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        [
+        
+          F
+          ′
+        
+        (
+        
+          c
+          
+            i
+          
+        
+        )
+        (
+        
+          x
+          
+            i
+          
+        
+        −
+        
+          x
+          
+            i
+            −
+            1
+          
+        
+        )
+        ]
+        .
+      
+    
+    {\displaystyle F(b)-F(a)=\sum _{i=1}^{n}[F'(c_{i})(x_{i}-x_{i-1})].}
+  
+
+The assumption implies 
+  
+    
+      
+        
+          F
+          ′
+        
+        (
+        
+          c
+          
+            i
+          
+        
+        )
+        =
+        f
+        (
+        
+          c
+          
+            i
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle F'(c_{i})=f(c_{i}).}
+  
+ Also, 
+  
+    
+      
+        
+          x
+          
+            i
+          
+        
+        −
+        
+          x
+          
+            i
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle x_{i}-x_{i-1}}
+  
+ can be expressed as 
+  
+    
+      
+        Δ
+        x
+      
+    
+    {\displaystyle \Delta x}
+  
+ of partition 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  
+.
+
+We are describing the area of a rectangle, with the width times the height, and we are adding the areas together. Each rectangle, by virtue of the mean value theorem, describes an approximation of the curve section it is drawn over. Also 
+  
+    
+      
+        Δ
+        
+          x
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \Delta x_{i}}
+  
+ need not be the same for all values of i, or in other words that the width of the rectangles can differ. What we have to do is approximate the curve with n rectangles. Now, as the size of the partitions get smaller and n increases, resulting in more partitions to cover the space, we get closer and closer to the actual area of the curve.
+By taking the limit of the expression as the norm of the partitions approaches zero, we arrive at the Riemann integral. We know that this limit exists because f was assumed to be integrable. That is, we take the limit as the largest of the partitions approaches zero in size, so that all other partitions are smaller and the number of partitions approaches infinity.
+So, we take the limit on both sides of (2'). This gives us
+
+  
+    
+      
+        
+          lim
+          
+            ‖
+            Δ
+            
+              x
+              
+                i
+              
+            
+            ‖
+            →
+            0
+          
+        
+        F
+        (
+        b
+        )
+        −
+        F
+        (
+        a
+        )
+        =
+        
+          lim
+          
+            ‖
+            Δ
+            
+              x
+              
+                i
+              
+            
+            ‖
+            →
+            0
+          
+        
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        [
+        f
+        (
+        
+          c
+          
+            i
+          
+        
+        )
+        (
+        Δ
+        
+          x
+          
+            i
+          
+        
+        )
+        ]
+        .
+      
+    
+    {\displaystyle \lim _{\|\Delta x_{i}\|\to 0}F(b)-F(a)=\lim _{\|\Delta x_{i}\|\to 0}\sum _{i=1}^{n}[f(c_{i})(\Delta x_{i})].}
+  
+
+Neither F(b) nor F(a) is dependent on 
+  
+    
+      
+        ‖
+        Δ
+        
+          x
+          
+            i
+          
+        
+        ‖
+      
+    
+    {\displaystyle \|\Delta x_{i}\|}
+  
+, so the limit on the left side remains F(b) − F(a).
+
+  
+    
+      
+        F
+        (
+        b
+        )
+        −
+        F
+        (
+        a
+        )
+        =
+        
+          lim
+          
+            ‖
+            Δ
+            
+              x
+              
+                i
+              
+            
+            ‖
+            →
+            0
+          
+        
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        [
+        f
+        (
+        
+          c
+          
+            i
+          
+        
+        )
+        (
+        Δ
+        
+          x
+          
+            i
+          
+        
+        )
+        ]
+        .
+      
+    
+    {\displaystyle F(b)-F(a)=\lim _{\|\Delta x_{i}\|\to 0}\sum _{i=1}^{n}[f(c_{i})(\Delta x_{i})].}
+  
+
+The expression on the right side of the equation defines the integral over f from a to b. Therefore, we obtain
+
+  
+    
+      
+        F
+        (
+        b
+        )
+        −
+        F
+        (
+        a
+        )
+        =
+        
+          ∫
+          
+            a
+          
+          
+            b
+          
+        
+        f
+        (
+        x
+        )
+        
+        d
+        x
+        ,
+      
+    
+    {\displaystyle F(b)-F(a)=\int _{a}^{b}f(x)\,dx,}
+  
+
+which completes the proof.
+
+Relationship between the parts
+As discussed above, a slightly weaker version of the second part follows from the first part.
+Similarly, it almost looks like the first part of the theorem follows directly from the second. That is, suppose G is an antiderivative of f. Then by the second theorem, 
+  
+    
+      
+        G
+        (
+        x
+        )
+        −
+        G
+        (
+        a
+        )
+        =
+        
+          ∫
+          
+            a
+          
+          
+            x
+          
+        
+        f
+        (
+        t
+        )
+        
+        d
+        t
+      
+    
+    {\textstyle G(x)-G(a)=\int _{a}^{x}f(t)\,dt}
+  
+. Now, suppose 
+  
+    
+      
+        F
+        (
+        x
+        )
+        =
+        
+          ∫
+          
+            a
+          
+          
+            x
+          
+        
+        f
+        (
+        t
+        )
+        
+        d
+        t
+        =
+        G
+        (
+        x
+        )
+        −
+        G
+        (
+        a
+        )
+      
+    
+    {\textstyle F(x)=\int _{a}^{x}f(t)\,dt=G(x)-G(a)}
+  
+. Then F has the same derivative as G, and therefore F′ = f. This argument only works, however, if we already know that f has an antiderivative, and the only way we know that all continuous functions have antiderivatives is by the first part of the Fundamental Theorem.
+For example, if f(x) = e−x2, then f has an antiderivative, namely
+
+  
+    
+      
+        G
+        (
+        x
+        )
+        =
+        
+          ∫
+          
+            0
+          
+          
+            x
+          
+        
+        f
+        (
+        t
+        )
+        
+        d
+        t
+      
+    
+    {\displaystyle G(x)=\int _{0}^{x}f(t)\,dt}
+  
+
+and there is no simpler expression for this function. It is therefore important not to interpret the second part of the theorem as the definition of the integral. Indeed, there are many functions that are integrable but lack elementary antiderivatives, and discontinuous functions can be integrable but lack any antiderivatives at all. Conversely, many functions that have antiderivatives are not Riemann integrable (see Volterra's function).
+
+Examples
+Computing a particular integral
+Suppose the following is to be calculated:
+
+  
+    
+      
+        
+          ∫
+          
+            2
+          
+          
+            5
+          
+        
+        
+          x
+          
+            2
+          
+        
+        
+        d
+        x
+        .
+      
+    
+    {\displaystyle \int _{2}^{5}x^{2}\,dx.}
+  
+
+Here, 
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        
+          x
+          
+            2
+          
+        
+      
+    
+    {\displaystyle f(x)=x^{2}}
+  
+ and we can use 
+  
+    
+      
+        F
+        (
+        x
+        )
+        =
+        
+          
+            1
+            3
+          
+        
+        
+          x
+          
+            3
+          
+        
+      
+    
+    {\textstyle F(x)={\frac {1}{3}}x^{3}}
+  
+ as the antiderivative. Therefore:
+
+  
+    
+      
+        
+          ∫
+          
+            2
+          
+          
+            5
+          
+        
+        
+          x
+          
+            2
+          
+        
+        
+        d
+        x
+        =
+        F
+        (
+        5
+        )
+        −
+        F
+        (
+        2
+        )
+        =
+        
+          
+            
+              5
+              
+                3
+              
+            
+            3
+          
+        
+        −
+        
+          
+            
+              2
+              
+                3
+              
+            
+            3
+          
+        
+        =
+        
+          
+            125
+            3
+          
+        
+        −
+        
+          
+            8
+            3
+          
+        
+        =
+        
+          
+            117
+            3
+          
+        
+        =
+        39.
+      
+    
+    {\displaystyle \int _{2}^{5}x^{2}\,dx=F(5)-F(2)={\frac {5^{3}}{3}}-{\frac {2^{3}}{3}}={\frac {125}{3}}-{\frac {8}{3}}={\frac {117}{3}}=39.}
+
+Using the first part
+Suppose
+
+  
+    
+      
+        
+          
+            d
+            
+              d
+              x
+            
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            x
+          
+        
+        
+          t
+          
+            3
+          
+        
+        
+        d
+        t
+      
+    
+    {\displaystyle {\frac {d}{dx}}\int _{0}^{x}t^{3}\,dt}
+  
+
+is to be calculated. Using the first part of the theorem with 
+  
+    
+      
+        f
+        (
+        t
+        )
+        =
+        
+          t
+          
+            3
+          
+        
+      
+    
+    {\displaystyle f(t)=t^{3}}
+  
+ gives
+
+  
+    
+      
+        
+          
+            d
+            
+              d
+              x
+            
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            x
+          
+        
+        
+          t
+          
+            3
+          
+        
+        
+        d
+        t
+        =
+        f
+        (
+        x
+        )
+        =
+        
+          x
+          
+            3
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {d}{dx}}\int _{0}^{x}t^{3}\,dt=f(x)=x^{3}.}
+  
+
+This can also be checked using the second part of the theorem. Specifically, 
+  
+    
+      
+        F
+        (
+        t
+        )
+        =
+        
+          
+            1
+            4
+          
+        
+        
+          t
+          
+            4
+          
+        
+      
+    
+    {\textstyle F(t)={\frac {1}{4}}t^{4}}
+  
+ is an antiderivative of 
+  
+    
+      
+        f
+        (
+        t
+        )
+      
+    
+    {\displaystyle f(t)}
+  
+, so
+
+  
+    
+      
+        
+          
+            d
+            
+              d
+              x
+            
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            x
+          
+        
+        
+          t
+          
+            3
+          
+        
+        
+        d
+        t
+        =
+        
+          
+            d
+            
+              d
+              x
+            
+          
+        
+        F
+        (
+        x
+        )
+        −
+        
+          
+            d
+            
+              d
+              x
+            
+          
+        
+        F
+        (
+        0
+        )
+        =
+        
+          
+            d
+            
+              d
+              x
+            
+          
+        
+        
+          
+            
+              x
+              
+                4
+              
+            
+            4
+          
+        
+        =
+        
+          x
+          
+            3
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {d}{dx}}\int _{0}^{x}t^{3}\,dt={\frac {d}{dx}}F(x)-{\frac {d}{dx}}F(0)={\frac {d}{dx}}{\frac {x^{4}}{4}}=x^{3}.}
+
+An integral where the corollary is insufficient
+Suppose
+
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        
+          
+            {
+            
+              
+                
+                  sin
+                  ⁡
+                  
+                    (
+                    
+                      
+                        1
+                        x
+                      
+                    
+                    )
+                  
+                  −
+                  
+                    
+                      1
+                      x
+                    
+                  
+                  cos
+                  ⁡
+                  
+                    (
+                    
+                      
+                        1
+                        x
+                      
+                    
+                    )
+                  
+                
+                
+                  x
+                  ≠
+                  0
+                
+              
+              
+                
+                  0
+                
+                
+                  x
+                  =
+                  0
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle f(x)={\begin{cases}\sin \left({\frac {1}{x}}\right)-{\frac {1}{x}}\cos \left({\frac {1}{x}}\right)&x\neq 0\\0&x=0\\\end{cases}}}
+  
+
+Then 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+  
+ is not continuous at zero. Moreover, this is not just a matter of how 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  
+ is defined at zero, since the limit as 
+  
+    
+      
+        x
+        →
+        0
+      
+    
+    {\displaystyle x\to 0}
+  
+ of 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\displaystyle f(x)}
+  
+ does not exist. Therefore, the corollary cannot be used to compute
+
+  
+    
+      
+        
+          ∫
+          
+            0
+          
+          
+            1
+          
+        
+        f
+        (
+        x
+        )
+        
+        d
+        x
+        .
+      
+    
+    {\displaystyle \int _{0}^{1}f(x)\,dx.}
+  
+
+But consider the function
+
+  
+    
+      
+        F
+        (
+        x
+        )
+        =
+        
+          
+            {
+            
+              
+                
+                  x
+                  sin
+                  ⁡
+                  
+                    (
+                    
+                      
+                        1
+                        x
+                      
+                    
+                    )
+                  
+                
+                
+                  x
+                  ≠
+                  0
+                
+              
+              
+                
+                  0
+                
+                
+                  x
+                  =
+                  0.
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle F(x)={\begin{cases}x\sin \left({\frac {1}{x}}\right)&x\neq 0\\0&x=0.\\\end{cases}}}
+  
+
+Notice that 
+  
+    
+      
+        F
+        (
+        x
+        )
+      
+    
+    {\displaystyle F(x)}
+  
+ is continuous on 
+  
+    
+      
+        [
+        0
+        ,
+        1
+        ]
+      
+    
+    {\displaystyle [0,1]}
+  
+ (including at zero by the squeeze theorem), and 
+  
+    
+      
+        F
+        (
+        x
+        )
+      
+    
+    {\displaystyle F(x)}
+  
+ is differentiable on 
+  
+    
+      
+        (
+        0
+        ,
+        1
+        )
+      
+    
+    {\displaystyle (0,1)}
+  
+ with 
+  
+    
+      
+        
+          F
+          ′
+        
+        (
+        x
+        )
+        =
+        f
+        (
+        x
+        )
+        .
+      
+    
+    {\displaystyle F'(x)=f(x).}
+  
+ Therefore, part two of the theorem applies, and
+
+  
+    
+      
+        
+          ∫
+          
+            0
+          
+          
+            1
+          
+        
+        f
+        (
+        x
+        )
+        
+        d
+        x
+        =
+        F
+        (
+        1
+        )
+        −
+        F
+        (
+        0
+        )
+        =
+        sin
+        ⁡
+        (
+        1
+        )
+        .
+      
+    
+    {\displaystyle \int _{0}^{1}f(x)\,dx=F(1)-F(0)=\sin(1).}
+
+Theoretical example
+The theorem can be used to prove that
+
+  
+    
+      
+        
+          ∫
+          
+            a
+          
+          
+            b
+          
+        
+        f
+        (
+        x
+        )
+        d
+        x
+        =
+        
+          ∫
+          
+            a
+          
+          
+            c
+          
+        
+        f
+        (
+        x
+        )
+        d
+        x
+        +
+        
+          ∫
+          
+            c
+          
+          
+            b
+          
+        
+        f
+        (
+        x
+        )
+        d
+        x
+        .
+      
+    
+    {\displaystyle \int _{a}^{b}f(x)dx=\int _{a}^{c}f(x)dx+\int _{c}^{b}f(x)dx.}
+  
+
+Since, 
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  ∫
+                  
+                    a
+                  
+                  
+                    b
+                  
+                
+                f
+                (
+                x
+                )
+                d
+                x
+              
+              
+                
+                =
+                F
+                (
+                b
+                )
+                −
+                F
+                (
+                a
+                )
+                ,
+              
+            
+            
+              
+                
+                  ∫
+                  
+                    a
+                  
+                  
+                    c
+                  
+                
+                f
+                (
+                x
+                )
+                d
+                x
+              
+              
+                
+                =
+                F
+                (
+                c
+                )
+                −
+                F
+                (
+                a
+                )
+                ,
+                
+                   and 
+                
+              
+            
+            
+              
+                
+                  ∫
+                  
+                    c
+                  
+                  
+                    b
+                  
+                
+                f
+                (
+                x
+                )
+                d
+                x
+              
+              
+                
+                =
+                F
+                (
+                b
+                )
+                −
+                F
+                (
+                c
+                )
+                ,
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\int _{a}^{b}f(x)dx&=F(b)-F(a),\\\int _{a}^{c}f(x)dx&=F(c)-F(a),{\text{ and }}\\\int _{c}^{b}f(x)dx&=F(b)-F(c),\end{aligned}}}
+  
+
+the result follows from, 
+
+  
+    
+      
+        F
+        (
+        b
+        )
+        −
+        F
+        (
+        a
+        )
+        =
+        F
+        (
+        c
+        )
+        −
+        F
+        (
+        a
+        )
+        +
+        F
+        (
+        b
+        )
+        −
+        F
+        (
+        c
+        )
+        .
+      
+    
+    {\displaystyle F(b)-F(a)=F(c)-F(a)+F(b)-F(c).}
+
+Generalizations
+The function f does not have to be continuous over the whole interval. Part I of the theorem then says: if f is any Lebesgue integrable function on [a, b] and x0 is a number in [a, b] such that f is continuous at x0, then
+
+  
+    
+      
+        F
+        (
+        x
+        )
+        =
+        
+          ∫
+          
+            a
+          
+          
+            x
+          
+        
+        f
+        (
+        t
+        )
+        
+        d
+        t
+      
+    
+    {\displaystyle F(x)=\int _{a}^{x}f(t)\,dt}
+  
+
+is differentiable for x = x0 with F′(x0) = f(x0). We can relax the conditions on f still further and suppose that it is merely locally integrable. In that case, we can conclude that the function F is differentiable almost everywhere and F′(x) = f(x) almost everywhere. On the real line this statement is equivalent to Lebesgue's differentiation theorem. These results remain true for the Henstock–Kurzweil integral, which allows a larger class of integrable functions.
+In higher dimensions Lebesgue's differentiation theorem generalizes the Fundamental theorem of calculus by stating that for almost every x, the average value of a function f over a ball of radius r centered at x tends to f(x) as r tends to 0.
+Part II of the theorem is true for any Lebesgue integrable function f, which has an antiderivative F (not all integrable functions do, though). In other words, if a real function F on [a, b] admits a derivative f(x) at every point x of [a, b] and if this derivative f is Lebesgue integrable on [a, b], then
+
+  
+    
+      
+        F
+        (
+        b
+        )
+        −
+        F
+        (
+        a
+        )
+        =
+        
+          ∫
+          
+            a
+          
+          
+            b
+          
+        
+        f
+        (
+        t
+        )
+        
+        d
+        t
+        .
+      
+    
+    {\displaystyle F(b)-F(a)=\int _{a}^{b}f(t)\,dt.}
+  
+
+This result may fail for continuous functions F that admit a derivative f(x) at almost every point x, as the example of the Cantor function shows. However, if F is absolutely continuous, it admits a derivative F′(x) at almost every point x, and moreover F′ is integrable, with F(b) − F(a) equal to the integral of F′ on [a, b]. Conversely, if f is any integrable function, then F as given in the first formula will be absolutely continuous with F′ = f almost everywhere.
+The conditions of this theorem may again be relaxed by considering the integrals involved as Henstock–Kurzweil integrals. Specifically, if a continuous function F(x) admits a derivative f(x) at all but countably many points, then f(x) is Henstock–Kurzweil integrable and F(b) − F(a) is equal to the integral of f on [a, b]. The difference here is that the integrability of f does not need to be assumed.
+The version of Taylor's theorem that expresses the error term as an integral can be seen as a generalization of the fundamental theorem.
+There is a version of the theorem for complex functions: suppose U is an open set in C and f : U → C is a function that has a holomorphic antiderivative F on U. Then for every curve γ : [a, b] → U, the curve integral can be computed as
+
+  
+    
+      
+        
+          ∫
+          
+            γ
+          
+        
+        f
+        (
+        z
+        )
+        
+        d
+        z
+        =
+        F
+        (
+        γ
+        (
+        b
+        )
+        )
+        −
+        F
+        (
+        γ
+        (
+        a
+        )
+        )
+        .
+      
+    
+    {\displaystyle \int _{\gamma }f(z)\,dz=F(\gamma (b))-F(\gamma (a)).}
+  
+
+The fundamental theorem can be generalized to curve and surface integrals in higher dimensions and on manifolds. One such generalization offered by the calculus of moving surfaces is the time evolution of integrals. The most familiar extensions of the fundamental theorem of calculus in higher dimensions are the divergence theorem and the gradient theorem.
+One of the most powerful generalizations in this direction is the generalized Stokes theorem (sometimes known as the fundamental theorem of multivariable calculus): Let M be an oriented piecewise smooth manifold of dimension n and let 
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+  
+ be a smooth compactly supported (n − 1)-form on M. If ∂M denotes the boundary of M given its induced orientation, then
+
+  
+    
+      
+        
+          ∫
+          
+            M
+          
+        
+        d
+        ω
+        =
+        
+          ∫
+          
+            ∂
+            M
+          
+        
+        ω
+        .
+      
+    
+    {\displaystyle \int _{M}d\omega =\int _{\partial M}\omega .}
+  
+
+Here d is the exterior derivative, which is defined using the manifold structure only.
+The theorem is often used in situations where M is an embedded oriented submanifold of some bigger manifold (e.g. Rk) on which the form 
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+  
+ is defined.
+The fundamental theorem of calculus allows us to pose a definite integral as a first-order ordinary differential equation.
+
+  
+    
+      
+        
+          ∫
+          
+            a
+          
+          
+            b
+          
+        
+        f
+        (
+        x
+        )
+        
+        d
+        x
+      
+    
+    {\displaystyle \int _{a}^{b}f(x)\,dx}
+  
+
+can be posed as
+
+  
+    
+      
+        
+          
+            
+              d
+              y
+            
+            
+              d
+              x
+            
+          
+        
+        =
+        f
+        (
+        x
+        )
+        ,
+        
+        
+        y
+        (
+        a
+        )
+        =
+        0
+      
+    
+    {\displaystyle {\frac {dy}{dx}}=f(x),\;\;y(a)=0}
+  
+
+with 
+  
+    
+      
+        y
+        (
+        b
+        )
+      
+    
+    {\displaystyle y(b)}
+  
+ as the value of the integral.
+
+See also
+Differentiation under the integral sign
+Telescoping series
+Fundamental theorem of calculus for line integrals
+Notation for differentiation
+
+Notes
+References
+Bibliography
+Further reading
+External links
+
+"Fundamental theorem of calculus", Encyclopedia of Mathematics, EMS Press, 2001 [1994]
+James Gregory's Euclidean Proof of the Fundamental Theorem of Calculus at Convergence
+Isaac Barrow's proof of the Fundamental Theorem of Calculus
+Fundamental Theorem of Calculus at imomath.com
+Alternative proof of the fundamental theorem of calculus
+Fundamental Theorem of Calculus MIT.
+Fundamental Theorem of Calculus Mathworld.

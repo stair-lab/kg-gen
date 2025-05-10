@@ -1,0 +1,86 @@
+The Tropic of Cancer, also known as the Northern Tropic, is the Earth's northernmost circle of latitude where the Sun can be seen directly overhead. This occurs on the June solstice, when the Northern Hemisphere is tilted toward the Sun to its maximum extent. It also reaches 90 degrees below the horizon at solar midnight on the December Solstice. Using a continuously updated formula, the circle is currently 23°26′09.6″ (or 23.436°) north of the Equator.
+Its Southern Hemisphere counterpart, marking the most southerly position at which the Sun can be seen directly overhead, is the Tropic of Capricorn. These tropics are two of the five major circles of latitude that mark maps of Earth, the others being the Arctic and Antarctic circles and the Equator. The positions of these two circles of latitude (relative to the Equator) are dictated by the tilt of Earth's axis of rotation relative to the plane of its orbit, and since the tilt changes, the location of these two circles also changes.
+In geopolitics, it is known for being the southern limitation on the mutual defence obligation of NATO, as member states of NATO are not obligated to come to the defence of territory south of the Tropic of Cancer.
+
+Name
+When this line of latitude was named in the last centuries BCE, the Sun was in the constellation Cancer (Latin: Crab) at the June solstice (90° ecliptic longitude). Due to the precession of the equinoxes, this is no longer the case; today the Sun is in constellation Taurus at the June solstice. The word "tropic" itself comes from the Greek "trope (τροπή)", meaning turn (change of direction or circumstance), inclination, referring to the fact that the Sun appears to "turn back" at the solstices.
+
+Drift
+The Tropic of Cancer's position is not fixed, but constantly changes because of a slight wobble in the Earth's longitudinal alignment relative to the ecliptic, the plane in which the Earth orbits around the Sun. Earth's axial tilt varies over a 41,000-year period from about 22.1 to 24.5 degrees, and as of 2000 is about 23.4 degrees, which will continue to remain valid for about a millennium. This wobble means that the Tropic of Cancer is currently drifting southward at a rate of almost half an arcsecond (0.468″) of latitude, or 15 m (49 ft), per year. The circle's position was at exactly 23° 27′N in 1917 and will be at 23° 26'N in 2045.
+The distance between the Antarctic Circle and the Tropic of Cancer is essentially constant as they move in tandem. This is based on an assumption of a constant equator, but the precise location of the equator is not truly fixed. See: equator, axial tilt and circles of latitude for additional details.
+
+Geography
+North of the tropic are the subtropics and the North Temperate Zone. The equivalent line of latitude south of the Equator is called the Tropic of Capricorn, and the region between the two, centered on the Equator, is the tropics.
+In the year 2000, more than half of the world's population lived north of the Tropic of Cancer.
+On the Tropic of Cancer there are approximately 13 hours, 35 minutes of daylight during the summer solstice. During the winter solstice, there are 10 hours, 41 minutes of daylight.
+Using 23°26'N for the Tropic of Cancer, the tropic passes through the following 17 countries (including two disputed territories) and 8 water bodies, starting at the prime meridian and heading eastward:
+
+Climate
+The climate at the Tropic of Cancer is generally hot and dry, except for cooler highland regions in China, marine environments such as Hawaii, and easterly coastal areas, where orographic rainfall can be very heavy, in some places reaching 4 metres (160 in) annually. Most regions on the Tropic of Cancer experience two distinct seasons: an extremely hot summer with temperatures often reaching 45 °C (113 °F) and a warm winter with maxima around 22 °C (72 °F). Much land on or near the Tropic of Cancer is part of the Sahara Desert, while to the east, the climate is torrid monsoonal with a short wet season from June to September, and very little rainfall for the rest of the year.
+The highest mountain on or adjacent to the Tropic of Cancer is Yu Shan in Taiwan. It had glaciers descending as low as 2,800 metres (9,190 ft) during the Last Glacial Maximum. At present glaciers still exist around the Tropic. The nearest currently surviving are the Minyong and Baishui in the Himalayas to the north and on Pico de Orizaba in Mexico to the south.
+
+Circumnavigation
+According to the rules of the Fédération Aéronautique Internationale, for a flight to compete for a round-the-world speed record, it must cover a distance no less than the length of the Tropic of Cancer, cross all meridians, and end on the same airfield where it started.
+The length of the Tropic of Cancer is 36,788 km (22,859 mi):
+
+  
+    
+      
+        l
+        =
+        2
+        π
+        cos
+        ⁡
+        (
+        φ
+        )
+        6378137
+        (
+        1
+        −
+        0.00669438
+        (
+        sin
+        ⁡
+        (
+        φ
+        )
+        
+          )
+          
+            2
+          
+        
+        
+          )
+          
+            −
+            0.5
+          
+        
+      
+    
+    {\displaystyle l=2\pi \cos(\varphi )6378137(1-0.00669438(\sin(\varphi ))^{2})^{-0.5}}
+  
+
+where φ is the latitude of the Tropic of Cancer
+For an ordinary circumnavigation the rules are somewhat relaxed and the distance is set to a rounded value of at least 36,770 kilometres (22,850 mi).
+
+Gallery
+See also
+Circle of latitude
+Arctic Circle
+24th parallel north
+23rd parallel north
+Equator
+Tropic of Capricorn
+Antarctic Circle
+Axial tilt
+Milankovitch cycles
+
+References
+External links
+
+Temporal Epoch Calculations
+Useful constants (see: Obliquity of the ecliptic)

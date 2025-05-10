@@ -1,0 +1,559 @@
+Plasma (from Ancient Greek  πλάσμα (plásma) 'moldable substance') is one of four fundamental states of matter (the other three being solid, liquid, and gas) characterized by the presence of a significant portion of charged particles in any combination of ions or electrons. It is the most abundant form of ordinary matter in the universe, mostly in stars (including the Sun), but also dominating the rarefied intracluster medium and intergalactic medium.
+Plasma can be artificially generated, for example, by heating a neutral gas or subjecting it to a strong electromagnetic field.
+The presence of charged particles makes plasma electrically conductive, with the dynamics of individual particles and macroscopic plasma motion governed by collective electromagnetic fields and very sensitive to externally applied fields. The response of plasma to electromagnetic fields is used in many modern devices and technologies, such as plasma televisions or plasma etching.
+Depending on temperature and density, a certain number of neutral particles may also be present, in which case plasma is called partially ionized. Neon signs and lightning are examples of partially ionized plasmas.
+Unlike the phase transitions between the other three states of matter, the transition to plasma is not well defined and is a matter of interpretation and context. Whether a given degree of ionization suffices to call a substance "plasma" depends on the specific phenomenon being considered.
+
+Early history
+Plasma was first identified in laboratory by Sir William Crookes. Crookes presented a lecture on what he called "radiant matter" to the British Association for the Advancement of Science, in Sheffield, on Friday, 22 August 1879.
+Systematic studies of plasma began with the research of Irving Langmuir and his colleagues in the 1920s. Langmuir also introduced the term "plasma" as a description of ionized gas in 1928:
+
+Except near the electrodes, where there are sheaths containing very few electrons, the ionized gas contains ions and electrons in about equal numbers so that the resultant space charge is very small. We shall use the name plasma to describe this region containing balanced charges of ions and electrons.
+Lewi Tonks and Harold Mott-Smith, both of whom worked with Langmuir in the 1920s, recall that Langmuir first used the term by analogy with the blood plasma. Mott-Smith recalls, in particular, that the transport of electrons from thermionic filaments reminded Langmuir of "the way blood plasma carries red and white corpuscles and germs."
+
+Definitions
+The fourth state of matter
+Plasma is called the fourth state of matter after solid, liquid, and gas. It is a state of matter in which an ionized substance becomes highly electrically conductive to the point that long-range electric and magnetic fields dominate its behaviour.
+Plasma is typically an electrically quasineutral medium of unbound positive and negative particles (i.e., the overall charge of a plasma is roughly zero). Although these particles are unbound, they are not "free" in the sense of not experiencing forces. Moving charged particles generate electric currents, and any movement of a charged plasma particle affects and is affected by the fields created by the other charges. In turn, this governs collective behaviour with many degrees of variation.
+Plasma is distinct from the other states of matter. In particular, describing a low-density plasma as merely an "ionized gas" is wrong and misleading, even though it is similar to the gas phase in that both assume no definite shape or volume. The following table summarizes some principal differences:
+
+Ideal plasma
+Three factors define an ideal plasma:
+
+The plasma approximation: The plasma approximation applies when the plasma parameter Λ, representing the number of charge carriers within the Debye sphere is much higher than unity. It can be readily shown that this criterion is equivalent to smallness of the ratio of the plasma electrostatic and thermal energy densities. Such plasmas are called weakly coupled.
+Bulk interactions: The Debye length is much smaller than the physical size of the plasma. This criterion means that interactions in the bulk of the plasma are more important than those at its edges, where boundary effects may take place. When this criterion is satisfied, the plasma is quasineutral.
+Collisionlessness: The electron plasma frequency (measuring plasma oscillations of the electrons) is much larger than the electron–neutral collision frequency. When this condition is valid, electrostatic interactions dominate over the processes of ordinary gas kinetics. Such plasmas are called collisionless.
+
+Non-neutral plasma
+The strength and range of the electric force and the good conductivity of plasmas usually ensure that the densities of positive and negative charges in any sizeable region are equal ("quasineutrality"). A plasma with a significant excess of charge density, or, in the extreme case, is composed of a single species, is called a non-neutral plasma. In such a plasma, electric fields play a dominant role. Examples are charged particle beams, an electron cloud in a Penning trap and positron plasmas.
+
+Dusty plasma
+A dusty plasma contains tiny charged particles of dust (typically found in space). The dust particles acquire high charges and interact with each other. A plasma that contains larger particles is called grain plasma. Under laboratory conditions, dusty plasmas are also called complex plasmas.
+
+Properties and parameters
+Density and ionization degree
+For plasma to exist, ionization is necessary. The term "plasma density" by itself usually refers to the electron density 
+  
+    
+      
+        
+          n
+          
+            e
+          
+        
+      
+    
+    {\displaystyle n_{e}}
+  
+, that is, the number of charge-contributing electrons per unit volume. The degree of ionization 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+  
+ is defined as fraction of neutral particles that are ionized:
+
+  
+    
+      
+        α
+        =
+        
+          
+            
+              n
+              
+                i
+              
+            
+            
+              
+                n
+                
+                  i
+                
+              
+              +
+              
+                n
+                
+                  n
+                
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \alpha ={\frac {n_{i}}{n_{i}+n_{n}}},}
+  
+
+where 
+  
+    
+      
+        
+          n
+          
+            i
+          
+        
+      
+    
+    {\displaystyle n_{i}}
+  
+ is the ion density and 
+  
+    
+      
+        
+          n
+          
+            n
+          
+        
+      
+    
+    {\displaystyle n_{n}}
+  
+ the neutral density (in number of particles per unit volume). In the case of fully ionized matter, 
+  
+    
+      
+        α
+        =
+        1
+      
+    
+    {\displaystyle \alpha =1}
+  
+. Because of the quasineutrality of plasma, the electron and ion densities are related by 
+  
+    
+      
+        
+          n
+          
+            e
+          
+        
+        =
+        ⟨
+        
+          Z
+          
+            i
+          
+        
+        ⟩
+        
+          n
+          
+            i
+          
+        
+      
+    
+    {\displaystyle n_{e}=\langle Z_{i}\rangle n_{i}}
+  
+, where 
+  
+    
+      
+        ⟨
+        
+          Z
+          
+            i
+          
+        
+        ⟩
+      
+    
+    {\displaystyle \langle Z_{i}\rangle }
+  
+ is the average ion charge (in units of the elementary charge).
+
+Temperature
+Plasma temperature, commonly measured in kelvin or electronvolts, is a measure of the thermal kinetic energy per particle. High temperatures are usually needed to sustain ionization, which is a defining feature of a plasma. The degree of plasma ionization is determined by the electron temperature relative to the ionization energy (and more weakly by the density). In thermal equilibrium, the relationship is given by the Saha equation. At low temperatures, ions and electrons tend to recombine into bound states—atoms—and the plasma will eventually become a gas.
+In most cases, the electrons and heavy plasma particles (ions and neutral atoms) separately have a relatively well-defined temperature; that is, their energy distribution function is close to a Maxwellian even in the presence of strong electric or magnetic fields. However, because of the large difference in mass between electrons and ions, their temperatures may be different, sometimes significantly so. This is especially common in weakly ionized technological plasmas, where the ions are often near the ambient temperature while electrons reach thousands of kelvin. The opposite case is the z-pinch plasma where the ion temperature may exceed that of electrons.
+
+Plasma potential
+Since plasmas are very good electrical conductors, electric potentials play an important role. The average potential in the space between charged particles, independent of how it can be measured, is called the "plasma potential", or the "space potential". If an electrode is inserted into a plasma, its potential will generally lie considerably below the plasma potential due to what is termed a Debye sheath. The good electrical conductivity of plasmas makes their electric fields very small. This results in the important concept of "quasineutrality", which says the density of negative charges is approximately equal to the density of positive charges over large volumes of the plasma (
+  
+    
+      
+        
+          n
+          
+            e
+          
+        
+        =
+        ⟨
+        Z
+        ⟩
+        
+          n
+          
+            i
+          
+        
+      
+    
+    {\displaystyle n_{e}=\langle Z\rangle n_{i}}
+  
+), but on the scale of the Debye length, there can be charge imbalance. In the special case that double layers are formed, the charge separation can extend some tens of Debye lengths.
+The magnitude of the potentials and electric fields must be determined by means other than simply finding the net charge density. A common example is to assume that the electrons satisfy the Boltzmann relation:
+
+  
+    
+      
+        
+          n
+          
+            e
+          
+        
+        ∝
+        exp
+        ⁡
+        (
+        e
+        Φ
+        
+          /
+        
+        
+          k
+          
+            B
+          
+        
+        
+          T
+          
+            e
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle n_{e}\propto \exp(e\Phi /k_{\text{B}}T_{e}).}
+  
+
+Differentiating this relation provides a means to calculate the electric field from the density:
+
+  
+    
+      
+        
+          
+            
+              E
+              →
+            
+          
+        
+        =
+        
+          
+            
+              
+                k
+                
+                  B
+                
+              
+              
+                T
+                
+                  e
+                
+              
+            
+            e
+          
+        
+        
+          
+            
+              ∇
+              
+                n
+                
+                  e
+                
+              
+            
+            
+              n
+              
+                e
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\vec {E}}={\frac {k_{\text{B}}T_{e}}{e}}{\frac {\nabla n_{e}}{n_{e}}}.}
+  
+
+It is possible to produce a plasma that is not quasineutral. An electron beam, for example, has only negative charges. The density of a non-neutral plasma must generally be very low, or it must be very small, otherwise, it will be dissipated by the repulsive electrostatic force.
+
+Magnetization
+The existence of charged particles causes the plasma to generate, and be affected by, magnetic fields. Plasma with a magnetic field strong enough to influence the motion of the charged particles is said to be magnetized. A common quantitative criterion is that a particle on average completes at least one gyration around the magnetic-field line before making a collision, i.e., 
+  
+    
+      
+        
+          ν
+          
+            
+              c
+              e
+            
+          
+        
+        
+          /
+        
+        
+          ν
+          
+            
+              c
+              o
+              l
+              l
+            
+          
+        
+        >
+        1
+      
+    
+    {\displaystyle \nu _{\mathrm {ce} }/\nu _{\mathrm {coll} }>1}
+  
+, where 
+  
+    
+      
+        
+          ν
+          
+            
+              c
+              e
+            
+          
+        
+      
+    
+    {\displaystyle \nu _{\mathrm {ce} }}
+  
+ is the electron gyrofrequency and 
+  
+    
+      
+        
+          ν
+          
+            
+              c
+              o
+              l
+              l
+            
+          
+        
+      
+    
+    {\displaystyle \nu _{\mathrm {coll} }}
+  
+ is the electron collision rate. It is often the case that the electrons are magnetized while the ions are not. Magnetized plasmas are anisotropic, meaning that their properties in the direction parallel to the magnetic field are different from those perpendicular to it. While electric fields in plasmas are usually small due to the plasma high conductivity, the electric field associated with a plasma moving with velocity 
+  
+    
+      
+        
+          v
+        
+      
+    
+    {\displaystyle \mathbf {v} }
+  
+ in the magnetic field 
+  
+    
+      
+        
+          B
+        
+      
+    
+    {\displaystyle \mathbf {B} }
+  
+ is given by the usual Lorentz formula 
+  
+    
+      
+        
+          E
+        
+        =
+        −
+        
+          v
+        
+        ×
+        
+          B
+        
+      
+    
+    {\displaystyle \mathbf {E} =-\mathbf {v} \times \mathbf {B} }
+  
+, and is not affected by Debye shielding.
+
+Mathematical descriptions
+To completely describe the state of a plasma, all of the particle locations and velocities that describe the electromagnetic field in the plasma region would need to be written down. However, it is generally not practical or necessary to keep track of all the particles in a plasma. Therefore, plasma physicists commonly use less detailed descriptions, of which there are two main types:
+
+Fluid model
+Fluid models describe plasmas in terms of smoothed quantities, like density and averaged velocity around each position (see Plasma parameters). One simple fluid model, magnetohydrodynamics, treats the plasma as a single fluid governed by a combination of Maxwell's equations and the Navier–Stokes equations. A more general description is the two-fluid plasma, where the ions and electrons are described separately. Fluid models are often accurate when collisionality is sufficiently high to keep the plasma velocity distribution close to a Maxwell–Boltzmann distribution. Because fluid models usually describe the plasma in terms of a single flow at a certain temperature at each spatial location, they can neither capture velocity space structures like beams or double layers, nor resolve wave-particle effects.
+
+Kinetic model
+Kinetic models describe the particle velocity distribution function at each point in the plasma and therefore do not need to assume a Maxwell–Boltzmann distribution. A kinetic description is often necessary for collisionless plasmas. There are two common approaches to kinetic description of a plasma. One is based on representing the smoothed distribution function on a grid in velocity and position. The other, known as the particle-in-cell (PIC) technique, includes kinetic information by following the trajectories of a large number of individual particles. Kinetic models are generally more computationally intensive than fluid models. The Vlasov equation may be used to describe the dynamics of a system of charged particles interacting with an electromagnetic field.
+In magnetized plasmas, a gyrokinetic approach can substantially reduce the computational expense of a fully kinetic simulation.
+
+Plasma science and technology
+Plasmas are studied by the vast academic field of plasma science or plasma physics, including several sub-disciplines such as space plasma physics.
+Plasmas can appear in nature in various forms and locations, with a few examples given in the following table:
+
+Space and astrophysics
+Plasmas are by far the most common phase of ordinary matter in the universe, both by mass and by volume.
+Above the Earth's surface, the ionosphere is a plasma, and the magnetosphere contains plasma. Within our Solar System, interplanetary space is filled with the plasma expelled via the solar wind, extending from the Sun's surface out to the heliopause. Furthermore, all the distant stars, and much of interstellar space or intergalactic space is also filled with plasma, albeit at very low densities. Astrophysical plasmas are also observed in accretion disks around stars or compact objects like white dwarfs, neutron stars, or black holes in close binary star systems. Plasma is associated with ejection of material in astrophysical jets, which have been observed with accreting black holes or in active galaxies like M87's jet that possibly extends out to 5,000 light-years.
+
+Artificial plasmas
+Most artificial plasmas are generated by the application of electric and/or magnetic fields through a gas. Plasma generated in a laboratory setting and for industrial use can be generally categorized by:
+
+The type of power source used to generate the plasma—DC, AC (typically with radio frequency (RF)) and microwave
+The pressure they operate at—vacuum pressure (< 10 mTorr or 1 Pa), moderate pressure (≈1 Torr or 100 Pa), atmospheric pressure (760 Torr or 100 kPa)
+The degree of ionization within the plasma—fully, partially, or weakly ionized
+The temperature relationships within the plasma—thermal plasma (
+  
+    
+      
+        
+          T
+          
+            e
+          
+        
+        =
+        
+          T
+          
+            i
+          
+        
+        =
+        
+          T
+          
+            gas
+          
+        
+      
+    
+    {\displaystyle T_{e}=T_{i}=T_{\text{gas}}}
+  
+), non-thermal or "cold" plasma (
+  
+    
+      
+        
+          T
+          
+            e
+          
+        
+        ≫
+        
+          T
+          
+            i
+          
+        
+        =
+        
+          T
+          
+            gas
+          
+        
+      
+    
+    {\displaystyle T_{e}\gg T_{i}=T_{\text{gas}}}
+  
+)
+The electrode configuration used to generate the plasma
+The magnetization of the particles within the plasma—magnetized (both ion and electrons are trapped in Larmor orbits by the magnetic field), partially magnetized (the electrons but not the ions are trapped by the magnetic field), non-magnetized (the magnetic field is too weak to trap the particles in orbits but may generate Lorentz forces)
+
+Generation of artificial plasma
+Just like the many uses of plasma, there are several means for its generation. However, one principle is common to all of them: there must be energy input to produce and sustain it. For this case, plasma is generated when an electric current is applied across a dielectric gas or fluid (an electrically non-conducting material) as can be seen in the adjacent image, which shows a discharge tube as a simple example (DC used for simplicity).
+The potential difference and subsequent electric field pull the bound electrons (negative) toward the anode (positive electrode) while the cathode (negative electrode) pulls the nucleus. As the voltage increases, the current stresses the material (by electric polarization) beyond its dielectric limit (termed strength) into a stage of electrical breakdown, marked by an electric spark, where the material transforms from being an insulator into a conductor (as it becomes increasingly ionized). The underlying process is the Townsend avalanche, where collisions between electrons and neutral gas atoms create more ions and electrons (as can be seen in the figure on the right). The first impact of an electron on an atom results in one ion and two electrons. Therefore, the number of charged particles increases rapidly (in the millions) only "after about 20 successive sets of collisions", mainly due to a small mean free path (average distance travelled between collisions).
+
+Electric arc
+Electric arc is a continuous electric discharge between two electrodes, similar to lightning.
+With ample current density, the discharge forms a luminous arc, where the inter-electrode material (usually, a gas) undergoes various stages — saturation, breakdown, glow, transition, and thermal arc. The voltage rises to its maximum in the saturation stage, and thereafter it undergoes fluctuations of the various stages, while the current progressively increases throughout. Electrical resistance along the arc creates heat, which dissociates more gas molecules and ionizes the resulting atoms. Therefore, the electrical energy is given to electrons, which, due to their great mobility and large numbers, are able to disperse it rapidly by elastic collisions to the heavy particles.
+
+Examples of industrial plasma
+Plasmas find applications in many fields of research, technology and industry, for example, in industrial and extractive metallurgy, surface treatments such as plasma spraying (coating), etching in microelectronics, metal cutting and welding; as well as in everyday vehicle exhaust cleanup and fluorescent/luminescent lamps, fuel ignition, and even in supersonic combustion engines for aerospace engineering.
+
+Low-pressure discharges
+Glow discharge plasmas: non-thermal plasmas generated by the application of DC or low frequency RF (<100 kHz) electric field to the gap between two metal electrodes. Probably the most common plasma; this is the type of plasma generated within fluorescent light tubes.
+Capacitively coupled plasma (CCP): similar to glow discharge plasmas, but generated with high frequency RF electric fields, typically 13.56 MHz. These differ from glow discharges in that the sheaths are much less intense. These are widely used in the microfabrication and integrated circuit manufacturing industries for plasma etching and plasma enhanced chemical vapor deposition.
+Cascaded arc plasma source: a device to produce low temperature (≈1eV) high density plasmas (HDP).
+Inductively coupled plasma (ICP): similar to a CCP and with similar applications but the electrode consists of a coil wrapped around the chamber where plasma is formed.
+Wave heated plasma: similar to CCP and ICP in that it is typically RF (or microwave). Examples include helicon discharge and electron cyclotron resonance (ECR).
+
+Atmospheric pressure
+Arc discharge: this is a high power thermal discharge of very high temperature (≈10,000 K). It can be generated using various power supplies. It is commonly used in metallurgical processes. For example, it is used to smelt minerals containing Al2O3 to produce aluminium.
+Corona discharge: this is a non-thermal discharge generated by the application of high voltage to sharp electrode tips. It is commonly used in ozone generators and particle precipitators.
+Dielectric barrier discharge (DBD): this is a non-thermal discharge generated by the application of high voltages across small gaps wherein a non-conducting coating prevents the transition of the plasma discharge into an arc. It is often mislabeled "Corona" discharge in industry and has similar application to corona discharges. A common usage of this discharge is in a plasma actuator for vehicle drag reduction. It is also widely used in the web treatment of fabrics. The application of the discharge to synthetic fabrics and plastics functionalizes the surface and allows for paints, glues and similar materials to adhere. The dielectric barrier discharge was used in the mid-1990s to show that low temperature atmospheric pressure plasma is effective in inactivating bacterial cells. This work and later experiments using mammalian cells led to the establishment of a new field of research known as plasma medicine. The dielectric barrier discharge configuration was also used in the design of low temperature plasma jets. These plasma jets are produced by fast propagating guided ionization waves known as plasma bullets.
+Capacitive discharge: this is a nonthermal plasma generated by the application of RF power (e.g., 13.56 MHz) to one powered electrode, with a grounded electrode held at a small separation distance on the order of 1 cm. Such discharges are commonly stabilized using a noble gas such as helium or argon.
+"Piezoelectric direct discharge plasma:" is a nonthermal plasma generated at the high side of a piezoelectric transformer (PT). This generation variant is particularly suited for high efficient and compact devices where a separate high voltage power supply is not desired.
+
+MHD converters
+A world effort was triggered in the 1960s to study magnetohydrodynamic converters in order to bring MHD power conversion to market with commercial power plants of a new kind, converting the kinetic energy of a high velocity plasma into electricity with no moving parts at a high efficiency. Research was also conducted in the field of supersonic and hypersonic aerodynamics to study plasma interaction with magnetic fields to eventually achieve passive and even active flow control around vehicles or projectiles, in order to soften and mitigate shock waves, lower thermal transfer and reduce drag.
+Such ionized gases used in "plasma technology" ("technological" or "engineered" plasmas) are usually weakly ionized gases in the sense that only a tiny fraction of the gas molecules are ionized. These kinds of weakly ionized gases are also nonthermal "cold" plasmas. In the presence of magnetics fields, the study of such magnetized nonthermal weakly ionized gases involves resistive magnetohydrodynamics with low magnetic Reynolds number, a challenging field of plasma physics where calculations require dyadic tensors in a 7-dimensional phase space. When used in combination with a high Hall parameter, a critical value triggers the problematic electrothermal instability which limited these technological developments.
+
+Complex plasma phenomena
+Although the underlying equations governing plasmas are relatively simple, plasma behaviour is extraordinarily varied and subtle: the emergence of unexpected behaviour from a simple model is a typical feature of a complex system. Such systems lie in some sense on the boundary between ordered and disordered behaviour and cannot typically be described either by simple, smooth, mathematical functions, or by pure randomness. The spontaneous formation of interesting spatial features on a wide range of length scales is one manifestation of plasma complexity. The features are interesting, for example, because they are very sharp, spatially intermittent (the distance between features is much larger than the features themselves), or have a fractal form. Many of these features were first studied in the laboratory, and have subsequently been recognized throughout the universe. Examples of complexity and complex structures in plasmas include:
+
+Filamentation
+Striations or string-like structures are seen in many plasmas, like the plasma ball, the aurora, lightning, electric arcs, solar flares, and supernova remnants. They are sometimes associated with larger current densities, and the interaction with the magnetic field can form a magnetic rope structure. (See also Plasma pinch)
+Filamentation also refers to the self-focusing of a high power laser pulse. At high powers, the nonlinear part of the index of refraction becomes important and causes a higher index of refraction in the center of the laser beam, where the laser is brighter than at the edges, causing a feedback that focuses the laser even more. The tighter focused laser has a higher peak brightness (irradiance) that forms a plasma. The plasma has an index of refraction lower than one, and causes a defocusing of the laser beam. The interplay of the focusing index of refraction, and the defocusing plasma makes the formation of a long filament of plasma that can be micrometers to kilometers in length. One interesting aspect of the filamentation generated plasma is the relatively low ion density due to defocusing effects of the ionized electrons. (See also Filament propagation)
+
+Impermeable plasma
+Impermeable plasma is a type of thermal plasma which acts like an impermeable solid with respect to gas or cold plasma and can be physically pushed. Interaction of cold gas and thermal plasma was briefly studied by a group led by Hannes Alfvén in 1960s and 1970s for its possible applications in insulation of fusion plasma from the reactor walls. However, later it was found that the external magnetic fields in this configuration could induce kink instabilities in the plasma and subsequently lead to an unexpectedly high heat loss to the walls. 
+In 2013, a group of materials scientists reported that they have successfully generated stable impermeable plasma with no magnetic confinement using only an ultrahigh-pressure blanket of cold gas. While spectroscopic data on the characteristics of plasma were claimed to be difficult to obtain due to the high pressure, the passive effect of plasma on synthesis of different nanostructures clearly suggested the effective confinement. They also showed that upon maintaining the impermeability for a few tens of seconds, screening of ions at the plasma-gas interface could give rise to a strong secondary mode of heating (known as viscous heating) leading to different kinetics of reactions and formation of complex nanomaterials.
+
+Gallery
+See also
+References
+External links
+
+Plasmas: the Fourth State of Matter Archived 30 September 2019 at the Wayback Machine
+Introduction to Plasma Physics: Graduate course given by Richard Fitzpatrick|M.I.T. Introduction by I.H.Hutchinson
+Plasma Material Interaction
+How to make a glowing ball of plasma in your microwave with a grape Archived 6 September 2005 at the Wayback Machine|More (Video)
+OpenPIC3D – 3D Hybrid Particle-In-Cell simulation of plasma dynamics
+Plasma Formulary Interactive

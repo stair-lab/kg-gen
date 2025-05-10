@@ -1,0 +1,135 @@
+Bilirubin (BR) (adopted from German, originally bili—bile—plus ruber—red—from Latin) is a red-orange compound that occurs in the normcomponent of the straw-yellow color in urine. Another breakdown product, stercobilin, causes the brown color of feces.
+Although bilirubin is usually found in animals rather than plants, at least one plant species, Strelitzia nicolai, is known to contain the pigment.
+
+Structure
+Bilirubin consists of an open-chain tetrapyrrole. It is formed by oxidative cleavage of a porphyrin in heme, which affords biliverdin. Biliverdin is reduced to bilirubin. After conjugation with glucuronic acid, bilirubin is water-soluble and can be excreted.
+Bilirubin is structurally similar to the pigment phycobilin used by certain algae to capture light energy, and to the pigment phytochrome used by plants to sense light. All of these contain an open chain of four pyrrolic rings.
+Like these other pigments, some of the double-bonds in bilirubin isomerize when exposed to light. This isomerization is relevant to the phototherapy of jaundiced newborns: the E,Z-isomers of bilirubin formed upon light exposure are more soluble than the unilluminated Z,Z-isomer, as the possibility of intramolecular hydrogen bonding is removed. Increased solubility allows the excretion of unconjugated bilirubin in bile.
+Some textbooks and research articles show the incorrect geometric isomer of bilirubin. The naturally occurring isomer is the Z,Z-isomer.
+
+Function
+Bilirubin is created by the activity of biliverdin reductase on biliverdin, a green tetrapyrrolic bile pigment that is also a product of heme catabolism. Bilirubin, when oxidized, reverts to become biliverdin once again. This cycle, in addition to the demonstration of the potent antioxidant activity of bilirubin, has led to the hypothesis that bilirubin's main physiologic role is as a cellular antioxidant. Consistent with this, animal studies suggest that eliminating bilirubin results in endogenous oxidative stress. Bilirubin's antioxidant activity may be particularly important in the brain, where it prevents excitotoxicity and neuronal death by scavenging superoxide during N-methyl-D-aspartic acid neurotransmission.
+
+Metabolism
+Bilirubin in plasma is mostly produced by the destruction of erythrocytes. Heme is metabolized into biliverdin (via heme oxygenase) and then into bilirubin (via biliverdin reductase) inside the macrophages.
+Bilirubin is then released into the plasma and transported to the liver bound by albumin, since it is insoluble in water in this state. In this state, bilirubin is called unconjugated (despite being bound by albumin). 
+In the liver, unconjugated bilirubin is up-taken by the hepatocytes and subsequently conjugated with glucuronic acid (via the enzyme uridine diphosphate–glucuronyl transferase). In this state, bilirubin is soluble in water and it is called conjugated bilirubin. 
+Conjugated bilirubin is excreted into the bile ducts and enters the duodenum. During its transport to the colon, it is converted into urobilinogen by the bacterial enzyme bilirubin reductase. Most of the urobilinogen is further reduced into stercobilinogen and is excreted through feces (air oxidizes stercobilinogen to stercobilin, which gives feces their characteristic brown color). 
+A lesser amount of urobilinogen is re-absorbed into portal circulation and transferred to the liver. For the most part, this urobilinogen is recycled to conjugated bilirubin and this process closes the enterohepatic circle. There is also an amount of urobilinogen which is not recycled, but rather enters the systemic circulation and subsequently the kidneys, where it is excreted. Air oxidizes urobilinogen into urobilin, which gives urine its characteristic color.
+In parallel, a small amount of conjugated billirubin can also enter the systemic circulation and get excreted through urine. This is exaggerated in various pathological situations.
+
+Toxicity
+Hyperbilirubinemia
+Hyperbilirubinemia is a higher-than-normal level of bilirubin in the blood. Hyperbilirubinemia may refer to increased levels of conjugated, unconjugated or both conjugated and unconjugated bilirubin. The causes of hyperbilirubinemia can also be classified into prehepatic, intrahepatic, and posthepatic. 
+Prehepatic causes are associated mostly with an increase of unconjugated (indirect) bilirubin. They include:
+
+Hemolysis or increased breakdown of red blood cells (for example hematoma resorption)
+Intrahepatic causes can be associated with elevated levels of conjugated bilirubin, unconjugated bilirubin or both. They include:
+
+Neonatal hyperbilirubinemia, where the newborn's liver is not able to properly process the bilirubin causing jaundice
+Hepatocellular disease
+Viral infections (hepatitis A, B, and C)
+Chronic alcohol use
+Autoimmune disorders
+Genetic syndromes:
+Gilbert's syndrome – a genetic disorder of bilirubin metabolism that can result in mild jaundice, found in about 5% of the population
+Rotor syndrome: non-itching jaundice, with rise of bilirubin in the patient's serum, mainly of the conjugated type
+Dubin–Johnson syndrome
+Crigler–Najjar syndrome
+Pharmaceutical drugs (especially antipsychotic, some sex hormones, and a wide range of other drugs)
+Sulfonamides are contraindicated in infants less than 2 months old (exception when used with pyrimethamine in treating toxoplasmosis) as they increase unconjugated bilirubin leading to kernicterus.
+Drugs such as protease inhibitors like Indinavir can also cause disorders of bilirubin metabolism by competitively inhibiting the UGT1A1 enzyme.
+Post-hepatic causes are associated with elevated levels of conjugated bilirubin.  These include:
+
+Unusually large bile duct obstruction, e.g. gallstone in common bile duct (which is the most common post-hepatic cause)
+Biliary stricture (benign or malignant)
+Cholangitis
+Severe liver failure with cirrhosis (e.g. primary biliary cirrhosis)
+Pancreatitis
+Cirrhosis may cause normal, moderately high or high levels of bilirubin, depending on exact features of the cirrhosis.
+To further elucidate the causes of jaundice or increased bilirubin, it is usually simpler to look at other liver function tests (especially the enzymes alanine transaminase, aspartate transaminase, gamma-glutamyl transpeptidase, alkaline phosphatase), blood film examination (hemolysis, etc.) or evidence of infective hepatitis (e.g., hepatitis A, B, C, delta, E, etc.).
+
+Jaundice
+Hemoglobin acts to transport oxygen which the body receives to all body tissue via blood vessels. Over time, when red blood cells need to be replenished, the hemoglobin is broken down in the spleen; it breaks down into two parts: heme group consisting of iron and bile, and protein fraction. While protein and iron are utilized to renew red blood cells, pigments that make up the red color in blood are deposited into the bile to form bilirubin. Jaundice leads to raised bilirubin levels>  that in turn negatively remove elastin-rich tissues. Jaundice may be noticeable in the sclera of the eyes at levels of about 2 to 3 mg/dl (34 to 51 μmol/L), and in the skin at higher levels.
+Jaundice is classified, depending upon whether the bilirubin is free or conjugated to glucuronic acid, into conjugated jaundice or unconjugated jaundice.
+
+Kernicterus
+Unbound bilirubin (Bf) levels can be used to predict the risk of  neurodevelopmental handicaps within infants. Unconjugated hyperbilirubinemia in a newborn can lead to accumulation of bilirubin in certain brain regions (particularly the basal nuclei) with consequent irreversible damage to these areas manifesting as various neurological deficits, seizures, abnormal reflexes and eye movements. This type of neurological injury is known as kernicterus. The spectrum of clinical effect is called bilirubin encephalopathy. The neurotoxicity of neonatal hyperbilirubinemia manifests because the blood–brain barrier has yet to develop fully, and bilirubin can freely pass into the brain interstitium, whereas more developed individuals with increased bilirubin in the blood are protected. Aside from specific chronic medical conditions that may lead to hyperbilirubinemia, neonates in general are at increased risk since they lack the intestinal bacteria that facilitate the breakdown and excretion of conjugated bilirubin in the feces (this is largely why the feces of a neonate are paler than those of an adult). Instead the conjugated bilirubin is converted back into the unconjugated form by the enzyme β-glucuronidase (in the gut, this enzyme is located in the brush border of the lining intestinal cells) and a large proportion is reabsorbed through the enterohepatic circulation. In addition, recent studies point towards high total bilirubin levels  as a cause for gallstones regardless of gender or age.
+
+Health benefits
+In the absence of liver disease, high levels of total bilirubin confers various health benefits. Studies have also revealed that levels of serum bilirubin (SBR) are inversely related to risk of certain heart diseases. While the poor solubility and potential toxicity of bilirubin limit its potential medicinal applications, current research is being done on whether bilirubin encapsulated silk fibrin nanoparticles can alleviate symptoms of disorders such as acute pancreatitis. In addition to this, there have been recent discoveries linking bilirubin and its ε-polylysine-bilirubin conjugate (PLL-BR), to more efficient insulin medication. It seems that bilirubin exhibits protective properties during the islet transplantation process when drugs are delivered throughout the bloodstream.
+
+Blood tests
+Bilirubin is degraded by light. Blood collection tubes containing blood or (especially) serum to be used in bilirubin assays should be protected from illumination. For adults, blood is typically collected by needle from a vein in the arm. In newborns, blood is often collected from a heel stick, a technique that uses a small, sharp blade to cut the skin on the infant's heel and collect a few drops of blood into a small tube. Non-invasive technology is available in some health care facilities that will measure bilirubin by using a bilirubinometer which shines light onto the skin and calculates the amount of bilirubin by analysing how the light is absorbed or reflected. This device is also known as a transcutaneous bilirubin meter.
+Bilirubin (in blood) is found in two forms:
+
+Note: Conjugated bilirubin is often incorrectly called "direct bilirubin" and unconjugated bilirubin is incorrectly called "indirect bilirubin". Direct and indirect refer solely to how compounds are measured or detected in solution. Direct bilirubin is any form of bilirubin which is water-soluble and is available in solution to react with assay reagents; direct bilirubin is often made up largely of conjugated bilirubin, but some unconjugated bilirubin (up to 25%) can still be part of the "direct" bilirubin fraction. Likewise, not all conjugated bilirubin is readily available in solution for reaction or detection (for example, if it is hydrogen bonding with itself) and therefore would not be included in the direct bilirubin fraction.
+Total bilirubin (TBIL) measures both BU and BC. Total bilirubin assays work by using surfactants and accelerators (like caffeine) to bring all of the different bilirubin forms into solution where they can react with assay reagents. Total and direct bilirubin levels can be measured from the blood, but indirect bilirubin is calculated from the total and direct bilirubin.
+Indirect bilirubin is fat-soluble and direct bilirubin is water-soluble.
+
+Total bilirubin
+Total bilirubin = direct bilirubin + indirect bilirubin
+Elevation of both alanine aminotransferase (ALT) and bilirubin is more indicative of serious liver injury than is elevation in ALT alone, as postulated in Hy's law that elucidates the relation between the lab test results and drug-induced liver injury
+
+Indirect (unconjugated)
+The measurement of unconjugated bilirubin (UCB) is underestimated by measurement of indirect bilirubin, as unconjugated bilirubin (without/yet glucuronidation) reacts with diazosulfanilic acid to create azobilirubin which is measured as direct bilirubin.
+
+Direct
+Direct bilirubin = Conjugated bilirubin + delta bilirubin
+
+Conjugated
+In the liver, bilirubin is conjugated with glucuronic acid by the enzyme glucuronyltransferase, first to bilirubin glucuronide and then to bilirubin diglucuronide, making it soluble in water: the conjugated version is the main form of bilirubin present in the "direct" bilirubin fraction. Much of it goes into the bile and thus out into the small intestine. Though most bile acid is reabsorbed in the terminal ileum to participate in enterohepatic circulation, conjugated bilirubin is not absorbed and instead passes into the colon.
+There, colonic bacteria deconjugate and metabolize the bilirubin into colorless urobilinogen, which can be oxidized to form urobilin and stercobilin. Urobilin is excreted by the kidneys to give urine its yellow color and stercobilin is excreted in the feces giving stool its characteristic brown color. A trace (~1%) of the urobilinogen is reabsorbed into the enterohepatic circulation to be re-excreted in the bile.
+Conjugated bilirubin's half-life is shorter than delta bilirubin.
+
+Delta bilirubin
+Although the terms direct and indirect bilirubin are sometimes used interchangeably with conjugated and unconjugated bilirubin, the direct fraction actually includes both conjugated bilirubin and delta bilirubin.
+Delta bilirubin is albumin-bound conjugated bilirubin. In the other words, delta bilirubin is the kind of bilirubin covalently bound to albumin, which appears in the serum when hepatic excretion of conjugated bilirubin is impaired in patients with hepatobiliary disease. Furthermore, direct bilirubin tends to overestimate conjugated bilirubin levels due to unconjugated bilirubin that has reacted with diazosulfanilic acid, leading to increased azobilirubin levels (and increased direct bilirubin).
+δ bilirubin = total bilirubin – (unconjugated bilirubin + conjugated bilirubin)
+
+Half-life
+The half-life of delta bilirubin is equivalent to that of albumin since the former is bound to the latter, yields 2–3 weeks.
+A free-of-bound bilirubin has a half-life of 2 to 4 hours.
+
+Measurement methods
+Originally, the Van den Bergh reaction was used for a qualitative estimate of bilirubin.
+This test is performed routinely in most medical laboratories and can be measured by a variety of methods.
+Total bilirubin is now often measured by the 2,5-dichlorophenyldiazonium (DPD) method, and direct bilirubin is often measured by the method of Jendrassik and Grof.
+
+Blood levels
+The bilirubin level found in the body reflects the balance between production and excretion. Blood test results are advised to always be interpreted using the reference range provided by the laboratory that performed the test. The SI units are μmol/L. Typical ranges for adults are:
+
+0–0.3 mg/dl – Direct (conjugated) bilirubin level
+0.1–1.2 mg/dl – Total serum bilirubin level
+
+Urine tests
+Urine bilirubin may also be clinically significant. Bilirubin is not normally detectable in the urine of healthy people. If the blood level of conjugated bilirubin becomes elevated, e.g. due to liver disease, excess conjugated bilirubin is excreted in the urine, indicating a pathological process. Unconjugated bilirubin is not water-soluble and so is not excreted in the urine. Testing urine for both bilirubin and urobilinogen can help differentiate obstructive liver disease from other causes of jaundice.
+As with billirubin, under normal circumstances, only a very small amount of urobilinogen is excreted in the urine. If the liver's function is impaired or when biliary drainage is blocked, some of the conjugated bilirubin leaks out of the hepatocytes and appears in the urine, turning it dark amber. However, in disorders involving hemolytic anemia, an increased number of red blood cells are broken down, causing an increase in the amount of unconjugated bilirubin in the blood. Because the unconjugated bilirubin is not water-soluble, one will not see an increase in bilirubin in the urine. Because there is no problem with the liver or bile systems, this excess unconjugated bilirubin will go through all of the normal processing mechanisms that occur (e.g., conjugation, excretion in bile, metabolism to urobilinogen, reabsorption) and will show up as an increase of urobilinogen in the urine. This difference between increased urine bilirubin and increased urine urobilinogen helps to distinguish between various disorders in those systems.
+
+History
+In ancient history, Hippocrates discussed bile pigments in two of the four humours in the context of a relationship between yellow and black biles. Hippocrates visited Democritus in Abdera who was regarded as the expert in melancholy "black bile".
+Relevant documentation emerged in 1827 when M. Louis Jacques Thénard examined the biliary tract of an elephant that had died at a Paris zoo. He observed dilated bile ducts were full of yellow magma, which he isolated and found to be insoluble in water. Treating the yellow pigment with hydrochloric acid produced a strong green color. Thenard suspected the green pigment was caused by impurities derived from mucus of bile.
+Leopold Gmelin experimented with nitric acid in 1826 to establish the redox behavior in change from bilirubin to biliverdin, although the nomenclature did not exist at the time. The term biliverdin was coined by Jöns Jacob Berzelius in 1840, although he preferred "bilifulvin" (yellow/red) over "bilirubin" (red). The term "bilirubin" was thought to have become mainstream based on the works of Staedeler in 1864 who crystallized bilirubin from cattle gallstones.
+Rudolf Virchow in 1847 recognized hematoidin to be identical to bilirubin. It is not always distinguished from hematoidin, which one modern dictionary defines as synonymous with it but another defines as "apparently chemically identical with bilirubin but with a different site of origin, formed locally in the tissues from hemoglobin, particularly under conditions of reduced oxygen tension." The synonymous identity of bilirubin and hematoidin was confirmed in 1923 by Fischer and Steinmetz using analytical crystallography.
+In the 1930s, significant advances in bilirubin isolation and synthesis were described by Hans Fischer, Plieninger, and others, and pioneering work pertaining to endogenous formation of bilirubin from heme was likewise conducted in the same decade. The suffix IXα is partially based on a system developed Fischer, which means the bilin's parent compound was protoporphyrin IX cleaved at the alpha-methine bridge (see protoporphyrin IX nomenclature).
+Origins pertaining to the physiological activity of bilirubin were described by Ernst Stadelmann in 1891, who may have observed the biotransformation of infused hemoglobin into bilirubin possibly inspired by Ivan Tarkhanov's 1874 works. Georg Barkan suggested the source of endogenous bilirubin to be from hemoglobin in 1932. Plieninger and Fischer demonstrated an enzymatic oxidative loss of the alpha-methine bridge of heme resulting in a bis-lactam structure in 1942. It is widely accepted that Irving London was the first to demonstrate endogenous formation of bilirubin from hemoglobin in 1950, and Sjostrand demonstrated hemoglobin catabolism produces carbon monoxide between 1949 and 1952. 14C labeled protoporphyrin biotransformation to bilirubin evidence emerged in 1966 by Cecil Watson. Rudi Schmid and Tenhunen discovered heme oxygenase, the enzyme responsible, in 1968.  Earlier in 1963, Nakajima described a soluble "heme alpha-methnyl oxygeanse" which what later determined to be a non-enzymatic pathway, such as formation of a 1,2-Dioxetane intermediate at the methine bridge resulting in carbon monoxide release and biliverdin formation.
+
+Notable people
+Claudio Tiribelli, Italian hepatologist, studies on bilirubin
+
+See also
+Babesiosis
+Biliary atresia
+Bilirubin diglucuronide
+Biliverdin
+Crigler–Najjar syndrome
+Gilbert's syndrome, a genetic disorder of bilirubin metabolism that can result in mild jaundice, found in about 5% of the population.
+Hy's Law
+Lumirubin
+Primary biliary cholangitis
+Primary sclerosing cholangitis
+
+Notes
+References
+External links
+Bilirubin: analyte monograph from The Association for Clinical Biochemistry and Laboratory Medicine

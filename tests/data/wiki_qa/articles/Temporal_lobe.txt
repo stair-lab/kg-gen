@@ -1,0 +1,66 @@
+The temporal lobe is one of the four major lobes of the cerebral cortex in the brain of mammals. The temporal lobe is located beneath the lateral fissure on both cerebral hemispheres of the mammalian brain.
+The temporal lobe is involved in processing sensory input into derived meanings for the appropriate retention of visual memory, language comprehension, and emotion association.: 21 
+Temporal refers to the head's temples.
+
+Structure
+The temporal lobe consists of structures that are vital for declarative or long-term memory. Declarative (denotative) or explicit memory is conscious memory divided into semantic memory (facts) and episodic memory (events).: 194  
+The medial temporal lobe structures are critical for long-term memory, and include the hippocampal formation, perirhinal cortex, parahippocampal, and entorhinal neocortical regions.: 196  The hippocampus is critical for memory formation, and the surrounding medial temporal cortex is currently theorized to be critical for memory storage.: 21  The prefrontal and visual cortices are also involved in explicit memory.: 21 
+Research has shown that lesions in the hippocampus of monkeys results in limited impairment of function, whereas extensive lesions that include the hippocampus and the medial temporal cortex result in severe impairment.
+A form of epilepsy that involves the medial lobe is usually known as mesial temporal lobe epilepsy.
+
+Function
+Visual memories
+The temporal lobe communicates with the hippocampus and plays a key role in the formation of explicit long-term memory modulated by the amygdala.: 349
+
+Processing sensory input
+Auditory
+Adjacent areas in the superior, posterior, and lateral parts of the temporal lobes are involved in high-level auditory processing. The temporal lobe is involved in primary auditory perception, such as hearing, and holds the primary auditory cortex. The primary auditory cortex receives sensory information from the ears and secondary areas process the information into meaningful units such as speech and words.  The superior temporal gyrus includes an area (within the lateral fissure) where auditory signals from the cochlea first reach the cerebral cortex and are processed by the primary auditory cortex in the left temporal lobe.
+Visual
+The areas associated with vision in the temporal lobe interpret the meaning of visual stimuli and establish object recognition.  The ventral part of the temporal cortices appears to be involved in high-level visual processing of complex stimuli such as faces (fusiform gyrus) and scenes (parahippocampal gyrus). Anterior parts of this ventral stream for visual processing are involved in object perception and recognition.
+
+Language recognition
+In humans, temporal lobe regions are critical for accessing the semantic meaning of spoken words, printed words, and visual objects. Wernicke's area, which spans the region between temporal and parietal lobes of the dominant cerebral hemisphere (the left, in the majority of cases), plays a key role (in tandem with Broca's area in the frontal lobe) in language comprehension, whether spoken language or signed language. FMRI imaging shows these portions of the brain are activated by signed or spoken languages. These areas of the brain are active in children's language acquisition whether accessed via hearing a spoken language, watching a signed language, or via hand-over-hand tactile versions of a signed language. 
+The functions of the left temporal lobe are not limited to low-level perception but extend to comprehension, naming, and verbal memory.
+
+New memories
+The medial temporal lobes (near the sagittal plane) are thought to be involved in encoding declarative long term memory.: 194–199  The medial temporal lobes include the hippocampi, which are essential for memory storage, therefore damage to this area can result in impairment in new memory formation leading to permanent or temporary anterograde amnesia.: 194–199
+
+Clinical significance
+Unilateral temporal lesion
+Contralateral homonymous upper quadrantanopia (sector anopsia)
+Complex hallucinations (smell, sound, vision, memory)
+
+Dominant hemisphere
+Receptive aphasia
+Wernicke's aphasia
+Anomic aphasia
+Dyslexia
+Impaired verbal memory
+Word agnosia, word deafness
+
+Non-dominant hemisphere
+Impaired non-verbal memory
+Impaired musical skills
+
+Bitemporal lesions  (additional features)
+Deafness
+Apathy (affective indifference)
+Impaired learning and memory
+Amnesia, Korsakoff syndrome, Klüver–Bucy syndrome
+
+Damage
+Individuals who suffer from medial temporal lobe damage have a difficult time recalling visual stimuli. This neurotransmission deficit is not due to lacking perception of visual stimuli, but rather to the inability to interpret what is perceived. The most common symptom of inferior temporal lobe damage is visual agnosia, which involves impairment in the identification of familiar objects. Another less common type of inferior temporal lobe damage is prosopagnosia which is an impairment in the recognition of faces and distinction of unique individual facial features.
+Damage specifically to the anterior portion of the left temporal lobe can cause savant syndrome.
+
+Disorders
+Pick's disease, also known as frontotemporal amnesia, is caused by atrophy of the frontotemporal lobe. Emotional symptoms include mood changes, which the patient may be unaware of, including poor attention span and aggressive behavior towards themselves or others. Language symptoms include loss of speech, inability to read or write, loss of vocabulary and overall degeneration of motor ability.
+Temporal lobe epilepsy is a chronic neurological condition characterized by recurrent seizures; symptoms include a variety of sensory (visual, auditory, olfactory, and gustation) hallucinations, as well as an inability to process semantic and episodic memories.
+Schizophrenia is a severe psychotic disorder characterized by severe disorientation. Its most explicit symptom is the perception of external voices in the form of auditory hallucinations. The cause of such hallucinations has been attributed to deficits in the left temporal lobe, specifically within the primary auditory cortex. Decreased gray matter, among other cellular deficits, contribute to spontaneous neural activity that affects the primary auditory cortex as if it were experiencing acoustic auditory input. The misrepresentation of speech in the auditory cortex results in the perception of external voices in the form of auditory hallucinations in schizophrenic patients. Structural and functional MRI techniques have accounted for this neural activity by testing affected and non-affected individuals with external auditory stimuli.
+
+See also
+Temporoparietal junction
+
+References
+
+
+== External links ==

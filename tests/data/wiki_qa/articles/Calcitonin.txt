@@ -1,0 +1,100 @@
+Calcitonin is a 32 amino acid peptide hormone secreted by parafollicular cells (also known as C cells) of the thyroid (or endostyle) in humans and other chordates in the ultimopharyngeal body. It acts to reduce blood calcium (Ca2+), opposing the effects of parathyroid hormone (PTH).
+Its importance in humans has not been as well established as its importance in other animals, as its function is usually not significant in the regulation of normal calcium homeostasis. It belongs to the calcitonin-like protein family.
+Historically calcitonin has also been called thyrocalcitonin.
+
+Biosynthesis and regulation
+Calcitonin is formed by the proteolytic cleavage of a larger prepropeptide, which is the product of the CALC1 gene (CALCA). It is functionally an antagonist with PTH and Vitamin D3. The CALC1 gene belongs to a superfamily of related protein hormone precursors including islet amyloid precursor protein, calcitonin gene-related peptide, and the precursor of adrenomedullin.
+Secretion of calcitonin is stimulated by:
+
+an increase in serum Calcium [Ca2+]
+gastrin and pentagastrin.
+
+Function
+The hormone participates in calcium (Ca2+) metabolism. In many ways, calcitonin counteracts parathyroid hormone (PTH) and vitamin D.
+More specifically, calcitonin lowers blood Ca2+ levels in two ways:
+
+Major effect: Inhibits osteoclast activity in bones, which break down the bone
+Minor effect: Inhibits renal tubular cell reabsorption of Ca2+ and phosphate, allowing them to be excreted in the urine
+High concentrations of calcitonin may be able to increase urinary excretion of calcium and phosphate via the renal tubules. leading to marked hypocalcemia. However, this is a minor effect with no physiological significance in humans. It is also a short-lived effect because the kidneys become resistant to calcitonin, as demonstrated by the kidney's unaffected excretion of calcium in patients with thyroid tumors that secrete excessive calcitonin.
+In its skeleton-preserving actions, calcitonin protects against calcium loss from the skeleton during periods of calcium mobilization, such as pregnancy and, especially, lactation. The protective mechanisms include the direct inhibition of bone resorption and the indirect effect through the inhibition of the release of prolactin from the pituitary gland. The reason provided is that prolactin induces the release of PTH related peptide which enhances bone resorption, but is still under investigation.
+Other effects are in preventing postprandial hypercalcemia resulting from absorption of Ca2+. Also, calcitonin inhibits food intake in rats and monkeys, and may have CNS action involving the regulation of feeding and appetite.
+Calcitonin lowers blood calcium and phosphorus mainly through its inhibition of osteoclasts. Osteoblasts do not have calcitonin receptors and are therefore not directly affected by calcitonin levels. However, since bone resorption and bone formation are coupled processes, eventually calcitonin's inhibition of osteoclastic activity leads to increased osteoblastic activity (as an indirect effect).
+
+Receptor
+The calcitonin receptor is a G protein-coupled receptor localized to osteoclasts as well kidney and brain cells. It is coupled to a Gsα subunit, thus stimulating cAMP production by adenylate cyclase in target cells. It may also affect the ovaries in women and the testes in men.
+
+Discovery
+Calcitonin was first purified in 1962 by Douglas Harold Copp and B. Cheney at the University of British Columbia, Canada. It was initially thought to be secreted by the parathyroid gland but was shown by Iain Macintyre and his team at the Royal Postgraduate Medical School, London, to be secreted by parafollicular cells of the thyroid gland. Dr. Copp named the discovered hormone calcitonin because of its role in 'maintaining normal calcium tone'.
+
+Clinical significance
+Calcitonin assay is used in identifying patients with nodular thyroid diseases. It is helpful in making an early diagnosis of medullary carcinoma of thyroid. A malignancy of the parafollicular cells, i.e. medullary thyroid cancer (MTC), typically produces an elevated serum calcitonin level. Prognosis of MTC depends on early detection and treatment.
+Calcitonin also has significantly impacted molecular biology, as the gene encoding calcitonin was the first gene discovered in mammalian cells to be alternatively spliced, now known to be a ubiquitous mechanism in eukaryotes.
+
+Pharmacology
+Calcitonin has clinically been used for metabolic bone disorders for more than 50 years. Salmon calcitonin is used for the treatment of:
+
+Postmenopausal osteoporosis
+Hypercalcaemia
+Bone metastases
+Paget's disease
+Phantom limb pain
+It has been investigated as a possible non-operative treatment for spinal stenosis.
+The following information is from the UK Electronic Medicines Compendium
+
+General characteristics of the active substance
+Salmon calcitonin is rapidly absorbed and eliminated. Peak plasma concentrations are attained within the first hour of administration.
+Animal studies have shown that calcitonin is primarily metabolised via proteolysis in the kidney following parenteral administration. The metabolites lack the specific biological activity of calcitonin. Bioavailability following subcutaneous and intramuscular injection in humans is high and similar for the two routes of administration (71% and 66%, respectively).
+Calcitonin has short absorption and elimination half-lives of 10–15 minutes and 50–80 minutes, respectively. Salmon calcitonin is primarily and almost exclusively degraded in the kidneys, forming pharmacologically inactive fragments of the molecule. Therefore, the metabolic clearance is much lower in patients with end-stage kidney failure than in healthy subjects. However, the clinical relevance of this finding is not known.  Plasma protein binding is 30% to 40%.
+
+Characteristics in patients
+There is a relationship between the subcutaneous dose of calcitonin and peak plasma concentrations. Following parenteral administration of 100 IU calcitonin, peak plasma concentration lies between about 200 and 400 pg/ml. Higher blood levels may be associated with increased incidence of nausea, vomiting, and secretory diarrhea.
+
+Preclinical safety data
+Conventional long-term toxicity, reproduction, mutagenicity, and carcinogenicity studies have been performed in laboratory animals. Salmon calcitonin is devoid of embryotoxic, teratogenic, and mutagenic potential.
+An increased incidence of pituitary adenomas has been reported in rats given synthetic salmon calcitonin for 1 year. This is considered a species-specific effect and of no clinical relevance. Salmon calcitonin does not cross the placental barrier.
+In lactating animals given calcitonin, suppression of milk production has been observed. Calcitonin is secreted into the milk.
+
+Pharmaceutical manufacture
+Calcitonin was extracted from the ultimobranchial glands (thyroid-like glands) of fish, particularly salmon.  Salmon calcitonin resembles human calcitonin, but is more active.  At present, it is produced either by recombinant DNA technology or by chemical peptide synthesis.  The pharmacological properties of the synthetic and recombinant peptides have been demonstrated to be qualitatively and quantitatively equivalent.
+
+Uses of calcitonin
+Treatments
+Calcitonin can be used therapeutically for the treatment of hypercalcemia or osteoporosis.
+In a recent clinical study, subcutaneous injections of calcitonin have reduced the incidence of fractures and reduced the decrease in bone mass in women with type 2 diabetes complicated with osteoporosis.
+Subcutaneous injections of calcitonin in patients with mania resulted in significant decreases in irritability, euphoria and hyperactivity and hence calcitonin holds promise for treating bipolar disorder.  However no further work on this potential application of calcitonin has been reported.
+
+Diagnostics
+It may be used diagnostically as a tumor marker for medullary thyroid cancer, in which high calcitonin levels may be present and elevated levels after surgery may indicate recurrence. It may even be used on biopsy samples from suspicious lesions (e.g., lymph nodes that are swollen) to establish whether they are metastases of the original cancer.
+Cutoffs for calcitonin to distinguish cases with medullary thyroid cancer have been suggested to be as follows, with a higher value increasing the suspicion of medullary thyroid cancer:
+
+females: 5 ng/L or pg/mL
+males: 12 ng/L or pg/mL
+children under 6 months of age: 40 ng/L or pg/mL
+children between 6 months and 3 years of age: 15 ng/L or pg/mL
+When over 3 years of age, adult cutoffs may be used
+A Cochrane systematic review assessed the diagnostic accuracy of basal and stimulated calcitonin for Medullary Thyroid cancer. Although both basal and combined basal and stimulated calcitonin testing presented high accuracy (sensitivity: between 82% and 100%; specificity: between 97.2% and 100%), these results had a high risk of bias due to design flaws of included studies. Overall, the value of routine testing of calcitonin for diagnosis and prognosis of Medullary Thyroid Cancer remains uncertain and questionable.
+Increased levels of calcitonin have also been reported for various other conditions. They include: C-cell hyperplasia, nonthyroidal oat cell carcinoma, nonthyroidal carcinoma and other nonthyroidal malignancies, acute kidney injury and chronic kidney failure, hypercalcemia, hypergastrinemia, and other gastrointestinal disorders, and pulmonary disease.
+
+Structure
+Calcitonin is a polypeptide hormone of 32 amino acids, with a molecular weight of 3454.93 daltons. Its structure comprises a single alpha helix. Alternative splicing of the gene coding for calcitonin produces a distantly related peptide of 37 amino acids, called calcitonin gene-related peptide (CGRP), beta type.
+The following are the amino acid sequences of salmon  and human calcitonin:
+
+salmon:
+Cys-Ser-Asn-Leu-Ser-Thr-Cys-Val-Leu-Gly-Lys-Leu-Ser-Gln-Glu-Leu-His-Lys-Leu-Gln-Thr-Tyr-Pro-Arg-Thr-Asn-Thr-Gly-Ser-Gly-Thr-Pro
+
+human:
+Cys-Gly-Asn-Leu-Ser-Thr-Cys-Met-Leu-Gly-Thr-Tyr-Thr-Gln-Asp-Phe-Asn-Lys-Phe-His-Thr-Phe-Pro-Gln-Thr-Ala-Ile-Gly-Val-Gly-Ala-Pro
+Compared to salmon calcitonin, human calcitonin differs at 16 residues.
+
+Research
+In addition to the injectable and nasal spray dosage forms of the salmon calcitonin, noninvasive oral formulations of the peptide are currently under clinical development. The short-half-life of this peptide in serum triggered several attempts to enhance plasma concentrations. The peptide is complexed with a macromolecule that acts as an absorption enhancer through the transcellular pathway and, additionally, protects the peptide from the harsh pH and enzymatic conditions of the GI tract. This complexation is weak, noncovalent and reversible and the drug remains chemically unmodified. After passage through the intestine, the delivery agent dissociates from the peptide. One of the extensively studied oral formulations is the disodium salts of 5-CNAC oral calcitonin. This novel oral platform in a number of clinical trials at different phases has demonstrated promising enhanced pharmacokinetic profile, high bioavailability, well-established safety and comparable efficacy to that of nasal calcitonin especially for treatment of postmenopausal bone loss.
+
+See also
+Procalcitonin
+
+References
+Further reading
+External links
+
+The Calcitonin Protein
+Calcitonin at the U.S. National Library of Medicine Medical Subject Headings (MeSH)
