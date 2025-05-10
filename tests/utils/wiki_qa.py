@@ -1,3 +1,4 @@
+from concurrent.futures import ThreadPoolExecutor
 import json
 from typing import Literal
 import pandas as pd
@@ -7,7 +8,6 @@ import wikipediaapi
 import re
 import dspy
 
-dspy.configure(lm=dspy.LM(model="openai/gpt-4o"))
 
 BASE_CSV_PATH = "tests/data/wiki_qa"
 OUTPUT_ARTICLES_DIR = "tests/data/wiki_qa/articles"
@@ -194,6 +194,27 @@ def retrieve_articles_for_split(split_name: Literal["train", "test", "validation
     )
 
 
+# ------
+# Remove rows where the article doesn't contain the correct answer
+
+dspy.configure(lm=dspy.LM(model="openai/gpt-4o"))
+
+
+class ArticleNoAnswer(dspy.Signature):
+    """
+    Determine if the Answer to the question can be found in the article.
+    """
+
+    question: str = dspy.InputField()
+    article_title: str = dspy.InputField()
+    article: str = dspy.InputField()
+    correct_answer: str = dspy.InputField()
+
+    does_article_contain_answer: bool = dspy.OutputField(
+        desc="Whether the article contains the correct answer to question"
+    )
+
+
 def clean_rows_article_no_response(split_name: Literal["train", "test", "validation"]):
     csv_path = os.path.join(BASE_CSV_PATH, f"{split_name}_clean.csv")
 
@@ -203,23 +224,50 @@ def clean_rows_article_no_response(split_name: Literal["train", "test", "validat
 
     df = pd.read_csv(csv_path)
     valid_rows = []
-    for _, row in df.iterrows():
+
+    def process_row(row):
         document_title = row.get("document_title")
         if document_title:
             sanitized_title = sanitize_filename(document_title)
             article_path = os.path.join(OUTPUT_ARTICLES_DIR, f"{sanitized_title}.txt")
 
             if os.path.exists(article_path):
-                valid_rows.append(row)
                 q, a = row["question"], row["answer"]
-                article_text = open(article_path, "r").read()
+                with open(article_path, "r") as f:
+                    article_text = f.read()
+                predict = dspy.Predict(ArticleNoAnswer)
+                result = predict(
+                    question=q,
+                    article_title=document_title,
+                    article=article_text,
+                    correct_answer=a,
+                )
                 print(
-                    f"Q: {q} -- A: {a} -- Article: {article_path}"
-                )  # \nArticle: {article_text}")
-                # break
+                    f"Q: {q} -- A: {a} -- has_answer: {result.does_article_contain_answer}"
+                )
+                if result.does_article_contain_answer:
+                    return row
             else:
                 print(f"Article file not found for: {document_title}")
+        return None
+
+    with ThreadPoolExecutor(max_workers=5) as executor:
+        # increase if bigger openai rate limits
+        results = list(executor.map(process_row, [row for _, row in df.iterrows()]))
+
+    # Filter out None results
+    valid_rows = [row for row in results if row is not None]
+
+    # Create a new DataFrame and save to CSV
+    output_csv_path = os.path.join(BASE_CSV_PATH, f"{split_name}_clean_2.csv")
+    if valid_rows:
+        valid_df = pd.DataFrame(valid_rows)
+        valid_df.to_csv(output_csv_path, index=False)
+        print(f"Saved {len(valid_rows)} rows with valid answers to {output_csv_path}")
+    else:
+        print("No rows with valid answers found")
 
 
 if __name__ == "__main__":
     clean_rows_article_no_response("test")
+    # retrieve_articles_for_split("test")

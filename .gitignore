@@ -9,4 +9,4 @@ __pycache__/
 **dist**
 **build**
 **.egg-info**
-tests/data/wiki-qa
+tests/data/wiki_qa
