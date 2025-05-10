@@ -1,6 +1,7 @@
 from concurrent.futures import ThreadPoolExecutor
 import json
 from typing import Literal
+from kg_gen.kg_gen import KGGen
 import pandas as pd
 import os
 import requests
@@ -11,6 +12,7 @@ import dspy
 
 BASE_CSV_PATH = "tests/data/wiki_qa"
 OUTPUT_ARTICLES_DIR = "tests/data/wiki_qa/articles"
+OUTPUT_KG_DIR = "tests/data/wiki_qa/articles_kg"
 DEFAULT_WIKIPEDIA_USER_AGENT = "MyWikiQADataFetcher/1.0 (example@example.com)"
 
 
@@ -268,6 +270,41 @@ def clean_rows_article_no_response(split_name: Literal["train", "test", "validat
         print("No rows with valid answers found")
 
 
+# Generate a KG from the cleaned dataset
+
+
+def generate_kg_from_clean_dataset(split_name: Literal["train", "test", "validation"]):
+    csv_path = os.path.join(BASE_CSV_PATH, f"{split_name}_clean_2.csv")
+    df = pd.read_csv(csv_path)
+    kg = KGGen()
+    for _, row in df.iterrows():
+        title = row["document_title"]
+        article_path = os.path.join(
+            OUTPUT_ARTICLES_DIR, f"{sanitize_filename(title)}.txt"
+        )
+        if os.path.exists(article_path):
+            with open(article_path, "r") as f:
+                article = f.read()
+
+            graph_chunked = kg.generate(
+                input_data=article,
+                model="openai/gpt-4o",
+                api_key=os.getenv("OPENAI_API_KEY"),
+                chunk_size=2048,
+            )
+            os.makedirs(OUTPUT_KG_DIR, exist_ok=True)
+            output_kg_path = os.path.join(
+                OUTPUT_KG_DIR, f"{sanitize_filename(title)}.json"
+            )
+
+            with open(output_kg_path, "w") as f:
+                f.write(graph_chunked.model_dump_json(indent=4))
+            print(f"Saved knowledge graph for '{title}' to {output_kg_path}")
+        else:
+            print(f"Article file not found for: {title}")
+
+
 if __name__ == "__main__":
-    clean_rows_article_no_response("test")
     # retrieve_articles_for_split("test")
+    # clean_rows_article_no_response("test")
+    generate_kg_from_clean_dataset("test")
