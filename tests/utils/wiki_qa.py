@@ -1,0 +1,225 @@
+import json
+from typing import Literal
+import pandas as pd
+import os
+import requests
+import wikipediaapi
+import re
+import dspy
+
+dspy.configure(lm=dspy.LM(model="openai/gpt-4o"))
+
+BASE_CSV_PATH = "tests/data/wiki_qa"
+OUTPUT_ARTICLES_DIR = "tests/data/wiki_qa/articles"
+DEFAULT_WIKIPEDIA_USER_AGENT = "MyWikiQADataFetcher/1.0 (example@example.com)"
+
+
+def download_and_save_split(split_name: str, base_output_path: str):
+    os.makedirs(base_output_path, exist_ok=True)
+    parquet_file_name = f"{split_name}-00000-of-00001.parquet"
+    hf_path = f"hf://datasets/microsoft/wiki_qa/data/{parquet_file_name}"
+    csv_file_path = os.path.join(base_output_path, f"{split_name}.csv")
+
+    print(f"Downloading {split_name} data from {hf_path}...")
+    try:
+        df = pd.read_parquet(hf_path)
+        print(f"Saving {split_name} data to {csv_file_path}...")
+        df.to_csv(csv_file_path, index=False)
+        print(
+            f"{split_name.capitalize()} dataset successfully downloaded and saved to {csv_file_path}"
+        )
+        print(f"First 5 rows of {split_name}.csv:")
+        print(df.head())
+    except Exception as e:
+        print(f"Error downloading or saving {split_name} data: {e}")
+
+
+def download_all_wiki_qa_splits():
+    print("Starting download of WikiQA dataset splits (train, test, validation)...")
+    splits_to_download = ["train", "test", "validation"]
+    for split_name in splits_to_download:
+        download_and_save_split(split_name, BASE_CSV_PATH)
+    print("Finished downloading all splits.")
+
+    # Create clean dataset with only positive examples (label == 1)
+    print("Creating clean dataset with only positive examples...")
+    for split_name in splits_to_download:
+        csv_file_path = os.path.join(BASE_CSV_PATH, f"{split_name}.csv")
+        clean_file_path = os.path.join(BASE_CSV_PATH, f"{split_name}_clean.csv")
+
+        try:
+            df = pd.read_csv(csv_file_path)
+            # Filter only rows where label is 1 (positive examples)
+            clean_df = df[df["label"] == 1]
+            # Group by question ID and keep only one positive example per question
+            clean_df = clean_df.drop_duplicates(subset=["question_id"])
+
+            # Save the clean dataset
+            clean_df.to_csv(clean_file_path, index=False)
+            print(f"Clean {split_name} dataset saved to {clean_file_path}")
+            print(f"Original: {len(df)} rows, Clean: {len(clean_df)} rows")
+        except Exception as e:
+            print(f"Error creating clean dataset for {split_name}: {e}")
+
+
+def load_document_titles_from_csv(csv_file_path: str) -> set:
+    try:
+        df = pd.read_csv(csv_file_path)
+    except FileNotFoundError:
+        print(f"Error: The file {csv_file_path} was not found.")
+        print(
+            "Please ensure the CSV file exists. You might need to run the download part of this script first."
+        )
+        exit(1)
+
+    if "document_title" not in df.columns:
+        print(f"Error: 'document_title' column not found in {csv_file_path}.")
+        exit(1)
+
+    raw_titles = df["document_title"].dropna().astype(str)
+    document_titles = {title.strip() for title in raw_titles if title.strip()}
+    print(
+        f"Total unique, non-empty articles titles found in {csv_file_path}: {len(document_titles)}"
+    )
+    return document_titles
+
+
+def initialize_wikipedia_api(user_agent: str = DEFAULT_WIKIPEDIA_USER_AGENT):
+    return wikipediaapi.Wikipedia(language="en", user_agent=user_agent)
+
+
+def sanitize_filename(title: str) -> str:
+    sanitized_title = re.sub(r"[^\w\s-]", "", title).strip()
+    sanitized_title = re.sub(r"[-\s]+", "_", sanitized_title)
+    sanitized_title = re.sub(r"_+", "_", sanitized_title)
+    if not sanitized_title:
+        sanitized_title = f"untitled_{abs(hash(title)) % (10**8)}"
+    return sanitized_title
+
+
+def _get_revisions(page: str):
+    # TODO: couldn't continue wasting time on this
+    url = f"https://api.wikimedia.org/core/v1/wikipedia/en/page/{page}/history"
+    print(url)
+    response = requests.get(url)
+    data = response.json()
+    print(json.dumps(data, indent=4))
+    return None, None
+    target_year = 2015
+    closest_revision = None
+    closest_timestamp = None
+    min_time_diff = float("inf")
+
+    if "revisions" in data:
+        for revision in data["revisions"]:
+            print(revision)
+            if "timestamp" in revision:
+                timestamp = revision["timestamp"]
+                # Parse the timestamp to get the year
+                year = int(timestamp.split("-")[0])
+                # Calculate how close this revision is to 2016
+                time_diff = abs(year - target_year)
+
+                # If we find a revision from exactly 2016, return it immediately
+                if time_diff == 0:
+                    return revision["id"], timestamp
+
+                # Otherwise keep track of the closest one
+                if time_diff < min_time_diff:
+                    min_time_diff = time_diff
+                    closest_revision = revision["id"]
+                    closest_timestamp = timestamp
+
+    return closest_revision, closest_timestamp
+
+
+def fetch_and_save_wikipedia_articles_from_titles(
+    document_titles: set, wiki_api: wikipediaapi.Wikipedia, output_dir: str
+):
+    os.makedirs(output_dir, exist_ok=True)
+    fetched_count = 0
+    skipped_count = 0
+
+    for title in sorted(list(document_titles)):
+        try:
+            page = wiki_api.page(title)
+
+            if not page.exists():
+                print(f'  Page "{title}" does not exist on Wikipedia. Skipping.')
+                skipped_count += 1
+                continue
+
+            article_text = page.text
+            pageid = page.pageid
+
+            if not article_text:
+                skipped_count += 1
+                continue
+
+            sanitized_title_for_filename = sanitize_filename(title)
+            file_path = os.path.join(output_dir, f"{sanitized_title_for_filename}.txt")
+
+            with open(file_path, "w", encoding="utf-8") as f:
+                f.write(article_text)
+            print(f'Saved version of "{title}" (pageid {pageid}) to {file_path}')
+            fetched_count += 1
+
+        except Exception as e:
+            print(f'An error occurred while processing "{title}": {e}')
+            skipped_count += 1
+            continue
+
+    print(f"Successfully fetched and saved {fetched_count} articles.")
+    print(f"Skipped {skipped_count} articles.")
+
+
+def retrieve_articles_for_split(split_name: Literal["train", "test", "validation"]):
+    download_all_wiki_qa_splits()
+
+    csv_path = os.path.join(BASE_CSV_PATH, f"{split_name}_clean.csv")
+    document_titles = load_document_titles_from_csv(csv_path)
+
+    if not document_titles:
+        print("No document titles to process from CSV. Exiting article fetching.")
+        return
+
+    print(f"Found {len(document_titles)} document titles to process.")
+
+    wiki_api = initialize_wikipedia_api()
+
+    fetch_and_save_wikipedia_articles_from_titles(
+        document_titles,
+        wiki_api,
+        OUTPUT_ARTICLES_DIR,
+    )
+
+
+def clean_rows_article_no_response(split_name: Literal["train", "test", "validation"]):
+    csv_path = os.path.join(BASE_CSV_PATH, f"{split_name}_clean.csv")
+
+    if not os.path.exists(csv_path):
+        print(f"CSV file not found: {csv_path}")
+        return
+
+    df = pd.read_csv(csv_path)
+    valid_rows = []
+    for _, row in df.iterrows():
+        document_title = row.get("document_title")
+        if document_title:
+            sanitized_title = sanitize_filename(document_title)
+            article_path = os.path.join(OUTPUT_ARTICLES_DIR, f"{sanitized_title}.txt")
+
+            if os.path.exists(article_path):
+                valid_rows.append(row)
+                q, a = row["question"], row["answer"]
+                article_text = open(article_path, "r").read()
+                print(
+                    f"Q: {q} -- A: {a} -- Article: {article_path}"
+                )  # \nArticle: {article_text}")
+                # break
+            else:
+                print(f"Article file not found for: {document_title}")
+
+
+if __name__ == "__main__":
+    clean_rows_article_no_response("test")
