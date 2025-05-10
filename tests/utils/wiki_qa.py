@@ -281,43 +281,92 @@ def clean_rows_article_no_response(split_name: Literal["train", "test", "validat
 # Generate a KG from the cleaned dataset
 
 
-def generate_kg_from_clean_dataset(split_name: Literal["train", "test", "validation"]):
+def generate_kg_from_clean_dataset(split_name: Literal["train", "test", "validation"], thread_count: int = 1):
     csv_path = os.path.join(BASE_CSV_PATH, f"{split_name}_clean_2.csv")
     df = pd.read_csv(csv_path)
     kg = KGGen()
-    for _, row in df.iterrows():
-        title = row["document_title"]
+    os.makedirs(OUTPUT_KG_DIR, exist_ok=True)
+
+    # Track failures
+    missing_files = []
+    generation_errors = []
+
+    def process_row(row_data):
+        title = row_data["document_title"]
         article_path = os.path.join(
             OUTPUT_ARTICLES_DIR, f"{sanitize_filename(title)}.txt"
         )
         if os.path.exists(article_path):
-            with open(article_path, "r") as f:
-                article = f.read()
+            try:
+                with open(article_path, "r") as f:
+                    article = f.read()
 
-            graph_chunked = kg.generate(
-                input_data=article,
-                model="openai/gpt-4o",
-                api_key=os.getenv("OPENAI_API_KEY"),
-                chunk_size=2048,
-            )
-            os.makedirs(OUTPUT_KG_DIR, exist_ok=True)
-            output_kg_path = os.path.join(
-                OUTPUT_KG_DIR, f"{sanitize_filename(title)}.json"
-            )
+                graph_chunked = kg.generate(
+                    input_data=article,
+                    model="gemini/gemini-2.5-flash-preview-04-17",
+                    api_key=os.getenv("GEMINI_API_KEY"),
+                    chunk_size=2048,
+                )
+                output_kg_path = os.path.join(
+                    OUTPUT_KG_DIR, f"{sanitize_filename(title)}.json"
+                )
 
-            with open(output_kg_path, "w") as f:
-                f.write(graph_chunked.model_dump_json(indent=4))
-            print(f"Saved knowledge graph for '{title}' to {output_kg_path}")
+                with open(output_kg_path, "w") as f:
+                    f.write(graph_chunked.model_dump_json(indent=4))
+                print(f"Saved knowledge graph for '{title}' to {output_kg_path}")
+                return {"status": "success", "title": title}
+            except Exception as e:
+                error_info = {"title": title, "error": str(e)}
+                print(f"Error generating KG for '{title}': {e}")
+                return {"status": "generation_error", "data": error_info}
         else:
             print(f"Article file not found for: {title}")
+            return {"status": "missing_file", "data": {"title": title}}
+
+    # Process rows based on thread count
+    if thread_count <= 1:
+        # Process rows sequentially without threading
+        results = [process_row(row) for _, row in df.iterrows()]
+    else:
+        # Process rows using ThreadPoolExecutor
+        with ThreadPoolExecutor(max_workers=thread_count) as executor:
+            results = list(executor.map(process_row, [row for _, row in df.iterrows()]))
+
+    # Process results
+    for result in results:
+        if result["status"] == "missing_file":
+            missing_files.append(result["data"])
+        elif result["status"] == "generation_error":
+            generation_errors.append(result["data"])
+
+    # Save error logs
+    if missing_files:
+        missing_files_path = os.path.join(
+            OUTPUT_KG_DIR, f"{split_name}_missing_files.json"
+        )
+        with open(missing_files_path, "w") as f:
+            json.dump(missing_files, f, indent=4)
+        print(
+            f"Saved {len(missing_files)} missing file records to {missing_files_path}"
+        )
+
+    if generation_errors:
+        errors_path = os.path.join(
+            OUTPUT_KG_DIR, f"{split_name}_generation_errors.json"
+        )
+        with open(errors_path, "w") as f:
+            json.dump(generation_errors, f, indent=4)
+        print(
+            f"Saved {len(generation_errors)} generation error records to {errors_path}"
+        )
 
 
 if __name__ == "__main__":
     splits = ["train", "test", "validation"]
-    for split in splits:
-        # TODO: cache if files already exist, don't execute
-        retrieve_articles_for_split(split)
-        clean_rows_article_no_response(split)
+    # for split in splits:
+    #     # TODO: cache if files already exist, don't execute
+    #     retrieve_articles_for_split(split)
+    #     clean_rows_article_no_response(split)
 
-    # generate_kg_from_clean_dataset("train")
-    # generate_kg_from_clean_dataset("test")
+    for split in ["test"]:
+        generate_kg_from_clean_dataset(split)
