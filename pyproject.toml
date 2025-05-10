@@ -21,6 +21,11 @@ dependencies = [
     "pydantic>=2.0.0"
 ]
 
+[project.optional-dependencies]
+dev = [
+    "wikipediaapi"
+]
+
 [project.urls]
 Homepage = "https://github.com/stair-lab/kg-gen"
 Issues = "https://github.com/stair-lab/kg-gen/issues"

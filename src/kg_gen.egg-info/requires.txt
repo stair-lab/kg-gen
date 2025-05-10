@@ -1,3 +1,6 @@
 dspy==2.6.19
 nltk
 pydantic>=2.0.0
+
+[dev]
+wikipediaapi

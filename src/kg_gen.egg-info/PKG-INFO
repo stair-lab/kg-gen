@@ -16,6 +16,8 @@ Description-Content-Type: text/markdown
 Requires-Dist: dspy==2.6.19
 Requires-Dist: nltk
 Requires-Dist: pydantic>=2.0.0
+Provides-Extra: dev
+Requires-Dist: wikipediaapi; extra == "dev"
 
 # kg-gen: Knowledge Graph Generation from Any Text
 
