@@ -1,0 +1,231 @@
+{
+    "entities": [
+        "nonfermenters",
+        "bacteria",
+        "MacConkey agar",
+        "neutral red",
+        "enteric bacteria",
+        "sorbitol-MacConkey agar",
+        "proteose peptone",
+        "Salmonella",
+        "Lac+",
+        "Klebsiella",
+        "Proteus species",
+        "sodium taurocholate",
+        "enterohemorrhagic E. coli serotype O157:H7",
+        "MRS agar",
+        "gram-positive organisms",
+        "lactose fermenters",
+        "Mucoid colonies",
+        "R2a agar",
+        "low selective medium",
+        "indicator medium",
+        "Lac positive",
+        "selective and differential culture medium",
+        "Serratia",
+        "lactose fermentation",
+        "crystal violet",
+        "peptone",
+        "gram-negative bacteria",
+        "bile salts",
+        "Escherichia coli",
+        "E. coli O157",
+        "capsule",
+        "Alfred Theodore MacConkey",
+        "Royal Commission on Sewage Disposal",
+        "Enterobacter",
+        "Lac negative",
+        "lactose",
+        "Shigella spp.",
+        "sodium chloride",
+        "Citrobacter",
+        "Proteus"
+    ],
+    "edges": [
+        "is used to isolate",
+        "contains",
+        "differentiates based on",
+        "inhibits growth of",
+        "turn red or pink on",
+        "includes",
+        "is known as",
+        "isolates",
+        "worked for",
+        "is developed by",
+        "do not change color on",
+        "produces",
+        "is designed to isolate",
+        "detects lactose fermentation by",
+        "is",
+        "is used to inhibit swarming by"
+    ],
+    "relations": [
+        [
+            "MacConkey agar",
+            "contains",
+            "peptone"
+        ],
+        [
+            "MacConkey agar",
+            "detects lactose fermentation by",
+            "enteric bacteria"
+        ],
+        [
+            "MacConkey agar",
+            "contains",
+            "neutral red"
+        ],
+        [
+            "Lac positive",
+            "produces",
+            "Mucoid colonies"
+        ],
+        [
+            "MacConkey agar",
+            "contains",
+            "crystal violet"
+        ],
+        [
+            "MacConkey agar",
+            "differentiates based on",
+            "lactose fermentation"
+        ],
+        [
+            "Lac negative",
+            "includes",
+            "Salmonella"
+        ],
+        [
+            "Lac+",
+            "includes",
+            "Escherichia coli"
+        ],
+        [
+            "MacConkey agar",
+            "contains",
+            "lactose"
+        ],
+        [
+            "sorbitol-MacConkey agar",
+            "isolates",
+            "enterohemorrhagic E. coli serotype O157:H7"
+        ],
+        [
+            "MacConkey agar",
+            "is developed by",
+            "Alfred Theodore MacConkey"
+        ],
+        [
+            "Alfred Theodore MacConkey",
+            "worked for",
+            "Royal Commission on Sewage Disposal"
+        ],
+        [
+            "MacConkey agar",
+            "contains",
+            "proteose peptone"
+        ],
+        [
+            "Lac negative",
+            "includes",
+            "Proteus"
+        ],
+        [
+            "MacConkey agar",
+            "inhibits growth of",
+            "gram-positive organisms"
+        ],
+        [
+            "MacConkey agar",
+            "is",
+            "selective and differential culture medium"
+        ],
+        [
+            "MacConkey agar",
+            "contains",
+            "sodium taurocholate"
+        ],
+        [
+            "Klebsiella",
+            "produces",
+            "Mucoid colonies"
+        ],
+        [
+            "nonfermenters",
+            "do not change color on",
+            "MacConkey agar"
+        ],
+        [
+            "Lac negative",
+            "includes",
+            "Shigella spp."
+        ],
+        [
+            "MacConkey agar",
+            "contains",
+            "bile salts"
+        ],
+        [
+            "Lac+",
+            "includes",
+            "Klebsiella"
+        ],
+        [
+            "Enterobacter",
+            "produces",
+            "Mucoid colonies"
+        ],
+        [
+            "Mucoid colonies",
+            "produces",
+            "capsule"
+        ],
+        [
+            "MacConkey agar",
+            "is known as",
+            "indicator medium"
+        ],
+        [
+            "MacConkey agar",
+            "is designed to isolate",
+            "enteric bacteria"
+        ],
+        [
+            "MacConkey agar",
+            "is designed to isolate",
+            "gram-negative bacteria"
+        ],
+        [
+            "MacConkey agar",
+            "is known as",
+            "low selective medium"
+        ],
+        [
+            "lactose fermenters",
+            "turn red or pink on",
+            "MacConkey agar"
+        ],
+        [
+            "MacConkey agar",
+            "is used to isolate",
+            "E. coli O157"
+        ],
+        [
+            "Lac+",
+            "includes",
+            "Enterobacter"
+        ],
+        [
+            "MacConkey agar",
+            "contains",
+            "sodium chloride"
+        ],
+        [
+            "MacConkey agar",
+            "is used to inhibit swarming by",
+            "Proteus species"
+        ]
+    ],
+    "entity_clusters": null,
+    "edge_clusters": null
+}

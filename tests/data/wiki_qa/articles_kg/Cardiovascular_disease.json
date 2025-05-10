@@ -1,0 +1,3639 @@
+{
+    "entities": [
+        "psychosocial factors",
+        "chronic sleep disorders",
+        "electrolytic production of aluminium",
+        "fruits",
+        "excessive alcohol intake",
+        "heart",
+        "Mendelian influences",
+        "external validation",
+        "DASH diet",
+        "Indian Heart Association",
+        "CVD mortality risk",
+        "Post-menopausal women",
+        "dietary change",
+        "Men",
+        "vascular diseases",
+        "Mediterranean diet",
+        "waist circumference",
+        "black children",
+        "cardiovascular events",
+        "shift-work",
+        "inactivity",
+        "overweight",
+        "WHO",
+        "cardiovascular diseases",
+        "Germany",
+        "lifestyle factors",
+        "low- and middle-income countries",
+        "intermediate risk groups",
+        "risk factors",
+        "radiation-induced heart disease",
+        "industrially produced trans fatty acids (IP-TFA)",
+        "paper production",
+        "deaths",
+        "inflammatory cardiomegaly",
+        "high blood phosphorus",
+        "inflammatory heart diseases",
+        "low educational status",
+        "Anti-diabetic medication",
+        "aortas",
+        "vasoactive agents",
+        "vitamins",
+        "polyunsaturated fats",
+        "cardiovascular event",
+        "cardiac stress testing",
+        "Heart Disease MedicineNet",
+        "body fat",
+        "dietary guidelines",
+        "adolescents",
+        "sleep apnea",
+        "carbon disulphide",
+        "atherosclerosis",
+        "Coronary heart disease",
+        "Commission on Social Determinants of Health",
+        "HDL cholesterol",
+        "wealth",
+        "Americans",
+        "cardiometabolic risk",
+        "gender",
+        "hypertension",
+        "ionizing radiation",
+        "Coronary fatty streaks",
+        "ACE inhibitors",
+        "processed meats",
+        "Hormonal difference",
+        "hypoxemic lung diseases",
+        "generalized anxiety disorder",
+        "total cholesterol",
+        "aortic aneurysms",
+        "vascular cell damage",
+        "antibiotics",
+        "2021 ESC Guidelines",
+        "apolipoproteins B",
+        "Age",
+        "heart disease",
+        "decreased vagal tone",
+        "UN",
+        "developing world",
+        "non-alcoholic fatty liver disease",
+        "vitamin B3",
+        "tobacco",
+        "plant-based diet",
+        "rheumatic heart disease",
+        "markers of kidney function",
+        "unhealthy plant foods",
+        "Africa",
+        "particulate matter",
+        "cholesterol",
+        "aluminum",
+        "diastolic blood pressure",
+        "blood pressure medication",
+        "weight loss",
+        "sleep",
+        "glucose lowering",
+        "Middle-aged men",
+        "insulin sensitivity",
+        "trans-fat intake",
+        "job insecurity",
+        "venous thrombosis",
+        "cardiovascular risk assessment",
+        "digoxin intoxication-induced arrhythmias",
+        "irreversible heart damage",
+        "celiac disease",
+        "CVD risk",
+        "noise",
+        "2030",
+        "rheumatic fever",
+        "moderate activity",
+        "genetics",
+        "mobile phone text messaging",
+        "mental health disorders",
+        "poor diet",
+        "drug regimens",
+        "socio-economic inequalities",
+        "asbestos",
+        "power",
+        "Stroke",
+        "lack of control",
+        "night schedules",
+        "fibrates",
+        "Epidemiology",
+        "blood pressure",
+        "long working weeks",
+        "lead",
+        "ankle–brachial pressure index",
+        "management",
+        "meta-analysis",
+        "2020 systematic review",
+        "large-scale risk assessment",
+        "Europe",
+        "absolute risk",
+        "ischemic heart disease",
+        "injustice",
+        "moderate exercise",
+        "cost-effectiveness",
+        "heart valves",
+        "thromboembolic disease",
+        "teenagers",
+        "stress",
+        "high-sensitivity C-reactive protein (hsCRP)",
+        "periodontitis",
+        "heart attack",
+        "magnesium therapy",
+        "death",
+        "exercise training",
+        "benzopyrenes",
+        "sedentary lifestyle",
+        "stress response",
+        "PM2.5",
+        "negative events",
+        "coronary arteries",
+        "increased cardiovascular risk",
+        "social factors",
+        "health-care access",
+        "heart arrhythmia",
+        "concomitant chemotherapy",
+        "South Asian subcontinent",
+        "strokes",
+        "CVD management",
+        "influenza vaccination",
+        "class",
+        "home-based exercise programs",
+        "air pollution",
+        "plant-based diets",
+        "particle concentration",
+        "developed world",
+        "dynamite",
+        "fibrinogen",
+        "non-fatal cardiovascular disease",
+        "physiological reactions",
+        "polyunsaturated fat",
+        "group A streptococcal infection",
+        "chronic stress",
+        "working 55+ hours a week",
+        "QALY",
+        "lack of exercise",
+        "streptokinase",
+        "preventive strategies",
+        "valvular heart disease",
+        "MI",
+        "carbohydrates",
+        "heart rate",
+        "Diabetes",
+        "randomized trial results",
+        "family history of cardiovascular disease",
+        "lifestyle interventions",
+        "exposure to compounds",
+        "aspirin",
+        "energy restriction diets",
+        "sex",
+        "cardiovascular mortality",
+        "animal foods",
+        "estrogen",
+        "cigarettes",
+        "radiation therapy",
+        "2008",
+        "angina",
+        "coronary artery diseases",
+        "welding fumes",
+        "diabetic complications",
+        "healthy eating",
+        "overall mortality",
+        "low-salt diet",
+        "heart conditions",
+        "lipid profile",
+        "dental care",
+        "cholesterol level",
+        "Interactive CV Risk Calculator",
+        "metabolic syndrome",
+        "risk stratification models",
+        "coronary artery bypass surgery",
+        "fish",
+        "therapeutic interventions",
+        "trans-fat",
+        "phenoxy acids",
+        "excessive alcohol consumption",
+        "hormonal reactions",
+        "female lipid metabolism",
+        "bariatric surgery",
+        "diabetes mellitus",
+        "intermittent fasting",
+        "clonal hematopoiesis",
+        "yoga",
+        "coronary artery disease",
+        "single nucleotide polymorphisms",
+        "salt",
+        "United States",
+        "intimal lesions",
+        "dietary risk factors",
+        "occupational exposure",
+        "long QT syndrome",
+        "blood lipids",
+        "risk scores",
+        "secondary prevention",
+        "coronary artery calcification score",
+        "renal artery stenosis",
+        "Pregnancy complications",
+        "infants",
+        "oxidative stress",
+        "omnivorous diet",
+        "Cardiovascular disease",
+        "high-energy foods",
+        "population groups",
+        "Heart diseases",
+        "anthracyclines",
+        "Antibiotics",
+        "stroke",
+        "echocardiography",
+        "exercise",
+        "cerebrovascular disease",
+        "coronary artery calcium",
+        "Pre-menopausal women",
+        "arterial compliance",
+        "Arterial elasticity",
+        "gluten-free diet",
+        "lipoprotein(a)",
+        "carditis",
+        "low risk groups",
+        "World Cup soccer event",
+        "red meat",
+        "poverty",
+        "monocyte",
+        "ventricular arrhythmia",
+        "lipid testing",
+        "strep throat",
+        "myocarditis",
+        "lymphocyte",
+        "tissue plasminogen activator",
+        "Statin treatment",
+        "cardiovascular risk factor",
+        "insomnia",
+        "vegetables",
+        "dietary salt",
+        "apolipoproteins A-I",
+        "Aspirin",
+        "African-Americans",
+        "low social support",
+        "WHO study",
+        "divorce",
+        "weight reducing diets",
+        "LDL cholesterol",
+        "short-term exposure",
+        "raised blood sugar",
+        "vitamin C",
+        "physical inactivity",
+        "Reynolds risk scores",
+        "mental stress–induced myocardial ischemia",
+        "genetic predisposition",
+        "high-fiber diet",
+        "fruits and vegetables",
+        "vegetarian diet",
+        "sleep disorders",
+        "exercise adherence",
+        "heart diseases",
+        "homocysteine",
+        "coronary heart disease",
+        "severe obesity",
+        "omega-3 fatty acid supplementation",
+        "children",
+        "psychosocial interventions",
+        "Arterial compliance",
+        "non-HDL cholesterol",
+        "poor sleep",
+        "age",
+        "normal blood pressure",
+        "hypercholesterolaemia",
+        "trans-fats",
+        "vigorous activity",
+        "inflammatory markers",
+        "left ventricular hypertrophy",
+        "dietary supplements",
+        "men",
+        "niacin",
+        "eosinophilic white blood cells",
+        "sulphate pulping process",
+        "Niacin",
+        "older adults",
+        "high-income countries",
+        "diet",
+        "partially hydrogenated oils (PHOs)",
+        "Type 2 diabetes",
+        "high sensitivity C-reactive protein",
+        "women",
+        "silica dust",
+        "food choices",
+        "insufficient opportunities for personal development",
+        "saturated fat",
+        "socioeconomic disadvantage",
+        "cardiovascular issues",
+        "arrhythmias",
+        "raised blood pressure",
+        "body weight",
+        "trans fatty acids",
+        "relaxation therapies",
+        "raised blood cholesterol",
+        "processed foods",
+        "artery stiffness",
+        "impact analysis",
+        "preventative screening",
+        "statins",
+        "vitamin E",
+        "atenolol",
+        "breast cancer therapy",
+        "nondiabetics",
+        "medication",
+        "Serum cholesterol level",
+        "depression",
+        "blood vessels",
+        "family history",
+        "reduced heart rate variability",
+        "right coronary arteries",
+        "hospitalizations",
+        "antioxidant supplementation",
+        "income",
+        "unhealthy plant-based diets",
+        "high blood pressure",
+        "education",
+        "Risk calculator",
+        "Food and Drug Administration (FDA)",
+        "ethnic minorities",
+        "youths aged 7–9 years",
+        "endocarditis",
+        "diabetes",
+        "mentally stressful work",
+        "pulmonary heart disease",
+        "environmental factors",
+        "chronic kidney disease",
+        "alcohol intake",
+        "hypoglycemia",
+        "Framingham risk scores",
+        "left heart disease",
+        "radiation-induced fibrosis",
+        "NT-proBNP",
+        "childhood",
+        "polyunsaturated vegetable oil",
+        "low fruit and vegetable consumption",
+        "total fat intake",
+        "myocardial perfusion imaging",
+        "mental health problems",
+        "psychosocial stress",
+        "posttraumatic stress disorder",
+        "composite risk scores",
+        "glucose metabolism",
+        "systolic blood pressure",
+        "omega-3-fatty acids",
+        "Takotsubo syndrome",
+        "carotid artery thickening",
+        "N-terminal pro B-type natriuretic peptide",
+        "primary prevention interventions",
+        "males",
+        "heart problems",
+        "CETP Inhibitors",
+        "Coronary artery disease",
+        "psychological stress",
+        "toxins",
+        "aortic aneurysm",
+        "Influenza",
+        "CVD",
+        "primary prevention",
+        "Sex",
+        "World Heart Federation",
+        "effort-reward imbalance",
+        "large artery pulsatility",
+        "micronutrients",
+        "radiation-induced cardiovascular disease",
+        "2015 meta-analysis",
+        "metalworking fluids",
+        "Vascular wall",
+        "moderate drinking",
+        "unsaturated fat",
+        "disadvantaged neighborhoods",
+        "unhealthy diet",
+        "alcoholic drinks",
+        "environmental exposures",
+        "sugar",
+        "white blood cell count",
+        "health behaviours",
+        "anxiety",
+        "obese",
+        "vegan diet",
+        "alcohol",
+        "arrhythmia",
+        "hemostatic system",
+        "biomarkers",
+        "healthy plant foods",
+        "recommended daily limits",
+        "peripheral arterial disease",
+        "traumatic stress",
+        "exercise-based cardiac rehabilitation",
+        "undiagnosed celiac disease",
+        "heart valve problems",
+        "systematic review",
+        "United States guideline",
+        "cardiovascular benefits",
+        "pulmonary hypertension",
+        "carbon monoxide",
+        "omega-3 fatty acids",
+        "mineral supplements",
+        "heart failure",
+        "adults",
+        "coronary angioplasty",
+        "polygenic influences",
+        "nuts",
+        "hyperlipidemia",
+        "saturated fat intake",
+        "sweets",
+        "magnesium supplementation",
+        "somatic mutations",
+        "Cardiovascular diseases",
+        "low or middle-income levels",
+        "Streptococcus pyogenes",
+        "cardiovascular risk",
+        "cardiovascular disease",
+        "TCDD(dioxin)",
+        "United States Preventive Services Task Force",
+        "World Health Organization",
+        "whites",
+        "obesity",
+        "genetics of coronary heart disease",
+        "fat",
+        "cardiac dysrhythmias",
+        "hypertensive heart disease",
+        "inflammation",
+        "females",
+        "endothelial cell function",
+        "race",
+        "peripheral artery disease",
+        "previous heart disease",
+        "Pathobiological Determinants of Atherosclerosis in Youth (PDAY) study",
+        "cardiovascular disease risk score",
+        "extreme cold",
+        "cancer",
+        "stroke volume",
+        "torsades de pointes",
+        "surgical interventions",
+        "eosinophilic myocarditis",
+        "secondary CVD prevention",
+        "mortality",
+        "blood cells",
+        "sleep-disordered breathing",
+        "Screening ECGs",
+        "NIH",
+        "acute myocardial infarction",
+        "blood glucose control",
+        "developing countries",
+        "2022 review",
+        "blood pressure targets",
+        "heart attacks",
+        "genetically predisposed",
+        "beta-blockers",
+        "cardiomyopathy",
+        "arsenic",
+        "alcohol consumption",
+        "lipoprotein subclasses",
+        "tobacco use",
+        "global death",
+        "psychosocial intervention programs",
+        "healthy diet",
+        "extreme heat",
+        "second-hand smoke",
+        "health care",
+        "intestinal healing",
+        "high blood cholesterol",
+        "23 million people",
+        "low HDL cholesterol",
+        "tobacco smoke",
+        "low-fat diet",
+        "congenital heart disease",
+        "family history of heart disease",
+        "irregular heart rhythm",
+        "mortality rate",
+        "nutrition",
+        "job strain",
+        "pacemaker",
+        "housing",
+        "myocardial fibrosis",
+        "ankle-brachial index (ABI)",
+        "body fat distribution",
+        "body mass index",
+        "menopause",
+        "efficacy",
+        "High blood pressure",
+        "2016 review",
+        "leukemia-associated mutations",
+        "smoking",
+        "sensitivity",
+        "monounsaturated fat",
+        "height",
+        "engine exhaust",
+        "all-cause mortality"
+    ],
+    "edges": [
+        "leads to less",
+        "is beneficial",
+        "raises risk of",
+        "replacing with",
+        "not recommended for",
+        "is a source of",
+        "affects",
+        "limiting prevents",
+        "recommend a reduction in",
+        "risk having and dying of",
+        "linked to",
+        "had lower levels of",
+        "increase the risk of",
+        "results in",
+        "demonstrated that",
+        "will occur in",
+        "have similar efficacy in reducing",
+        "30% of all",
+        "lack",
+        "are the major form of",
+        "appears to shift toward",
+        "is difficult to distinguish from",
+        "is a factor in",
+        "may help",
+        "has",
+        "recommends against",
+        "treating is beneficial for",
+        "promotes",
+        "decrease the risk of",
+        "prevents",
+        "does not protect against",
+        "increase the risk of developing",
+        "is a tool for",
+        "are types of",
+        "increases the risk of",
+        "caused by",
+        "do not reduce",
+        "do not provide benefits over diets including",
+        "can save or prolong life in",
+        "unclear effect on",
+        "is important in",
+        "found evidence that reducing",
+        "appear in",
+        "caused over 80% of",
+        "combine",
+        "more likely to develop",
+        "is a predictor of",
+        "is prevalent in",
+        "develops more often in those who experience",
+        "may increase",
+        "report more frequently",
+        "are at greater risk of",
+        "may have protective effects on",
+        "increases the risk of developing",
+        "are on",
+        "improve risk of developing",
+        "avoidance prevents",
+        "did not find association with",
+        "have not been found useful for",
+        "decreases risk of",
+        "follows",
+        "benefits not clear for",
+        "less likely to die of",
+        "should be decreased if",
+        "has adverse effects on",
+        "is an option for",
+        "decreases after",
+        "is associated with lower risks of",
+        "leading cause of death worldwide except",
+        "are associated with",
+        "includes",
+        "focused on",
+        "has prevalence in",
+        "has average age of death in",
+        "increases likelihood of",
+        "involves",
+        "can contribute to",
+        "could have been averted in",
+        "replacement does not appear beneficial",
+        "increase",
+        "is linked to",
+        "is associated with changes in",
+        "contributes to variation in mortality of",
+        "is high in",
+        "can change",
+        "may decrease the chance of",
+        "calculated using",
+        "in those with",
+        "is the most life-threatening of",
+        "explains risk associated with",
+        "accounts for",
+        "is improved by",
+        "have",
+        "occur among",
+        "benefits",
+        "links have been established between",
+        "increases as",
+        "is a risk factor for",
+        "may lead to",
+        "include",
+        "have higher rates of",
+        "are at lower risk of",
+        "begins in",
+        "may follow",
+        "decrease",
+        "risk is reduced by",
+        "is also known as",
+        "is linked to an increased risk of developing",
+        "is a",
+        "are beneficial for prevention of",
+        "has been shown to reduce",
+        "may reduce",
+        "may improve",
+        "contribute to",
+        "used by",
+        "can improve",
+        "may determine",
+        "can affect",
+        "higher event rate than",
+        "has efficacy according to",
+        "can cause",
+        "associated with",
+        "affect",
+        "provides",
+        "risk doubles every decade after",
+        "are explained by",
+        "displays differences in",
+        "recommendation",
+        "less than seven hours increases",
+        "lack increases",
+        "has beneficial effects on",
+        "worsens",
+        "avoidance",
+        "lower",
+        "stopping",
+        "lowering to ≤ 135/85 mmHg has no additional benefit in",
+        "causes",
+        "are",
+        "is treatable with",
+        "attributes",
+        "increases risk of",
+        "may reduce risk of",
+        "leads to reduced",
+        "are of unclear benefit for",
+        "are consumed by",
+        "often experience",
+        "determined not safe",
+        "treats",
+        "is associated with increased risk of",
+        "lowers",
+        "is working with",
+        "responsible for burden of disease from",
+        "has research on",
+        "cause",
+        "was unclear due to lack of",
+        "is a type of",
+        "is attributed to",
+        "may cause harm in",
+        "found that",
+        "may be more effective than",
+        "related to",
+        "is location of",
+        "should be limited to",
+        "estimated over",
+        "is defined as less than",
+        "primary source of",
+        "is implicated in",
+        "reduce risk of",
+        "is more common among",
+        "may decrease",
+        "has high",
+        "insufficient evidence to alter",
+        "have higher",
+        "associated with higher rates of",
+        "did not find association between",
+        "increased risk of",
+        "need",
+        "recommended for",
+        "compared for",
+        "treating with antibiotics decreases risk of",
+        "is the most important risk factor in developing",
+        "lack of",
+        "trend to benefit in",
+        "providing",
+        "reduces",
+        "is diagnosed later in",
+        "are preferred over",
+        "can be decreased by awareness of",
+        "in",
+        "is associated with",
+        "recommended more equal distributions of",
+        "is low in",
+        "conflicting evidence on improving",
+        "is replaced by",
+        "has no evidence of benefit for",
+        "has been shown to improve",
+        "shows",
+        "get less than recommended",
+        "is a risk from",
+        "increases the likelihood of developing",
+        "used for",
+        "selected through",
+        "is predicted by",
+        "improves",
+        "received by",
+        "recommends",
+        "reduces risk of",
+        "use is of unclear benefit for",
+        "used to determine",
+        "is assisted by",
+        "belong to",
+        "do not account for",
+        "replacement appears greatest benefit",
+        "necessitates a focus on",
+        "is preventable if",
+        "are high in",
+        "can be decreased by recognizing",
+        "is associated with a more favourable cardio-metabolic profile compared to",
+        "risk is similar to",
+        "may change",
+        "may make more likely",
+        "found evidence of reduction in",
+        "recommended in",
+        "prevent",
+        "has a greater impact on",
+        "increased rate of",
+        "can begin to form in",
+        "increases",
+        "can increase",
+        "leads to loss of",
+        "are not the leading cause of death in",
+        "leads to",
+        "is diagnosed earlier in",
+        "has been shown to lower",
+        "reduces risk of death from",
+        "is a proposed explanation for",
+        "provide a risk reduction for",
+        "may lower",
+        "finds",
+        "has effects on",
+        "is disputed by",
+        "estimated",
+        "is associated with reduction in",
+        "risk factor",
+        "not associated with",
+        "are the leading cause of",
+        "not different from",
+        "involve",
+        "can help reduce",
+        "may have direct effect in improving"
+    ],
+    "relations": [
+        [
+            "bariatric surgery",
+            "is associated with reduction in",
+            "cardiovascular disease"
+        ],
+        [
+            "infants",
+            "need",
+            "sleep"
+        ],
+        [
+            "Anti-diabetic medication",
+            "used by",
+            "Type 2 diabetes"
+        ],
+        [
+            "sulphate pulping process",
+            "associated with",
+            "heart disease"
+        ],
+        [
+            "alcohol",
+            "can cause",
+            "high blood pressure"
+        ],
+        [
+            "2022 review",
+            "found that",
+            "dietary supplements"
+        ],
+        [
+            "risk scores",
+            "has efficacy according to",
+            "2016 review"
+        ],
+        [
+            "CVD",
+            "is diagnosed later in",
+            "women"
+        ],
+        [
+            "Age",
+            "increases the risk of",
+            "Heart diseases"
+        ],
+        [
+            "omega-3 fatty acids",
+            "conflicting evidence on improving",
+            "cardiovascular disease"
+        ],
+        [
+            "genetics",
+            "is a risk factor for",
+            "heart diseases"
+        ],
+        [
+            "magnesium therapy",
+            "treats",
+            "digoxin intoxication-induced arrhythmias"
+        ],
+        [
+            "radiation-induced cardiovascular disease",
+            "includes",
+            "peripheral artery disease"
+        ],
+        [
+            "genetics",
+            "involves",
+            "Mendelian influences"
+        ],
+        [
+            "CVD",
+            "includes",
+            "angina"
+        ],
+        [
+            "negative events",
+            "occur among",
+            "low risk groups"
+        ],
+        [
+            "mineral supplements",
+            "have not been found useful for",
+            "cardiovascular disease"
+        ],
+        [
+            "cerebrovascular disease",
+            "includes",
+            "stroke"
+        ],
+        [
+            "environmental factors",
+            "affect",
+            "sleep"
+        ],
+        [
+            "coronary artery calcium",
+            "is a predictor of",
+            "cardiovascular disease"
+        ],
+        [
+            "cost-effectiveness",
+            "is important in",
+            "developing countries"
+        ],
+        [
+            "blood pressure medication",
+            "reduces",
+            "cardiovascular disease"
+        ],
+        [
+            "polygenic influences",
+            "involve",
+            "single nucleotide polymorphisms"
+        ],
+        [
+            "fibrates",
+            "increases",
+            "HDL cholesterol"
+        ],
+        [
+            "meta-analysis",
+            "shows",
+            "glucose lowering"
+        ],
+        [
+            "mentally stressful work",
+            "associated with",
+            "effort-reward imbalance"
+        ],
+        [
+            "menopause",
+            "may decrease",
+            "HDL cholesterol"
+        ],
+        [
+            "health-care access",
+            "contribute to",
+            "socio-economic inequalities"
+        ],
+        [
+            "trans fatty acids",
+            "associated with higher rates of",
+            "cardiovascular disease"
+        ],
+        [
+            "dietary salt",
+            "increases",
+            "blood pressure"
+        ],
+        [
+            "radiation therapy",
+            "associated with",
+            "radiation-induced cardiovascular disease"
+        ],
+        [
+            "exposure to compounds",
+            "includes",
+            "lead"
+        ],
+        [
+            "medication",
+            "received by",
+            "primary prevention interventions"
+        ],
+        [
+            "surgical interventions",
+            "can save or prolong life in",
+            "heart valve problems"
+        ],
+        [
+            "posttraumatic stress disorder",
+            "is associated with",
+            "coronary heart disease"
+        ],
+        [
+            "obesity",
+            "increases risk of",
+            "atherosclerosis"
+        ],
+        [
+            "Commission on Social Determinants of Health",
+            "recommended more equal distributions of",
+            "nutrition"
+        ],
+        [
+            "aspirin",
+            "use is of unclear benefit for",
+            "CVD"
+        ],
+        [
+            "coronary artery disease",
+            "is also known as",
+            "coronary heart disease"
+        ],
+        [
+            "job strain",
+            "develops more often in those who experience",
+            "hypertension"
+        ],
+        [
+            "sleep apnea",
+            "causes",
+            "heart disease"
+        ],
+        [
+            "cardiovascular disease",
+            "is predicted by",
+            "diabetes"
+        ],
+        [
+            "negative events",
+            "occur among",
+            "intermediate risk groups"
+        ],
+        [
+            "anxiety",
+            "had lower levels of",
+            "omega-3-fatty acids"
+        ],
+        [
+            "magnesium therapy",
+            "recommended for",
+            "ventricular arrhythmia"
+        ],
+        [
+            "estrogen",
+            "may have protective effects on",
+            "hemostatic system"
+        ],
+        [
+            "blood glucose control",
+            "is improved by",
+            "moderate activity"
+        ],
+        [
+            "high blood phosphorus",
+            "is linked to",
+            "cardiovascular disease"
+        ],
+        [
+            "adults",
+            "need",
+            "sleep"
+        ],
+        [
+            "Men",
+            "are at greater risk of",
+            "Heart diseases"
+        ],
+        [
+            "DASH diet",
+            "has been shown to lower",
+            "cholesterol level"
+        ],
+        [
+            "intestinal healing",
+            "can improve",
+            "cardiovascular disease"
+        ],
+        [
+            "cardiovascular disease",
+            "is predicted by",
+            "composite risk scores"
+        ],
+        [
+            "radiation-induced cardiovascular disease",
+            "includes",
+            "heart arrhythmia"
+        ],
+        [
+            "absolute risk",
+            "calculated using",
+            "Reynolds risk scores"
+        ],
+        [
+            "antioxidant supplementation",
+            "includes",
+            "vitamins"
+        ],
+        [
+            "stroke",
+            "has high",
+            "mortality rate"
+        ],
+        [
+            "physical inactivity",
+            "is defined as less than",
+            "moderate activity"
+        ],
+        [
+            "welding fumes",
+            "associated with",
+            "heart disease"
+        ],
+        [
+            "saturated fat",
+            "replacing with",
+            "unsaturated fat"
+        ],
+        [
+            "sleep",
+            "less than seven hours increases",
+            "cardiovascular disease"
+        ],
+        [
+            "statins",
+            "decrease",
+            "death"
+        ],
+        [
+            "Antibiotics",
+            "may reduce risk of",
+            "heart attacks"
+        ],
+        [
+            "African-Americans",
+            "report more frequently",
+            "sleep apnea"
+        ],
+        [
+            "Commission on Social Determinants of Health",
+            "recommended more equal distributions of",
+            "education"
+        ],
+        [
+            "stroke",
+            "accounts for",
+            "males"
+        ],
+        [
+            "exposure to compounds",
+            "includes",
+            "aluminum"
+        ],
+        [
+            "ionizing radiation",
+            "increased risk of",
+            "stroke"
+        ],
+        [
+            "divorce",
+            "is associated with",
+            "cardiovascular diseases"
+        ],
+        [
+            "coronary angioplasty",
+            "is an option for",
+            "heart attacks"
+        ],
+        [
+            "fruits and vegetables",
+            "decrease the risk of",
+            "cardiovascular disease"
+        ],
+        [
+            "aortic aneurysm",
+            "is a type of",
+            "vascular diseases"
+        ],
+        [
+            "Cardiovascular disease",
+            "involves",
+            "blood vessels"
+        ],
+        [
+            "gender",
+            "is a factor in",
+            "cardiovascular diseases"
+        ],
+        [
+            "management",
+            "focused on",
+            "lifestyle interventions"
+        ],
+        [
+            "myocarditis",
+            "is a type of",
+            "inflammatory heart diseases"
+        ],
+        [
+            "salt",
+            "may determine",
+            "blood pressure"
+        ],
+        [
+            "metalworking fluids",
+            "associated with",
+            "heart disease"
+        ],
+        [
+            "second-hand smoke",
+            "avoidance",
+            "cardiovascular risk factor"
+        ],
+        [
+            "mobile phone text messaging",
+            "insufficient evidence to alter",
+            "secondary prevention"
+        ],
+        [
+            "insomnia",
+            "is associated with",
+            "cardiometabolic risk"
+        ],
+        [
+            "coronary heart disease",
+            "could have been averted in",
+            "Europe"
+        ],
+        [
+            "PM2.5",
+            "increases",
+            "CVD mortality risk"
+        ],
+        [
+            "heart diseases",
+            "risk factor",
+            "sex"
+        ],
+        [
+            "sleep-disordered breathing",
+            "is associated with",
+            "cardiometabolic risk"
+        ],
+        [
+            "atherosclerosis",
+            "caused by",
+            "smoking"
+        ],
+        [
+            "atherosclerosis",
+            "caused by",
+            "obesity"
+        ],
+        [
+            "lipid testing",
+            "recommended in",
+            "children"
+        ],
+        [
+            "Commission on Social Determinants of Health",
+            "recommended more equal distributions of",
+            "environmental factors"
+        ],
+        [
+            "mentally stressful work",
+            "associated with",
+            "insufficient opportunities for personal development"
+        ],
+        [
+            "high blood pressure",
+            "treating is beneficial for",
+            "CVD"
+        ],
+        [
+            "preventive strategies",
+            "combine",
+            "cardiovascular risk factor"
+        ],
+        [
+            "anxiety",
+            "often experience",
+            "heart attacks"
+        ],
+        [
+            "Mediterranean diet",
+            "may lower",
+            "cholesterol level"
+        ],
+        [
+            "short-term exposure",
+            "results in",
+            "CVD mortality risk"
+        ],
+        [
+            "alcohol",
+            "can cause",
+            "cardiomyopathy"
+        ],
+        [
+            "psychosocial intervention programs",
+            "improve risk of developing",
+            "cardiovascular disease"
+        ],
+        [
+            "cardiovascular disease risk score",
+            "providing",
+            "cardiovascular risk factor"
+        ],
+        [
+            "Commission on Social Determinants of Health",
+            "recommended more equal distributions of",
+            "housing"
+        ],
+        [
+            "cardiovascular disease",
+            "is predicted by",
+            "sex"
+        ],
+        [
+            "endocarditis",
+            "involves",
+            "heart valves"
+        ],
+        [
+            "exercise",
+            "prevents",
+            "CVD"
+        ],
+        [
+            "dietary risk factors",
+            "associated with",
+            "CVD"
+        ],
+        [
+            "mentally stressful work",
+            "associated with",
+            "night schedules"
+        ],
+        [
+            "clonal hematopoiesis",
+            "associated with",
+            "cardiovascular disease"
+        ],
+        [
+            "cardiovascular disease",
+            "is preventable if",
+            "risk factors"
+        ],
+        [
+            "occupational exposure",
+            "links have been established between",
+            "toxins"
+        ],
+        [
+            "aortas",
+            "belong to",
+            "youths aged 7–9 years"
+        ],
+        [
+            "High blood pressure",
+            "increases the risk of developing",
+            "Cardiovascular diseases"
+        ],
+        [
+            "adults",
+            "more likely to develop",
+            "atherosclerosis"
+        ],
+        [
+            "Aspirin",
+            "benefits",
+            "heart disease"
+        ],
+        [
+            "trans-fat intake",
+            "has adverse effects on",
+            "blood lipids"
+        ],
+        [
+            "risk stratification models",
+            "do not account for",
+            "negative events"
+        ],
+        [
+            "heart diseases",
+            "risk factor",
+            "air pollution"
+        ],
+        [
+            "endocarditis",
+            "is a type of",
+            "inflammatory heart diseases"
+        ],
+        [
+            "total fat intake",
+            "not associated with",
+            "cardiovascular disease"
+        ],
+        [
+            "menopause",
+            "may change",
+            "female lipid metabolism"
+        ],
+        [
+            "CVD",
+            "includes",
+            "peripheral artery disease"
+        ],
+        [
+            "South Asian subcontinent",
+            "has",
+            "genetic predisposition"
+        ],
+        [
+            "social factors",
+            "affect",
+            "sleep"
+        ],
+        [
+            "statins",
+            "reduce risk of",
+            "cardiovascular disease"
+        ],
+        [
+            "mental health problems",
+            "are associated with",
+            "cardiovascular diseases"
+        ],
+        [
+            "2008",
+            "30% of all",
+            "global death"
+        ],
+        [
+            "silica dust",
+            "associated with",
+            "heart disease"
+        ],
+        [
+            "men",
+            "higher event rate than",
+            "women"
+        ],
+        [
+            "ventricular arrhythmia",
+            "associated with",
+            "torsades de pointes"
+        ],
+        [
+            "fruits and vegetables",
+            "decrease the risk of",
+            "diet"
+        ],
+        [
+            "lack of exercise",
+            "accounts for",
+            "CVD"
+        ],
+        [
+            "heart diseases",
+            "risk factor",
+            "hypertension"
+        ],
+        [
+            "weight loss",
+            "is difficult to distinguish from",
+            "dietary change"
+        ],
+        [
+            "psychosocial stress",
+            "decrease",
+            "preventive strategies"
+        ],
+        [
+            "coronary artery disease",
+            "is also known as",
+            "ischemic heart disease"
+        ],
+        [
+            "PM2.5",
+            "used to determine",
+            "CVD risk"
+        ],
+        [
+            "CVD",
+            "includes",
+            "heart failure"
+        ],
+        [
+            "mental stress–induced myocardial ischemia",
+            "associated with",
+            "heart problems"
+        ],
+        [
+            "mental health problems",
+            "are associated with",
+            "sedentary lifestyle"
+        ],
+        [
+            "cardiovascular disease",
+            "is predicted by",
+            "smoking"
+        ],
+        [
+            "exercise-based cardiac rehabilitation",
+            "leads to less",
+            "hospitalizations"
+        ],
+        [
+            "paper production",
+            "associated with",
+            "heart disease"
+        ],
+        [
+            "Indian Heart Association",
+            "is working with",
+            "World Heart Federation"
+        ],
+        [
+            "low educational status",
+            "associated with",
+            "cardiovascular disease"
+        ],
+        [
+            "PM2.5",
+            "increases risk of",
+            "acute myocardial infarction"
+        ],
+        [
+            "CVD",
+            "is diagnosed earlier in",
+            "men"
+        ],
+        [
+            "cardiovascular disease",
+            "is attributed to",
+            "smoking"
+        ],
+        [
+            "Coronary artery disease",
+            "accounts for",
+            "males"
+        ],
+        [
+            "radiation therapy",
+            "increases risk of",
+            "heart attack"
+        ],
+        [
+            "heart diseases",
+            "risk factor",
+            "raised blood cholesterol"
+        ],
+        [
+            "race",
+            "displays differences in",
+            "sleep"
+        ],
+        [
+            "alcohol consumption",
+            "related to",
+            "cardiovascular disease"
+        ],
+        [
+            "2015 meta-analysis",
+            "did not find association with",
+            "cardiovascular disease"
+        ],
+        [
+            "Cardiovascular diseases",
+            "are the leading cause of",
+            "global death"
+        ],
+        [
+            "working 55+ hours a week",
+            "raises risk of",
+            "heart conditions"
+        ],
+        [
+            "vegan diet",
+            "is associated with a more favourable cardio-metabolic profile compared to",
+            "omnivorous diet"
+        ],
+        [
+            "cigarettes",
+            "are the major form of",
+            "tobacco"
+        ],
+        [
+            "Influenza",
+            "may make more likely",
+            "heart attacks"
+        ],
+        [
+            "socio-economic inequalities",
+            "associated with",
+            "cardiovascular disease"
+        ],
+        [
+            "mental health problems",
+            "are associated with",
+            "poor diet"
+        ],
+        [
+            "ethnic minorities",
+            "report more frequently",
+            "sleep disorders"
+        ],
+        [
+            "occupational exposure",
+            "links have been established between",
+            "depression"
+        ],
+        [
+            "magnesium supplementation",
+            "lowers",
+            "high blood pressure"
+        ],
+        [
+            "Risk calculator",
+            "is a tool for",
+            "cardiovascular disease"
+        ],
+        [
+            "physical inactivity",
+            "is defined as less than",
+            "vigorous activity"
+        ],
+        [
+            "atherosclerosis",
+            "caused by",
+            "high blood cholesterol"
+        ],
+        [
+            "dietary salt",
+            "increases",
+            "overall mortality"
+        ],
+        [
+            "statins",
+            "used for",
+            "secondary CVD prevention"
+        ],
+        [
+            "2020 systematic review",
+            "found evidence that reducing",
+            "saturated fat"
+        ],
+        [
+            "dietary supplements",
+            "may reduce",
+            "risk factors"
+        ],
+        [
+            "occupational exposure",
+            "links have been established between",
+            "tobacco smoke"
+        ],
+        [
+            "trans-fat intake",
+            "has adverse effects on",
+            "inflammatory markers"
+        ],
+        [
+            "World Cup soccer event",
+            "is associated with",
+            "heart attacks"
+        ],
+        [
+            "cardiovascular disease",
+            "is linked to",
+            "traumatic stress"
+        ],
+        [
+            "renal artery stenosis",
+            "is a type of",
+            "vascular diseases"
+        ],
+        [
+            "Age",
+            "increases the risk of",
+            "Cardiovascular diseases"
+        ],
+        [
+            "adolescents",
+            "need",
+            "sleep"
+        ],
+        [
+            "Post-menopausal women",
+            "risk is similar to",
+            "Men"
+        ],
+        [
+            "Sex",
+            "explains risk associated with",
+            "Cardiovascular diseases"
+        ],
+        [
+            "sleep disorders",
+            "are associated with",
+            "cardiometabolic risk"
+        ],
+        [
+            "NIH",
+            "recommends",
+            "lipid testing"
+        ],
+        [
+            "vasoactive agents",
+            "may cause harm in",
+            "left heart disease"
+        ],
+        [
+            "atenolol",
+            "compared for",
+            "QALY"
+        ],
+        [
+            "silica dust",
+            "associated with",
+            "pulmonary heart disease"
+        ],
+        [
+            "Pathobiological Determinants of Atherosclerosis in Youth (PDAY) study",
+            "demonstrated that",
+            "intimal lesions"
+        ],
+        [
+            "salt",
+            "may determine",
+            "cardiovascular risk"
+        ],
+        [
+            "Pre-menopausal women",
+            "are at lower risk of",
+            "Heart diseases"
+        ],
+        [
+            "antioxidant supplementation",
+            "includes",
+            "vitamin E"
+        ],
+        [
+            "intermittent fasting",
+            "not different from",
+            "energy restriction diets"
+        ],
+        [
+            "Germany",
+            "is location of",
+            "World Cup soccer event"
+        ],
+        [
+            "celiac disease",
+            "can cause",
+            "irreversible heart damage"
+        ],
+        [
+            "PM2.5",
+            "increases",
+            "systolic blood pressure"
+        ],
+        [
+            "World Health Organization",
+            "attributes",
+            "deaths"
+        ],
+        [
+            "torsades de pointes",
+            "associated with",
+            "long QT syndrome"
+        ],
+        [
+            "smoking",
+            "stopping",
+            "cardiovascular risk factor"
+        ],
+        [
+            "radiation therapy",
+            "increases risk of",
+            "stroke"
+        ],
+        [
+            "yoga",
+            "has beneficial effects on",
+            "blood pressure"
+        ],
+        [
+            "Coronary heart disease",
+            "is disputed by",
+            "UN"
+        ],
+        [
+            "low-salt diet",
+            "benefits not clear for",
+            "high blood pressure"
+        ],
+        [
+            "DASH diet",
+            "is high in",
+            "nuts"
+        ],
+        [
+            "occupational exposure",
+            "links have been established between",
+            "stress"
+        ],
+        [
+            "risk stratification models",
+            "lack",
+            "sensitivity"
+        ],
+        [
+            "Coronary artery disease",
+            "involves",
+            "atherosclerosis"
+        ],
+        [
+            "moderate drinking",
+            "associated with",
+            "stroke"
+        ],
+        [
+            "anxiety",
+            "can change",
+            "physiological reactions"
+        ],
+        [
+            "DASH diet",
+            "is low in",
+            "sweets"
+        ],
+        [
+            "Interactive CV Risk Calculator",
+            "is a tool for",
+            "cardiovascular disease"
+        ],
+        [
+            "PM2.5",
+            "increased rate of",
+            "inflammation"
+        ],
+        [
+            "carbon disulphide",
+            "associated with",
+            "heart disease"
+        ],
+        [
+            "antioxidant supplementation",
+            "does not protect against",
+            "cardiovascular disease"
+        ],
+        [
+            "insulin sensitivity",
+            "is improved by",
+            "moderate activity"
+        ],
+        [
+            "inflammatory heart diseases",
+            "is a type of",
+            "cardiovascular disease"
+        ],
+        [
+            "atherosclerosis",
+            "caused by",
+            "high blood pressure"
+        ],
+        [
+            "estrogen",
+            "may have direct effect in improving",
+            "endothelial cell function"
+        ],
+        [
+            "2021 ESC Guidelines",
+            "are on",
+            "cardiovascular disease"
+        ],
+        [
+            "saturated fat",
+            "is replaced by",
+            "monounsaturated fat"
+        ],
+        [
+            "mentally stressful work",
+            "associated with",
+            "injustice"
+        ],
+        [
+            "benzopyrenes",
+            "associated with",
+            "heart disease"
+        ],
+        [
+            "2016 review",
+            "was unclear due to lack of",
+            "impact analysis"
+        ],
+        [
+            "healthy eating",
+            "prevents",
+            "CVD"
+        ],
+        [
+            "peripheral artery disease",
+            "involves",
+            "atherosclerosis"
+        ],
+        [
+            "statins",
+            "decrease",
+            "cardiovascular disease"
+        ],
+        [
+            "class",
+            "displays differences in",
+            "sleep"
+        ],
+        [
+            "2030",
+            "estimated over",
+            "23 million people"
+        ],
+        [
+            "Statin treatment",
+            "reduces",
+            "cardiovascular mortality"
+        ],
+        [
+            "radiation-induced cardiovascular disease",
+            "includes",
+            "cardiomyopathy"
+        ],
+        [
+            "mental health disorders",
+            "increase the risk of",
+            "cardiovascular disease"
+        ],
+        [
+            "heart diseases",
+            "risk factor",
+            "poverty"
+        ],
+        [
+            "teenagers",
+            "get less than recommended",
+            "sleep"
+        ],
+        [
+            "CVD",
+            "includes",
+            "aortic aneurysms"
+        ],
+        [
+            "healthy plant foods",
+            "are beneficial for prevention of",
+            "cardiovascular disease"
+        ],
+        [
+            "stroke",
+            "accounts for",
+            "females"
+        ],
+        [
+            "polyunsaturated vegetable oil",
+            "reduces",
+            "CVD"
+        ],
+        [
+            "Cardiovascular disease",
+            "involves",
+            "heart"
+        ],
+        [
+            "adults",
+            "associated with",
+            "obesity"
+        ],
+        [
+            "chronic kidney disease",
+            "linked to",
+            "cardiovascular disease"
+        ],
+        [
+            "Age",
+            "may lead to",
+            "Coronary artery disease"
+        ],
+        [
+            "right coronary arteries",
+            "belong to",
+            "youths aged 7–9 years"
+        ],
+        [
+            "aspirin",
+            "compared for",
+            "QALY"
+        ],
+        [
+            "moderate exercise",
+            "recommendation",
+            "preventive strategies"
+        ],
+        [
+            "eosinophilic myocarditis",
+            "involves",
+            "eosinophilic white blood cells"
+        ],
+        [
+            "Cardiovascular diseases",
+            "are not the leading cause of death in",
+            "Africa"
+        ],
+        [
+            "statins",
+            "prevent",
+            "cardiovascular disease"
+        ],
+        [
+            "cardiovascular disease",
+            "has research on",
+            "genetics of coronary heart disease"
+        ],
+        [
+            "menopause",
+            "may increase",
+            "total cholesterol"
+        ],
+        [
+            "Commission on Social Determinants of Health",
+            "recommended more equal distributions of",
+            "health care"
+        ],
+        [
+            "Antibiotics",
+            "may reduce risk of",
+            "strokes"
+        ],
+        [
+            "psychological stress",
+            "is a source of",
+            "cardiovascular diseases"
+        ],
+        [
+            "lifestyle factors",
+            "include",
+            "exercise"
+        ],
+        [
+            "DASH diet",
+            "has been shown to improve",
+            "metabolic syndrome"
+        ],
+        [
+            "heart diseases",
+            "risk factor",
+            "hyperlipidemia"
+        ],
+        [
+            "alcohol intake",
+            "limiting prevents",
+            "CVD"
+        ],
+        [
+            "polyunsaturated fats",
+            "replacement appears greatest benefit",
+            "saturated fat"
+        ],
+        [
+            "processed meats",
+            "associated with",
+            "cardiovascular disease"
+        ],
+        [
+            "influenza vaccination",
+            "may decrease the chance of",
+            "death"
+        ],
+        [
+            "partially hydrogenated oils (PHOs)",
+            "primary source of",
+            "industrially produced trans fatty acids (IP-TFA)"
+        ],
+        [
+            "systematic review",
+            "estimated",
+            "inactivity"
+        ],
+        [
+            "radiation-induced cardiovascular disease",
+            "includes",
+            "valvular heart disease"
+        ],
+        [
+            "dietary salt",
+            "increases",
+            "cardiovascular mortality"
+        ],
+        [
+            "randomized trial results",
+            "are preferred over",
+            "large-scale risk assessment"
+        ],
+        [
+            "processed meats",
+            "associated with",
+            "salt"
+        ],
+        [
+            "heart diseases",
+            "risk factor",
+            "physical inactivity"
+        ],
+        [
+            "blood lipids",
+            "treating is beneficial for",
+            "CVD"
+        ],
+        [
+            "weight loss",
+            "is assisted by",
+            "moderate activity"
+        ],
+        [
+            "PM2.5",
+            "is implicated in",
+            "irregular heart rhythm"
+        ],
+        [
+            "occupational exposure",
+            "links have been established between",
+            "extreme heat"
+        ],
+        [
+            "mentally stressful work",
+            "associated with",
+            "lack of control"
+        ],
+        [
+            "Americans",
+            "have",
+            "chronic sleep disorders"
+        ],
+        [
+            "chronic stress",
+            "can affect",
+            "exercise"
+        ],
+        [
+            "ACE inhibitors",
+            "used for",
+            "secondary CVD prevention"
+        ],
+        [
+            "Hormonal difference",
+            "is a proposed explanation for",
+            "Sex"
+        ],
+        [
+            "second-hand smoke",
+            "is a risk from",
+            "tobacco"
+        ],
+        [
+            "Pregnancy complications",
+            "increase the risk of developing",
+            "Cardiovascular diseases"
+        ],
+        [
+            "tobacco",
+            "accounts for",
+            "CVD"
+        ],
+        [
+            "Aspirin",
+            "not recommended for",
+            "heart disease"
+        ],
+        [
+            "blood pressure medication",
+            "reduces",
+            "cardiovascular events"
+        ],
+        [
+            "radiation therapy",
+            "increases risk of",
+            "heart disease"
+        ],
+        [
+            "atherosclerosis",
+            "caused by",
+            "poor diet"
+        ],
+        [
+            "healthy diet",
+            "includes",
+            "vegan diet"
+        ],
+        [
+            "CVD",
+            "includes",
+            "venous thrombosis"
+        ],
+        [
+            "exercise-based cardiac rehabilitation",
+            "follows",
+            "heart attack"
+        ],
+        [
+            "cerebrovascular disease",
+            "is a type of",
+            "vascular diseases"
+        ],
+        [
+            "health behaviours",
+            "contribute to",
+            "socio-economic inequalities"
+        ],
+        [
+            "influenza vaccination",
+            "may decrease the chance of",
+            "cardiovascular events"
+        ],
+        [
+            "men",
+            "risk having and dying of",
+            "heart attacks"
+        ],
+        [
+            "CETP Inhibitors",
+            "increases",
+            "HDL cholesterol"
+        ],
+        [
+            "CVD",
+            "includes",
+            "hypertensive heart disease"
+        ],
+        [
+            "cardiovascular benefits",
+            "are explained by",
+            "moderate activity"
+        ],
+        [
+            "radiation-induced cardiovascular disease",
+            "includes",
+            "myocardial fibrosis"
+        ],
+        [
+            "absolute risk",
+            "calculated using",
+            "Framingham risk scores"
+        ],
+        [
+            "heart diseases",
+            "risk factor",
+            "psychosocial factors"
+        ],
+        [
+            "relaxation therapies",
+            "are of unclear benefit for",
+            "Takotsubo syndrome"
+        ],
+        [
+            "environmental exposures",
+            "contribute to",
+            "socio-economic inequalities"
+        ],
+        [
+            "cardiovascular disease",
+            "is linked to",
+            "mental health problems"
+        ],
+        [
+            "stress",
+            "increases risk of",
+            "cardiovascular diseases"
+        ],
+        [
+            "Age",
+            "is associated with changes in",
+            "Vascular wall"
+        ],
+        [
+            "lifestyle factors",
+            "include",
+            "diet"
+        ],
+        [
+            "pacemaker",
+            "can help reduce",
+            "arrhythmias"
+        ],
+        [
+            "myocarditis",
+            "involves",
+            "monocyte"
+        ],
+        [
+            "sleep",
+            "lack increases",
+            "cardiovascular risk"
+        ],
+        [
+            "Coronary artery disease",
+            "accounts for",
+            "females"
+        ],
+        [
+            "Food and Drug Administration (FDA)",
+            "determined not safe",
+            "partially hydrogenated oils (PHOs)"
+        ],
+        [
+            "low- and middle-income countries",
+            "have higher",
+            "death"
+        ],
+        [
+            "diabetes mellitus",
+            "risk is reduced by",
+            "moderate activity"
+        ],
+        [
+            "diabetes",
+            "treating is beneficial for",
+            "CVD"
+        ],
+        [
+            "electrolytic production of aluminium",
+            "associated with",
+            "heart disease"
+        ],
+        [
+            "stress",
+            "can increase",
+            "inflammation"
+        ],
+        [
+            "estrogen",
+            "may have protective effects on",
+            "glucose metabolism"
+        ],
+        [
+            "cardiovascular disease",
+            "affects",
+            "older adults"
+        ],
+        [
+            "heart diseases",
+            "risk factor",
+            "obesity"
+        ],
+        [
+            "atherosclerosis",
+            "caused by",
+            "lack of exercise"
+        ],
+        [
+            "saturated fat",
+            "linked to",
+            "cardiovascular risk"
+        ],
+        [
+            "high blood pressure",
+            "accounts for",
+            "CVD"
+        ],
+        [
+            "heart diseases",
+            "risk factor",
+            "age"
+        ],
+        [
+            "heart diseases",
+            "risk factor",
+            "undiagnosed celiac disease"
+        ],
+        [
+            "CVD",
+            "has prevalence in",
+            "United States"
+        ],
+        [
+            "leukemia-associated mutations",
+            "associated with",
+            "cardiovascular disease"
+        ],
+        [
+            "healthy diet",
+            "includes",
+            "Mediterranean diet"
+        ],
+        [
+            "Anti-diabetic medication",
+            "may reduce",
+            "cardiovascular disease"
+        ],
+        [
+            "stroke",
+            "involves",
+            "atherosclerosis"
+        ],
+        [
+            "peripheral arterial disease",
+            "is a type of",
+            "vascular diseases"
+        ],
+        [
+            "Mediterranean diet",
+            "may lower",
+            "blood pressure"
+        ],
+        [
+            "vasoactive agents",
+            "may cause harm in",
+            "pulmonary hypertension"
+        ],
+        [
+            "unhealthy plant-based diets",
+            "do not provide benefits over diets including",
+            "unhealthy plant foods"
+        ],
+        [
+            "celiac disease",
+            "can cause",
+            "cardiovascular disease"
+        ],
+        [
+            "particulate matter",
+            "has effects on",
+            "cardiovascular disease"
+        ],
+        [
+            "obesity",
+            "linked to",
+            "cardiovascular disease"
+        ],
+        [
+            "CVD",
+            "includes",
+            "cardiomyopathy"
+        ],
+        [
+            "heart diseases",
+            "risk factor",
+            "raised blood pressure"
+        ],
+        [
+            "cardiovascular disease",
+            "is treatable with",
+            "management"
+        ],
+        [
+            "cardiovascular disease",
+            "is linked to",
+            "depression"
+        ],
+        [
+            "heart problems",
+            "in those with",
+            "previous heart disease"
+        ],
+        [
+            "inflammation",
+            "is linked to",
+            "atherosclerosis"
+        ],
+        [
+            "cardiovascular disease",
+            "is predicted by",
+            "age"
+        ],
+        [
+            "low-salt diet",
+            "benefits not clear for",
+            "normal blood pressure"
+        ],
+        [
+            "surgical interventions",
+            "can save or prolong life in",
+            "heart attacks"
+        ],
+        [
+            "unhealthy plant-based diets",
+            "do not provide benefits over diets including",
+            "animal foods"
+        ],
+        [
+            "Age",
+            "is the most important risk factor in developing",
+            "Heart diseases"
+        ],
+        [
+            "United States Preventive Services Task Force",
+            "recommends against",
+            "Aspirin"
+        ],
+        [
+            "cardiovascular disease",
+            "will occur in",
+            "South Asian subcontinent"
+        ],
+        [
+            "Diabetes",
+            "increases the likelihood of developing",
+            "Coronary heart disease"
+        ],
+        [
+            "Age",
+            "leads to reduced",
+            "Arterial compliance"
+        ],
+        [
+            "stress response",
+            "caused by",
+            "anxiety"
+        ],
+        [
+            "omega-3-fatty acids",
+            "is linked to an increased risk of developing",
+            "cardiovascular disease"
+        ],
+        [
+            "dietary salt",
+            "increases",
+            "strokes"
+        ],
+        [
+            "niacin",
+            "is a type of",
+            "vitamin B3"
+        ],
+        [
+            "fibrates",
+            "do not reduce",
+            "all-cause mortality"
+        ],
+        [
+            "atherosclerosis",
+            "affects",
+            "coronary arteries"
+        ],
+        [
+            "Influenza",
+            "may make more likely",
+            "strokes"
+        ],
+        [
+            "lead",
+            "associated with",
+            "heart disease"
+        ],
+        [
+            "alcoholic drinks",
+            "are consumed by",
+            "genetically predisposed"
+        ],
+        [
+            "intimal lesions",
+            "appear in",
+            "right coronary arteries"
+        ],
+        [
+            "management",
+            "focused on",
+            "diet"
+        ],
+        [
+            "mentally stressful work",
+            "associated with",
+            "job insecurity"
+        ],
+        [
+            "Mediterranean diet",
+            "may improve",
+            "cardiovascular disease"
+        ],
+        [
+            "adults",
+            "associated with",
+            "high blood pressure"
+        ],
+        [
+            "plant-based diets",
+            "provide a risk reduction for",
+            "cardiovascular disease"
+        ],
+        [
+            "CVD",
+            "includes",
+            "coronary artery diseases"
+        ],
+        [
+            "CVD",
+            "includes",
+            "congenital heart disease"
+        ],
+        [
+            "arsenic",
+            "associated with",
+            "heart disease"
+        ],
+        [
+            "United States guideline",
+            "recommends",
+            "statins"
+        ],
+        [
+            "dietary salt",
+            "increases",
+            "cardiovascular disease"
+        ],
+        [
+            "Age",
+            "leads to loss of",
+            "Arterial elasticity"
+        ],
+        [
+            "exposure to compounds",
+            "includes",
+            "TCDD(dioxin)"
+        ],
+        [
+            "saturated fat intake",
+            "reduces",
+            "cardiovascular disease"
+        ],
+        [
+            "primary prevention interventions",
+            "selected through",
+            "absolute risk"
+        ],
+        [
+            "DASH diet",
+            "is low in",
+            "fat"
+        ],
+        [
+            "anxiety",
+            "can change",
+            "hormonal reactions"
+        ],
+        [
+            "cardiovascular disease",
+            "is the most life-threatening of",
+            "diabetic complications"
+        ],
+        [
+            "processed foods",
+            "are high in",
+            "sugar"
+        ],
+        [
+            "socioeconomic disadvantage",
+            "has a greater impact on",
+            "low- and middle-income countries"
+        ],
+        [
+            "streptokinase",
+            "compared for",
+            "QALY"
+        ],
+        [
+            "adults",
+            "associated with",
+            "cardiovascular disease"
+        ],
+        [
+            "heart failure",
+            "is a type of",
+            "cardiovascular disease"
+        ],
+        [
+            "carbohydrates",
+            "replacement does not appear beneficial",
+            "saturated fat"
+        ],
+        [
+            "Stroke",
+            "risk doubles every decade after",
+            "Age"
+        ],
+        [
+            "anxiety",
+            "increases risk of",
+            "cardiovascular diseases"
+        ],
+        [
+            "hypercholesterolaemia",
+            "linked to",
+            "cardiovascular disease"
+        ],
+        [
+            "pulmonary heart disease",
+            "is a type of",
+            "cardiovascular disease"
+        ],
+        [
+            "sleep",
+            "lack of",
+            "blood pressure"
+        ],
+        [
+            "psychological stress",
+            "leads to",
+            "Takotsubo syndrome"
+        ],
+        [
+            "heart disease",
+            "associated with",
+            "exposure to compounds"
+        ],
+        [
+            "dynamite",
+            "associated with",
+            "heart disease"
+        ],
+        [
+            "radiation-induced cardiovascular disease",
+            "includes",
+            "coronary artery disease"
+        ],
+        [
+            "high-energy foods",
+            "may increase",
+            "cardiovascular risk"
+        ],
+        [
+            "heart diseases",
+            "risk factor",
+            "low educational status"
+        ],
+        [
+            "strep throat",
+            "treating with antibiotics decreases risk of",
+            "rheumatic heart disease"
+        ],
+        [
+            "CVD",
+            "includes",
+            "thromboembolic disease"
+        ],
+        [
+            "children",
+            "have",
+            "family history of heart disease"
+        ],
+        [
+            "nondiabetics",
+            "less likely to die of",
+            "cardiovascular disease"
+        ],
+        [
+            "stress response",
+            "can increase",
+            "inflammation"
+        ],
+        [
+            "Niacin",
+            "increases",
+            "HDL cholesterol"
+        ],
+        [
+            "MI",
+            "has high",
+            "mortality rate"
+        ],
+        [
+            "tobacco smoke",
+            "avoidance prevents",
+            "CVD"
+        ],
+        [
+            "beta-blockers",
+            "used for",
+            "secondary CVD prevention"
+        ],
+        [
+            "vasoactive agents",
+            "may cause harm in",
+            "hypoxemic lung diseases"
+        ],
+        [
+            "depression",
+            "is prevalent in",
+            "heart failure"
+        ],
+        [
+            "cardiomyopathy",
+            "is a type of",
+            "cardiovascular disease"
+        ],
+        [
+            "blood pressure targets",
+            "lowering to ≤ 135/85 mmHg has no additional benefit in",
+            "mortality rate"
+        ],
+        [
+            "men",
+            "risk having and dying of",
+            "stroke"
+        ],
+        [
+            "PM2.5",
+            "is implicated in",
+            "reduced heart rate variability"
+        ],
+        [
+            "heart diseases",
+            "risk factor",
+            "unhealthy diet"
+        ],
+        [
+            "exercise-based cardiac rehabilitation",
+            "reduces risk of death from",
+            "cardiovascular disease"
+        ],
+        [
+            "yoga",
+            "has beneficial effects on",
+            "cholesterol"
+        ],
+        [
+            "exposure to compounds",
+            "includes",
+            "phenoxy acids"
+        ],
+        [
+            "Heart Disease MedicineNet",
+            "provides",
+            "cardiovascular disease"
+        ],
+        [
+            "Commission on Social Determinants of Health",
+            "recommended more equal distributions of",
+            "wealth"
+        ],
+        [
+            "low-salt diet",
+            "trend to benefit in",
+            "heart failure"
+        ],
+        [
+            "radiation therapy",
+            "causes",
+            "vascular cell damage"
+        ],
+        [
+            "Men",
+            "are at greater risk of",
+            "Coronary heart disease"
+        ],
+        [
+            "genetics",
+            "involves",
+            "polygenic influences"
+        ],
+        [
+            "processed foods",
+            "are high in",
+            "saturated fat"
+        ],
+        [
+            "lifestyle interventions",
+            "received by",
+            "primary prevention interventions"
+        ],
+        [
+            "saturated fat",
+            "is replaced by",
+            "polyunsaturated fat"
+        ],
+        [
+            "Antibiotics",
+            "increase",
+            "mortality"
+        ],
+        [
+            "obesity",
+            "can contribute to",
+            "cardiovascular issues"
+        ],
+        [
+            "PM2.5",
+            "is linked to",
+            "carotid artery thickening"
+        ],
+        [
+            "PM2.5",
+            "is implicated in",
+            "decreased vagal tone"
+        ],
+        [
+            "mentally stressful work",
+            "associated with",
+            "low social support"
+        ],
+        [
+            "weight loss",
+            "is associated with",
+            "bariatric surgery"
+        ],
+        [
+            "diabetes mellitus",
+            "linked to",
+            "cardiovascular disease"
+        ],
+        [
+            "heart diseases",
+            "risk factor",
+            "tobacco use"
+        ],
+        [
+            "estrogen",
+            "decreases after",
+            "menopause"
+        ],
+        [
+            "heart diseases",
+            "risk factor",
+            "genetic predisposition"
+        ],
+        [
+            "dietary salt",
+            "worsens",
+            "hypertension"
+        ],
+        [
+            "heart diseases",
+            "risk factor",
+            "non-alcoholic fatty liver disease"
+        ],
+        [
+            "tissue plasminogen activator",
+            "compared for",
+            "QALY"
+        ],
+        [
+            "coronary artery disease",
+            "has average age of death in",
+            "developing world"
+        ],
+        [
+            "occupational exposure",
+            "links have been established between",
+            "extreme cold"
+        ],
+        [
+            "excessive alcohol intake",
+            "increases risk of",
+            "cardiovascular disease"
+        ],
+        [
+            "Sex",
+            "contributes to variation in mortality of",
+            "Coronary heart disease"
+        ],
+        [
+            "rheumatic heart disease",
+            "caused by",
+            "rheumatic fever"
+        ],
+        [
+            "dietary guidelines",
+            "recommend a reduction in",
+            "saturated fat"
+        ],
+        [
+            "atherosclerosis",
+            "caused by",
+            "diabetes mellitus"
+        ],
+        [
+            "Commission on Social Determinants of Health",
+            "recommended more equal distributions of",
+            "power"
+        ],
+        [
+            "CVD management",
+            "necessitates a focus on",
+            "MI"
+        ],
+        [
+            "ischemic heart disease",
+            "risk is reduced by",
+            "moderate activity"
+        ],
+        [
+            "chronic stress",
+            "can affect",
+            "food choices"
+        ],
+        [
+            "niacin",
+            "decreases risk of",
+            "cardiovascular events"
+        ],
+        [
+            "asbestos",
+            "associated with",
+            "pulmonary heart disease"
+        ],
+        [
+            "trans-fats",
+            "linked to",
+            "cardiovascular risk"
+        ],
+        [
+            "leukemia-associated mutations",
+            "in",
+            "blood cells"
+        ],
+        [
+            "DASH diet",
+            "has been shown to reduce",
+            "blood pressure"
+        ],
+        [
+            "sugar",
+            "increases",
+            "diabetes mellitus"
+        ],
+        [
+            "Coronary heart disease",
+            "is more common among",
+            "Middle-aged men"
+        ],
+        [
+            "inactivity",
+            "responsible for burden of disease from",
+            "coronary heart disease"
+        ],
+        [
+            "anxiety",
+            "often experience",
+            "high blood pressure"
+        ],
+        [
+            "hypertensive heart disease",
+            "is a type of",
+            "cardiovascular disease"
+        ],
+        [
+            "alcohol consumption",
+            "should be limited to",
+            "recommended daily limits"
+        ],
+        [
+            "African-Americans",
+            "report more frequently",
+            "sleep disorders"
+        ],
+        [
+            "atherosclerosis",
+            "caused by",
+            "excessive alcohol consumption"
+        ],
+        [
+            "high-energy foods",
+            "promotes",
+            "obesity"
+        ],
+        [
+            "sugar",
+            "associated with",
+            "blood pressure"
+        ],
+        [
+            "drug regimens",
+            "have similar efficacy in reducing",
+            "cardiovascular events"
+        ],
+        [
+            "vascular diseases",
+            "are types of",
+            "cardiovascular disease"
+        ],
+        [
+            "disadvantaged neighborhoods",
+            "have higher rates of",
+            "sleep apnea"
+        ],
+        [
+            "chronic stress",
+            "can affect",
+            "sleep"
+        ],
+        [
+            "rheumatic fever",
+            "caused by",
+            "Streptococcus pyogenes"
+        ],
+        [
+            "exposure to compounds",
+            "includes",
+            "carbon disulphide"
+        ],
+        [
+            "CVD",
+            "includes",
+            "carditis"
+        ],
+        [
+            "alcohol",
+            "can cause",
+            "obesity"
+        ],
+        [
+            "obesity",
+            "accounts for",
+            "CVD"
+        ],
+        [
+            "Coronary artery disease",
+            "accounts for",
+            "CVD"
+        ],
+        [
+            "Serum cholesterol level",
+            "increases as",
+            "Age"
+        ],
+        [
+            "age",
+            "is a factor in",
+            "cardiovascular diseases"
+        ],
+        [
+            "antioxidant supplementation",
+            "includes",
+            "vitamin C"
+        ],
+        [
+            "aspirin",
+            "used for",
+            "secondary CVD prevention"
+        ],
+        [
+            "moderate drinking",
+            "associated with",
+            "cardiovascular disease"
+        ],
+        [
+            "2015 meta-analysis",
+            "did not find association between",
+            "saturated fat"
+        ],
+        [
+            "radiation therapy",
+            "associated with",
+            "radiation-induced heart disease"
+        ],
+        [
+            "statins",
+            "decrease",
+            "non-fatal cardiovascular disease"
+        ],
+        [
+            "low fruit and vegetable consumption",
+            "linked to",
+            "deaths"
+        ],
+        [
+            "Antibiotics",
+            "used for",
+            "secondary prevention"
+        ],
+        [
+            "heart diseases",
+            "risk factor",
+            "diabetes mellitus"
+        ],
+        [
+            "depression",
+            "increases risk of",
+            "cardiovascular diseases"
+        ],
+        [
+            "processed foods",
+            "are",
+            "high-energy foods"
+        ],
+        [
+            "working 55+ hours a week",
+            "raises risk of",
+            "stroke"
+        ],
+        [
+            "2020 systematic review",
+            "found evidence of reduction in",
+            "cardiovascular disease"
+        ],
+        [
+            "healthy diet",
+            "is beneficial",
+            "dietary supplements"
+        ],
+        [
+            "black children",
+            "have higher rates of",
+            "sleep apnea"
+        ],
+        [
+            "sugar",
+            "associated with",
+            "blood lipids"
+        ],
+        [
+            "trans-fat",
+            "cause",
+            "deaths"
+        ],
+        [
+            "cardiac dysrhythmias",
+            "is a type of",
+            "cardiovascular disease"
+        ],
+        [
+            "home-based exercise programs",
+            "improves",
+            "exercise adherence"
+        ],
+        [
+            "coronary artery disease",
+            "has average age of death in",
+            "developed world"
+        ],
+        [
+            "CVD management",
+            "necessitates a focus on",
+            "stroke"
+        ],
+        [
+            "inflammation",
+            "can cause",
+            "high blood pressure"
+        ],
+        [
+            "atherosclerosis",
+            "begins in",
+            "childhood"
+        ],
+        [
+            "cardiovascular disease",
+            "has research on",
+            "therapeutic interventions"
+        ],
+        [
+            "menopause",
+            "may increase",
+            "LDL cholesterol"
+        ],
+        [
+            "Age",
+            "is the most important risk factor in developing",
+            "Cardiovascular diseases"
+        ],
+        [
+            "heart diseases",
+            "risk factor",
+            "excessive alcohol consumption"
+        ],
+        [
+            "DASH diet",
+            "is low in",
+            "red meat"
+        ],
+        [
+            "CVD",
+            "includes",
+            "arrhythmia"
+        ],
+        [
+            "alcohol",
+            "can cause",
+            "heart failure"
+        ],
+        [
+            "psychological stress",
+            "can be decreased by recognizing",
+            "mental health disorders"
+        ],
+        [
+            "omega-3 fatty acid supplementation",
+            "has no evidence of benefit for",
+            "cardiovascular disease"
+        ],
+        [
+            "heart diseases",
+            "risk factor",
+            "family history of cardiovascular disease"
+        ],
+        [
+            "inflammation",
+            "can cause",
+            "low HDL cholesterol"
+        ],
+        [
+            "alcohol consumption",
+            "is associated with increased risk of",
+            "cardiovascular event"
+        ],
+        [
+            "gluten-free diet",
+            "can improve",
+            "cardiovascular disease"
+        ],
+        [
+            "high-fiber diet",
+            "is associated with lower risks of",
+            "cardiovascular disease"
+        ],
+        [
+            "lipid profile",
+            "is improved by",
+            "moderate activity"
+        ],
+        [
+            "intimal lesions",
+            "appear in",
+            "aortas"
+        ],
+        [
+            "income",
+            "associated with",
+            "cardiovascular disease"
+        ],
+        [
+            "Cardiovascular disease",
+            "leading cause of death worldwide except",
+            "developing world"
+        ],
+        [
+            "inflammatory cardiomegaly",
+            "is a type of",
+            "inflammatory heart diseases"
+        ],
+        [
+            "psychological stress",
+            "can be decreased by awareness of",
+            "family history"
+        ],
+        [
+            "Mediterranean diet",
+            "may be more effective than",
+            "low-fat diet"
+        ],
+        [
+            "PM2.5",
+            "increases",
+            "diastolic blood pressure"
+        ],
+        [
+            "eosinophilic myocarditis",
+            "is a type of",
+            "myocarditis"
+        ],
+        [
+            "glucose lowering",
+            "reduces risk of",
+            "cardiovascular disease"
+        ],
+        [
+            "diabetes",
+            "accounts for",
+            "CVD"
+        ],
+        [
+            "Coronary heart disease",
+            "is disputed by",
+            "World Health Organization"
+        ],
+        [
+            "anxiety",
+            "often experience",
+            "arrhythmias"
+        ],
+        [
+            "healthy diet",
+            "includes",
+            "plant-based diet"
+        ],
+        [
+            "intermittent fasting",
+            "may help",
+            "weight loss"
+        ],
+        [
+            "CVD",
+            "includes",
+            "heart attack"
+        ],
+        [
+            "mentally stressful work",
+            "associated with",
+            "long working weeks"
+        ],
+        [
+            "dietary salt",
+            "increases",
+            "left ventricular hypertrophy"
+        ],
+        [
+            "shift-work",
+            "develops more often in those who experience",
+            "hypertension"
+        ],
+        [
+            "Americans",
+            "get less than recommended",
+            "sleep"
+        ],
+        [
+            "exposure to compounds",
+            "associated with",
+            "stroke"
+        ],
+        [
+            "low fruit and vegetable consumption",
+            "linked to",
+            "cardiovascular risk"
+        ],
+        [
+            "DASH diet",
+            "is high in",
+            "fish"
+        ],
+        [
+            "Cardiovascular diseases",
+            "caused over 80% of",
+            "global death"
+        ],
+        [
+            "Pre-menopausal women",
+            "are at lower risk of",
+            "Coronary heart disease"
+        ],
+        [
+            "cost-effectiveness",
+            "is important in",
+            "low or middle-income levels"
+        ],
+        [
+            "generalized anxiety disorder",
+            "increases likelihood of",
+            "cardiovascular diseases"
+        ],
+        [
+            "CVD",
+            "includes",
+            "valvular heart disease"
+        ],
+        [
+            "cardiovascular disease",
+            "is predicted by",
+            "blood pressure"
+        ],
+        [
+            "atherosclerosis",
+            "caused by",
+            "poor sleep"
+        ],
+        [
+            "South Asian subcontinent",
+            "has",
+            "environmental factors"
+        ],
+        [
+            "periodontitis",
+            "associated with",
+            "cardiovascular disease"
+        ],
+        [
+            "carbon monoxide",
+            "associated with",
+            "heart disease"
+        ],
+        [
+            "body fat",
+            "should be decreased if",
+            "obese"
+        ],
+        [
+            "coronary artery bypass surgery",
+            "is an option for",
+            "heart attacks"
+        ],
+        [
+            "WHO study",
+            "finds",
+            "working 55+ hours a week"
+        ],
+        [
+            "Coronary fatty streaks",
+            "can begin to form in",
+            "Age"
+        ],
+        [
+            "mentally stressful work",
+            "associated with",
+            "noise"
+        ],
+        [
+            "healthy diet",
+            "includes",
+            "vegetarian diet"
+        ],
+        [
+            "2016 review",
+            "was unclear due to lack of",
+            "external validation"
+        ],
+        [
+            "radiation therapy",
+            "causes",
+            "radiation-induced fibrosis"
+        ],
+        [
+            "mental health problems",
+            "are associated with",
+            "smoking"
+        ],
+        [
+            "engine exhaust",
+            "associated with",
+            "heart disease"
+        ],
+        [
+            "WHO",
+            "provides",
+            "cardiovascular disease"
+        ],
+        [
+            "cardiovascular disease",
+            "is predicted by",
+            "blood lipids"
+        ],
+        [
+            "Diabetes",
+            "increases the likelihood of developing",
+            "Heart diseases"
+        ],
+        [
+            "exercise training",
+            "benefits",
+            "increased cardiovascular risk"
+        ],
+        [
+            "salt",
+            "linked to",
+            "cardiovascular risk"
+        ],
+        [
+            "radiation therapy",
+            "causes",
+            "oxidative stress"
+        ],
+        [
+            "exposure to compounds",
+            "includes",
+            "asbestos"
+        ],
+        [
+            "surgical interventions",
+            "can save or prolong life in",
+            "arrhythmias"
+        ],
+        [
+            "blood pressure",
+            "is improved by",
+            "moderate activity"
+        ],
+        [
+            "psychosocial factors",
+            "contribute to",
+            "socio-economic inequalities"
+        ],
+        [
+            "heart diseases",
+            "risk factor",
+            "raised blood sugar"
+        ],
+        [
+            "myocarditis",
+            "involves",
+            "lymphocyte"
+        ],
+        [
+            "glucose lowering",
+            "increases risk of",
+            "hypoglycemia"
+        ],
+        [
+            "Antibiotics",
+            "increase",
+            "strokes"
+        ],
+        [
+            "Streptococcus pyogenes",
+            "is a",
+            "group A streptococcal infection"
+        ],
+        [
+            "Age",
+            "increases",
+            "Serum cholesterol level"
+        ],
+        [
+            "dental care",
+            "unclear effect on",
+            "cardiovascular disease"
+        ],
+        [
+            "CVD",
+            "includes",
+            "rheumatic heart disease"
+        ],
+        [
+            "body fat",
+            "should be decreased if",
+            "overweight"
+        ],
+        [
+            "stroke",
+            "accounts for",
+            "CVD"
+        ],
+        [
+            "heart diseases",
+            "risk factor",
+            "poor sleep"
+        ],
+        [
+            "DASH diet",
+            "is high in",
+            "fruits and vegetables"
+        ],
+        [
+            "PM2.5",
+            "increased rate of",
+            "atherosclerosis"
+        ],
+        [
+            "preventative screening",
+            "appears to shift toward",
+            "randomized trial results"
+        ],
+        [
+            "PM2.5",
+            "is implicated in",
+            "heart failure"
+        ],
+        [
+            "saturated fat",
+            "is replaced by",
+            "polyunsaturated vegetable oil"
+        ],
+        [
+            "blood pressure",
+            "lower",
+            "cardiovascular risk factor"
+        ],
+        [
+            "rheumatic heart disease",
+            "may follow",
+            "strep throat"
+        ]
+    ],
+    "entity_clusters": null,
+    "edge_clusters": null
+}

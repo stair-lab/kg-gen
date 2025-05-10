@@ -1,0 +1,4853 @@
+{
+    "entities": [
+        "helper T cells",
+        "quadromas",
+        "autoimmune disorders",
+        "placental mammals",
+        "lipid rafts",
+        "adventitious viruses",
+        "John L. Fahey",
+        "immunoconjugate",
+        "BCR gene loci",
+        "complexes",
+        "Anti-RhD antibodies",
+        "cancer cell line",
+        "S-regions",
+        "hexamers",
+        "B cell receptor",
+        "Binding site",
+        "Antigen binding affinity",
+        "variable domain VH",
+        "paratopes",
+        "disulfide bond",
+        "BCRs",
+        "mutations",
+        "Cells Alive!",
+        "μ (mu)",
+        "cell signaling receptors",
+        "antibody dependent cell mediated cytotoxicity",
+        "gamma globulin fraction",
+        "Emil von Behring",
+        "aptamer-based nucleic acid molecules",
+        "pooled immunoglobulin",
+        "γ (gamma)",
+        "disulfide bond-linked heavy and light chains",
+        "γ (gamma) heavy chains",
+        "antibody-binding site",
+        "cartilaginous fish",
+        "variable domain genes",
+        "soluble antibodies",
+        "hemolytic disease of the newborn",
+        "IgA",
+        "WHO",
+        "camels",
+        "antibody molecule",
+        "polypeptide chains",
+        "Health care",
+        "bispecific",
+        "European donors",
+        "knobs-into-holes format",
+        "mother",
+        "BAU",
+        "prenatal stage",
+        "2015",
+        "viral infection",
+        "monomer",
+        "Immunisin",
+        "llamas",
+        "natural killer cells",
+        "Structure prediction",
+        "surface IgM",
+        "variable domain exon",
+        "iota (ι) chain",
+        "product safety data",
+        "preclinical pharmacology",
+        "Immunkörper",
+        "homology searches",
+        "Antikörper",
+        "malaria",
+        "LC-MS/MS",
+        "RRID paper",
+        "isotope switching",
+        "therapeutic agents",
+        "antitoxin",
+        "red blood cell surface antigens",
+        "murine retrovirus testing",
+        "body's humors",
+        "variable region",
+        "lymphocytes",
+        "hole",
+        "4 journals",
+        "antigen-binding fragments (Fab)",
+        "immune complexes",
+        "head and neck cancer",
+        "Epstein-Barr virus",
+        "serine/threonine",
+        "immunoglobulin gene",
+        "plasma cell",
+        "Lyme disease",
+        "immunoelectrophoresis",
+        "alcoholic liver disease",
+        "tandem mass spectra",
+        "cell division",
+        "myeloma cells",
+        "immunofluorescence",
+        "adaptive immune system",
+        "immunoglobulin class switching",
+        "Fc region",
+        "IgD",
+        "neutralisation",
+        "heavy chains",
+        "crystallisable fragment (Fc)",
+        "affinity maturation",
+        "bacteriolysis",
+        "psoriasis",
+        "microscope",
+        "binding site",
+        "Pharmaceuticals",
+        "research agents",
+        "magnetic immunoassay",
+        "bacterial plasmids",
+        "RAG proteins",
+        "Ig heavy chains",
+        "multispecific antibodies",
+        "Rodney Porter",
+        "blood groups",
+        "sheep",
+        "maternal B cells",
+        "van der Waals forces",
+        "microbe",
+        "human genome",
+        "antigen-binding affinity",
+        "de novo sequencing peptides",
+        "membrane attack complex",
+        "radioactive fluoride (18F)",
+        "de novo sequencing",
+        "turbidimetry",
+        "allergic reactions",
+        "variable domain",
+        "Thomas Tomasi",
+        "antigens",
+        "B cell receptors",
+        "jawed fish",
+        "classes",
+        "animal",
+        "multivalent antigens",
+        "B cells",
+        "disulfide bonds",
+        "B cell",
+        "diversity (D) segments",
+        "B cell environment",
+        "precipitation",
+        "bacterial cell walls",
+        "V2 family",
+        "agglutination",
+        "antibody chains",
+        "University of Cambridge",
+        "soluble proteins",
+        "polyvalent",
+        "glycine",
+        "Ig units",
+        "isotype-specific",
+        "interface movements",
+        "apoptosis",
+        "amino acids",
+        "pathogens",
+        "dimers",
+        "Light and heavy chains",
+        "subclasses",
+        "adaptive immune response",
+        "chromosome 19",
+        "Gerald Edelman",
+        "antibody dimers",
+        "complement cascade",
+        "epitopes",
+        "fetus",
+        "monoclonal antibodies",
+        "loop and framework structural constraints",
+        "How Lymphocytes Produce Antibody",
+        "cancer treatment",
+        "bacteria",
+        "sensitization",
+        "immune deficiencies",
+        "alpacas",
+        "Protein A/G",
+        "Chondrichthyes",
+        "humoral immune system",
+        "immunoglobulin domain",
+        "genes",
+        "IgE",
+        "polyclonal IgG",
+        "Henry Bence Jones",
+        "Coombs test",
+        "positional confidence scores",
+        "glycosylation sites",
+        "Western blot analyses",
+        "primary biliary cirrhosis",
+        "Teleostei",
+        "protein",
+        "homodimer formation",
+        "artificial antibodies",
+        "naive B lymphocyte",
+        "lock-and-key interaction",
+        "beta sheets",
+        "variable domain VL",
+        "antibody-dependent cell-mediated cytotoxicity (ADCC)",
+        "mouse IgG1",
+        "flow cytometry",
+        "pFUSE-Fc plasmid",
+        "PDB molecule of the month",
+        "Mucosal tissues",
+        "human serum",
+        "passive immunization",
+        "humoral immunity",
+        "B-1 lineage cells",
+        "phagocytosis",
+        "fixateur",
+        "pilot studies",
+        "gene segments",
+        "collagen",
+        "triomas",
+        "sterility",
+        "effector molecules",
+        "substance sensibilisatrice",
+        "unspecific",
+        "amino acid",
+        "germline",
+        "bispecificity",
+        "antigen-affinity chromatography",
+        "joining (J) segments",
+        "tissue penetration",
+        "Infections",
+        "immunodiagnostic methods",
+        "cytotoxic molecules",
+        "antibody pool",
+        "Greek key motif",
+        "natural IgM",
+        "isotype",
+        "Immunoglobulin",
+        "antibody purification",
+        "Patent claims",
+        "IgE antibodies",
+        "chromosome 14",
+        "carbohydrates",
+        "FcR",
+        "cellular immune response",
+        "opsonization",
+        "Ig light chains",
+        "Single-chain variable fragments (scFv)",
+        "antibodies",
+        "Western blot",
+        "biological properties",
+        "cluster of differentiation molecules",
+        "complementarity-determining regions (CDRs)",
+        "chromosomal region",
+        "Homology models",
+        "natural antibodies",
+        "constant domain CL",
+        "multivalent antigen",
+        "home pregnancy tests",
+        "heavy chain",
+        "tetramers",
+        "Astrid Fagraeus",
+        "C1q protein complex",
+        "antibody mimetics",
+        "medical diagnostics",
+        "cross reactivity",
+        "daughter cells",
+        "light chains",
+        "shark IgW",
+        "CID/HCD/ETD fragmentation methods",
+        "paratope",
+        "framework regions",
+        "membrane-bound receptors",
+        "cDNA",
+        "solubility",
+        "antibody-secreting cells",
+        "David S. Rowe",
+        "bottom-up approaches",
+        "liver damage",
+        "electrophoresis test",
+        "diagnostic agents",
+        "endogenous antibody production",
+        "spleen",
+        "immunodiffusion",
+        "trimers",
+        "non-Hodgkin's lymphoma",
+        "pH",
+        "state of tissue",
+        "ELISpot techniques",
+        "heavy chain gene locus",
+        "helminths",
+        "immunohistochemistry",
+        "domains",
+        "enzymes",
+        "neutrophils",
+        "enveloped virus particles",
+        "pentamers",
+        "variable regions",
+        "animal immunization",
+        "hybridoma cell lines",
+        "researchers",
+        "α (alpha)",
+        "donor tissue",
+        "microorganisms",
+        "N-terminus",
+        "neonatal stage",
+        "drugs",
+        "monoclonal antibody therapy",
+        "immune response",
+        "chickens",
+        "Nobel Prize in Physiology or Medicine",
+        "hydrogen bonds",
+        "lambda light chain genes (IGL@)",
+        "constant domains CH1, CH2",
+        "V(D)J recombination",
+        "artificial constructs",
+        "affinity",
+        "validation studies",
+        "human IgG2",
+        "antigen",
+        "glycoproteins",
+        "lysis",
+        "allergens",
+        "Edman degradation",
+        "histamine",
+        "hypervariable regions",
+        "surface immunoglobulin",
+        "SHM",
+        "gamma-globulins",
+        "dioxaborolane chemistry",
+        "amino acid residues",
+        "kappa light chain genes (IGK@)",
+        "isotypes",
+        "combinational design",
+        "RIFIN",
+        "liquid chromatography",
+        "antigen-antibody complex",
+        "leukocyte-associated immunoglobulin-like receptor 1",
+        "classical complement system",
+        "specialist search engine",
+        "Acute toxicity testing",
+        "Almroth Wright",
+        "antibody genes",
+        "genetic material",
+        "allelic exclusion",
+        "product safety testing",
+        "lambda (λ)",
+        "cytokines",
+        "polysaccharides",
+        "Animal toxicity studies",
+        "asymmetrical antibodies",
+        "IgG",
+        "immune complex",
+        "clumping",
+        "Susumu Tonegawa",
+        "North et al.",
+        "variable domains",
+        "electrostatic forces",
+        "blood transfusion",
+        "constant regions",
+        "Epitope",
+        "Antibody paratopes",
+        "immunoglobulin isotypes",
+        "Plasmablasts",
+        "lymph nodes",
+        "Repeat-dose toxicity testing",
+        "cytotoxic T cells",
+        "Antigen",
+        "α-Gal antigens",
+        "antibody",
+        "linker peptide",
+        "variable (V) segments",
+        "receptors",
+        "Kimishige Ishizaka",
+        "FcRn",
+        "cell-surface IgM",
+        "microbes",
+        "intracellular proteins",
+        "tandem mass spectrometry",
+        "LAIR1",
+        "protein sequence databases",
+        "antibody Fab region",
+        "immunoprecipitation",
+        "red blood cells",
+        "Antibody activities",
+        "2014",
+        "blood typing",
+        "vertebrate B cells",
+        "side-chain theory",
+        "antibody suppliers",
+        "epitope",
+        "constant region",
+        "rabbit",
+        "cell development",
+        "T helper cells",
+        "antiserum",
+        "immunoglobulin superfamily",
+        "virus clearance studies",
+        "Herpes zoster",
+        "IgA2",
+        "CDRs",
+        "macrophages",
+        "endoplasmic reticulum (ER)",
+        "Tanzania",
+        "Desmon",
+        "horse",
+        "Rosetta Antibody",
+        "artificial peptides",
+        "immune system",
+        "species",
+        "β-strands",
+        "nephelometry",
+        "heterodimeric antibodies",
+        "Linus Pauling",
+        "preclinical safety testing",
+        "Ab",
+        "antibody heavy chain",
+        "placenta",
+        "asthma",
+        "mast cells",
+        "lambda light chain immunoglobulin",
+        "CDR loop",
+        "molecules",
+        "solvent",
+        "hydrophobic interactions",
+        "genome sequence",
+        "intensity scores",
+        "repetitive interspersed families of polypeptides",
+        "IgG class",
+        "memory cells",
+        "variable gene",
+        "virus capsid protein fragment",
+        "Amino acid sequences",
+        "genomic instability",
+        "Prediction of Immunoglobulin Structure (PIGS)",
+        "Kitasato Shibasaburō",
+        "survival signal",
+        "α",
+        "Nikoloudis et al.",
+        "bony fishes",
+        "Teruko Ishizaka",
+        "humans",
+        "Paul Ehrlich",
+        "goat",
+        "Plasmodium falciparum",
+        "T cells",
+        "Immune response",
+        "immune cells",
+        "class switching",
+        "Antibody diversification",
+        "heavy chain locus",
+        "intravenous immunoglobulin",
+        "γ",
+        "allotype",
+        "adverse events",
+        "point mutations",
+        "mammal",
+        "DNA",
+        "activation",
+        "mouse",
+        "CDR loops",
+        "pathogen",
+        "switch (S) regions",
+        "Bence-Jones protein",
+        "mammalian IgM",
+        "immune network theory",
+        "preclinical studies",
+        "Fab-epitope interaction",
+        "granules",
+        "complement activation",
+        "heavy chain genes (IGH@)",
+        "foreign antigen",
+        "heat",
+        "biological therapies",
+        "Fab",
+        "bispecific antibodies",
+        "Interchromosomal DNA Transposition",
+        "IgG2",
+        "tetanus toxins",
+        "Computational antibody design",
+        "colorectal cancer",
+        "antibody proteins",
+        "Protein engineering",
+        "glycosylated cell surface proteins",
+        "computational design",
+        "stability",
+        "infections",
+        "Michael Heidelberger",
+        "heterodimer formation",
+        "non-homologous end joining (NHEJ)",
+        "safe starting dose",
+        "Antigen-binding site",
+        "human gut",
+        "antibody complexes",
+        "David Givol",
+        "degranulation",
+        "co-immunoprecipitation",
+        "clinical trials",
+        "Clinical dosages",
+        "FV region",
+        "Rho(D) immune globulin antibodies",
+        "prenatal treatment regimen",
+        "Rh disease",
+        "antibody light chain",
+        "Bone marrow",
+        "idiotypes",
+        "classical complement pathway",
+        "genetic rearrangements",
+        "antigen binding regions",
+        "toxins",
+        "vasoactive amine degranulation",
+        "three-dimensional space",
+        "human RhD antigen",
+        "blood proteins",
+        "effector cells",
+        "Memory B cells",
+        "complement system",
+        "Antibodies",
+        "Mike's Immunoglobulin Structure/Function Page",
+        "complement pathway",
+        "serum",
+        "ε (epsilon)",
+        "amino acid differences",
+        "opsoninization",
+        "glycans",
+        "immunoglobulins",
+        "Immature B cells",
+        "toxicity testing",
+        "hybridomas",
+        "microRNA miR-650",
+        "Joseph Gally",
+        "hypogammaglobulinemia",
+        "bone marrow",
+        "chromosomes 22 and 2",
+        "antibody profile",
+        "antenatal women",
+        "kappa (κ)",
+        "production costs",
+        "Fc receptors",
+        "plasmablasts",
+        "naive B cells",
+        "shotgun protein sequencing",
+        "human IgG1",
+        "Fc receptor ε",
+        "vaccines",
+        "somatic hypermutation",
+        "cell-mediated immunity",
+        "membrane immunoglobulin",
+        "genomes of mammals",
+        "academic papers",
+        "antigen specificity",
+        "dose escalation",
+        "phagocytes",
+        "camelids",
+        "passive immunity",
+        "F1000",
+        "philocytase",
+        "Rh-negative",
+        "top-down approaches",
+        "Chothia et al.",
+        "constant domain",
+        "monospecific",
+        "Clinical effects",
+        "innate immune cells",
+        "A hundred years of antibody therapy",
+        "toxicity",
+        "serology",
+        "proteins",
+        "immune mediated hemolytic anemia",
+        "sharks",
+        "Ig-α",
+        "binding antibody unit",
+        "class switch recombination (CSR)",
+        "Rh factor",
+        "Ig",
+        "hypervariable regions (HV-1, HV-2, HV-3)",
+        "signal transduction",
+        "surface IgD",
+        "X-linked agammaglobulinemia",
+        "database search methods",
+        "ε",
+        "Vaccines",
+        "inflammation",
+        "knobs",
+        "IgM",
+        "Binding affinity",
+        "polyclonal antibodies",
+        "rheumatoid arthritis",
+        "Pharmacokinetics",
+        "protein motifs",
+        "University of Oxford",
+        "disaccharide galactose α(1,3)-galactose (α-Gal)",
+        "xenotransplantated organs",
+        "cancer",
+        "effector functions",
+        "daughter B cells",
+        "Long-term toxicity testing",
+        "cells",
+        "Web Antibody Modeling (WAM)",
+        "clinical immunology",
+        "determinants",
+        "John Marrack",
+        "rat",
+        "infected cell",
+        "allergic response",
+        "complementarity-determining regions (CDR1, CDR2, CDR3)",
+        "nucleotide change",
+        "extracellular proteins",
+        "diphtheria",
+        "Plasma cells",
+        "breast cancer",
+        "RCSB Protein Data Bank",
+        "Rh-positive",
+        "progeny",
+        "phage display method",
+        "Mali",
+        "plasma cells",
+        "surface antigens",
+        "viruses",
+        "RRIDs Standard",
+        "IgA1",
+        "Force11",
+        "Computational approaches",
+        "human B cell",
+        "Zwischenkörper",
+        "structural bioinformatics",
+        "J chain",
+        "antigen-antibody complexes",
+        "antigen specificities",
+        "cross-reactivity of antibody",
+        "clonal B cells",
+        "secretory antibody",
+        "Oswald Avery",
+        "Rh D antigen",
+        "house dust mite particles",
+        "light chain",
+        "δ-chain",
+        "effector function",
+        "purified antibody",
+        "multiple sclerosis",
+        "positron emission tomography (PET)",
+        "Pharmacodynamics",
+        "neonatal Fc receptor",
+        "functional locations",
+        "egg yolk",
+        "IgG3",
+        "immunoglobulin",
+        "feasibility testing",
+        "animal serum",
+        "IgG4",
+        "human chorionic gonadotropin (hCG)",
+        "immunological memory",
+        "TLR ligands",
+        "antibody regions",
+        "feasibility trials",
+        "ELISA",
+        "hinge region",
+        "teleost fish IgM",
+        "subgenes",
+        "antibody response",
+        "dimer",
+        "biology of B-cells",
+        "B cell activation",
+        "antibodyregistry.org",
+        "IgG1",
+        "immunoglobulin heavy chain",
+        "Antibody",
+        "Ig-β",
+        "δ (delta)",
+        "conserved nucleotide motifs",
+        "antibody fragments",
+        "copula",
+        "X-ray crystallography",
+        "memory B cells",
+        "Biotechnology industry",
+        "nanobodies",
+        "Amboceptor",
+        "amino acid composition"
+    ],
+    "edges": [
+        "play a role in",
+        "draws data from",
+        "are produced by",
+        "are connected to",
+        "changes during",
+        "is used in",
+        "results in",
+        "stimulate",
+        "encodes",
+        "assumed",
+        "observed antigens precipitated by",
+        "differentiates into",
+        "exists in the form of",
+        "are present in",
+        "joins",
+        "are considered part of",
+        "expresses",
+        "has analogy to",
+        "examined biochemical properties of",
+        "are added to",
+        "depend on",
+        "is part of",
+        "measures",
+        "are supported by",
+        "can cross-link",
+        "highlights",
+        "includes",
+        "report on",
+        "connects",
+        "has similar concept to",
+        "increase",
+        "store",
+        "contributes to immunity against",
+        "have",
+        "connect",
+        "co-published in",
+        "undergoes",
+        "occur at",
+        "is also known as",
+        "results in killing of",
+        "are useful in determining the cause of",
+        "used by",
+        "are found in",
+        "does not activate",
+        "exists in",
+        "described",
+        "are bound by",
+        "bind to",
+        "lower",
+        "trigger",
+        "are contained in",
+        "is composed of",
+        "found on",
+        "respond to",
+        "part of",
+        "do not have",
+        "are formed by fusing",
+        "is from",
+        "showed",
+        "activates",
+        "involves release of",
+        "can be sensitized to",
+        "designed to identify",
+        "bind",
+        "occur in",
+        "tag with",
+        "is bound by",
+        "are formed as",
+        "can stimulate",
+        "describes the function of",
+        "allow for",
+        "levels are elevated in",
+        "is broken by",
+        "acquire",
+        "binds",
+        "prevent",
+        "bind in",
+        "estimates",
+        "on surface of",
+        "isolate",
+        "produce",
+        "leads to",
+        "can occur as",
+        "fits into",
+        "result in",
+        "use",
+        "are not found in",
+        "coats",
+        "act against",
+        "helps facilitate clearance of",
+        "induces",
+        "releases",
+        "can trigger",
+        "is detected with",
+        "are directed against",
+        "is correlated with",
+        "act on",
+        "validate",
+        "has",
+        "stimulate removal of",
+        "is denoted by",
+        "describes the responses of",
+        "circulating in",
+        "central to",
+        "rely on",
+        "is at",
+        "found in",
+        "connect by",
+        "comprise",
+        "signals",
+        "complement",
+        "source of",
+        "are on",
+        "suggested process of",
+        "discovered",
+        "coated",
+        "is rejoined through",
+        "detects",
+        "are isolated on",
+        "occurs in",
+        "involves",
+        "targets",
+        "performs",
+        "consist of",
+        "can be found through",
+        "characterized by",
+        "binds to",
+        "produced by",
+        "are produced through",
+        "are activated by",
+        "sequence",
+        "can form",
+        "is regulated by",
+        "could bind specifically to",
+        "characterized",
+        "can be",
+        "provides",
+        "are mostly",
+        "confirmed",
+        "could react with",
+        "has subclasses",
+        "improve",
+        "is not as close to",
+        "are",
+        "is specific for",
+        "not found in",
+        "work with",
+        "causes production change to",
+        "is rich in",
+        "recognizes",
+        "labels for",
+        "put forward theory of",
+        "directed against",
+        "reacts with mediator in",
+        "are affected by",
+        "important in",
+        "controls",
+        "characterize",
+        "related to",
+        "can be found from",
+        "are used in",
+        "present to",
+        "is injected into",
+        "are not encoded directly in",
+        "measure",
+        "connect to",
+        "can form larger complexes with",
+        "is the same as",
+        "increases",
+        "limits understanding of",
+        "are purified using",
+        "implemented",
+        "migrate to",
+        "determine",
+        "causes production change from",
+        "enhances",
+        "types are",
+        "perform",
+        "occurs through",
+        "generates",
+        "involved in",
+        "expressed on",
+        "encode",
+        "release",
+        "sequenced by",
+        "destroy",
+        "forms",
+        "encourages",
+        "produces",
+        "depends on shape of",
+        "destroys",
+        "is activated by",
+        "caused by",
+        "responsible for generating",
+        "published in",
+        "are rearranged in",
+        "proposed",
+        "is achieved through transfer of",
+        "fused with",
+        "cut",
+        "provide",
+        "allow for attachment of",
+        "interacts with",
+        "influences",
+        "form",
+        "is provided by",
+        "required from",
+        "express",
+        "transports",
+        "are a manifestation of",
+        "is synonymous with",
+        "obtained by",
+        "efficiency of",
+        "contain",
+        "utilize",
+        "described as",
+        "also known as",
+        "are specific for",
+        "characterizes",
+        "developed as",
+        "are improved by",
+        "initiates",
+        "co-expressed in",
+        "occurs per",
+        "can enter",
+        "is framework for",
+        "varies for",
+        "needed before",
+        "bind via",
+        "deposition suggests",
+        "is a process of",
+        "allows for imaging of",
+        "enter",
+        "are limited by",
+        "require",
+        "are delivered to",
+        "have properties similar to",
+        "integrated with",
+        "showed interactions depend on shape of",
+        "does not suppress",
+        "proposes mediator in",
+        "enhances affinity for",
+        "have varying",
+        "referenced in",
+        "is associated with",
+        "relies on",
+        "mutate",
+        "normally binds",
+        "used for",
+        "receive",
+        "showed antibodies are made of",
+        "is capable of",
+        "responds to",
+        "is held together by",
+        "awarded",
+        "can lead to",
+        "occurs after",
+        "are called",
+        "trigger destruction of",
+        "transports across",
+        "is encoded in",
+        "is",
+        "facilitates",
+        "can bind to",
+        "from",
+        "activate",
+        "incorporates",
+        "is used for antibody screening in",
+        "is a subclass of",
+        "determines",
+        "come in",
+        "impact",
+        "identifies",
+        "tags",
+        "described antibody activity against",
+        "depends on",
+        "is found on",
+        "prevents",
+        "is triggered by",
+        "differentiate into",
+        "participate in",
+        "assists in",
+        "allows",
+        "is closer to",
+        "alternative to",
+        "undergo",
+        "is binding reaction for production of",
+        "classified by",
+        "are provided by",
+        "are made by",
+        "cannot bind to",
+        "remain unchanged during",
+        "less important in",
+        "are fused with",
+        "reside in",
+        "cross-links",
+        "are isolated from",
+        "first used term",
+        "initiate",
+        "use strategy of",
+        "have affinity for",
+        "is for",
+        "include",
+        "secrete",
+        "neutralizes",
+        "should include",
+        "is assembled from",
+        "are traced to",
+        "define",
+        "puts at risk for",
+        "made of",
+        "abolishes affinity for",
+        "attracts",
+        "enables",
+        "are referred to as",
+        "defined by",
+        "is also called",
+        "rejection is thought to be result of",
+        "studies",
+        "is discussed at",
+        "is employed to treat",
+        "contains",
+        "interact with",
+        "triggers",
+        "consists of",
+        "combine with",
+        "assembles",
+        "combined with",
+        "generate",
+        "cause",
+        "precipitates",
+        "enables labeling of",
+        "is a type of",
+        "belongs to",
+        "transports to",
+        "generated by",
+        "is an example of",
+        "are used with",
+        "will not make",
+        "is situated at",
+        "are not limited by",
+        "delivers",
+        "elicit",
+        "created",
+        "in form of",
+        "measured by",
+        "differ in",
+        "are part of",
+        "coupled with",
+        "are used to identify",
+        "act as guide for",
+        "discovered responsible for generating",
+        "based on",
+        "coat",
+        "undergo quality checks in",
+        "recognize",
+        "are administered as part of",
+        "can rearrange to form",
+        "influence interactions with",
+        "are arranged in",
+        "is engineered by replacing",
+        "should be described as"
+    ],
+    "relations": [
+        [
+            "disulfide bonds",
+            "connect",
+            "knobs"
+        ],
+        [
+            "Antibody paratopes",
+            "described as",
+            "Binding affinity"
+        ],
+        [
+            "cartilaginous fish",
+            "produce",
+            "heavy chains"
+        ],
+        [
+            "antibody",
+            "neutralizes",
+            "antigens"
+        ],
+        [
+            "home pregnancy tests",
+            "rely on",
+            "human chorionic gonadotropin (hCG)"
+        ],
+        [
+            "genes",
+            "combine with",
+            "genes"
+        ],
+        [
+            "knobs",
+            "facilitates",
+            "antibody dependent cell mediated cytotoxicity"
+        ],
+        [
+            "FV region",
+            "is part of",
+            "Fab"
+        ],
+        [
+            "antibody mimetics",
+            "have",
+            "stability"
+        ],
+        [
+            "switch (S) regions",
+            "are found in",
+            "DNA"
+        ],
+        [
+            "LAIR1",
+            "found in",
+            "Tanzania"
+        ],
+        [
+            "antibodies",
+            "trigger destruction of",
+            "pathogens"
+        ],
+        [
+            "disulfide bonds",
+            "connect",
+            "hole"
+        ],
+        [
+            "IgA2",
+            "is a subclass of",
+            "IgA"
+        ],
+        [
+            "immunoglobulin gene",
+            "encodes",
+            "antibodies"
+        ],
+        [
+            "linker peptide",
+            "connects",
+            "Single-chain variable fragments (scFv)"
+        ],
+        [
+            "BCRs",
+            "are isolated from",
+            "cell signaling receptors"
+        ],
+        [
+            "Rho(D) immune globulin antibodies",
+            "are specific for",
+            "human RhD antigen"
+        ],
+        [
+            "constant region",
+            "changes during",
+            "class switching"
+        ],
+        [
+            "camelids",
+            "include",
+            "camels"
+        ],
+        [
+            "natural killer cells",
+            "release",
+            "cytokines"
+        ],
+        [
+            "variable region",
+            "is encoded in",
+            "gene segments"
+        ],
+        [
+            "affinity maturation",
+            "abolishes affinity for",
+            "collagen"
+        ],
+        [
+            "immunoglobulin",
+            "is denoted by",
+            "IgM"
+        ],
+        [
+            "mammal",
+            "includes",
+            "horse"
+        ],
+        [
+            "complement cascade",
+            "forms",
+            "membrane attack complex"
+        ],
+        [
+            "preclinical safety testing",
+            "estimates",
+            "adverse events"
+        ],
+        [
+            "antibodies",
+            "are produced through",
+            "genetic rearrangements"
+        ],
+        [
+            "natural killer cells",
+            "are",
+            "effector cells"
+        ],
+        [
+            "Anti-RhD antibodies",
+            "are administered as part of",
+            "prenatal treatment regimen"
+        ],
+        [
+            "hybridomas",
+            "are formed by fusing",
+            "lymphocytes"
+        ],
+        [
+            "repetitive interspersed families of polypeptides",
+            "also known as",
+            "RIFIN"
+        ],
+        [
+            "cartilaginous fish",
+            "include",
+            "sharks"
+        ],
+        [
+            "light chain",
+            "types are",
+            "lambda (λ)"
+        ],
+        [
+            "α-Gal antigens",
+            "expressed on",
+            "donor tissue"
+        ],
+        [
+            "computational design",
+            "based on",
+            "structural bioinformatics"
+        ],
+        [
+            "classes",
+            "include",
+            "IgA"
+        ],
+        [
+            "Linus Pauling",
+            "showed interactions depend on shape of",
+            "antigen"
+        ],
+        [
+            "cross-reactivity of antibody",
+            "highlights",
+            "toxicity"
+        ],
+        [
+            "Fc receptors",
+            "are",
+            "isotype-specific"
+        ],
+        [
+            "B cell",
+            "responds to",
+            "antigen"
+        ],
+        [
+            "passive immunity",
+            "is achieved through transfer of",
+            "animal serum"
+        ],
+        [
+            "amino acid differences",
+            "occur in",
+            "variable domains"
+        ],
+        [
+            "Antikörper",
+            "also known as",
+            "fixateur"
+        ],
+        [
+            "antibody fragments",
+            "include",
+            "Fab"
+        ],
+        [
+            "γ (gamma) heavy chains",
+            "characterize",
+            "IgG class"
+        ],
+        [
+            "RRID paper",
+            "co-published in",
+            "4 journals"
+        ],
+        [
+            "antibodies",
+            "trigger",
+            "vasoactive amine degranulation"
+        ],
+        [
+            "IgM",
+            "is a subclass of",
+            "immunoglobulin"
+        ],
+        [
+            "antibody",
+            "is a type of",
+            "immunoglobulin"
+        ],
+        [
+            "nucleotide change",
+            "occurs in",
+            "variable gene"
+        ],
+        [
+            "polyclonal antibodies",
+            "are found in",
+            "antiserum"
+        ],
+        [
+            "X-ray crystallography",
+            "used for",
+            "Antibodies"
+        ],
+        [
+            "Fc receptors",
+            "interact with",
+            "Fc region"
+        ],
+        [
+            "class switching",
+            "occurs after",
+            "activation"
+        ],
+        [
+            "Antibodies",
+            "is discussed at",
+            "RCSB Protein Data Bank"
+        ],
+        [
+            "antibody molecule",
+            "has",
+            "bispecificity"
+        ],
+        [
+            "B cells",
+            "produce",
+            "soluble antibodies"
+        ],
+        [
+            "monoclonal antibody therapy",
+            "is employed to treat",
+            "rheumatoid arthritis"
+        ],
+        [
+            "secretory antibody",
+            "is",
+            "IgA"
+        ],
+        [
+            "CDRs",
+            "are called",
+            "idiotypes"
+        ],
+        [
+            "immunoglobulin class switching",
+            "causes production change to",
+            "IgG"
+        ],
+        [
+            "amino acid differences",
+            "impact",
+            "antigen-binding affinity"
+        ],
+        [
+            "How Lymphocytes Produce Antibody",
+            "is from",
+            "Cells Alive!"
+        ],
+        [
+            "Antibodies",
+            "central to",
+            "Vaccines"
+        ],
+        [
+            "Rosetta Antibody",
+            "incorporates",
+            "CDR loops"
+        ],
+        [
+            "antibodies",
+            "can be",
+            "bispecific"
+        ],
+        [
+            "heavy chain locus",
+            "contains",
+            "variable domain genes"
+        ],
+        [
+            "complementarity-determining regions (CDRs)",
+            "complement",
+            "antigen"
+        ],
+        [
+            "IgA",
+            "has subclasses",
+            "IgA2"
+        ],
+        [
+            "hypervariable regions",
+            "contain",
+            "amino acids"
+        ],
+        [
+            "Michael Heidelberger",
+            "observed antigens precipitated by",
+            "antibody"
+        ],
+        [
+            "antibodies",
+            "directed against",
+            "Epstein-Barr virus"
+        ],
+        [
+            "B cell receptors",
+            "are isolated from",
+            "cell signaling receptors"
+        ],
+        [
+            "RRIDs Standard",
+            "draws data from",
+            "antibodyregistry.org"
+        ],
+        [
+            "somatic hypermutation",
+            "is also known as",
+            "SHM"
+        ],
+        [
+            "Structure prediction",
+            "used for",
+            "Protein engineering"
+        ],
+        [
+            "B cells",
+            "in form of",
+            "plasma cells"
+        ],
+        [
+            "Web Antibody Modeling (WAM)",
+            "enables",
+            "Computational antibody design"
+        ],
+        [
+            "antibody proteins",
+            "characterized by",
+            "foreign antigen"
+        ],
+        [
+            "T cells",
+            "includes",
+            "cytotoxic T cells"
+        ],
+        [
+            "Anti-RhD antibodies",
+            "destroy",
+            "Rh D antigen"
+        ],
+        [
+            "B cells",
+            "produce",
+            "IgE"
+        ],
+        [
+            "knobs",
+            "enhances",
+            "heterodimer formation"
+        ],
+        [
+            "Kitasato Shibasaburō",
+            "put forward theory of",
+            "humoral immunity"
+        ],
+        [
+            "binding antibody unit",
+            "measure",
+            "immunoglobulins"
+        ],
+        [
+            "antibodies",
+            "bind",
+            "red blood cell surface antigens"
+        ],
+        [
+            "IgE antibodies",
+            "cause",
+            "allergic response"
+        ],
+        [
+            "Immature B cells",
+            "express",
+            "IgM"
+        ],
+        [
+            "artificial antibodies",
+            "are not limited by",
+            "loop and framework structural constraints"
+        ],
+        [
+            "LAIR1",
+            "normally binds",
+            "collagen"
+        ],
+        [
+            "John Marrack",
+            "examined biochemical properties of",
+            "antibody"
+        ],
+        [
+            "bacterial plasmids",
+            "tag with",
+            "Fc region"
+        ],
+        [
+            "clumping",
+            "is an example of",
+            "agglutination"
+        ],
+        [
+            "antibody",
+            "have",
+            "paratopes"
+        ],
+        [
+            "naive B cells",
+            "express",
+            "IgD"
+        ],
+        [
+            "IgD",
+            "contains",
+            "δ (delta)"
+        ],
+        [
+            "cytokines",
+            "are present in",
+            "B cell environment"
+        ],
+        [
+            "carbohydrates",
+            "are",
+            "glycans"
+        ],
+        [
+            "Emil von Behring",
+            "described antibody activity against",
+            "tetanus toxins"
+        ],
+        [
+            "hinge region",
+            "allows",
+            "antibodies"
+        ],
+        [
+            "antibodies",
+            "have",
+            "isotypes"
+        ],
+        [
+            "antibody",
+            "triggers",
+            "effector functions"
+        ],
+        [
+            "immunoglobulins",
+            "measured by",
+            "nephelometry"
+        ],
+        [
+            "mouse IgG1",
+            "is not as close to",
+            "human IgG1"
+        ],
+        [
+            "immunoglobulin",
+            "is part of",
+            "immune system"
+        ],
+        [
+            "IgA",
+            "contains",
+            "α (alpha)"
+        ],
+        [
+            "Computational approaches",
+            "alternative to",
+            "X-ray crystallography"
+        ],
+        [
+            "immunoglobulin domain",
+            "is composed of",
+            "β-strands"
+        ],
+        [
+            "Fc receptor ε",
+            "is bound by",
+            "IgE antibodies"
+        ],
+        [
+            "preclinical pharmacology",
+            "includes",
+            "toxicity testing"
+        ],
+        [
+            "IgA",
+            "has subclasses",
+            "IgA1"
+        ],
+        [
+            "Astrid Fagraeus",
+            "discovered responsible for generating",
+            "antibody"
+        ],
+        [
+            "Paul Ehrlich",
+            "first used term",
+            "Antikörper"
+        ],
+        [
+            "Linus Pauling",
+            "confirmed",
+            "lock-and-key interaction"
+        ],
+        [
+            "antibodies",
+            "provide",
+            "proteins"
+        ],
+        [
+            "LAIR1",
+            "not found in",
+            "European donors"
+        ],
+        [
+            "mother",
+            "can be sensitized to",
+            "Rh D antigen"
+        ],
+        [
+            "Plasma cells",
+            "reside in",
+            "Bone marrow"
+        ],
+        [
+            "amino acid differences",
+            "increase",
+            "antibody pool"
+        ],
+        [
+            "immunoglobulin",
+            "is denoted by",
+            "IgD"
+        ],
+        [
+            "B cells",
+            "differentiate into",
+            "antibody-secreting cells"
+        ],
+        [
+            "affinity maturation",
+            "enhances affinity for",
+            "RIFIN"
+        ],
+        [
+            "glycoproteins",
+            "have",
+            "carbohydrates"
+        ],
+        [
+            "allergic response",
+            "involves release of",
+            "histamine"
+        ],
+        [
+            "epitope",
+            "belongs to",
+            "antigen"
+        ],
+        [
+            "membrane attack complex",
+            "leads to",
+            "lysis"
+        ],
+        [
+            "immunoglobulins",
+            "have",
+            "variable region"
+        ],
+        [
+            "Prediction of Immunoglobulin Structure (PIGS)",
+            "enables",
+            "Computational antibody design"
+        ],
+        [
+            "variable domain genes",
+            "differ in",
+            "CDRs"
+        ],
+        [
+            "class switching",
+            "allows",
+            "daughter cells"
+        ],
+        [
+            "antibody",
+            "performs",
+            "precipitation"
+        ],
+        [
+            "artificial antibodies",
+            "are",
+            "protein motifs"
+        ],
+        [
+            "Pharmacokinetics",
+            "used for",
+            "Clinical effects"
+        ],
+        [
+            "antibodies",
+            "referenced in",
+            "academic papers"
+        ],
+        [
+            "passive immunity",
+            "is achieved through transfer of",
+            "monoclonal antibodies"
+        ],
+        [
+            "agglutination",
+            "involves",
+            "red blood cells"
+        ],
+        [
+            "B cells",
+            "receive",
+            "survival signal"
+        ],
+        [
+            "Rosetta Antibody",
+            "incorporates",
+            "Homology models"
+        ],
+        [
+            "Antibodies",
+            "require",
+            "Computational approaches"
+        ],
+        [
+            "heavy chains",
+            "connect to",
+            "light chains"
+        ],
+        [
+            "preclinical safety testing",
+            "designed to identify",
+            "toxicity"
+        ],
+        [
+            "Pharmacokinetics",
+            "used for",
+            "Antibody activities"
+        ],
+        [
+            "naive B lymphocyte",
+            "expresses",
+            "surface IgD"
+        ],
+        [
+            "variable domains",
+            "contain",
+            "hypervariable regions"
+        ],
+        [
+            "Single-chain variable fragments (scFv)",
+            "are connected to",
+            "variable domain"
+        ],
+        [
+            "antibody",
+            "depends on shape of",
+            "antigen"
+        ],
+        [
+            "antibody",
+            "are used in",
+            "immunohistochemistry"
+        ],
+        [
+            "immunodiagnostic methods",
+            "include",
+            "magnetic immunoassay"
+        ],
+        [
+            "joining (J) segments",
+            "are found in",
+            "Ig light chains"
+        ],
+        [
+            "linker peptide",
+            "is rich in",
+            "serine/threonine"
+        ],
+        [
+            "antibodies",
+            "are produced by",
+            "clonal B cells"
+        ],
+        [
+            "epitopes",
+            "are called",
+            "determinants"
+        ],
+        [
+            "Fc region",
+            "is part of",
+            "IgG"
+        ],
+        [
+            "human B cell",
+            "has",
+            "surface immunoglobulin"
+        ],
+        [
+            "monoclonal antibodies",
+            "are purified using",
+            "Protein A/G"
+        ],
+        [
+            "antibodies",
+            "prevent",
+            "pathogens"
+        ],
+        [
+            "variable regions",
+            "determine",
+            "antigen specificity"
+        ],
+        [
+            "immunoglobulins",
+            "are useful in determining the cause of",
+            "liver damage"
+        ],
+        [
+            "antibodies",
+            "directed against",
+            "Lyme disease"
+        ],
+        [
+            "Anti-RhD antibodies",
+            "prevent",
+            "sensitization"
+        ],
+        [
+            "Gerald Edelman",
+            "discovered",
+            "disulfide bond-linked heavy and light chains"
+        ],
+        [
+            "immune mediated hemolytic anemia",
+            "is detected with",
+            "Coombs test"
+        ],
+        [
+            "vertebrate B cells",
+            "generate",
+            "antibodies"
+        ],
+        [
+            "electrophoresis test",
+            "involves",
+            "blood proteins"
+        ],
+        [
+            "genome sequence",
+            "assumed",
+            "proteins"
+        ],
+        [
+            "antigen",
+            "is an example of",
+            "virus capsid protein fragment"
+        ],
+        [
+            "IgD",
+            "is a subclass of",
+            "immunoglobulin"
+        ],
+        [
+            "Rh D antigen",
+            "is found on",
+            "red blood cells"
+        ],
+        [
+            "Animal toxicity studies",
+            "include",
+            "Acute toxicity testing"
+        ],
+        [
+            "hybridoma cell lines",
+            "created",
+            "quadromas"
+        ],
+        [
+            "Antibodies",
+            "important in",
+            "Biotechnology industry"
+        ],
+        [
+            "light chains",
+            "contain",
+            "variable domain VL"
+        ],
+        [
+            "SHM",
+            "results in",
+            "nucleotide change"
+        ],
+        [
+            "radioactive fluoride (18F)",
+            "allows for imaging of",
+            "cancer"
+        ],
+        [
+            "natural IgM",
+            "are made by",
+            "B-1 lineage cells"
+        ],
+        [
+            "endoplasmic reticulum (ER)",
+            "contains",
+            "proteins"
+        ],
+        [
+            "IgA",
+            "can form",
+            "tetramers"
+        ],
+        [
+            "Animal toxicity studies",
+            "include",
+            "Long-term toxicity testing"
+        ],
+        [
+            "receptors",
+            "on surface of",
+            "cells"
+        ],
+        [
+            "mast cells",
+            "undergo",
+            "degranulation"
+        ],
+        [
+            "antibody",
+            "has",
+            "binding site"
+        ],
+        [
+            "antibody",
+            "interact with",
+            "antigen"
+        ],
+        [
+            "antibodies",
+            "stimulate removal of",
+            "pathogens"
+        ],
+        [
+            "complexes",
+            "include",
+            "trimers"
+        ],
+        [
+            "Oswald Avery",
+            "showed antibodies are made of",
+            "protein"
+        ],
+        [
+            "complementarity-determining regions (CDRs)",
+            "classified by",
+            "Nikoloudis et al."
+        ],
+        [
+            "FcRn",
+            "transports",
+            "IgG"
+        ],
+        [
+            "beta sheets",
+            "are arranged in",
+            "Greek key motif"
+        ],
+        [
+            "IgA",
+            "does not activate",
+            "classical complement pathway"
+        ],
+        [
+            "isotypes",
+            "include",
+            "IgE"
+        ],
+        [
+            "chromosomal region",
+            "encodes",
+            "antibodies"
+        ],
+        [
+            "non-homologous end joining (NHEJ)",
+            "joins",
+            "constant region"
+        ],
+        [
+            "B cells",
+            "responsible for generating",
+            "antibody"
+        ],
+        [
+            "monoclonal antibody therapy",
+            "is employed to treat",
+            "breast cancer"
+        ],
+        [
+            "Coombs test",
+            "is used for antibody screening in",
+            "blood transfusion"
+        ],
+        [
+            "Antibodies",
+            "central to",
+            "Infections"
+        ],
+        [
+            "Ig-α",
+            "is capable of",
+            "signal transduction"
+        ],
+        [
+            "antibodies",
+            "produce",
+            "effector function"
+        ],
+        [
+            "immunodiagnostic methods",
+            "include",
+            "ELISA"
+        ],
+        [
+            "IgG",
+            "is",
+            "polyclonal IgG"
+        ],
+        [
+            "classes",
+            "include",
+            "IgM"
+        ],
+        [
+            "Rho(D) immune globulin antibodies",
+            "prevent",
+            "sensitization"
+        ],
+        [
+            "maternal B cells",
+            "generate",
+            "memory B cells"
+        ],
+        [
+            "medical diagnostics",
+            "depend on",
+            "serology"
+        ],
+        [
+            "Plasma cells",
+            "secrete",
+            "Antibody"
+        ],
+        [
+            "lymphocytes",
+            "are fused with",
+            "cancer cell line"
+        ],
+        [
+            "blood typing",
+            "determines",
+            "blood groups"
+        ],
+        [
+            "Emil von Behring",
+            "described antibody activity against",
+            "diphtheria"
+        ],
+        [
+            "diversity (D) segments",
+            "are found in",
+            "Ig heavy chains"
+        ],
+        [
+            "antibody molecule",
+            "binds",
+            "antigens"
+        ],
+        [
+            "immunoglobulin class switching",
+            "causes production change to",
+            "IgA"
+        ],
+        [
+            "immunoglobulin",
+            "is denoted by",
+            "IgG"
+        ],
+        [
+            "immunoglobulin class switching",
+            "causes production change to",
+            "IgE"
+        ],
+        [
+            "immunoglobulin domain",
+            "is part of",
+            "immunoglobulin superfamily"
+        ],
+        [
+            "immunoglobulin",
+            "is a type of",
+            "antibody"
+        ],
+        [
+            "plasma cells",
+            "produce",
+            "antibodies"
+        ],
+        [
+            "clonal B cells",
+            "respond to",
+            "antigen"
+        ],
+        [
+            "hybridoma cell lines",
+            "fused with",
+            "myeloma cells"
+        ],
+        [
+            "glycosylation sites",
+            "occur in",
+            "Fc region"
+        ],
+        [
+            "linker peptide",
+            "is rich in",
+            "glycine"
+        ],
+        [
+            "antibody",
+            "can be found from",
+            "antibody suppliers"
+        ],
+        [
+            "opsoninization",
+            "coated",
+            "bacteria"
+        ],
+        [
+            "B cells",
+            "generate",
+            "antibodies"
+        ],
+        [
+            "antibodies",
+            "are provided by",
+            "passive immunization"
+        ],
+        [
+            "feasibility testing",
+            "are",
+            "pilot studies"
+        ],
+        [
+            "monoclonal antibodies",
+            "are produced by",
+            "B cell"
+        ],
+        [
+            "antibody",
+            "belongs to",
+            "immunoglobulin superfamily"
+        ],
+        [
+            "bacteria",
+            "are contained in",
+            "human gut"
+        ],
+        [
+            "complement activation",
+            "leads to",
+            "membrane attack complex"
+        ],
+        [
+            "immunoglobulin domain",
+            "is held together by",
+            "disulfide bond"
+        ],
+        [
+            "antibodies",
+            "form",
+            "antigen-antibody complexes"
+        ],
+        [
+            "heavy chain",
+            "is part of",
+            "constant region"
+        ],
+        [
+            "Pharmacodynamics",
+            "used for",
+            "Antibody activities"
+        ],
+        [
+            "Antikörper",
+            "also known as",
+            "copula"
+        ],
+        [
+            "Antibodies",
+            "less important in",
+            "Herpes zoster"
+        ],
+        [
+            "David S. Rowe",
+            "discovered",
+            "IgD"
+        ],
+        [
+            "Rh-negative",
+            "do not have",
+            "Rh D antigen"
+        ],
+        [
+            "antibodies",
+            "are specific for",
+            "antigen"
+        ],
+        [
+            "amino acid differences",
+            "occur in",
+            "antibody chains"
+        ],
+        [
+            "macrophages",
+            "are",
+            "effector cells"
+        ],
+        [
+            "CDRs",
+            "are supported by",
+            "framework regions"
+        ],
+        [
+            "affinity maturation",
+            "increases",
+            "antigen-binding affinity"
+        ],
+        [
+            "antibodies",
+            "bind to",
+            "surface antigens"
+        ],
+        [
+            "complementarity-determining regions (CDRs)",
+            "classified by",
+            "North et al."
+        ],
+        [
+            "affinity",
+            "depends on",
+            "state of tissue"
+        ],
+        [
+            "IgE",
+            "is a subclass of",
+            "immunoglobulin"
+        ],
+        [
+            "B-1 lineage cells",
+            "have properties similar to",
+            "innate immune cells"
+        ],
+        [
+            "natural antibodies",
+            "are present in",
+            "serum"
+        ],
+        [
+            "Single-chain variable fragments (scFv)",
+            "are connected to",
+            "linker peptide"
+        ],
+        [
+            "autoimmune disorders",
+            "are traced to",
+            "antibodies"
+        ],
+        [
+            "LAIR1",
+            "found in",
+            "Mali"
+        ],
+        [
+            "heavy chain",
+            "includes",
+            "α (alpha)"
+        ],
+        [
+            "serology",
+            "detects",
+            "antibodies"
+        ],
+        [
+            "affinity maturation",
+            "occurs after",
+            "V(D)J recombination"
+        ],
+        [
+            "researchers",
+            "use",
+            "antibodies"
+        ],
+        [
+            "membrane attack complex",
+            "assists in",
+            "bacteriolysis"
+        ],
+        [
+            "paratope",
+            "binds to",
+            "epitope"
+        ],
+        [
+            "isotype-specific",
+            "provides",
+            "immune system"
+        ],
+        [
+            "camelids",
+            "include",
+            "llamas"
+        ],
+        [
+            "variable (V) segments",
+            "are found in",
+            "Ig heavy chains"
+        ],
+        [
+            "antibodies",
+            "produced by",
+            "hybridoma cell lines"
+        ],
+        [
+            "receptors",
+            "bind in",
+            "lock-and-key interaction"
+        ],
+        [
+            "B cells",
+            "respond to",
+            "antigens"
+        ],
+        [
+            "polypeptide chains",
+            "include",
+            "light chains"
+        ],
+        [
+            "immune network theory",
+            "is framework for",
+            "idiotypes"
+        ],
+        [
+            "immunoglobulin heavy chain",
+            "contains",
+            "constant regions"
+        ],
+        [
+            "humoral immunity",
+            "exists in the form of",
+            "soluble proteins"
+        ],
+        [
+            "heavy chain",
+            "includes",
+            "μ (mu)"
+        ],
+        [
+            "foreign antigen",
+            "reacts with mediator in",
+            "serum"
+        ],
+        [
+            "Structure prediction",
+            "used for",
+            "Antigen binding affinity"
+        ],
+        [
+            "antibody",
+            "are used in",
+            "ELISA"
+        ],
+        [
+            "natural antibodies",
+            "are directed against",
+            "disaccharide galactose α(1,3)-galactose (α-Gal)"
+        ],
+        [
+            "Fab-epitope interaction",
+            "involves",
+            "van der Waals forces"
+        ],
+        [
+            "isotypes",
+            "include",
+            "IgG"
+        ],
+        [
+            "opsoninization",
+            "labels for",
+            "phagocytosis"
+        ],
+        [
+            "antibodies",
+            "stimulate",
+            "effector functions"
+        ],
+        [
+            "antibodies",
+            "contain",
+            "antigen-binding fragments (Fab)"
+        ],
+        [
+            "gene segments",
+            "are called",
+            "variable (V) segments"
+        ],
+        [
+            "class switch recombination (CSR)",
+            "relies on",
+            "conserved nucleotide motifs"
+        ],
+        [
+            "house dust mite particles",
+            "are bound by",
+            "IgE antibodies"
+        ],
+        [
+            "cytokines",
+            "required from",
+            "T helper cells"
+        ],
+        [
+            "cell-mediated immunity",
+            "describes the responses of",
+            "T cells"
+        ],
+        [
+            "mammal",
+            "includes",
+            "mouse"
+        ],
+        [
+            "antibody",
+            "are used with",
+            "microscope"
+        ],
+        [
+            "heterodimeric antibodies",
+            "use",
+            "knobs-into-holes format"
+        ],
+        [
+            "mammal",
+            "includes",
+            "rabbit"
+        ],
+        [
+            "Memory B cells",
+            "participate in",
+            "Immune response"
+        ],
+        [
+            "heterodimeric antibodies",
+            "are used in",
+            "cancer treatment"
+        ],
+        [
+            "humoral immune system",
+            "will not make",
+            "Anti-RhD antibodies"
+        ],
+        [
+            "preclinical safety testing",
+            "identifies",
+            "safe starting dose"
+        ],
+        [
+            "immunodiagnostic methods",
+            "include",
+            "immunoelectrophoresis"
+        ],
+        [
+            "liquid chromatography",
+            "coupled with",
+            "tandem mass spectrometry"
+        ],
+        [
+            "polysaccharides",
+            "are part of",
+            "bacterial cell walls"
+        ],
+        [
+            "bony fishes",
+            "are",
+            "Teleostei"
+        ],
+        [
+            "receptors",
+            "described as",
+            "side-chain theory"
+        ],
+        [
+            "antibodies",
+            "sequenced by",
+            "cDNA"
+        ],
+        [
+            "camelids",
+            "include",
+            "alpacas"
+        ],
+        [
+            "antibody mimetics",
+            "developed as",
+            "diagnostic agents"
+        ],
+        [
+            "antigen",
+            "is injected into",
+            "mammal"
+        ],
+        [
+            "Ig",
+            "is synonymous with",
+            "γ"
+        ],
+        [
+            "heavy chains",
+            "form",
+            "antibody-binding site"
+        ],
+        [
+            "antibodies",
+            "have varying",
+            "amino acid composition"
+        ],
+        [
+            "vasoactive amine degranulation",
+            "contributes to immunity against",
+            "helminths"
+        ],
+        [
+            "IgA",
+            "deposition suggests",
+            "alcoholic liver disease"
+        ],
+        [
+            "antigen",
+            "cross-links",
+            "B cell receptors"
+        ],
+        [
+            "sensitization",
+            "puts at risk for",
+            "hemolytic disease of the newborn"
+        ],
+        [
+            "Pharmacokinetics",
+            "used for",
+            "Clinical dosages"
+        ],
+        [
+            "natural IgM",
+            "work with",
+            "complement system"
+        ],
+        [
+            "mammalian IgM",
+            "can form",
+            "pentamers"
+        ],
+        [
+            "phagocytes",
+            "perform",
+            "phagocytes"
+        ],
+        [
+            "granules",
+            "store",
+            "molecules"
+        ],
+        [
+            "immune deficiencies",
+            "include",
+            "X-linked agammaglobulinemia"
+        ],
+        [
+            "B cell",
+            "produces",
+            "antibody"
+        ],
+        [
+            "B cell",
+            "undergoes",
+            "somatic hypermutation"
+        ],
+        [
+            "Fc region",
+            "is part of",
+            "IgE"
+        ],
+        [
+            "opsonization",
+            "involves",
+            "phagocytes"
+        ],
+        [
+            "mammal",
+            "includes",
+            "goat"
+        ],
+        [
+            "antibodies",
+            "are formed as",
+            "membrane-bound receptors"
+        ],
+        [
+            "affinity",
+            "depends on",
+            "pH"
+        ],
+        [
+            "immunodiagnostic methods",
+            "include",
+            "immunofluorescence"
+        ],
+        [
+            "Oswald Avery",
+            "observed antigens precipitated by",
+            "antibody"
+        ],
+        [
+            "bacteria",
+            "produce",
+            "disaccharide galactose α(1,3)-galactose (α-Gal)"
+        ],
+        [
+            "fetus",
+            "can enter",
+            "mother"
+        ],
+        [
+            "xenotransplantated organs",
+            "rejection is thought to be result of",
+            "natural antibodies"
+        ],
+        [
+            "antibodies",
+            "are limited by",
+            "human genome"
+        ],
+        [
+            "antigen",
+            "can cross-link",
+            "trimers"
+        ],
+        [
+            "antibodies",
+            "have",
+            "paratopes"
+        ],
+        [
+            "passive immunization",
+            "is provided by",
+            "mother"
+        ],
+        [
+            "mammal",
+            "produces",
+            "polyclonal antibodies"
+        ],
+        [
+            "Emil von Behring",
+            "put forward theory of",
+            "humoral immunity"
+        ],
+        [
+            "nucleotide change",
+            "occurs per",
+            "cell division"
+        ],
+        [
+            "immunoglobulin class switching",
+            "also known as",
+            "isotope switching"
+        ],
+        [
+            "B cells",
+            "produce",
+            "IgA"
+        ],
+        [
+            "IgA1",
+            "is a subclass of",
+            "IgA"
+        ],
+        [
+            "antibodies",
+            "are produced by",
+            "B cells"
+        ],
+        [
+            "V2 family",
+            "is for",
+            "lambda light chain immunoglobulin"
+        ],
+        [
+            "passive immunity",
+            "is achieved through transfer of",
+            "human serum"
+        ],
+        [
+            "mutations",
+            "occur at",
+            "FcRn"
+        ],
+        [
+            "Antikörper",
+            "also known as",
+            "Zwischenkörper"
+        ],
+        [
+            "immunoglobulins",
+            "measured by",
+            "turbidimetry"
+        ],
+        [
+            "heavy chain",
+            "includes",
+            "γ (gamma)"
+        ],
+        [
+            "Susumu Tonegawa",
+            "showed",
+            "genetic material"
+        ],
+        [
+            "monoclonal antibody therapy",
+            "is employed to treat",
+            "head and neck cancer"
+        ],
+        [
+            "antibodies",
+            "come in",
+            "classes"
+        ],
+        [
+            "microRNA miR-650",
+            "influences",
+            "biology of B-cells"
+        ],
+        [
+            "lock-and-key interaction",
+            "is binding reaction for production of",
+            "antibody"
+        ],
+        [
+            "IgE antibodies",
+            "bind to",
+            "Fc receptor ε"
+        ],
+        [
+            "antibody",
+            "signals",
+            "immune cells"
+        ],
+        [
+            "cross-reactivity of antibody",
+            "involves",
+            "immunoconjugate"
+        ],
+        [
+            "clinical immunology",
+            "measures",
+            "immunoglobulins"
+        ],
+        [
+            "heavy chains",
+            "connect by",
+            "disulfide bonds"
+        ],
+        [
+            "IgD",
+            "has",
+            "antigen binding regions"
+        ],
+        [
+            "B cell",
+            "is activated by",
+            "antigen"
+        ],
+        [
+            "microbes",
+            "can trigger",
+            "antibody response"
+        ],
+        [
+            "A hundred years of antibody therapy",
+            "is at",
+            "University of Oxford"
+        ],
+        [
+            "Teruko Ishizaka",
+            "discovered",
+            "IgE"
+        ],
+        [
+            "variable domain",
+            "is part of",
+            "heavy chain"
+        ],
+        [
+            "antibodies",
+            "sequenced by",
+            "Edman degradation"
+        ],
+        [
+            "top-down approaches",
+            "combined with",
+            "bottom-up approaches"
+        ],
+        [
+            "vasoactive amine degranulation",
+            "contributes to immunity against",
+            "allergens"
+        ],
+        [
+            "artificial antibodies",
+            "use strategy of",
+            "antibody molecule"
+        ],
+        [
+            "B cells",
+            "undergo",
+            "apoptosis"
+        ],
+        [
+            "John Marrack",
+            "examined biochemical properties of",
+            "antigen"
+        ],
+        [
+            "Rodney Porter",
+            "characterized",
+            "IgG"
+        ],
+        [
+            "genes",
+            "encode",
+            "variable domains"
+        ],
+        [
+            "gene segments",
+            "are called",
+            "diversity (D) segments"
+        ],
+        [
+            "genetic material",
+            "can rearrange to form",
+            "antibodies"
+        ],
+        [
+            "serum",
+            "could react with",
+            "foreign antigen"
+        ],
+        [
+            "IgE antibodies",
+            "bind to",
+            "house dust mite particles"
+        ],
+        [
+            "lambda light chain genes (IGL@)",
+            "found on",
+            "chromosomes 22 and 2"
+        ],
+        [
+            "Antikörper",
+            "also known as",
+            "Amboceptor"
+        ],
+        [
+            "Gerald Edelman",
+            "awarded",
+            "Nobel Prize in Physiology or Medicine"
+        ],
+        [
+            "natural antibodies",
+            "bind to",
+            "α-Gal antigens"
+        ],
+        [
+            "monoclonal antibodies",
+            "are purified using",
+            "antigen-affinity chromatography"
+        ],
+        [
+            "polyclonal antibodies",
+            "are purified using",
+            "Protein A/G"
+        ],
+        [
+            "antibody",
+            "performs",
+            "neutralisation"
+        ],
+        [
+            "microbe",
+            "mutate",
+            "antibodies"
+        ],
+        [
+            "immunoglobulin",
+            "is denoted by",
+            "IgE"
+        ],
+        [
+            "variable regions",
+            "remain unchanged during",
+            "class switching"
+        ],
+        [
+            "antibody",
+            "are used in",
+            "Western blot analyses"
+        ],
+        [
+            "DNA",
+            "is broken by",
+            "enzymes"
+        ],
+        [
+            "β-strands",
+            "form",
+            "beta sheets"
+        ],
+        [
+            "Rosetta Antibody",
+            "incorporates",
+            "Light and heavy chains"
+        ],
+        [
+            "Antikörper",
+            "also known as",
+            "Desmon"
+        ],
+        [
+            "combinational design",
+            "controls",
+            "three-dimensional space"
+        ],
+        [
+            "monoclonal antibodies",
+            "are produced by",
+            "hybridomas"
+        ],
+        [
+            "antibody",
+            "are used in",
+            "immunoprecipitation"
+        ],
+        [
+            "antibody",
+            "are used in",
+            "immunofluorescence"
+        ],
+        [
+            "polypeptide chains",
+            "include",
+            "heavy chains"
+        ],
+        [
+            "John L. Fahey",
+            "discovered",
+            "IgD"
+        ],
+        [
+            "knobs",
+            "does not suppress",
+            "homodimer formation"
+        ],
+        [
+            "receptors",
+            "could bind specifically to",
+            "toxins"
+        ],
+        [
+            "heterodimeric antibodies",
+            "allow for attachment of",
+            "drugs"
+        ],
+        [
+            "IgG3",
+            "has",
+            "mutations"
+        ],
+        [
+            "antibody",
+            "interacts with",
+            "antigen"
+        ],
+        [
+            "antibody mimetics",
+            "bind",
+            "antigens"
+        ],
+        [
+            "Rodney Porter",
+            "awarded",
+            "Nobel Prize in Physiology or Medicine"
+        ],
+        [
+            "Pharmacodynamics",
+            "used for",
+            "Clinical dosages"
+        ],
+        [
+            "Rh factor",
+            "is also known as",
+            "Rh D antigen"
+        ],
+        [
+            "class switching",
+            "is triggered by",
+            "cytokines"
+        ],
+        [
+            "FcRn",
+            "transports across",
+            "placenta"
+        ],
+        [
+            "immune complexes",
+            "are delivered to",
+            "lymph nodes"
+        ],
+        [
+            "complement cascade",
+            "generates",
+            "phagocytes"
+        ],
+        [
+            "mast cells",
+            "release",
+            "histamine"
+        ],
+        [
+            "antibodies",
+            "can be",
+            "monospecific"
+        ],
+        [
+            "Antikörper",
+            "also known as",
+            "philocytase"
+        ],
+        [
+            "heterodimeric antibodies",
+            "allow for",
+            "drugs"
+        ],
+        [
+            "microbe",
+            "enter",
+            "infections"
+        ],
+        [
+            "antibodies",
+            "interact with",
+            "antigen"
+        ],
+        [
+            "Antibodies",
+            "require",
+            "Structure prediction"
+        ],
+        [
+            "antibody fragments",
+            "include",
+            "nanobodies"
+        ],
+        [
+            "Fab-epitope interaction",
+            "involves",
+            "electrostatic forces"
+        ],
+        [
+            "antibodies",
+            "stimulate",
+            "complement pathway"
+        ],
+        [
+            "complement system",
+            "delivers",
+            "immune complexes"
+        ],
+        [
+            "B cell receptor",
+            "triggers",
+            "B cell activation"
+        ],
+        [
+            "sharks",
+            "are",
+            "Chondrichthyes"
+        ],
+        [
+            "antibodies",
+            "bind to",
+            "pathogens"
+        ],
+        [
+            "antibody light chain",
+            "is the same as",
+            "Bence-Jones protein"
+        ],
+        [
+            "antibody",
+            "generated by",
+            "plasma cells"
+        ],
+        [
+            "hybridoma cell lines",
+            "created",
+            "triomas"
+        ],
+        [
+            "antigen",
+            "can cross-link",
+            "antibody dimers"
+        ],
+        [
+            "complementarity-determining regions (CDRs)",
+            "classified by",
+            "Chothia et al."
+        ],
+        [
+            "antibody",
+            "can be found through",
+            "specialist search engine"
+        ],
+        [
+            "shark IgW",
+            "can form",
+            "pentamers"
+        ],
+        [
+            "academic papers",
+            "published in",
+            "2014"
+        ],
+        [
+            "isotypes",
+            "include",
+            "IgA"
+        ],
+        [
+            "genes",
+            "undergo",
+            "somatic hypermutation"
+        ],
+        [
+            "antibodies",
+            "have affinity for",
+            "microorganisms"
+        ],
+        [
+            "Gerald Edelman",
+            "discovered",
+            "antibody light chain"
+        ],
+        [
+            "Paul Ehrlich",
+            "proposed",
+            "side-chain theory"
+        ],
+        [
+            "shotgun protein sequencing",
+            "sequence",
+            "antibodies"
+        ],
+        [
+            "naive B cells",
+            "express",
+            "cell-surface IgM"
+        ],
+        [
+            "Fc region",
+            "binds",
+            "effector molecules"
+        ],
+        [
+            "Fc receptors",
+            "recognize",
+            "Fc region"
+        ],
+        [
+            "vertebrate B cells",
+            "use",
+            "antibody genes"
+        ],
+        [
+            "variable domain",
+            "is part of",
+            "light chain"
+        ],
+        [
+            "antibodies",
+            "obtained by",
+            "phage display method"
+        ],
+        [
+            "light chains",
+            "form",
+            "antibody-binding site"
+        ],
+        [
+            "natural killer cells",
+            "release",
+            "cytotoxic molecules"
+        ],
+        [
+            "gene segments",
+            "are arranged in",
+            "genomes of mammals"
+        ],
+        [
+            "class switching",
+            "is a process of",
+            "isotype"
+        ],
+        [
+            "antibodies",
+            "obtained by",
+            "animal immunization"
+        ],
+        [
+            "monoclonal antibody therapy",
+            "is employed to treat",
+            "colorectal cancer"
+        ],
+        [
+            "immunodiagnostic methods",
+            "include",
+            "immunodiffusion"
+        ],
+        [
+            "affinity",
+            "depends on",
+            "solvent"
+        ],
+        [
+            "IgA",
+            "cannot bind to",
+            "C1q protein complex"
+        ],
+        [
+            "β-strands",
+            "form",
+            "complementarity-determining regions (CDRs)"
+        ],
+        [
+            "IgG",
+            "can bind to",
+            "C1q protein complex"
+        ],
+        [
+            "B cell",
+            "undergoes",
+            "affinity maturation"
+        ],
+        [
+            "placenta",
+            "transports to",
+            "fetus"
+        ],
+        [
+            "paratopes",
+            "bind to",
+            "epitopes"
+        ],
+        [
+            "multivalent antigen",
+            "includes",
+            "polysaccharides"
+        ],
+        [
+            "antibody",
+            "is specific for",
+            "epitope"
+        ],
+        [
+            "academic papers",
+            "published in",
+            "F1000"
+        ],
+        [
+            "heavy chain",
+            "is part of",
+            "Fc region"
+        ],
+        [
+            "camelids",
+            "produce",
+            "heavy chains"
+        ],
+        [
+            "light chains",
+            "contain",
+            "constant domain CL"
+        ],
+        [
+            "classical complement pathway",
+            "leads to",
+            "lysis"
+        ],
+        [
+            "monoclonal antibody therapy",
+            "is employed to treat",
+            "non-Hodgkin's lymphoma"
+        ],
+        [
+            "paratope",
+            "interacts with",
+            "epitope"
+        ],
+        [
+            "heavy chain genes (IGH@)",
+            "found on",
+            "chromosome 14"
+        ],
+        [
+            "IgG",
+            "can form",
+            "hexamers"
+        ],
+        [
+            "antibody",
+            "precipitates",
+            "antigen"
+        ],
+        [
+            "validation studies",
+            "should include",
+            "antibody purification"
+        ],
+        [
+            "de novo sequencing peptides",
+            "integrated with",
+            "intensity scores"
+        ],
+        [
+            "immune cells",
+            "present to",
+            "T cells"
+        ],
+        [
+            "antibody",
+            "are used to identify",
+            "extracellular proteins"
+        ],
+        [
+            "CDR loop",
+            "is correlated with",
+            "interface movements"
+        ],
+        [
+            "immune complexes",
+            "are delivered to",
+            "spleen"
+        ],
+        [
+            "antibodies",
+            "bind to",
+            "epitopes"
+        ],
+        [
+            "polyvalent",
+            "is also called",
+            "unspecific"
+        ],
+        [
+            "Pharmaceuticals",
+            "produce",
+            "multispecific antibodies"
+        ],
+        [
+            "immunodiagnostic methods",
+            "include",
+            "Western blot"
+        ],
+        [
+            "Animal toxicity studies",
+            "include",
+            "Repeat-dose toxicity testing"
+        ],
+        [
+            "antigen",
+            "is injected into",
+            "chickens"
+        ],
+        [
+            "antibody",
+            "is part of",
+            "B cell receptor"
+        ],
+        [
+            "lipid rafts",
+            "isolate",
+            "BCRs"
+        ],
+        [
+            "antibodies",
+            "activate",
+            "effector cells"
+        ],
+        [
+            "enzymes",
+            "act on",
+            "S-regions"
+        ],
+        [
+            "antigen",
+            "contains",
+            "epitopes"
+        ],
+        [
+            "IgG",
+            "contains",
+            "γ (gamma)"
+        ],
+        [
+            "constant regions",
+            "define",
+            "effector functions"
+        ],
+        [
+            "chromosome 19",
+            "contains",
+            "leukocyte-associated immunoglobulin-like receptor 1"
+        ],
+        [
+            "effector functions",
+            "act against",
+            "pathogen"
+        ],
+        [
+            "immune deficiencies",
+            "include",
+            "hypogammaglobulinemia"
+        ],
+        [
+            "V(D)J recombination",
+            "leads to",
+            "allelic exclusion"
+        ],
+        [
+            "light chains",
+            "connect by",
+            "disulfide bonds"
+        ],
+        [
+            "passive immunity",
+            "is achieved through transfer of",
+            "pooled immunoglobulin"
+        ],
+        [
+            "antibody-binding site",
+            "binds to",
+            "multivalent antigen"
+        ],
+        [
+            "academic papers",
+            "published in",
+            "2015"
+        ],
+        [
+            "IgG",
+            "is a subclass of",
+            "immunoglobulin"
+        ],
+        [
+            "antibody complexes",
+            "can form",
+            "dimer"
+        ],
+        [
+            "surface immunoglobulin",
+            "is part of",
+            "B cell receptor"
+        ],
+        [
+            "David Givol",
+            "characterized",
+            "IgG"
+        ],
+        [
+            "Kitasato Shibasaburō",
+            "described antibody activity against",
+            "diphtheria"
+        ],
+        [
+            "antibodyregistry.org",
+            "source of",
+            "antibodies"
+        ],
+        [
+            "researchers",
+            "validate",
+            "antibodies"
+        ],
+        [
+            "hybridomas",
+            "secrete",
+            "antibody"
+        ],
+        [
+            "antibody",
+            "are used to identify",
+            "intracellular proteins"
+        ],
+        [
+            "IgE",
+            "contains",
+            "ε (epsilon)"
+        ],
+        [
+            "humoral immunity",
+            "describes the function of",
+            "immune system"
+        ],
+        [
+            "RAG proteins",
+            "play a role in",
+            "V(D)J recombination"
+        ],
+        [
+            "natural antibodies",
+            "activate",
+            "classical complement pathway"
+        ],
+        [
+            "antibodies",
+            "contain",
+            "crystallisable fragment (Fc)"
+        ],
+        [
+            "daughter cells",
+            "produce",
+            "antibodies"
+        ],
+        [
+            "antibody mimetics",
+            "have",
+            "tissue penetration"
+        ],
+        [
+            "variable domains",
+            "are referred to as",
+            "FV region"
+        ],
+        [
+            "immunoglobulin class switching",
+            "causes production change from",
+            "IgM"
+        ],
+        [
+            "gene segments",
+            "are called",
+            "joining (J) segments"
+        ],
+        [
+            "BCRs",
+            "improve",
+            "cellular immune response"
+        ],
+        [
+            "prenatal treatment regimen",
+            "prevents",
+            "sensitization"
+        ],
+        [
+            "joining (J) segments",
+            "are found in",
+            "Ig heavy chains"
+        ],
+        [
+            "monoclonal antibody therapy",
+            "is employed to treat",
+            "multiple sclerosis"
+        ],
+        [
+            "shotgun protein sequencing",
+            "sequence",
+            "proteins"
+        ],
+        [
+            "Amino acid sequences",
+            "used for",
+            "Patent claims"
+        ],
+        [
+            "leukocyte-associated immunoglobulin-like receptor 1",
+            "also known as",
+            "LAIR1"
+        ],
+        [
+            "dioxaborolane chemistry",
+            "enables labeling of",
+            "radioactive fluoride (18F)"
+        ],
+        [
+            "Fab-epitope interaction",
+            "involves",
+            "hydrophobic interactions"
+        ],
+        [
+            "RIFIN",
+            "expressed on",
+            "Plasmodium falciparum"
+        ],
+        [
+            "cell-surface IgM",
+            "has",
+            "antigen binding regions"
+        ],
+        [
+            "binding site",
+            "limits understanding of",
+            "antibody"
+        ],
+        [
+            "mammal",
+            "includes",
+            "rat"
+        ],
+        [
+            "IgG3",
+            "is a subclass of",
+            "IgG"
+        ],
+        [
+            "monoclonal antibodies",
+            "are used in",
+            "biological therapies"
+        ],
+        [
+            "epitope",
+            "is part of",
+            "antigen"
+        ],
+        [
+            "paratopes",
+            "should be described as",
+            "interface movements"
+        ],
+        [
+            "V(D)J recombination",
+            "involves",
+            "immunoglobulins"
+        ],
+        [
+            "Pharmaceuticals",
+            "produce",
+            "bispecific antibodies"
+        ],
+        [
+            "switch (S) regions",
+            "are not found in",
+            "δ-chain"
+        ],
+        [
+            "vaccines",
+            "elicit",
+            "antibodies"
+        ],
+        [
+            "memory B cells",
+            "respond to",
+            "antigens"
+        ],
+        [
+            "antibody",
+            "generated by",
+            "B cells"
+        ],
+        [
+            "antibody",
+            "are used in",
+            "flow cytometry"
+        ],
+        [
+            "shotgun protein sequencing",
+            "utilize",
+            "CID/HCD/ETD fragmentation methods"
+        ],
+        [
+            "paratopes",
+            "determine",
+            "antigen specificities"
+        ],
+        [
+            "Linus Pauling",
+            "showed interactions depend on shape of",
+            "antibody"
+        ],
+        [
+            "Fab",
+            "binds to",
+            "antigen"
+        ],
+        [
+            "antibody",
+            "performs",
+            "complement activation"
+        ],
+        [
+            "preclinical safety testing",
+            "identifies",
+            "dose escalation"
+        ],
+        [
+            "classes",
+            "include",
+            "IgD"
+        ],
+        [
+            "humoral immunity",
+            "exists in",
+            "body's humors"
+        ],
+        [
+            "complement system",
+            "is activated by",
+            "C1q protein complex"
+        ],
+        [
+            "FcRn",
+            "binds to",
+            "Fc region"
+        ],
+        [
+            "Fc region",
+            "is part of",
+            "IgA"
+        ],
+        [
+            "variable domains",
+            "are part of",
+            "heavy chains"
+        ],
+        [
+            "hinge region",
+            "connects",
+            "Single-chain variable fragments (scFv)"
+        ],
+        [
+            "antibody regions",
+            "act as guide for",
+            "drugs"
+        ],
+        [
+            "antibody mimetics",
+            "consist of",
+            "artificial peptides"
+        ],
+        [
+            "lysis",
+            "destroys",
+            "enveloped virus particles"
+        ],
+        [
+            "Antikörper",
+            "also known as",
+            "Immunisin"
+        ],
+        [
+            "antibodies",
+            "are considered part of",
+            "adaptive immune system"
+        ],
+        [
+            "genes",
+            "generate",
+            "antibody"
+        ],
+        [
+            "class switching",
+            "occurs in",
+            "heavy chain gene locus"
+        ],
+        [
+            "de novo sequencing peptides",
+            "integrated with",
+            "homology searches"
+        ],
+        [
+            "antibodies",
+            "undergo quality checks in",
+            "endoplasmic reticulum (ER)"
+        ],
+        [
+            "antibody-secreting cells",
+            "comprise",
+            "plasma cells"
+        ],
+        [
+            "classes",
+            "include",
+            "IgE"
+        ],
+        [
+            "antibody",
+            "neutralizes",
+            "viruses"
+        ],
+        [
+            "Mike's Immunoglobulin Structure/Function Page",
+            "is at",
+            "University of Cambridge"
+        ],
+        [
+            "antibody",
+            "contains",
+            "paratope"
+        ],
+        [
+            "Structure prediction",
+            "used for",
+            "Epitope"
+        ],
+        [
+            "progeny",
+            "produce",
+            "antibodies"
+        ],
+        [
+            "heavy chains",
+            "contain",
+            "constant domains CH1, CH2"
+        ],
+        [
+            "hypervariable regions",
+            "form",
+            "β-strands"
+        ],
+        [
+            "paratope",
+            "belongs to",
+            "antibody"
+        ],
+        [
+            "heavy chain",
+            "includes",
+            "δ (delta)"
+        ],
+        [
+            "neonatal stage",
+            "is associated with",
+            "passive immunization"
+        ],
+        [
+            "antibodies",
+            "are part of",
+            "humoral immune system"
+        ],
+        [
+            "classical complement system",
+            "results in killing of",
+            "bacteria"
+        ],
+        [
+            "Structure prediction",
+            "related to",
+            "Computational antibody design"
+        ],
+        [
+            "Fc receptors",
+            "are",
+            "FcR"
+        ],
+        [
+            "dimer",
+            "is composed of",
+            "Ig units"
+        ],
+        [
+            "feasibility testing",
+            "includes",
+            "preclinical studies"
+        ],
+        [
+            "Antibodies",
+            "is",
+            "PDB molecule of the month"
+        ],
+        [
+            "mouse IgG1",
+            "is closer to",
+            "human IgG2"
+        ],
+        [
+            "glycans",
+            "are added to",
+            "amino acid residues"
+        ],
+        [
+            "malaria",
+            "caused by",
+            "Plasmodium falciparum"
+        ],
+        [
+            "class switching",
+            "involves",
+            "class switch recombination (CSR)"
+        ],
+        [
+            "cell division",
+            "produces",
+            "daughter B cells"
+        ],
+        [
+            "product safety data",
+            "needed before",
+            "feasibility trials"
+        ],
+        [
+            "isotypes",
+            "include",
+            "IgM"
+        ],
+        [
+            "polyclonal antibodies",
+            "are purified using",
+            "antigen-affinity chromatography"
+        ],
+        [
+            "surface immunoglobulin",
+            "is also known as",
+            "membrane immunoglobulin"
+        ],
+        [
+            "heavy chain",
+            "includes",
+            "ε (epsilon)"
+        ],
+        [
+            "antibodies",
+            "form",
+            "complexes"
+        ],
+        [
+            "natural IgM",
+            "recognize",
+            "antigens"
+        ],
+        [
+            "Plasmablasts",
+            "differentiate into",
+            "Plasma cells"
+        ],
+        [
+            "Fc region",
+            "activates",
+            "complement system"
+        ],
+        [
+            "natural antibodies",
+            "circulating in",
+            "serum"
+        ],
+        [
+            "antibodies",
+            "bind to",
+            "epitope"
+        ],
+        [
+            "Kimishige Ishizaka",
+            "discovered",
+            "IgE"
+        ],
+        [
+            "antibody",
+            "are",
+            "glycoproteins"
+        ],
+        [
+            "linker peptide",
+            "connects",
+            "variable domain"
+        ],
+        [
+            "IgG4",
+            "is a subclass of",
+            "IgG"
+        ],
+        [
+            "antibody",
+            "are affected by",
+            "affinity"
+        ],
+        [
+            "mast cells",
+            "perform",
+            "effector functions"
+        ],
+        [
+            "antibody",
+            "neutralizes",
+            "bacteria"
+        ],
+        [
+            "hinge region",
+            "is part of",
+            "heavy chains"
+        ],
+        [
+            "product safety testing",
+            "includes",
+            "murine retrovirus testing"
+        ],
+        [
+            "plasma cells",
+            "responsible for generating",
+            "antibody"
+        ],
+        [
+            "variable domain exon",
+            "is rejoined through",
+            "non-homologous end joining (NHEJ)"
+        ],
+        [
+            "antibody Fab region",
+            "binds to",
+            "antigen"
+        ],
+        [
+            "4 journals",
+            "implemented",
+            "RRIDs Standard"
+        ],
+        [
+            "heterodimeric antibodies",
+            "are",
+            "asymmetrical antibodies"
+        ],
+        [
+            "Almroth Wright",
+            "suggested process of",
+            "opsoninization"
+        ],
+        [
+            "antibody mimetics",
+            "have",
+            "solubility"
+        ],
+        [
+            "antibody",
+            "tags",
+            "infected cell"
+        ],
+        [
+            "microbe",
+            "cause",
+            "infections"
+        ],
+        [
+            "B cell",
+            "assembles",
+            "variable region"
+        ],
+        [
+            "Fc region",
+            "part of",
+            "pFUSE-Fc plasmid"
+        ],
+        [
+            "B cells",
+            "differentiate into",
+            "memory cells"
+        ],
+        [
+            "immunoglobulin class switching",
+            "causes production change from",
+            "IgD"
+        ],
+        [
+            "knobs",
+            "fits into",
+            "hole"
+        ],
+        [
+            "antibody complexes",
+            "bind to",
+            "antigen"
+        ],
+        [
+            "immunoglobulin",
+            "is denoted by",
+            "IgA"
+        ],
+        [
+            "complement cascade",
+            "initiates",
+            "classical complement system"
+        ],
+        [
+            "heterodimeric antibodies",
+            "are improved by",
+            "artificial constructs"
+        ],
+        [
+            "Antikörper",
+            "also known as",
+            "substance sensibilisatrice"
+        ],
+        [
+            "Thomas Tomasi",
+            "discovered",
+            "secretory antibody"
+        ],
+        [
+            "Henry Bence Jones",
+            "described",
+            "Bence-Jones protein"
+        ],
+        [
+            "antibodies",
+            "can be",
+            "polyvalent"
+        ],
+        [
+            "Coombs test",
+            "is used for antibody screening in",
+            "antenatal women"
+        ],
+        [
+            "antibodies",
+            "form",
+            "antibody complexes"
+        ],
+        [
+            "Kitasato Shibasaburō",
+            "described antibody activity against",
+            "tetanus toxins"
+        ],
+        [
+            "antibody",
+            "tags",
+            "microbe"
+        ],
+        [
+            "researchers",
+            "report on",
+            "antibodies"
+        ],
+        [
+            "validation studies",
+            "should include",
+            "virus clearance studies"
+        ],
+        [
+            "antibodies",
+            "bind to",
+            "effector molecules"
+        ],
+        [
+            "degranulation",
+            "releases",
+            "molecules"
+        ],
+        [
+            "RAG proteins",
+            "cut",
+            "DNA"
+        ],
+        [
+            "antibody",
+            "are used in",
+            "ELISpot techniques"
+        ],
+        [
+            "daughter B cells",
+            "acquire",
+            "amino acid differences"
+        ],
+        [
+            "Antibody diversification",
+            "occurs through",
+            "affinity maturation"
+        ],
+        [
+            "Joseph Gally",
+            "discovered",
+            "antibody light chain"
+        ],
+        [
+            "B cell",
+            "undergoes",
+            "cell development"
+        ],
+        [
+            "agglutination",
+            "is used in",
+            "blood typing"
+        ],
+        [
+            "Ig-β",
+            "is capable of",
+            "signal transduction"
+        ],
+        [
+            "antibodies",
+            "coat",
+            "pathogen"
+        ],
+        [
+            "biological therapies",
+            "act against",
+            "cancer"
+        ],
+        [
+            "iota (ι) chain",
+            "found in",
+            "sharks"
+        ],
+        [
+            "antibody complexes",
+            "can occur as",
+            "monomer"
+        ],
+        [
+            "classes",
+            "include",
+            "IgG"
+        ],
+        [
+            "heavy chain",
+            "is part of",
+            "hinge region"
+        ],
+        [
+            "mutations",
+            "lower",
+            "affinity"
+        ],
+        [
+            "de novo sequencing",
+            "from",
+            "tandem mass spectra"
+        ],
+        [
+            "Antikörper",
+            "also known as",
+            "Immunkörper"
+        ],
+        [
+            "B cells",
+            "differentiate into",
+            "memory B cells"
+        ],
+        [
+            "humoral immunity",
+            "proposes mediator in",
+            "serum"
+        ],
+        [
+            "Rh-positive",
+            "have",
+            "Rh D antigen"
+        ],
+        [
+            "Antibodies",
+            "important in",
+            "Health care"
+        ],
+        [
+            "variable region",
+            "is assembled from",
+            "gene segments"
+        ],
+        [
+            "Fab-epitope interaction",
+            "involves",
+            "hydrogen bonds"
+        ],
+        [
+            "B cell receptor",
+            "is composed of",
+            "IgM"
+        ],
+        [
+            "intravenous immunoglobulin",
+            "consists of",
+            "IgG"
+        ],
+        [
+            "subgenes",
+            "are rearranged in",
+            "V2 family"
+        ],
+        [
+            "multivalent antigens",
+            "can form larger complexes with",
+            "antibody complexes"
+        ],
+        [
+            "validation studies",
+            "should include",
+            "purified antibody"
+        ],
+        [
+            "antibody mimetics",
+            "consist of",
+            "aptamer-based nucleic acid molecules"
+        ],
+        [
+            "TLR ligands",
+            "stimulate",
+            "Immune response"
+        ],
+        [
+            "prenatal stage",
+            "is associated with",
+            "passive immunization"
+        ],
+        [
+            "lymphocytes",
+            "are isolated from",
+            "animal"
+        ],
+        [
+            "Fc region",
+            "is composed of",
+            "heavy chains"
+        ],
+        [
+            "antibody-dependent cell-mediated cytotoxicity (ADCC)",
+            "is used in",
+            "biological therapies"
+        ],
+        [
+            "variable (V) segments",
+            "are found in",
+            "Ig light chains"
+        ],
+        [
+            "isotypes",
+            "depend on",
+            "cytokines"
+        ],
+        [
+            "antibodies",
+            "come in",
+            "isotypes"
+        ],
+        [
+            "effector cells",
+            "bind via",
+            "Fc receptors"
+        ],
+        [
+            "Binding affinity",
+            "related to",
+            "Antigen"
+        ],
+        [
+            "affinity maturation",
+            "depends on",
+            "helper T cells"
+        ],
+        [
+            "antibody",
+            "are affected by",
+            "cross reactivity"
+        ],
+        [
+            "B cell receptor",
+            "is associated with",
+            "Ig-β"
+        ],
+        [
+            "antibody",
+            "has analogy to",
+            "antitoxin"
+        ],
+        [
+            "antibody-secreting cells",
+            "comprise",
+            "plasmablasts"
+        ],
+        [
+            "disaccharide galactose α(1,3)-galactose (α-Gal)",
+            "is found on",
+            "glycosylated cell surface proteins"
+        ],
+        [
+            "variable domains",
+            "are part of",
+            "light chains"
+        ],
+        [
+            "endogenous antibody production",
+            "varies for",
+            "antibodies"
+        ],
+        [
+            "antibody mimetics",
+            "have",
+            "production costs"
+        ],
+        [
+            "mammalian IgM",
+            "can form",
+            "hexamers"
+        ],
+        [
+            "glycosylation sites",
+            "influence interactions with",
+            "effector molecules"
+        ],
+        [
+            "B cells",
+            "are activated by",
+            "helper T cells"
+        ],
+        [
+            "IgM",
+            "can bind to",
+            "C1q protein complex"
+        ],
+        [
+            "polyclonal antibodies",
+            "are found in",
+            "egg yolk"
+        ],
+        [
+            "IgM",
+            "levels are elevated in",
+            "primary biliary cirrhosis"
+        ],
+        [
+            "IgM",
+            "contains",
+            "μ (mu)"
+        ],
+        [
+            "product safety testing",
+            "includes",
+            "adventitious viruses"
+        ],
+        [
+            "antigen",
+            "binds to",
+            "BCRs"
+        ],
+        [
+            "IgG1",
+            "is a subclass of",
+            "IgG"
+        ],
+        [
+            "IgG2",
+            "is a subclass of",
+            "IgG"
+        ],
+        [
+            "IgE",
+            "involved in",
+            "allergic reactions"
+        ],
+        [
+            "mammal",
+            "includes",
+            "sheep"
+        ],
+        [
+            "B cell",
+            "differentiates into",
+            "plasma cell"
+        ],
+        [
+            "antibodies",
+            "consist of",
+            "polypeptide chains"
+        ],
+        [
+            "antigen-antibody complex",
+            "is also known as",
+            "immune complex"
+        ],
+        [
+            "antibody",
+            "performs",
+            "agglutination"
+        ],
+        [
+            "B cells",
+            "differentiate into",
+            "plasma cells"
+        ],
+        [
+            "variable domain",
+            "contains",
+            "hypervariable regions (HV-1, HV-2, HV-3)"
+        ],
+        [
+            "complement system",
+            "helps facilitate clearance of",
+            "antigens"
+        ],
+        [
+            "light chain",
+            "types are",
+            "kappa (κ)"
+        ],
+        [
+            "Rh D antigen",
+            "can stimulate",
+            "maternal B cells"
+        ],
+        [
+            "product safety testing",
+            "provides",
+            "product safety data"
+        ],
+        [
+            "Fc region",
+            "is bound by",
+            "neonatal Fc receptor"
+        ],
+        [
+            "complement activation",
+            "encourages",
+            "inflammation"
+        ],
+        [
+            "B cells",
+            "produce",
+            "IgG"
+        ],
+        [
+            "Antibody diversification",
+            "occurs through",
+            "class switching"
+        ],
+        [
+            "binding antibody unit",
+            "defined by",
+            "WHO"
+        ],
+        [
+            "monoclonal antibody therapy",
+            "is employed to treat",
+            "psoriasis"
+        ],
+        [
+            "B cells",
+            "express",
+            "antibodies"
+        ],
+        [
+            "B cell",
+            "undergoes",
+            "activation"
+        ],
+        [
+            "isotypes",
+            "include",
+            "IgD"
+        ],
+        [
+            "turbidimetry",
+            "characterizes",
+            "antibody profile"
+        ],
+        [
+            "antibody purification",
+            "efficiency of",
+            "purified antibody"
+        ],
+        [
+            "affinity maturation",
+            "targets",
+            "BCR gene loci"
+        ],
+        [
+            "N-terminus",
+            "is situated at",
+            "immunoglobulin domain"
+        ],
+        [
+            "antibody",
+            "used by",
+            "immune system"
+        ],
+        [
+            "iota (ι) chain",
+            "found in",
+            "bony fishes"
+        ],
+        [
+            "neutrophils",
+            "perform",
+            "effector functions"
+        ],
+        [
+            "kappa light chain genes (IGK@)",
+            "found on",
+            "chromosomes 22 and 2"
+        ],
+        [
+            "genetic rearrangements",
+            "are not encoded directly in",
+            "germline"
+        ],
+        [
+            "heavy chains",
+            "contain",
+            "variable domain VH"
+        ],
+        [
+            "hinge region",
+            "connects",
+            "constant domain"
+        ],
+        [
+            "Plasma cells",
+            "reside in",
+            "Mucosal tissues"
+        ],
+        [
+            "BCRs",
+            "are isolated on",
+            "lipid rafts"
+        ],
+        [
+            "naive B lymphocyte",
+            "expresses",
+            "surface IgM"
+        ],
+        [
+            "immunoglobulin isotypes",
+            "co-expressed in",
+            "B cell"
+        ],
+        [
+            "surface antigens",
+            "are on",
+            "bacteria"
+        ],
+        [
+            "Michael Heidelberger",
+            "showed antibodies are made of",
+            "protein"
+        ],
+        [
+            "antibodies",
+            "migrate to",
+            "gamma globulin fraction"
+        ],
+        [
+            "complexes",
+            "include",
+            "dimers"
+        ],
+        [
+            "antibody heavy chain",
+            "contains",
+            "constant region"
+        ],
+        [
+            "LAIR1",
+            "recognizes",
+            "repetitive interspersed families of polypeptides"
+        ],
+        [
+            "teleost fish IgM",
+            "can form",
+            "tetramers"
+        ],
+        [
+            "product safety testing",
+            "includes",
+            "sterility"
+        ],
+        [
+            "sensitization",
+            "can lead to",
+            "Rh disease"
+        ],
+        [
+            "Antibodies",
+            "require",
+            "X-ray crystallography"
+        ],
+        [
+            "IgA",
+            "is a subclass of",
+            "immunoglobulin"
+        ],
+        [
+            "gamma-globulins",
+            "are mostly",
+            "antibodies"
+        ],
+        [
+            "nephelometry",
+            "characterizes",
+            "antibody profile"
+        ],
+        [
+            "humoral immunity",
+            "is synonymous with",
+            "antibody response"
+        ],
+        [
+            "adaptive immune system",
+            "is regulated by",
+            "idiotypes"
+        ],
+        [
+            "Antibody diversification",
+            "occurs through",
+            "somatic hypermutation"
+        ],
+        [
+            "structural bioinformatics",
+            "studies",
+            "CDRs"
+        ],
+        [
+            "antibody mimetics",
+            "developed as",
+            "therapeutic agents"
+        ],
+        [
+            "B cells",
+            "differentiate into",
+            "Memory B cells"
+        ],
+        [
+            "antibody",
+            "coats",
+            "bacteria"
+        ],
+        [
+            "humans",
+            "have",
+            "B cell receptors"
+        ],
+        [
+            "conserved nucleotide motifs",
+            "are called",
+            "switch (S) regions"
+        ],
+        [
+            "Fc region",
+            "attracts",
+            "complement cascade"
+        ],
+        [
+            "antibody",
+            "made of",
+            "protein"
+        ],
+        [
+            "antibodies",
+            "are a manifestation of",
+            "immunological memory"
+        ],
+        [
+            "B cell receptor",
+            "is associated with",
+            "Ig-α"
+        ],
+        [
+            "knobs",
+            "is engineered by replacing",
+            "amino acid"
+        ],
+        [
+            "natural killer cells",
+            "initiate",
+            "antibody-dependent cell-mediated cytotoxicity (ADCC)"
+        ],
+        [
+            "malaria",
+            "induces",
+            "genomic instability"
+        ],
+        [
+            "database search methods",
+            "use",
+            "protein sequence databases"
+        ],
+        [
+            "point mutations",
+            "result in",
+            "antibodies"
+        ],
+        [
+            "liquid chromatography",
+            "coupled with",
+            "LC-MS/MS"
+        ],
+        [
+            "antibody mimetics",
+            "developed as",
+            "research agents"
+        ],
+        [
+            "variable domain",
+            "contains",
+            "complementarity-determining regions (CDR1, CDR2, CDR3)"
+        ],
+        [
+            "antibody",
+            "has similar concept to",
+            "Immunkörper"
+        ],
+        [
+            "de novo sequencing peptides",
+            "integrated with",
+            "positional confidence scores"
+        ],
+        [
+            "B cell receptor",
+            "is composed of",
+            "IgD"
+        ],
+        [
+            "Pharmacodynamics",
+            "used for",
+            "Clinical effects"
+        ]
+    ],
+    "entity_clusters": null,
+    "edge_clusters": null
+}

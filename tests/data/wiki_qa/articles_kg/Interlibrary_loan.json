@@ -1,0 +1,567 @@
+{
+    "entities": [
+        "GILLDDNET",
+        "National Diet Library of Japan",
+        "Shanghai Library Constitution",
+        "OCLC",
+        "Libraries Very Interested in Sharing",
+        "Bavarian State Library",
+        "Europe",
+        "DOCLINE",
+        "Inter-library loan",
+        "CALIS",
+        "South Africa",
+        "Research Libraries Group",
+        "International Federation of Library Associations and Institutions",
+        "Linda Frederiksen",
+        "North America",
+        "Australia",
+        "ISTEC",
+        "Beijing",
+        "ISO",
+        "inter-loan",
+        "National Network of Libraries of Medicine",
+        "Consorcio de Bibliotecas Universitarias de El Salvador",
+        "California State Library",
+        "National Library of New Zealand",
+        "Delhi Library Network",
+        "ALA",
+        "Amigos",
+        "South African Bibliographic and Information Network",
+        "Luxmoore Newcombe",
+        "US",
+        "document supply",
+        "inter-library services",
+        "inter-lending",
+        "Panama",
+        "Iberian Peninsula",
+        "Reference and User Services Association",
+        "Ghana Inter-Library Lending and Document Delivery Network",
+        "medical libraries",
+        "Ohio State University",
+        "CRL",
+        "lending library",
+        "Ex Libris",
+        "LVIS",
+        "Kate Edith Pierce",
+        "Journal of Interlibrary Loan, Document Delivery & Electronic Reserve",
+        "TROVE",
+        "CARLIGH",
+        "SUPEB ILL software",
+        "ISO standards 10160",
+        "DELNET",
+        "American Library Association",
+        "ISO standards 10161",
+        "Online Computer Library Center",
+        "Spring Creek flood",
+        "CSU",
+        "Collaborative Librarianship",
+        "resource sharing",
+        "Great Britain",
+        "China Academic Library and Information System",
+        "New Zealand",
+        "Ohio College Library Center",
+        "document delivery",
+        "Consorcio Iberoamericano para la Educación en Ciencia y Tecnología",
+        "Samuel Swett Green",
+        "Colorado State University",
+        "Library Co-operation in the British Isles",
+        "Virginia Boucher",
+        "Western Europe",
+        "Celsius",
+        "Nicaragua",
+        "Louvre Palace",
+        "Consortium of Academic and Research Libraries",
+        "Journal of Library Administration",
+        "RapidILL",
+        "Central and South America",
+        "SABINET",
+        "Royal Library",
+        "Japanese-language materials",
+        "borrowing library",
+        "University of California, Berkeley",
+        "Africa",
+        "Ghana",
+        "Latin America",
+        "Rome",
+        "CBUES",
+        "United States",
+        "resource sharing networks",
+        "Costa Rica",
+        "academic libraries",
+        "Vatican Library",
+        "IFLA",
+        "library consortia",
+        "Michael Levine-Clark",
+        "Carnegie Trust",
+        "South Asia",
+        "Nicolas-Claude Fabri de Peiresc",
+        "El Salvador",
+        "Lara Cummings",
+        "National Library of Medicine",
+        "G. Allen & Unwin",
+        "research libraries in China",
+        "Joel Cummings",
+        "PEB ILL network",
+        "Mexico",
+        "Gateway Bayern",
+        "public libraries",
+        "France",
+        "Diane Carroll",
+        "Bavarian libraries",
+        "East Midlands Regional Library Bureau",
+        "Atlantic coast",
+        "China",
+        "Developing Library Network",
+        "India",
+        "ILL",
+        "RLG",
+        "RUSA",
+        "Te Puna Mātauranga o Aotearoa",
+        "International Organization for Standardization",
+        "patrons",
+        "Center for Research Libraries",
+        "Joseph C. Rowell"
+    ],
+    "edges": [
+        "enables",
+        "was used by",
+        "attempted to establish system between",
+        "supports",
+        "was formerly known as",
+        "identifies",
+        "is based in",
+        "is the ILL network and tool for",
+        "pioneered resource sharing in",
+        "integrated",
+        "is abbreviated as",
+        "became",
+        "uses the software",
+        "is used by",
+        "guides",
+        "facilitates interlibrary loan among",
+        "initiated program at",
+        "published proposal for",
+        "is sometimes called",
+        "has a membership system",
+        "is a resource sharing consortium in",
+        "delivers item to",
+        "authored",
+        "is located at",
+        "published",
+        "has affiliated institutions along",
+        "appointed",
+        "is located in",
+        "participate in",
+        "introduced",
+        "serves as a resource sharing hub for",
+        "is also known as",
+        "sought permission for",
+        "is",
+        "was published by",
+        "uses",
+        "developed by",
+        "co-authored",
+        "merged with",
+        "was developed for",
+        "is a resource sharing network in",
+        "formed",
+        "established",
+        "services libraries in",
+        "developed",
+        "is a consortium in",
+        "was replaced by",
+        "acquired",
+        "utilizes",
+        "initiated program with"
+    ],
+    "relations": [
+        [
+            "Luxmoore Newcombe",
+            "authored",
+            "Library Co-operation in the British Isles"
+        ],
+        [
+            "Reference and User Services Association",
+            "formed",
+            "ALA"
+        ],
+        [
+            "Consorcio Iberoamericano para la Educación en Ciencia y Tecnología",
+            "is a consortium in",
+            "Iberian Peninsula"
+        ],
+        [
+            "Samuel Swett Green",
+            "published proposal for",
+            "Inter-library loan"
+        ],
+        [
+            "China Academic Library and Information System",
+            "is based in",
+            "Beijing"
+        ],
+        [
+            "Research Libraries Group",
+            "was used by",
+            "academic libraries"
+        ],
+        [
+            "China Academic Library and Information System",
+            "facilitates interlibrary loan among",
+            "research libraries in China"
+        ],
+        [
+            "US",
+            "is used by",
+            "Online Computer Library Center"
+        ],
+        [
+            "Amigos",
+            "is a resource sharing network in",
+            "North America"
+        ],
+        [
+            "Ohio College Library Center",
+            "became",
+            "Online Computer Library Center"
+        ],
+        [
+            "Virginia Boucher",
+            "authored",
+            "American Library Association"
+        ],
+        [
+            "PEB ILL network",
+            "services libraries in",
+            "France"
+        ],
+        [
+            "Australia",
+            "uses",
+            "TROVE"
+        ],
+        [
+            "Center for Research Libraries",
+            "is a resource sharing network in",
+            "North America"
+        ],
+        [
+            "East Midlands Regional Library Bureau",
+            "introduced",
+            "Carnegie Trust"
+        ],
+        [
+            "National Library of New Zealand",
+            "is also known as",
+            "Te Puna Mātauranga o Aotearoa"
+        ],
+        [
+            "Lara Cummings",
+            "co-authored",
+            "Journal of Interlibrary Loan, Document Delivery & Electronic Reserve"
+        ],
+        [
+            "Consorcio de Bibliotecas Universitarias de El Salvador",
+            "has affiliated institutions along",
+            "Atlantic coast"
+        ],
+        [
+            "Inter-library loan",
+            "enables",
+            "patrons"
+        ],
+        [
+            "Joseph C. Rowell",
+            "sought permission for",
+            "Inter-library loan"
+        ],
+        [
+            "Ghana Inter-Library Lending and Document Delivery Network",
+            "pioneered resource sharing in",
+            "Ghana"
+        ],
+        [
+            "Colorado State University",
+            "developed",
+            "RapidILL"
+        ],
+        [
+            "Research Libraries Group",
+            "merged with",
+            "OCLC"
+        ],
+        [
+            "PEB ILL network",
+            "uses the software",
+            "SUPEB ILL software"
+        ],
+        [
+            "Inter-library loan",
+            "is abbreviated as",
+            "ILL"
+        ],
+        [
+            "Royal Library",
+            "is located at",
+            "Louvre Palace"
+        ],
+        [
+            "Inter-library loan",
+            "is sometimes called",
+            "inter-library services"
+        ],
+        [
+            "Joseph C. Rowell",
+            "initiated program with",
+            "California State Library"
+        ],
+        [
+            "Center for Research Libraries",
+            "has a membership system",
+            "CRL"
+        ],
+        [
+            "China Academic Library and Information System",
+            "is also known as",
+            "CALIS"
+        ],
+        [
+            "DELNET",
+            "supports",
+            "India"
+        ],
+        [
+            "borrowing library",
+            "delivers item to",
+            "patrons"
+        ],
+        [
+            "National Library of Medicine",
+            "developed",
+            "DOCLINE"
+        ],
+        [
+            "Libraries Very Interested in Sharing",
+            "is a resource sharing network in",
+            "North America"
+        ],
+        [
+            "Ohio State University",
+            "integrated",
+            "Ohio College Library Center"
+        ],
+        [
+            "American Library Association",
+            "established",
+            "United States"
+        ],
+        [
+            "lending library",
+            "delivers item to",
+            "borrowing library"
+        ],
+        [
+            "New Zealand",
+            "utilizes",
+            "National Library of New Zealand"
+        ],
+        [
+            "Inter-library loan",
+            "is sometimes called",
+            "inter-loan"
+        ],
+        [
+            "International Organization for Standardization",
+            "developed",
+            "ISO standards 10160"
+        ],
+        [
+            "China",
+            "established",
+            "Shanghai Library Constitution"
+        ],
+        [
+            "Consorcio de Bibliotecas Universitarias de El Salvador",
+            "is a resource sharing consortium in",
+            "El Salvador"
+        ],
+        [
+            "International Federation of Library Associations and Institutions",
+            "guides",
+            "library consortia"
+        ],
+        [
+            "Inter-library loan",
+            "is sometimes called",
+            "resource sharing"
+        ],
+        [
+            "International Organization for Standardization",
+            "developed",
+            "ISO standards 10161"
+        ],
+        [
+            "Ghana Inter-Library Lending and Document Delivery Network",
+            "was replaced by",
+            "Consortium of Academic and Research Libraries"
+        ],
+        [
+            "Joseph C. Rowell",
+            "initiated program at",
+            "University of California, Berkeley"
+        ],
+        [
+            "Online Computer Library Center",
+            "is used by",
+            "academic libraries"
+        ],
+        [
+            "Ex Libris",
+            "acquired",
+            "RapidILL"
+        ],
+        [
+            "Diane Carroll",
+            "co-authored",
+            "Journal of Interlibrary Loan, Document Delivery & Electronic Reserve"
+        ],
+        [
+            "South African Bibliographic and Information Network",
+            "was developed for",
+            "South Africa"
+        ],
+        [
+            "Vatican Library",
+            "is located in",
+            "Rome"
+        ],
+        [
+            "Gateway Bayern",
+            "is the ILL network and tool for",
+            "Bavarian libraries"
+        ],
+        [
+            "International Federation of Library Associations and Institutions",
+            "published",
+            "IFLA"
+        ],
+        [
+            "Consorcio Iberoamericano para la Educación en Ciencia y Tecnología",
+            "uses the software",
+            "Celsius"
+        ],
+        [
+            "Inter-library loan",
+            "is sometimes called",
+            "document delivery"
+        ],
+        [
+            "Nicolas-Claude Fabri de Peiresc",
+            "attempted to establish system between",
+            "Royal Library"
+        ],
+        [
+            "Consorcio Iberoamericano para la Educación en Ciencia y Tecnología",
+            "is a consortium in",
+            "Latin America"
+        ],
+        [
+            "Online Computer Library Center",
+            "is used by",
+            "public libraries"
+        ],
+        [
+            "ALA",
+            "formed",
+            "United States"
+        ],
+        [
+            "DELNET",
+            "supports",
+            "South Asia"
+        ],
+        [
+            "International Federation of Library Associations and Institutions",
+            "guides",
+            "resource sharing networks"
+        ],
+        [
+            "medical libraries",
+            "participate in",
+            "National Network of Libraries of Medicine"
+        ],
+        [
+            "borrowing library",
+            "identifies",
+            "lending library"
+        ],
+        [
+            "DELNET",
+            "was formerly known as",
+            "Delhi Library Network"
+        ],
+        [
+            "Gateway Bayern",
+            "is the ILL network and tool for",
+            "Bavarian State Library"
+        ],
+        [
+            "RapidILL",
+            "developed by",
+            "CSU"
+        ],
+        [
+            "National Diet Library of Japan",
+            "serves as a resource sharing hub for",
+            "Japanese-language materials"
+        ],
+        [
+            "Nicolas-Claude Fabri de Peiresc",
+            "attempted to establish system between",
+            "Vatican Library"
+        ],
+        [
+            "Joel Cummings",
+            "co-authored",
+            "Journal of Interlibrary Loan, Document Delivery & Electronic Reserve"
+        ],
+        [
+            "Library Co-operation in the British Isles",
+            "was published by",
+            "G. Allen & Unwin"
+        ],
+        [
+            "Linda Frederiksen",
+            "co-authored",
+            "Journal of Interlibrary Loan, Document Delivery & Electronic Reserve"
+        ],
+        [
+            "Inter-library loan",
+            "is sometimes called",
+            "document supply"
+        ],
+        [
+            "Great Britain",
+            "appointed",
+            "Kate Edith Pierce"
+        ],
+        [
+            "Inter-library loan",
+            "is sometimes called",
+            "inter-lending"
+        ],
+        [
+            "Michael Levine-Clark",
+            "authored",
+            "Collaborative Librarianship"
+        ],
+        [
+            "DELNET",
+            "is",
+            "Developing Library Network"
+        ]
+    ],
+    "entity_clusters": null,
+    "edge_clusters": null
+}

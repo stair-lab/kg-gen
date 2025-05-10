@@ -1,0 +1,3517 @@
+{
+    "entities": [
+        "McGraw Hill",
+        "fluids",
+        "regenerative blower",
+        "suction valves",
+        "jamming",
+        "windmill",
+        "drill bit",
+        "Best Efficiency Point (BEP)",
+        "quad",
+        "Ink jet printers",
+        "centrifugal pump",
+        "steam engine",
+        "gravity pumps",
+        "vacuum",
+        "impulse pumps",
+        "oil seals",
+        "biofluids",
+        "oil drilling activity",
+        "air conditioning systems",
+        "sludge",
+        "Hydraulic ram pumps",
+        "rotary positive-displacement pumps",
+        "body parts",
+        "inlet suction",
+        "Q",
+        "watermill",
+        "duplex",
+        "rope pumps",
+        "delivery pipe",
+        "Helico-axial pump",
+        "kinetic energy",
+        "penile prosthesis",
+        "sliding vane",
+        "rope",
+        "First law of thermodynamics",
+        "steam pumps",
+        "biomechanical pumps",
+        "Vibratory pump",
+        "abrasive media",
+        "offshore installation",
+        "artificial lift",
+        "gear pumps",
+        "axial direction",
+        "biochemical processes",
+        "eductor-jet pump",
+        "public pump",
+        "Wendelkolben pump",
+        "Peristaltic pump",
+        "mixed-flow pumps",
+        "pipeline",
+        "flow rates",
+        "microfluidics",
+        "common problems",
+        "Diaphragm valves",
+        "Heron's fountain",
+        "triplex-style plunger pump",
+        "cardiovascular system",
+        "chemical plants",
+        "recycle line",
+        "pumps",
+        "roller bearings",
+        "suction port",
+        "Modern hand-operated community pumps",
+        "biomimicry",
+        "liquid",
+        "rope pump",
+        "bicycle pumps",
+        "Popular Science",
+        "NPSHr",
+        "heavy-duty rubber sleeve",
+        "Federal Signal Corporation",
+        "Theodore W. Edwards",
+        "shale",
+        "relief valve",
+        "suction stroke",
+        "vortex pumps",
+        "viscosity",
+        "rotary vane pumps",
+        "rigid lungs",
+        "regenerative turbine pump",
+        "hand pump",
+        "solids",
+        "head loss-flow characteristic",
+        "abrasive materials",
+        "Gear pump",
+        "gastrointestinal diseases",
+        "high-pressure seals",
+        "Africa",
+        "high pressure",
+        "flexible impeller",
+        "Piston pump",
+        "piezoelectric transducer principle",
+        "electromagnetic pumps",
+        "drillers",
+        "Screw pump",
+        "Electric submersible pumps",
+        "suction line",
+        "clearances",
+        "suction disk",
+        "medicine",
+        "piston pumps",
+        "oil terminal",
+        "low pressure",
+        "suction",
+        "marine services",
+        "rollers",
+        "Velocity pumps",
+        "flow measuring device (FE)",
+        "g",
+        "discharge line",
+        "flexible vane",
+        "discharge",
+        "diaphragm pumps",
+        "power",
+        "parish pump",
+        "peristaltic pump",
+        "China",
+        "oil and gas",
+        "special applications",
+        "air",
+        "pressure ports",
+        "valveless impedance pumps",
+        "car industry",
+        "casing",
+        "Twin screw pumps",
+        "operating head",
+        "plunger seals",
+        "membranes",
+        "multiphase pumps",
+        "oscillating pistons",
+        "sewage sludge",
+        "mass of liquid",
+        "helical twisted roots",
+        "minimum flow protection",
+        "chamber",
+        "reciprocating plunger",
+        "priming liquid",
+        "Diaphragm pump",
+        "grassroots organizations",
+        "traction",
+        "pitcher pump",
+        "continuous flow",
+        "recycle cooler",
+        "pump casing",
+        "refinery values",
+        "turbine",
+        "gravity",
+        "radial acceleration",
+        "multi-stage pump",
+        "plunger",
+        "vortex pump",
+        "paddles",
+        "plunger pumps",
+        "steam pump",
+        "two-stage",
+        "pistonless pumps",
+        "Pump Application Engineering",
+        "Homemade Water Pressure Systems",
+        "vacuum cleaner",
+        "Navier–Stokes equations",
+        "multiphase pumping applications",
+        "discharge valve",
+        "William Bruggeman",
+        "viscous fluids",
+        "fluid dynamics simulation",
+        "90 PSI",
+        "lift",
+        "syphon",
+        "closed valve",
+        "large particles",
+        "double-acting",
+        "John Snow",
+        "Thomas Savery",
+        "ceramic plungers",
+        "intake tubing",
+        "steam propulsion",
+        "triangular shaped sealing line",
+        "low volumes",
+        "operating pressures",
+        "shoes",
+        "plungers",
+        "connecting rods",
+        "process fluid composition",
+        "inspection",
+        "fracking",
+        "efficiency",
+        "car washes",
+        "tip channel",
+        "upstream operations",
+        "Pump User's Handbook",
+        "continuous duty triplex pumps",
+        "hand-powered water pump",
+        "cavitation",
+        "oil well applications",
+        "horsepower",
+        "industrial air compressors",
+        "mining",
+        "triplex plunger pumps",
+        "multiphase pump",
+        "pumping cylinder",
+        "mud pumps",
+        "Car engine oil pumps",
+        "wipers",
+        "mix of gas, liquid, and solids",
+        "radial-flow pump",
+        "hollow rotary disc pumps",
+        "foot pumps",
+        "fluid stream properties",
+        "Pulser pumps",
+        "low-pressure seals",
+        "peristaltic pumps",
+        "centrifugal pumps",
+        "routine maintenance",
+        "vanes",
+        "reciprocating hand pumps",
+        "double-stage",
+        "capillary action",
+        "compressed air",
+        "surge analysis",
+        "Roots brothers",
+        "Hydraulic power packs",
+        "high-pressure fluid",
+        "Tyler G. Hicks",
+        "home pressure washer",
+        "rotor",
+        "liquid ring pumps",
+        "oil",
+        "United States",
+        "Gordon Buck",
+        "Bernoulli's principle",
+        "pumping power",
+        "bird respiratory systems",
+        "heating systems",
+        "dynamic pumps",
+        "discharge valves",
+        "moving parts",
+        "pulsation",
+        "contamination",
+        "suction side",
+        "aquarium filtering",
+        "turbulence",
+        "Rotary gear pump",
+        "McGraw-Hill Book Company",
+        "impellers",
+        "rotational speed",
+        "flow controller (FIC)",
+        "thermodynamic pump testing",
+        "triplex pump",
+        "slurries",
+        "high head pressures",
+        "submerged pumps",
+        "fluid flow",
+        "vapor locked",
+        "ETH Zurich",
+        "medical industry",
+        "safety valve",
+        "Flexible impeller pump",
+        "hydraulic oil",
+        "fluid density",
+        "chemical movement",
+        "cam",
+        "pressures",
+        "internal gear pump",
+        "mechanical energy",
+        "biomedical systems",
+        "irrigation",
+        "electricity",
+        "small steam engines",
+        "safe water supply",
+        "modern engineering materials",
+        "external relief valve",
+        "diaphragm",
+        "Australian Pump Technical Handbook",
+        "piped water supplies",
+        "Rotary vane pump",
+        "fluid being pumped",
+        "progressing cavity pump",
+        "pump ripple",
+        "ball bearings",
+        "combustion driven pumps",
+        "vibration",
+        "Airlift pumps",
+        "acceleration",
+        "ρ",
+        "supply tank",
+        "rubber",
+        "wells",
+        "single-acting",
+        "biological systems",
+        "ventilation systems",
+        "high torque",
+        "circumferential piston",
+        "quintuplex pumps",
+        "volatile fluid",
+        "tube",
+        "crankshafts",
+        "flow",
+        "physiological valve",
+        "MTBF",
+        "John Crane Inc.",
+        "minimum flow protection system",
+        "positive-displacement pumps",
+        "positive-displacement",
+        "refrigeration",
+        "pump performance data",
+        "pump efficiency",
+        "manufacturer",
+        "axial-flow pump",
+        "concrete",
+        "priming pumps",
+        "internal leakage",
+        "pumping direction",
+        "cylinder",
+        "screw pump",
+        "flood control",
+        "human operator",
+        "helical rotors",
+        "low flow rate",
+        "flexible tube",
+        "valves",
+        "forward stroke",
+        "Thunderbolt",
+        "pump failures",
+        "linear peristaltic pumps",
+        "pump fires",
+        "low pulsation rates",
+        "lobe pump",
+        "fluid pumping efficiency",
+        "positive-displacement pump",
+        "alternative engine configurations",
+        "peristalsis",
+        "erosive media",
+        "pump repairs",
+        "British Isles",
+        "sewage movement",
+        "Rotary lobe pump",
+        "diaphragms",
+        "motor",
+        "spare parts",
+        "Δp_static",
+        "Pump Handbook",
+        "suction point",
+        "Δz",
+        "shuttle block",
+        "valveless pumping system",
+        "axial-flow pumps",
+        "Bernoulli's equation",
+        "potential energy",
+        "belt",
+        "Roots superchargers",
+        "rural areas",
+        "shear sensitive fluids",
+        "artificial heart",
+        "gasoline supply",
+        "chain pumps",
+        "mechanical action",
+        "chemical pumps",
+        "shear-sensitive media",
+        "inter-meshing screws",
+        "gas",
+        "valveless pumps",
+        "mechanical pumps",
+        "Hydraulic pump",
+        "clearance",
+        "chemical installations",
+        "return line",
+        "eccentric disc pumps",
+        "head",
+        "industrial-grade triplex pumps",
+        "community water wells",
+        "heavy oils",
+        "fuel injection",
+        "axial compressor",
+        "orifice plate",
+        "aquarium",
+        "impeller",
+        "velocity gain",
+        "self-priming",
+        "pump transducer",
+        "Radial piston pump",
+        "Progressive cavity pumps",
+        "Baton Rouge, Louisiana",
+        "centrifugal fan",
+        "v2",
+        "all-fluid pumps",
+        "low flow rates",
+        "piping system",
+        "pressure",
+        "secondary pump",
+        "water supply",
+        "single-stage pump",
+        "impeller wear",
+        "hydraulic energy",
+        "natural gas",
+        "rotodynamic pump",
+        "outlet pressure",
+        "water hammer",
+        "shaft",
+        "DIN and ASME-standardized stuffing boxes",
+        "volumetric flow rate",
+        "drilling mud",
+        "bearings",
+        "closed valve conditions",
+        "resource-poor settings",
+        "reciprocating positive-displacement pumps",
+        "hydraulic ram",
+        "high resistance",
+        "electrical energy",
+        "gravitational force",
+        "circular pump casing",
+        "internal combustion engines",
+        "pond filtering",
+        "compression",
+        "artificial replacements",
+        "water-borne diseases",
+        "Poseidon pump",
+        "discharge side",
+        "heart's valves",
+        "total head rise",
+        "manual filling",
+        "volumetric efficiency",
+        "discharge pressure",
+        "pump geometry",
+        "compressible gas",
+        "displacement ratios",
+        "boiler feed water pumps",
+        "temperature variations",
+        "pump failure",
+        "cooling towers",
+        "diaphragm pump",
+        "rapid wear",
+        "central core",
+        "slug flow",
+        "evaporation of the working fluid",
+        "friction",
+        "discharge disk",
+        "Rotodynamic pumps",
+        "fluid transport",
+        "semi-trailer-transported triplex pumps",
+        "pressure head-discharge characteristic",
+        "hot fluid",
+        "Twin-screw pump",
+        "smallholder irrigation",
+        "L. B. Robbins",
+        "position of the pump",
+        "Net Positive Suction Head (NPSH)",
+        "Buffer tank",
+        "wheel",
+        "helical rotor",
+        "drag",
+        "jet",
+        "v1",
+        "rotary pumps",
+        "external pumps",
+        "piston",
+        "liquid-ring pumps",
+        "solar steam pumps",
+        "fluid-dynamical systems",
+        "Australian Pump Manufacturers' Association",
+        "Δp",
+        "fluid",
+        "double-diaphragm pumps",
+        "η",
+        "pulsation dampener",
+        "pump's casing",
+        "applications",
+        "engineering systems",
+        "ingestion of air",
+        "screw pumps",
+        "mechanical failure",
+        "discharge pipe",
+        "side channel",
+        "stripper",
+        "NPSHa",
+        "flow rate",
+        "hollow disc pumps",
+        "gastrointestinal tract",
+        "triplex",
+        "water hammer effect",
+        "groundwater",
+        "stator",
+        "rotary-type positive displacement",
+        "Progressing cavity pump",
+        "specific speed",
+        "decreasing cavity",
+        "biology",
+        "pump chamber",
+        "priming a pump",
+        "John Crane Inc. technician",
+        "1854 Broad Street cholera outbreak",
+        "side-channel pump",
+        "energy industry",
+        "external gear pump",
+        "water-cooling",
+        "embryonic vertebrate heart",
+        "energy",
+        "public water supplies",
+        "siphon",
+        "flow control valve (FCV)",
+        "constant flow machines",
+        "engine",
+        "filter press",
+        "pipe system",
+        "developing countries",
+        "seal chamber",
+        "Pulp and Paper",
+        "local interest",
+        "mean time between failures (MTBF)",
+        "pumping configuration",
+        "drive shaft damage",
+        "internal relief",
+        "cryogenic fluid",
+        "starting torque",
+        "pump",
+        "boiling point",
+        "water",
+        "Positive-displacement pumps",
+        "cylinders",
+        "simplex",
+        "shutoff head",
+        "cuttings",
+        "pipe",
+        "Pulsometer steam pump",
+        "pump curve",
+        "blood circulation",
+        "liquid-ring pump",
+        "plunger pump",
+        "volume",
+        "Rope pump",
+        "oil refinery",
+        "Wastewater Treatment",
+        "oil pipeline pumps",
+        "mechanical seals",
+        "impulse pump",
+        "Roots-type pump",
+        "housing",
+        "unscheduled maintenance",
+        "expanding cavity",
+        "cavity",
+        "particles",
+        "refinery and chemical plants",
+        "crankshaft load",
+        "power consumption",
+        "Igor Karassik",
+        "oil and gas drilling industry",
+        "19th century",
+        "peripheral",
+        "pneumatic energy",
+        "radial-flow pumps",
+        "aeration",
+        "velocity pumps",
+        "Afridev pump",
+        "steam",
+        "seal failure",
+        "loss of prime",
+        "tight sealing",
+        "rotodynamic pumps"
+    ],
+    "edges": [
+        "is often called",
+        "is defined as ratio of power imparted on",
+        "pressurizes",
+        "maintained in",
+        "demand",
+        "closes",
+        "have lifetimes around 50 to 60 percent of",
+        "are between",
+        "applies the principle of",
+        "decreases with",
+        "called",
+        "was called",
+        "is calculated using",
+        "is used in",
+        "is a form of",
+        "function as a compromise between",
+        "suspected",
+        "lifted by",
+        "releases",
+        "restrict fluid motion using",
+        "can be subdivided by",
+        "has",
+        "made from",
+        "fits inside",
+        "depends on",
+        "retracts and opens",
+        "goes back to",
+        "produces",
+        "opens to its natural state after the passing of",
+        "prevents",
+        "obtained data for",
+        "is converted to",
+        "is in contrast to",
+        "operates by",
+        "is referred to as",
+        "are examined for",
+        "were before",
+        "is necessary for",
+        "is required to drive",
+        "inject into",
+        "is converted from",
+        "draws",
+        "is used for",
+        "requires",
+        "allows",
+        "edited",
+        "decreases",
+        "published in",
+        "handle",
+        "is at",
+        "such as",
+        "pump into",
+        "with more plungers have increased",
+        "are well suited to pump",
+        "is supplied by",
+        "have grown due to",
+        "use pressure created by",
+        "developed by",
+        "ensures",
+        "classified by",
+        "is accelerated in",
+        "driven by",
+        "serve in",
+        "is derived from",
+        "operate at higher pressures than",
+        "is calculated as",
+        "pump through",
+        "are used as a method for",
+        "opens access to",
+        "was installed over",
+        "examined repair records in",
+        "improve reliability in",
+        "provides signal to",
+        "spins in",
+        "imparts work on",
+        "co-authored",
+        "assist in",
+        "not viable because of",
+        "uses process called",
+        "includes",
+        "are used when pumping conditions contain",
+        "is on",
+        "should be used until all air is removed from",
+        "works at",
+        "involves",
+        "applied to",
+        "is a function of",
+        "is emptied through",
+        "delivering higher discharges than",
+        "develops",
+        "is a device that moves",
+        "are used for",
+        "is smoothed by",
+        "increased the lifespan of",
+        "flexes",
+        "consist of",
+        "have a dedicated intake for",
+        "may be",
+        "isolates",
+        "are in",
+        "must exceed",
+        "should be lower than",
+        "operate against",
+        "with",
+        "serve industries and applications ranging from",
+        "have",
+        "authored",
+        "is made of",
+        "carries",
+        "is due to",
+        "also known as",
+        "opens",
+        "include",
+        "operate safely under",
+        "on",
+        "place limits on",
+        "of",
+        "flows into",
+        "flows out of",
+        "coordinates aspects of",
+        "is between",
+        "helps evaluate risk of",
+        "is primed by",
+        "was an early application to pump",
+        "is used to describe",
+        "reduce in size due to",
+        "increase in",
+        "move fluid using",
+        "begins pumping",
+        "solves",
+        "studied",
+        "pumps",
+        "can cause",
+        "associated with",
+        "can be",
+        "provides",
+        "are located in",
+        "explains",
+        "can smooth",
+        "causing",
+        "between 0 and 90 degrees from",
+        "are used to pump",
+        "are required to seal",
+        "are attached to",
+        "are suitable for",
+        "is chief engineer for",
+        "often of",
+        "are",
+        "causes",
+        "are mounted in the head of",
+        "are insufficient for",
+        "operate under",
+        "efficiency increases with",
+        "is equivalent to",
+        "is installed upstream of the pump suction nozzle in case of",
+        "contains",
+        "are used in lieu of action taken by",
+        "imparted to",
+        "do not have",
+        "through",
+        "consists of",
+        "selection can affect",
+        "operate on",
+        "reduced the size of",
+        "is capable of drawing",
+        "are scarce in",
+        "is tested by",
+        "achieves",
+        "powered by",
+        "is divided by",
+        "is a type of",
+        "run on",
+        "pump air in",
+        "is based on",
+        "cannot become",
+        "should be manually filled with",
+        "is pushed out of",
+        "operates at",
+        "are susceptible to",
+        "may be a problem in",
+        "is a class of",
+        "cools",
+        "uses",
+        "are designed to be",
+        "have varying",
+        "move fluid into",
+        "are used in",
+        "pump",
+        "in",
+        "dictated by",
+        "devised in",
+        "relies on",
+        "can be described as",
+        "is wasted when",
+        "was removed by",
+        "causes suction of",
+        "similar to",
+        "is drawn into",
+        "used for",
+        "published by",
+        "are applications of",
+        "can serve as",
+        "is a cross between",
+        "can accommodate",
+        "is prone to",
+        "maintained even when",
+        "with more plungers have smoother",
+        "use three",
+        "transport",
+        "failures are among the major causes of",
+        "enters",
+        "without",
+        "displaces",
+        "alludes to",
+        "creates",
+        "typically",
+        "exits",
+        "is governed by",
+        "rotate inside",
+        "used in",
+        "varies between maximum and zero in",
+        "is an industry served by",
+        "increases in",
+        "are used on",
+        "actuates",
+        "pushes",
+        "experiences",
+        "can be related by",
+        "is constructed of",
+        "is inside",
+        "might be caused by",
+        "is a brand of",
+        "is sucked into",
+        "increases",
+        "reduce",
+        "located at",
+        "is a notorious case of",
+        "used as",
+        "is named after",
+        "pulls",
+        "is in",
+        "produce",
+        "are considered",
+        "run with",
+        "is contaminated with",
+        "is",
+        "use",
+        "is often one of the most significant costs of",
+        "reversed by",
+        "recirculates in",
+        "become a function of",
+        "is converted into",
+        "commonplace to",
+        "are often in",
+        "have been made",
+        "are attractive to",
+        "has alliance with",
+        "is of",
+        "can encounter a large variation in service conditions such as",
+        "reach peak efficiency at"
+    ],
+    "relations": [
+        [
+            "double-diaphragm pumps",
+            "handle",
+            "abrasive materials"
+        ],
+        [
+            "starting torque",
+            "become a function of",
+            "acceleration"
+        ],
+        [
+            "pressure",
+            "increases in",
+            "discharge line"
+        ],
+        [
+            "drillers",
+            "use",
+            "triplex pump"
+        ],
+        [
+            "regenerative turbine pump",
+            "also known as",
+            "turbulence"
+        ],
+        [
+            "small steam engines",
+            "not viable because of",
+            "modern engineering materials"
+        ],
+        [
+            "impulse pump",
+            "use pressure created by",
+            "air"
+        ],
+        [
+            "L. B. Robbins",
+            "authored",
+            "Homemade Water Pressure Systems"
+        ],
+        [
+            "positive-displacement pumps",
+            "can cause",
+            "pipeline"
+        ],
+        [
+            "valveless pumps",
+            "used in",
+            "biomedical systems"
+        ],
+        [
+            "gravity pumps",
+            "include",
+            "hydraulic ram"
+        ],
+        [
+            "Progressive cavity pumps",
+            "are well suited to pump",
+            "sludge"
+        ],
+        [
+            "triplex pump",
+            "commonplace to",
+            "home pressure washer"
+        ],
+        [
+            "Progressive cavity pumps",
+            "serve industries and applications ranging from",
+            "oil and gas"
+        ],
+        [
+            "applications",
+            "include",
+            "aquarium filtering"
+        ],
+        [
+            "single-acting",
+            "has",
+            "piston"
+        ],
+        [
+            "mechanical pumps",
+            "classified by",
+            "impulse pumps"
+        ],
+        [
+            "rotary pumps",
+            "have",
+            "clearance"
+        ],
+        [
+            "rope pump",
+            "devised in",
+            "China"
+        ],
+        [
+            "applications",
+            "include",
+            "pond filtering"
+        ],
+        [
+            "kinetic energy",
+            "imparted to",
+            "peripheral"
+        ],
+        [
+            "1854 Broad Street cholera outbreak",
+            "is a notorious case of",
+            "water-borne diseases"
+        ],
+        [
+            "foot pumps",
+            "use",
+            "reciprocating hand pumps"
+        ],
+        [
+            "Gordon Buck",
+            "obtained data for",
+            "centrifugal pumps"
+        ],
+        [
+            "connecting rods",
+            "improve reliability in",
+            "triplex pump"
+        ],
+        [
+            "pump",
+            "powered by",
+            "air"
+        ],
+        [
+            "pump",
+            "used in",
+            "19th century"
+        ],
+        [
+            "pump",
+            "uses process called",
+            "peristalsis"
+        ],
+        [
+            "diaphragm pump",
+            "run on",
+            "electricity"
+        ],
+        [
+            "microfluidics",
+            "involves",
+            "valveless impedance pumps"
+        ],
+        [
+            "side channel",
+            "through",
+            "pressure ports"
+        ],
+        [
+            "multiphase pumps",
+            "can encounter a large variation in service conditions such as",
+            "temperature variations"
+        ],
+        [
+            "pump",
+            "used as",
+            "boiler feed water pumps"
+        ],
+        [
+            "pressure",
+            "decreases with",
+            "low flow rate"
+        ],
+        [
+            "oil seals",
+            "improve reliability in",
+            "triplex pump"
+        ],
+        [
+            "centrifugal pump",
+            "operates at",
+            "pump efficiency"
+        ],
+        [
+            "rollers",
+            "are attached to",
+            "rotor"
+        ],
+        [
+            "mixed-flow pumps",
+            "operate at higher pressures than",
+            "axial-flow pumps"
+        ],
+        [
+            "simplex",
+            "has",
+            "cylinder"
+        ],
+        [
+            "Pump Application Engineering",
+            "published by",
+            "McGraw-Hill Book Company"
+        ],
+        [
+            "semi-trailer-transported triplex pumps",
+            "called",
+            "mud pumps"
+        ],
+        [
+            "unscheduled maintenance",
+            "is often one of the most significant costs of",
+            "pumps"
+        ],
+        [
+            "Hydraulic ram pumps",
+            "use",
+            "water hammer effect"
+        ],
+        [
+            "plunger",
+            "increases",
+            "pressure"
+        ],
+        [
+            "pump",
+            "operates by",
+            "mechanical action"
+        ],
+        [
+            "multiphase pumps",
+            "can encounter a large variation in service conditions such as",
+            "process fluid composition"
+        ],
+        [
+            "impeller",
+            "spins in",
+            "cavity"
+        ],
+        [
+            "small steam engines",
+            "not viable because of",
+            "alternative engine configurations"
+        ],
+        [
+            "impellers",
+            "reduce in size due to",
+            "pump efficiency"
+        ],
+        [
+            "vacuum",
+            "is equivalent to",
+            "boiling point"
+        ],
+        [
+            "mechanical pumps",
+            "serve in",
+            "applications"
+        ],
+        [
+            "bearings",
+            "failures are among the major causes of",
+            "unscheduled maintenance"
+        ],
+        [
+            "Progressive cavity pumps",
+            "serve industries and applications ranging from",
+            "mining"
+        ],
+        [
+            "rotary positive-displacement pumps",
+            "move fluid using",
+            "eccentric disc pumps"
+        ],
+        [
+            "fluid",
+            "is sucked into",
+            "cylinder"
+        ],
+        [
+            "Theodore W. Edwards",
+            "co-authored",
+            "Pump Application Engineering"
+        ],
+        [
+            "hand-powered water pump",
+            "was installed over",
+            "community water wells"
+        ],
+        [
+            "position of the pump",
+            "should be lower than",
+            "suction point"
+        ],
+        [
+            "rope pump",
+            "made from",
+            "rope"
+        ],
+        [
+            "velocity pumps",
+            "are",
+            "centrifugal pumps"
+        ],
+        [
+            "pump transducer",
+            "has",
+            "reciprocating plunger"
+        ],
+        [
+            "positive-displacement pumps",
+            "operate against",
+            "closed valve"
+        ],
+        [
+            "velocity pumps",
+            "are",
+            "rotodynamic pumps"
+        ],
+        [
+            "stator",
+            "is made of",
+            "rubber"
+        ],
+        [
+            "positive-displacement pumps",
+            "move fluid into",
+            "discharge pipe"
+        ],
+        [
+            "Progressive cavity pumps",
+            "serve industries and applications ranging from",
+            "Wastewater Treatment"
+        ],
+        [
+            "sewage sludge",
+            "is contaminated with",
+            "large particles"
+        ],
+        [
+            "impulse pump",
+            "use pressure created by",
+            "gas"
+        ],
+        [
+            "efficiency",
+            "typically",
+            "low flow rate"
+        ],
+        [
+            "hollow disc pumps",
+            "also known as",
+            "eccentric disc pumps"
+        ],
+        [
+            "reciprocating positive-displacement pumps",
+            "move fluid using",
+            "oscillating pistons"
+        ],
+        [
+            "pressure",
+            "in",
+            "chamber"
+        ],
+        [
+            "duplex",
+            "has",
+            "cylinder"
+        ],
+        [
+            "moving parts",
+            "are in",
+            "pump's casing"
+        ],
+        [
+            "regenerative turbine pump",
+            "applied to",
+            "cryogenic fluid"
+        ],
+        [
+            "centrifugal pump",
+            "increases",
+            "kinetic energy"
+        ],
+        [
+            "pumps",
+            "are used for",
+            "marine services"
+        ],
+        [
+            "pumps",
+            "are used for",
+            "irrigation"
+        ],
+        [
+            "applications",
+            "include",
+            "aeration"
+        ],
+        [
+            "Peristaltic pump",
+            "applies the principle of",
+            "Positive-displacement pumps"
+        ],
+        [
+            "combustion driven pumps",
+            "developed by",
+            "ETH Zurich"
+        ],
+        [
+            "progressing cavity pump",
+            "consists of",
+            "stator"
+        ],
+        [
+            "Vibratory pump",
+            "is a type of",
+            "Positive-displacement pumps"
+        ],
+        [
+            "Thunderbolt",
+            "is a brand of",
+            "Federal Signal Corporation"
+        ],
+        [
+            "regenerative turbine pump",
+            "also known as",
+            "traction"
+        ],
+        [
+            "tube",
+            "opens to its natural state after the passing of",
+            "cam"
+        ],
+        [
+            "recycle cooler",
+            "cools",
+            "oil terminal"
+        ],
+        [
+            "Diaphragm valves",
+            "are used to pump",
+            "Diaphragm pump"
+        ],
+        [
+            "Progressing cavity pump",
+            "applies the principle of",
+            "Positive-displacement pumps"
+        ],
+        [
+            "triplex-style plunger pump",
+            "uses",
+            "triplex plunger pumps"
+        ],
+        [
+            "mixed-flow pumps",
+            "function as a compromise between",
+            "radial-flow pumps"
+        ],
+        [
+            "pump",
+            "powered by",
+            "steam"
+        ],
+        [
+            "belt",
+            "driven by",
+            "engine"
+        ],
+        [
+            "relief valve",
+            "can be",
+            "external relief valve"
+        ],
+        [
+            "flexible tube",
+            "is inside",
+            "circular pump casing"
+        ],
+        [
+            "Twin screw pumps",
+            "are used when pumping conditions contain",
+            "slug flow"
+        ],
+        [
+            "mechanical seals",
+            "can encounter a large variation in service conditions such as",
+            "temperature variations"
+        ],
+        [
+            "Buffer tank",
+            "is installed upstream of the pump suction nozzle in case of",
+            "slug flow"
+        ],
+        [
+            "valveless pumps",
+            "used in",
+            "engineering systems"
+        ],
+        [
+            "fluid",
+            "is accelerated in",
+            "piping system"
+        ],
+        [
+            "liquid ring pumps",
+            "have a dedicated intake for",
+            "priming liquid"
+        ],
+        [
+            "applications",
+            "include",
+            "heating systems"
+        ],
+        [
+            "Helico-axial pump",
+            "is a type of",
+            "centrifugal pump"
+        ],
+        [
+            "fluid being pumped",
+            "may be",
+            "mix of gas, liquid, and solids"
+        ],
+        [
+            "hand-powered water pump",
+            "was called",
+            "parish pump"
+        ],
+        [
+            "discharge valves",
+            "are mounted in the head of",
+            "cylinder"
+        ],
+        [
+            "diaphragm pump",
+            "run on",
+            "compressed air"
+        ],
+        [
+            "car washes",
+            "use",
+            "triplex-style plunger pump"
+        ],
+        [
+            "industrial-grade triplex pumps",
+            "used in",
+            "oil and gas drilling industry"
+        ],
+        [
+            "pistonless pumps",
+            "such as",
+            "Pulsometer steam pump"
+        ],
+        [
+            "pumps",
+            "are used for",
+            "refrigeration"
+        ],
+        [
+            "positive-displacement pumps",
+            "are",
+            "constant flow machines"
+        ],
+        [
+            "total head rise",
+            "associated with",
+            "pipe"
+        ],
+        [
+            "Radial piston pump",
+            "is a form of",
+            "Hydraulic pump"
+        ],
+        [
+            "positive-displacement pumps",
+            "have",
+            "tight sealing"
+        ],
+        [
+            "rotary positive-displacement pumps",
+            "move fluid using",
+            "peristaltic pumps"
+        ],
+        [
+            "kinetic energy",
+            "is converted to",
+            "pressure"
+        ],
+        [
+            "external relief valve",
+            "is in",
+            "discharge line"
+        ],
+        [
+            "Rope pump",
+            "applies the principle of",
+            "Positive-displacement pumps"
+        ],
+        [
+            "regenerative turbine pump",
+            "also known as",
+            "friction"
+        ],
+        [
+            "regenerative turbine pump",
+            "also known as",
+            "peripheral"
+        ],
+        [
+            "chemical plants",
+            "use",
+            "centrifugal pumps"
+        ],
+        [
+            "positive-displacement pumps",
+            "produce",
+            "flow"
+        ],
+        [
+            "pumping power",
+            "is calculated using",
+            "η"
+        ],
+        [
+            "crankshafts",
+            "improve reliability in",
+            "triplex pump"
+        ],
+        [
+            "Pump Handbook",
+            "published by",
+            "McGraw Hill"
+        ],
+        [
+            "diaphragm pump",
+            "pump through",
+            "filter press"
+        ],
+        [
+            "helical rotors",
+            "rotate inside",
+            "triangular shaped sealing line"
+        ],
+        [
+            "triplex plunger pumps",
+            "reduce",
+            "pulsation"
+        ],
+        [
+            "plunger pumps",
+            "with more plungers have increased",
+            "fluid flow"
+        ],
+        [
+            "roller bearings",
+            "improve reliability in",
+            "triplex pump"
+        ],
+        [
+            "progressing cavity pump",
+            "develops",
+            "high pressure"
+        ],
+        [
+            "minimum flow protection",
+            "prevents",
+            "impeller wear"
+        ],
+        [
+            "pressure head-discharge characteristic",
+            "dictated by",
+            "mixed-flow pumps"
+        ],
+        [
+            "progressing cavity pump",
+            "operates at",
+            "90 PSI"
+        ],
+        [
+            "Pump User's Handbook",
+            "alludes to",
+            "pump failure"
+        ],
+        [
+            "volume",
+            "is",
+            "constant flow machines"
+        ],
+        [
+            "mud pumps",
+            "pump",
+            "drilling mud"
+        ],
+        [
+            "regenerative turbine pump",
+            "has",
+            "impeller"
+        ],
+        [
+            "orifice plate",
+            "allows",
+            "minimum flow protection"
+        ],
+        [
+            "fluid",
+            "experiences",
+            "lift"
+        ],
+        [
+            "hollow disc pumps",
+            "also known as",
+            "hollow rotary disc pumps"
+        ],
+        [
+            "mechanical energy",
+            "is converted to",
+            "potential energy"
+        ],
+        [
+            "pump",
+            "can be",
+            "triplex"
+        ],
+        [
+            "surge analysis",
+            "helps evaluate risk of",
+            "water hammer"
+        ],
+        [
+            "plunger",
+            "opens",
+            "discharge valve"
+        ],
+        [
+            "minimum flow protection system",
+            "ensures",
+            "minimum flow protection"
+        ],
+        [
+            "Rotary vane pump",
+            "applies the principle of",
+            "Positive-displacement pumps"
+        ],
+        [
+            "biomimicry",
+            "is used in",
+            "mechanical pumps"
+        ],
+        [
+            "pressure ports",
+            "located at",
+            "peripheral"
+        ],
+        [
+            "special applications",
+            "demand",
+            "high resistance"
+        ],
+        [
+            "suction stroke",
+            "involves",
+            "reciprocating plunger"
+        ],
+        [
+            "water hammer",
+            "may be a problem in",
+            "plunger pumps"
+        ],
+        [
+            "pump",
+            "is a device that moves",
+            "slurries"
+        ],
+        [
+            "suction port",
+            "located at",
+            "peripheral"
+        ],
+        [
+            "applications",
+            "include",
+            "ventilation systems"
+        ],
+        [
+            "liquid",
+            "flows out of",
+            "discharge side"
+        ],
+        [
+            "low-pressure seals",
+            "improve reliability in",
+            "triplex pump"
+        ],
+        [
+            "Gordon Buck",
+            "is chief engineer for",
+            "John Crane Inc."
+        ],
+        [
+            "applications",
+            "include",
+            "oil"
+        ],
+        [
+            "pump",
+            "is a device that moves",
+            "fluids"
+        ],
+        [
+            "mechanical pumps",
+            "classified by",
+            "electromagnetic pumps"
+        ],
+        [
+            "bicycle pumps",
+            "use",
+            "reciprocating hand pumps"
+        ],
+        [
+            "plunger pump",
+            "has",
+            "valves"
+        ],
+        [
+            "pumps",
+            "are used for",
+            "air conditioning systems"
+        ],
+        [
+            "centrifugal pump",
+            "includes",
+            "head loss-flow characteristic"
+        ],
+        [
+            "fluid dynamics simulation",
+            "solves",
+            "Navier–Stokes equations"
+        ],
+        [
+            "centrifugal fan",
+            "is used in",
+            "vacuum cleaner"
+        ],
+        [
+            "rotary-type positive displacement",
+            "includes",
+            "lobe pump"
+        ],
+        [
+            "Δp",
+            "is calculated as",
+            "ρ"
+        ],
+        [
+            "single-acting",
+            "has",
+            "suction"
+        ],
+        [
+            "pump efficiency",
+            "is a function of",
+            "discharge"
+        ],
+        [
+            "positive-displacement pumps",
+            "can cause",
+            "mechanical failure"
+        ],
+        [
+            "position of the pump",
+            "is primed by",
+            "gravity"
+        ],
+        [
+            "Hydraulic ram pumps",
+            "use",
+            "hydraulic ram"
+        ],
+        [
+            "solar steam pumps",
+            "used for",
+            "smallholder irrigation"
+        ],
+        [
+            "reciprocating positive-displacement pumps",
+            "restrict fluid motion using",
+            "valves"
+        ],
+        [
+            "triplex plunger pumps",
+            "use three",
+            "reciprocating plunger"
+        ],
+        [
+            "high-pressure fluid",
+            "requires",
+            "plunger seals"
+        ],
+        [
+            "low flow rate",
+            "associated with",
+            "total head rise"
+        ],
+        [
+            "plunger pump",
+            "pushes",
+            "fluid"
+        ],
+        [
+            "particles",
+            "causing",
+            "rapid wear"
+        ],
+        [
+            "pump repairs",
+            "are examined for",
+            "mean time between failures (MTBF)"
+        ],
+        [
+            "double-diaphragm pumps",
+            "handle",
+            "viscous fluids"
+        ],
+        [
+            "steam pump",
+            "powered by",
+            "steam engine"
+        ],
+        [
+            "John Crane Inc. technician",
+            "coordinates aspects of",
+            "refinery and chemical plants"
+        ],
+        [
+            "jet",
+            "often of",
+            "steam"
+        ],
+        [
+            "Velocity pumps",
+            "include",
+            "dynamic pumps"
+        ],
+        [
+            "rotary-type positive displacement",
+            "includes",
+            "internal gear pump"
+        ],
+        [
+            "triangular shaped sealing line",
+            "is at",
+            "suction"
+        ],
+        [
+            "Δp",
+            "is calculated as",
+            "g"
+        ],
+        [
+            "multiphase pumps",
+            "can encounter a large variation in service conditions such as",
+            "erosive media"
+        ],
+        [
+            "minimum flow protection",
+            "prevents",
+            "drive shaft damage"
+        ],
+        [
+            "rotary-type positive displacement",
+            "includes",
+            "shuttle block"
+        ],
+        [
+            "biological systems",
+            "include",
+            "gastrointestinal tract"
+        ],
+        [
+            "single-stage pump",
+            "is in contrast to",
+            "multi-stage pump"
+        ],
+        [
+            "dynamic pumps",
+            "operate safely under",
+            "closed valve conditions"
+        ],
+        [
+            "pump",
+            "pulls",
+            "plunger"
+        ],
+        [
+            "viscous fluids",
+            "includes",
+            "concrete"
+        ],
+        [
+            "safety valve",
+            "is on",
+            "discharge side"
+        ],
+        [
+            "axial-flow pump",
+            "is referred to as",
+            "all-fluid pumps"
+        ],
+        [
+            "community water wells",
+            "were before",
+            "piped water supplies"
+        ],
+        [
+            "mechanical seals",
+            "failures are among the major causes of",
+            "unscheduled maintenance"
+        ],
+        [
+            "gravity pumps",
+            "include",
+            "Heron's fountain"
+        ],
+        [
+            "artificial replacements",
+            "include",
+            "artificial heart"
+        ],
+        [
+            "Gear pump",
+            "applies the principle of",
+            "Positive-displacement pumps"
+        ],
+        [
+            "vibration",
+            "may be a problem in",
+            "plunger pumps"
+        ],
+        [
+            "reciprocating positive-displacement pumps",
+            "move fluid using",
+            "plungers"
+        ],
+        [
+            "quintuplex pumps",
+            "used in",
+            "fracking"
+        ],
+        [
+            "Roots-type pump",
+            "is named after",
+            "Roots brothers"
+        ],
+        [
+            "dynamic pumps",
+            "can be subdivided by",
+            "velocity gain"
+        ],
+        [
+            "side-channel pump",
+            "has",
+            "discharge disk"
+        ],
+        [
+            "pump",
+            "used in",
+            "special applications"
+        ],
+        [
+            "double-acting",
+            "has",
+            "discharge valve"
+        ],
+        [
+            "Tyler G. Hicks",
+            "co-authored",
+            "Pump Application Engineering"
+        ],
+        [
+            "pump",
+            "can be",
+            "simplex"
+        ],
+        [
+            "Wastewater Treatment",
+            "is an industry served by",
+            "Progressive cavity pumps"
+        ],
+        [
+            "radial-flow pump",
+            "operates at",
+            "pressures"
+        ],
+        [
+            "reciprocating positive-displacement pumps",
+            "move fluid using",
+            "diaphragms"
+        ],
+        [
+            "η",
+            "is derived from",
+            "pump curve"
+        ],
+        [
+            "valveless pumping system",
+            "relies on",
+            "fluid-dynamical systems"
+        ],
+        [
+            "axial-flow pump",
+            "operates at",
+            "pressures"
+        ],
+        [
+            "Electric submersible pumps",
+            "are used as a method for",
+            "artificial lift"
+        ],
+        [
+            "windmill",
+            "was an early application to pump",
+            "watermill"
+        ],
+        [
+            "wipers",
+            "are attached to",
+            "rotor"
+        ],
+        [
+            "clearance",
+            "is between",
+            "moving parts"
+        ],
+        [
+            "John Snow",
+            "suspected",
+            "public pump"
+        ],
+        [
+            "suction stroke",
+            "causes suction of",
+            "fluid"
+        ],
+        [
+            "pumping power",
+            "is calculated using",
+            "Δp"
+        ],
+        [
+            "vortex pump",
+            "is a type of",
+            "radial-flow pump"
+        ],
+        [
+            "peristaltic pump",
+            "is a type of",
+            "positive-displacement pump"
+        ],
+        [
+            "pumps",
+            "are used for",
+            "sewage movement"
+        ],
+        [
+            "applications",
+            "include",
+            "energy industry"
+        ],
+        [
+            "Poseidon pump",
+            "is a cross between",
+            "centrifugal pump"
+        ],
+        [
+            "valveless pumping system",
+            "has",
+            "fluid pumping efficiency"
+        ],
+        [
+            "lobe pump",
+            "displaces",
+            "fluid"
+        ],
+        [
+            "low flow rate",
+            "associated with",
+            "high torque"
+        ],
+        [
+            "secondary pump",
+            "should be used until all air is removed from",
+            "pump casing"
+        ],
+        [
+            "Twin-screw pump",
+            "is constructed of",
+            "inter-meshing screws"
+        ],
+        [
+            "applications",
+            "include",
+            "fuel injection"
+        ],
+        [
+            "rotary positive-displacement pumps",
+            "move fluid using",
+            "gear pumps"
+        ],
+        [
+            "mechanical pumps",
+            "classified by",
+            "axial-flow pumps"
+        ],
+        [
+            "applications",
+            "include",
+            "medical industry"
+        ],
+        [
+            "hydraulic oil",
+            "flexes",
+            "diaphragm"
+        ],
+        [
+            "solids",
+            "causing",
+            "jamming"
+        ],
+        [
+            "diaphragm pump",
+            "similar to",
+            "plunger pump"
+        ],
+        [
+            "William Bruggeman",
+            "increased the lifespan of",
+            "triplex pump"
+        ],
+        [
+            "mechanical seals",
+            "can encounter a large variation in service conditions such as",
+            "erosive media"
+        ],
+        [
+            "refinery and chemical plants",
+            "are located in",
+            "United States"
+        ],
+        [
+            "oil and gas",
+            "is an industry served by",
+            "Progressive cavity pumps"
+        ],
+        [
+            "pump efficiency",
+            "is tested by",
+            "thermodynamic pump testing"
+        ],
+        [
+            "pitcher pump",
+            "is prone to",
+            "contamination"
+        ],
+        [
+            "resource-poor settings",
+            "are often in",
+            "rural areas"
+        ],
+        [
+            "shaft",
+            "fits inside",
+            "heavy-duty rubber sleeve"
+        ],
+        [
+            "radial-flow pump",
+            "operates at",
+            "flow rates"
+        ],
+        [
+            "impulse pump",
+            "use pressure created by",
+            "liquid"
+        ],
+        [
+            "Ink jet printers",
+            "use",
+            "valveless impedance pumps"
+        ],
+        [
+            "Igor Karassik",
+            "edited",
+            "Pump Handbook"
+        ],
+        [
+            "hand pump",
+            "opens access to",
+            "groundwater"
+        ],
+        [
+            "pistonless pumps",
+            "such as",
+            "Thomas Savery"
+        ],
+        [
+            "fluid being pumped",
+            "may be",
+            "gas"
+        ],
+        [
+            "fluid",
+            "experiences",
+            "radial acceleration"
+        ],
+        [
+            "mechanical pumps",
+            "may be",
+            "external pumps"
+        ],
+        [
+            "Progressive cavity pumps",
+            "are well suited to pump",
+            "viscous fluids"
+        ],
+        [
+            "Poseidon pump",
+            "is a cross between",
+            "axial compressor"
+        ],
+        [
+            "centrifugal pumps",
+            "are susceptible to",
+            "water hammer"
+        ],
+        [
+            "Modern hand-operated community pumps",
+            "are used in",
+            "resource-poor settings"
+        ],
+        [
+            "priming a pump",
+            "is necessary for",
+            "pumps"
+        ],
+        [
+            "minimum flow protection",
+            "prevents",
+            "vibration"
+        ],
+        [
+            "high-pressure seals",
+            "improve reliability in",
+            "triplex pump"
+        ],
+        [
+            "spare parts",
+            "are scarce in",
+            "Africa"
+        ],
+        [
+            "pump performance data",
+            "is supplied by",
+            "manufacturer"
+        ],
+        [
+            "pump",
+            "can be",
+            "double-acting"
+        ],
+        [
+            "embryonic vertebrate heart",
+            "begins pumping",
+            "blood circulation"
+        ],
+        [
+            "pumps",
+            "are used for",
+            "flood control"
+        ],
+        [
+            "rotary-type positive displacement",
+            "includes",
+            "screw pump"
+        ],
+        [
+            "rotary-type positive displacement",
+            "includes",
+            "circumferential piston"
+        ],
+        [
+            "Afridev pump",
+            "are designed to be",
+            "spare parts"
+        ],
+        [
+            "Australian Pump Technical Handbook",
+            "published by",
+            "Australian Pump Manufacturers' Association"
+        ],
+        [
+            "pump chamber",
+            "is emptied through",
+            "capillary action"
+        ],
+        [
+            "pumping power",
+            "is governed by",
+            "Navier–Stokes equations"
+        ],
+        [
+            "expanding cavity",
+            "on",
+            "suction side"
+        ],
+        [
+            "impeller",
+            "between 0 and 90 degrees from",
+            "axial direction"
+        ],
+        [
+            "regenerative turbine pump",
+            "applied to",
+            "volatile fluid"
+        ],
+        [
+            "fluid",
+            "is drawn into",
+            "pump"
+        ],
+        [
+            "crankshaft load",
+            "increases in",
+            "plunger pumps"
+        ],
+        [
+            "grassroots organizations",
+            "studied",
+            "rope pump"
+        ],
+        [
+            "applications",
+            "include",
+            "water-cooling"
+        ],
+        [
+            "artificial replacements",
+            "include",
+            "body parts"
+        ],
+        [
+            "Modern hand-operated community pumps",
+            "are considered",
+            "safe water supply"
+        ],
+        [
+            "pump efficiency",
+            "is a function of",
+            "operating head"
+        ],
+        [
+            "pump efficiency",
+            "depends on",
+            "viscosity"
+        ],
+        [
+            "fluid",
+            "exits",
+            "impeller"
+        ],
+        [
+            "fluid",
+            "imparts work on",
+            "pump"
+        ],
+        [
+            "Rotary lobe pump",
+            "applies the principle of",
+            "Positive-displacement pumps"
+        ],
+        [
+            "industrial air compressors",
+            "are applications of",
+            "Roots-type pump"
+        ],
+        [
+            "rotary-type positive displacement",
+            "includes",
+            "sliding vane"
+        ],
+        [
+            "centrifugal pumps",
+            "reach peak efficiency at",
+            "Best Efficiency Point (BEP)"
+        ],
+        [
+            "valveless pumps",
+            "assist in",
+            "fluid transport"
+        ],
+        [
+            "Piston pump",
+            "is a type of",
+            "Positive-displacement pumps"
+        ],
+        [
+            "rotary positive-displacement pumps",
+            "move fluid using",
+            "hollow rotary disc pumps"
+        ],
+        [
+            "rotary-type positive displacement",
+            "includes",
+            "external gear pump"
+        ],
+        [
+            "reciprocating plunger",
+            "pushes",
+            "liquid"
+        ],
+        [
+            "pumps",
+            "are used for",
+            "gasoline supply"
+        ],
+        [
+            "pumping power",
+            "can be related by",
+            "Bernoulli's equation"
+        ],
+        [
+            "forward stroke",
+            "involves",
+            "reciprocating plunger"
+        ],
+        [
+            "triplex pump",
+            "used in",
+            "car washes"
+        ],
+        [
+            "lobe pump",
+            "produces",
+            "continuous flow"
+        ],
+        [
+            "diaphragm pump",
+            "pump into",
+            "aquarium"
+        ],
+        [
+            "positive-displacement pumps",
+            "have",
+            "expanding cavity"
+        ],
+        [
+            "eductor-jet pump",
+            "uses",
+            "jet"
+        ],
+        [
+            "rope pump",
+            "made from",
+            "wheel"
+        ],
+        [
+            "mechanical seals",
+            "are required to seal",
+            "Twin screw pumps"
+        ],
+        [
+            "blood circulation",
+            "maintained in",
+            "cardiovascular system"
+        ],
+        [
+            "suction",
+            "requires",
+            "pump"
+        ],
+        [
+            "19th century",
+            "associated with",
+            "steam propulsion"
+        ],
+        [
+            "chemical installations",
+            "have lifetimes around 50 to 60 percent of",
+            "refinery values"
+        ],
+        [
+            "liquid",
+            "is pushed out of",
+            "discharge valves"
+        ],
+        [
+            "double-diaphragm pumps",
+            "transport",
+            "shear-sensitive media"
+        ],
+        [
+            "First law of thermodynamics",
+            "explains",
+            "kinetic energy"
+        ],
+        [
+            "plunger pumps",
+            "have varying",
+            "fluid flow"
+        ],
+        [
+            "DIN and ASME-standardized stuffing boxes",
+            "place limits on",
+            "seal chamber"
+        ],
+        [
+            "multi-stage pump",
+            "contains",
+            "two-stage"
+        ],
+        [
+            "pump efficiency",
+            "is defined as ratio of power imparted on",
+            "fluid"
+        ],
+        [
+            "mechanical action",
+            "is converted into",
+            "hydraulic energy"
+        ],
+        [
+            "pumps",
+            "selection can affect",
+            "MTBF"
+        ],
+        [
+            "mechanical pumps",
+            "classified by",
+            "positive-displacement pumps"
+        ],
+        [
+            "mass of liquid",
+            "in",
+            "pipe system"
+        ],
+        [
+            "multiphase pump",
+            "can accommodate",
+            "fluid stream properties"
+        ],
+        [
+            "recycle cooler",
+            "cools",
+            "oil pipeline pumps"
+        ],
+        [
+            "recycle cooler",
+            "cools",
+            "oil refinery"
+        ],
+        [
+            "η",
+            "is derived from",
+            "fluid dynamics simulation"
+        ],
+        [
+            "artificial replacements",
+            "include",
+            "penile prosthesis"
+        ],
+        [
+            "biology",
+            "includes",
+            "chemical pumps"
+        ],
+        [
+            "decreasing cavity",
+            "is on",
+            "discharge side"
+        ],
+        [
+            "linear peristaltic pumps",
+            "have been made",
+            "circular pump casing"
+        ],
+        [
+            "pumps",
+            "are used for",
+            "water supply"
+        ],
+        [
+            "expanding cavity",
+            "is on",
+            "suction side"
+        ],
+        [
+            "public pump",
+            "was removed by",
+            "John Snow"
+        ],
+        [
+            "progressing cavity pump",
+            "is used for",
+            "sewage sludge"
+        ],
+        [
+            "power",
+            "is required to drive",
+            "pump"
+        ],
+        [
+            "continuous duty triplex pumps",
+            "used in",
+            "oil and gas drilling industry"
+        ],
+        [
+            "priming pumps",
+            "are used in lieu of action taken by",
+            "human operator"
+        ],
+        [
+            "mixed-flow pumps",
+            "function as a compromise between",
+            "axial-flow pumps"
+        ],
+        [
+            "cardiovascular system",
+            "maintained even when",
+            "heart's valves"
+        ],
+        [
+            "reciprocating hand pumps",
+            "used for",
+            "wells"
+        ],
+        [
+            "loss of prime",
+            "is due to",
+            "ingestion of air"
+        ],
+        [
+            "parish pump",
+            "is used to describe",
+            "local interest"
+        ],
+        [
+            "applications",
+            "include",
+            "car industry"
+        ],
+        [
+            "moving parts",
+            "increase in",
+            "plunger pumps"
+        ],
+        [
+            "Piston pump",
+            "applies the principle of",
+            "Positive-displacement pumps"
+        ],
+        [
+            "pulsation dampener",
+            "can smooth",
+            "pump ripple"
+        ],
+        [
+            "Screw pump",
+            "applies the principle of",
+            "Positive-displacement pumps"
+        ],
+        [
+            "cylinder",
+            "contains",
+            "reciprocating plunger"
+        ],
+        [
+            "Pulp and Paper",
+            "is an industry served by",
+            "Progressive cavity pumps"
+        ],
+        [
+            "quintuplex pumps",
+            "inject into",
+            "shale"
+        ],
+        [
+            "plunger",
+            "decreases",
+            "pressure"
+        ],
+        [
+            "viscous fluids",
+            "includes",
+            "heavy oils"
+        ],
+        [
+            "mechanical action",
+            "is converted from",
+            "electrical energy"
+        ],
+        [
+            "positive-displacement pumps",
+            "have",
+            "decreasing cavity"
+        ],
+        [
+            "rotary-type positive displacement",
+            "includes",
+            "flexible impeller"
+        ],
+        [
+            "Bernoulli's principle",
+            "explains",
+            "kinetic energy"
+        ],
+        [
+            "Ink jet printers",
+            "operate on",
+            "piezoelectric transducer principle"
+        ],
+        [
+            "centrifugal pumps",
+            "efficiency increases with",
+            "flow rate"
+        ],
+        [
+            "impeller",
+            "with",
+            "paddles"
+        ],
+        [
+            "pump",
+            "can be",
+            "single-acting"
+        ],
+        [
+            "valveless impedance pumps",
+            "are suitable for",
+            "biofluids"
+        ],
+        [
+            "relief valve",
+            "can be",
+            "internal relief"
+        ],
+        [
+            "lobe pump",
+            "works at",
+            "low pulsation rates"
+        ],
+        [
+            "recycle cooler",
+            "cools",
+            "offshore installation"
+        ],
+        [
+            "rotary-type positive displacement",
+            "includes",
+            "flexible vane"
+        ],
+        [
+            "applications",
+            "include",
+            "cooling towers"
+        ],
+        [
+            "applications",
+            "include",
+            "natural gas"
+        ],
+        [
+            "discharge valve",
+            "releases",
+            "fluid"
+        ],
+        [
+            "helical rotor",
+            "is inside",
+            "stator"
+        ],
+        [
+            "Roots-type pump",
+            "is a type of",
+            "lobe pump"
+        ],
+        [
+            "compression",
+            "closes",
+            "tube"
+        ],
+        [
+            "triangular shaped sealing line",
+            "is at",
+            "discharge"
+        ],
+        [
+            "mechanical pumps",
+            "classified by",
+            "steam pumps"
+        ],
+        [
+            "applications",
+            "include",
+            "wells"
+        ],
+        [
+            "Pulser pumps",
+            "run with",
+            "hydraulic ram"
+        ],
+        [
+            "positive-displacement pumps",
+            "operate under",
+            "closed valve conditions"
+        ],
+        [
+            "regenerative turbine pump",
+            "also known as",
+            "liquid-ring pump"
+        ],
+        [
+            "moving parts",
+            "are between",
+            "casing"
+        ],
+        [
+            "recycle line",
+            "contains",
+            "recycle cooler"
+        ],
+        [
+            "pump",
+            "can be",
+            "quad"
+        ],
+        [
+            "Roots superchargers",
+            "are used on",
+            "internal combustion engines"
+        ],
+        [
+            "medical industry",
+            "uses",
+            "medicine"
+        ],
+        [
+            "suction valves",
+            "are mounted in the head of",
+            "cylinder"
+        ],
+        [
+            "regenerative turbine pump",
+            "cannot become",
+            "vapor locked"
+        ],
+        [
+            "bird respiratory systems",
+            "pump air in",
+            "rigid lungs"
+        ],
+        [
+            "hand-powered water pump",
+            "is",
+            "pitcher pump"
+        ],
+        [
+            "William Bruggeman",
+            "reduced the size of",
+            "triplex pump"
+        ],
+        [
+            "tube",
+            "draws",
+            "fluid"
+        ],
+        [
+            "multiphase pumping applications",
+            "have grown due to",
+            "oil drilling activity"
+        ],
+        [
+            "NPSHr",
+            "prevents",
+            "cavitation"
+        ],
+        [
+            "radial-flow pump",
+            "is referred to as",
+            "centrifugal pump"
+        ],
+        [
+            "routine maintenance",
+            "includes",
+            "inspection"
+        ],
+        [
+            "special applications",
+            "demand",
+            "low flow rates"
+        ],
+        [
+            "flow control valve (FCV)",
+            "is in",
+            "recycle line"
+        ],
+        [
+            "progressing cavity pump",
+            "operates at",
+            "low volumes"
+        ],
+        [
+            "pump casing",
+            "should be manually filled with",
+            "priming liquid"
+        ],
+        [
+            "regenerative turbine pump",
+            "also known as",
+            "drag"
+        ],
+        [
+            "Australian Pump Manufacturers' Association",
+            "authored",
+            "Australian Pump Technical Handbook"
+        ],
+        [
+            "Homemade Water Pressure Systems",
+            "published in",
+            "Popular Science"
+        ],
+        [
+            "shoes",
+            "are attached to",
+            "rotor"
+        ],
+        [
+            "power consumption",
+            "decreases with",
+            "low flow rate"
+        ],
+        [
+            "pressure head-discharge characteristic",
+            "dictated by",
+            "radial-flow pumps"
+        ],
+        [
+            "regenerative turbine pump",
+            "similar to",
+            "regenerative blower"
+        ],
+        [
+            "reciprocating positive-displacement pumps",
+            "consist of",
+            "cylinder"
+        ],
+        [
+            "positive-displacement pumps",
+            "do not have",
+            "shutoff head"
+        ],
+        [
+            "plunger pumps",
+            "are",
+            "reciprocating positive-displacement pumps"
+        ],
+        [
+            "displacement ratios",
+            "are insufficient for",
+            "compressible gas"
+        ],
+        [
+            "fluid dynamics simulation",
+            "is based on",
+            "pump geometry"
+        ],
+        [
+            "rigid lungs",
+            "without",
+            "physiological valve"
+        ],
+        [
+            "mechanical pumps",
+            "may be",
+            "submerged pumps"
+        ],
+        [
+            "rotary positive-displacement pumps",
+            "move fluid using",
+            "hollow disc pumps"
+        ],
+        [
+            "multiphase pumping applications",
+            "are attractive to",
+            "upstream operations"
+        ],
+        [
+            "minimum flow protection system",
+            "includes",
+            "orifice plate"
+        ],
+        [
+            "power",
+            "is divided by",
+            "pump efficiency"
+        ],
+        [
+            "axial-flow pump",
+            "operates at",
+            "flow rates"
+        ],
+        [
+            "tip channel",
+            "recirculates in",
+            "cavity"
+        ],
+        [
+            "rural areas",
+            "are often in",
+            "developing countries"
+        ],
+        [
+            "positive-displacement pumps",
+            "can serve as",
+            "priming pumps"
+        ],
+        [
+            "mechanical pumps",
+            "classified by",
+            "velocity pumps"
+        ],
+        [
+            "Δp",
+            "is calculated as",
+            "v2"
+        ],
+        [
+            "rotary positive-displacement pumps",
+            "move fluid using",
+            "rotary vane pumps"
+        ],
+        [
+            "Rotary gear pump",
+            "applies the principle of",
+            "Positive-displacement pumps"
+        ],
+        [
+            "impulse pump",
+            "use pressure created by",
+            "water"
+        ],
+        [
+            "drilling mud",
+            "carries",
+            "cuttings"
+        ],
+        [
+            "Flexible impeller pump",
+            "applies the principle of",
+            "Positive-displacement pumps"
+        ],
+        [
+            "flow controller (FIC)",
+            "actuates",
+            "flow control valve (FCV)"
+        ],
+        [
+            "mechanical pumps",
+            "classified by",
+            "centrifugal pumps"
+        ],
+        [
+            "Progressive cavity pumps",
+            "are well suited to pump",
+            "slurries"
+        ],
+        [
+            "positive-displacement pumps",
+            "use",
+            "expanding cavity"
+        ],
+        [
+            "lobe pump",
+            "has",
+            "helical rotors"
+        ],
+        [
+            "mining",
+            "is an industry served by",
+            "Progressive cavity pumps"
+        ],
+        [
+            "pump ripple",
+            "is smoothed by",
+            "pulsation dampener"
+        ],
+        [
+            "pumping configuration",
+            "imparts work on",
+            "fluid"
+        ],
+        [
+            "quad",
+            "has",
+            "cylinder"
+        ],
+        [
+            "biology",
+            "includes",
+            "biomechanical pumps"
+        ],
+        [
+            "reciprocating plunger",
+            "retracts and opens",
+            "suction valves"
+        ],
+        [
+            "pump",
+            "can be",
+            "duplex"
+        ],
+        [
+            "Velocity pumps",
+            "include",
+            "Rotodynamic pumps"
+        ],
+        [
+            "mechanical pumps",
+            "classified by",
+            "gravity pumps"
+        ],
+        [
+            "gastrointestinal diseases",
+            "might be caused by",
+            "water-borne diseases"
+        ],
+        [
+            "flow measuring device (FE)",
+            "provides signal to",
+            "flow controller (FIC)"
+        ],
+        [
+            "fluid",
+            "enters",
+            "delivery pipe"
+        ],
+        [
+            "Hydraulic pump",
+            "applies the principle of",
+            "Positive-displacement pumps"
+        ],
+        [
+            "mechanical pumps",
+            "classified by",
+            "positive-displacement"
+        ],
+        [
+            "double-acting",
+            "has",
+            "suction"
+        ],
+        [
+            "Gear pump",
+            "is used in",
+            "Hydraulic power packs"
+        ],
+        [
+            "motor",
+            "provides",
+            "mechanical energy"
+        ],
+        [
+            "minimum flow protection",
+            "prevents",
+            "seal failure"
+        ],
+        [
+            "peristaltic pump",
+            "contains",
+            "flexible tube"
+        ],
+        [
+            "peristalsis",
+            "is used in",
+            "biological systems"
+        ],
+        [
+            "pump",
+            "powered by",
+            "belt"
+        ],
+        [
+            "regenerative turbine pump",
+            "operates at",
+            "high head pressures"
+        ],
+        [
+            "multiphase pumps",
+            "can encounter a large variation in service conditions such as",
+            "abrasive media"
+        ],
+        [
+            "medical industry",
+            "uses",
+            "artificial replacements"
+        ],
+        [
+            "pumping power",
+            "is calculated using",
+            "Q"
+        ],
+        [
+            "particles",
+            "causing",
+            "jamming"
+        ],
+        [
+            "mechanical seals",
+            "can encounter a large variation in service conditions such as",
+            "process fluid composition"
+        ],
+        [
+            "rotor",
+            "causes",
+            "compression"
+        ],
+        [
+            "positive-displacement pumps",
+            "can be described as",
+            "self-priming"
+        ],
+        [
+            "multiphase pumps",
+            "can encounter a large variation in service conditions such as",
+            "operating pressures"
+        ],
+        [
+            "Diaphragm pump",
+            "applies the principle of",
+            "Positive-displacement pumps"
+        ],
+        [
+            "Δp",
+            "is calculated as",
+            "Δz"
+        ],
+        [
+            "gravity pumps",
+            "include",
+            "syphon"
+        ],
+        [
+            "plunger",
+            "pressurizes",
+            "hydraulic oil"
+        ],
+        [
+            "intake tubing",
+            "is capable of drawing",
+            "vacuum"
+        ],
+        [
+            "rotary positive-displacement pumps",
+            "move fluid using",
+            "screw pumps"
+        ],
+        [
+            "Electric submersible pumps",
+            "are used in",
+            "oil well applications"
+        ],
+        [
+            "Gear pump",
+            "is used in",
+            "Car engine oil pumps"
+        ],
+        [
+            "moving parts",
+            "are between",
+            "housing"
+        ],
+        [
+            "pump",
+            "achieves",
+            "volumetric efficiency"
+        ],
+        [
+            "impeller",
+            "with",
+            "vanes"
+        ],
+        [
+            "volumetric efficiency",
+            "through",
+            "routine maintenance"
+        ],
+        [
+            "solids",
+            "causing",
+            "rapid wear"
+        ],
+        [
+            "triplex",
+            "has",
+            "cylinder"
+        ],
+        [
+            "centrifugal pumps",
+            "use",
+            "impeller"
+        ],
+        [
+            "inspection",
+            "of",
+            "valves"
+        ],
+        [
+            "jet",
+            "creates",
+            "low pressure"
+        ],
+        [
+            "decreasing cavity",
+            "on",
+            "discharge side"
+        ],
+        [
+            "ball bearings",
+            "improve reliability in",
+            "triplex pump"
+        ],
+        [
+            "drillers",
+            "use",
+            "quintuplex pumps"
+        ],
+        [
+            "return line",
+            "goes back to",
+            "supply tank"
+        ],
+        [
+            "mechanical action",
+            "is converted into",
+            "pneumatic energy"
+        ],
+        [
+            "progressing cavity pump",
+            "consists of",
+            "helical rotor"
+        ],
+        [
+            "drilling mud",
+            "cools",
+            "drill bit"
+        ],
+        [
+            "Progressive cavity pumps",
+            "serve industries and applications ranging from",
+            "Pulp and Paper"
+        ],
+        [
+            "rope pump",
+            "made from",
+            "pipe"
+        ],
+        [
+            "loss of prime",
+            "is due to",
+            "evaporation of the working fluid"
+        ],
+        [
+            "fluid flow",
+            "varies between maximum and zero in",
+            "plunger pumps"
+        ],
+        [
+            "applications",
+            "include",
+            "air conditioning systems"
+        ],
+        [
+            "high torque",
+            "associated with",
+            "pipe"
+        ],
+        [
+            "positive-displacement pumps",
+            "use",
+            "decreasing cavity"
+        ],
+        [
+            "energy",
+            "is wasted when",
+            "fluid"
+        ],
+        [
+            "pump",
+            "pumps",
+            "viscous fluids"
+        ],
+        [
+            "plunger pumps",
+            "with more plungers have smoother",
+            "fluid flow"
+        ],
+        [
+            "regenerative turbine pump",
+            "also known as",
+            "vortex pumps"
+        ],
+        [
+            "John Crane Inc.",
+            "has alliance with",
+            "refinery and chemical plants"
+        ],
+        [
+            "potential energy",
+            "is of",
+            "flow"
+        ],
+        [
+            "reciprocating positive-displacement pumps",
+            "move fluid using",
+            "membranes"
+        ],
+        [
+            "multi-stage pump",
+            "contains",
+            "double-stage"
+        ],
+        [
+            "liquid",
+            "flows into",
+            "suction side"
+        ],
+        [
+            "Airlift pumps",
+            "run on",
+            "hydraulic ram"
+        ],
+        [
+            "clearances",
+            "are insufficient for",
+            "compressible gas"
+        ],
+        [
+            "Δp",
+            "is calculated as",
+            "v1"
+        ],
+        [
+            "side-channel pump",
+            "has",
+            "suction disk"
+        ],
+        [
+            "mechanical pumps",
+            "classified by",
+            "valveless pumps"
+        ],
+        [
+            "Progressive cavity pumps",
+            "are well suited to pump",
+            "shear sensitive fluids"
+        ],
+        [
+            "NPSHa",
+            "must exceed",
+            "NPSHr"
+        ],
+        [
+            "Gordon Buck",
+            "examined repair records in",
+            "Baton Rouge, Louisiana"
+        ],
+        [
+            "Δp",
+            "is calculated as",
+            "Δp_static"
+        ],
+        [
+            "regenerative turbine pump",
+            "is a class of",
+            "rotodynamic pump"
+        ],
+        [
+            "Helico-axial pump",
+            "is often called",
+            "Poseidon pump"
+        ],
+        [
+            "pump efficiency",
+            "depends on",
+            "fluid density"
+        ],
+        [
+            "regenerative turbine pump",
+            "applied to",
+            "hot fluid"
+        ],
+        [
+            "stripper",
+            "isolates",
+            "cavity"
+        ],
+        [
+            "secondary pump",
+            "should be used until all air is removed from",
+            "suction line"
+        ],
+        [
+            "ceramic plungers",
+            "improve reliability in",
+            "triplex pump"
+        ],
+        [
+            "pumps",
+            "are used for",
+            "chemical movement"
+        ],
+        [
+            "Twin-screw pump",
+            "is a type of",
+            "positive-displacement"
+        ],
+        [
+            "diaphragm",
+            "in",
+            "pumping cylinder"
+        ],
+        [
+            "fluid",
+            "imparts work on",
+            "turbine"
+        ],
+        [
+            "rotary-type positive displacement",
+            "includes",
+            "helical twisted roots"
+        ],
+        [
+            "pump efficiency",
+            "depends on",
+            "rotational speed"
+        ],
+        [
+            "mechanical seals",
+            "can encounter a large variation in service conditions such as",
+            "abrasive media"
+        ],
+        [
+            "side-channel pump",
+            "has",
+            "impeller"
+        ],
+        [
+            "gravity pumps",
+            "lifted by",
+            "gravitational force"
+        ],
+        [
+            "medical industry",
+            "uses",
+            "biochemical processes"
+        ],
+        [
+            "pumping direction",
+            "reversed by",
+            "regenerative turbine pump"
+        ],
+        [
+            "mechanical seals",
+            "can encounter a large variation in service conditions such as",
+            "operating pressures"
+        ],
+        [
+            "applications",
+            "include",
+            "water"
+        ],
+        [
+            "mixed-flow pumps",
+            "delivering higher discharges than",
+            "radial-flow pumps"
+        ],
+        [
+            "relief valve",
+            "is on",
+            "discharge side"
+        ],
+        [
+            "steam pump",
+            "include",
+            "pistonless pumps"
+        ]
+    ],
+    "entity_clusters": null,
+    "edge_clusters": null
+}
