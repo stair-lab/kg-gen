@@ -198,8 +198,13 @@ def retrieve_articles_for_split(split_name: Literal["train", "test", "validation
 
 # ------
 # Remove rows where the article doesn't contain the correct answer
-
-dspy.configure(lm=dspy.LM(model="openai/gpt-4o"))
+lm = dspy.LM(
+    "gemini/gemini-2.5-flash-preview-04-17",
+    api_key=os.getenv("GOOGLE_API_KEY"),
+    temperature=0,
+    max_tokens=1000000,
+)
+dspy.configure(lm=lm)
 
 
 class ArticleNoAnswer(dspy.Signature):
@@ -238,22 +243,25 @@ def clean_rows_article_no_response(split_name: Literal["train", "test", "validat
                 with open(article_path, "r") as f:
                     article_text = f.read()
                 predict = dspy.Predict(ArticleNoAnswer)
-                result = predict(
-                    question=q,
-                    article_title=document_title,
-                    article=article_text,
-                    correct_answer=a,
-                )
-                print(
-                    f"Q: {q} -- A: {a} -- has_answer: {result.does_article_contain_answer}"
-                )
-                if result.does_article_contain_answer:
-                    return row
+                try:
+                    result = predict(
+                        question=q,
+                        article_title=document_title,
+                        article=article_text,
+                        correct_answer=a,
+                    )
+                    print(
+                        f"Q: {q} -- A: {a} -- has_answer: {result.does_article_contain_answer}"
+                    )
+                    if result.does_article_contain_answer:
+                        return row
+                except Exception as e:
+                    print(f"Error predicting for {document_title}: {e}")
             else:
                 print(f"Article file not found for: {document_title}")
         return None
 
-    with ThreadPoolExecutor(max_workers=5) as executor:
+    with ThreadPoolExecutor(max_workers=10) as executor:
         # increase if bigger openai rate limits
         results = list(executor.map(process_row, [row for _, row in df.iterrows()]))
 
@@ -305,6 +313,11 @@ def generate_kg_from_clean_dataset(split_name: Literal["train", "test", "validat
 
 
 if __name__ == "__main__":
-    # retrieve_articles_for_split("test")
-    # clean_rows_article_no_response("test")
-    generate_kg_from_clean_dataset("test")
+    splits = ["train", "test", "validation"]
+    for split in splits:
+        # TODO: cache if files already exist, don't execute
+        retrieve_articles_for_split(split)
+        clean_rows_article_no_response(split)
+
+    # generate_kg_from_clean_dataset("train")
+    # generate_kg_from_clean_dataset("test")
