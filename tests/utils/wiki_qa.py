@@ -281,7 +281,9 @@ def clean_rows_article_no_response(split_name: Literal["train", "test", "validat
 # Generate a KG from the cleaned dataset
 
 
-def generate_kg_from_clean_dataset(split_name: Literal["train", "test", "validation"], thread_count: int = 1):
+def generate_kg_from_clean_dataset(
+    split_name: Literal["train", "test", "validation"], thread_count: int = 1
+):
     csv_path = os.path.join(BASE_CSV_PATH, f"{split_name}_clean_2.csv")
     df = pd.read_csv(csv_path)
     kg = KGGen()
@@ -298,6 +300,13 @@ def generate_kg_from_clean_dataset(split_name: Literal["train", "test", "validat
         )
         if os.path.exists(article_path):
             try:
+                output_kg_path = os.path.join(
+                    OUTPUT_KG_DIR, f"{sanitize_filename(title)}.json"
+                )
+                if os.path.exists(output_kg_path):
+                    print(f"KG already exists for '{title}'")
+                    return {"status": "skipped", "title": title}
+
                 with open(article_path, "r") as f:
                     article = f.read()
 
@@ -307,9 +316,8 @@ def generate_kg_from_clean_dataset(split_name: Literal["train", "test", "validat
                     api_key=os.getenv("GEMINI_API_KEY"),
                     chunk_size=2048,
                 )
-                output_kg_path = os.path.join(
-                    OUTPUT_KG_DIR, f"{sanitize_filename(title)}.json"
-                )
+                # print("graph_chunked", graph_chunked)
+                
 
                 with open(output_kg_path, "w") as f:
                     f.write(graph_chunked.model_dump_json(indent=4))
@@ -369,4 +377,4 @@ if __name__ == "__main__":
     #     clean_rows_article_no_response(split)
 
     for split in ["test"]:
-        generate_kg_from_clean_dataset(split)
+        generate_kg_from_clean_dataset(split, thread_count=1)

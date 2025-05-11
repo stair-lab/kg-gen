@@ -21,6 +21,7 @@ def get_entities(dspy: dspy.dspy, input_data: str, is_conversation: bool = False
     extract = dspy.Predict(ConversationEntities)
   else:
     extract = dspy.Predict(TextEntities)
+    # print("input_data", input_data, "extract", extract)
     
   result = extract(source_text=input_data)
   return result.entities

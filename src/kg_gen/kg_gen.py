@@ -54,7 +54,7 @@ class KGGen:
       
     # Initialize dspy LM with current settings
     if self.api_key:
-      self.lm = dspy.LM(model=self.model, api_key=self.api_key, temperature=self.temperature)
+      self.lm = dspy.LM(model=self.model, api_key=self.api_key, temperature=self.temperature, max_tokens=20000)
     else:
       self.lm = dspy.LM(model=self.model, temperature=self.temperature)
       
