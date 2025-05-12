@@ -73,8 +73,8 @@ class KGGen:
     chunk_size: Optional[int] = None,
     cluster: bool = False,
     temperature: float = None,
-    # node_labels: Optional[List[str]] = None,
-    # edge_labels: Optional[List[str]] = None,
+    node_labels: Optional[List[str]] = None,
+    edge_labels: Optional[List[str]] = None,
     # ontology: Optional[List[Tuple[str, str, str]]] = None,
     output_folder: Optional[str] = None
   ) -> Graph:
@@ -119,18 +119,48 @@ class KGGen:
         api_key=api_key or self.api_key
       )
     
+    # --- BEGIN MODIFICATION: Load node and edge labels if not provided ---
+    current_node_labels = node_labels
+    current_edge_labels = edge_labels
+    config_path = os.path.join(os.path.dirname(__file__), 'config', 'dbpedia_types_subset.json')
+
+    if current_node_labels is None or current_edge_labels is None:
+        if os.path.exists(config_path):
+            try:
+                with open(config_path, 'r') as f:
+                    data = json.load(f)
+                if current_node_labels is None:
+                    current_node_labels = data.get('node_types', [])
+                if current_edge_labels is None:
+                    current_edge_labels = data.get('edge_types', [])
+            except (json.JSONDecodeError, IOError) as e:
+                print(f"[KGGen.generate] Warning: Could not load types from {config_path}. Error: {e}")
+                if current_node_labels is None:
+                    current_node_labels = []
+                if current_edge_labels is None:
+                    current_edge_labels = []
+        else:
+            print(f"[KGGen.generate] Warning: Config file not found at {config_path}. Using empty lists for labels if not provided.")
+            if current_node_labels is None:
+                current_node_labels = []
+            if current_edge_labels is None:
+                current_edge_labels = []
+    # --- END MODIFICATION ---
+    
     if not chunk_size:
-      entities = get_entities(self.dspy, processed_input, is_conversation=is_conversation)
-      relations = get_relations(self.dspy, processed_input, entities, is_conversation=is_conversation)
+      entities = get_entities(self.dspy, processed_input, is_conversation=is_conversation, node_labels=current_node_labels)
+      relations = get_relations(self.dspy, processed_input, entities, is_conversation=is_conversation, edge_labels=current_edge_labels)
     else:
       chunks = chunk_text(processed_input, chunk_size)
       entities = set()
       relations = set()
 
+      # --- BEGIN MODIFICATION: Pass labels to process_chunk ---
       def process_chunk(chunk):
-        chunk_entities = get_entities(self.dspy, chunk, is_conversation=is_conversation)
-        chunk_relations = get_relations(self.dspy, chunk, chunk_entities, is_conversation=is_conversation)
+        chunk_entities = get_entities(self.dspy, chunk, is_conversation=is_conversation, node_labels=current_node_labels)
+        chunk_relations = get_relations(self.dspy, chunk, chunk_entities, is_conversation=is_conversation, edge_labels=current_edge_labels)
         return chunk_entities, chunk_relations
+      # --- END MODIFICATION ---
 
       # Process chunks in parallel using ThreadPoolExecutor
       with ThreadPoolExecutor() as executor:
