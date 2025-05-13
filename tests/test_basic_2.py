@@ -16,7 +16,7 @@ if __name__ == "__main__":
   # Generate individual graphs
   graph1 = kg.generate(
     input_data=text1,
-    model="openai/gpt-4o",
+    model="ollama_chat/llama3:8b",
     context="Family relationships"
   )
   

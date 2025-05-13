@@ -1,8 +1,8 @@
-**_packaging_tutorial**
+**_packaging_tutorial
 **__pycache__
 *.py[cod]
 *$py.class
-**scratch**
+**scratch
 **.env
 **venv
 **.DS_Store

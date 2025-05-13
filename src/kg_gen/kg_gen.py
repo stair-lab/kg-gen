@@ -81,8 +81,10 @@ class KGGen:
     chunk_size: Optional[int] = None,
     cluster: bool = False,
     temperature: float = None,
-    # node_labels: Optional[List[str]] = None,
-    # edge_labels: Optional[List[str]] = None,
+    node_type: Optional[List[str]] = None,
+    edge_type: Optional[List[str]] = None,
+    require_node_type: bool = True,
+    require_edge_type: bool = True,
     # ontology: Optional[List[Tuple[str, str, str]]] = None,
     output_folder: Optional[str] = None
   ) -> Graph:
@@ -95,8 +97,10 @@ class KGGen:
         chunk_size: Max size of text chunks in characters to process
         context: Description of data context
         example_relations: Example relationship tuples
-        node_labels: Valid node label strings
-        edge_labels: Valid edge label strings
+        node_type: List of allowed node types
+        edge_type: List of allowed edge types
+        require_node_type: Whether every node must have one of the specified types (default True)
+        require_edge_type: Whether every edge must have one of the specified types (default True)
         ontology: Valid node-edge-node structure tuples
         output_folder: Path to save partial progress
 
@@ -128,35 +132,125 @@ class KGGen:
         api_key=api_key or self.api_key,
         api_base=api_base or self.api_base,
       )
+    
+    # Initialize type maps
+    entity_types_map = None
+    edge_types_map = None
 
     if not chunk_size:
-      entities = get_entities(self.dspy, processed_input, is_conversation=is_conversation)
-      relations = get_relations(self.dspy, processed_input, entities, is_conversation=is_conversation)
+      # Process without chunking
+      entities_result = get_entities(
+        self.dspy, 
+        processed_input, 
+        is_conversation=is_conversation,
+        node_types=node_type,
+        require_node_type=require_node_type
+      )
+      
+      # Unpack results - entities_result is a tuple of (entities_list, entity_types_dict)
+      if isinstance(entities_result, tuple) and len(entities_result) == 2:
+        entities, entity_types_map = entities_result
+      else:
+        entities = entities_result
+        entity_types_map = None
+        
+      # Get relations with edge types if specified
+      relations_result = get_relations(
+        self.dspy, 
+        processed_input, 
+        entities, 
+        is_conversation=is_conversation,
+        edge_types=edge_type,
+        require_edge_type=require_edge_type
+      )
+      
+      # Unpack relations results
+      if isinstance(relations_result, tuple) and len(relations_result) == 2:
+        relations, edge_types_map = relations_result
+      else:
+        relations = relations_result
+        edge_types_map = None
+        
     else:
+      # Process with chunking
       chunks = chunk_text(processed_input, chunk_size)
       entities = set()
       relations = set()
+      
+      # Initialize type dictionaries
+      all_entity_types = {}
+      all_edge_types = {}
 
       def process_chunk(chunk):
-        chunk_entities = get_entities(self.dspy, chunk, is_conversation=is_conversation)
-        chunk_relations = get_relations(self.dspy, chunk, chunk_entities, is_conversation=is_conversation)
-        return chunk_entities, chunk_relations
+        # Get entities with types
+        entities_result = get_entities(
+          self.dspy, 
+          chunk, 
+          is_conversation=is_conversation,
+          node_types=node_type,
+          require_node_type=require_node_type
+        )
+        
+        # Unpack entity results
+        if isinstance(entities_result, tuple) and len(entities_result) == 2:
+          chunk_entities, chunk_entity_types = entities_result
+        else:
+          chunk_entities = entities_result
+          chunk_entity_types = None
+          
+        # Get relations with types
+        relations_result = get_relations(
+          self.dspy, 
+          chunk, 
+          chunk_entities, 
+          is_conversation=is_conversation,
+          edge_types=edge_type,
+          require_edge_type=require_edge_type
+        )
+        
+        # Unpack relation results
+        if isinstance(relations_result, tuple) and len(relations_result) == 2:
+          chunk_relations, chunk_edge_types = relations_result
+        else:
+          chunk_relations = relations_result
+          chunk_edge_types = None
+          
+        return chunk_entities, chunk_relations, chunk_entity_types, chunk_edge_types
 
       # Process chunks in parallel using ThreadPoolExecutor
       with ThreadPoolExecutor() as executor:
         results = list(executor.map(process_chunk, chunks))
 
       # Combine results
-      for chunk_entities, chunk_relations in results:
+      for chunk_entities, chunk_relations, chunk_entity_types, chunk_edge_types in results:
         entities.update(chunk_entities)
         relations.update(chunk_relations)
-
-    graph = Graph(
-      entities = entities,
-      relations = relations,
-      edges = {relation[1] for relation in relations}
-    )
-
+        
+        # Update type dictionaries if they exist
+        if chunk_entity_types:
+          all_entity_types.update(chunk_entity_types)
+        if chunk_edge_types:
+          all_edge_types.update(chunk_edge_types)
+          
+      # Set the combined type maps
+      entity_types_map = all_entity_types if all_entity_types else None
+      edge_types_map = all_edge_types if all_edge_types else None
+    
+    # Create graph with type information if available
+    graph_args = {
+      "entities": entities,
+      "relations": relations,
+      "edges": {relation[1] for relation in relations}
+    }
+    
+    # Add type information if available
+    if entity_types_map:
+      graph_args["entity_types"] = entity_types_map
+    if edge_types_map:
+      graph_args["edge_types"] = edge_types_map
+      
+    graph = Graph(**graph_args)
+    
     if cluster:
       graph = self.cluster(graph, context)
 
@@ -169,7 +263,19 @@ class KGGen:
         'relations': list(relations),
         'edges': list(graph.edges)
       }
-
+      
+      # Include entity and edge type information if available
+      if hasattr(graph, 'entity_types') and graph.entity_types:
+        graph_dict['entity_types'] = graph.entity_types
+      if hasattr(graph, 'edge_types') and graph.edge_types:
+        graph_dict['edge_types'] = graph.edge_types
+      
+      # Include clustering information if available
+      if hasattr(graph, 'entity_clusters') and graph.entity_clusters:
+        graph_dict['entity_clusters'] = {rep: list(cluster) for rep, cluster in graph.entity_clusters.items()}
+      if hasattr(graph, 'edge_clusters') and graph.edge_clusters:
+        graph_dict['edge_clusters'] = {rep: list(cluster) for rep, cluster in graph.edge_clusters.items()}
+      
       with open(output_path, 'w') as f:
         json.dump(graph_dict, f, indent=2)
 

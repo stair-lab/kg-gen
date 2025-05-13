@@ -1,5 +1,5 @@
 from pydantic import BaseModel, Field
-from typing import Tuple, Optional
+from typing import Tuple, Optional, Dict, List
 
 # ~~~ DATA STRUCTURES ~~~
 class Graph(BaseModel):
@@ -8,3 +8,5 @@ class Graph(BaseModel):
   relations: set[Tuple[str, str, str]] = Field(..., description="List of (subject, predicate, object) triples")
   entity_clusters: Optional[dict[str, set[str]]] = None
   edge_clusters: Optional[dict[str, set[str]]] = None
+  entity_types: Optional[Dict[str, str]] = None  # Maps entity -> type
+  edge_types: Optional[Dict[str, str]] = None    # Maps edge -> type

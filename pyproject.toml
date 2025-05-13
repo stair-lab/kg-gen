@@ -1,6 +1,6 @@
 [project]
 name = "kg-gen"
-version = "0.1.6"
+version = "0.1.7"
 authors = [
   { name="Belinda Mo", email="justanexperimentpark@gmail.com" },
 ]
