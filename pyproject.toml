@@ -19,7 +19,9 @@ dependencies = [
     "dspy==2.6.24",
     "nltk",
     "pydantic>=2.0.0",
-    "openai==1.61.0"
+    "openai==1.61.0",
+    "langchain==0.1.20",
+    "langchain-openai==0.1.6"
 ]
 
 [project.optional-dependencies]
