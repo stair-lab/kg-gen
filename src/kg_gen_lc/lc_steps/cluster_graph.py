@@ -1,4 +1,4 @@
-from ..models import Graph
+from kg_gen.models import Graph
 from ..langchain_runner import LangChainRunner
 from typing import Optional
 from pydantic import BaseModel

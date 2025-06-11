@@ -7,8 +7,8 @@ from .langchain_runner import LangChainRunner
 from .lc_steps.get_entities import get_entities
 from .lc_steps.get_relations import get_relations
 from .lc_steps.cluster_graph import cluster_graph
-from .utils.chunk_text import chunk_text
-from .models import Graph
+from kg_gen.utils.chunk_text import chunk_text
+from kg_gen.models import Graph
 
 
 class KGGenLangChain:
