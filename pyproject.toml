@@ -1,6 +1,6 @@
 [project]
 name = "kg-gen"
-version = "0.1.6"
+version = "0.2.1"
 authors = [
   { name="Belinda Mo", email="justanexperimentpark@gmail.com" },
 ]
@@ -16,15 +16,30 @@ classifiers = [
 ]
 license = "MIT"
 dependencies = [
-    "dspy==2.6.24",
+    "dspy>=2.6.24",
     "nltk",
     "pydantic>=2.0.0",
-    "openai==1.61.0"
+    "openai>=1.61.0"
 ]
 
 [project.optional-dependencies]
 dev = [
     "pyvis==0.3.2"
+]
+
+# Latest versions
+latest = [
+    "dspy>=3.0.2",
+    "openai>=1.101.0",
+]
+
+# Latest versions
+vllm = [
+    "dspy>=3.0.2",
+    "fastapi-sso>=0.16.0",
+    "litellm[proxy]>=1.75.9",
+    "openai>=1.101.0",
+    "vllm>=0.10.1.1",
 ]
 
 [project.urls]

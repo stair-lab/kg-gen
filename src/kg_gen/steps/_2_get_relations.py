@@ -46,7 +46,7 @@ def fallback_extraction_sig(entities, is_conversation, context: str = "") -> dsp
   return Relation, extraction_sig(Relation, is_conversation, context)
   
 
-def get_relations(dspy: dspy.dspy, input_data: str, entities: list[str], is_conversation: bool = False, context: str = "") -> List[str]:
+def get_relations(dspy: dspy, input_data: str, entities: list[str], is_conversation: bool = False, context: str = "") -> List[str]:
 
   class Relation(BaseModel):
     """Knowledge graph subject-predicate-object tuple."""

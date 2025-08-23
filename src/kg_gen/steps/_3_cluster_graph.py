@@ -23,7 +23,7 @@ class Cluster(BaseModel):
   representative: str
   members: set[str]
 
-def cluster_items(dspy: dspy.dspy, items: set[str], item_type: ItemType = "entities", context: str = "") -> tuple[set[str], dict[str, set[str]]]:
+def cluster_items(dspy: dspy, items: set[str], item_type: ItemType = "entities", context: str = "") -> tuple[set[str], dict[str, set[str]]]:
   """Returns item set and cluster dict mapping representatives to sets of items"""
   
   context = f"{item_type} of a graph extracted from source text." + context
@@ -209,7 +209,7 @@ def cluster_items(dspy: dspy.dspy, items: set[str], item_type: ItemType = "entit
   
   return new_items, final_clusters_dict
 
-def cluster_graph(dspy: dspy.dspy, graph: Graph, context: str = "") -> Graph:
+def cluster_graph(dspy: dspy, graph: Graph, context: str = "") -> Graph:
   """Cluster entities and edges in a graph, updating relations accordingly.
   
   Args:

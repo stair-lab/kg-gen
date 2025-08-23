@@ -16,7 +16,7 @@ class ConversationEntities(dspy.Signature):
   source_text: str = dspy.InputField()
   entities: list[str] = dspy.OutputField(desc="THOROUGH list of key entities")
 
-def get_entities(dspy: dspy.dspy, input_data: str, is_conversation: bool = False) -> List[str]:
+def get_entities(dspy: dspy, input_data: str, is_conversation: bool = False) -> List[str]:
   if is_conversation:
     extract = dspy.Predict(ConversationEntities)
   else:
