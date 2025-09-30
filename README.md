@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/stair-lab-kg-gen-badge.png)](https://mseep.ai/app/stair-lab-kg-gen)
+
 # kg-gen: Knowledge Graph Generation from Any Text
 
 📄 [**Paper**](https://arxiv.org/abs/2502.09956) | 🐍 [**Package**](https://pypi.org/project/kg-gen/) | 🤖 [**MCP**](mcp/) | 🔬 [**Experiments**](experiments/)
