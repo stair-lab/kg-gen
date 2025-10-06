@@ -290,8 +290,8 @@ def visualize(
     # Make sidebar visible for standalone mode by removing display: none
     # display none must be set to prevent flicker when loading in main app
     html = html.replace(
-        'display: none; /* Hidden by default - controlled by main app */',
-        'display: block; /* Visible in standalone mode */'
+        "display: none; /* Hidden by default - controlled by main app */",
+        "display: block; /* Visible in standalone mode */",
     )
 
     destination = Path(output_path or "graph-visualization.html").resolve()

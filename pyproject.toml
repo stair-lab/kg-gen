@@ -32,14 +32,12 @@ dev = [
     "huggingface-hub>=0.35.0",
     "pytest>=8.4.2",
     "pytest-asyncio>=0.21.0",
+    "ruff>=0.13.3",
     "sentence-transformers>=5.1.0",
     "typer>=0.17.4",
     "wikipedia-api>=0.8.1",
 ]
-mcp = [
-    "fastmcp>=2.10.6",
-    "mcp>=1.12.1",
-]
+mcp = ["fastmcp>=2.10.6", "mcp>=1.12.1"]
 
 [project.scripts]
 kggen = "kg_gen.cli:main"
