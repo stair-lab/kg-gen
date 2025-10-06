@@ -29,11 +29,18 @@ dependencies = [
 [dependency-groups]
 dev = [
     "datasets>=4.1.1",
+    "faiss-cpu>=1.12.0",
     "huggingface-hub>=0.35.0",
+    "networkx>=3.4.2",
     "pytest>=8.4.2",
     "pytest-asyncio>=0.21.0",
+    "python-dotenv>=1.1.1",
+    "rank-bm25>=0.2.2",
     "ruff>=0.13.3",
+    "scikit-learn>=1.7.2",
+    "scipy>=1.15.3",
     "sentence-transformers>=5.1.0",
+    "tqdm>=4.67.1",
     "typer>=0.17.4",
     "wikipedia-api>=0.8.1",
 ]

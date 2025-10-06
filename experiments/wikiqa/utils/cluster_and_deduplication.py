@@ -1,9 +1,6 @@
 import sys
 import os
 
-# Add the project root to sys.path
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "../../")))
-
 import json
 import os
 from typing import Tuple
@@ -13,8 +10,11 @@ from sentence_transformers import SentenceTransformer
 from rank_bm25 import BM25Okapi
 from sklearn.metrics.pairwise import cosine_similarity
 from dotenv import load_dotenv
+import sys
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "../../../")))
 
 load_dotenv()
+
 import logging
 from pathlib import Path
 from src.kg_gen import Graph
@@ -24,6 +24,8 @@ import faiss
 import numpy as np
 from scipy.spatial.distance import cdist
 import time
+from contextlib import contextmanager
+from collections import defaultdict
 
 
 # Set up logging safely
@@ -36,16 +38,78 @@ if not logger.hasHandlers():
     logger.addHandler(handler)
 
 
+# Benchmarking utilities
+class BenchmarkTimer:
+    """Track timing statistics for different operations"""
+    def __init__(self):
+        self.timings = defaultdict(list)
+        self.counters = defaultdict(int)
+    
+    @contextmanager
+    def measure(self, operation_name):
+        """Context manager to measure time of an operation"""
+        start = time.perf_counter()
+        yield
+        elapsed = time.perf_counter() - start
+        self.timings[operation_name].append(elapsed)
+        self.counters[operation_name] += 1
+    
+    def get_stats(self, operation_name):
+        """Get statistics for a specific operation"""
+        times = self.timings[operation_name]
+        if not times:
+            return None
+        return {
+            "count": len(times),
+            "total": sum(times),
+            "mean": sum(times) / len(times),
+            "min": min(times),
+            "max": max(times),
+            "median": sorted(times)[len(times) // 2]
+        }
+    
+    def print_summary(self):
+        """Print a summary of all timing statistics"""
+        print("\n" + "="*80)
+        print("PERFORMANCE BENCHMARK SUMMARY")
+        print("="*80)
+        
+        # Sort by total time descending
+        sorted_ops = sorted(
+            self.timings.items(), 
+            key=lambda x: sum(x[1]), 
+            reverse=True
+        )
+        
+        for op_name, times in sorted_ops:
+            stats = self.get_stats(op_name)
+            print(f"\n{op_name}:")
+            print(f"  Count:      {stats['count']:,}")
+            print(f"  Total:      {stats['total']:.2f}s")
+            print(f"  Mean:       {stats['mean']:.4f}s")
+            print(f"  Median:     {stats['median']:.4f}s")
+            print(f"  Min:        {stats['min']:.4f}s")
+            print(f"  Max:        {stats['max']:.4f}s")
+        
+        print("\n" + "="*80)
+
+
+# Global benchmark timer
+benchmark = BenchmarkTimer()
+
+
 class KGAssistedRAG:
     def __init__(self, kg_path: str, output_folder: str):
         """
         Initialize KG-assisted RAG with cached embeddings, BM25 tokens, and text chunk store.
         """
+        init_start = time.perf_counter()
         self.output_folder = output_folder
         load_dotenv()
 
-        with open(kg_path, "r", encoding="utf-8") as f:
-            kg_data = json.load(f)
+        with benchmark.measure("init_load_kg_json"):
+            with open(kg_path, "r", encoding="utf-8") as f:
+                kg_data = json.load(f)
 
         self.kg = kg_data
         self.nodes: list[str] = kg_data.get("entities")
@@ -76,12 +140,14 @@ class KGAssistedRAG:
         # Check if cached node embeddings exist
         if os.path.exists(node_embeddings_cache_path):
             print(f"Loading node embeddings from cache: {node_embeddings_cache_path}")
-            self.node_embeddings = np.load(node_embeddings_cache_path)
+            with benchmark.measure("init_load_node_embeddings"):
+                self.node_embeddings = np.load(node_embeddings_cache_path)
         else:
             print("Generating node embeddings...")
-            self.node_embeddings = self.node_encoder.encode(
-                self.nodes, show_progress_bar=True
-            )
+            with benchmark.measure("init_generate_node_embeddings"):
+                self.node_embeddings = self.node_encoder.encode(
+                    self.nodes, show_progress_bar=True
+                )
             # Save embeddings to cache
             np.save(node_embeddings_cache_path, self.node_embeddings)
             print(f"Saved node embeddings to cache: {node_embeddings_cache_path}")
@@ -118,12 +184,14 @@ class KGAssistedRAG:
         # Check if cached edge embeddings exist
         if os.path.exists(edge_embeddings_cache_path):
             print(f"Loading edge embeddings from cache: {edge_embeddings_cache_path}")
-            self.edge_embeddings = np.load(edge_embeddings_cache_path)
+            with benchmark.measure("init_load_edge_embeddings"):
+                self.edge_embeddings = np.load(edge_embeddings_cache_path)
         else:
             print("Generating edge embeddings...")
-            self.edge_embeddings = self.edge_encoder.encode(
-                self.edges, show_progress_bar=True
-            )
+            with benchmark.measure("init_generate_edge_embeddings"):
+                self.edge_embeddings = self.edge_encoder.encode(
+                    self.edges, show_progress_bar=True
+                )
             # Save embeddings to cache
             np.save(edge_embeddings_cache_path, self.edge_embeddings)
             print(f"Saved edge embeddings to cache: {edge_embeddings_cache_path}")
@@ -143,6 +211,9 @@ class KGAssistedRAG:
 
         # Always rebuild BM25 from tokens
         self.edge_bm25 = BM25Okapi(self.edge_bm25_tokenized)
+        
+        init_elapsed = time.perf_counter() - init_start
+        print(f"\n✓ Initialization completed in {init_elapsed:.2f}s ({init_elapsed/60:.2f} min)")
 
     def get_relevant_items(
         self, query: str, top_k: int = 50, type: str = "node"
@@ -150,30 +221,35 @@ class KGAssistedRAG:
         """
         Use rank fusion of BM25 + embedding to retrieve top-k nodes.
         """
-        query_tokens = query.lower().split()
+        with benchmark.measure(f"get_relevant_items_{type}"):
+            query_tokens = query.lower().split()
 
-        # BM25
-        bm25_scores = (
-            self.node_bm25.get_scores(query_tokens)
-            if type == "node"
-            else self.edge_bm25.get_scores(query_tokens)
-        )
+            # BM25
+            with benchmark.measure(f"retrieval_bm25_{type}"):
+                bm25_scores = (
+                    self.node_bm25.get_scores(query_tokens)
+                    if type == "node"
+                    else self.edge_bm25.get_scores(query_tokens)
+                )
 
-        # Embedding
-        encoder = self.node_encoder if type == "node" else self.edge_encoder
-        query_embedding = encoder.encode([query], show_progress_bar=False)
-        embeddings = self.node_embeddings if type == "node" else self.edge_embeddings
-        embedding_scores = cosine_similarity(query_embedding, embeddings).flatten()
+            # Embedding
+            with benchmark.measure(f"retrieval_embedding_{type}"):
+                encoder = self.node_encoder if type == "node" else self.edge_encoder
+                query_embedding = encoder.encode([query], show_progress_bar=False)
+                embeddings = self.node_embeddings if type == "node" else self.edge_embeddings
+                embedding_scores = cosine_similarity(query_embedding, embeddings).flatten()
 
-        # Rank fusion (equal weighting)
-        combined_scores = 0.5 * bm25_scores + 0.5 * embedding_scores
-        top_indices = np.argsort(combined_scores)[::-1][:top_k]
-        items = self.nodes if type == "node" else self.edges
-        top_items = [items[i] for i in top_indices]
+            # Rank fusion (equal weighting)
+            with benchmark.measure(f"retrieval_fusion_{type}"):
+                combined_scores = 0.5 * bm25_scores + 0.5 * embedding_scores
+                top_indices = np.argsort(combined_scores)[::-1][:top_k]
+                items = self.nodes if type == "node" else self.edges
+                top_items = [items[i] for i in top_indices]
 
-        return top_items
+            return top_items
 
     def cluster(self):
+        cluster_start = time.perf_counter()
         cluster_size = 128
 
         embedding_sets = {"node": self.node_embeddings, "edge": self.edge_embeddings}
@@ -206,13 +282,17 @@ class KGAssistedRAG:
             d = embeddings.shape[1]
             num_clusters = len(embeddings) // cluster_size
 
-            kmeans = faiss.Kmeans(d, num_clusters, niter=20, verbose=True, gpu=True)
-            kmeans.train(embeddings.astype(np.float32))
-            centroids = kmeans.centroids
+            with benchmark.measure(f"cluster_faiss_kmeans_{embedding_type}"):
+                kmeans = faiss.Kmeans(d, num_clusters, niter=20, verbose=True, gpu=False)
+                kmeans.train(embeddings.astype(np.float32))
+                centroids = kmeans.centroids
 
             # Step 2: Assign each point to nearest centroid (with 25 max per cluster)
-            distances = cdist(embeddings, centroids)  # (300000, num_clusters)
-            assignments = np.argsort(distances, axis=1)
+            with benchmark.measure(f"cluster_distance_calc_{embedding_type}"):
+                distances = cdist(embeddings, centroids)  # (300000, num_clusters)
+            
+            with benchmark.measure(f"cluster_assignment_{embedding_type}"):
+                assignments = np.argsort(distances, axis=1)
 
             # Initialize cluster tracking
             clusters = [[] for _ in range(num_clusters)]
@@ -279,10 +359,14 @@ class KGAssistedRAG:
                 json.dump(clusters_data, f, indent=4)
 
             print(f"{cluster_type.capitalize()} clusters saved to {clusters_path}")
+        
+        cluster_elapsed = time.perf_counter() - cluster_start
+        print(f"\n✓ Clustering completed in {cluster_elapsed:.2f}s ({cluster_elapsed/60:.2f} min)")
 
     def deduplicate_cluster(
         self, cluster: list[str], type: str = "node"
     ) -> tuple[set, dict[str, list[str]]]:
+        dedup_cluster_start = time.perf_counter()
         cluster = cluster.copy()
 
         items = set()
@@ -294,6 +378,7 @@ class KGAssistedRAG:
 
         processed_count = 0
         while len(cluster) > 0:
+            item_start = time.perf_counter()
             processed_count += 1
             item = cluster.pop()
 
@@ -301,7 +386,8 @@ class KGAssistedRAG:
                 f"[{processed_count}/{processed_count + len(cluster)}] Processing {singular_type}: '{item}'"
             )
 
-            relevant_items = self.get_relevant_items(item, 16, type)
+            with benchmark.measure(f"dedup_get_relevant_{type}"):
+                relevant_items = self.get_relevant_items(item, 16, type)
 
             print(f"  Found {len(relevant_items)} relevant {plural_type} for '{item}'")
             if len(relevant_items) > 0:
@@ -322,8 +408,9 @@ class KGAssistedRAG:
                     description=f"Best {singular_type} name to represent the duplicates, ideally from the {plural_type} set"
                 )
 
-            deduplicate = dspy.Predict(Deduplicate)
-            result = deduplicate(item=item, set=relevant_items)
+            with benchmark.measure(f"dedup_llm_call_{type}"):
+                deduplicate = dspy.Predict(Deduplicate)
+                result = deduplicate(item=item, set=relevant_items)
             items.add(result.alias)
 
             # Filter duplicates to only include those that exist in the cluster
@@ -341,14 +428,20 @@ class KGAssistedRAG:
             else:
                 print(f"  ✗ No duplicates found for '{item}', keeping as is")
                 item_clusters[item] = {item}
+            
+            item_elapsed = time.perf_counter() - item_start
+            benchmark.timings[f"dedup_per_item_{type}"].append(item_elapsed)
 
+        dedup_cluster_elapsed = time.perf_counter() - dedup_cluster_start
         print(
-            f"Deduplication complete: {len(items)} unique {plural_type} from original {processed_count}"
+            f"Deduplication complete: {len(items)} unique {plural_type} from original {processed_count} "
+            f"in {dedup_cluster_elapsed:.2f}s ({dedup_cluster_elapsed/60:.2f} min)"
         )
 
         return items, item_clusters
 
     def deduplicate(self) -> Graph:
+        dedup_start = time.perf_counter()
         lm = dspy.LM(
             model="gemini/gemini-2.0-flash", api_key=os.getenv("GOOGLE_API_KEY")
         )
@@ -522,6 +615,9 @@ class KGAssistedRAG:
             )
         logger.info(f"Saved deduplicated knowledge graph to {output_path}")
 
+        dedup_elapsed = time.perf_counter() - dedup_start
+        print(f"\n✓ Deduplication completed in {dedup_elapsed:.2f}s ({dedup_elapsed/60:.2f} min)")
+
         return deduped_kg
 
     def _save_intermediate_progress(
@@ -552,13 +648,7 @@ class KGAssistedRAG:
 if __name__ == "__main__":
     # Set paths
     kg_paths = [
-        # "tests/data/wiki_qa/aggregated/articles_1_kg.json",
-        # "tests/data/wiki_qa/aggregated/articles_40k_ch_kg.json",
-        # "tests/data/wiki_qa/aggregated/articles_400k_ch_kg.json",
-        "tests/data/wiki_qa/aggregated/articles_4m_ch_kg.json",
-        # "tests/data/wiki_qa/aggregated/articles_20m_ch_kg.json",
-        # "tests/data/wiki_qa/aggregated/articles_all_kg.json",
-        # "tests/data/wiki_qa/aggregated/articles_w_context_kg.json",
+        "experiments/wikiqa/utils/graph.json",
     ]
 
     for kg_path in kg_paths:
@@ -591,6 +681,10 @@ if __name__ == "__main__":
         print(
             f"\nProcessing time for {kg_path}: {elapsed_time:.2f} seconds ({elapsed_time / 60:.2f} minutes)"
         )
+        
+        # Print detailed benchmark summary
+        benchmark.print_summary()
+        
         # Log processing time to a separate log file
         log_dir = Path("logs")
         log_dir.mkdir(exist_ok=True)
@@ -602,3 +696,16 @@ if __name__ == "__main__":
             f.write(f"{kg_name},{elapsed_time:.2f},{elapsed_time / 60:.2f}\n")
 
         print(f"Processing time logged to {log_file}")
+        
+        # Save detailed benchmark data to JSON
+        benchmark_file = log_dir / f"{kg_name}_benchmark.json"
+        benchmark_data = {}
+        for op_name in benchmark.timings.keys():
+            stats = benchmark.get_stats(op_name)
+            if stats:
+                benchmark_data[op_name] = stats
+        
+        with open(benchmark_file, "w") as f:
+            json.dump(benchmark_data, f, indent=2)
+        
+        print(f"Detailed benchmark data saved to {benchmark_file}")

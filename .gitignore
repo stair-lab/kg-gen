@@ -21,3 +21,6 @@ experiments/MINE/answers.json
 experiments/MINE/essays.json
 Dockerfile
 .dockerignore
+experiments/wikiqa/utils/graph_deduplicated/
+experiments/wikiqa/utils/sample.txt
+experiments/wikiqa/utils/graph.json
