@@ -10,7 +10,7 @@ from typing import Any, Iterable
 import colorsys
 import webbrowser
 
-from ..models import Graph
+from kg_gen.models import Graph
 
 
 def _string_to_color(label: str) -> str:

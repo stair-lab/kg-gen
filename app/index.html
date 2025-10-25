@@ -272,6 +272,16 @@
                             </label>
                         </div>
                         <div>
+                            <div>
+                                <label for="retrievalModel">Retrieval Model</label>
+                                <select id="retrievalModel">
+                                    <option value="sentence-transformers/all-mpnet-base-v2">sentence-transformers/all-mpnet-base-v2</option>
+                                    <option value="sentence-transformers/all-MiniLM-L12-v2">sentence-transformers/all-MiniLM-L12-v2</option>
+                                    <option value="sentence-transformers/all-MiniLM-L6-v2">sentence-transformers/all-MiniLM-L6-v2</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div>
                             <label for="context">Context (optional)</label>
                             <input type="text" id="context" placeholder="Short description of the corpus" />
                         </div>

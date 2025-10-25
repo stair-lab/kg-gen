@@ -19,5 +19,5 @@ experiments/MINE/results
 .gcloud
 experiments/MINE/answers.json
 experiments/MINE/essays.json
-Dockerfile
-.dockerignore
+output
+logs
