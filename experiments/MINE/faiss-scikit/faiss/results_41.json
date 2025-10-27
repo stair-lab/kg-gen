@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Conspiracy theories challenge official explanations of historical events.",
+    "retrieved_context": "John F. Kennedy was assassinated by Lee Harvey Oswald. September 11, 2001 was staged by United States government. JFK assassination conspiracy theory involves mafia. \"Apollo 11\" is part of Space race. Buzz Aldrin participated in \"Apollo 11\". JFK assassination conspiracy theory involves CIA. Neil Armstrong participated in \"Apollo 11\". JFK assassination took place in Dallas. Moon landing hoax references \"Apollo 11\". \"Apollo 11\" was staged by United States government.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Some conspiracy theories are dismissed as outlandish or baseless.",
+    "retrieved_context": "JFK assassination conspiracy theory involves mafia. global pedophile ring is discussed on social media. \"Apollo 11\" is part of Space race. Buzz Aldrin participated in \"Apollo 11\". JFK assassination conspiracy theory involves CIA. flat Earth is discussed on social media. global pedophile ring is discussed on internet. Neil Armstrong participated in \"Apollo 11\". JFK assassination took place in Dallas. Moon landing hoax references \"Apollo 11\". \"Apollo 11\" was staged by United States government. flat Earth is discussed on internet. World Trade Center were subjected to controlled demolitions.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Conspiracy theories influence popular culture and public discourse.",
+    "retrieved_context": "John F. Kennedy was assassinated by Lee Harvey Oswald. JFK assassination conspiracy theory involves mafia. Buzz Aldrin participated in \"Apollo 11\". \"Apollo 11\" is part of Space race. JFK assassination conspiracy theory involves CIA. Neil Armstrong participated in \"Apollo 11\". JFK assassination took place in Dallas. Moon landing hoax references \"Apollo 11\". \"Apollo 11\" was staged by United States government.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The moon landing hoax theory suggests the Apollo 11 mission was staged.",
+    "retrieved_context": "September 11, 2001 was staged by United States government. JFK assassination conspiracy theory involves mafia. Space race against Soviet Union. \"Apollo 11\" is part of Space race. Buzz Aldrin participated in \"Apollo 11\". JFK assassination conspiracy theory involves CIA. Neil Armstrong participated in \"Apollo 11\". JFK assassination took place in Dallas. Moon landing hoax references \"Apollo 11\". \"Apollo 11\" was staged by United States government.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Proponents of the moon landing hoax theory point to alleged discrepancies in evidence.",
+    "retrieved_context": "John F. Kennedy was assassinated by Lee Harvey Oswald. September 11, 2001 was staged by United States government. JFK assassination conspiracy theory involves mafia. Space race against Soviet Union. \"Apollo 11\" is part of Space race. Buzz Aldrin participated in \"Apollo 11\". JFK assassination conspiracy theory involves CIA. Neil Armstrong participated in \"Apollo 11\". JFK assassination took place in Dallas. Moon landing hoax references \"Apollo 11\". \"Apollo 11\" was staged by United States government.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The JFK assassination conspiracy theory suggests a larger plot was at play.",
+    "retrieved_context": "John F. Kennedy was assassinated by Lee Harvey Oswald. September 11, 2001 was staged by United States government. JFK assassination conspiracy theory involves mafia. Space race against Soviet Union. \"Apollo 11\" is part of Space race. JFK assassination conspiracy theory involves CIA. Buzz Aldrin participated in \"Apollo 11\". Neil Armstrong participated in \"Apollo 11\". JFK assassination took place in Dallas. Moon landing hoax references \"Apollo 11\". \"Apollo 11\" was staged by United States government.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Illuminati conspiracy theory alleges a secret society controls world events.",
+    "retrieved_context": "September 11, 2001 was staged by United States government. JFK assassination conspiracy theory involves mafia. global pedophile ring is discussed on social media. JFK assassination conspiracy theory involves CIA. flat Earth is discussed on social media. JFK assassination took place in Dallas. global pedophile ring is discussed on internet. \"Apollo 11\" was staged by United States government. flat Earth is discussed on internet. World Trade Center were subjected to controlled demolitions.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "There is no concrete evidence to support the existence of the Illuminati.",
+    "retrieved_context": "September 11, 2001 was staged by United States government. JFK assassination conspiracy theory involves mafia. global pedophile ring is discussed on social media. \"Apollo 11\" is part of Space race. Buzz Aldrin participated in \"Apollo 11\". JFK assassination conspiracy theory involves CIA. flat Earth is discussed on social media. global pedophile ring is discussed on internet. Neil Armstrong participated in \"Apollo 11\". JFK assassination took place in Dallas. Moon landing hoax references \"Apollo 11\". \"Apollo 11\" was staged by United States government. flat Earth is discussed on internet.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Conspiracy theories about 9/11 suggest government involvement in the attacks.",
+    "retrieved_context": "September 11, 2001 was staged by United States government. JFK assassination conspiracy theory involves mafia. \"Apollo 11\" is part of Space race. JFK assassination conspiracy theory involves CIA. Buzz Aldrin participated in \"Apollo 11\". Neil Armstrong participated in \"Apollo 11\". JFK assassination took place in Dallas. Moon landing hoax references \"Apollo 11\". \"Apollo 11\" was staged by United States government. World Trade Center were subjected to controlled demolitions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Some conspiracy theories about 9/11 point to alleged inconsistencies in official accounts.",
+    "retrieved_context": "John F. Kennedy was assassinated by Lee Harvey Oswald. September 11, 2001 was staged by United States government. JFK assassination conspiracy theory involves mafia. \"Apollo 11\" is part of Space race. Buzz Aldrin participated in \"Apollo 11\". JFK assassination conspiracy theory involves CIA. Neil Armstrong participated in \"Apollo 11\". JFK assassination took place in Dallas. Moon landing hoax references \"Apollo 11\". \"Apollo 11\" was staged by United States government.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The internet and social media have fueled the spread of conspiracy theories.",
+    "retrieved_context": "Moon landing hoax references \"Apollo 11\". September 11, 2001 was staged by United States government. JFK assassination conspiracy theory involves mafia. global pedophile ring is discussed on social media. \"Apollo 11\" is part of Space race. Buzz Aldrin participated in \"Apollo 11\". JFK assassination conspiracy theory involves CIA. flat Earth is discussed on social media. Neil Armstrong participated in \"Apollo 11\". JFK assassination took place in Dallas. global pedophile ring is discussed on internet. \"Apollo 11\" was staged by United States government. flat Earth is discussed on internet.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Conspiracy theories tap into societal anxieties and distrust of authority.",
+    "retrieved_context": "John F. Kennedy was assassinated by Lee Harvey Oswald. JFK assassination conspiracy theory involves mafia. \"Apollo 11\" is part of Space race. Buzz Aldrin participated in \"Apollo 11\". JFK assassination conspiracy theory involves CIA. Neil Armstrong participated in \"Apollo 11\". JFK assassination took place in Dallas. Moon landing hoax references \"Apollo 11\". \"Apollo 11\" was staged by United States government.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Some conspiracy theories provide a sense of empowerment and community to believers.",
+    "retrieved_context": "September 11, 2001 was staged by United States government. JFK assassination conspiracy theory involves mafia. \"Apollo 11\" is part of Space race. Buzz Aldrin participated in \"Apollo 11\". JFK assassination conspiracy theory involves CIA. Neil Armstrong participated in \"Apollo 11\". JFK assassination took place in Dallas. Moon landing hoax references \"Apollo 11\". \"Apollo 11\" was staged by United States government.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Conspiracy theories challenge official narratives and raise questions about power and truth.",
+    "retrieved_context": "September 11, 2001 was staged by United States government. JFK assassination conspiracy theory involves mafia. \"Apollo 11\" is part of Space race. Buzz Aldrin participated in \"Apollo 11\". JFK assassination conspiracy theory involves CIA. Neil Armstrong participated in \"Apollo 11\". JFK assassination took place in Dallas. Moon landing hoax references \"Apollo 11\". \"Apollo 11\" was staged by United States government.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Examining famous conspiracy theories can provide insight into human desire for alternative explanations.",
+    "retrieved_context": "John F. Kennedy was assassinated by Lee Harvey Oswald. September 11, 2001 was staged by United States government. JFK assassination conspiracy theory involves mafia. \"Apollo 11\" is part of Space race. Buzz Aldrin participated in \"Apollo 11\". JFK assassination conspiracy theory involves CIA. Neil Armstrong participated in \"Apollo 11\". JFK assassination took place in Dallas. Moon landing hoax references \"Apollo 11\". \"Apollo 11\" was staged by United States government.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "26.67%"
+  }
+]

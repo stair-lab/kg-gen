@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Spiders build intricate webs.",
+    "retrieved_context": "Anchor line used for Web-building process. Spiders test Silk. Spiders selects Location. Silk forms Trap line. Silk composed of Protein molecules. Silk anchors to Surface. Spiders lay down Spiral lines. Silk used for Egg sacs. Spiders feel Vibrations. Spiders participate in Web-building process. Webs serve as Location. Spiral lines are sticky because of Adhesive substance. Silk used for Mating rituals. Trap line transmits Vibrations. Spiders bite Prey. Webs catch Prey. Spiders adjust Webs. Adhesive substance traps Prey. Webs include Spiral lines. Spiders wraps Silk wrapping prey. Silk anchors to Wall. Webs include Radial lines. Silk wrapping prey leads to Prey consumption. Silk anchors to Branch. Spiders possess Silk-producing abilities. Spiders possess Spider instinct. Silk used for Web-building process.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Webs serve as homes and hunting grounds for spiders.",
+    "retrieved_context": "Anchor line used for Web-building process. Spiders test Silk. Spiders selects Location. Silk forms Trap line. Silk composed of Protein molecules. Silk anchors to Surface. Spiders lay down Spiral lines. Silk used for Egg sacs. Spiders feel Vibrations. Spiders participate in Web-building process. Webs serve as Location. Spiral lines are sticky because of Adhesive substance. Silk used for Mating rituals. Trap line transmits Vibrations. Spiders bite Prey. Webs catch Prey. Spiders adjust Webs. Adhesive substance traps Prey. Webs include Spiral lines. Spiders wraps Silk wrapping prey. Silk anchors to Wall. Webs include Radial lines. Silk wrapping prey leads to Prey consumption. Silk anchors to Branch. Spiders possess Silk-producing abilities. Spiders possess Spider instinct. Silk used for Web-building process.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Spiders catch prey efficiently using their webs.",
+    "retrieved_context": "Anchor line used for Web-building process. Spiders test Silk. Spiders selects Location. Silk forms Trap line. Silk composed of Protein molecules. Silk anchors to Surface. Spiders lay down Spiral lines. Silk used for Egg sacs. Spiders feel Vibrations. Spiders participate in Web-building process. Webs serve as Location. Spiral lines are sticky because of Adhesive substance. Silk used for Mating rituals. Trap line transmits Vibrations. Spiders bite Prey. Webs catch Prey. Spiders adjust Webs. Adhesive substance traps Prey. Webs include Spiral lines. Spiders wraps Silk wrapping prey. Silk anchors to Wall. Webs include Radial lines. Silk wrapping prey leads to Prey consumption. Silk anchors to Branch. Spiders possess Silk-producing abilities. Spiders possess Spider instinct. Silk used for Web-building process.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Spiders select suitable locations for web-building.",
+    "retrieved_context": "Anchor line used for Web-building process. Spiders test Silk. Spiders selects Location. Silk forms Trap line. Silk composed of Protein molecules. Silk anchors to Surface. Spiders lay down Spiral lines. Silk used for Egg sacs. Spiders feel Vibrations. Spiders participate in Web-building process. Webs serve as Location. Spiral lines are sticky because of Adhesive substance. Silk used for Mating rituals. Trap line transmits Vibrations. Spiders bite Prey. Webs catch Prey. Spiders adjust Webs. Adhesive substance traps Prey. Webs include Spiral lines. Spiders wraps Silk wrapping prey. Silk anchors to Wall. Webs include Radial lines. Silk wrapping prey leads to Prey consumption. Silk anchors to Branch. Spiders possess Silk-producing abilities. Spiders possess Spider instinct. Silk used for Web-building process.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Spiders produce silk from spinnerets.",
+    "retrieved_context": "Anchor line used for Web-building process. Spiders test Silk. Spiders selects Location. Silk forms Trap line. Silk composed of Protein molecules. Silk anchors to Surface. Spiders lay down Spiral lines. Silk used for Egg sacs. Spiders feel Vibrations. Spiders participate in Web-building process. Webs serve as Location. Spiral lines are sticky because of Adhesive substance. Silk used for Mating rituals. Trap line transmits Vibrations. Spiders bite Prey. Webs catch Prey. Spiders adjust Webs. Adhesive substance traps Prey. Webs include Spiral lines. Spiders wraps Silk wrapping prey. Silk anchors to Wall. Webs include Radial lines. Silk wrapping prey leads to Prey consumption. Abdomen hosts Glands. Silk anchors to Branch. Spinnerets are Glands. Spiders possess Silk-producing abilities. Spiders possess Spider instinct. Silk used for Web-building process.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Spider silk is strong and elastic.",
+    "retrieved_context": "Anchor line used for Web-building process. Spiders test Silk. Spiders selects Location. Silk forms Trap line. Silk composed of Protein molecules. Silk anchors to Surface. Silk used for Egg sacs. Spiders lay down Spiral lines. Spiders feel Vibrations. Spiders participate in Web-building process. Webs serve as Location. Spiral lines are sticky because of Adhesive substance. Silk used for Mating rituals. Trap line transmits Vibrations. Spiders bite Prey. Webs catch Prey. Spiders adjust Webs. Adhesive substance traps Prey. Webs include Spiral lines. Spiders wraps Silk wrapping prey. Silk anchors to Wall. Silk wrapping prey leads to Prey consumption. Webs include Radial lines. Silk anchors to Branch. Spiders possess Silk-producing abilities. Spiders possess Spider instinct. Silk used for Web-building process.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Spider silk is composed of protein molecules.",
+    "retrieved_context": "Anchor line used for Web-building process. Spiders test Silk. Spiders selects Location. Silk forms Trap line. Silk composed of Protein molecules. Silk anchors to Surface. Silk used for Egg sacs. Spiders lay down Spiral lines. Spiders feel Vibrations. Spiders participate in Web-building process. Webs serve as Location. Spiral lines are sticky because of Adhesive substance. Silk used for Mating rituals. Trap line transmits Vibrations. Spiders bite Prey. Webs catch Prey. Spiders adjust Webs. Adhesive substance traps Prey. Webs include Spiral lines. Spiders wraps Silk wrapping prey. Silk anchors to Wall. Silk wrapping prey leads to Prey consumption. Webs include Radial lines. Abdomen hosts Glands. Silk anchors to Branch. Spinnerets are Glands. Spiders possess Silk-producing abilities. Spiders possess Spider instinct. Silk used for Web-building process.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Spiders can produce different types of silk.",
+    "retrieved_context": "Anchor line used for Web-building process. Spiders test Silk. Spiders selects Location. Silk forms Trap line. Silk composed of Protein molecules. Silk anchors to Surface. Silk used for Egg sacs. Spiders lay down Spiral lines. Spiders feel Vibrations. Spiders participate in Web-building process. Webs serve as Location. Spiral lines are sticky because of Adhesive substance. Silk used for Mating rituals. Trap line transmits Vibrations. Spiders bite Prey. Webs catch Prey. Spiders adjust Webs. Adhesive substance traps Prey. Webs include Spiral lines. Spiders wraps Silk wrapping prey. Silk anchors to Wall. Silk wrapping prey leads to Prey consumption. Webs include Radial lines. Abdomen hosts Glands. Silk anchors to Branch. Spinnerets are Glands. Spiders possess Silk-producing abilities. Spiders possess Spider instinct. Silk used for Web-building process.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Spiders anchor silk strands to surfaces to build webs.",
+    "retrieved_context": "Anchor line used for Web-building process. Spiders test Silk. Spiders selects Location. Silk forms Trap line. Silk composed of Protein molecules. Silk anchors to Surface. Silk used for Egg sacs. Spiders lay down Spiral lines. Spiders feel Vibrations. Spiders participate in Web-building process. Webs serve as Location. Spiral lines are sticky because of Adhesive substance. Silk used for Mating rituals. Trap line transmits Vibrations. Spiders bite Prey. Webs catch Prey. Spiders adjust Webs. Adhesive substance traps Prey. Webs include Spiral lines. Spiders wraps Silk wrapping prey. Silk anchors to Wall. Silk wrapping prey leads to Prey consumption. Webs include Radial lines. Silk anchors to Branch. Spiders possess Silk-producing abilities. Spiders possess Spider instinct. Silk used for Web-building process.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Spiders construct radial lines as the framework of the web.",
+    "retrieved_context": "Anchor line used for Web-building process. Spiders test Silk. Spiders selects Location. Silk forms Trap line. Silk composed of Protein molecules. Silk anchors to Surface. Spiders lay down Spiral lines. Silk used for Egg sacs. Spiders feel Vibrations. Spiders participate in Web-building process. Webs serve as Location. Spiral lines are sticky because of Adhesive substance. Silk used for Mating rituals. Trap line transmits Vibrations. Spiders bite Prey. Webs catch Prey. Spiders adjust Webs. Adhesive substance traps Prey. Webs include Spiral lines. Spiders wraps Silk wrapping prey. Silk anchors to Wall. Webs include Radial lines. Silk wrapping prey leads to Prey consumption. Silk anchors to Branch. Spiders possess Silk-producing abilities. Spiders possess Spider instinct. Silk used for Web-building process.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Spiders lay down sticky spiral lines on the web.",
+    "retrieved_context": "Anchor line used for Web-building process. Spiders test Silk. Spiders selects Location. Silk forms Trap line. Silk composed of Protein molecules. Silk anchors to Surface. Spiders lay down Spiral lines. Silk used for Egg sacs. Spiders feel Vibrations. Spiders participate in Web-building process. Webs serve as Location. Spiral lines are sticky because of Adhesive substance. Silk used for Mating rituals. Trap line transmits Vibrations. Spiders bite Prey. Webs catch Prey. Spiders adjust Webs. Adhesive substance traps Prey. Webs include Spiral lines. Spiders wraps Silk wrapping prey. Silk anchors to Wall. Webs include Radial lines. Silk wrapping prey leads to Prey consumption. Silk anchors to Branch. Spiders possess Silk-producing abilities. Spiders possess Spider instinct. Silk used for Web-building process.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Spiders periodically test the tension of silk strands.",
+    "retrieved_context": "Anchor line used for Web-building process. Spiders test Silk. Spiders selects Location. Silk forms Trap line. Silk composed of Protein molecules. Silk anchors to Surface. Spiders lay down Spiral lines. Silk used for Egg sacs. Spiders feel Vibrations. Spiders participate in Web-building process. Webs serve as Location. Spiral lines are sticky because of Adhesive substance. Silk used for Mating rituals. Trap line transmits Vibrations. Spiders bite Prey. Webs catch Prey. Spiders adjust Webs. Adhesive substance traps Prey. Webs include Spiral lines. Spiders wraps Silk wrapping prey. Silk anchors to Wall. Webs include Radial lines. Silk wrapping prey leads to Prey consumption. Silk anchors to Branch. Spiders possess Silk-producing abilities. Spiders possess Spider instinct. Silk used for Web-building process.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Spiders have an innate sense of how to build webs.",
+    "retrieved_context": "Anchor line used for Web-building process. Spiders test Silk. Spiders selects Location. Silk forms Trap line. Silk composed of Protein molecules. Silk anchors to Surface. Silk used for Egg sacs. Spiders lay down Spiral lines. Spiders feel Vibrations. Spiders participate in Web-building process. Webs serve as Location. Spiral lines are sticky because of Adhesive substance. Silk used for Mating rituals. Trap line transmits Vibrations. Spiders bite Prey. Webs catch Prey. Spiders adjust Webs. Adhesive substance traps Prey. Webs include Spiral lines. Spiders wraps Silk wrapping prey. Silk anchors to Wall. Webs include Radial lines. Silk wrapping prey leads to Prey consumption. Silk anchors to Branch. Spiders possess Silk-producing abilities. Spiders possess Spider instinct. Silk used for Web-building process.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Spiders place a trap line in the web to signal prey.",
+    "retrieved_context": "Anchor line used for Web-building process. Spiders test Silk. Spiders selects Location. Silk forms Trap line. Silk composed of Protein molecules. Silk anchors to Surface. Spiders lay down Spiral lines. Silk used for Egg sacs. Spiders feel Vibrations. Spiders participate in Web-building process. Webs serve as Location. Spiral lines are sticky because of Adhesive substance. Silk used for Mating rituals. Trap line transmits Vibrations. Spiders bite Prey. Webs catch Prey. Spiders adjust Webs. Adhesive substance traps Prey. Webs include Spiral lines. Spiders wraps Silk wrapping prey. Silk anchors to Wall. Webs include Radial lines. Silk wrapping prey leads to Prey consumption. Silk anchors to Branch. Spiders possess Silk-producing abilities. Spiders possess Spider instinct. Silk used for Web-building process.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Spiders immobilize prey with a bite and wrap it in silk.",
+    "retrieved_context": "Anchor line used for Web-building process. Spiders test Silk. Spiders selects Location. Silk forms Trap line. Silk composed of Protein molecules. Silk anchors to Surface. Silk used for Egg sacs. Spiders lay down Spiral lines. Spiders feel Vibrations. Spiders participate in Web-building process. Webs serve as Location. Spiral lines are sticky because of Adhesive substance. Silk used for Mating rituals. Trap line transmits Vibrations. Spiders bite Prey. Webs catch Prey. Spiders adjust Webs. Adhesive substance traps Prey. Webs include Spiral lines. Spiders wraps Silk wrapping prey. Silk anchors to Wall. Silk wrapping prey leads to Prey consumption. Webs include Radial lines. Silk anchors to Branch. Spiders possess Silk-producing abilities. Spiders possess Spider instinct. Silk used for Web-building process.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "46.67%"
+  }
+]

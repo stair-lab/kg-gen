@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Writing allows us to record and communicate information across time and space.",
+    "retrieved_context": "cuneiform was used by Sumerians. computers enabled internet. Latin alphabet used in English. cuneiform was used by Mesopotamia. cuneiform was impressed on clay tablets. augmented reality is related to virtual reality. Greek alphabet laid the foundation for Latin alphabet. smartphones enabled internet. Latin alphabet used in European languages.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The development of writing systems is a crucial milestone in human culture and society.",
+    "retrieved_context": "emojis is related to emoticons. computers enabled internet. Latin alphabet used in English. Greeks developed the first true alphabet Greek alphabet. Greek alphabet laid the foundation for Latin alphabet. smartphones enabled internet. Latin alphabet used in European languages.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Early writing systems were primarily pictographic, with symbols representing objects, ideas, or sounds.",
+    "retrieved_context": "cuneiform was used by Sumerians. smartphones enabled internet. logographic scripts led to the creation of Chinese characters. emojis is related to emoticons. computers enabled internet. Latin alphabet used in English. cuneiform was impressed on clay tablets. logographic scripts were deciphered by Jean-Fran\u00c3\u00a7ois Champollion. Greeks developed the first true alphabet Greek alphabet. Latin alphabet used in European languages. Greek alphabet laid the foundation for Latin alphabet. cuneiform was used by Mesopotamia. logographic scripts used in Egypt.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Cuneiform was used by the ancient Sumerians in Mesopotamia for accounting and record-keeping.",
+    "retrieved_context": "cuneiform was used by Sumerians. smartphones enabled internet. computers enabled internet. cuneiform was impressed on clay tablets. Greeks developed the first true alphabet Greek alphabet. Greek alphabet laid the foundation for Latin alphabet. cuneiform was used by Mesopotamia.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Hieroglyphics in ancient Egypt were used to record important religious and historical texts.",
+    "retrieved_context": "cuneiform was used by Sumerians. logographic scripts led to the creation of Chinese characters. Latin alphabet used in English. cuneiform was impressed on clay tablets. logographic scripts were deciphered by Jean-Fran\u00c3\u00a7ois Champollion. Greeks developed the first true alphabet Greek alphabet. Latin alphabet used in European languages. Greek alphabet laid the foundation for Latin alphabet. cuneiform was used by Mesopotamia. logographic scripts used in Egypt.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Chinese characters are complex symbols representing words or morphemes.",
+    "retrieved_context": "logographic scripts led to the creation of Chinese characters. emojis is related to emoticons. Latin alphabet used in English. logographic scripts were deciphered by Jean-Fran\u00c3\u00a7ois Champollion. Greeks developed the first true alphabet Greek alphabet. Latin alphabet used in European languages. Greek alphabet laid the foundation for Latin alphabet. logographic scripts used in Egypt.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The alphabet introduced a more efficient method of representing speech sounds.",
+    "retrieved_context": "cuneiform was used by Sumerians. emojis is related to emoticons. computers enabled internet. Latin alphabet used in English. cuneiform was used by Mesopotamia. cuneiform was impressed on clay tablets. Greeks developed the first true alphabet Greek alphabet. Greek alphabet laid the foundation for Latin alphabet. smartphones enabled internet. Latin alphabet used in European languages.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The spread of the Greek alphabet laid the foundation for many modern writing systems.",
+    "retrieved_context": "cuneiform was used by Sumerians. emojis is related to emoticons. Latin alphabet used in English. cuneiform was impressed on clay tablets. Greeks developed the first true alphabet Greek alphabet. Greek alphabet laid the foundation for Latin alphabet. cuneiform was used by Mesopotamia. Latin alphabet used in European languages.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Writing systems are influenced by cultural, technological, and social factors.",
+    "retrieved_context": "logographic scripts led to the creation of Chinese characters. logographic scripts used in Egypt. computers enabled internet. Latin alphabet used in English. logographic scripts were deciphered by Jean-Fran\u00c3\u00a7ois Champollion. Greeks developed the first true alphabet Greek alphabet. Greek alphabet laid the foundation for Latin alphabet. smartphones enabled internet. Latin alphabet used in European languages.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Digital technology has transformed the way we write and communicate.",
+    "retrieved_context": "cuneiform was used by Sumerians. smartphones enabled internet. emojis is related to emoticons. computers enabled internet. Latin alphabet used in English. cuneiform was impressed on clay tablets. augmented reality is related to virtual reality. Greek alphabet laid the foundation for Latin alphabet. cuneiform was used by Mesopotamia. Latin alphabet used in European languages.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Unicode facilitates the global exchange of written texts in multiple languages and scripts.",
+    "retrieved_context": "cuneiform was used by Sumerians. logographic scripts led to the creation of Chinese characters. logographic scripts used in Egypt. Latin alphabet used in English. logographic scripts were deciphered by Jean-Fran\u00c3\u00a7ois Champollion. cuneiform was impressed on clay tablets. Greeks developed the first true alphabet Greek alphabet. Greek alphabet laid the foundation for Latin alphabet. cuneiform was used by Mesopotamia. Latin alphabet used in European languages.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "New forms of communication are emerging in response to the changing needs of society.",
+    "retrieved_context": "emojis is related to emoticons. computers enabled internet. Latin alphabet used in English. Greek alphabet laid the foundation for Latin alphabet. smartphones enabled internet. Latin alphabet used in European languages.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Writing systems have played a crucial role in shaping human civilization and culture.",
+    "retrieved_context": "cuneiform was used by Sumerians. smartphones enabled internet. logographic scripts led to the creation of Chinese characters. logographic scripts used in Egypt. computers enabled internet. Latin alphabet used in English. cuneiform was impressed on clay tablets. logographic scripts were deciphered by Jean-Fran\u00c3\u00a7ois Champollion. Greeks developed the first true alphabet Greek alphabet. Greek alphabet laid the foundation for Latin alphabet. cuneiform was used by Mesopotamia. Latin alphabet used in European languages.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Writing systems have evolved to meet the diverse needs of human communication.",
+    "retrieved_context": "cuneiform was used by Sumerians. emojis is related to emoticons. computers enabled internet. Latin alphabet used in English. cuneiform was used by Mesopotamia. cuneiform was impressed on clay tablets. Greeks developed the first true alphabet Greek alphabet. Greek alphabet laid the foundation for Latin alphabet. smartphones enabled internet. Latin alphabet used in European languages.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The legacy of ancient writing systems reminds us of the enduring power of words.",
+    "retrieved_context": "cuneiform was used by Sumerians. emojis is related to emoticons. Latin alphabet used in English. cuneiform was impressed on clay tablets. Greeks developed the first true alphabet Greek alphabet. Greek alphabet laid the foundation for Latin alphabet. cuneiform was used by Mesopotamia. Latin alphabet used in European languages.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "6.67%"
+  }
+]

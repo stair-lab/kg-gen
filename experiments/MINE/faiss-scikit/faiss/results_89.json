@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Education influences values in society.",
+    "retrieved_context": "Education promotes tolerance. dominant cultural values marginalize minority voices. power of education influences society that values and celebrates diversity. Education promotes diverse, equitable, and just culture. cultural narratives erases minority voices. Education promotes cultural change. educational systems prioritize cultural narratives. Education transmits cultural knowledge. Education helps navigate social environment. educational systems reproduce inequalities. schools teach norms. Education promotes cultural diversity. Education advances gender equality. Education promotes empathy. schools teach cultural values. generations pass down culture. Education promotes marginalized groups. Education promotes innovation. Education challenges traditional gender roles. cultural diversity promotes inclusive and harmonious society. Education promotes culture. dominant cultural values marginalize marginalized groups.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Culture is defined as shared beliefs and traditions.",
+    "retrieved_context": "Education promotes tolerance. dominant cultural values marginalize minority voices. Education promotes diverse, equitable, and just culture. cultural narratives erases minority voices. Education promotes cultural change. Education transmits cultural knowledge. Education helps navigate social environment. schools teach norms. Education promotes cultural diversity. Education advances gender equality. Education promotes empathy. schools teach cultural values. generations pass down culture. Education promotes marginalized groups. Education promotes innovation. Education challenges traditional gender roles. cultural diversity promotes inclusive and harmonious society. Education promotes culture. dominant cultural values marginalize marginalized groups.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Culture is passed down through generations.",
+    "retrieved_context": "history classes cover cultural events. Education promotes tolerance. dominant cultural values marginalize minority voices. Education promotes diverse, equitable, and just culture. cultural narratives erases minority voices. Education promotes cultural change. Education transmits cultural knowledge. history classes promotes sense of pride. Education helps navigate social environment. schools teach norms. history classes cover cultural achievements. Education promotes cultural diversity. Education advances gender equality. Education promotes empathy. schools teach cultural values. generations pass down culture. Education promotes marginalized groups. Education promotes innovation. Education challenges traditional gender roles. history classes promotes identity. cultural diversity promotes inclusive and harmonious society. Education promotes culture. dominant cultural values marginalize marginalized groups.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Education preserves and transforms culture.",
+    "retrieved_context": "history classes cover cultural events. Education promotes tolerance. power of education influences society that values and celebrates diversity. Education promotes diverse, equitable, and just culture. Education promotes cultural change. Education transmits cultural knowledge. history classes promotes sense of pride. Education helps navigate social environment. history classes cover cultural achievements. Education promotes cultural diversity. Education advances gender equality. Education promotes empathy. generations pass down culture. Education promotes marginalized groups. Education promotes innovation. Education challenges traditional gender roles. history classes promotes identity. cultural diversity promotes inclusive and harmonious society. Education promotes culture. dominant cultural values marginalize marginalized groups.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Schools transmit cultural knowledge to young individuals.",
+    "retrieved_context": "history classes cover cultural events. Education promotes tolerance. educational systems prioritize cultural narratives. power of education influences society that values and celebrates diversity. Education promotes diverse, equitable, and just culture. cultural narratives erases minority voices. Education promotes cultural change. Education transmits cultural knowledge. history classes promotes sense of pride. Education helps navigate social environment. educational systems reproduce inequalities. schools teach norms. history classes cover cultural achievements. Education promotes cultural diversity. Education advances gender equality. Education promotes empathy. schools teach cultural values. generations pass down culture. Education promotes marginalized groups. Education promotes innovation. Education challenges traditional gender roles. history classes promotes identity. cultural diversity promotes inclusive and harmonious society. Education promotes culture. dominant cultural values marginalize marginalized groups.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "History classes cover cultural achievements and events.",
+    "retrieved_context": "history classes cover cultural events. Education promotes tolerance. dominant cultural values marginalize minority voices. educational systems prioritize cultural narratives. Education promotes diverse, equitable, and just culture. cultural narratives erases minority voices. Education promotes cultural change. Education transmits cultural knowledge. history classes promotes sense of pride. Education helps navigate social environment. educational systems reproduce inequalities. history classes cover cultural achievements. Education promotes cultural diversity. Education advances gender equality. Education promotes empathy. Education promotes marginalized groups. Education promotes innovation. Education challenges traditional gender roles. history classes promotes identity. cultural diversity promotes inclusive and harmonious society. Education promotes culture.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Education instills pride and identity in students.",
+    "retrieved_context": "history classes cover cultural events. Education promotes tolerance. educational systems prioritize cultural narratives. power of education influences society that values and celebrates diversity. Education promotes diverse, equitable, and just culture. cultural narratives erases minority voices. Education promotes cultural change. Education transmits cultural knowledge. history classes promotes sense of pride. Education helps navigate social environment. educational systems reproduce inequalities. schools teach norms. history classes cover cultural achievements. Education promotes cultural diversity. Education advances gender equality. Education promotes empathy. schools teach cultural values. generations pass down culture. Education promotes marginalized groups. Education promotes innovation. Education challenges traditional gender roles. history classes promotes identity. cultural diversity promotes inclusive and harmonious society. Education promotes culture. dominant cultural values marginalize marginalized groups.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Learning about cultural heritage deepens connection to roots.",
+    "retrieved_context": "history classes cover cultural events. Education promotes tolerance. dominant cultural values marginalize minority voices. educational systems prioritize cultural narratives. Education promotes diverse, equitable, and just culture. cultural narratives erases minority voices. Education promotes cultural change. Education transmits cultural knowledge. history classes promotes sense of pride. Education helps navigate social environment. educational systems reproduce inequalities. schools teach norms. history classes cover cultural achievements. Education promotes cultural diversity. Education advances gender equality. Education promotes empathy. schools teach cultural values. generations pass down culture. Education promotes marginalized groups. Education promotes innovation. Education challenges traditional gender roles. history classes promotes identity. Education promotes culture. dominant cultural values marginalize marginalized groups.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Education promotes cultural diversity and understanding.",
+    "retrieved_context": "Education helps navigate social environment. Education promotes marginalized groups. Education promotes tolerance. power of education influences society that values and celebrates diversity. Education promotes empathy. Education promotes innovation. Education promotes cultural change. Education promotes diverse, equitable, and just culture. Education transmits cultural knowledge. Education challenges traditional gender roles. generations pass down culture. Education promotes cultural diversity. cultural diversity promotes inclusive and harmonious society. Education promotes culture. Education advances gender equality. dominant cultural values marginalize marginalized groups.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Education fosters cultural appreciation and respect.",
+    "retrieved_context": "history classes cover cultural events. Education promotes tolerance. dominant cultural values marginalize minority voices. power of education influences society that values and celebrates diversity. Education promotes diverse, equitable, and just culture. cultural narratives erases minority voices. Education promotes cultural change. Education transmits cultural knowledge. history classes promotes sense of pride. Education helps navigate social environment. schools teach norms. history classes cover cultural achievements. Education promotes cultural diversity. Education advances gender equality. Education promotes empathy. schools teach cultural values. generations pass down culture. Education promotes marginalized groups. Education promotes innovation. Education challenges traditional gender roles. history classes promotes identity. cultural diversity promotes inclusive and harmonious society. Education promotes culture. dominant cultural values marginalize marginalized groups.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Education encourages empathy towards different cultures.",
+    "retrieved_context": "Education promotes tolerance. dominant cultural values marginalize minority voices. Education promotes diverse, equitable, and just culture. cultural narratives erases minority voices. Education promotes cultural change. Education transmits cultural knowledge. Education helps navigate social environment. schools teach norms. Education promotes cultural diversity. Education advances gender equality. Education promotes empathy. schools teach cultural values. generations pass down culture. Education promotes marginalized groups. Education promotes innovation. Education challenges traditional gender roles. cultural diversity promotes inclusive and harmonious society. Education promotes culture. dominant cultural values marginalize marginalized groups.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Education can drive social change and innovation.",
+    "retrieved_context": "Education promotes tolerance. educational systems prioritize cultural narratives. power of education influences society that values and celebrates diversity. Education promotes diverse, equitable, and just culture. cultural narratives erases minority voices. Education promotes cultural change. Education transmits cultural knowledge. Education helps navigate social environment. educational systems reproduce inequalities. Education promotes cultural diversity. Education advances gender equality. Education promotes empathy. generations pass down culture. Education promotes marginalized groups. Education promotes innovation. Education challenges traditional gender roles. cultural diversity promotes inclusive and harmonious society. Education promotes culture. dominant cultural values marginalize marginalized groups.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Education challenges traditional gender roles.",
+    "retrieved_context": "Education promotes tolerance. educational systems prioritize cultural narratives. power of education influences society that values and celebrates diversity. Education promotes diverse, equitable, and just culture. cultural narratives erases minority voices. Education promotes cultural change. Education transmits cultural knowledge. Education helps navigate social environment. educational systems reproduce inequalities. schools teach norms. Education promotes cultural diversity. Education advances gender equality. Education promotes empathy. schools teach cultural values. generations pass down culture. Education promotes marginalized groups. Education promotes innovation. Education challenges traditional gender roles. cultural diversity promotes inclusive and harmonious society. Education promotes culture. dominant cultural values marginalize marginalized groups.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Education can be a tool for cultural hegemony.",
+    "retrieved_context": "history classes cover cultural events. Education promotes tolerance. dominant cultural values marginalize minority voices. power of education influences society that values and celebrates diversity. Education promotes diverse, equitable, and just culture. cultural narratives erases minority voices. Education promotes cultural change. Education transmits cultural knowledge. history classes promotes sense of pride. Education helps navigate social environment. schools teach norms. history classes cover cultural achievements. Education promotes cultural diversity. Education advances gender equality. Education promotes empathy. schools teach cultural values. generations pass down culture. Education promotes marginalized groups. Education promotes innovation. Education challenges traditional gender roles. history classes promotes identity. cultural diversity promotes inclusive and harmonious society. Education promotes culture. dominant cultural values marginalize marginalized groups.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Education should be inclusive and representative of all cultural groups.",
+    "retrieved_context": "Education helps navigate social environment. Education promotes marginalized groups. Education promotes tolerance. power of education influences society that values and celebrates diversity. Education promotes diverse, equitable, and just culture. Education promotes empathy. Education promotes innovation. Education promotes cultural change. Education transmits cultural knowledge. schools teach norms. schools teach cultural values. Education challenges traditional gender roles. Education promotes cultural diversity. cultural diversity promotes inclusive and harmonious society. Education promotes culture. Education advances gender equality.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "40.00%"
+  }
+]

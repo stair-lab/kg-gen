@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Clouds are a natural phenomenon.",
+    "retrieved_context": "temperature influence cloud formation. layers of air vary in humidity. cumulonimbus can bring heavy rain. water vapor condenses into ice crystals. sun's rays heat Earth's surface. air reaches dew point. cirrus are referred to as cirrus. condensation is crucial to cloud formation. air currents influence cloud formation. water vapor condenses into water droplets. cumulonimbus associated with thunderstorms. cirrus are observed in sky. clouds composed of condensation. dew point is the temperature at which water vapor. cumulus develop into cumulonimbus. cumulus composed of air. layers of air vary in temperature. ice crystals composed of clouds. sun heat Earth's surface. sun heat ground. clouds include stratus. clouds include cirrus. humidity influence cloud formation. clouds include cumulus. sun's rays heat ground. ground warms air. cirrus composed of ice crystals. water droplets composed of clouds.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Clouds can be observed in the sky.",
+    "retrieved_context": "temperature influence cloud formation. layers of air vary in humidity. cumulonimbus can bring heavy rain. water vapor condenses into ice crystals. sun's rays heat Earth's surface. cirrus are referred to as cirrus. condensation is crucial to cloud formation. air currents influence cloud formation. water vapor condenses into water droplets. cumulonimbus associated with thunderstorms. cirrus are observed in sky. clouds composed of condensation. dew point is the temperature at which water vapor. cumulus develop into cumulonimbus. cumulus composed of air. layers of air vary in temperature. ice crystals composed of clouds. sun heat Earth's surface. sun heat ground. clouds include stratus. clouds include cirrus. humidity influence cloud formation. clouds include cumulus. sun's rays heat ground. ground warms air. cirrus composed of ice crystals. water droplets composed of clouds.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Clouds are formed through a complex process.",
+    "retrieved_context": "temperature influence cloud formation. layers of air vary in humidity. cumulonimbus can bring heavy rain. water vapor condenses into ice crystals. air reaches dew point. cirrus are referred to as cirrus. condensation is crucial to cloud formation. water vapor condenses into water droplets. air currents influence cloud formation. cumulonimbus associated with thunderstorms. clouds composed of condensation. cirrus are observed in sky. dew point is the temperature at which water vapor. cumulus develop into cumulonimbus. cumulus composed of air. layers of air vary in temperature. ice crystals composed of clouds. clouds include stratus. clouds include cirrus. humidity influence cloud formation. clouds include cumulus. cirrus composed of ice crystals. water droplets composed of clouds.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cloud formation begins with the warming of the Earth's surface.",
+    "retrieved_context": "temperature influence cloud formation. layers of air vary in humidity. cumulonimbus can bring heavy rain. water vapor condenses into ice crystals. sun's rays heat Earth's surface. cirrus are referred to as cirrus. condensation is crucial to cloud formation. water vapor condenses into water droplets. air currents influence cloud formation. cumulonimbus associated with thunderstorms. clouds composed of condensation. cirrus are observed in sky. dew point is the temperature at which water vapor. cumulus develop into cumulonimbus. cumulus composed of air. layers of air vary in temperature. ice crystals composed of clouds. sun heat Earth's surface. sun heat ground. clouds include stratus. clouds include cirrus. humidity influence cloud formation. clouds include cumulus. sun's rays heat ground. cirrus composed of ice crystals. water droplets composed of clouds.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Warm air rises and cools as it moves higher into the atmosphere.",
+    "retrieved_context": "temperature influence cloud formation. air rises into air. layers of air vary in humidity. sun's rays heat Earth's surface. air reaches dew point. cirrus are referred to as cirrus. condensation is crucial to cloud formation. air currents influence cloud formation. dew point is the temperature at which water vapor. clouds composed of condensation. cirrus are observed in sky. cumulus develop into cumulonimbus. cumulus composed of air. layers of air vary in temperature. ice crystals composed of clouds. sun heat Earth's surface. sun heat ground. clouds include stratus. clouds include cirrus. humidity influence cloud formation. clouds include cumulus. sun's rays heat ground. ground warms air. cirrus composed of ice crystals. water droplets composed of clouds.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Air reaches its dew point during cloud formation.",
+    "retrieved_context": "temperature influence cloud formation. air rises into air. layers of air vary in humidity. water vapor condenses into ice crystals. air reaches dew point. cirrus are referred to as cirrus. condensation is crucial to cloud formation. water vapor condenses into water droplets. air currents influence cloud formation. clouds composed of condensation. cirrus are observed in sky. dew point is the temperature at which water vapor. cumulus develop into cumulonimbus. cumulus composed of air. layers of air vary in temperature. ice crystals composed of clouds. sun heat ground. clouds include stratus. clouds include cirrus. humidity influence cloud formation. clouds include cumulus. sun's rays heat ground. ground warms air. cirrus composed of ice crystals. water droplets composed of clouds.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Water vapor in the air condenses into tiny droplets or ice crystals.",
+    "retrieved_context": "temperature influence cloud formation. layers of air vary in humidity. water vapor condenses into ice crystals. air reaches dew point. cirrus are referred to as cirrus. condensation is crucial to cloud formation. air currents influence cloud formation. water vapor condenses into water droplets. clouds composed of condensation. dew point is the temperature at which water vapor. cirrus are observed in sky. cumulus develop into cumulonimbus. cumulus composed of air. layers of air vary in temperature. ice crystals composed of clouds. clouds include stratus. clouds include cirrus. humidity influence cloud formation. clouds include cumulus. cirrus composed of ice crystals. water droplets composed of clouds.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Tiny droplets or crystals come together to form clouds.",
+    "retrieved_context": "temperature influence cloud formation. layers of air vary in humidity. cumulonimbus can bring heavy rain. water vapor condenses into ice crystals. air reaches dew point. cirrus are referred to as cirrus. condensation is crucial to cloud formation. water vapor condenses into water droplets. air currents influence cloud formation. cumulonimbus associated with thunderstorms. clouds composed of condensation. cirrus are observed in sky. dew point is the temperature at which water vapor. cumulus develop into cumulonimbus. cumulus composed of air. layers of air vary in temperature. ice crystals composed of clouds. clouds include stratus. clouds include cirrus. humidity influence cloud formation. clouds include cumulus. cirrus composed of ice crystals. water droplets composed of clouds.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Condensation is crucial to cloud formation.",
+    "retrieved_context": "temperature influence cloud formation. layers of air vary in humidity. water vapor condenses into ice crystals. air reaches dew point. cirrus are referred to as cirrus. condensation is crucial to cloud formation. water vapor condenses into water droplets. air currents influence cloud formation. clouds composed of condensation. cirrus are observed in sky. dew point is the temperature at which water vapor. cumulus develop into cumulonimbus. cumulus composed of air. layers of air vary in temperature. ice crystals composed of clouds. clouds include stratus. clouds include cirrus. humidity influence cloud formation. clouds include cumulus. cirrus composed of ice crystals. water droplets composed of clouds.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Temperature and humidity influence cloud formation.",
+    "retrieved_context": "temperature influence cloud formation. layers of air vary in humidity. cumulonimbus can bring heavy rain. water vapor condenses into ice crystals. air reaches dew point. cirrus are referred to as cirrus. condensation is crucial to cloud formation. water vapor condenses into water droplets. air currents influence cloud formation. cumulonimbus associated with thunderstorms. clouds composed of condensation. cirrus are observed in sky. dew point is the temperature at which water vapor. cumulus develop into cumulonimbus. cumulus composed of air. layers of air vary in temperature. ice crystals composed of clouds. clouds include stratus. clouds include cirrus. humidity influence cloud formation. clouds include cumulus. cirrus composed of ice crystals. water droplets composed of clouds.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Air currents play a significant role in cloud formation.",
+    "retrieved_context": "temperature influence cloud formation. air rises into air. layers of air vary in humidity. cumulonimbus can bring heavy rain. water vapor condenses into ice crystals. air reaches dew point. cirrus are referred to as cirrus. condensation is crucial to cloud formation. water vapor condenses into water droplets. air currents influence cloud formation. cumulonimbus associated with thunderstorms. clouds composed of condensation. cirrus are observed in sky. dew point is the temperature at which water vapor. cumulus develop into cumulonimbus. cumulus composed of air. layers of air vary in temperature. ice crystals composed of clouds. sun heat ground. clouds include stratus. clouds include cirrus. humidity influence cloud formation. clouds include cumulus. sun's rays heat ground. ground warms air. cirrus composed of ice crystals. water droplets composed of clouds.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Different types of clouds can be observed in the sky.",
+    "retrieved_context": "temperature influence cloud formation. layers of air vary in humidity. cumulonimbus can bring heavy rain. water vapor condenses into ice crystals. sun's rays heat Earth's surface. cirrus are referred to as cirrus. condensation is crucial to cloud formation. air currents influence cloud formation. water vapor condenses into water droplets. cumulonimbus associated with thunderstorms. cirrus are observed in sky. clouds composed of condensation. dew point is the temperature at which water vapor. cumulus develop into cumulonimbus. cumulus composed of air. layers of air vary in temperature. ice crystals composed of clouds. sun heat Earth's surface. sun heat ground. clouds include stratus. clouds include cirrus. humidity influence cloud formation. clouds include cumulus. sun's rays heat ground. ground warms air. cirrus composed of ice crystals. water droplets composed of clouds.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cumulus clouds form when warm air rises rapidly.",
+    "retrieved_context": "temperature influence cloud formation. air rises into air. layers of air vary in humidity. cumulonimbus can bring heavy rain. water vapor condenses into ice crystals. air reaches dew point. cirrus are referred to as cirrus. condensation is crucial to cloud formation. air currents influence cloud formation. water vapor condenses into water droplets. cumulonimbus associated with thunderstorms. clouds composed of condensation. cirrus are observed in sky. dew point is the temperature at which water vapor. cumulus develop into cumulonimbus. cumulus composed of air. layers of air vary in temperature. ice crystals composed of clouds. clouds include stratus. clouds include cirrus. humidity influence cloud formation. clouds include cumulus. ground warms air. cirrus composed of ice crystals. water droplets composed of clouds.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Stratus clouds are low-lying clouds.",
+    "retrieved_context": "temperature influence cloud formation. layers of air vary in humidity. cumulonimbus can bring heavy rain. water vapor condenses into ice crystals. sun's rays heat Earth's surface. cirrus are referred to as cirrus. condensation is crucial to cloud formation. air currents influence cloud formation. water vapor condenses into water droplets. cumulonimbus associated with thunderstorms. clouds composed of condensation. cirrus are observed in sky. dew point is the temperature at which water vapor. cumulus develop into cumulonimbus. cumulus composed of air. layers of air vary in temperature. ice crystals composed of clouds. sun heat Earth's surface. sun heat ground. clouds include stratus. clouds include cirrus. humidity influence cloud formation. clouds include cumulus. sun's rays heat ground. ground warms air. cirrus composed of ice crystals. water droplets composed of clouds.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Cirrus clouds are high, wispy clouds.",
+    "retrieved_context": "temperature influence cloud formation. air rises into air. layers of air vary in humidity. cumulonimbus can bring heavy rain. water vapor condenses into ice crystals. air reaches dew point. cirrus are referred to as cirrus. condensation is crucial to cloud formation. air currents influence cloud formation. water vapor condenses into water droplets. cumulonimbus associated with thunderstorms. cirrus are observed in sky. clouds composed of condensation. dew point is the temperature at which water vapor. cumulus develop into cumulonimbus. cumulus composed of air. layers of air vary in temperature. ice crystals composed of clouds. clouds include stratus. clouds include cirrus. humidity influence cloud formation. clouds include cumulus. ground warms air. cirrus composed of ice crystals. water droplets composed of clouds.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "66.67%"
+  }
+]

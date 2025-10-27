@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "The wheel was invented around 3500 BC in Mesopotamia.",
+    "retrieved_context": "steam engine powered machinery. steam engine developed by James Watt. light bulb replaced gas lamps. steam engine revolutionized manufacturing processes. light bulb replaced candles. steam engine marked beginning of Industrial Revolution. light bulb invented by Thomas Edison. wheeled vehicles enabled by wheel. wheel revolutionized transportation. steam engine developed by Thomas Newcomen. wheel invented by Mesopotamia.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The wheel revolutionized transportation and enabled the development of wheeled vehicles.",
+    "retrieved_context": "steam engine powered machinery. steam engine developed by James Watt. steam engine revolutionized manufacturing processes. steam engine marked beginning of Industrial Revolution. wheeled vehicles enabled by wheel. wheel revolutionized transportation. steam engine developed by Thomas Newcomen. wheel invented by Mesopotamia.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The printing press was invented by Johannes Gutenberg in the 15th century.",
+    "retrieved_context": "printing press revolutionized information. printing press invented by Johannes Gutenberg. steam engine powered machinery. light bulb replaced gas lamps. steam engine developed by James Watt. telephone revolutionized communication. steam engine revolutionized manufacturing processes. steam engine developed by Thomas Newcomen. steam engine marked beginning of Industrial Revolution. light bulb invented by Thomas Edison. internet revolutionized information. light bulb replaced candles. telephone invented by Alexander Graham Bell.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The printing press revolutionized the dissemination of information.",
+    "retrieved_context": "printing press revolutionized information. printing press invented by Johannes Gutenberg. internet paved way for e-commerce. steam engine powered machinery. steam engine developed by James Watt. internet revolutionized communication. telephone revolutionized communication. steam engine revolutionized manufacturing processes. internet paved way for digital technologies. internet paved way for social media. steam engine marked beginning of Industrial Revolution. telephone invented by Alexander Graham Bell. internet revolutionized information. steam engine developed by Thomas Newcomen. internet developed by Tim Berners-Lee.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The steam engine was invented in the 18th century.",
+    "retrieved_context": "steam engine powered machinery. steam engine developed by James Watt. light bulb replaced gas lamps. steam engine revolutionized manufacturing processes. light bulb replaced candles. steam engine marked beginning of Industrial Revolution. light bulb invented by Thomas Edison. wheeled vehicles enabled by wheel. wheel revolutionized transportation. steam engine developed by Thomas Newcomen. wheel invented by Mesopotamia.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The steam engine powered machinery and revolutionized manufacturing processes.",
+    "retrieved_context": "steam engine powered machinery. steam engine developed by James Watt. steam engine revolutionized manufacturing processes. steam engine marked beginning of Industrial Revolution. steam engine developed by Thomas Newcomen.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The telephone was invented by Alexander Graham Bell in the 19th century.",
+    "retrieved_context": "printing press revolutionized information. printing press invented by Johannes Gutenberg. internet paved way for e-commerce. internet developed by Tim Berners-Lee. telephone revolutionized communication. light bulb replaced gas lamps. internet revolutionized communication. steam engine powered machinery. steam engine developed by James Watt. steam engine revolutionized manufacturing processes. steam engine developed by Thomas Newcomen. internet paved way for digital technologies. internet paved way for social media. steam engine marked beginning of Industrial Revolution. light bulb invented by Thomas Edison. internet revolutionized information. light bulb replaced candles. telephone invented by Alexander Graham Bell.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The telephone transformed communication over long distances.",
+    "retrieved_context": "internet paved way for e-commerce. internet developed by Tim Berners-Lee. printing press revolutionized information. telephone revolutionized communication. steam engine powered machinery. internet revolutionized communication. steam engine developed by James Watt. wheel revolutionized transportation. steam engine revolutionized manufacturing processes. internet paved way for digital technologies. internet paved way for social media. steam engine marked beginning of Industrial Revolution. wheeled vehicles enabled by wheel. internet revolutionized information. steam engine developed by Thomas Newcomen. telephone invented by Alexander Graham Bell. wheel invented by Mesopotamia.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The light bulb was invented by Thomas Edison in the late 19th century.",
+    "retrieved_context": "steam engine powered machinery. light bulb replaced gas lamps. steam engine developed by James Watt. telephone revolutionized communication. steam engine revolutionized manufacturing processes. steam engine developed by Thomas Newcomen. steam engine marked beginning of Industrial Revolution. light bulb invented by Thomas Edison. light bulb replaced candles. telephone invented by Alexander Graham Bell.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The light bulb replaced gas lamps and candles as the primary source of lighting.",
+    "retrieved_context": "steam engine powered machinery. light bulb replaced gas lamps. steam engine developed by James Watt. steam engine revolutionized manufacturing processes. steam engine developed by Thomas Newcomen. steam engine marked beginning of Industrial Revolution. light bulb invented by Thomas Edison. light bulb replaced candles.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The computer was invented in the 20th century.",
+    "retrieved_context": "internet paved way for e-commerce. ENIAC is a computer. steam engine powered machinery. internet revolutionized communication. steam engine developed by James Watt. light bulb replaced gas lamps. steam engine revolutionized manufacturing processes. internet paved way for digital technologies. internet paved way for social media. light bulb replaced candles. steam engine marked beginning of Industrial Revolution. light bulb invented by Thomas Edison. internet revolutionized information. steam engine developed by Thomas Newcomen. internet developed by Tim Berners-Lee. computer ushered in digital age.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The computer ushered in the digital age and revolutionized various aspects of life.",
+    "retrieved_context": "internet paved way for e-commerce. printing press revolutionized information. ENIAC is a computer. steam engine powered machinery. internet revolutionized communication. steam engine developed by James Watt. telephone revolutionized communication. steam engine revolutionized manufacturing processes. internet paved way for digital technologies. internet paved way for social media. steam engine marked beginning of Industrial Revolution. internet revolutionized information. steam engine developed by Thomas Newcomen. internet developed by Tim Berners-Lee. computer ushered in digital age.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The internet was developed in the late 20th century.",
+    "retrieved_context": "printing press revolutionized information. internet paved way for e-commerce. telephone revolutionized communication. ENIAC is a computer. internet revolutionized communication. steam engine powered machinery. steam engine developed by James Watt. steam engine revolutionized manufacturing processes. internet paved way for digital technologies. internet paved way for social media. steam engine marked beginning of Industrial Revolution. internet revolutionized information. steam engine developed by Thomas Newcomen. internet developed by Tim Berners-Lee. computer ushered in digital age.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The internet revolutionized access to information and communication.",
+    "retrieved_context": "printing press revolutionized information. internet paved way for e-commerce. telephone revolutionized communication. steam engine powered machinery. internet revolutionized communication. steam engine developed by James Watt. ENIAC is a computer. steam engine revolutionized manufacturing processes. internet paved way for digital technologies. internet paved way for social media. steam engine marked beginning of Industrial Revolution. telephone invented by Alexander Graham Bell. internet revolutionized information. steam engine developed by Thomas Newcomen. internet developed by Tim Berners-Lee. computer ushered in digital age.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Inventions have played a crucial role in shaping human history and driving progress.",
+    "retrieved_context": "steam engine powered machinery. steam engine developed by James Watt. light bulb replaced gas lamps. steam engine revolutionized manufacturing processes. light bulb replaced candles. steam engine marked beginning of Industrial Revolution. light bulb invented by Thomas Edison. wheeled vehicles enabled by wheel. wheel revolutionized transportation. steam engine developed by Thomas Newcomen. wheel invented by Mesopotamia.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

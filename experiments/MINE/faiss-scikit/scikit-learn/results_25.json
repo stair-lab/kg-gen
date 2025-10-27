@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Hoaxes have been a part of human history for centuries.",
+    "retrieved_context": "human cranium part of Piltdown Man. Han van Meegeren forged Vermeer paintings. Sokal Affair published in Social Text. Martian invasion subject of War of the Worlds. orangutan jawbone part of Piltdown Man. Piltdown Man discovered in England. Hermann G\u00c3\u00b6ring purchased Vermeer paintings. War of the Worlds adapted from H.G. Wells. Alan Sokal related to Sokal Affair. War of the Worlds broadcast by Orson Welles.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Individuals and groups perpetrate elaborate deceptions for various purposes.",
+    "retrieved_context": "human cranium part of Piltdown Man. Han van Meegeren forged Vermeer paintings. Sokal Affair published in Social Text. Martian invasion subject of War of the Worlds. orangutan jawbone part of Piltdown Man. Piltdown Man discovered in England. Hermann G\u00c3\u00b6ring purchased Vermeer paintings. War of the Worlds adapted from H.G. Wells. Alan Sokal related to Sokal Affair. War of the Worlds broadcast by Orson Welles.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Hoaxes often capture the public's imagination.",
+    "retrieved_context": "human cranium part of Piltdown Man. Han van Meegeren forged Vermeer paintings. Sokal Affair published in Social Text. Martian invasion subject of War of the Worlds. orangutan jawbone part of Piltdown Man. Piltdown Man discovered in England. Cardiff Giant discovered in Cardiff, New York. Hermann G\u00c3\u00b6ring purchased Vermeer paintings. Cardiff Giant created by George Hull. War of the Worlds adapted from H.G. Wells. Alan Sokal related to Sokal Affair. War of the Worlds broadcast by Orson Welles.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Hoaxes spark debate about the nature of truth and deception.",
+    "retrieved_context": "human cranium part of Piltdown Man. Sokal Affair published in Social Text. Martian invasion subject of War of the Worlds. orangutan jawbone part of Piltdown Man. Piltdown Man discovered in England. War of the Worlds adapted from H.G. Wells. Alan Sokal related to Sokal Affair. War of the Worlds broadcast by Orson Welles.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Piltdown Man hoax was discovered in England in 1912.",
+    "retrieved_context": "human cranium part of Piltdown Man. Han van Meegeren forged Vermeer paintings. Martian invasion subject of War of the Worlds. orangutan jawbone part of Piltdown Man. Piltdown Man discovered in England. Cardiff Giant discovered in Cardiff, New York. Cardiff Giant created by George Hull. Hermann G\u00c3\u00b6ring purchased Vermeer paintings. War of the Worlds adapted from H.G. Wells. War of the Worlds broadcast by Orson Welles.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Piltdown Man was a supposed missing link between humans and apes.",
+    "retrieved_context": "human cranium part of Piltdown Man. Han van Meegeren forged Vermeer paintings. Martian invasion subject of War of the Worlds. orangutan jawbone part of Piltdown Man. Piltdown Man discovered in England. Hermann G\u00c3\u00b6ring purchased Vermeer paintings. War of the Worlds adapted from H.G. Wells. War of the Worlds broadcast by Orson Welles.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Piltdown Man was revealed to be a forgery in 1953.",
+    "retrieved_context": "human cranium part of Piltdown Man. Han van Meegeren forged Vermeer paintings. Sokal Affair published in Social Text. Martian invasion subject of War of the Worlds. orangutan jawbone part of Piltdown Man. Piltdown Man discovered in England. Hermann G\u00c3\u00b6ring purchased Vermeer paintings. War of the Worlds adapted from H.G. Wells. Alan Sokal related to Sokal Affair. War of the Worlds broadcast by Orson Welles.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Cardiff Giant hoax was discovered in Cardiff, New York, in 1869.",
+    "retrieved_context": "human cranium part of Piltdown Man. Han van Meegeren forged Vermeer paintings. Martian invasion subject of War of the Worlds. orangutan jawbone part of Piltdown Man. Cardiff Giant discovered in Cardiff, New York. Piltdown Man discovered in England. Cardiff Giant created by George Hull. Hermann G\u00c3\u00b6ring purchased Vermeer paintings. War of the Worlds adapted from H.G. Wells. War of the Worlds broadcast by Orson Welles.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Cardiff Giant was later revealed to be a sculpture created by George Hull.",
+    "retrieved_context": "human cranium part of Piltdown Man. Han van Meegeren forged Vermeer paintings. orangutan jawbone part of Piltdown Man. Cardiff Giant discovered in Cardiff, New York. Piltdown Man discovered in England. Cardiff Giant created by George Hull. Hermann G\u00c3\u00b6ring purchased Vermeer paintings.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The War of the Worlds radio broadcast by Orson Welles occurred in 1938.",
+    "retrieved_context": "human cranium part of Piltdown Man. Han van Meegeren forged Vermeer paintings. Martian invasion subject of War of the Worlds. orangutan jawbone part of Piltdown Man. Cardiff Giant discovered in Cardiff, New York. Piltdown Man discovered in England. Cardiff Giant created by George Hull. Hermann G\u00c3\u00b6ring purchased Vermeer paintings. War of the Worlds adapted from H.G. Wells. War of the Worlds broadcast by Orson Welles.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The War of the Worlds broadcast led to panic and confusion.",
+    "retrieved_context": "human cranium part of Piltdown Man. Sokal Affair published in Social Text. Martian invasion subject of War of the Worlds. orangutan jawbone part of Piltdown Man. Piltdown Man discovered in England. Cardiff Giant discovered in Cardiff, New York. Cardiff Giant created by George Hull. War of the Worlds adapted from H.G. Wells. Alan Sokal related to Sokal Affair. War of the Worlds broadcast by Orson Welles.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Han van Meegeren created and sold fake Vermeer paintings during the 1930s and 1940s.",
+    "retrieved_context": "human cranium part of Piltdown Man. Han van Meegeren forged Vermeer paintings. Martian invasion subject of War of the Worlds. orangutan jawbone part of Piltdown Man. Cardiff Giant discovered in Cardiff, New York. Piltdown Man discovered in England. Hermann G\u00c3\u00b6ring purchased Vermeer paintings. Cardiff Giant created by George Hull. War of the Worlds adapted from H.G. Wells. War of the Worlds broadcast by Orson Welles.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Sokal Affair of 1996 exposed the shortcomings of postmodernist academic discourse.",
+    "retrieved_context": "human cranium part of Piltdown Man. Sokal Affair published in Social Text. Martian invasion subject of War of the Worlds. orangutan jawbone part of Piltdown Man. Piltdown Man discovered in England. War of the Worlds adapted from H.G. Wells. Alan Sokal related to Sokal Affair. War of the Worlds broadcast by Orson Welles.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Alan Sokal submitted a fake paper to the journal Social Text.",
+    "retrieved_context": "human cranium part of Piltdown Man. Han van Meegeren forged Vermeer paintings. Sokal Affair published in Social Text. Martian invasion subject of War of the Worlds. orangutan jawbone part of Piltdown Man. Cardiff Giant discovered in Cardiff, New York. Piltdown Man discovered in England. Hermann G\u00c3\u00b6ring purchased Vermeer paintings. Cardiff Giant created by George Hull. War of the Worlds adapted from H.G. Wells. Alan Sokal related to Sokal Affair. War of the Worlds broadcast by Orson Welles.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Hoaxes have tested the boundaries of truth and fiction.",
+    "retrieved_context": "human cranium part of Piltdown Man. Han van Meegeren forged Vermeer paintings. Sokal Affair published in Social Text. Martian invasion subject of War of the Worlds. orangutan jawbone part of Piltdown Man. Piltdown Man discovered in England. Hermann G\u00c3\u00b6ring purchased Vermeer paintings. War of the Worlds adapted from H.G. Wells. Alan Sokal related to Sokal Affair. War of the Worlds broadcast by Orson Welles.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "40.00%"
+  }
+]

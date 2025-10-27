@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "The Olympic Games are one of the most prestigious sporting events in the world.",
+    "retrieved_context": "Roman Emperor Theodosius abolished ancient Olympic Games. athletes compete in boxing. ancient Olympic Games include swimming. ancient Olympic Games include athletes. Pierre de Coubertin founded modern Olympic Games. athletes compete in chariot racing. ancient Olympic Games dedicated to Zeus. ancient Olympic Games include beach volleyball. ancient Olympic Games incompatible with Christianity. athletes compete in running. ancient Olympic Games include snowboarding. athletes compete in wrestling. ancient Olympic Games have origins in ancient Greece. 1936 Berlin Olympics used by Nazi Germany. Soviet Union invasion of Afghanistan. ancient Olympic Games first held in Olympia. Pierre de Coubertin is a French educator. ancient Olympic Games held in Athens. 1980 Moscow Olympics protest of Soviet Union.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Olympic Games have a rich history dating back to ancient Greece.",
+    "retrieved_context": "Roman Emperor Theodosius abolished ancient Olympic Games. athletes compete in boxing. ancient Olympic Games include swimming. ancient Olympic Games include athletes. Pierre de Coubertin founded modern Olympic Games. athletes compete in chariot racing. ancient Olympic Games dedicated to Zeus. ancient Olympic Games include beach volleyball. ancient Olympic Games incompatible with Christianity. athletes compete in running. ancient Olympic Games include snowboarding. athletes compete in wrestling. ancient Olympic Games have origins in ancient Greece. 1936 Berlin Olympics used by Nazi Germany. Soviet Union invasion of Afghanistan. ancient Olympic Games first held in Olympia. Pierre de Coubertin is a French educator. ancient Olympic Games held in Athens. 1980 Moscow Olympics protest of Soviet Union.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The ancient Olympic Games were held in honor of the Greek god Zeus.",
+    "retrieved_context": "athletes compete in wrestling. Roman Emperor Theodosius abolished ancient Olympic Games. ancient Olympic Games have origins in ancient Greece. Pierre de Coubertin is a French educator. Pierre de Coubertin founded modern Olympic Games. ancient Olympic Games include beach volleyball. ancient Olympic Games include athletes. athletes compete in boxing. athletes compete in chariot racing. ancient Olympic Games held in Athens. Soviet Union invasion of Afghanistan. ancient Olympic Games first held in Olympia. ancient Olympic Games dedicated to Zeus. ancient Olympic Games incompatible with Christianity. 1980 Moscow Olympics protest of Soviet Union. ancient Olympic Games include swimming. athletes compete in running. ancient Olympic Games include snowboarding.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The ancient Olympic Games were first held in 776 BC in Olympia, Greece.",
+    "retrieved_context": "Roman Emperor Theodosius abolished ancient Olympic Games. athletes compete in boxing. ancient Olympic Games include swimming. ancient Olympic Games include athletes. Pierre de Coubertin founded modern Olympic Games. athletes compete in chariot racing. ancient Olympic Games dedicated to Zeus. ancient Olympic Games include beach volleyball. ancient Olympic Games incompatible with Christianity. athletes compete in running. ancient Olympic Games include snowboarding. athletes compete in wrestling. ancient Olympic Games have origins in ancient Greece. 1936 Berlin Olympics used by Nazi Germany. Soviet Union invasion of Afghanistan. ancient Olympic Games first held in Olympia. Pierre de Coubertin is a French educator. ancient Olympic Games held in Athens. 1980 Moscow Olympics protest of Soviet Union.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The ancient Olympic Games were a religious festival dedicated to Zeus.",
+    "retrieved_context": "athletes compete in wrestling. Roman Emperor Theodosius abolished ancient Olympic Games. ancient Olympic Games have origins in ancient Greece. Pierre de Coubertin is a French educator. Pierre de Coubertin founded modern Olympic Games. ancient Olympic Games include beach volleyball. ancient Olympic Games include athletes. athletes compete in boxing. athletes compete in chariot racing. 1936 Berlin Olympics used by Nazi Germany. ancient Olympic Games held in Athens. ancient Olympic Games first held in Olympia. ancient Olympic Games dedicated to Zeus. ancient Olympic Games incompatible with Christianity. ancient Olympic Games include swimming. athletes compete in running. ancient Olympic Games include snowboarding.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Athletes from various city-states would gather to compete in the ancient Olympics.",
+    "retrieved_context": "Roman Emperor Theodosius abolished ancient Olympic Games. athletes compete in boxing. ancient Olympic Games include swimming. ancient Olympic Games include athletes. Pierre de Coubertin founded modern Olympic Games. athletes compete in chariot racing. ancient Olympic Games dedicated to Zeus. ancient Olympic Games include beach volleyball. ancient Olympic Games incompatible with Christianity. athletes compete in running. ancient Olympic Games include snowboarding. athletes compete in wrestling. ancient Olympic Games have origins in ancient Greece. 1936 Berlin Olympics used by Nazi Germany. Soviet Union invasion of Afghanistan. ancient Olympic Games first held in Olympia. Pierre de Coubertin is a French educator. ancient Olympic Games held in Athens. 1980 Moscow Olympics protest of Soviet Union.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The ancient Olympics included events like running, wrestling, boxing, and chariot racing.",
+    "retrieved_context": "Roman Emperor Theodosius abolished ancient Olympic Games. athletes compete in boxing. ancient Olympic Games include swimming. ancient Olympic Games include athletes. Pierre de Coubertin founded modern Olympic Games. athletes compete in chariot racing. ancient Olympic Games dedicated to Zeus. ancient Olympic Games include beach volleyball. ancient Olympic Games incompatible with Christianity. athletes compete in running. ancient Olympic Games include snowboarding. athletes compete in wrestling. ancient Olympic Games have origins in ancient Greece. 1936 Berlin Olympics used by Nazi Germany. Soviet Union invasion of Afghanistan. ancient Olympic Games first held in Olympia. Pierre de Coubertin is a French educator. ancient Olympic Games held in Athens. 1980 Moscow Olympics protest of Soviet Union.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The ancient Olympic Games were held every four years.",
+    "retrieved_context": "Roman Emperor Theodosius abolished ancient Olympic Games. athletes compete in boxing. ancient Olympic Games include swimming. ancient Olympic Games include athletes. Pierre de Coubertin founded modern Olympic Games. athletes compete in chariot racing. ancient Olympic Games dedicated to Zeus. ancient Olympic Games include beach volleyball. ancient Olympic Games incompatible with Christianity. athletes compete in running. ancient Olympic Games include snowboarding. athletes compete in wrestling. ancient Olympic Games have origins in ancient Greece. 1936 Berlin Olympics used by Nazi Germany. Soviet Union invasion of Afghanistan. ancient Olympic Games first held in Olympia. Pierre de Coubertin is a French educator. ancient Olympic Games held in Athens. 1980 Moscow Olympics protest of Soviet Union.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The ancient Olympics were abolished by the Roman Emperor Theodosius in 393 AD.",
+    "retrieved_context": "Roman Emperor Theodosius abolished ancient Olympic Games. athletes compete in boxing. Citius, Altius, Fortius means Faster, Higher, Stronger. ancient Olympic Games include swimming. ancient Olympic Games include athletes. Pierre de Coubertin founded modern Olympic Games. athletes compete in chariot racing. ancient Olympic Games dedicated to Zeus. ancient Olympic Games include beach volleyball. ancient Olympic Games incompatible with Christianity. athletes compete in running. ancient Olympic Games include snowboarding. athletes compete in wrestling. ancient Olympic Games have origins in ancient Greece. 1936 Berlin Olympics used by Nazi Germany. Soviet Union invasion of Afghanistan. ancient Olympic Games first held in Olympia. Pierre de Coubertin is a French educator. ancient Olympic Games held in Athens. 1980 Moscow Olympics protest of Soviet Union.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The modern Olympic Games were founded by Pierre de Coubertin in 1894.",
+    "retrieved_context": "Roman Emperor Theodosius abolished ancient Olympic Games. athletes compete in boxing. Citius, Altius, Fortius means Faster, Higher, Stronger. ancient Olympic Games include swimming. ancient Olympic Games include athletes. Pierre de Coubertin founded modern Olympic Games. athletes compete in chariot racing. ancient Olympic Games dedicated to Zeus. ancient Olympic Games include beach volleyball. ancient Olympic Games incompatible with Christianity. athletes compete in running. ancient Olympic Games include snowboarding. athletes compete in wrestling. ancient Olympic Games have origins in ancient Greece. 1936 Berlin Olympics used by Nazi Germany. Soviet Union invasion of Afghanistan. ancient Olympic Games first held in Olympia. Pierre de Coubertin is a French educator. ancient Olympic Games held in Athens. 1980 Moscow Olympics protest of Soviet Union.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The first modern Olympic Games were held in Athens, Greece, in 1896.",
+    "retrieved_context": "Roman Emperor Theodosius abolished ancient Olympic Games. athletes compete in boxing. ancient Olympic Games include swimming. ancient Olympic Games include athletes. Pierre de Coubertin founded modern Olympic Games. athletes compete in chariot racing. ancient Olympic Games dedicated to Zeus. ancient Olympic Games include beach volleyball. ancient Olympic Games incompatible with Christianity. athletes compete in running. ancient Olympic Games include snowboarding. athletes compete in wrestling. ancient Olympic Games have origins in ancient Greece. 1936 Berlin Olympics used by Nazi Germany. Soviet Union invasion of Afghanistan. ancient Olympic Games first held in Olympia. Pierre de Coubertin is a French educator. ancient Olympic Games held in Athens. 1980 Moscow Olympics protest of Soviet Union.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The modern Olympics were inspired by the ancient Olympics.",
+    "retrieved_context": "Roman Emperor Theodosius abolished ancient Olympic Games. athletes compete in boxing. ancient Olympic Games include swimming. ancient Olympic Games include athletes. Pierre de Coubertin founded modern Olympic Games. athletes compete in chariot racing. ancient Olympic Games dedicated to Zeus. ancient Olympic Games include beach volleyball. ancient Olympic Games incompatible with Christianity. athletes compete in running. ancient Olympic Games include snowboarding. athletes compete in wrestling. ancient Olympic Games have origins in ancient Greece. 1936 Berlin Olympics used by Nazi Germany. Soviet Union invasion of Afghanistan. ancient Olympic Games first held in Olympia. Pierre de Coubertin is a French educator. ancient Olympic Games held in Athens. 1980 Moscow Olympics protest of Soviet Union.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Olympic Games have grown in size and popularity since their revival.",
+    "retrieved_context": "Roman Emperor Theodosius abolished ancient Olympic Games. athletes compete in boxing. ancient Olympic Games include swimming. ancient Olympic Games include athletes. Pierre de Coubertin founded modern Olympic Games. athletes compete in chariot racing. ancient Olympic Games dedicated to Zeus. ancient Olympic Games include beach volleyball. ancient Olympic Games incompatible with Christianity. athletes compete in running. ancient Olympic Games include snowboarding. athletes compete in wrestling. ancient Olympic Games have origins in ancient Greece. 1936 Berlin Olympics used by Nazi Germany. Soviet Union invasion of Afghanistan. ancient Olympic Games first held in Olympia. Pierre de Coubertin is a French educator. ancient Olympic Games held in Athens. 1980 Moscow Olympics protest of Soviet Union.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Olympic Games have expanded to include a wide range of sports.",
+    "retrieved_context": "Roman Emperor Theodosius abolished ancient Olympic Games. athletes compete in boxing. ancient Olympic Games include swimming. ancient Olympic Games include athletes. Pierre de Coubertin founded modern Olympic Games. athletes compete in chariot racing. ancient Olympic Games dedicated to Zeus. ancient Olympic Games include beach volleyball. ancient Olympic Games incompatible with Christianity. athletes compete in running. ancient Olympic Games include snowboarding. athletes compete in wrestling. ancient Olympic Games have origins in ancient Greece. 1936 Berlin Olympics used by Nazi Germany. Soviet Union invasion of Afghanistan. ancient Olympic Games first held in Olympia. Pierre de Coubertin is a French educator. ancient Olympic Games held in Athens. 1980 Moscow Olympics protest of Soviet Union.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Olympic Games have been marred by political disputes, boycotts, and doping scandals.",
+    "retrieved_context": "Roman Emperor Theodosius abolished ancient Olympic Games. athletes compete in boxing. ancient Olympic Games include swimming. ancient Olympic Games include athletes. Pierre de Coubertin founded modern Olympic Games. athletes compete in chariot racing. ancient Olympic Games dedicated to Zeus. ancient Olympic Games include beach volleyball. ancient Olympic Games incompatible with Christianity. athletes compete in running. ancient Olympic Games include snowboarding. athletes compete in wrestling. ancient Olympic Games have origins in ancient Greece. 1936 Berlin Olympics used by Nazi Germany. Soviet Union invasion of Afghanistan. ancient Olympic Games first held in Olympia. Pierre de Coubertin is a French educator. ancient Olympic Games held in Athens. 1980 Moscow Olympics protest of Soviet Union.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "40.00%"
+  }
+]

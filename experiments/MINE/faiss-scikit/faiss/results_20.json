@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Cryptocurrencies revolutionized the way we think about money and transactions.",
+    "retrieved_context": "Bitcoin was created by Satoshi Nakamoto. cryptocurrencies are also known as cryptocurrencies. cryptocurrencies attract institutional investors. cryptocurrencies contribute to financial inclusion. Bitcoin led to the emergence of altcoins. blockchain is a distributed ledger technology. blockchain enables smart contracts. regulation affects cryptocurrencies. cryptocurrencies attract retail investors. smart contracts are implemented in code. cryptocurrencies utilize blockchain.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Bitcoin was created in 2009 by an anonymous individual or group known as Satoshi Nakamoto.",
+    "retrieved_context": "Bitcoin was created by Satoshi Nakamoto. cryptocurrencies are also known as cryptocurrencies. cryptocurrencies attract institutional investors. Bitcoin led to the emergence of altcoins. cryptocurrencies contribute to financial inclusion. blockchain is a distributed ledger technology. blockchain enables smart contracts. regulation affects cryptocurrencies. cryptocurrencies attract retail investors. smart contracts are implemented in code. cryptocurrencies utilize blockchain.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Cryptocurrencies have become a significant player in the global economy.",
+    "retrieved_context": "Bitcoin was created by Satoshi Nakamoto. cryptocurrencies are also known as cryptocurrencies. cryptocurrencies attract institutional investors. cryptocurrencies contribute to financial inclusion. Bitcoin led to the emergence of altcoins. blockchain is a distributed ledger technology. blockchain enables smart contracts. regulation affects cryptocurrencies. cryptocurrencies attract retail investors. smart contracts are implemented in code. cryptocurrencies utilize blockchain.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Cryptocurrencies are decentralized digital assets.",
+    "retrieved_context": "Bitcoin was created by Satoshi Nakamoto. cryptocurrencies are also known as cryptocurrencies. cryptocurrencies attract institutional investors. cryptocurrencies contribute to financial inclusion. Bitcoin led to the emergence of altcoins. blockchain is a distributed ledger technology. blockchain enables smart contracts. regulation affects cryptocurrencies. cryptocurrencies attract retail investors. smart contracts are implemented in code. cryptocurrencies utilize blockchain.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Cryptocurrencies operate on a peer-to-peer network.",
+    "retrieved_context": "Bitcoin was created by Satoshi Nakamoto. cryptocurrencies are also known as cryptocurrencies. cryptocurrencies attract institutional investors. cryptocurrencies contribute to financial inclusion. Bitcoin led to the emergence of altcoins. blockchain is a distributed ledger technology. blockchain enables smart contracts. regulation affects cryptocurrencies. cryptocurrencies attract retail investors. smart contracts are implemented in code. cryptocurrencies utilize blockchain.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Transactions occur directly between users without intermediaries in cryptocurrencies.",
+    "retrieved_context": "Bitcoin was created by Satoshi Nakamoto. cryptocurrencies are also known as cryptocurrencies. cryptocurrencies attract institutional investors. cryptocurrencies contribute to financial inclusion. Bitcoin led to the emergence of altcoins. regulatory bodies have concerns about money laundering. blockchain is a distributed ledger technology. blockchain enables smart contracts. regulation affects cryptocurrencies. cryptocurrencies attract retail investors. regulatory bodies have concerns about consumer protection. smart contracts are implemented in code. cryptocurrencies utilize blockchain. regulatory bodies have concerns about tax evasion.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Decentralization provides users with more control over their funds in cryptocurrencies.",
+    "retrieved_context": "Bitcoin was created by Satoshi Nakamoto. cryptocurrencies are also known as cryptocurrencies. cryptocurrencies attract institutional investors. cryptocurrencies contribute to financial inclusion. Bitcoin led to the emergence of altcoins. blockchain is a distributed ledger technology. blockchain enables smart contracts. regulation affects cryptocurrencies. cryptocurrencies attract retail investors. smart contracts are implemented in code. cryptocurrencies utilize blockchain.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Decentralization enhances security and privacy in cryptocurrencies.",
+    "retrieved_context": "Bitcoin was created by Satoshi Nakamoto. cryptocurrencies are also known as cryptocurrencies. cryptocurrencies attract institutional investors. cryptocurrencies contribute to financial inclusion. Bitcoin led to the emergence of altcoins. blockchain is a distributed ledger technology. blockchain enables smart contracts. regulation affects cryptocurrencies. cryptocurrencies attract retail investors. smart contracts are implemented in code. cryptocurrencies utilize blockchain.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Blockchain is the technology that underpins cryptocurrencies.",
+    "retrieved_context": "Bitcoin was created by Satoshi Nakamoto. cryptocurrencies are also known as cryptocurrencies. cryptocurrencies attract institutional investors. cryptocurrencies contribute to financial inclusion. Bitcoin led to the emergence of altcoins. regulatory bodies have concerns about money laundering. blockchain is a distributed ledger technology. blockchain enables smart contracts. regulation affects cryptocurrencies. cryptocurrencies attract retail investors. smart contracts are implemented in code. regulatory bodies have concerns about consumer protection. cryptocurrencies utilize blockchain. regulatory bodies have concerns about tax evasion.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Blockchain ensures transparency and immutability of transactions.",
+    "retrieved_context": "Bitcoin was created by Satoshi Nakamoto. cryptocurrencies are also known as cryptocurrencies. cryptocurrencies attract institutional investors. cryptocurrencies contribute to financial inclusion. Bitcoin led to the emergence of altcoins. regulatory bodies have concerns about money laundering. blockchain is a distributed ledger technology. blockchain enables smart contracts. regulation affects cryptocurrencies. cryptocurrencies attract retail investors. smart contracts are implemented in code. regulatory bodies have concerns about consumer protection. cryptocurrencies utilize blockchain. regulatory bodies have concerns about tax evasion.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Each transaction in blockchain is recorded in a block.",
+    "retrieved_context": "Bitcoin was created by Satoshi Nakamoto. cryptocurrencies are also known as cryptocurrencies. cryptocurrencies attract institutional investors. cryptocurrencies contribute to financial inclusion. Bitcoin led to the emergence of altcoins. blockchain is a distributed ledger technology. blockchain enables smart contracts. regulation affects cryptocurrencies. cryptocurrencies attract retail investors. smart contracts are implemented in code. cryptocurrencies utilize blockchain.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Blockchain forms a chain of blocks that cannot be altered once validated.",
+    "retrieved_context": "Bitcoin was created by Satoshi Nakamoto. cryptocurrencies are also known as cryptocurrencies. cryptocurrencies attract institutional investors. cryptocurrencies contribute to financial inclusion. Bitcoin led to the emergence of altcoins. regulatory bodies have concerns about money laundering. blockchain is a distributed ledger technology. blockchain enables smart contracts. regulation affects cryptocurrencies. cryptocurrencies attract retail investors. smart contracts are implemented in code. regulatory bodies have concerns about consumer protection. cryptocurrencies utilize blockchain. regulatory bodies have concerns about tax evasion.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Smart contracts are self-executing contracts with terms written into code.",
+    "retrieved_context": "cryptocurrencies attract institutional investors. cryptocurrencies contribute to financial inclusion. cryptocurrencies are also known as cryptocurrencies. blockchain is a distributed ledger technology. blockchain enables smart contracts. regulation affects cryptocurrencies. cryptocurrencies attract retail investors. smart contracts are implemented in code. cryptocurrencies utilize blockchain.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Smart contracts automatically enforce and execute themselves when conditions are met.",
+    "retrieved_context": "cryptocurrencies are also known as cryptocurrencies. cryptocurrencies attract institutional investors. cryptocurrencies contribute to financial inclusion. regulatory bodies have concerns about money laundering. blockchain is a distributed ledger technology. blockchain enables smart contracts. regulation affects cryptocurrencies. cryptocurrencies attract retail investors. smart contracts are implemented in code. regulatory bodies have concerns about consumer protection. cryptocurrencies utilize blockchain. regulatory bodies have concerns about tax evasion.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Cryptocurrencies offer financial inclusion to individuals in underserved communities.",
+    "retrieved_context": "Bitcoin was created by Satoshi Nakamoto. cryptocurrencies are also known as cryptocurrencies. cryptocurrencies attract institutional investors. cryptocurrencies contribute to financial inclusion. Bitcoin led to the emergence of altcoins. blockchain is a distributed ledger technology. blockchain enables smart contracts. regulation affects cryptocurrencies. cryptocurrencies attract retail investors. smart contracts are implemented in code. cryptocurrencies utilize blockchain.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "6.67%"
+  }
+]

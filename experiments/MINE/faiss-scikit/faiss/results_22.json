@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Social media revolutionized communication in the digital age.",
+    "retrieved_context": "Facebook enables instant messaging. social media enables diversity. Facebook enables social networking features. underrepresented communities share rumors. instant messaging enables updates. Instagram enables instant messaging. social media enables inclusion. Twitter enables instant messaging. underrepresented communities causes social injustices. video calls enables thoughts. Snapchat enables instant messaging. Twitter enables video calls. democratization of information enables inclusion. Twitter enables underrepresented communities. democratization of information enables diversity. social media enables social activism. Facebook enables video calls. Social media revolutionized communication.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Social media impacted relationships, behaviors, and perceptions.",
+    "retrieved_context": "conversations address social issues. social media enables inclusion. underrepresented communities causes social injustices. Twitter enables underrepresented communities. democratization of information enables diversity. social media enables social activism. Snapchat enables instant messaging. Instagram enables instant messaging. Twitter enables instant messaging. video calls enables thoughts. Twitter enables video calls. Facebook enables instant messaging. Facebook enables social networking features. underrepresented communities share rumors. Social media revolutionized communication. online relationships are prioritized over face-to-face interactions. social media enables diversity. instant messaging enables updates. current events enables conversations. conversations enables current events. democratization of information enables inclusion. Facebook enables video calls.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Social media influenced communication positively and negatively.",
+    "retrieved_context": "conversations address social issues. social media enables inclusion. underrepresented communities causes social injustices. Twitter enables underrepresented communities. democratization of information enables diversity. social media enables social activism. Snapchat enables instant messaging. Instagram enables instant messaging. Twitter enables instant messaging. video calls enables thoughts. Twitter enables video calls. Facebook enables instant messaging. Facebook enables social networking features. underrepresented communities share rumors. Social media revolutionized communication. social media enables diversity. instant messaging enables updates. current events enables conversations. conversations enables current events. democratization of information enables inclusion. Facebook enables video calls.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Social media enables connection regardless of physical distance.",
+    "retrieved_context": "Facebook enables instant messaging. connectivity drives positive change. Facebook enables social networking features. social media enables diversity. instant messaging enables updates. Instagram enables instant messaging. social media enables inclusion. Twitter enables instant messaging. video calls enables thoughts. Snapchat enables instant messaging. Twitter enables video calls. democratization of information enables inclusion. Twitter enables underrepresented communities. democratization of information enables diversity. social media enables social activism. Facebook enables video calls. Social media revolutionized communication. online relationships are prioritized over face-to-face interactions.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Platforms like Facebook, Twitter, Instagram, and Snapchat facilitate staying in touch globally.",
+    "retrieved_context": "Facebook enables instant messaging. social media enables diversity. Facebook enables social networking features. instant messaging enables updates. underrepresented communities share rumors. Instagram enables instant messaging. Social media revolutionized communication. social media enables inclusion. Twitter enables instant messaging. underrepresented communities causes social injustices. video calls enables thoughts. Twitter enables video calls. democratization of information enables inclusion. Twitter enables underrepresented communities. democratization of information enables diversity. social media enables social activism. Facebook enables video calls. Snapchat enables instant messaging.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Social media allows sharing updates, photos, and thoughts in real-time.",
+    "retrieved_context": "Facebook enables instant messaging. social media enables diversity. Facebook enables social networking features. underrepresented communities share rumors. instant messaging enables updates. Instagram enables instant messaging. social media enables inclusion. Twitter enables instant messaging. underrepresented communities causes social injustices. video calls enables thoughts. Snapchat enables instant messaging. Twitter enables video calls. democratization of information enables inclusion. Twitter enables underrepresented communities. democratization of information enables diversity. social media enables social activism. Facebook enables video calls. Social media revolutionized communication.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "News spreads rapidly through social media via citizen journalism and user-generated content.",
+    "retrieved_context": "social media enables inclusion. underrepresented communities causes social injustices. Twitter enables underrepresented communities. democratization of information enables diversity. social media enables social activism. citizen journalism enables individuals. Snapchat enables instant messaging. Instagram enables instant messaging. Twitter enables instant messaging. video calls enables thoughts. Twitter enables video calls. user-generated content enables individuals. Facebook enables instant messaging. underrepresented communities share rumors. Facebook enables social networking features. democratization of information enables individuals. Social media revolutionized communication. social media enables diversity. instant messaging enables updates. democratization of information enables inclusion. Facebook enables video calls.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Social media democratizes information and engages individuals in current events.",
+    "retrieved_context": "conversations address social issues. social media enables inclusion. underrepresented communities causes social injustices. Twitter enables underrepresented communities. democratization of information enables diversity. social media enables social activism. citizen journalism enables individuals. Snapchat enables instant messaging. Instagram enables instant messaging. Twitter enables instant messaging. video calls enables thoughts. Twitter enables video calls. user-generated content enables individuals. Facebook enables instant messaging. underrepresented communities share rumors. Facebook enables social networking features. democratization of information enables individuals. Social media revolutionized communication. social media enables diversity. instant messaging enables updates. current events enables conversations. conversations enables current events. democratization of information enables inclusion. Facebook enables video calls.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Twitter provides a platform for marginalized groups to share stories and advocate for change.",
+    "retrieved_context": "Facebook enables instant messaging. social media enables diversity. underrepresented communities share rumors. instant messaging enables updates. Facebook enables social networking features. Instagram enables instant messaging. Social media revolutionized communication. social media enables inclusion. Twitter enables instant messaging. underrepresented communities causes social injustices. video calls enables thoughts. Twitter enables video calls. democratization of information enables inclusion. Twitter enables underrepresented communities. democratization of information enables diversity. social media enables social activism. Facebook enables video calls. Snapchat enables instant messaging.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Social media amplifies voices and visibility of underrepresented communities.",
+    "retrieved_context": "social media enables inclusion. underrepresented communities causes social injustices. Twitter enables underrepresented communities. democratization of information enables diversity. social media enables social activism. Snapchat enables instant messaging. Instagram enables instant messaging. Twitter enables instant messaging. video calls enables thoughts. Twitter enables video calls. rumors causes real-world consequences. Facebook enables instant messaging. underrepresented communities share rumors. Facebook enables social networking features. rumors enables rumors. Social media revolutionized communication. social media enables diversity. instant messaging enables updates. democratization of information enables inclusion. Facebook enables video calls.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Misinformation and fake news are challenges on social networking sites.",
+    "retrieved_context": "conversations address social issues. social media enables inclusion. underrepresented communities causes social injustices. Twitter enables underrepresented communities. democratization of information enables diversity. social media enables social activism. Snapchat enables instant messaging. citizen journalism enables individuals. Instagram enables instant messaging. Twitter enables instant messaging. video calls enables thoughts. Twitter enables video calls. user-generated content enables individuals. Facebook enables instant messaging. Facebook enables social networking features. underrepresented communities share rumors. democratization of information enables individuals. Social media revolutionized communication. social media enables diversity. instant messaging enables updates. current events enables conversations. conversations enables current events. democratization of information enables inclusion. Facebook enables video calls.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Social media promotes shallow communication forms like likes and emojis.",
+    "retrieved_context": "social media enables inclusion. underrepresented communities causes social injustices. validation causes mental health. Twitter enables underrepresented communities. democratization of information enables diversity. social media enables social activism. Snapchat enables instant messaging. Instagram enables instant messaging. Twitter enables instant messaging. video calls enables thoughts. Twitter enables video calls. likes represent validation. shares represent validation. Facebook enables instant messaging. Facebook enables social networking features. underrepresented communities share rumors. Social media revolutionized communication. social media enables diversity. instant messaging enables updates. democratization of information enables inclusion. validation causes self-esteem. Facebook enables video calls. emojis represent validation.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Superficial communication on social media can lead to a lack of genuine connections.",
+    "retrieved_context": "conversations address social issues. social media enables inclusion. democratization of information enables diversity. social media enables social activism. Snapchat enables instant messaging. Instagram enables instant messaging. Twitter enables instant messaging. video calls enables thoughts. Twitter enables video calls. Facebook enables instant messaging. Facebook enables social networking features. Social media revolutionized communication. online relationships are prioritized over face-to-face interactions. social media enables diversity. instant messaging enables updates. current events enables conversations. conversations enables current events. democratization of information enables inclusion. Facebook enables video calls.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Validation through likes and comments can impact mental health and self-esteem.",
+    "retrieved_context": "conversations address social issues. Facebook enables instant messaging. Facebook enables social networking features. current events enables conversations. conversations enables current events. validation causes mental health. validation causes self-esteem. Facebook enables video calls. emojis represent validation. online relationships are prioritized over face-to-face interactions. likes represent validation. shares represent validation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Social media shapes connectivity, information sharing, and interactions in society.",
+    "retrieved_context": "conversations address social issues. social media enables inclusion. underrepresented communities causes social injustices. Twitter enables underrepresented communities. democratization of information enables diversity. social media enables social activism. Snapchat enables instant messaging. connectivity drives positive change. Instagram enables instant messaging. Twitter enables instant messaging. video calls enables thoughts. Twitter enables video calls. Facebook enables instant messaging. Facebook enables social networking features. underrepresented communities share rumors. Social media revolutionized communication. online relationships are prioritized over face-to-face interactions. social media enables diversity. instant messaging enables updates. current events enables conversations. conversations enables current events. democratization of information enables inclusion. Facebook enables video calls.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "20.00%"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Cryptocurrencies revolutionized the way we think about money and transactions.",
+    "retrieved_context": "Regulation related to consumer protection. Regulation related to money laundering. fiat currencies controlled by central banks. digital currencies allows making payments. blockchain is distributed ledger technology. Regulation is issue for digital currencies. blockchain potential for innovation. digital currencies operate on peer-to-peer network. digital currencies include altcoins. digital currencies are digital assets. digital currencies used for investments. blockchain underpins digital currencies. digital currencies offer access to finance. Bitcoin created in 2009. blockchain ensures immutability. fiat currencies controlled by governments. digital currencies offer financial inclusion. Regulation related to tax evasion. blockchain potential for economic growth. governments oversee asset class. digital currencies used for transactions. blockchain ensures transparency. Bitcoin created in Satoshi Nakamoto.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Bitcoin was created in 2009 by an anonymous individual or group known as Satoshi Nakamoto.",
+    "retrieved_context": "Regulation related to consumer protection. Regulation related to money laundering. fiat currencies controlled by central banks. digital currencies allows making payments. blockchain is distributed ledger technology. Regulation is issue for digital currencies. blockchain potential for innovation. digital currencies operate on peer-to-peer network. investors include institutional investors. investors include retail investors. digital currencies include altcoins. digital currencies are digital assets. blockchain underpins digital currencies. digital currencies used for investments. digital currencies offer access to finance. Bitcoin created in 2009. blockchain ensures immutability. fiat currencies controlled by governments. digital currencies offer financial inclusion. investors seek profit. Regulation related to tax evasion. blockchain potential for economic growth. governments oversee asset class. digital currencies used for transactions. blockchain ensures transparency. Bitcoin created in Satoshi Nakamoto.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cryptocurrencies have become a significant player in the global economy.",
+    "retrieved_context": "Regulation related to consumer protection. Regulation related to money laundering. fiat currencies controlled by central banks. digital currencies allows making payments. blockchain is distributed ledger technology. Regulation is issue for digital currencies. blockchain potential for innovation. digital currencies operate on peer-to-peer network. digital currencies include altcoins. digital currencies are digital assets. digital currencies used for investments. blockchain underpins digital currencies. digital currencies offer access to finance. Bitcoin created in 2009. blockchain ensures immutability. fiat currencies controlled by governments. digital currencies offer financial inclusion. Regulation related to tax evasion. blockchain potential for economic growth. governments oversee asset class. digital currencies used for transactions. blockchain ensures transparency. Bitcoin created in Satoshi Nakamoto.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Cryptocurrencies are decentralized digital assets.",
+    "retrieved_context": "Regulation related to consumer protection. Regulation related to money laundering. fiat currencies controlled by central banks. digital currencies allows making payments. blockchain is distributed ledger technology. Regulation is issue for digital currencies. blockchain potential for innovation. digital currencies operate on peer-to-peer network. digital currencies include altcoins. smart contracts are smart contracts. digital currencies are digital assets. digital currencies used for investments. blockchain underpins digital currencies. digital currencies offer access to finance. Bitcoin created in 2009. blockchain ensures immutability. fiat currencies controlled by governments. digital currencies offer financial inclusion. Regulation related to tax evasion. blockchain potential for economic growth. governments oversee asset class. digital currencies used for transactions. blockchain ensures transparency. Bitcoin created in Satoshi Nakamoto.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cryptocurrencies operate on a peer-to-peer network.",
+    "retrieved_context": "Regulation related to consumer protection. Regulation related to money laundering. digital currencies allows making payments. blockchain is distributed ledger technology. Regulation is issue for digital currencies. blockchain potential for innovation. digital currencies operate on peer-to-peer network. investors include institutional investors. investors include retail investors. digital currencies include altcoins. smart contracts are smart contracts. digital currencies are digital assets. digital currencies used for investments. blockchain underpins digital currencies. digital currencies offer access to finance. Bitcoin created in 2009. blockchain ensures immutability. digital currencies offer financial inclusion. investors seek profit. block recorded in network. Regulation related to tax evasion. blockchain potential for economic growth. digital currencies used for transactions. blockchain ensures transparency. Bitcoin created in Satoshi Nakamoto.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Transactions occur directly between users without intermediaries in cryptocurrencies.",
+    "retrieved_context": "Regulation related to consumer protection. Regulation related to money laundering. digital currencies allows making payments. blockchain is distributed ledger technology. Regulation is issue for digital currencies. blockchain potential for innovation. digital currencies operate on peer-to-peer network. digital currencies include altcoins. digital currencies are digital assets. digital currencies used for investments. blockchain underpins digital currencies. digital currencies offer access to finance. Bitcoin created in 2009. blockchain ensures immutability. digital currencies offer financial inclusion. Regulation related to tax evasion. blockchain potential for economic growth. digital currencies used for transactions. blockchain ensures transparency. Bitcoin created in Satoshi Nakamoto.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Decentralization provides users with more control over their funds in cryptocurrencies.",
+    "retrieved_context": "Regulation related to consumer protection. Regulation related to money laundering. digital currencies allows making payments. blockchain is distributed ledger technology. Regulation is issue for digital currencies. blockchain potential for innovation. digital currencies operate on peer-to-peer network. investors include institutional investors. investors include retail investors. digital currencies include altcoins. smart contracts are smart contracts. digital currencies are digital assets. blockchain underpins digital currencies. digital currencies used for investments. digital currencies offer access to finance. Bitcoin created in 2009. blockchain ensures immutability. digital currencies offer financial inclusion. investors seek profit. Regulation related to tax evasion. blockchain potential for economic growth. digital currencies used for transactions. blockchain ensures transparency. Bitcoin created in Satoshi Nakamoto.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Decentralization enhances security and privacy in cryptocurrencies.",
+    "retrieved_context": "Regulation related to consumer protection. Regulation related to money laundering. fiat currencies controlled by central banks. digital currencies allows making payments. blockchain is distributed ledger technology. Regulation is issue for digital currencies. blockchain potential for innovation. digital currencies operate on peer-to-peer network. digital currencies include altcoins. smart contracts are smart contracts. digital currencies are digital assets. blockchain underpins digital currencies. digital currencies used for investments. digital currencies offer access to finance. Bitcoin created in 2009. blockchain ensures immutability. fiat currencies controlled by governments. digital currencies offer financial inclusion. Regulation related to tax evasion. blockchain potential for economic growth. digital currencies used for transactions. blockchain ensures transparency. Bitcoin created in Satoshi Nakamoto.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Blockchain is the technology that underpins cryptocurrencies.",
+    "retrieved_context": "Regulation related to consumer protection. chain of blocks can not be altered. Regulation related to money laundering. fiat currencies controlled by central banks. digital currencies allows making payments. blockchain is distributed ledger technology. Regulation is issue for digital currencies. blockchain potential for innovation. digital currencies operate on peer-to-peer network. digital currencies include altcoins. smart contracts are smart contracts. digital currencies are digital assets. blockchain underpins digital currencies. digital currencies used for investments. digital currencies offer access to finance. Bitcoin created in 2009. blockchain ensures immutability. fiat currencies controlled by governments. digital currencies offer financial inclusion. Regulation related to tax evasion. blockchain potential for economic growth. governments oversee asset class. digital currencies used for transactions. blockchain ensures transparency. Bitcoin created in Satoshi Nakamoto.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Blockchain ensures transparency and immutability of transactions.",
+    "retrieved_context": "Regulation related to consumer protection. Regulation related to money laundering. digital currencies allows making payments. blockchain is distributed ledger technology. Regulation is issue for digital currencies. blockchain potential for innovation. digital currencies operate on peer-to-peer network. digital currencies include altcoins. digital currencies are digital assets. blockchain underpins digital currencies. digital currencies used for investments. digital currencies offer access to finance. Bitcoin created in 2009. blockchain ensures immutability. digital currencies offer financial inclusion. Regulation related to tax evasion. blockchain potential for economic growth. digital currencies used for transactions. blockchain ensures transparency. Bitcoin created in Satoshi Nakamoto.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Each transaction in blockchain is recorded in a block.",
+    "retrieved_context": "chain of blocks can not be altered. digital currencies allows making payments. blockchain is distributed ledger technology. Regulation is issue for digital currencies. blockchain potential for innovation. digital currencies operate on peer-to-peer network. digital currencies include altcoins. smart contracts are smart contracts. digital currencies are digital assets. digital currencies used for investments. blockchain underpins digital currencies. digital currencies offer access to finance. Bitcoin created in 2009. blockchain ensures immutability. digital currencies offer financial inclusion. block recorded in network. blockchain potential for economic growth. digital currencies used for transactions. blockchain ensures transparency. Bitcoin created in Satoshi Nakamoto.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Blockchain forms a chain of blocks that cannot be altered once validated.",
+    "retrieved_context": "chain of blocks can not be altered. digital currencies allows making payments. blockchain is distributed ledger technology. Regulation is issue for digital currencies. blockchain potential for innovation. digital currencies operate on peer-to-peer network. digital currencies include altcoins. smart contracts are smart contracts. digital currencies are digital assets. blockchain underpins digital currencies. digital currencies used for investments. digital currencies offer access to finance. Bitcoin created in 2009. blockchain ensures immutability. digital currencies offer financial inclusion. block recorded in network. blockchain potential for economic growth. digital currencies used for transactions. blockchain ensures transparency. Bitcoin created in Satoshi Nakamoto.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Smart contracts are self-executing contracts with terms written into code.",
+    "retrieved_context": "agreement written into code. regulatory bodies oversee asset class. fiat currencies controlled by central banks. digital currencies allows making payments. blockchain is distributed ledger technology. Regulation is issue for digital currencies. blockchain potential for innovation. digital currencies operate on peer-to-peer network. smart contracts are smart contracts. digital currencies include altcoins. digital currencies are digital assets. blockchain underpins digital currencies. digital currencies used for investments. digital currencies offer access to finance. blockchain ensures immutability. fiat currencies controlled by governments. digital currencies offer financial inclusion. blockchain potential for economic growth. governments oversee asset class. digital currencies used for transactions. blockchain ensures transparency.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Smart contracts automatically enforce and execute themselves when conditions are met.",
+    "retrieved_context": "regulatory bodies oversee asset class. Regulation related to consumer protection. Regulation related to money laundering. fiat currencies controlled by central banks. digital currencies allows making payments. blockchain is distributed ledger technology. Regulation is issue for digital currencies. blockchain potential for innovation. digital currencies operate on peer-to-peer network. digital currencies include altcoins. smart contracts are smart contracts. digital currencies are digital assets. digital currencies used for investments. blockchain underpins digital currencies. digital currencies offer access to finance. blockchain ensures immutability. fiat currencies controlled by governments. digital currencies offer financial inclusion. Regulation related to tax evasion. blockchain potential for economic growth. governments oversee asset class. digital currencies used for transactions. blockchain ensures transparency.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Cryptocurrencies offer financial inclusion to individuals in underserved communities.",
+    "retrieved_context": "Regulation related to consumer protection. Regulation related to money laundering. digital currencies allows making payments. blockchain is distributed ledger technology. Regulation is issue for digital currencies. blockchain potential for innovation. digital currencies operate on peer-to-peer network. investors include institutional investors. investors include retail investors. digital currencies include altcoins. digital currencies are digital assets. digital currencies used for investments. blockchain underpins digital currencies. digital currencies offer access to finance. Bitcoin created in 2009. blockchain ensures immutability. digital currencies offer financial inclusion. investors seek profit. Regulation related to tax evasion. blockchain potential for economic growth. digital currencies used for transactions. blockchain ensures transparency. Bitcoin created in Satoshi Nakamoto.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "60.00%"
+  }
+]

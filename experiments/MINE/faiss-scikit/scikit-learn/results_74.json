@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Comedy provides entertainment to audiences.",
+    "retrieved_context": "Comedy offers escape from Pressures. Comedy is a vital part of Human culture. Movies is a form of Comedy. Comedy is a form of Comedy. Comedy can broach Taboo subjects. Comedy plays a significant role in Society. Comedy provides Laughter. Laughter transcends Beliefs. Comedy has the ability to address Social issues. Comedy foster Camaraderie. Comedy can challenge Stereotypes. Comedy can promote Change. Comedy serves as a tool for Criticism. Comedy provides Entertainment. Laughter transcends Background. Comedy bring Unity. Comedians use Humor. Comedy offers a Perspective. Comedy can challenge Status quo. Laughter transcends Age. Comedy can promote Social progress. Comedy has the power to uplift Spirits. Comedy allows people to Relax. Laughter has Health benefits. Comedy serves as a tool for Social commentary.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Laughter has health benefits like reducing stress.",
+    "retrieved_context": "Comedy offers escape from Pressures. Comedy is a vital part of Human culture. Movies is a form of Comedy. Comedy is a form of Comedy. Comedy can broach Taboo subjects. Comedy plays a significant role in Society. Comedy provides Laughter. Laughter transcends Beliefs. Comedy has the ability to address Social issues. Comedy foster Camaraderie. Comedy can challenge Stereotypes. Comedy can promote Change. Comedy serves as a tool for Criticism. Laughter transcends Background. Comedy provides Entertainment. Comedy bring Unity. Comedians use Humor. Comedy offers a Perspective. Comedy can challenge Status quo. Laughter transcends Age. Comedy can promote Social progress. Comedy has the power to uplift Spirits. Comedy allows people to Relax. Laughter has Health benefits. Comedy serves as a tool for Social commentary.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Comedy helps people relax and escape daily pressures.",
+    "retrieved_context": "Comedy offers escape from Pressures. Comedy is a vital part of Human culture. Movies is a form of Comedy. Comedy is a form of Comedy. Comedy can broach Taboo subjects. Comedy plays a significant role in Society. Comedy provides Laughter. Laughter transcends Beliefs. Comedy has the ability to address Social issues. Comedy foster Camaraderie. Comedy can challenge Stereotypes. Comedy can promote Change. Comedy serves as a tool for Criticism. Comedy provides Entertainment. Laughter transcends Background. Comedy bring Unity. Comedians use Humor. Comedy offers a Perspective. Comedy can challenge Status quo. Laughter transcends Age. Comedy can promote Social progress. Comedy has the power to uplift Spirits. Comedy allows people to Relax. Laughter has Health benefits. Comedy serves as a tool for Social commentary.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Comedy uplifts spirits and brings joy to people.",
+    "retrieved_context": "Comedy offers escape from Pressures. Comedy is a vital part of Human culture. Movies is a form of Comedy. Comedy is a form of Comedy. Comedy can broach Taboo subjects. Comedy plays a significant role in Society. Comedy provides Laughter. Laughter transcends Beliefs. Comedy has the ability to address Social issues. Comedy foster Camaraderie. Comedy can challenge Stereotypes. Comedy can promote Change. Comedy serves as a tool for Criticism. Comedy provides Entertainment. Laughter transcends Background. Comedy bring Unity. Comedians use Humor. Comedy offers a Perspective. Comedy can challenge Status quo. Laughter transcends Age. Comedy can promote Social progress. Comedy has the power to uplift Spirits. Comedy allows people to Relax. Laughter has Health benefits. Comedy serves as a tool for Social commentary.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Comedy is a tool for social commentary and criticism.",
+    "retrieved_context": "Comedy offers escape from Pressures. Comedy is a vital part of Human culture. Movies is a form of Comedy. Comedy is a form of Comedy. Comedy can broach Taboo subjects. Comedy plays a significant role in Society. Comedy provides Laughter. Laughter transcends Beliefs. Comedy has the ability to address Social issues. Comedy foster Camaraderie. Comedy can challenge Stereotypes. Comedy can promote Change. Comedy serves as a tool for Criticism. Comedy provides Entertainment. Laughter transcends Background. Comedy bring Unity. Comedians use Humor. Comedy offers a Perspective. Comedy can challenge Status quo. Laughter transcends Age. Comedy can promote Social progress. Comedy has the power to uplift Spirits. Comedy allows people to Relax. Laughter has Health benefits. Comedy serves as a tool for Social commentary.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Comedians use humor to challenge societal norms.",
+    "retrieved_context": "Comedy offers escape from Pressures. Comedy is a vital part of Human culture. Movies is a form of Comedy. Comedy is a form of Comedy. Comedy can broach Taboo subjects. Comedy plays a significant role in Society. Comedy provides Laughter. Laughter transcends Beliefs. Comedy has the ability to address Social issues. Comedy foster Camaraderie. Comedy can challenge Stereotypes. Comedy can promote Change. Comedy serves as a tool for Criticism. Comedy provides Entertainment. Laughter transcends Background. Comedy bring Unity. Comedians use Humor. Comedy offers a Perspective. Comedy can challenge Status quo. Laughter transcends Age. Comedy can promote Social progress. Comedy has the power to uplift Spirits. Comedy allows people to Relax. Laughter has Health benefits. Comedy serves as a tool for Social commentary.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Comedy highlights absurdities and injustices in society.",
+    "retrieved_context": "Comedy offers escape from Pressures. Comedy is a vital part of Human culture. Movies is a form of Comedy. Comedy is a form of Comedy. Comedy can broach Taboo subjects. Comedy plays a significant role in Society. Comedy provides Laughter. Laughter transcends Beliefs. Comedy has the ability to address Social issues. Comedy foster Camaraderie. Comedy can challenge Stereotypes. Comedy can promote Change. Comedy serves as a tool for Criticism. Comedy provides Entertainment. Laughter transcends Background. Comedy bring Unity. Comedians use Humor. Comedy offers a Perspective. Comedy can challenge Status quo. Laughter transcends Age. Comedy can promote Social progress. Comedy has the power to uplift Spirits. Comedy allows people to Relax. Laughter has Health benefits. Comedy serves as a tool for Social commentary.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Comedy fosters a sense of community and unity.",
+    "retrieved_context": "Comedy offers escape from Pressures. Comedy is a vital part of Human culture. Movies is a form of Comedy. Comedy is a form of Comedy. Comedy can broach Taboo subjects. Comedy plays a significant role in Society. Comedy provides Laughter. Laughter transcends Beliefs. Comedy has the ability to address Social issues. Comedy foster Camaraderie. Comedy can challenge Stereotypes. Comedy can promote Change. Comedy serves as a tool for Criticism. Comedy provides Entertainment. Laughter transcends Background. Comedy bring Unity. Comedians use Humor. Comedy offers a Perspective. Comedy can challenge Status quo. Laughter transcends Age. Comedy can promote Social progress. Comedy has the power to uplift Spirits. Comedy allows people to Relax. Laughter has Health benefits. Comedy serves as a tool for Social commentary.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Shared laughter creates bonds among individuals.",
+    "retrieved_context": "Comedy offers escape from Pressures. Comedy is a vital part of Human culture. Movies is a form of Comedy. Comedy is a form of Comedy. Comedy can broach Taboo subjects. Comedy plays a significant role in Society. Comedy provides Laughter. Laughter transcends Beliefs. Comedy has the ability to address Social issues. Comedy foster Camaraderie. Comedy can challenge Stereotypes. Comedy can promote Change. Comedy serves as a tool for Criticism. Laughter transcends Background. Comedy provides Entertainment. Comedy bring Unity. Comedians use Humor. Comedy offers a Perspective. Comedy can challenge Status quo. Laughter transcends Age. Comedy can promote Social progress. Comedy has the power to uplift Spirits. Comedy allows people to Relax. Laughter has Health benefits. Comedy serves as a tool for Social commentary.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Comedy events bring people together to connect through humor.",
+    "retrieved_context": "Comedy offers escape from Pressures. Comedy is a vital part of Human culture. Movies is a form of Comedy. Comedy is a form of Comedy. Comedy can broach Taboo subjects. Comedy plays a significant role in Society. Comedy provides Laughter. Laughter transcends Beliefs. Comedy has the ability to address Social issues. Comedy foster Camaraderie. Comedy can challenge Stereotypes. Comedy can promote Change. Comedy serves as a tool for Criticism. Comedy provides Entertainment. Laughter transcends Background. Comedy bring Unity. Comedians use Humor. Comedy offers a Perspective. Comedy can challenge Status quo. Laughter transcends Age. Comedy can promote Social progress. Comedy has the power to uplift Spirits. Comedy allows people to Relax. Laughter has Health benefits. Comedy serves as a tool for Social commentary.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Comedy can promote change and challenge the status quo.",
+    "retrieved_context": "Comedy offers escape from Pressures. Comedy is a vital part of Human culture. Movies is a form of Comedy. Comedy is a form of Comedy. Comedy can broach Taboo subjects. Comedy plays a significant role in Society. Comedy provides Laughter. Laughter transcends Beliefs. Comedy has the ability to address Social issues. Comedy foster Camaraderie. Comedy can challenge Stereotypes. Comedy can promote Change. Comedy serves as a tool for Criticism. Comedy provides Entertainment. Laughter transcends Background. Comedy bring Unity. Comedians use Humor. Comedy offers a Perspective. Comedy can challenge Status quo. Laughter transcends Age. Comedy can promote Social progress. Comedy has the power to uplift Spirits. Comedy allows people to Relax. Laughter has Health benefits. Comedy serves as a tool for Social commentary.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Comedians use humor to inspire action and drive social progress.",
+    "retrieved_context": "Comedy offers escape from Pressures. Comedy is a vital part of Human culture. Movies is a form of Comedy. Comedy is a form of Comedy. Comedy can broach Taboo subjects. Comedy plays a significant role in Society. Comedy provides Laughter. Laughter transcends Beliefs. Comedy has the ability to address Social issues. Comedy foster Camaraderie. Comedy can challenge Stereotypes. Comedy can promote Change. Comedy serves as a tool for Criticism. Comedy provides Entertainment. Laughter transcends Background. Comedy bring Unity. Comedians use Humor. Comedy offers a Perspective. Comedy can challenge Status quo. Laughter transcends Age. Comedy can promote Social progress. Comedy has the power to uplift Spirits. Comedy allows people to Relax. Laughter has Health benefits. Comedy serves as a tool for Social commentary.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Humor is subjective and can be offensive to some.",
+    "retrieved_context": "Comedy offers escape from Pressures. Comedy is a vital part of Human culture. Movies is a form of Comedy. Comedy is a form of Comedy. Comedy can broach Taboo subjects. Comedy plays a significant role in Society. Comedy provides Laughter. Laughter transcends Beliefs. Comedy has the ability to address Social issues. Comedy foster Camaraderie. Comedy can challenge Stereotypes. Comedy can promote Change. Comedy serves as a tool for Criticism. Comedy provides Entertainment. Laughter transcends Background. Comedy bring Unity. Comedians use Humor. Comedy offers a Perspective. Comedy can challenge Status quo. Laughter transcends Age. Comedy can promote Social progress. Comedy has the power to uplift Spirits. Comedy allows people to Relax. Laughter has Health benefits. Comedy serves as a tool for Social commentary.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Comedians must balance pushing boundaries with respecting sensitivities.",
+    "retrieved_context": "Comedy offers escape from Pressures. Comedy is a vital part of Human culture. Movies is a form of Comedy. Comedy is a form of Comedy. Comedy can broach Taboo subjects. Comedy plays a significant role in Society. Comedy provides Laughter. Laughter transcends Beliefs. Comedy has the ability to address Social issues. Comedy foster Camaraderie. Comedy can challenge Stereotypes. Comedy can promote Change. Comedy serves as a tool for Criticism. Comedy provides Entertainment. Laughter transcends Background. Comedy bring Unity. Comedians use Humor. Comedy offers a Perspective. Comedy can challenge Status quo. Laughter transcends Age. Comedy can promote Social progress. Comedy has the power to uplift Spirits. Comedy allows people to Relax. Laughter has Health benefits. Comedy serves as a tool for Social commentary.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Comedians must use humor responsibly and ethically.",
+    "retrieved_context": "Comedy offers escape from Pressures. Comedy is a vital part of Human culture. Movies is a form of Comedy. Comedy is a form of Comedy. Comedy can broach Taboo subjects. Comedy plays a significant role in Society. Comedy provides Laughter. Laughter transcends Beliefs. Comedy has the ability to address Social issues. Comedy foster Camaraderie. Comedy can challenge Stereotypes. Comedy can promote Change. Comedy serves as a tool for Criticism. Comedy provides Entertainment. Laughter transcends Background. Comedy bring Unity. Comedians use Humor. Comedy offers a Perspective. Comedy can challenge Status quo. Laughter transcends Age. Comedy can promote Social progress. Comedy has the power to uplift Spirits. Comedy allows people to Relax. Laughter has Health benefits. Comedy serves as a tool for Social commentary.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "66.67%"
+  }
+]

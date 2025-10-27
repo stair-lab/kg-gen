@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Ancient Egyptian burial practices reflect Egyptians' beliefs about the afterlife.",
+    "retrieved_context": "tombs contain possessions. burial practices were essential part of Egyptian culture. pyramids at Giza protect body. burial requires priests. burial practices ensure passage to afterlife. Egyptians buried with tools. pyramids at Giza house pharaohs. tombs contain jewelry. burial requires skilled individuals. tombs contain food. Egyptian culture is known for burial practices. burial practices reflect Egyptians. burial requires embalmers. tombs contain clothing. Egyptians are Egyptians. pyramids at Giza house deceased. Egyptians believed in soul. Egyptians buried with possessions. burial practices reflect deceased. Egyptians buried with food. pyramids at Giza protect possessions. tombs are pyramids at Giza. pyramids at Giza serve as gateway.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Elaborate tombs were constructed to house pharaohs and important individuals.",
+    "retrieved_context": "tombs contain possessions. burial practices were essential part of Egyptian culture. pyramids at Giza protect body. burial practices ensure passage to afterlife. Egyptians buried with tools. pyramids at Giza house pharaohs. burial chamber contain amulets. tombs contain jewelry. tombs contain food. Egyptian culture is known for burial practices. burial practices reflect Egyptians. tombs contain clothing. Egyptians are Egyptians. burial chamber contain religious texts. religious texts are Book of the Dead. pyramids at Giza house deceased. Mummification involved body. Egyptians believed in soul. Egyptians buried with possessions. burial practices reflect deceased. Egyptians buried with food. pyramids at Giza protect possessions. tombs are pyramids at Giza. pyramids at Giza serve as gateway.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Pyramids at Giza were designed to protect the deceased's body and possessions.",
+    "retrieved_context": "tombs contain possessions. burial practices were essential part of Egyptian culture. pyramids at Giza protect body. burial requires priests. burial practices ensure passage to afterlife. Egyptians buried with tools. pyramids at Giza house pharaohs. burial chamber contain amulets. tombs contain jewelry. burial requires skilled individuals. tombs contain food. Egyptian culture is known for burial practices. burial practices reflect Egyptians. burial requires embalmers. tombs contain clothing. Egyptians are Egyptians. burial chamber contain religious texts. religious texts are Book of the Dead. pyramids at Giza house deceased. Mummification involved body. Egyptians believed in soul. Egyptians buried with possessions. burial practices reflect deceased. Egyptians buried with food. pyramids at Giza protect possessions. tombs are pyramids at Giza. pyramids at Giza serve as gateway.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Items like food, clothing, and jewelry were buried with the deceased.",
+    "retrieved_context": "tombs contain possessions. burial practices were essential part of Egyptian culture. Book of the Dead contain prayers. pyramids at Giza protect body. burial requires priests. burial practices ensure passage to afterlife. Egyptians buried with tools. pyramids at Giza house pharaohs. professional mourners lead funeral procession. burial chamber contain amulets. tombs contain jewelry. burial requires skilled individuals. tombs contain food. Egyptian culture is known for burial practices. burial practices reflect Egyptians. burial requires embalmers. Book of the Dead inscribed on papyrus scrolls. tombs contain clothing. Book of the Dead contain spells. Egyptians are Egyptians. burial chamber contain religious texts. religious texts are Book of the Dead. pyramids at Giza house deceased. Egyptians believed in soul. Egyptians buried with possessions. burial practices reflect deceased. Book of the Dead help reach gods. Egyptians buried with food. pyramids at Giza protect possessions. family hire professional mourners. tombs are pyramids at Giza. pyramids at Giza serve as gateway.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Mummification was used to preserve the body for the afterlife.",
+    "retrieved_context": "tombs contain possessions. burial practices were essential part of Egyptian culture. Mummification involved internal organs. pyramids at Giza protect body. burial requires priests. burial practices ensure passage to afterlife. Egyptians buried with tools. pyramids at Giza house pharaohs. burial chamber contain amulets. tombs contain jewelry. burial requires skilled individuals. tombs contain food. Egyptian culture is known for burial practices. Mummification involved salt. burial practices reflect Egyptians. burial requires embalmers. tombs contain clothing. Egyptians are Egyptians. burial chamber contain religious texts. religious texts are Book of the Dead. Mummification involved linen bandages. pyramids at Giza house deceased. Mummification involved body. Egyptians believed in soul. Egyptians buried with possessions. burial practices reflect deceased. Egyptians buried with food. pyramids at Giza protect possessions. tombs are pyramids at Giza. pyramids at Giza serve as gateway.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Mummification involved removing internal organs and drying out the body.",
+    "retrieved_context": "burial practices were essential part of Egyptian culture. Mummification involved internal organs. pyramids at Giza protect body. burial requires priests. burial practices ensure passage to afterlife. Egyptians buried with tools. pyramids at Giza house pharaohs. burial chamber contain amulets. burial requires skilled individuals. Egyptian culture is known for burial practices. Mummification involved salt. burial practices reflect Egyptians. burial requires embalmers. Egyptians are Egyptians. burial chamber contain religious texts. religious texts are Book of the Dead. Mummification involved linen bandages. pyramids at Giza house deceased. Mummification involved body. Egyptians believed in soul. Egyptians buried with possessions. burial practices reflect deceased. Egyptians buried with food. pyramids at Giza protect possessions. tombs are pyramids at Giza. pyramids at Giza serve as gateway.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Religious texts and amulets were included in the burial chamber.",
+    "retrieved_context": "tombs contain possessions. burial practices were essential part of Egyptian culture. Book of the Dead contain prayers. pyramids at Giza protect body. burial requires priests. burial practices ensure passage to afterlife. Egyptians buried with tools. pyramids at Giza house pharaohs. burial chamber contain amulets. tombs contain jewelry. burial requires skilled individuals. tombs contain food. Egyptian culture is known for burial practices. burial practices reflect Egyptians. burial requires embalmers. Book of the Dead inscribed on papyrus scrolls. tombs contain clothing. Book of the Dead contain spells. burial chamber contain religious texts. Egyptians are Egyptians. religious texts are Book of the Dead. pyramids at Giza house deceased. Egyptians believed in soul. Egyptians buried with possessions. burial practices reflect deceased. Book of the Dead help reach gods. Egyptians buried with food. pyramids at Giza protect possessions. tombs are pyramids at Giza. pyramids at Giza serve as gateway.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Book of the Dead helped the deceased navigate the afterlife.",
+    "retrieved_context": "tombs contain possessions. burial practices were essential part of Egyptian culture. Book of the Dead contain prayers. pyramids at Giza protect body. burial requires priests. burial practices ensure passage to afterlife. Egyptians buried with tools. pyramids at Giza house pharaohs. professional mourners lead funeral procession. burial chamber contain amulets. tombs contain jewelry. burial requires skilled individuals. tombs contain food. Egyptian culture is known for burial practices. burial practices reflect Egyptians. burial requires embalmers. Book of the Dead inscribed on papyrus scrolls. Book of the Dead contain spells. tombs contain clothing. burial chamber contain religious texts. religious texts are Book of the Dead. Egyptians are Egyptians. pyramids at Giza house deceased. Egyptians believed in soul. Egyptians buried with possessions. burial practices reflect deceased. Book of the Dead help reach gods. Egyptians buried with food. pyramids at Giza protect possessions. family hire professional mourners. tombs are pyramids at Giza. pyramids at Giza serve as gateway.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Burial process required priests, embalmers, and skilled individuals.",
+    "retrieved_context": "tombs contain possessions. burial practices were essential part of Egyptian culture. pyramids at Giza protect body. burial requires priests. burial practices ensure passage to afterlife. Egyptians buried with tools. pyramids at Giza house pharaohs. professional mourners lead funeral procession. burial chamber contain amulets. tombs contain jewelry. burial requires skilled individuals. tombs contain food. Egyptian culture is known for burial practices. burial practices reflect Egyptians. burial requires embalmers. tombs contain clothing. Egyptians are Egyptians. burial chamber contain religious texts. religious texts are Book of the Dead. pyramids at Giza house deceased. Egyptians believed in soul. Egyptians buried with possessions. burial practices reflect deceased. Egyptians buried with food. pyramids at Giza protect possessions. family hire professional mourners. tombs are pyramids at Giza. pyramids at Giza serve as gateway.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Professional mourners were hired to lead funeral processions.",
+    "retrieved_context": "burial practices were essential part of Egyptian culture. pyramids at Giza protect body. burial requires priests. burial practices ensure passage to afterlife. Egyptians buried with tools. pyramids at Giza house pharaohs. professional mourners lead funeral procession. burial chamber contain amulets. burial requires skilled individuals. Egyptian culture is known for burial practices. burial practices reflect Egyptians. burial requires embalmers. Egyptians are Egyptians. burial chamber contain religious texts. religious texts are Book of the Dead. pyramids at Giza house deceased. Egyptians believed in soul. Egyptians buried with possessions. burial practices reflect deceased. Egyptians buried with food. pyramids at Giza protect possessions. family hire professional mourners. tombs are pyramids at Giza. pyramids at Giza serve as gateway.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Common people in ancient Egypt were buried with care and respect.",
+    "retrieved_context": "tombs contain possessions. burial practices were essential part of Egyptian culture. pyramids at Giza protect body. burial requires priests. burial practices ensure passage to afterlife. Egyptians buried with tools. pyramids at Giza house pharaohs. professional mourners lead funeral procession. tombs contain jewelry. burial requires skilled individuals. tombs contain food. Egyptian culture is known for burial practices. burial practices reflect Egyptians. burial requires embalmers. tombs contain clothing. Egyptians are Egyptians. pyramids at Giza house deceased. Egyptians believed in soul. Egyptians buried with possessions. burial practices reflect deceased. Egyptians buried with food. pyramids at Giza protect possessions. family hire professional mourners. tombs are pyramids at Giza. pyramids at Giza serve as gateway.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Ordinary Egyptians were buried with items they would need in the afterlife.",
+    "retrieved_context": "tombs contain possessions. burial practices were essential part of Egyptian culture. pyramids at Giza protect body. burial requires priests. burial practices ensure passage to afterlife. Egyptians buried with tools. pyramids at Giza house pharaohs. burial chamber contain amulets. tombs contain jewelry. burial requires skilled individuals. tombs contain food. Egyptian culture is known for burial practices. burial practices reflect Egyptians. burial requires embalmers. tombs contain clothing. Egyptians are Egyptians. burial chamber contain religious texts. religious texts are Book of the Dead. pyramids at Giza house deceased. Egyptians believed in soul. Egyptians buried with possessions. burial practices reflect deceased. Egyptians buried with food. pyramids at Giza protect possessions. tombs are pyramids at Giza. pyramids at Giza serve as gateway.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Burial practices ensured the deceased's safe passage into the afterlife.",
+    "retrieved_context": "tombs contain possessions. burial practices were essential part of Egyptian culture. pyramids at Giza protect body. burial requires priests. burial practices ensure passage to afterlife. Egyptians buried with tools. pyramids at Giza house pharaohs. professional mourners lead funeral procession. burial chamber contain amulets. tombs contain jewelry. burial requires skilled individuals. tombs contain food. Egyptian culture is known for burial practices. burial practices reflect Egyptians. burial requires embalmers. tombs contain clothing. Egyptians are Egyptians. burial chamber contain religious texts. religious texts are Book of the Dead. pyramids at Giza house deceased. Egyptians believed in soul. Egyptians buried with possessions. burial practices reflect deceased. Egyptians buried with food. pyramids at Giza protect possessions. family hire professional mourners. tombs are pyramids at Giza. pyramids at Giza serve as gateway.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Ancient Egyptians believed in the existence of a soul.",
+    "retrieved_context": "tombs contain possessions. burial practices were essential part of Egyptian culture. pyramids at Giza protect body. burial practices ensure passage to afterlife. Egyptians buried with tools. pyramids at Giza house pharaohs. tombs contain jewelry. tombs contain food. Egyptian culture is known for burial practices. burial practices reflect Egyptians. tombs contain clothing. Egyptians are Egyptians. pyramids at Giza house deceased. Egyptians believed in soul. Egyptians buried with possessions. burial practices reflect deceased. Egyptians buried with food. pyramids at Giza protect possessions. tombs are pyramids at Giza. pyramids at Giza serve as gateway.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Ancient Egyptian burial practices were a vital part of Egyptian culture.",
+    "retrieved_context": "tombs contain possessions. burial practices were essential part of Egyptian culture. pyramids at Giza protect body. burial requires priests. burial practices ensure passage to afterlife. Egyptians buried with tools. pyramids at Giza house pharaohs. burial chamber contain amulets. tombs contain jewelry. burial requires skilled individuals. tombs contain food. Egyptian culture is known for burial practices. burial practices reflect Egyptians. burial requires embalmers. tombs contain clothing. Egyptians are Egyptians. burial chamber contain religious texts. religious texts are Book of the Dead. pyramids at Giza house deceased. Egyptians believed in soul. Egyptians buried with possessions. burial practices reflect deceased. Egyptians buried with food. pyramids at Giza protect possessions. tombs are pyramids at Giza. pyramids at Giza serve as gateway.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "93.33%"
+  }
+]

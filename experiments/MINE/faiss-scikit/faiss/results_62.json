@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Protests challenge oppressive regimes.",
+    "retrieved_context": "Tiananmen Square massacre began in China. Russian Revolution began in 1917. civil rights movement began in 1960s. Vladimir Lenin led Bolsheviks. civil rights movement was led by Martin Luther King Jr.. Russian Revolution brought end to Romanov dynasty. French Revolution began in 1789. American Revolution began in 1776. civil rights movement was led by Rosa Parks. Belarus crackdown on pro-democracy protesters in Belarus. Declaration of Independence led civil rights movement.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Protests demand political rights.",
+    "retrieved_context": "Tiananmen Square massacre began in China. Russian Revolution began in 1917. civil rights movement began in 1960s. Vladimir Lenin led Bolsheviks. civil rights movement was led by Martin Luther King Jr.. Russian Revolution brought end to Romanov dynasty. American Revolution began in 1776. civil rights movement was led by Rosa Parks. Belarus crackdown on pro-democracy protesters in Belarus. Declaration of Independence led civil rights movement.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Protests fight for social justice.",
+    "retrieved_context": "Tiananmen Square massacre began in China. civil rights movement began in 1960s. Vladimir Lenin led Bolsheviks. civil rights movement was led by Martin Luther King Jr.. French Revolution began in 1789. American Revolution began in 1776. civil rights movement was led by Rosa Parks. Belarus crackdown on pro-democracy protesters in Belarus. Declaration of Independence led civil rights movement.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Protests can be peaceful demonstrations.",
+    "retrieved_context": "Tiananmen Square massacre began in China. civil rights movement began in 1960s. Vladimir Lenin led Bolsheviks. civil rights movement was led by Martin Luther King Jr.. French Revolution began in 1789. American Revolution began in 1776. civil rights movement was led by Rosa Parks. Belarus crackdown on pro-democracy protesters in Belarus. Declaration of Independence led civil rights movement.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Protests can be violent uprisings.",
+    "retrieved_context": "Tiananmen Square massacre began in China. civil rights movement began in 1960s. Vladimir Lenin led Bolsheviks. civil rights movement was led by Martin Luther King Jr.. French Revolution began in 1789. American Revolution began in 1776. civil rights movement was led by Rosa Parks. Belarus crackdown on pro-democracy protesters in Belarus. Declaration of Independence led civil rights movement.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "American Revolution inspired global fight for freedom.",
+    "retrieved_context": "Russian Revolution began in 1917. Tiananmen Square massacre began in China. civil rights movement began in 1960s. civil rights movement was led by Martin Luther King Jr.. Russian Revolution brought end to Romanov dynasty. American Revolution began in 1776. civil rights movement was led by Rosa Parks. French Revolution began in 1789. Declaration of Independence led civil rights movement.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "French Revolution established a republic based on liberty.",
+    "retrieved_context": "Russian Revolution began in 1917. civil rights movement began in 1960s. civil rights movement was led by Martin Luther King Jr.. Russian Revolution brought end to Romanov dynasty. American Revolution began in 1776. civil rights movement was led by Rosa Parks. French Revolution began in 1789. Declaration of Independence led civil rights movement.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Russian Revolution led to the world's first communist state.",
+    "retrieved_context": "Russian Revolution began in 1917. Vladimir Lenin led Bolsheviks. Russian Revolution brought end to Romanov dynasty. French Revolution began in 1789. American Revolution began in 1776. Belarus crackdown on pro-democracy protesters in Belarus.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Civil rights movement challenged racial segregation.",
+    "retrieved_context": "Tiananmen Square massacre began in China. civil rights movement began in 1960s. civil rights movement was led by Martin Luther King Jr.. American Revolution began in 1776. civil rights movement was led by Rosa Parks. French Revolution began in 1789. Declaration of Independence led civil rights movement.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Arab Spring led to the overthrow of dictators.",
+    "retrieved_context": "Russian Revolution began in 1917. Arab Spring began in 2010. Tiananmen Square massacre began in China. civil rights movement began in 1960s. civil rights movement was led by Martin Luther King Jr.. Russian Revolution brought end to Romanov dynasty. French Revolution began in 1789. American Revolution began in 1776. civil rights movement was led by Rosa Parks. Arab Spring spread to Middle East and North Africa. Declaration of Independence led civil rights movement. Arab Spring began in Tunisia.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Black Lives Matter demands racial justice.",
+    "retrieved_context": "Tiananmen Square massacre began in China. civil rights movement began in 1960s. civil rights movement was led by Martin Luther King Jr.. American Revolution began in 1776. civil rights movement was led by Rosa Parks. Belarus crackdown on pro-democracy protesters in Belarus. Declaration of Independence led civil rights movement.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Governments use force to suppress protests.",
+    "retrieved_context": "Tiananmen Square massacre began in China. civil rights movement began in 1960s. Vladimir Lenin led Bolsheviks. civil rights movement was led by Martin Luther King Jr.. French Revolution began in 1789. American Revolution began in 1776. civil rights movement was led by Rosa Parks. Belarus crackdown on pro-democracy protesters in Belarus. Declaration of Independence led civil rights movement.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Protests are a tool for social and political change.",
+    "retrieved_context": "Tiananmen Square massacre began in China. Russian Revolution began in 1917. civil rights movement began in 1960s. Vladimir Lenin led Bolsheviks. civil rights movement was led by Martin Luther King Jr.. Russian Revolution brought end to Romanov dynasty. French Revolution began in 1789. American Revolution began in 1776. civil rights movement was led by Rosa Parks. Belarus crackdown on pro-democracy protesters in Belarus. Declaration of Independence led civil rights movement.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Protests inspire movements for democracy.",
+    "retrieved_context": "Russian Revolution began in 1917. Tiananmen Square massacre began in China. civil rights movement began in 1960s. civil rights movement was led by Martin Luther King Jr.. Russian Revolution brought end to Romanov dynasty. French Revolution began in 1789. American Revolution began in 1776. civil rights movement was led by Rosa Parks. Belarus crackdown on pro-democracy protesters in Belarus. Declaration of Independence led civil rights movement.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Protests remind of the power of the human spirit.",
+    "retrieved_context": "Tiananmen Square massacre began in China. civil rights movement began in 1960s. Vladimir Lenin led Bolsheviks. civil rights movement was led by Martin Luther King Jr.. American Revolution began in 1776. civil rights movement was led by Rosa Parks. Belarus crackdown on pro-democracy protesters in Belarus. Declaration of Independence led civil rights movement.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "20.00%"
+  }
+]

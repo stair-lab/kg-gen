@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Atlantis is a legendary island.",
+    "retrieved_context": "Pillars of Hercules is believed to be Strait of Gibraltar. Atlantis is a island. Atlantis was first mentioned by Timaeus. Atlantis located beyond Pillars of Hercules. Atlantis located in Mediterranean Sea. Plato wrote Timaeus. Atlantis located in Antarctica. Atlantis was first mentioned by Critias. Atlantis existed around 9,000 years before his time. Plato wrote Critias. Atlantis existed around 11,000 years ago. Atlantis was first mentioned by Plato. Atlantis located in Atlantic Ocean.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Plato mentioned Atlantis in his dialogues 'Timaeus' and 'Critias'.",
+    "retrieved_context": "Pillars of Hercules is believed to be Strait of Gibraltar. Atlantis is a island. Atlantis was first mentioned by Timaeus. Atlantis located beyond Pillars of Hercules. Atlantis located in Mediterranean Sea. Plato wrote Timaeus. Atlantis located in Antarctica. Atlantis was first mentioned by Critias. Atlantis existed around 9,000 years before his time. Plato wrote Critias. Atlantis existed around 11,000 years ago. Atlantis was first mentioned by Plato. Atlantis located in Atlantic Ocean.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Atlantis story has captivated people for centuries.",
+    "retrieved_context": "Pillars of Hercules is believed to be Strait of Gibraltar. Atlantis is a island. Atlantis was first mentioned by Timaeus. Atlantis located beyond Pillars of Hercules. Atlantis located in Mediterranean Sea. Plato wrote Timaeus. Atlantis located in Antarctica. Atlantis was first mentioned by Critias. Atlantis existed around 9,000 years before his time. Plato wrote Critias. Atlantis existed around 11,000 years ago. Atlantis was first mentioned by Plato. Atlantis located in Atlantic Ocean.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Plato claimed Atlantis existed around 11,000 years ago.",
+    "retrieved_context": "Pillars of Hercules is believed to be Strait of Gibraltar. Atlantis is a island. Atlantis was first mentioned by Timaeus. Atlantis located beyond Pillars of Hercules. Atlantis located in Mediterranean Sea. Plato wrote Timaeus. Atlantis located in Antarctica. Atlantis was first mentioned by Critias. Atlantis existed around 9,000 years before his time. Plato wrote Critias. Atlantis existed around 11,000 years ago. Atlantis was first mentioned by Plato. Atlantis located in Atlantic Ocean.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Some believe Atlantis was a real place in the Atlantic Ocean.",
+    "retrieved_context": "Pillars of Hercules is believed to be Strait of Gibraltar. Atlantis is a island. Atlantis was first mentioned by Timaeus. Atlantis located beyond Pillars of Hercules. Atlantis located in Mediterranean Sea. Plato wrote Timaeus. Atlantis located in Antarctica. Atlantis was first mentioned by Critias. Atlantis existed around 9,000 years before his time. Plato wrote Critias. Atlantis existed around 11,000 years ago. Atlantis was first mentioned by Plato. Atlantis located in Atlantic Ocean.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Others argue Atlantis is a myth created by Plato.",
+    "retrieved_context": "Pillars of Hercules is believed to be Strait of Gibraltar. Atlantis is a island. Atlantis was first mentioned by Timaeus. Atlantis located beyond Pillars of Hercules. Atlantis located in Mediterranean Sea. Plato wrote Timaeus. Atlantis located in Antarctica. Atlantis was first mentioned by Critias. Atlantis existed around 9,000 years before his time. Plato wrote Critias. Atlantis existed around 11,000 years ago. Atlantis was first mentioned by Plato. Atlantis located in Atlantic Ocean.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Atlantis was located beyond the 'Pillars of Hercules'.",
+    "retrieved_context": "Pillars of Hercules is believed to be Strait of Gibraltar. Atlantis is a island. Atlantis was first mentioned by Timaeus. Atlantis located beyond Pillars of Hercules. Atlantis located in Mediterranean Sea. Plato wrote Timaeus. Atlantis located in Antarctica. Atlantis was first mentioned by Critias. Atlantis existed around 9,000 years before his time. Plato wrote Critias. Atlantis existed around 11,000 years ago. Atlantis was first mentioned by Plato. Atlantis located in Atlantic Ocean.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Atlantis was rich in resources and had advanced technology.",
+    "retrieved_context": "Pillars of Hercules is believed to be Strait of Gibraltar. Atlantis is a island. Atlantis was first mentioned by Timaeus. Atlantis located beyond Pillars of Hercules. Atlantis located in Mediterranean Sea. Plato wrote Timaeus. Atlantis located in Antarctica. Atlantis was first mentioned by Critias. Atlantis existed around 9,000 years before his time. Plato wrote Critias. Atlantis existed around 11,000 years ago. Atlantis was first mentioned by Plato. Atlantis located in Atlantic Ocean.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Atlanteans were described as noble and virtuous people.",
+    "retrieved_context": "Pillars of Hercules is believed to be Strait of Gibraltar. Atlantis is a island. Atlantis was first mentioned by Timaeus. Atlantis existed around 11,000 years ago. Atlantis located in Mediterranean Sea. Atlantis located beyond Pillars of Hercules. Atlantis located in Antarctica. Atlantis was first mentioned by Critias. Atlantis existed around 9,000 years before his time. Plato wrote Critias. Plato wrote Timaeus. Atlantis was first mentioned by Plato. Atlantis located in Atlantic Ocean.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Atlantis was destroyed suddenly and catastrophically.",
+    "retrieved_context": "Pillars of Hercules is believed to be Strait of Gibraltar. Atlantis is a island. Atlantis was first mentioned by Timaeus. Atlantis located beyond Pillars of Hercules. Atlantis located in Mediterranean Sea. Plato wrote Timaeus. Atlantis located in Antarctica. Atlantis was first mentioned by Critias. Atlantis existed around 9,000 years before his time. Plato wrote Critias. Atlantis existed around 11,000 years ago. Atlantis was first mentioned by Plato. Atlantis located in Atlantic Ocean.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The destruction of Atlantis was described by Plato.",
+    "retrieved_context": "Pillars of Hercules is believed to be Strait of Gibraltar. Atlantis is a island. Atlantis was first mentioned by Timaeus. Atlantis located beyond Pillars of Hercules. Atlantis located in Mediterranean Sea. Plato wrote Timaeus. Atlantis located in Antarctica. Atlantis was first mentioned by Critias. Atlantis existed around 9,000 years before his time. Plato wrote Critias. Atlantis existed around 11,000 years ago. Atlantis was first mentioned by Plato. Atlantis located in Atlantic Ocean.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Numerous theories have been proposed about Atlantis.",
+    "retrieved_context": "Pillars of Hercules is believed to be Strait of Gibraltar. Atlantis is a island. Atlantis was first mentioned by Timaeus. Atlantis located beyond Pillars of Hercules. Atlantis located in Mediterranean Sea. Plato wrote Timaeus. Atlantis located in Antarctica. Atlantis was first mentioned by Critias. Atlantis existed around 9,000 years before his time. Plato wrote Critias. Atlantis existed around 11,000 years ago. Atlantis was first mentioned by Plato. Atlantis located in Atlantic Ocean.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The legend of Atlantis continues to fascinate people worldwide.",
+    "retrieved_context": "Pillars of Hercules is believed to be Strait of Gibraltar. Atlantis is a island. Atlantis was first mentioned by Timaeus. Atlantis located beyond Pillars of Hercules. Atlantis located in Mediterranean Sea. Plato wrote Timaeus. Atlantis located in Antarctica. Atlantis was first mentioned by Critias. Atlantis existed around 9,000 years before his time. Plato wrote Critias. Atlantis existed around 11,000 years ago. Atlantis was first mentioned by Plato. Atlantis located in Atlantic Ocean.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Many have speculated about the possible location of Atlantis.",
+    "retrieved_context": "Pillars of Hercules is believed to be Strait of Gibraltar. Atlantis is a island. Atlantis was first mentioned by Timaeus. Atlantis located beyond Pillars of Hercules. Atlantis located in Mediterranean Sea. Plato wrote Timaeus. Atlantis located in Antarctica. Atlantis was first mentioned by Critias. Atlantis existed around 9,000 years before his time. Plato wrote Critias. Atlantis existed around 11,000 years ago. Atlantis was first mentioned by Plato. Atlantis located in Atlantic Ocean.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The enduring appeal of Atlantis lies in its mystery and intrigue.",
+    "retrieved_context": "Pillars of Hercules is believed to be Strait of Gibraltar. Atlantis is a island. Atlantis was first mentioned by Timaeus. Atlantis located beyond Pillars of Hercules. Atlantis located in Mediterranean Sea. Plato wrote Timaeus. Atlantis located in Antarctica. Atlantis was first mentioned by Critias. Atlantis existed around 9,000 years before his time. Plato wrote Critias. Atlantis existed around 11,000 years ago. Atlantis was first mentioned by Plato. Atlantis located in Atlantic Ocean.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "13.33%"
+  }
+]

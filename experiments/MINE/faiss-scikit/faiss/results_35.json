@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Tattoos are a form of self-expression and body art for centuries.",
+    "retrieved_context": "Tattoos foster belonging. tattoos symbolize spiritual connection to nature. commemoration remind of shared human experiences. pe'a reflects achievements. pe'a reflects adulthood. tattoos have magical properties. Tattoos signify achievements. Tattoos signify social status. Tattoos reflects shared human experiences. tattoos are used in commemoration. Tattoos symbolize commemoration. tattoos symbolize courage. tattoos signify code of honor. tattoos are associated with yakuza. Tattoos shape identity. tattoos symbolize ancestors. Tattoos are a form of Tattoos. Tattoos are a form of self-expression. moko denote identity. pe'a reflects lineage. pe'a reflects values. tattoos symbolize loyalty. commemoration honor ancestors. Tattoos signify rank. pe'a are a form of commemoration. contemporary Western societies are home to Tattoos. Tattoos reflects cultural heritage.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Tattoos have a rich cultural history that varies across different societies and time periods.",
+    "retrieved_context": "Tattoos foster belonging. tattoos symbolize spiritual connection to nature. commemoration remind of shared human experiences. pe'a reflects achievements. pe'a reflects adulthood. tattoos have magical properties. Tattoos signify achievements. Tattoos signify social status. Tattoos reflects shared human experiences. tattoos are used in commemoration. Tattoos symbolize commemoration. tattoos symbolize courage. tattoos signify code of honor. tattoos are associated with yakuza. Tattoos shape identity. tattoos symbolize ancestors. Tattoos are a form of Tattoos. Tattoos are a form of self-expression. moko denote identity. pe'a reflects lineage. pe'a reflects values. tattoos symbolize loyalty. commemoration honor ancestors. Tattoos signify rank. pe'a are a form of commemoration. contemporary Western societies are home to Tattoos. Tattoos reflects cultural heritage.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Tattoos' significance remains deeply rooted in cultural traditions and personal meanings.",
+    "retrieved_context": "Tattoos foster belonging. tattoos symbolize spiritual connection to nature. commemoration remind of shared human experiences. pe'a reflects achievements. pe'a reflects adulthood. tattoos have magical properties. Tattoos signify achievements. Tattoos signify social status. Tattoos reflects shared human experiences. tattoos are used in commemoration. Tattoos symbolize commemoration. tattoos symbolize courage. tattoos signify code of honor. tattoos are associated with yakuza. Tattoos shape identity. tattoos symbolize ancestors. Tattoos are a form of Tattoos. Tattoos are a form of self-expression. moko denote identity. pe'a reflects lineage. pe'a reflects values. tattoos symbolize loyalty. commemoration honor ancestors. Tattoos signify rank. pe'a are a form of commemoration. contemporary Western societies are home to Tattoos. Tattoos reflects cultural heritage.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Tattoos have been used as symbols of identity, belonging, and ritual in various cultures around the world.",
+    "retrieved_context": "Tattoos foster belonging. tattoos symbolize spiritual connection to nature. commemoration remind of shared human experiences. pe'a reflects achievements. pe'a reflects adulthood. tattoos have magical properties. Tattoos signify achievements. Tattoos signify social status. Tattoos reflects shared human experiences. tattoos are used in commemoration. Tattoos symbolize commemoration. tattoos symbolize courage. tattoos signify code of honor. moko denote lineage. tattoos are associated with yakuza. Tattoos shape identity. tattoos symbolize ancestors. Tattoos are a form of Tattoos. Tattoos are a form of self-expression. moko denote identity. pe'a reflects lineage. pe'a reflects values. tattoos symbolize loyalty. commemoration honor ancestors. Tattoos signify rank. pe'a are a form of commemoration. contemporary Western societies are home to Tattoos. moko denote life story. Tattoos reflects cultural heritage.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "In many cultures, tattoos are a way for individuals to express their unique identities, beliefs, and experiences.",
+    "retrieved_context": "Tattoos foster belonging. tattoos symbolize spiritual connection to nature. commemoration remind of shared human experiences. pe'a reflects achievements. tattoos have magical properties. Tattoos signify achievements. Tattoos signify social status. Tattoos reflects shared human experiences. tattoos are used in commemoration. Tattoos symbolize commemoration. tattoos symbolize courage. tattoos signify code of honor. moko denote lineage. tattoos are associated with yakuza. Tattoos shape identity. tattoos symbolize ancestors. Tattoos are a form of Tattoos. Tattoos are a form of self-expression. moko denote identity. tattoos symbolize loyalty. commemoration honor ancestors. Tattoos signify rank. pe'a are a form of commemoration. contemporary Western societies are home to Tattoos. moko denote life story. Tattoos reflects cultural heritage.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Ancient Polynesian cultures used tattoos to signify social status, rank, and achievements.",
+    "retrieved_context": "Tattoos foster belonging. tattoos symbolize spiritual connection to nature. commemoration remind of shared human experiences. pe'a reflects achievements. tattoos have magical properties. Tattoos signify achievements. Tattoos signify social status. Tattoos reflects shared human experiences. tattoos are used in commemoration. Tattoos symbolize commemoration. tattoos symbolize courage. tattoos signify code of honor. tattoos are associated with yakuza. Tattoos shape identity. tattoos symbolize ancestors. Tattoos are a form of Tattoos. Tattoos are a form of self-expression. moko denote identity. tattoos symbolize loyalty. commemoration honor ancestors. Tattoos signify rank. pe'a are a form of commemoration. contemporary Western societies are home to Tattoos. Tattoos reflects cultural heritage.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Maori culture used tattoos known as 'moko' to denote lineage, tribal affiliations, and life story.",
+    "retrieved_context": "Tattoos foster belonging. tattoos symbolize spiritual connection to nature. commemoration remind of shared human experiences. pe'a reflects achievements. tattoos have magical properties. Tattoos signify achievements. Tattoos signify social status. Tattoos reflects shared human experiences. tattoos are used in commemoration. Tattoos symbolize commemoration. tattoos symbolize courage. moko denote lineage. tattoos signify code of honor. tattoos are associated with yakuza. Tattoos shape identity. tattoos symbolize ancestors. Tattoos are a form of Tattoos. moko denote identity. pe'a reflects lineage. Tattoos are a form of self-expression. tattoos symbolize loyalty. commemoration honor ancestors. Tattoos signify rank. pe'a are a form of commemoration. contemporary Western societies are home to Tattoos. moko denote life story. Tattoos reflects cultural heritage.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Tattoos in contemporary Western societies represent personal identity and self-expression.",
+    "retrieved_context": "Tattoos foster belonging. tattoos symbolize spiritual connection to nature. commemoration remind of shared human experiences. pe'a reflects achievements. tattoos have magical properties. Tattoos signify achievements. Tattoos signify social status. Tattoos reflects shared human experiences. tattoos are used in commemoration. Tattoos symbolize commemoration. tattoos symbolize courage. tattoos signify code of honor. moko denote lineage. tattoos are associated with yakuza. Tattoos shape identity. tattoos symbolize ancestors. Tattoos are a form of Tattoos. Tattoos are a form of self-expression. moko denote identity. tattoos symbolize loyalty. commemoration honor ancestors. Tattoos signify rank. pe'a are a form of commemoration. contemporary Western societies are home to Tattoos. moko denote life story. Tattoos reflects cultural heritage.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Tattoos in indigenous cultures connect individuals to their cultural heritage and community traditions.",
+    "retrieved_context": "Tattoos foster belonging. tattoos symbolize spiritual connection to nature. commemoration remind of shared human experiences. pe'a reflects achievements. pe'a reflects adulthood. tattoos have magical properties. Tattoos signify achievements. Tattoos signify social status. Tattoos reflects shared human experiences. tattoos are used in commemoration. Tattoos symbolize commemoration. tattoos symbolize courage. tattoos signify code of honor. tattoos are associated with yakuza. Tattoos shape identity. tattoos symbolize ancestors. Tattoos are a form of Tattoos. Tattoos are a form of self-expression. moko denote identity. pe'a reflects lineage. pe'a reflects values. tattoos symbolize loyalty. commemoration honor ancestors. Tattoos signify rank. pe'a are a form of commemoration. contemporary Western societies are home to Tattoos. Tattoos reflects cultural heritage.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Among the Ainu people of Japan, tattoos symbolize a person's spiritual connection to nature and ancestors.",
+    "retrieved_context": "Tattoos foster belonging. tattoos symbolize spiritual connection to nature. commemoration remind of shared human experiences. pe'a reflects achievements. tattoos have magical properties. Tattoos signify achievements. Tattoos signify social status. Tattoos reflects shared human experiences. tattoos are used in commemoration. Tattoos symbolize commemoration. tattoos symbolize courage. tattoos signify code of honor. tattoos are associated with yakuza. Tattoos shape identity. tattoos symbolize ancestors. Tattoos are a form of Tattoos. Tattoos are a form of self-expression. moko denote identity. tattoos symbolize loyalty. commemoration honor ancestors. Tattoos signify rank. pe'a are a form of commemoration. contemporary Western societies are home to Tattoos. Tattoos reflects cultural heritage.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "In Samoan culture, tattoos known as 'pe'a' symbolize a rite of passage for young men.",
+    "retrieved_context": "Tattoos foster belonging. tattoos symbolize spiritual connection to nature. commemoration remind of shared human experiences. pe'a reflects achievements. pe'a reflects adulthood. tattoos have magical properties. Tattoos signify achievements. Tattoos signify social status. Tattoos reflects shared human experiences. tattoos are used in commemoration. Tattoos symbolize commemoration. tattoos symbolize courage. tattoos signify code of honor. moko denote lineage. tattoos are associated with yakuza. Tattoos shape identity. tattoos symbolize ancestors. Tattoos are a form of Tattoos. Tattoos are a form of self-expression. moko denote identity. pe'a reflects lineage. pe'a reflects values. tattoos symbolize loyalty. commemoration honor ancestors. Tattoos signify rank. pe'a are a form of commemoration. contemporary Western societies are home to Tattoos. Tattoos reflects cultural heritage.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Tattoos have been used as a form of ritual and ceremony in many cultures.",
+    "retrieved_context": "Tattoos foster belonging. tattoos symbolize spiritual connection to nature. commemoration remind of shared human experiences. pe'a reflects achievements. pe'a reflects adulthood. tattoos have magical properties. Tattoos signify achievements. Tattoos signify social status. Tattoos reflects shared human experiences. tattoos are used in commemoration. Tattoos symbolize commemoration. tattoos symbolize courage. tattoos signify code of honor. tattoos are associated with yakuza. Tattoos shape identity. tattoos symbolize ancestors. Tattoos are a form of Tattoos. Tattoos are a form of self-expression. moko denote identity. pe'a reflects lineage. pe'a reflects values. tattoos symbolize loyalty. commemoration honor ancestors. Tattoos signify rank. pe'a are a form of commemoration. contemporary Western societies are home to Tattoos. Tattoos reflects cultural heritage.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "In ancient Egypt, tattoos were believed to have magical properties and used in religious ceremonies.",
+    "retrieved_context": "Tattoos foster belonging. tattoos symbolize spiritual connection to nature. commemoration remind of shared human experiences. pe'a reflects achievements. tattoos have magical properties. Tattoos signify achievements. Tattoos signify social status. Tattoos reflects shared human experiences. tattoos are used in commemoration. Tattoos symbolize commemoration. tattoos symbolize courage. tattoos signify code of honor. tattoos are associated with yakuza. Tattoos shape identity. tattoos symbolize ancestors. Tattoos are a form of Tattoos. Tattoos are a form of self-expression. moko denote identity. tattoos symbolize loyalty. commemoration honor ancestors. Tattoos signify rank. pe'a are a form of commemoration. contemporary Western societies are home to Tattoos. Tattoos reflects cultural heritage.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "In traditional Japanese culture, tattoos were associated with the yakuza and symbolized loyalty, courage, and strength.",
+    "retrieved_context": "Tattoos foster belonging. tattoos symbolize spiritual connection to nature. commemoration remind of shared human experiences. pe'a reflects achievements. tattoos have magical properties. Tattoos signify social status. Tattoos signify achievements. Tattoos reflects shared human experiences. tattoos are used in commemoration. Tattoos symbolize commemoration. tattoos symbolize courage. tattoos signify code of honor. tattoos are associated with yakuza. Tattoos shape identity. tattoos symbolize ancestors. Tattoos are a form of Tattoos. moko denote identity. Tattoos are a form of self-expression. tattoos symbolize loyalty. commemoration honor ancestors. Tattoos signify rank. pe'a are a form of commemoration. contemporary Western societies are home to Tattoos. Tattoos reflects cultural heritage.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Tattoos in contemporary society mark significant life events and milestones.",
+    "retrieved_context": "Tattoos foster belonging. tattoos symbolize spiritual connection to nature. commemoration remind of shared human experiences. pe'a reflects achievements. pe'a reflects adulthood. tattoos have magical properties. Tattoos signify achievements. Tattoos signify social status. Tattoos reflects shared human experiences. tattoos are used in commemoration. Tattoos symbolize commemoration. tattoos symbolize courage. tattoos signify code of honor. tattoos are associated with yakuza. Tattoos shape identity. tattoos symbolize ancestors. Tattoos are a form of Tattoos. Tattoos are a form of self-expression. moko denote identity. pe'a reflects lineage. pe'a reflects values. tattoos symbolize loyalty. commemoration honor ancestors. Tattoos signify rank. pe'a are a form of commemoration. contemporary Western societies are home to Tattoos. Tattoos reflects cultural heritage.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "46.67%"
+  }
+]

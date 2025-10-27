@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Military technology shapes the course of history.",
+    "retrieved_context": "siege weapons includes catapults. drones are also known as drones. cyber warfare part of Military technology. Military technology played a role in shaping history. Egyptians used bow and arrow. bow and arrow used ancient civilizations. artificial intelligence part of Military technology. Greeks used bow and arrow. Military technology includes directed energy weapons. Romans used bow and arrow. Military technology includes hypersonic missiles. Military technology shapes geopolitical landscape. siege weapons used against fortified cities. siege weapons used against castles. siege weapons includes trebuchets. Military technology includes drones. siege weapons used medieval warfare. Military technology key innovation bow and arrow.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Weapons and equipment development for military advantage is a constant theme in human civilization.",
+    "retrieved_context": "cyber warfare part of Military technology. Military technology played a role in shaping history. artificial intelligence part of Military technology. Romans used bow and arrow. siege weapons includes trebuchets. siege weapons used medieval warfare. Military technology key innovation bow and arrow. siege weapons includes catapults. drones are also known as drones. Military technology includes hypersonic missiles. Greeks used bow and arrow. Egyptians used bow and arrow. Military technology includes directed energy weapons. siege weapons used against fortified cities. bow and arrow used ancient civilizations. Military technology includes drones. Industrial Revolution brought about mass production of weapons. Military technology shapes geopolitical landscape. siege weapons used against castles.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The bow and arrow revolutionized warfare by enabling long-range combat.",
+    "retrieved_context": "cyber warfare part of Military technology. Military technology played a role in shaping history. artificial intelligence part of Military technology. Romans used bow and arrow. siege weapons includes trebuchets. siege weapons used medieval warfare. Military technology key innovation bow and arrow. siege weapons includes catapults. drones are also known as drones. Military technology includes hypersonic missiles. Greeks used bow and arrow. Egyptians used bow and arrow. Military technology includes directed energy weapons. siege weapons used against fortified cities. bow and arrow used ancient civilizations. nuclear weapons can destroy ancient civilizations. Military technology includes drones. Military technology shapes geopolitical landscape. siege weapons used against castles.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The bow and arrow increased soldiers' effectiveness on the battlefield.",
+    "retrieved_context": "gunpowder weapons widespread in Europe. cyber warfare part of Military technology. Military technology played a role in shaping history. artificial intelligence part of Military technology. Romans used bow and arrow. gunpowder weapons widespread during Renaissance era. siege weapons includes trebuchets. siege weapons used medieval warfare. Military technology key innovation bow and arrow. siege weapons includes catapults. drones are also known as drones. Military technology includes hypersonic missiles. Greeks used bow and arrow. Egyptians used bow and arrow. Military technology includes directed energy weapons. siege weapons used against fortified cities. bow and arrow used ancient civilizations. nuclear weapons can destroy ancient civilizations. Military technology includes drones. Military technology shapes geopolitical landscape. siege weapons used against castles.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Siege weapons like catapults and trebuchets were used to lay siege to fortified cities and castles.",
+    "retrieved_context": "gunpowder weapons widespread in Europe. siege weapons includes catapults. gunpowder weapons widespread during Renaissance era. firearms are gunpowder. gunpowder invented in China. siege weapons used against fortified cities. siege weapons includes trebuchets. cannons are gunpowder. siege weapons used against castles. siege weapons used medieval warfare.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Siege weapons were instrumental in shaping the outcome of battles and conflicts.",
+    "retrieved_context": "gunpowder weapons widespread in Europe. siege weapons includes catapults. Industrial Revolution brought about mass production of weapons. gunpowder weapons widespread during Renaissance era. siege weapons used against fortified cities. siege weapons includes trebuchets. siege weapons used against castles. siege weapons used medieval warfare.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Gunpowder weapons revolutionized warfare by providing powerful means of engaging the enemy.",
+    "retrieved_context": "gunpowder weapons widespread in Europe. siege weapons includes catapults. firearms used to gain advantage. Industrial Revolution brought about mass production of weapons. siege weapons used against castles. firearms are gunpowder. gunpowder invented in China. siege weapons used against fortified cities. siege weapons includes trebuchets. cannons are gunpowder. gunpowder weapons widespread during Renaissance era. siege weapons used medieval warfare.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Industrial Revolution brought mass production of sophisticated and deadly weapons.",
+    "retrieved_context": "gunpowder weapons widespread in Europe. cyber warfare part of Military technology. Military technology played a role in shaping history. artificial intelligence part of Military technology. firearms are gunpowder. Romans used bow and arrow. siege weapons includes trebuchets. siege weapons used medieval warfare. Military technology key innovation bow and arrow. siege weapons includes catapults. firearms used to gain advantage. drones are also known as drones. siege weapons used against castles. Military technology includes hypersonic missiles. Greeks used bow and arrow. Egyptians used bow and arrow. Military technology includes directed energy weapons. siege weapons used against fortified cities. bow and arrow used ancient civilizations. cannons are gunpowder. Military technology includes drones. Industrial Revolution brought about mass production of weapons. gunpowder invented in China. Military technology shapes geopolitical landscape. gunpowder weapons widespread during Renaissance era.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Rifled barrels, breech-loading mechanisms, and repeating firearms transformed warfare.",
+    "retrieved_context": "gunpowder weapons widespread in Europe. siege weapons includes catapults. firearms used to gain advantage. Industrial Revolution brought about mass production of weapons. siege weapons used against castles. firearms are gunpowder. gunpowder invented in China. siege weapons used against fortified cities. siege weapons includes trebuchets. cannons are gunpowder. gunpowder weapons widespread during Renaissance era. siege weapons used medieval warfare.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The 20th century saw advancements in tanks, aircraft, submarines, and missiles.",
+    "retrieved_context": "submarines were invented in the 20th century. aircraft were invented in the 20th century. drones are also known as drones. cyber warfare part of Military technology. missiles were invented in the 20th century. Military technology played a role in shaping history. Egyptians used bow and arrow. bow and arrow used ancient civilizations. artificial intelligence part of Military technology. Greeks used bow and arrow. Military technology includes directed energy weapons. Romans used bow and arrow. Military technology includes hypersonic missiles. Military technology shapes geopolitical landscape. Military technology includes drones. tanks were invented in the 20th century. Military technology key innovation bow and arrow.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Nuclear weapons have the potential to annihilate entire cities and civilizations.",
+    "retrieved_context": "cyber warfare part of Military technology. nuclear weapons can destroy cities. Military technology played a role in shaping history. missiles were invented in the 20th century. artificial intelligence part of Military technology. siege weapons includes trebuchets. siege weapons used medieval warfare. Military technology key innovation bow and arrow. siege weapons includes catapults. Military technology includes hypersonic missiles. nuclear weapons developed during Manhattan Project. Military technology includes directed energy weapons. siege weapons used against fortified cities. bow and arrow used ancient civilizations. nuclear weapons can destroy ancient civilizations. Military technology includes drones. tanks were invented in the 20th century. submarines were invented in the 20th century. aircraft were invented in the 20th century. Industrial Revolution brought about mass production of weapons. Military technology shapes geopolitical landscape. siege weapons used against castles.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Unmanned aerial vehicles (UAVs), drones, cyber warfare, and artificial intelligence have transformed the battlefield.",
+    "retrieved_context": "cyber warfare part of Military technology. missiles were invented in the 20th century. Military technology played a role in shaping history. artificial intelligence part of Military technology. Romans used bow and arrow. siege weapons includes trebuchets. siege weapons used medieval warfare. Military technology key innovation bow and arrow. siege weapons includes catapults. drones are also known as drones. Military technology includes hypersonic missiles. Greeks used bow and arrow. Egyptians used bow and arrow. Military technology includes directed energy weapons. siege weapons used against fortified cities. bow and arrow used ancient civilizations. Military technology includes drones. tanks were invented in the 20th century. aircraft were invented in the 20th century. submarines were invented in the 20th century. Military technology shapes geopolitical landscape. siege weapons used against castles.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Advanced technology enables precision strikes and real-time intelligence gathering.",
+    "retrieved_context": "submarines were invented in the 20th century. aircraft were invented in the 20th century. drones are also known as drones. cyber warfare part of Military technology. missiles were invented in the 20th century. Military technology played a role in shaping history. Egyptians used bow and arrow. bow and arrow used ancient civilizations. artificial intelligence part of Military technology. Greeks used bow and arrow. Military technology includes directed energy weapons. Romans used bow and arrow. Military technology includes hypersonic missiles. Military technology shapes geopolitical landscape. Military technology includes drones. tanks were invented in the 20th century. Military technology key innovation bow and arrow.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Hypersonic missiles, directed energy weapons, and autonomous robots are emerging military technologies.",
+    "retrieved_context": "cyber warfare part of Military technology. missiles were invented in the 20th century. Military technology played a role in shaping history. nuclear weapons can destroy cities. artificial intelligence part of Military technology. Romans used bow and arrow. Military technology key innovation bow and arrow. drones are also known as drones. Military technology includes hypersonic missiles. Greeks used bow and arrow. Egyptians used bow and arrow. nuclear weapons developed during Manhattan Project. Military technology includes directed energy weapons. bow and arrow used ancient civilizations. nuclear weapons can destroy ancient civilizations. Military technology includes drones. tanks were invented in the 20th century. submarines were invented in the 20th century. aircraft were invented in the 20th century. Military technology shapes geopolitical landscape.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Military technology innovation continues to drive change and shape conflicts.",
+    "retrieved_context": "submarines were invented in the 20th century. aircraft were invented in the 20th century. drones are also known as drones. cyber warfare part of Military technology. Industrial Revolution brought about mass production of weapons. Military technology played a role in shaping history. Egyptians used bow and arrow. bow and arrow used ancient civilizations. artificial intelligence part of Military technology. missiles were invented in the 20th century. Greeks used bow and arrow. Military technology includes directed energy weapons. Romans used bow and arrow. Military technology includes hypersonic missiles. Military technology shapes geopolitical landscape. Military technology includes drones. tanks were invented in the 20th century. Military technology key innovation bow and arrow.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "46.67%"
+  }
+]

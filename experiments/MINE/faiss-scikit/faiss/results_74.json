@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Comedy provides entertainment to audiences.",
+    "retrieved_context": "parody highlights injustices. shared laughter improves unity. comedy highlights absurdities. comedy addresses controversial topics. laughter improves well-being. comedy provides entertainment. comedy highlights injustices. laughter improves immune system. sitcoms is a form of comedy. laughter has health benefits. parody highlights absurdities. shared laughter creates bonds. laughter reduces stress relief. stand-up comedy is a form of comedy. comedy serves as a tool for social commentary. comedy improves community. comedy drives social progress. comedy helps cope with coping with life's challenges. movies is a form of comedy. power of humor implies responsibility. power of humor implies ethics.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Laughter has health benefits like reducing stress.",
+    "retrieved_context": "parody highlights injustices. shared laughter improves unity. comedy highlights absurdities. comedy addresses controversial topics. laughter improves well-being. comedy provides entertainment. comedy highlights injustices. laughter improves immune system. laughter has health benefits. sitcoms is a form of comedy. shared laughter creates bonds. parody highlights absurdities. laughter reduces stress relief. stand-up comedy is a form of comedy. comedy improves community. comedy serves as a tool for social commentary. comedy drives social progress. comedy helps cope with coping with life's challenges. movies is a form of comedy. power of humor implies responsibility. power of humor implies ethics.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Comedy helps people relax and escape daily pressures.",
+    "retrieved_context": "parody highlights injustices. shared laughter improves unity. comedy highlights absurdities. comedy addresses controversial topics. laughter improves well-being. comedy provides entertainment. comedy highlights injustices. laughter improves immune system. sitcoms is a form of comedy. laughter has health benefits. parody highlights absurdities. shared laughter creates bonds. laughter reduces stress relief. stand-up comedy is a form of comedy. comedy serves as a tool for social commentary. comedy improves community. comedy drives social progress. comedy helps cope with coping with life's challenges. movies is a form of comedy. power of humor implies responsibility. power of humor implies ethics.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Comedy uplifts spirits and brings joy to people.",
+    "retrieved_context": "parody highlights injustices. shared laughter improves unity. comedy highlights absurdities. comedy addresses controversial topics. laughter improves well-being. comedy provides entertainment. comedy highlights injustices. laughter improves immune system. sitcoms is a form of comedy. laughter has health benefits. parody highlights absurdities. shared laughter creates bonds. laughter reduces stress relief. stand-up comedy is a form of comedy. comedy serves as a tool for social commentary. comedy improves community. comedy drives social progress. comedy helps cope with coping with life's challenges. movies is a form of comedy. power of humor implies responsibility. power of humor implies ethics.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Comedy is a tool for social commentary and criticism.",
+    "retrieved_context": "parody highlights injustices. comedy helps cope with coping with life's challenges. comedy provides entertainment. shared laughter improves unity. comedy highlights injustices. comedy highlights absurdities. power of humor implies responsibility. comedy addresses controversial topics. comedy serves as a tool for social commentary. sitcoms is a form of comedy. movies is a form of comedy. power of humor implies ethics. parody highlights absurdities. shared laughter creates bonds. stand-up comedy is a form of comedy. comedy improves community. comedy drives social progress.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Comedians use humor to challenge societal norms.",
+    "retrieved_context": "parody highlights injustices. shared laughter improves unity. comedy highlights absurdities. comedy addresses controversial topics. laughter improves well-being. comedy provides entertainment. comedy highlights injustices. laughter improves immune system. sitcoms is a form of comedy. laughter has health benefits. parody highlights absurdities. shared laughter creates bonds. laughter reduces stress relief. stand-up comedy is a form of comedy. comedy serves as a tool for social commentary. comedy improves community. comedy drives social progress. comedy helps cope with coping with life's challenges. movies is a form of comedy. power of humor implies responsibility. power of humor implies ethics.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Comedy highlights absurdities and injustices in society.",
+    "retrieved_context": "parody highlights injustices. comedy helps cope with coping with life's challenges. comedy provides entertainment. shared laughter improves unity. comedy highlights injustices. comedy highlights absurdities. power of humor implies responsibility. comedy addresses controversial topics. comedy serves as a tool for social commentary. sitcoms is a form of comedy. movies is a form of comedy. power of humor implies ethics. parody highlights absurdities. shared laughter creates bonds. stand-up comedy is a form of comedy. comedy improves community. comedy drives social progress.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Comedy fosters a sense of community and unity.",
+    "retrieved_context": "parody highlights injustices. shared laughter improves unity. comedy highlights absurdities. comedy addresses controversial topics. laughter improves well-being. comedy provides entertainment. comedy highlights injustices. laughter improves immune system. sitcoms is a form of comedy. laughter has health benefits. parody highlights absurdities. shared laughter creates bonds. laughter reduces stress relief. stand-up comedy is a form of comedy. comedy serves as a tool for social commentary. comedy improves community. comedy drives social progress. comedy helps cope with coping with life's challenges. movies is a form of comedy. power of humor implies responsibility. power of humor implies ethics.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Shared laughter creates bonds among individuals.",
+    "retrieved_context": "parody highlights injustices. shared laughter improves unity. comedy highlights absurdities. comedy addresses controversial topics. laughter improves well-being. comedy provides entertainment. comedy highlights injustices. laughter improves immune system. laughter has health benefits. sitcoms is a form of comedy. shared laughter creates bonds. parody highlights absurdities. laughter reduces stress relief. stand-up comedy is a form of comedy. comedy improves community. comedy serves as a tool for social commentary. comedy drives social progress. comedy helps cope with coping with life's challenges. movies is a form of comedy. power of humor implies responsibility. power of humor implies ethics.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Comedy events bring people together to connect through humor.",
+    "retrieved_context": "parody highlights injustices. shared laughter improves unity. comedy highlights absurdities. comedy addresses controversial topics. laughter improves well-being. comedy provides entertainment. comedy highlights injustices. laughter improves immune system. sitcoms is a form of comedy. laughter has health benefits. parody highlights absurdities. shared laughter creates bonds. laughter reduces stress relief. stand-up comedy is a form of comedy. comedy serves as a tool for social commentary. comedy improves community. comedy drives social progress. comedy helps cope with coping with life's challenges. movies is a form of comedy. power of humor implies responsibility. power of humor implies ethics.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Comedy can promote change and challenge the status quo.",
+    "retrieved_context": "parody highlights injustices. comedy helps cope with coping with life's challenges. comedy provides entertainment. comedy highlights injustices. comedy highlights absurdities. power of humor implies responsibility. comedy addresses controversial topics. comedy serves as a tool for social commentary. sitcoms is a form of comedy. movies is a form of comedy. power of humor implies ethics. parody highlights absurdities. stand-up comedy is a form of comedy. comedy improves community. comedy drives social progress.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Comedians use humor to inspire action and drive social progress.",
+    "retrieved_context": "parody highlights injustices. shared laughter improves unity. comedy highlights absurdities. comedy addresses controversial topics. laughter improves well-being. comedy provides entertainment. comedy highlights injustices. laughter improves immune system. sitcoms is a form of comedy. laughter has health benefits. parody highlights absurdities. shared laughter creates bonds. laughter reduces stress relief. stand-up comedy is a form of comedy. comedy serves as a tool for social commentary. comedy improves community. comedy drives social progress. comedy helps cope with coping with life's challenges. movies is a form of comedy. power of humor implies responsibility. power of humor implies ethics.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Humor is subjective and can be offensive to some.",
+    "retrieved_context": "parody highlights injustices. shared laughter improves unity. comedy highlights absurdities. comedy addresses controversial topics. laughter improves well-being. comedy provides entertainment. comedy highlights injustices. laughter improves immune system. sitcoms is a form of comedy. laughter has health benefits. parody highlights absurdities. shared laughter creates bonds. laughter reduces stress relief. stand-up comedy is a form of comedy. comedy serves as a tool for social commentary. comedy improves community. comedy drives social progress. comedy helps cope with coping with life's challenges. movies is a form of comedy. power of humor implies responsibility. power of humor implies ethics.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Comedians must balance pushing boundaries with respecting sensitivities.",
+    "retrieved_context": "parody highlights injustices. shared laughter improves unity. comedy highlights absurdities. comedy addresses controversial topics. laughter improves well-being. comedy provides entertainment. comedy highlights injustices. laughter improves immune system. sitcoms is a form of comedy. laughter has health benefits. parody highlights absurdities. shared laughter creates bonds. laughter reduces stress relief. stand-up comedy is a form of comedy. comedy serves as a tool for social commentary. comedy improves community. comedy drives social progress. comedy helps cope with coping with life's challenges. movies is a form of comedy. power of humor implies responsibility. power of humor implies ethics.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Comedians must use humor responsibly and ethically.",
+    "retrieved_context": "parody highlights injustices. shared laughter improves unity. comedy highlights absurdities. comedy addresses controversial topics. laughter improves well-being. comedy provides entertainment. comedy highlights injustices. laughter improves immune system. sitcoms is a form of comedy. laughter has health benefits. parody highlights absurdities. shared laughter creates bonds. laughter reduces stress relief. stand-up comedy is a form of comedy. comedy serves as a tool for social commentary. comedy improves community. comedy drives social progress. comedy helps cope with coping with life's challenges. movies is a form of comedy. power of humor implies responsibility. power of humor implies ethics.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "20.00%"
+  }
+]

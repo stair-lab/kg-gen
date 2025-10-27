@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Colors impact psychological well-being",
+    "retrieved_context": "colors influence perception. green associated_with tranquility. colors influence behavior. purple associated_with tranquility. colors influence mood. blue used_in bedrooms. color psychology examines colors. blue used_in meditation rooms. blue used_in offices. blue associated_with tranquility. color psychology examines behavior.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Colors evoke emotions and feelings",
+    "retrieved_context": "colors influence perception. green associated_with tranquility. colors influence behavior. purple associated_with tranquility. colors influence mood. blue used_in bedrooms. color psychology examines colors. blue used_in meditation rooms. blue used_in offices. blue associated_with tranquility. color psychology examines behavior.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Study of colors and human behavior is color psychology",
+    "retrieved_context": "colors influence behavior. yellow associated_with excitement. red increases blood pressure. colors influence mood. orange associated_with warmth. orange associated_with excitement. purple associated_with tranquility. colors influence perception. red used_in advertising. red associated_with warmth. red increases heart rate. blue used_in offices. red used_in spaces. color psychology examines behavior. green associated_with tranquility. red associated_with urgency. red associated_with excitement. color psychology examines colors. blue used_in meditation rooms. blue associated_with tranquility. blue used_in bedrooms.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Different colors affect mood, behavior, and physical reactions",
+    "retrieved_context": "colors influence behavior. yellow associated_with excitement. red increases blood pressure. colors influence mood. orange associated_with warmth. orange associated_with excitement. purple associated_with tranquility. colors influence perception. red used_in advertising. red associated_with warmth. red increases heart rate. blue used_in offices. red used_in spaces. color psychology examines behavior. green associated_with tranquility. red associated_with urgency. red associated_with excitement. color psychology examines colors. blue used_in meditation rooms. blue associated_with tranquility. blue used_in bedrooms.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Warm colors like red evoke energy and passion",
+    "retrieved_context": "colors influence behavior. yellow associated_with excitement. red increases blood pressure. colors influence mood. orange associated_with warmth. orange associated_with excitement. purple associated_with tranquility. colors influence perception. red used_in advertising. red associated_with warmth. red increases heart rate. blue used_in offices. red used_in spaces. color psychology examines behavior. green associated_with tranquility. red associated_with urgency. red associated_with excitement. color psychology examines colors. blue used_in meditation rooms. blue associated_with tranquility. blue used_in bedrooms.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Cool colors like blue evoke calmness and tranquility",
+    "retrieved_context": "colors influence perception. green associated_with tranquility. colors influence behavior. purple associated_with tranquility. colors influence mood. blue used_in bedrooms. color psychology examines colors. blue used_in meditation rooms. blue used_in offices. blue associated_with tranquility. color psychology examines behavior.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Red can increase heart rate and blood pressure",
+    "retrieved_context": "colors influence perception. red used_in advertising. red associated_with warmth. colors influence behavior. green associated_with tranquility. yellow associated_with excitement. red increases blood pressure. colors influence mood. orange associated_with warmth. purple associated_with tranquility. red associated_with urgency. orange associated_with excitement. red associated_with excitement. color psychology examines colors. red increases heart rate. red used_in spaces. blue associated_with tranquility. color psychology examines behavior.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Blue has a calming effect on the mind and body",
+    "retrieved_context": "colors influence perception. green associated_with tranquility. colors influence behavior. color psychology examines behavior. colors influence mood. color psychology examines colors. purple associated_with tranquility. blue used_in meditation rooms. blue used_in offices. blue associated_with tranquility. blue used_in bedrooms.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Yellow is associated with happiness and positivity",
+    "retrieved_context": "colors influence behavior. yellow associated_with excitement. yellow increases serotonin. colors influence mood. orange associated_with warmth. orange associated_with excitement. purple associated_with tranquility. colors influence perception. red associated_with warmth. yellow associated_with positivity. red associated_with excitement. blue used_in offices. color psychology examines behavior. green associated_with tranquility. yellow used_in kitchen. color psychology examines colors. blue used_in meditation rooms. blue associated_with tranquility. blue used_in bedrooms.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Yellow increases serotonin levels in the brain",
+    "retrieved_context": "yellow increases serotonin. colors influence perception. green associated_with tranquility. colors influence behavior. yellow associated_with positivity. yellow associated_with excitement. yellow used_in kitchen. purple associated_with tranquility. colors influence mood. orange associated_with excitement. blue used_in bedrooms. red associated_with excitement. color psychology examines colors. blue used_in meditation rooms. blue used_in offices. blue associated_with tranquility. color psychology examines behavior.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Black is associated with power and sophistication",
+    "retrieved_context": "black associated_with mystery. black associated_with sophistication. colors influence perception. white associated_with death. colors influence behavior. white associated_with mourning. black associated_with power. white associated_with purity. black associated_with sadness. colors influence mood. color psychology examines colors. color psychology examines behavior.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Black can evoke feelings of sadness or mystery",
+    "retrieved_context": "black associated_with mystery. colors influence behavior. white associated_with mourning. yellow associated_with excitement. red increases blood pressure. black associated_with sophistication. yellow increases serotonin. black associated_with power. colors influence mood. orange associated_with warmth. orange associated_with excitement. colors influence perception. red used_in advertising. red associated_with warmth. yellow associated_with positivity. red associated_with excitement. white associated_with purity. black associated_with sadness. red increases heart rate. red used_in spaces. color psychology examines behavior. white associated_with death. red associated_with urgency. yellow used_in kitchen. color psychology examines colors.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Individual experiences and cultural backgrounds influence color perception",
+    "retrieved_context": "colors influence perception. white associated_with death. green associated_with tranquility. colors influence behavior. white associated_with mourning. white associated_with purity. purple associated_with tranquility. colors influence mood. blue used_in bedrooms. color psychology examines colors. blue used_in meditation rooms. blue used_in offices. blue associated_with tranquility. color psychology examines behavior.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Colors have universal associations but meanings can vary culturally",
+    "retrieved_context": "colors influence behavior. yellow associated_with excitement. red increases blood pressure. colors influence mood. orange associated_with warmth. orange associated_with excitement. purple associated_with tranquility. colors influence perception. red used_in advertising. red associated_with warmth. red increases heart rate. red used_in spaces. blue used_in offices. color psychology examines behavior. green associated_with tranquility. red associated_with urgency. red associated_with excitement. color psychology examines colors. blue used_in meditation rooms. blue associated_with tranquility. blue used_in bedrooms.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Colors can be used to create environments that promote well-being and productivity",
+    "retrieved_context": "colors influence behavior. yellow associated_with excitement. red increases blood pressure. yellow increases serotonin. colors influence mood. orange associated_with warmth. orange associated_with excitement. purple associated_with tranquility. colors influence perception. red used_in advertising. red associated_with warmth. yellow associated_with positivity. yellow used_in kitchen. red increases heart rate. blue used_in offices. red used_in spaces. color psychology examines behavior. green associated_with tranquility. red associated_with urgency. red associated_with excitement. color psychology examines colors. blue used_in meditation rooms. blue associated_with tranquility. blue used_in bedrooms.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "60.00%"
+  }
+]

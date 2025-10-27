@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Butterflies undergo a remarkable transformation throughout their life cycle.",
+    "retrieved_context": "larva known as caterpillars. caterpillars undergoes molting. wings form during metamorphosis. Female butterflies lay eggs on host plants. antennae form during metamorphosis. caterpillars undergoes metamorphosis. organs dissolve during metamorphosis. Butterflies undergo transformation Butterflies. caterpillars sheds skin. tissues form during metamorphosis. Butterflies emerges from pupa. caterpillars food for leaves. Butterflies food for reptiles. caterpillars attaches to stem. butterfly eggs laid on leaves. caterpillars have hairs. Butterflies food for insects. caterpillars forms pupa. Butterflies undergo transformation larva. host plants food for larvae. caterpillars have spines. Butterflies transfer pollen. Butterflies food for birds. Female butterflies lay egg. Butterflies food for proboscis.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Female butterflies lay their eggs on specific host plants.",
+    "retrieved_context": "larva known as caterpillars. caterpillars undergoes molting. wings form during metamorphosis. Female butterflies lay eggs on host plants. antennae form during metamorphosis. caterpillars undergoes metamorphosis. organs dissolve during metamorphosis. Butterflies undergo transformation Butterflies. caterpillars sheds skin. tissues form during metamorphosis. Butterflies emerges from pupa. caterpillars food for leaves. Butterflies food for reptiles. caterpillars attaches to stem. butterfly eggs laid on leaves. caterpillars have hairs. Butterflies food for insects. caterpillars forms pupa. Butterflies undergo transformation larva. host plants food for larvae. caterpillars have spines. Butterflies transfer pollen. Butterflies food for birds. Female butterflies lay egg. Butterflies food for proboscis.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Butterfly eggs are usually laid on the underside of leaves.",
+    "retrieved_context": "larva known as caterpillars. caterpillars undergoes molting. wings form during metamorphosis. Female butterflies lay eggs on host plants. antennae form during metamorphosis. caterpillars undergoes metamorphosis. organs dissolve during metamorphosis. Butterflies undergo transformation Butterflies. caterpillars sheds skin. tissues form during metamorphosis. Butterflies emerges from pupa. caterpillars food for leaves. Butterflies food for reptiles. caterpillars attaches to stem. butterfly eggs laid on leaves. caterpillars have hairs. Butterflies food for insects. caterpillars forms pupa. Butterflies undergo transformation larva. host plants food for larvae. caterpillars have spines. Butterflies transfer pollen. Butterflies food for birds. Female butterflies lay egg. Butterflies food for proboscis.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The size, shape, and color of butterfly eggs vary depending on the species.",
+    "retrieved_context": "larva known as caterpillars. caterpillars undergoes molting. wings form during metamorphosis. Female butterflies lay eggs on host plants. antennae form during metamorphosis. caterpillars undergoes metamorphosis. organs dissolve during metamorphosis. Butterflies undergo transformation Butterflies. caterpillars sheds skin. tissues form during metamorphosis. Butterflies emerges from pupa. caterpillars food for leaves. Butterflies food for reptiles. caterpillars attaches to stem. butterfly eggs laid on leaves. caterpillars have hairs. Butterflies food for insects. caterpillars forms pupa. Butterflies undergo transformation larva. host plants food for larvae. caterpillars have spines. Butterflies transfer pollen. Butterflies food for birds. Female butterflies lay egg. Butterflies food for proboscis.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "After hatching, a tiny larva, known as a caterpillar, emerges.",
+    "retrieved_context": "larva known as caterpillars. caterpillars undergoes molting. wings form during metamorphosis. Female butterflies lay eggs on host plants. antennae form during metamorphosis. caterpillars undergoes metamorphosis. caterpillars sheds skin. Butterflies undergo transformation Butterflies. organs dissolve during metamorphosis. tissues form during metamorphosis. Butterflies emerges from pupa. caterpillars food for leaves. Butterflies food for reptiles. caterpillars attaches to stem. butterfly eggs laid on leaves. caterpillars have hairs. caterpillars forms pupa. Butterflies food for insects. Butterflies undergo transformation larva. caterpillars have spines. host plants food for larvae. Butterflies transfer pollen. Butterflies food for birds. Female butterflies lay egg. Butterflies food for proboscis.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Caterpillars are voracious eaters and spend most of their time feeding on leaves.",
+    "retrieved_context": "caterpillars undergoes molting. wings form during metamorphosis. larva known as caterpillars. Female butterflies lay eggs on host plants. antennae form during metamorphosis. caterpillars undergoes metamorphosis. organs dissolve during metamorphosis. caterpillars sheds skin. Butterflies undergo transformation Butterflies. tissues form during metamorphosis. Butterflies emerges from pupa. caterpillars food for leaves. Butterflies food for reptiles. caterpillars attaches to stem. butterfly eggs laid on leaves. caterpillars have hairs. caterpillars forms pupa. Butterflies food for insects. Butterflies undergo transformation larva. caterpillars have spines. host plants food for larvae. Butterflies transfer pollen. Butterflies food for birds. Female butterflies lay egg. Butterflies food for proboscis.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Caterpillars shed their skin several times as they grow.",
+    "retrieved_context": "caterpillars undergoes molting. wings form during metamorphosis. larva known as caterpillars. Female butterflies lay eggs on host plants. antennae form during metamorphosis. caterpillars undergoes metamorphosis. organs dissolve during metamorphosis. caterpillars sheds skin. Butterflies undergo transformation Butterflies. tissues form during metamorphosis. Butterflies emerges from pupa. caterpillars food for leaves. Butterflies food for reptiles. caterpillars attaches to stem. butterfly eggs laid on leaves. caterpillars have hairs. caterpillars forms pupa. Butterflies food for insects. Butterflies undergo transformation larva. caterpillars have spines. host plants food for larvae. Butterflies transfer pollen. Butterflies food for birds. Female butterflies lay egg. Butterflies food for proboscis.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Caterpillars come in a variety of shapes, sizes, and colors.",
+    "retrieved_context": "caterpillars undergoes molting. wings form during metamorphosis. larva known as caterpillars. Female butterflies lay eggs on host plants. antennae form during metamorphosis. caterpillars undergoes metamorphosis. organs dissolve during metamorphosis. caterpillars sheds skin. Butterflies undergo transformation Butterflies. tissues form during metamorphosis. Butterflies emerges from pupa. caterpillars food for leaves. Butterflies food for reptiles. caterpillars attaches to stem. butterfly eggs laid on leaves. caterpillars have hairs. caterpillars forms pupa. Butterflies food for insects. Butterflies undergo transformation larva. caterpillars have spines. host plants food for larvae. Butterflies transfer pollen. Butterflies food for birds. Female butterflies lay egg. Butterflies food for proboscis.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Caterpillars play a crucial role in pollination and maintaining plant populations.",
+    "retrieved_context": "caterpillars undergoes molting. wings form during metamorphosis. larva known as caterpillars. Female butterflies lay eggs on host plants. antennae form during metamorphosis. caterpillars undergoes metamorphosis. organs dissolve during metamorphosis. caterpillars sheds skin. Butterflies undergo transformation Butterflies. tissues form during metamorphosis. Butterflies emerges from pupa. caterpillars food for leaves. Butterflies food for reptiles. caterpillars attaches to stem. butterfly eggs laid on leaves. caterpillars have hairs. caterpillars forms pupa. Butterflies food for insects. Butterflies undergo transformation larva. caterpillars have spines. host plants food for larvae. Butterflies transfer pollen. Butterflies food for birds. Female butterflies lay egg. Butterflies food for proboscis.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The caterpillar attaches itself to a leaf or stem and forms a chrysalis.",
+    "retrieved_context": "caterpillars undergoes molting. wings form during metamorphosis. larva known as caterpillars. Female butterflies lay eggs on host plants. antennae form during metamorphosis. caterpillars undergoes metamorphosis. organs dissolve during metamorphosis. caterpillars sheds skin. Butterflies undergo transformation Butterflies. tissues form during metamorphosis. Butterflies emerges from pupa. caterpillars food for leaves. Butterflies food for reptiles. caterpillars attaches to stem. butterfly eggs laid on leaves. caterpillars have hairs. caterpillars forms pupa. Butterflies food for insects. Butterflies undergo transformation larva. caterpillars have spines. host plants food for larvae. Butterflies transfer pollen. Butterflies food for birds. Female butterflies lay egg. Butterflies food for proboscis.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Inside the chrysalis, the caterpillar undergoes metamorphosis.",
+    "retrieved_context": "caterpillars undergoes molting. wings form during metamorphosis. larva known as caterpillars. Female butterflies lay eggs on host plants. antennae form during metamorphosis. caterpillars undergoes metamorphosis. organs dissolve during metamorphosis. caterpillars sheds skin. Butterflies undergo transformation Butterflies. tissues form during metamorphosis. Butterflies emerges from pupa. caterpillars food for leaves. Butterflies food for reptiles. caterpillars attaches to stem. butterfly eggs laid on leaves. caterpillars have hairs. caterpillars forms pupa. Butterflies food for insects. Butterflies undergo transformation larva. caterpillars have spines. host plants food for larvae. Butterflies transfer pollen. Butterflies food for birds. Female butterflies lay egg. Butterflies food for proboscis.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "During metamorphosis, the caterpillar's body undergoes significant changes.",
+    "retrieved_context": "caterpillars undergoes molting. wings form during metamorphosis. larva known as caterpillars. Female butterflies lay eggs on host plants. antennae form during metamorphosis. caterpillars undergoes metamorphosis. organs dissolve during metamorphosis. caterpillars sheds skin. Butterflies undergo transformation Butterflies. tissues form during metamorphosis. Butterflies emerges from pupa. caterpillars food for leaves. Butterflies food for reptiles. caterpillars attaches to stem. butterfly eggs laid on leaves. caterpillars have hairs. caterpillars forms pupa. Butterflies food for insects. Butterflies undergo transformation larva. caterpillars have spines. host plants food for larvae. Butterflies transfer pollen. Butterflies food for birds. Female butterflies lay egg. Butterflies food for proboscis.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The adult butterfly emerges from the chrysalis after metamorphosis is complete.",
+    "retrieved_context": "caterpillars undergoes molting. wings form during metamorphosis. larva known as caterpillars. Female butterflies lay eggs on host plants. antennae form during metamorphosis. caterpillars undergoes metamorphosis. organs dissolve during metamorphosis. caterpillars sheds skin. Butterflies undergo transformation Butterflies. tissues form during metamorphosis. Butterflies emerges from pupa. caterpillars food for leaves. Butterflies food for reptiles. caterpillars attaches to stem. butterfly eggs laid on leaves. caterpillars have hairs. caterpillars forms pupa. Butterflies food for insects. Butterflies undergo transformation larva. caterpillars have spines. host plants food for larvae. Butterflies transfer pollen. Butterflies food for birds. Female butterflies lay egg. Butterflies food for proboscis.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Adult butterflies feed on nectar from flowers using their proboscis.",
+    "retrieved_context": "larva known as caterpillars. caterpillars undergoes molting. wings form during metamorphosis. Female butterflies lay eggs on host plants. antennae form during metamorphosis. caterpillars undergoes metamorphosis. organs dissolve during metamorphosis. Butterflies undergo transformation Butterflies. caterpillars sheds skin. tissues form during metamorphosis. Butterflies emerges from pupa. caterpillars food for leaves. Butterflies food for reptiles. caterpillars attaches to stem. butterfly eggs laid on leaves. caterpillars have hairs. Butterflies food for insects. caterpillars forms pupa. Butterflies undergo transformation larva. host plants food for larvae. caterpillars have spines. Butterflies transfer pollen. Butterflies food for birds. Female butterflies lay egg. Butterflies food for proboscis.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Butterflies play a crucial role in pollination and serve as a food source for other animals.",
+    "retrieved_context": "larva known as caterpillars. caterpillars undergoes molting. wings form during metamorphosis. Female butterflies lay eggs on host plants. antennae form during metamorphosis. caterpillars undergoes metamorphosis. organs dissolve during metamorphosis. Butterflies undergo transformation Butterflies. caterpillars sheds skin. tissues form during metamorphosis. Butterflies emerges from pupa. caterpillars food for leaves. Butterflies food for reptiles. caterpillars attaches to stem. butterfly eggs laid on leaves. caterpillars have hairs. Butterflies food for insects. caterpillars forms pupa. Butterflies undergo transformation larva. host plants food for larvae. caterpillars have spines. Butterflies transfer pollen. Butterflies food for birds. Female butterflies lay egg. Butterflies food for proboscis.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "66.67%"
+  }
+]

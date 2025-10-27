@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Color plays a crucial role in branding and marketing strategies.",
+    "retrieved_context": "color psychology influences associations. target audience influences color meanings. distinctive color scheme influences brand presence. luxury brand uses color scheme. industry influences color meanings. blue associated_with emotions. color psychology influences emotions. distinctive color scheme contributes_to brand differentiation. color psychology influences branding. Coca-Cola's logo contributes_to brand presence. brand positioning influences color meanings. McDonald's arches contributes_to brand presence. brand positioning influences context. red associated_with emotions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Colors have the power to evoke emotions.",
+    "retrieved_context": "youth-oriented brand uses color palette. blue associated_with trust. color psychology influences associations. blue associated_with calmness. brand positioning influences context. red create urgency. McDonald's arches contributes_to brand presence. target audience influences color meanings. luxury brand uses color scheme. industry influences color meanings. blue associated_with emotions. color psychology influences emotions. red encourage impulse purchases. brand positioning influences color meanings. distinctive color scheme influences brand presence. color psychology influences branding. Coca-Cola's logo contributes_to brand presence. distinctive color scheme contributes_to brand differentiation. red associated_with emotions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Colors can convey messages.",
+    "retrieved_context": "youth-oriented brand uses color palette. blue associated_with trust. color psychology influences associations. blue associated_with calmness. brand positioning influences context. red create urgency. McDonald's arches contributes_to brand presence. orange create urgency. target audience influences color meanings. luxury brand uses color scheme. industry influences color meanings. blue associated_with emotions. color psychology influences emotions. red encourage impulse purchases. green create trust. orange encourage impulse purchases. brand positioning influences color meanings. distinctive color scheme influences brand presence. color psychology influences branding. Coca-Cola's logo contributes_to brand presence. distinctive color scheme contributes_to brand differentiation. red associated_with emotions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Colors influence consumer behavior.",
+    "retrieved_context": "youth-oriented brand uses color palette. blue associated_with trust. color psychology influences associations. target audience influences color meanings. luxury brand uses color scheme. distinctive color scheme influences brand presence. industry influences color meanings. blue associated_with emotions. color psychology influences emotions. distinctive color scheme contributes_to brand differentiation. blue associated_with calmness. color psychology influences branding. green create trust. Coca-Cola's logo contributes_to brand presence. brand positioning influences color meanings. McDonald's arches contributes_to brand presence. brand positioning influences context. red associated_with emotions.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Understanding color psychology helps create a strong brand identity.",
+    "retrieved_context": "color psychology influences associations. target audience influences color meanings. McDonald's arches contributes_to memorable brand identity. distinctive color scheme influences brand presence. industry influences color meanings. blue associated_with emotions. color psychology influences emotions. distinctive color scheme contributes_to brand differentiation. color psychology influences branding. Coca-Cola's logo contributes_to brand presence. Coca-Cola's logo contributes_to memorable brand identity. brand positioning influences color meanings. McDonald's arches contributes_to brand presence. brand positioning influences context. red associated_with emotions.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Different colors evoke specific emotions and associations.",
+    "retrieved_context": "youth-oriented brand uses color palette. blue associated_with trust. color psychology influences associations. blue associated_with calmness. brand positioning influences context. red create urgency. McDonald's arches contributes_to brand presence. target audience influences color meanings. luxury brand uses color scheme. industry influences color meanings. blue associated_with emotions. color psychology influences emotions. red encourage impulse purchases. green create trust. brand positioning influences color meanings. distinctive color scheme influences brand presence. color psychology influences branding. Coca-Cola's logo contributes_to brand presence. distinctive color scheme contributes_to brand differentiation. red associated_with emotions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Red is associated with passion, energy, and excitement.",
+    "retrieved_context": "blue associated_with trust. orange create urgency. color psychology influences associations. target audience influences color meanings. industry influences color meanings. blue associated_with emotions. color psychology influences emotions. orange encourage impulse purchases. blue associated_with calmness. color psychology influences branding. green create trust. red encourage impulse purchases. brand positioning influences color meanings. red create urgency. brand positioning influences context. red associated_with emotions.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Blue is associated with trust, reliability, and calmness.",
+    "retrieved_context": "blue associated_with trust. color psychology influences associations. target audience influences color meanings. luxury brand uses color scheme. industry influences color meanings. green create trust. blue associated_with calmness. color psychology influences emotions. blue associated_with emotions. color psychology influences branding. brand positioning influences color meanings. brand positioning influences context. red associated_with emotions.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Colors affect how consumers perceive a brand's personality, quality, and value.",
+    "retrieved_context": "youth-oriented brand uses color palette. color psychology influences associations. target audience influences color meanings. distinctive color scheme influences brand presence. luxury brand uses color scheme. McDonald's arches contributes_to memorable brand identity. industry influences color meanings. blue associated_with emotions. color psychology influences emotions. distinctive color scheme contributes_to brand differentiation. color psychology influences branding. Coca-Cola's logo contributes_to brand presence. Coca-Cola's logo contributes_to memorable brand identity. brand positioning influences color meanings. McDonald's arches contributes_to brand presence. brand positioning influences context. red associated_with emotions.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Warm colors like red and orange create a sense of urgency.",
+    "retrieved_context": "orange create urgency. color psychology influences associations. target audience influences color meanings. luxury brand uses color scheme. industry influences color meanings. blue associated_with emotions. color psychology influences emotions. orange encourage impulse purchases. color psychology influences branding. red encourage impulse purchases. brand positioning influences color meanings. red create urgency. brand positioning influences context. red associated_with emotions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cool colors like blue and green create a sense of trust.",
+    "retrieved_context": "blue associated_with trust. color psychology influences associations. distinctive color scheme influences brand presence. luxury brand uses color scheme. green create trust. blue associated_with emotions. blue associated_with calmness. color psychology influences emotions. color psychology influences branding. Coca-Cola's logo contributes_to brand presence. McDonald's arches contributes_to brand presence. distinctive color scheme contributes_to brand differentiation. red associated_with emotions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Colors help differentiate a brand from competitors.",
+    "retrieved_context": "youth-oriented brand uses color palette. distinctive color scheme influences brand presence. target audience influences color meanings. color psychology influences associations. luxury brand uses color scheme. industry influences color meanings. blue associated_with emotions. distinctive color scheme contributes_to brand differentiation. color psychology influences emotions. color psychology influences branding. Coca-Cola's logo contributes_to brand presence. brand positioning influences color meanings. McDonald's arches contributes_to brand presence. brand positioning influences context. red associated_with emotions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cultural associations of colors should be considered in branding.",
+    "retrieved_context": "color psychology influences associations. target audience influences color meanings. distinctive color scheme influences brand presence. luxury brand uses color scheme. industry influences color meanings. blue associated_with emotions. color psychology influences emotions. distinctive color scheme contributes_to brand differentiation. color psychology influences branding. Coca-Cola's logo contributes_to brand presence. brand positioning influences color meanings. McDonald's arches contributes_to brand presence. brand positioning influences context. red associated_with emotions.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Context influences the meaning and effects of colors in branding.",
+    "retrieved_context": "color psychology influences associations. target audience influences color meanings. McDonald's arches contributes_to memorable brand identity. distinctive color scheme influences brand presence. industry influences color meanings. blue associated_with emotions. color psychology influences emotions. distinctive color scheme contributes_to brand differentiation. color psychology influences branding. Coca-Cola's logo contributes_to brand presence. Coca-Cola's logo contributes_to memorable brand identity. brand positioning influences color meanings. McDonald's arches contributes_to brand presence. brand positioning influences context. red associated_with emotions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Youth-oriented brands may use bright and bold colors.",
+    "retrieved_context": "youth-oriented brand uses color palette. distinctive color scheme influences brand presence. McDonald's arches contributes_to memorable brand identity. color psychology influences associations. luxury brand uses color scheme. blue associated_with emotions. color psychology influences emotions. color psychology influences branding. Coca-Cola's logo contributes_to brand presence. Coca-Cola's logo contributes_to memorable brand identity. McDonald's arches contributes_to brand presence. distinctive color scheme contributes_to brand differentiation. red associated_with emotions.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "53.33%"
+  }
+]

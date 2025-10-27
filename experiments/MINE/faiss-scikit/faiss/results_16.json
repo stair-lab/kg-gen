@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "axolotl is a type of salamander native to Mexico",
+    "retrieved_context": "pangolin scales are made of keratin. aye-aye detects shells. barreleye fish avoids detection by predators. common swift migrates during migratory journeys. common swift feeds on insects. axolotl regenerates limbs. axolotl is native to Mexico. aye-aye uses elongated middle finger. pangolin has scales. aye-aye taps on wood surface. axolotl regenerates spinal cord. pangolin uses scales as armor to defend against predators. aye-aye extracts insects from tree bark. common swift spends most of its life in life in the air. aye-aye extracts insects from insects. axolotl regenerates brain. common swift is a bird. aye-aye is a lemur. common swift has wings that enable gliding. axolotl regenerates tail.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "axolotl can regenerate lost body parts, including limbs, tail, and parts of its brain and spinal cord",
+    "retrieved_context": "axolotl regenerates brain. barreleye fish avoids detection by predators. barreleye fish has tubular eyes. axolotl regenerates spinal cord. barreleye fish has transparent head. barreleye fish uses tubular eyes to see prey. axolotl regenerates limbs. axolotl is native to Mexico. axolotl regenerates tail.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "mantis shrimp is a colorful crustacean found in tropical waters",
+    "retrieved_context": "aye-aye detects shells. common swift migrates during migratory journeys. barreleye fish avoids detection by predators. mantis shrimp delivers a punch with force equal to .22 caliber bullet. common swift feeds on insects. barreleye fish has tubular eyes. barreleye fish has transparent head. barreleye fish uses tubular eyes to see prey. aye-aye uses elongated middle finger. aye-aye taps on wood surface. pangolin uses scales as armor to defend against predators. mantis shrimp breaks shells of mollusks. mantis shrimp has club-like appendage. aye-aye extracts insects from tree bark. common swift spends most of its life in life in the air. mantis shrimp breaks shells of crabs. aye-aye extracts insects from insects. common swift is a bird. aye-aye is a lemur. common swift has wings that enable gliding.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "mantis shrimp has one of the most powerful punches in the animal kingdom",
+    "retrieved_context": "pangolin scales are made of keratin. aye-aye detects shells. common swift migrates during migratory journeys. barreleye fish avoids detection by predators. mantis shrimp delivers a punch with force equal to .22 caliber bullet. common swift feeds on insects. barreleye fish has tubular eyes. barreleye fish has transparent head. barreleye fish uses tubular eyes to see prey. aye-aye uses elongated middle finger. pangolin has scales. aye-aye taps on wood surface. pangolin uses scales as armor to defend against predators. mantis shrimp breaks shells of mollusks. mantis shrimp has club-like appendage. aye-aye extracts insects from tree bark. common swift spends most of its life in life in the air. mantis shrimp breaks shells of crabs. aye-aye extracts insects from insects. common swift is a bird. aye-aye is a lemur. common swift has wings that enable gliding.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "pangolin has protective scales made of keratin",
+    "retrieved_context": "mantis shrimp has club-like appendage. pangolin scales are made of keratin. axolotl regenerates brain. barreleye fish avoids detection by predators. pangolin has scales. mantis shrimp delivers a punch with force equal to .22 caliber bullet. barreleye fish has tubular eyes. mantis shrimp breaks shells of crabs. axolotl regenerates spinal cord. pangolin uses scales as armor to defend against predators. barreleye fish has transparent head. barreleye fish uses tubular eyes to see prey. mantis shrimp breaks shells of mollusks. axolotl regenerates limbs. axolotl is native to Mexico. axolotl regenerates tail.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "pangolin curls into a tight ball with overlapping scales when threatened",
+    "retrieved_context": "pangolin scales are made of keratin. aye-aye detects shells. barreleye fish avoids detection by predators. common swift migrates during migratory journeys. common swift feeds on insects. axolotl regenerates limbs. axolotl is native to Mexico. aye-aye uses elongated middle finger. pangolin has scales. aye-aye taps on wood surface. axolotl regenerates spinal cord. pangolin uses scales as armor to defend against predators. aye-aye extracts insects from tree bark. common swift spends most of its life in life in the air. aye-aye extracts insects from insects. axolotl regenerates brain. common swift is a bird. aye-aye is a lemur. common swift has wings that enable gliding. axolotl regenerates tail.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "common swift spends almost its entire life in the air",
+    "retrieved_context": "aye-aye extracts insects from insects. pangolin scales are made of keratin. common swift migrates during migratory journeys. barreleye fish avoids detection by predators. pangolin has scales. common swift is a bird. common swift spends most of its life in life in the air. common swift feeds on insects. barreleye fish has tubular eyes. barreleye fish has transparent head. pangolin uses scales as armor to defend against predators. barreleye fish uses tubular eyes to see prey. common swift has wings that enable gliding.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "common swift can stay aloft for months at a time",
+    "retrieved_context": "pangolin scales are made of keratin. aye-aye detects shells. common swift migrates during migratory journeys. barreleye fish avoids detection by predators. common swift feeds on insects. barreleye fish has tubular eyes. barreleye fish has transparent head. barreleye fish uses tubular eyes to see prey. axolotl regenerates limbs. axolotl is native to Mexico. aye-aye uses elongated middle finger. pangolin has scales. aye-aye taps on wood surface. axolotl regenerates spinal cord. pangolin uses scales as armor to defend against predators. aye-aye extracts insects from tree bark. common swift spends most of its life in life in the air. aye-aye extracts insects from insects. axolotl regenerates brain. common swift is a bird. aye-aye is a lemur. common swift has wings that enable gliding. axolotl regenerates tail.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "barreleye fish is a deep-sea dweller with a transparent head and tubular eyes",
+    "retrieved_context": "mantis shrimp has club-like appendage. barreleye fish avoids detection by predators. common swift migrates during migratory journeys. mantis shrimp delivers a punch with force equal to .22 caliber bullet. common swift is a bird. barreleye fish has tubular eyes. common swift feeds on insects. mantis shrimp breaks shells of crabs. barreleye fish has transparent head. pangolin uses scales as armor to defend against predators. barreleye fish uses tubular eyes to see prey. common swift spends most of its life in life in the air. mantis shrimp breaks shells of mollusks. common swift has wings that enable gliding.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "barreleye fish can see prey silhouetted against the darkness above",
+    "retrieved_context": "pangolin scales are made of keratin. barreleye fish avoids detection by predators. common swift migrates during migratory journeys. pangolin has scales. common swift is a bird. barreleye fish has tubular eyes. common swift feeds on insects. common swift spends most of its life in life in the air. barreleye fish has transparent head. pangolin uses scales as armor to defend against predators. barreleye fish uses tubular eyes to see prey. common swift has wings that enable gliding.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "aye-aye is a lemur native to Madagascar",
+    "retrieved_context": "aye-aye detects shells. common swift migrates during migratory journeys. mantis shrimp delivers a punch with force equal to .22 caliber bullet. common swift feeds on insects. axolotl regenerates limbs. axolotl is native to Mexico. aye-aye uses elongated middle finger. aye-aye taps on wood surface. axolotl regenerates spinal cord. mantis shrimp breaks shells of mollusks. mantis shrimp has club-like appendage. aye-aye extracts insects from tree bark. common swift spends most of its life in life in the air. mantis shrimp breaks shells of crabs. aye-aye extracts insects from insects. axolotl regenerates brain. common swift is a bird. aye-aye is a lemur. common swift has wings that enable gliding. axolotl regenerates tail.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "aye-aye has an elongated middle finger used to extract insects from tree bark",
+    "retrieved_context": "mantis shrimp has club-like appendage. aye-aye extracts insects from insects. aye-aye detects shells. aye-aye extracts insects from tree bark. common swift migrates during migratory journeys. common swift is a bird. mantis shrimp delivers a punch with force equal to .22 caliber bullet. common swift feeds on insects. aye-aye taps on wood surface. common swift spends most of its life in life in the air. mantis shrimp breaks shells of crabs. mantis shrimp breaks shells of mollusks. aye-aye is a lemur. common swift has wings that enable gliding. aye-aye uses elongated middle finger.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "animals have evolved an astonishing array of adaptations to ensure their survival",
+    "retrieved_context": "aye-aye extracts insects from insects. pangolin scales are made of keratin. aye-aye detects shells. barreleye fish avoids detection by predators. aye-aye extracts insects from tree bark. common swift migrates during migratory journeys. pangolin has scales. common swift is a bird. barreleye fish has tubular eyes. aye-aye taps on wood surface. common swift feeds on insects. barreleye fish has transparent head. pangolin uses scales as armor to defend against predators. barreleye fish uses tubular eyes to see prey. common swift spends most of its life in life in the air. aye-aye is a lemur. common swift has wings that enable gliding. aye-aye uses elongated middle finger.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "studying unusual adaptations provides valuable insights into the complexities of evolution",
+    "retrieved_context": "aye-aye extracts insects from insects. pangolin scales are made of keratin. aye-aye detects shells. barreleye fish avoids detection by predators. aye-aye extracts insects from tree bark. common swift migrates during migratory journeys. pangolin has scales. common swift is a bird. barreleye fish has tubular eyes. aye-aye taps on wood surface. common swift feeds on insects. barreleye fish has transparent head. pangolin uses scales as armor to defend against predators. barreleye fish uses tubular eyes to see prey. common swift spends most of its life in life in the air. aye-aye is a lemur. common swift has wings that enable gliding. aye-aye uses elongated middle finger.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "animal adaptations showcase the ingenuity and diversity of life on Earth",
+    "retrieved_context": "pangolin scales are made of keratin. barreleye fish avoids detection by predators. common swift migrates during migratory journeys. pangolin has scales. common swift is a bird. barreleye fish has tubular eyes. common swift feeds on insects. common swift spends most of its life in life in the air. barreleye fish has transparent head. barreleye fish uses tubular eyes to see prey. pangolin uses scales as armor to defend against predators. common swift has wings that enable gliding.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "33.33%"
+  }
+]

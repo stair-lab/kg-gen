@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Sputnik 1 was the first artificial satellite launched by the Soviet Union on October 4, 1957.",
+    "retrieved_context": "Sputnik 1 launched on October 4, 1957. human space travel plans for Mars. Yuri Gagarin flew aboard Vostok 1. Soviet Union ignited race with United States. Apollo 11 landed on July 20, 1969. Yuri Gagarin launched on April 12, 1961. human space travel related to planets. Russia made advancements in human space travel. space shuttle program founded by NASA. Apollo 11 landed on moon. space shuttle program enabled construction of International Space Station (ISS). human space travel related to space tourism. human space travel plans for lunar bases. Sputnik 1 launched Soviet Union. human space travel plans for advanced propulsion systems. Buzz Aldrin on Apollo 11. NASA launched on Apollo 11. Neil Armstrong on Apollo 11. Sputnik 1 marked dawn of space age. Yuri Gagarin launched Soviet Union.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The launch of Sputnik 1 marked the beginning of the space age.",
+    "retrieved_context": "Sputnik 1 launched on October 4, 1957. human space travel plans for Mars. Soviet Union ignited race with United States. Apollo 11 landed on July 20, 1969. human space travel related to planets. Russia made advancements in human space travel. SpaceX plans to send humans to Mars. Apollo 11 landed on moon. space shuttle program founded by NASA. space shuttle program enabled construction of International Space Station (ISS). human space travel related to space tourism. human space travel plans for lunar bases. Sputnik 1 launched Soviet Union. human space travel plans for advanced propulsion systems. Buzz Aldrin on Apollo 11. NASA launched on Apollo 11. Neil Armstrong on Apollo 11. Sputnik 1 marked dawn of space age. SpaceX founded by Elon Musk. Yuri Gagarin launched Soviet Union.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The United States and the Soviet Union engaged in a race to explore space after the launch of Sputnik 1.",
+    "retrieved_context": "Sputnik 1 launched on October 4, 1957. human space travel plans for Mars. Yuri Gagarin flew aboard Vostok 1. Soviet Union ignited race with United States. Apollo 11 landed on July 20, 1969. Yuri Gagarin launched on April 12, 1961. human space travel related to planets. Russia made advancements in human space travel. SpaceX plans to send humans to Mars. space shuttle program founded by NASA. Apollo 11 landed on moon. space shuttle program enabled construction of International Space Station (ISS). human space travel related to space tourism. human space travel plans for lunar bases. Sputnik 1 launched Soviet Union. human space travel plans for advanced propulsion systems. Buzz Aldrin on Apollo 11. NASA launched on Apollo 11. Neil Armstrong on Apollo 11. Sputnik 1 marked dawn of space age. Yuri Gagarin launched Soviet Union.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Yuri Gagarin was the first human to travel into space on April 12, 1961.",
+    "retrieved_context": "Sputnik 1 launched on October 4, 1957. human space travel plans for Mars. Yuri Gagarin flew aboard Vostok 1. Soviet Union ignited race with United States. Apollo 11 landed on July 20, 1969. Yuri Gagarin launched on April 12, 1961. human space travel related to planets. Russia made advancements in human space travel. SpaceX plans to send humans to Mars. space shuttle program founded by NASA. Apollo 11 landed on moon. space shuttle program enabled construction of International Space Station (ISS). human space travel related to space tourism. human space travel plans for lunar bases. Sputnik 1 launched Soviet Union. human space travel plans for advanced propulsion systems. Buzz Aldrin on Apollo 11. NASA launched on Apollo 11. Neil Armstrong on Apollo 11. Sputnik 1 marked dawn of space age. Yuri Gagarin launched Soviet Union.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Yuri Gagarin's flight aboard Vostok 1 was a significant milestone in human history.",
+    "retrieved_context": "Sputnik 1 launched on October 4, 1957. human space travel plans for Mars. Yuri Gagarin flew aboard Vostok 1. Soviet Union ignited race with United States. Apollo 11 landed on July 20, 1969. Yuri Gagarin launched on April 12, 1961. human space travel related to planets. Russia made advancements in human space travel. SpaceX plans to send humans to Mars. space shuttle program founded by NASA. Apollo 11 landed on moon. space shuttle program enabled construction of International Space Station (ISS). human space travel related to space tourism. human space travel plans for lunar bases. Sputnik 1 launched Soviet Union. human space travel plans for advanced propulsion systems. Buzz Aldrin on Apollo 11. NASA launched on Apollo 11. Neil Armstrong on Apollo 11. Sputnik 1 marked dawn of space age. Yuri Gagarin launched Soviet Union.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "NASA is the National Aeronautics and Space Administration of the United States.",
+    "retrieved_context": "space shuttle program enabled construction of International Space Station (ISS). Sputnik 1 launched on October 4, 1957. Neil Armstrong on Apollo 11. human space travel plans for Mars. human space travel related to space tourism. Apollo 11 landed on July 20, 1969. human space travel plans for lunar bases. Sputnik 1 marked dawn of space age. Sputnik 1 launched Soviet Union. human space travel plans for advanced propulsion systems. Apollo 11 landed on moon. human space travel related to planets. Buzz Aldrin on Apollo 11. Russia made advancements in human space travel. SpaceX founded by Elon Musk. NASA launched on Apollo 11. SpaceX plans to send humans to Mars. space shuttle program founded by NASA.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Apollo 11 landed on the moon on July 20, 1969.",
+    "retrieved_context": "Sputnik 1 launched on October 4, 1957. human space travel plans for Mars. Yuri Gagarin flew aboard Vostok 1. Apollo 11 landed on July 20, 1969. Yuri Gagarin launched on April 12, 1961. human space travel related to planets. Russia made advancements in human space travel. Apollo 11 landed on moon. space shuttle program founded by NASA. space shuttle program enabled construction of International Space Station (ISS). human space travel related to space tourism. human space travel plans for lunar bases. Sputnik 1 launched Soviet Union. human space travel plans for advanced propulsion systems. Buzz Aldrin on Apollo 11. NASA launched on Apollo 11. Neil Armstrong on Apollo 11. Sputnik 1 marked dawn of space age. Yuri Gagarin launched Soviet Union.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Neil Armstrong and Buzz Aldrin were the first humans to set foot on the moon during the Apollo 11 mission.",
+    "retrieved_context": "space shuttle program enabled construction of International Space Station (ISS). Neil Armstrong on Apollo 11. human space travel plans for Mars. human space travel related to space tourism. Apollo 11 landed on July 20, 1969. human space travel plans for lunar bases. space shuttle program founded by NASA. human space travel plans for advanced propulsion systems. human space travel related to planets. Buzz Aldrin on Apollo 11. Russia made advancements in human space travel. NASA launched on Apollo 11. SpaceX plans to send humans to Mars. Apollo 11 landed on moon.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The space shuttle program was initiated by NASA in the 1980s.",
+    "retrieved_context": "space shuttle program enabled construction of International Space Station (ISS). Sputnik 1 launched on October 4, 1957. Neil Armstrong on Apollo 11. human space travel plans for Mars. human space travel related to space tourism. Apollo 11 landed on July 20, 1969. human space travel plans for lunar bases. space shuttle Challenger disaster occurred in 1986. Sputnik 1 marked dawn of space age. Sputnik 1 launched Soviet Union. human space travel plans for advanced propulsion systems. Apollo 11 landed on moon. human space travel related to planets. Buzz Aldrin on Apollo 11. Russia made advancements in human space travel. NASA launched on Apollo 11. SpaceX plans to send humans to Mars. space shuttle program founded by NASA.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The space shuttle program provided a reusable spacecraft for multiple missions.",
+    "retrieved_context": "space shuttle program enabled construction of International Space Station (ISS). Sputnik 1 launched on October 4, 1957. Neil Armstrong on Apollo 11. human space travel plans for Mars. human space travel related to space tourism. Apollo 11 landed on July 20, 1969. human space travel plans for lunar bases. space shuttle Challenger disaster occurred in 1986. Sputnik 1 marked dawn of space age. Sputnik 1 launched Soviet Union. human space travel plans for advanced propulsion systems. Apollo 11 landed on moon. human space travel related to planets. Buzz Aldrin on Apollo 11. Russia made advancements in human space travel. NASA launched on Apollo 11. SpaceX plans to send humans to Mars. space shuttle program founded by NASA.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The International Space Station (ISS) was constructed as a collaborative effort between multiple countries.",
+    "retrieved_context": "space shuttle program enabled construction of International Space Station (ISS). Sputnik 1 launched on October 4, 1957. Neil Armstrong on Apollo 11. human space travel plans for Mars. human space travel related to space tourism. Apollo 11 landed on July 20, 1969. human space travel plans for lunar bases. Sputnik 1 marked dawn of space age. Sputnik 1 launched Soviet Union. Buzz Aldrin on Apollo 11. human space travel plans for advanced propulsion systems. Apollo 11 landed on moon. human space travel related to planets. Russia made advancements in human space travel. SpaceX founded by Elon Musk. NASA launched on Apollo 11. SpaceX plans to send humans to Mars. space shuttle program founded by NASA.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "SpaceX is a private company founded by Elon Musk.",
+    "retrieved_context": "Sputnik 1 launched on October 4, 1957. human space travel plans for Mars. Soviet Union ignited race with United States. Apollo 11 landed on July 20, 1969. human space travel related to planets. Russia made advancements in human space travel. SpaceX plans to send humans to Mars. Apollo 11 landed on moon. space shuttle program founded by NASA. space shuttle program enabled construction of International Space Station (ISS). human space travel related to space tourism. human space travel plans for lunar bases. Sputnik 1 launched Soviet Union. human space travel plans for advanced propulsion systems. Buzz Aldrin on Apollo 11. NASA launched on Apollo 11. Neil Armstrong on Apollo 11. Sputnik 1 marked dawn of space age. SpaceX founded by Elon Musk. Yuri Gagarin launched Soviet Union.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "SpaceX has successfully launched multiple crewed missions to the ISS.",
+    "retrieved_context": "space shuttle program enabled construction of International Space Station (ISS). Sputnik 1 launched on October 4, 1957. Neil Armstrong on Apollo 11. human space travel plans for Mars. human space travel related to space tourism. Apollo 11 landed on July 20, 1969. human space travel plans for lunar bases. Sputnik 1 marked dawn of space age. Sputnik 1 launched Soviet Union. Buzz Aldrin on Apollo 11. human space travel plans for advanced propulsion systems. Apollo 11 landed on moon. human space travel related to planets. Russia made advancements in human space travel. SpaceX founded by Elon Musk. NASA launched on Apollo 11. SpaceX plans to send humans to Mars. space shuttle program founded by NASA.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The space shuttle Challenger disaster occurred in 1986.",
+    "retrieved_context": "space shuttle program enabled construction of International Space Station (ISS). Sputnik 1 launched on October 4, 1957. Neil Armstrong on Apollo 11. human space travel plans for Mars. human space travel related to space tourism. Apollo 11 landed on July 20, 1969. human space travel plans for lunar bases. space shuttle Challenger disaster occurred in 1986. Sputnik 1 marked dawn of space age. Sputnik 1 launched Soviet Union. Buzz Aldrin on Apollo 11. human space travel plans for advanced propulsion systems. Apollo 11 landed on moon. human space travel related to planets. NASA launched on Apollo 11. Russia made advancements in human space travel. Columbia disaster occurred in 2003. space shuttle program founded by NASA.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Plans for manned missions to Mars and the establishment of lunar bases are part of the future of human space travel.",
+    "retrieved_context": "space shuttle program enabled construction of International Space Station (ISS). Sputnik 1 launched on October 4, 1957. Neil Armstrong on Apollo 11. human space travel plans for Mars. human space travel related to space tourism. Apollo 11 landed on July 20, 1969. human space travel plans for lunar bases. Sputnik 1 marked dawn of space age. Sputnik 1 launched Soviet Union. Buzz Aldrin on Apollo 11. human space travel plans for advanced propulsion systems. Apollo 11 landed on moon. human space travel related to planets. Russia made advancements in human space travel. SpaceX founded by Elon Musk. NASA launched on Apollo 11. SpaceX plans to send humans to Mars. space shuttle program founded by NASA.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "66.67%"
+  }
+]

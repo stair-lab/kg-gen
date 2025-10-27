@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Atlantis is a legendary island.",
+    "retrieved_context": "Atlantis located in Atlanteans. Greek philosopher Plato written by Timaeus. Greek philosopher Plato mentioned by Atlantis. Mediterranean Sea possible location Atlantis. Atlantic Ocean located in Atlantis. Greek philosopher Plato written by Critias. Pillars of Hercules located beyond Atlantis. Pillars of Hercules modern day Strait of Gibraltar. Antarctica possible location Atlantis.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Plato mentioned Atlantis in his dialogues 'Timaeus' and 'Critias'.",
+    "retrieved_context": "Atlantis located in Atlanteans. Greek philosopher Plato written by Timaeus. Greek philosopher Plato mentioned by Atlantis. Mediterranean Sea possible location Atlantis. Atlantic Ocean located in Atlantis. Greek philosopher Plato written by Critias. Pillars of Hercules located beyond Atlantis. Pillars of Hercules modern day Strait of Gibraltar. Antarctica possible location Atlantis.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Atlantis story has captivated people for centuries.",
+    "retrieved_context": "Atlantis located in Atlanteans. Greek philosopher Plato written by Timaeus. Greek philosopher Plato mentioned by Atlantis. Mediterranean Sea possible location Atlantis. Atlantic Ocean located in Atlantis. Greek philosopher Plato written by Critias. Pillars of Hercules located beyond Atlantis. Pillars of Hercules modern day Strait of Gibraltar. Antarctica possible location Atlantis.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Plato claimed Atlantis existed around 11,000 years ago.",
+    "retrieved_context": "Atlantis located in Atlanteans. Greek philosopher Plato written by Timaeus. Greek philosopher Plato mentioned by Atlantis. Mediterranean Sea possible location Atlantis. Atlantic Ocean located in Atlantis. Greek philosopher Plato written by Critias. Pillars of Hercules located beyond Atlantis. Pillars of Hercules modern day Strait of Gibraltar. Antarctica possible location Atlantis.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Some believe Atlantis was a real place in the Atlantic Ocean.",
+    "retrieved_context": "Atlantis located in Atlanteans. Greek philosopher Plato written by Timaeus. Greek philosopher Plato mentioned by Atlantis. Mediterranean Sea possible location Atlantis. Atlantic Ocean located in Atlantis. Greek philosopher Plato written by Critias. Pillars of Hercules located beyond Atlantis. Pillars of Hercules modern day Strait of Gibraltar. Antarctica possible location Atlantis.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Others argue Atlantis is a myth created by Plato.",
+    "retrieved_context": "Atlantis located in Atlanteans. Greek philosopher Plato written by Timaeus. Greek philosopher Plato mentioned by Atlantis. Mediterranean Sea possible location Atlantis. Atlantic Ocean located in Atlantis. Greek philosopher Plato written by Critias. Pillars of Hercules located beyond Atlantis. Pillars of Hercules modern day Strait of Gibraltar. Antarctica possible location Atlantis.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Atlantis was located beyond the 'Pillars of Hercules'.",
+    "retrieved_context": "Atlantis located in Atlanteans. Greek philosopher Plato written by Timaeus. Greek philosopher Plato mentioned by Atlantis. Mediterranean Sea possible location Atlantis. Atlantic Ocean located in Atlantis. Greek philosopher Plato written by Critias. Pillars of Hercules located beyond Atlantis. Pillars of Hercules modern day Strait of Gibraltar. Antarctica possible location Atlantis.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Atlantis was rich in resources and had advanced technology.",
+    "retrieved_context": "Atlantis located in Atlanteans. Greek philosopher Plato written by Timaeus. Greek philosopher Plato mentioned by Atlantis. Mediterranean Sea possible location Atlantis. Atlantic Ocean located in Atlantis. Greek philosopher Plato written by Critias. Pillars of Hercules located beyond Atlantis. Pillars of Hercules modern day Strait of Gibraltar. Antarctica possible location Atlantis.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Atlanteans were described as noble and virtuous people.",
+    "retrieved_context": "Atlantis located in Atlanteans. Greek philosopher Plato written by Timaeus. Greek philosopher Plato mentioned by Atlantis. Mediterranean Sea possible location Atlantis. Atlantic Ocean located in Atlantis. Greek philosopher Plato written by Critias. Pillars of Hercules located beyond Atlantis. Pillars of Hercules modern day Strait of Gibraltar. Antarctica possible location Atlantis.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Atlantis was destroyed suddenly and catastrophically.",
+    "retrieved_context": "Atlantis located in Atlanteans. Greek philosopher Plato written by Timaeus. Greek philosopher Plato mentioned by Atlantis. Mediterranean Sea possible location Atlantis. Atlantic Ocean located in Atlantis. Greek philosopher Plato written by Critias. Pillars of Hercules located beyond Atlantis. Pillars of Hercules modern day Strait of Gibraltar. Antarctica possible location Atlantis.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The destruction of Atlantis was described by Plato.",
+    "retrieved_context": "Atlantis located in Atlanteans. Greek philosopher Plato written by Timaeus. Greek philosopher Plato mentioned by Atlantis. Mediterranean Sea possible location Atlantis. Atlantic Ocean located in Atlantis. Greek philosopher Plato written by Critias. Pillars of Hercules located beyond Atlantis. Pillars of Hercules modern day Strait of Gibraltar. Antarctica possible location Atlantis.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Numerous theories have been proposed about Atlantis.",
+    "retrieved_context": "Atlantis located in Atlanteans. Greek philosopher Plato written by Timaeus. Greek philosopher Plato mentioned by Atlantis. Mediterranean Sea possible location Atlantis. Atlantic Ocean located in Atlantis. Greek philosopher Plato written by Critias. Pillars of Hercules located beyond Atlantis. Pillars of Hercules modern day Strait of Gibraltar. Antarctica possible location Atlantis.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The legend of Atlantis continues to fascinate people worldwide.",
+    "retrieved_context": "Atlantis located in Atlanteans. Greek philosopher Plato written by Timaeus. Greek philosopher Plato mentioned by Atlantis. Mediterranean Sea possible location Atlantis. Atlantic Ocean located in Atlantis. Greek philosopher Plato written by Critias. Pillars of Hercules located beyond Atlantis. Pillars of Hercules modern day Strait of Gibraltar. Antarctica possible location Atlantis.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Many have speculated about the possible location of Atlantis.",
+    "retrieved_context": "Atlantis located in Atlanteans. Greek philosopher Plato written by Timaeus. Greek philosopher Plato mentioned by Atlantis. Mediterranean Sea possible location Atlantis. Atlantic Ocean located in Atlantis. Greek philosopher Plato written by Critias. Pillars of Hercules located beyond Atlantis. Pillars of Hercules modern day Strait of Gibraltar. Antarctica possible location Atlantis.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The enduring appeal of Atlantis lies in its mystery and intrigue.",
+    "retrieved_context": "Atlantis located in Atlanteans. Greek philosopher Plato written by Timaeus. Greek philosopher Plato mentioned by Atlantis. Mediterranean Sea possible location Atlantis. Atlantic Ocean located in Atlantis. Greek philosopher Plato written by Critias. Pillars of Hercules located beyond Atlantis. Pillars of Hercules modern day Strait of Gibraltar. Antarctica possible location Atlantis.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "33.33%"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "The human body has defense mechanisms to protect itself against harmful pathogens.",
+    "retrieved_context": "neutrophils engulf and destroy pathogens. B cells produce antibodies. fungi are pathogens. macrophages engulf and destroy pathogens. parasites are pathogens. immunological memory is basis for vaccination. dendritic cells present antigens to T cells. physical barriers acts as physical barriers. complement proteins enhance antibodies. memory cells recognize pathogens. bacteria are pathogens. antibodies bind to pathogens. lymphocytes include T cells. mucus traps pathogens. natural killer cells kill T cells. vaccination relies on immunological memory. T cells are a type of lymphocytes. antigen presentation is a process of immune system. lymphocytes differentiate into memory cells. stomach acid kill pathogens. viruses are pathogens. immune system responds to infection. physical barriers prevent infection. physical barriers produce mucus.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The immune system fights off infections to restore health.",
+    "retrieved_context": "neutrophils engulf and destroy pathogens. chronic inflammation contributes to cancer. B cells produce antibodies. fungi are pathogens. macrophages engulf and destroy pathogens. parasites are pathogens. immunological memory is basis for vaccination. dendritic cells present antigens to T cells. complement proteins enhance antibodies. physical barriers acts as physical barriers. memory cells recognize pathogens. bacteria are pathogens. antibodies bind to pathogens. lymphocytes include T cells. mucus traps pathogens. natural killer cells kill T cells. chronic inflammation contributes to diabetes. vaccination relies on immunological memory. T cells are a type of lymphocytes. chronic inflammation contributes to heart disease. antigen presentation is a process of immune system. lymphocytes differentiate into memory cells. stomach acid kill pathogens. viruses are pathogens. immune system responds to infection. physical barriers prevent infection. physical barriers produce mucus.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The immune response involves coordinated responses of cells, tissues, and organs.",
+    "retrieved_context": "antigen presentation is a process of immune system. lymphocytes differentiate into memory cells. lymphocytes include T cells. B cells produce antibodies. immunological memory is basis for vaccination. immune system responds to infection. lymphocytes include B cells. dendritic cells present antigens to T cells. physical barriers prevent infection. natural killer cells kill T cells. B cells are a type of lymphocytes. vaccination relies on immunological memory. T cells are a type of lymphocytes. memory cells recognize pathogens.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Physical barriers prevent pathogens from entering the body.",
+    "retrieved_context": "neutrophils engulf and destroy pathogens. B cells produce antibodies. fungi are pathogens. macrophages engulf and destroy pathogens. parasites are pathogens. immunological memory is basis for vaccination. physical barriers acts as physical barriers. complement proteins enhance antibodies. memory cells recognize pathogens. bacteria are pathogens. antibodies bind to pathogens. mucus traps pathogens. vaccination relies on immunological memory. antigen presentation is a process of immune system. lymphocytes differentiate into memory cells. stomach acid kill pathogens. viruses are pathogens. immune system responds to infection. physical barriers prevent infection. physical barriers produce mucus.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The skin acts as a protective barrier against pathogens.",
+    "retrieved_context": "physical barriers acts as physical barriers. neutrophils engulf and destroy pathogens. bacteria are pathogens. antigen presentation is a process of immune system. lymphocytes differentiate into memory cells. antibodies bind to pathogens. parasites are pathogens. stomach acid kill pathogens. viruses are pathogens. memory cells recognize pathogens. B cells produce antibodies. fungi are pathogens. mucus traps pathogens. immune system responds to infection. physical barriers prevent infection. complement proteins enhance antibodies. physical barriers produce mucus. macrophages engulf and destroy pathogens.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Mucous membranes produce mucus to trap pathogens.",
+    "retrieved_context": "neutrophils engulf and destroy pathogens. bacteria are pathogens. complement proteins enhance antibodies. antigen presentation is a process of immune system. parasites are pathogens. antibodies bind to pathogens. lymphocytes differentiate into memory cells. stomach acid kill pathogens. viruses are pathogens. memory cells recognize pathogens. B cells produce antibodies. fungi are pathogens. mucus traps pathogens. immune system responds to infection. physical barriers prevent infection. physical barriers acts as physical barriers. physical barriers produce mucus. macrophages engulf and destroy pathogens.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The acidic environment of the stomach can kill pathogens.",
+    "retrieved_context": "physical barriers acts as physical barriers. neutrophils engulf and destroy pathogens. bacteria are pathogens. complement proteins enhance antibodies. antigen presentation is a process of immune system. parasites are pathogens. antibodies bind to pathogens. lymphocytes differentiate into memory cells. stomach acid kill pathogens. viruses are pathogens. memory cells recognize pathogens. B cells produce antibodies. mucus traps pathogens. immune system responds to infection. physical barriers prevent infection. fungi are pathogens. physical barriers produce mucus. macrophages engulf and destroy pathogens.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "White blood cells are key players in the immune response.",
+    "retrieved_context": "antigen presentation is a process of immune system. lymphocytes differentiate into memory cells. antibodies bind to pathogens. lymphocytes include T cells. B cells produce antibodies. immunological memory is basis for vaccination. immune system responds to infection. lymphocytes include B cells. dendritic cells present antigens to T cells. physical barriers prevent infection. natural killer cells kill T cells. B cells are a type of lymphocytes. complement proteins enhance antibodies. vaccination relies on immunological memory. T cells are a type of lymphocytes. memory cells recognize pathogens.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Neutrophils are the first responders to infections.",
+    "retrieved_context": "neutrophils engulf and destroy pathogens. chronic inflammation contributes to cancer. B cells produce antibodies. fungi are pathogens. macrophages engulf and destroy pathogens. parasites are pathogens. physical barriers acts as physical barriers. complement proteins enhance antibodies. memory cells recognize pathogens. bacteria are pathogens. antibodies bind to pathogens. mucus traps pathogens. chronic inflammation contributes to diabetes. chronic inflammation contributes to heart disease. antigen presentation is a process of immune system. lymphocytes differentiate into memory cells. stomach acid kill pathogens. viruses are pathogens. immune system responds to infection. physical barriers prevent infection. physical barriers produce mucus.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Macrophages patrol the body and alert other immune cells.",
+    "retrieved_context": "neutrophils engulf and destroy pathogens. chronic inflammation contributes to cancer. fungi are pathogens. macrophages engulf and destroy pathogens. parasites are pathogens. immunological memory is basis for vaccination. dendritic cells present antigens to T cells. memory cells recognize pathogens. bacteria are pathogens. antibodies bind to pathogens. lymphocytes include T cells. mucus traps pathogens. natural killer cells kill T cells. chronic inflammation contributes to diabetes. vaccination relies on immunological memory. T cells are a type of lymphocytes. chronic inflammation contributes to heart disease. antigen presentation is a process of immune system. stomach acid kill pathogens. viruses are pathogens. immune system responds to infection. physical barriers prevent infection.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Lymphocytes mount a targeted immune response.",
+    "retrieved_context": "neutrophils engulf and destroy pathogens. B cells produce antibodies. fungi are pathogens. macrophages engulf and destroy pathogens. parasites are pathogens. immunological memory is basis for vaccination. dendritic cells present antigens to T cells. complement proteins enhance antibodies. memory cells recognize pathogens. bacteria are pathogens. antibodies bind to pathogens. lymphocytes include T cells. mucus traps pathogens. natural killer cells kill T cells. B cells are a type of lymphocytes. vaccination relies on immunological memory. T cells are a type of lymphocytes. antigen presentation is a process of immune system. lymphocytes differentiate into memory cells. stomach acid kill pathogens. viruses are pathogens. lymphocytes include B cells. immune system responds to infection. physical barriers prevent infection.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Dendritic cells present antigens to T cells for a specific immune response.",
+    "retrieved_context": "antigen presentation is a process of immune system. lymphocytes differentiate into memory cells. lymphocytes include T cells. B cells produce antibodies. immunological memory is basis for vaccination. dendritic cells present antigens to T cells. natural killer cells kill T cells. lymphocytes include B cells. immune system responds to infection. physical barriers prevent infection. B cells are a type of lymphocytes. vaccination relies on immunological memory. T cells are a type of lymphocytes. memory cells recognize pathogens.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Natural killer cells can directly kill infected cells.",
+    "retrieved_context": "neutrophils engulf and destroy pathogens. B cells produce antibodies. fungi are pathogens. macrophages engulf and destroy pathogens. parasites are pathogens. dendritic cells present antigens to T cells. complement proteins enhance antibodies. memory cells recognize pathogens. bacteria are pathogens. antibodies bind to pathogens. lymphocytes include T cells. mucus traps pathogens. natural killer cells kill T cells. B cells are a type of lymphocytes. T cells are a type of lymphocytes. antigen presentation is a process of immune system. lymphocytes differentiate into memory cells. stomach acid kill pathogens. viruses are pathogens. immune system responds to infection. lymphocytes include B cells. physical barriers prevent infection. physical barriers produce mucus.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Complement proteins enhance the ability of antibodies to destroy pathogens.",
+    "retrieved_context": "neutrophils engulf and destroy pathogens. B cells produce antibodies. fungi are pathogens. macrophages engulf and destroy pathogens. parasites are pathogens. complement proteins enhance antibodies. memory cells recognize pathogens. bacteria are pathogens. antibodies bind to pathogens. mucus traps pathogens. lupus is an example of autoimmune diseases. B cells are a type of lymphocytes. autoimmune diseases is an example of autoimmune diseases. antigen presentation is a process of immune system. lymphocytes differentiate into memory cells. stomach acid kill pathogens. viruses are pathogens. lymphocytes include B cells. immune system responds to infection. physical barriers prevent infection. physical barriers produce mucus.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Cytokines coordinate the immune response and regulate immune cell activity.",
+    "retrieved_context": "neutrophils engulf and destroy pathogens. chronic inflammation contributes to cancer. B cells produce antibodies. fungi are pathogens. macrophages engulf and destroy pathogens. parasites are pathogens. dendritic cells present antigens to T cells. memory cells recognize pathogens. bacteria are pathogens. antibodies bind to pathogens. lymphocytes include T cells. mucus traps pathogens. natural killer cells kill T cells. B cells are a type of lymphocytes. chronic inflammation contributes to diabetes. T cells are a type of lymphocytes. chronic inflammation contributes to heart disease. antigen presentation is a process of immune system. lymphocytes differentiate into memory cells. stomach acid kill pathogens. viruses are pathogens. immune system responds to infection. lymphocytes include B cells. physical barriers prevent infection.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "26.67%"
+  }
+]

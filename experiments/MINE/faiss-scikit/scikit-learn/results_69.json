@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "People collect items like stamps, coins, or vintage memorabilia.",
+    "retrieved_context": "items include stamps. items include vintage memorabilia. music enthusiast collect concert memorabilia. antique furniture related to history. items include vintage cars. antique furniture related to craftsmanship. collectors collect things. items include artwork. music enthusiast collect vinyl records. items include rare books. collectors building collectors. items include rare coins. collectors amassing items.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Collecting can be a reflection of human nature.",
+    "retrieved_context": "items include stamps. items include vintage memorabilia. music enthusiast collect concert memorabilia. antique furniture related to history. items include vintage cars. antique furniture related to craftsmanship. collectors collect things. items include artwork. music enthusiast collect vinyl records. items include rare books. collectors building collectors. items include rare coins. collectors amassing items.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Collecting can trigger fond memories and emotions.",
+    "retrieved_context": "items include stamps. items include vintage memorabilia. music enthusiast collect concert memorabilia. antique furniture related to history. items include vintage cars. antique furniture related to craftsmanship. collectors collect things. items include artwork. music enthusiast collect vinyl records. items include rare books. collectors building collectors. items include rare coins. collectors amassing items.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "A person who collects antique furniture may appreciate craftsmanship and history.",
+    "retrieved_context": "items include stamps. items include vintage memorabilia. music enthusiast collect concert memorabilia. antique furniture related to history. antique furniture related to craftsmanship. items include vintage cars. collectors collect things. items include artwork. music enthusiast collect vinyl records. items include rare books. collectors building collectors. items include rare coins. collectors amassing items.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Collecting allows individuals to express their identity and interests.",
+    "retrieved_context": "items include stamps. items include vintage memorabilia. music enthusiast collect concert memorabilia. antique furniture related to history. items include vintage cars. antique furniture related to craftsmanship. collectors collect things. items include artwork. music enthusiast collect vinyl records. items include rare books. collectors building collectors. items include rare coins. collectors amassing items.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Music enthusiasts may collect vinyl records or concert memorabilia.",
+    "retrieved_context": "items include stamps. items include vintage memorabilia. music enthusiast collect concert memorabilia. antique furniture related to history. items include vintage cars. antique furniture related to craftsmanship. collectors collect things. items include artwork. music enthusiast collect vinyl records. items include rare books. collectors building collectors. items include rare coins. collectors amassing items.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Collecting can provide a sense of accomplishment and fulfillment.",
+    "retrieved_context": "items include stamps. items include vintage memorabilia. music enthusiast collect concert memorabilia. antique furniture related to history. items include vintage cars. antique furniture related to craftsmanship. collectors collect things. items include artwork. music enthusiast collect vinyl records. items include rare books. collectors building collectors. items include rare coins. collectors amassing items.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Collectors derive pride and fulfillment from completing sets or finding unique pieces.",
+    "retrieved_context": "items include stamps. items include vintage memorabilia. music enthusiast collect concert memorabilia. antique furniture related to history. items include vintage cars. antique furniture related to craftsmanship. collectors collect things. items include artwork. music enthusiast collect vinyl records. items include rare books. collectors building collectors. items include rare coins. collectors amassing items.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Collecting can serve as a form of investment.",
+    "retrieved_context": "items include stamps. items include vintage memorabilia. music enthusiast collect concert memorabilia. antique furniture related to history. items include vintage cars. antique furniture related to craftsmanship. collectors collect things. items include artwork. music enthusiast collect vinyl records. items include rare books. collectors building collectors. items include rare coins. collectors amassing items.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Artwork, rare books, or vintage cars can appreciate in value over time.",
+    "retrieved_context": "items include stamps. items include vintage memorabilia. music enthusiast collect concert memorabilia. antique furniture related to history. items include vintage cars. antique furniture related to craftsmanship. collectors collect things. items include artwork. music enthusiast collect vinyl records. items include rare books. collectors building collectors. items include rare coins. collectors amassing items.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Collecting can be linked to psychological motivations and behaviors.",
+    "retrieved_context": "items include stamps. items include vintage memorabilia. music enthusiast collect concert memorabilia. antique furniture related to history. items include vintage cars. antique furniture related to craftsmanship. collectors collect things. items include artwork. music enthusiast collect vinyl records. items include rare books. collectors building collectors. items include rare coins. collectors amassing items.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Collecting can satisfy the human need for completion and closure.",
+    "retrieved_context": "items include stamps. items include vintage memorabilia. music enthusiast collect concert memorabilia. antique furniture related to history. items include vintage cars. antique furniture related to craftsmanship. collectors collect things. items include artwork. music enthusiast collect vinyl records. items include rare books. collectors building collectors. items include rare coins. collectors amassing items.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Collecting can offer individuals a source of novelty and excitement.",
+    "retrieved_context": "items include stamps. items include vintage memorabilia. music enthusiast collect concert memorabilia. antique furniture related to history. items include vintage cars. antique furniture related to craftsmanship. collectors collect things. items include artwork. music enthusiast collect vinyl records. items include rare books. collectors building collectors. items include rare coins. collectors amassing items.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Collecting can provide a sense of adventure and exploration.",
+    "retrieved_context": "items include stamps. items include vintage memorabilia. music enthusiast collect concert memorabilia. antique furniture related to history. items include vintage cars. antique furniture related to craftsmanship. collectors collect things. items include artwork. music enthusiast collect vinyl records. items include rare books. collectors building collectors. items include rare coins. collectors amassing items.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Collecting serves as a meaningful and rewarding pursuit for many individuals.",
+    "retrieved_context": "items include stamps. items include vintage memorabilia. music enthusiast collect concert memorabilia. antique furniture related to history. items include vintage cars. antique furniture related to craftsmanship. collectors collect things. items include artwork. music enthusiast collect vinyl records. items include rare books. collectors building collectors. items include rare coins. collectors amassing items.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "26.67%"
+  }
+]

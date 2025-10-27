@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Tornadoes are powerful and destructive natural phenomena on Earth.",
+    "retrieved_context": "wind shear change in height. EF0 is weakest on Enhanced Fujita (EF) scale. atmospheric conditions cause tornado development. dust whirl stage is initial stage of tornado warnings. EF5 is strongest on Enhanced Fujita (EF) scale. mesocyclone is within thunderstorm. wind shear refers to change in direction. tornado warnings are natural phenomena. EF0 has wind speed. tornado warnings issued to communities. condensation funnel descends from thunderstorm. dissipating stage is when tornado warnings. cumulonimbus clouds are breeding grounds for tornado warnings. Doppler radar detecting rotation. Meteorologists use satellite imagery. air form in cumulonimbus clouds. Meteorologists use ground observations. Meteorologists use Doppler radar. emergency responders respond to storms. wind shear refers to change in wind speed. tornado warnings classified using Enhanced Fujita (EF) scale. tornado warnings form in thunderstorm.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Tornadoes can cause immense damage to buildings, trees, and anything in their path.",
+    "retrieved_context": "wind shear change in height. EF0 is weakest on Enhanced Fujita (EF) scale. atmospheric conditions cause tornado development. dust whirl stage is initial stage of tornado warnings. EF5 is strongest on Enhanced Fujita (EF) scale. mesocyclone is within thunderstorm. wind shear refers to change in direction. EF0 cause damage. tornado warnings are natural phenomena. EF0 has wind speed. tornado warnings issued to communities. condensation funnel descends from thunderstorm. dissipating stage is when tornado warnings. cumulonimbus clouds are breeding grounds for tornado warnings. Doppler radar detecting rotation. Meteorologists use satellite imagery. air form in cumulonimbus clouds. Meteorologists use ground observations. EF5 cause damage. Meteorologists use Doppler radar. emergency responders respond to storms. wind shear refers to change in wind speed. tornado warnings classified using Enhanced Fujita (EF) scale. tornado warnings form in thunderstorm.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Tornadoes form in severe thunderstorms when specific atmospheric conditions are present.",
+    "retrieved_context": "wind shear change in height. EF0 is weakest on Enhanced Fujita (EF) scale. atmospheric conditions cause tornado development. dust whirl stage is initial stage of tornado warnings. EF5 is strongest on Enhanced Fujita (EF) scale. mesocyclone is within thunderstorm. wind shear refers to change in direction. EF0 cause damage. tornado warnings are natural phenomena. EF0 has wind speed. tornado warnings issued to communities. condensation funnel descends from thunderstorm. dissipating stage is when tornado warnings. cumulonimbus clouds are breeding grounds for tornado warnings. Doppler radar detecting rotation. Meteorologists use satellite imagery. air form in cumulonimbus clouds. Meteorologists use ground observations. Meteorologists use Doppler radar. emergency responders respond to storms. wind shear refers to change in wind speed. tornado warnings classified using Enhanced Fujita (EF) scale. tornado warnings form in thunderstorm.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Wind shear is a key ingredient for tornado formation.",
+    "retrieved_context": "wind shear change in height. EF0 is weakest on Enhanced Fujita (EF) scale. atmospheric conditions cause tornado development. dust whirl stage is initial stage of tornado warnings. EF5 is strongest on Enhanced Fujita (EF) scale. mesocyclone is within thunderstorm. wind shear refers to change in direction. EF0 cause damage. tornado warnings are natural phenomena. EF0 has wind speed. tornado warnings issued to communities. condensation funnel descends from thunderstorm. dissipating stage is when tornado warnings. cumulonimbus clouds are breeding grounds for tornado warnings. Doppler radar detecting rotation. Meteorologists use satellite imagery. air form in cumulonimbus clouds. Meteorologists use ground observations. Meteorologists use Doppler radar. emergency responders respond to storms. wind shear refers to change in wind speed. tornado warnings classified using Enhanced Fujita (EF) scale. tornado warnings form in thunderstorm.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Wind shear creates a rotating column of air known as a mesocyclone within a thunderstorm.",
+    "retrieved_context": "wind shear change in height. EF0 is weakest on Enhanced Fujita (EF) scale. mature stage is characterized by rotating column of air. atmospheric conditions cause tornado development. dust whirl stage is initial stage of tornado warnings. EF5 is strongest on Enhanced Fujita (EF) scale. mesocyclone is within thunderstorm. wind shear refers to change in direction. EF0 cause damage. tornado warnings are natural phenomena. EF0 has wind speed. tornado warnings issued to communities. condensation funnel descends from thunderstorm. dissipating stage is when tornado warnings. cumulonimbus clouds are breeding grounds for tornado warnings. rotating column of air cause cloud base. rotating column of air cause ground. air form in cumulonimbus clouds. emergency responders respond to storms. wind shear refers to change in wind speed. tornado warnings classified using Enhanced Fujita (EF) scale. tornado warnings form in thunderstorm.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Instability in the atmosphere is another important factor in tornado formation.",
+    "retrieved_context": "wind shear change in height. EF0 is weakest on Enhanced Fujita (EF) scale. atmospheric conditions cause tornado development. dust whirl stage is initial stage of tornado warnings. EF5 is strongest on Enhanced Fujita (EF) scale. mesocyclone is within thunderstorm. wind shear refers to change in direction. EF0 cause damage. tornado warnings are natural phenomena. EF0 has wind speed. tornado warnings issued to communities. condensation funnel descends from thunderstorm. dissipating stage is when tornado warnings. cumulonimbus clouds are breeding grounds for tornado warnings. air form in cumulonimbus clouds. emergency responders respond to storms. wind shear refers to change in wind speed. tornado warnings classified using Enhanced Fujita (EF) scale. tornado warnings form in thunderstorm.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Instability occurs when warm, moist air near the surface is overlaid by cooler, drier air aloft.",
+    "retrieved_context": "wind shear change in height. outflow boundary is a trigger mechanism. mature stage is characterized by rotating column of air. atmospheric conditions cause tornado development. dust whirl stage is initial stage of tornado warnings. wind shear refers to change in direction. tornado warnings are natural phenomena. EF0 has wind speed. tornado warnings issued to communities. dry line is a trigger mechanism. dissipating stage is when tornado warnings. cumulonimbus clouds are breeding grounds for tornado warnings. rotating column of air cause cloud base. rotating column of air cause ground. cold front is a trigger mechanism. air form in cumulonimbus clouds. wind shear refers to change in wind speed. tornado warnings classified using Enhanced Fujita (EF) scale. tornado warnings form in thunderstorm.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "A trigger mechanism, such as a cold front, dry line, or outflow boundary, is needed for tornado formation.",
+    "retrieved_context": "wind shear change in height. EF0 is weakest on Enhanced Fujita (EF) scale. outflow boundary is a trigger mechanism. atmospheric conditions cause tornado development. dust whirl stage is initial stage of tornado warnings. EF5 is strongest on Enhanced Fujita (EF) scale. mesocyclone is within thunderstorm. wind shear refers to change in direction. tornado warnings are natural phenomena. EF0 has wind speed. tornado warnings issued to communities. dry line is a trigger mechanism. condensation funnel descends from thunderstorm. dissipating stage is when tornado warnings. cumulonimbus clouds are breeding grounds for tornado warnings. cold front is a trigger mechanism. air form in cumulonimbus clouds. emergency responders respond to storms. wind shear refers to change in wind speed. tornado warnings classified using Enhanced Fujita (EF) scale. tornado warnings form in thunderstorm.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Tornadoes go through stages of development: dust whirl stage, mature stage, and dissipating stage.",
+    "retrieved_context": "air form in cumulonimbus clouds. atmospheric conditions cause tornado development. dust whirl stage is initial stage of tornado warnings. EF0 has wind speed. EF5 is strongest on Enhanced Fujita (EF) scale. mesocyclone is within thunderstorm. tornado warnings issued to communities. wind shear change in height. emergency responders respond to storms. wind shear refers to change in wind speed. wind shear refers to change in direction. condensation funnel descends from thunderstorm. EF0 is weakest on Enhanced Fujita (EF) scale. dissipating stage is when tornado warnings. cumulonimbus clouds are breeding grounds for tornado warnings. tornado warnings classified using Enhanced Fujita (EF) scale. tornado warnings are natural phenomena. tornado warnings form in thunderstorm.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Tornadoes are classified using the Enhanced Fujita (EF) scale.",
+    "retrieved_context": "wind shear change in height. EF0 is weakest on Enhanced Fujita (EF) scale. atmospheric conditions cause tornado development. dust whirl stage is initial stage of tornado warnings. EF5 is strongest on Enhanced Fujita (EF) scale. mesocyclone is within thunderstorm. wind shear refers to change in direction. EF0 cause damage. tornado warnings are natural phenomena. EF0 has wind speed. tornado warnings issued to communities. condensation funnel descends from thunderstorm. dissipating stage is when tornado warnings. cumulonimbus clouds are breeding grounds for tornado warnings. air form in cumulonimbus clouds. EF5 cause damage. emergency responders respond to storms. wind shear refers to change in wind speed. tornado warnings classified using Enhanced Fujita (EF) scale. tornado warnings form in thunderstorm.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The EF scale ranges from EF0 (weakest) to EF5 (strongest).",
+    "retrieved_context": "dust whirl stage is initial stage of tornado warnings. EF5 cause damage. EF0 has wind speed. EF5 is strongest on Enhanced Fujita (EF) scale. tornado warnings issued to communities. wind shear change in height. wind shear refers to change in wind speed. wind shear refers to change in direction. EF0 is weakest on Enhanced Fujita (EF) scale. dissipating stage is when tornado warnings. cumulonimbus clouds are breeding grounds for tornado warnings. EF0 cause damage. tornado warnings classified using Enhanced Fujita (EF) scale. tornado warnings are natural phenomena. tornado warnings form in thunderstorm.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Forecasting tornadoes is complex due to their rapid and unpredictable nature.",
+    "retrieved_context": "wind shear change in height. EF0 is weakest on Enhanced Fujita (EF) scale. atmospheric conditions cause tornado development. dust whirl stage is initial stage of tornado warnings. EF5 is strongest on Enhanced Fujita (EF) scale. mesocyclone is within thunderstorm. wind shear refers to change in direction. EF0 cause damage. tornado warnings are natural phenomena. EF0 has wind speed. tornado warnings issued to communities. condensation funnel descends from thunderstorm. dissipating stage is when tornado warnings. cumulonimbus clouds are breeding grounds for tornado warnings. Doppler radar detecting rotation. Meteorologists use satellite imagery. air form in cumulonimbus clouds. Meteorologists use ground observations. Meteorologists use Doppler radar. emergency responders respond to storms. wind shear refers to change in wind speed. tornado warnings classified using Enhanced Fujita (EF) scale. tornado warnings form in thunderstorm.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Meteorologists use weather radar, satellite imagery, and ground observations to monitor atmospheric conditions for tornado development.",
+    "retrieved_context": "Meteorologists use satellite imagery. Meteorologists use ground observations. atmospheric conditions cause tornado development. air form in cumulonimbus clouds. dust whirl stage is initial stage of tornado warnings. Meteorologists use Doppler radar. EF5 is strongest on Enhanced Fujita (EF) scale. mesocyclone is within thunderstorm. tornado warnings issued to communities. emergency responders respond to storms. condensation funnel descends from thunderstorm. EF0 is weakest on Enhanced Fujita (EF) scale. dissipating stage is when tornado warnings. cumulonimbus clouds are breeding grounds for tornado warnings. tornado warnings classified using Enhanced Fujita (EF) scale. Doppler radar detecting rotation. tornado warnings are natural phenomena. tornado warnings form in thunderstorm.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Doppler radar is instrumental in detecting rotation within thunderstorms and issuing tornado warnings.",
+    "retrieved_context": "wind shear change in height. EF0 is weakest on Enhanced Fujita (EF) scale. atmospheric conditions cause tornado development. dust whirl stage is initial stage of tornado warnings. EF5 is strongest on Enhanced Fujita (EF) scale. mesocyclone is within thunderstorm. wind shear refers to change in direction. tornado warnings are natural phenomena. EF0 has wind speed. tornado warnings issued to communities. condensation funnel descends from thunderstorm. dissipating stage is when tornado warnings. cumulonimbus clouds are breeding grounds for tornado warnings. Doppler radar detecting rotation. Meteorologists use satellite imagery. Meteorologists use ground observations. air form in cumulonimbus clouds. Meteorologists use Doppler radar. emergency responders respond to storms. wind shear refers to change in wind speed. tornado warnings classified using Enhanced Fujita (EF) scale. tornado warnings form in thunderstorm.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Despite advances in technology, tornadoes continue to pose a significant threat to communities.",
+    "retrieved_context": "wind shear change in height. EF0 is weakest on Enhanced Fujita (EF) scale. atmospheric conditions cause tornado development. dust whirl stage is initial stage of tornado warnings. EF5 is strongest on Enhanced Fujita (EF) scale. mesocyclone is within thunderstorm. wind shear refers to change in direction. EF0 cause damage. tornado warnings are natural phenomena. EF0 has wind speed. tornado warnings issued to communities. condensation funnel descends from thunderstorm. dissipating stage is when tornado warnings. cumulonimbus clouds are breeding grounds for tornado warnings. Doppler radar detecting rotation. Meteorologists use satellite imagery. air form in cumulonimbus clouds. Meteorologists use ground observations. Meteorologists use Doppler radar. emergency responders respond to storms. wind shear refers to change in wind speed. tornado warnings classified using Enhanced Fujita (EF) scale. tornado warnings form in thunderstorm.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "46.67%"
+  }
+]

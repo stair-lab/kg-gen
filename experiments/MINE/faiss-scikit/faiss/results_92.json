@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Transportation is crucial for human civilization development.",
+    "retrieved_context": "Romans excelled in maritime trade. Phoenicians excelled in maritime trade. automobiles produced Ford. Greeks excelled in maritime trade. sailing ships enabled trade routes. steam engine led to canals. Phoenicians excelled in navigation. Ford produced automobiles. General Motors produced automobiles. Romans excelled in navigation. steam engine led to railway networks. Blue Origin pioneered space tourism. SpaceX pioneered space tourism. Greeks excelled in navigation. space tourism related to space tourism. steam engine led to steam-powered locomotives. steam engine led to steamships. Elon Musk proposed hyperloop trains. automobiles produced General Motors. sailing ships enabled oceans.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Transportation systems connect people, goods, and ideas over long distances.",
+    "retrieved_context": "wheel enabled chariots. mobile technology enabled ride-sharing services. automobiles produced Ford. internet enabled navigation. sailing ships enabled trade routes. steam engine led to canals. Ford produced automobiles. mobile technology enabled navigation. General Motors produced automobiles. steam engine led to railway networks. mobile technology enabled electric vehicles. wheel enabled wheeled carts. autonomous vehicles is part of smart cities. smart cities hold the promise of autonomous vehicles. internet enabled ride-sharing services. internet enabled electric vehicles. steam engine led to steam-powered locomotives. steam engine led to steamships. Elon Musk proposed hyperloop trains. automobiles produced General Motors. sailing ships enabled oceans.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Walking was one of the earliest forms of transportation.",
+    "retrieved_context": "steam engine led to railway networks. steam engine led to canals. wheel enabled wheeled carts. wheel enabled chariots. steam engine led to steam-powered locomotives. steam engine led to steamships. Elon Musk proposed hyperloop trains. sailing ships enabled oceans. sailing ships enabled trade routes.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Animals like horses, camels, and oxen were used for transportation in ancient times.",
+    "retrieved_context": "steam engine led to railway networks. steam engine led to canals. mobile technology enabled electric vehicles. internet enabled electric vehicles. wheel enabled chariots. wheel enabled wheeled carts. mobile technology enabled ride-sharing services. mobile technology enabled navigation. steam engine led to steam-powered locomotives. steam engine led to steamships. internet enabled navigation. airplanes is part of commercial aviation. internet enabled ride-sharing services. sailing ships enabled oceans. sailing ships enabled trade routes.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The invention of the wheel led to wheeled carts and chariots for transportation.",
+    "retrieved_context": "mobile technology enabled electric vehicles. steam engine led to railway networks. steam engine led to canals. internet enabled electric vehicles. wheel enabled wheeled carts. wheel enabled chariots. mobile technology enabled ride-sharing services. automobiles produced Ford. Ford produced automobiles. mobile technology enabled navigation. steam engine led to steam-powered locomotives. internet enabled navigation. steam engine led to steamships. internet enabled ride-sharing services. automobiles produced General Motors. General Motors produced automobiles.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sailing ships enabled travel across oceans and exploration of new lands.",
+    "retrieved_context": "Romans excelled in maritime trade. mobile technology enabled ride-sharing services. Phoenicians excelled in maritime trade. internet enabled navigation. Greeks excelled in maritime trade. airplanes is part of commercial aviation. sailing ships enabled trade routes. steam engine led to canals. Phoenicians excelled in navigation. mobile technology enabled navigation. Romans excelled in navigation. steam engine led to railway networks. Blue Origin pioneered space tourism. SpaceX pioneered space tourism. mobile technology enabled electric vehicles. internet enabled ride-sharing services. space tourism related to space tourism. Greeks excelled in navigation. internet enabled electric vehicles. steam engine led to steam-powered locomotives. steam engine led to steamships. sailing ships enabled oceans.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Steam engine revolutionized land and sea travel in the 18th century.",
+    "retrieved_context": "steam engine led to railway networks. steam engine led to canals. Phoenicians excelled in navigation. Romans excelled in maritime trade. Phoenicians excelled in maritime trade. steam engine led to steam-powered locomotives. steam engine led to steamships. Elon Musk proposed hyperloop trains. Greeks excelled in maritime trade. sailing ships enabled oceans. Greeks excelled in navigation. sailing ships enabled trade routes. Romans excelled in navigation.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Steam-powered locomotives and steamships made transportation faster and more reliable.",
+    "retrieved_context": "steam engine led to railway networks. steam engine led to canals. wheel enabled chariots. wheel enabled wheeled carts. steam engine led to steam-powered locomotives. steam engine led to steamships. Elon Musk proposed hyperloop trains. sailing ships enabled oceans. sailing ships enabled trade routes.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Automobiles and airplanes became dominant modes of transportation in the 20th century.",
+    "retrieved_context": "steam engine led to railway networks. steam engine led to canals. mobile technology enabled electric vehicles. internet enabled electric vehicles. wheel enabled chariots. wheel enabled wheeled carts. mobile technology enabled ride-sharing services. automobiles produced Ford. Ford produced automobiles. mobile technology enabled navigation. steam engine led to steam-powered locomotives. steam engine led to steamships. internet enabled navigation. Elon Musk proposed hyperloop trains. internet enabled ride-sharing services. automobiles produced General Motors. General Motors produced automobiles. airplanes is part of commercial aviation.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Mass production of automobiles made personal transportation more affordable.",
+    "retrieved_context": "mobile technology enabled electric vehicles. internet enabled electric vehicles. wheel enabled chariots. wheel enabled wheeled carts. mobile technology enabled ride-sharing services. automobiles produced Ford. Ford produced automobiles. autonomous vehicles is part of smart cities. mobile technology enabled navigation. smart cities hold the promise of autonomous vehicles. internet enabled navigation. internet enabled ride-sharing services. automobiles produced General Motors. General Motors produced automobiles.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Commercial aviation enabled long-distance travel in a matter of hours.",
+    "retrieved_context": "steam engine led to railway networks. Blue Origin pioneered space tourism. SpaceX pioneered space tourism. steam engine led to canals. sailing ships enabled trade routes. automobiles produced Ford. Ford produced automobiles. steam engine led to steam-powered locomotives. steam engine led to steamships. Elon Musk proposed hyperloop trains. General Motors produced automobiles. automobiles produced General Motors. sailing ships enabled oceans. space tourism related to space tourism. airplanes is part of commercial aviation.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Advancements in technology led to the development of ride-sharing services and electric vehicles.",
+    "retrieved_context": "wheel enabled chariots. mobile technology enabled ride-sharing services. automobiles produced Ford. internet enabled navigation. steam engine led to canals. Phoenicians excelled in navigation. Ford produced automobiles. mobile technology enabled navigation. General Motors produced automobiles. Romans excelled in navigation. mobile technology enabled electric vehicles. steam engine led to railway networks. wheel enabled wheeled carts. internet enabled ride-sharing services. Greeks excelled in navigation. internet enabled electric vehicles. steam engine led to steam-powered locomotives. steam engine led to steamships. automobiles produced General Motors.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Hyperloop trains aim to transport passengers in high-speed pods through vacuum tubes.",
+    "retrieved_context": "steam engine led to railway networks. steam engine led to canals. Blue Origin pioneered space tourism. SpaceX pioneered space tourism. steam engine led to steam-powered locomotives. steam engine led to steamships. Elon Musk proposed hyperloop trains. space tourism related to space tourism. airplanes is part of commercial aviation.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Drones are used for delivery services and aerial surveys in transportation.",
+    "retrieved_context": "mobile technology enabled electric vehicles. Phoenicians excelled in navigation. internet enabled electric vehicles. mobile technology enabled ride-sharing services. automobiles produced Ford. Ford produced automobiles. autonomous vehicles is part of smart cities. mobile technology enabled navigation. smart cities hold the promise of autonomous vehicles. internet enabled navigation. internet enabled ride-sharing services. General Motors produced automobiles. automobiles produced General Motors. Greeks excelled in navigation. airplanes is part of commercial aviation. Romans excelled in navigation.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Space travel is becoming a reality with companies like SpaceX and Blue Origin.",
+    "retrieved_context": "Blue Origin pioneered space tourism. SpaceX pioneered space tourism. Phoenicians excelled in navigation. Romans excelled in maritime trade. sailing ships enabled trade routes. Phoenicians excelled in maritime trade. automobiles produced Ford. Ford produced automobiles. Greeks excelled in maritime trade. Greeks excelled in navigation. General Motors produced automobiles. Elon Musk proposed hyperloop trains. automobiles produced General Motors. sailing ships enabled oceans. space tourism related to space tourism. airplanes is part of commercial aviation. Romans excelled in navigation.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "13.33%"
+  }
+]

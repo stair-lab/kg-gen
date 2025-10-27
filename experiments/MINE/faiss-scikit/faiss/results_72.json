@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Leonardo da Vinci painted the Mona Lisa in the early 16th century.",
+    "retrieved_context": "Michelangelo located_in Renaissance. Leonardo da Vinci painted_by Mona Lisa. Michelangelo painted_by Last Judgment. Pablo Picasso painted_by Les Demoiselles d'Avignon. Claude Monet painted_by Water Lilies. Claude Monet located_in Impressionists. Frida Kahlo painted_by Self-portraits. Michelangelo painted_by Creation of Adam. Michelangelo painted_by Sistine Chapel ceiling. Mona Lisa is_masterpiece_of Renaissance. Pablo Picasso pioneered Cubism. Claude Monet painted_by Giverny. Mona Lisa painted_by Leonardo da Vinci. Leonardo da Vinci located_in Renaissance.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Mona Lisa is considered a masterpiece of the Renaissance period.",
+    "retrieved_context": "Michelangelo located_in Renaissance. Leonardo da Vinci painted_by Mona Lisa. Michelangelo painted_by Last Judgment. Frida Kahlo painted_by Self-portraits. Michelangelo painted_by Creation of Adam. Michelangelo painted_by Sistine Chapel ceiling. Mona Lisa is_masterpiece_of Renaissance. Caravaggio located_in Baroque. Caravaggio painted_by The Calling of Saint Matthew. Mona Lisa painted_by Leonardo da Vinci. Leonardo da Vinci located_in Renaissance.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Michelangelo painted the frescoes on the ceiling of the Sistine Chapel between 1508 and 1512.",
+    "retrieved_context": "Michelangelo located_in Renaissance. Michelangelo painted_by Last Judgment. Leonardo da Vinci painted_by Mona Lisa. Michelangelo painted_by Creation of Adam. Michelangelo painted_by Sistine Chapel ceiling. Mona Lisa is_masterpiece_of Renaissance. Caravaggio located_in Baroque. Caravaggio painted_by The Calling of Saint Matthew. Mona Lisa painted_by Leonardo da Vinci. Leonardo da Vinci located_in Renaissance.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The frescoes on the Sistine Chapel ceiling feature scenes from the Bible.",
+    "retrieved_context": "Michelangelo located_in Renaissance. Michelangelo painted_by Last Judgment. Leonardo da Vinci painted_by Mona Lisa. Michelangelo painted_by Creation of Adam. Michelangelo painted_by Sistine Chapel ceiling. Mona Lisa is_masterpiece_of Renaissance. Caravaggio located_in Baroque. Caravaggio painted_by The Calling of Saint Matthew. Mona Lisa painted_by Leonardo da Vinci. Leonardo da Vinci located_in Renaissance.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Caravaggio was known for his dramatic use of light and shadow in his paintings.",
+    "retrieved_context": "Michelangelo painted_by Last Judgment. Michelangelo located_in Renaissance. Leonardo da Vinci painted_by Mona Lisa. Pablo Picasso painted_by Les Demoiselles d'Avignon. Claude Monet painted_by Water Lilies. Claude Monet located_in Impressionists. Frida Kahlo painted_by Self-portraits. Michelangelo painted_by Creation of Adam. Michelangelo painted_by Sistine Chapel ceiling. Mona Lisa is_masterpiece_of Renaissance. Caravaggio located_in Baroque. Caravaggio painted_by The Calling of Saint Matthew. Pablo Picasso pioneered Cubism. Claude Monet painted_by Giverny. Mona Lisa painted_by Leonardo da Vinci. Leonardo da Vinci located_in Renaissance.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "One of Caravaggio's famous works is 'The Calling of Saint Matthew'.",
+    "retrieved_context": "Michelangelo painted_by Last Judgment. Michelangelo located_in Renaissance. Leonardo da Vinci painted_by Mona Lisa. Michelangelo painted_by Creation of Adam. Michelangelo painted_by Sistine Chapel ceiling. Mona Lisa is_masterpiece_of Renaissance. Caravaggio located_in Baroque. Caravaggio painted_by The Calling of Saint Matthew. Mona Lisa painted_by Leonardo da Vinci. Leonardo da Vinci located_in Renaissance.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Claude Monet is famous for his series of paintings of water lilies and gardens at Giverny.",
+    "retrieved_context": "Michelangelo located_in Renaissance. Michelangelo painted_by Last Judgment. Claude Monet painted_by Water Lilies. Claude Monet located_in Impressionists. Frida Kahlo painted_by Self-portraits. Michelangelo painted_by Creation of Adam. Michelangelo painted_by Sistine Chapel ceiling. Pablo Picasso pioneered Cubism. Mona Lisa is_masterpiece_of Renaissance. Leonardo da Vinci located_in Renaissance. Claude Monet painted_by Giverny. Giverny located_in Giverny. Pablo Picasso painted_by Les Demoiselles d'Avignon.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Monet's paintings are known for their loose brushwork and vibrant colors.",
+    "retrieved_context": "Michelangelo located_in Renaissance. Leonardo da Vinci painted_by Mona Lisa. Claude Monet painted_by Water Lilies. Michelangelo painted_by Last Judgment. Claude Monet located_in Impressionists. Frida Kahlo painted_by Self-portraits. Michelangelo painted_by Creation of Adam. Michelangelo painted_by Sistine Chapel ceiling. Pablo Picasso pioneered Cubism. Mona Lisa is_masterpiece_of Renaissance. Leonardo da Vinci located_in Renaissance. Claude Monet painted_by Giverny. Mona Lisa painted_by Leonardo da Vinci. Giverny located_in Giverny. Pablo Picasso painted_by Les Demoiselles d'Avignon.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Pablo Picasso was a pioneer of Cubism in the 20th century.",
+    "retrieved_context": "Michelangelo painted_by Last Judgment. Michelangelo located_in Renaissance. Leonardo da Vinci painted_by Mona Lisa. Claude Monet painted_by Water Lilies. Claude Monet located_in Impressionists. Michelangelo painted_by Creation of Adam. Michelangelo painted_by Sistine Chapel ceiling. Pablo Picasso pioneered Cubism. Mona Lisa is_masterpiece_of Renaissance. Leonardo da Vinci located_in Renaissance. Caravaggio located_in Baroque. Caravaggio painted_by The Calling of Saint Matthew. Claude Monet painted_by Giverny. Mona Lisa painted_by Leonardo da Vinci. Giverny located_in Giverny. Pablo Picasso painted_by Les Demoiselles d'Avignon.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Picasso's painting 'Les Demoiselles d'Avignon' shattered traditional notions of perspective.",
+    "retrieved_context": "Michelangelo painted_by Last Judgment. Michelangelo located_in Renaissance. Claude Monet painted_by Water Lilies. Leonardo da Vinci painted_by Mona Lisa. Claude Monet located_in Impressionists. Frida Kahlo painted_by Self-portraits. Michelangelo painted_by Creation of Adam. Michelangelo painted_by Sistine Chapel ceiling. Pablo Picasso pioneered Cubism. Mona Lisa is_masterpiece_of Renaissance. Leonardo da Vinci located_in Renaissance. Claude Monet painted_by Giverny. Mona Lisa painted_by Leonardo da Vinci. Pablo Picasso painted_by Les Demoiselles d'Avignon.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Vincent van Gogh created emotionally charged landscapes in his artworks.",
+    "retrieved_context": "Michelangelo located_in Renaissance. Leonardo da Vinci painted_by Mona Lisa. Claude Monet painted_by Water Lilies. Michelangelo painted_by Last Judgment. Claude Monet located_in Impressionists. Frida Kahlo painted_by Self-portraits. Michelangelo painted_by Creation of Adam. Michelangelo painted_by Sistine Chapel ceiling. Pablo Picasso pioneered Cubism. Mona Lisa is_masterpiece_of Renaissance. Leonardo da Vinci located_in Renaissance. Claude Monet painted_by Giverny. Mona Lisa painted_by Leonardo da Vinci. Pablo Picasso painted_by Les Demoiselles d'Avignon.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Frida Kahlo is known for her powerful self-portraits.",
+    "retrieved_context": "Michelangelo located_in Renaissance. Leonardo da Vinci painted_by Mona Lisa. Pablo Picasso painted_by Les Demoiselles d'Avignon. Michelangelo painted_by Last Judgment. Claude Monet painted_by Water Lilies. Claude Monet located_in Impressionists. Frida Kahlo painted_by Self-portraits. Michelangelo painted_by Creation of Adam. Michelangelo painted_by Sistine Chapel ceiling. Mona Lisa is_masterpiece_of Renaissance. Pablo Picasso pioneered Cubism. Claude Monet painted_by Giverny. Mona Lisa painted_by Leonardo da Vinci. Giverny located_in Giverny. Leonardo da Vinci located_in Renaissance.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Artists like Leonardo da Vinci embodied the Renaissance ideal of the 'Renaissance man'.",
+    "retrieved_context": "Michelangelo located_in Renaissance. Leonardo da Vinci painted_by Mona Lisa. Michelangelo painted_by Last Judgment. Pablo Picasso painted_by Les Demoiselles d'Avignon. Claude Monet painted_by Water Lilies. Claude Monet located_in Impressionists. Michelangelo painted_by Creation of Adam. Michelangelo painted_by Sistine Chapel ceiling. Mona Lisa is_masterpiece_of Renaissance. Caravaggio located_in Baroque. Caravaggio painted_by The Calling of Saint Matthew. Pablo Picasso pioneered Cubism. Claude Monet painted_by Giverny. Mona Lisa painted_by Leonardo da Vinci. Leonardo da Vinci located_in Renaissance.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Michelangelo's work on the Sistine Chapel ceiling continues to inspire artists.",
+    "retrieved_context": "Michelangelo located_in Renaissance. Michelangelo painted_by Last Judgment. Leonardo da Vinci painted_by Mona Lisa. Michelangelo painted_by Creation of Adam. Michelangelo painted_by Sistine Chapel ceiling. Mona Lisa is_masterpiece_of Renaissance. Caravaggio located_in Baroque. Caravaggio painted_by The Calling of Saint Matthew. Mona Lisa painted_by Leonardo da Vinci. Leonardo da Vinci located_in Renaissance.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Impressionists aimed to capture the effects of light and color in their paintings.",
+    "retrieved_context": "Michelangelo located_in Renaissance. Michelangelo painted_by Last Judgment. Claude Monet painted_by Water Lilies. Leonardo da Vinci painted_by Mona Lisa. Claude Monet located_in Impressionists. Frida Kahlo painted_by Self-portraits. Michelangelo painted_by Creation of Adam. Michelangelo painted_by Sistine Chapel ceiling. Pablo Picasso pioneered Cubism. Mona Lisa is_masterpiece_of Renaissance. Leonardo da Vinci located_in Renaissance. Claude Monet painted_by Giverny. Mona Lisa painted_by Leonardo da Vinci. Giverny located_in Giverny. Pablo Picasso painted_by Les Demoiselles d'Avignon.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "13.33%"
+  }
+]

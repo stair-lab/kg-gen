@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Fashion trends reflect the values, beliefs, and attitudes of different eras.",
+    "retrieved_context": "supermodels led to designer brands. TikTok shape fashion trends. fashion industry has environmental impact. fashion plates illustrated fashion trends. Marilyn Monroe popularized cat-eye sunglasses. fashion trends influences society. magazines disseminated fashion trends. printing press enabled dissemination of fashion trends. fashion industry expresses self-expression. fashion industry reflects social commentary. fashion industry reflects cultural identity. Renaissance enabled by printing press. influencers shape fashion trends. bloggers shape fashion trends. turn of the millennium led to individuality. Marilyn Monroe popularized full skirts. Industrial Revolution led to department stores. Audrey Hepburn popularized fitted bodices. Instagram shape fashion trends. department stores facilitated access to fashion. Audrey Hepburn popularized full skirts. Marilyn Monroe popularized fitted bodices. supermodels led to high-end fashion. turn of the millennium led to eclectic fashion. Audrey Hepburn popularized cat-eye sunglasses.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Fashion has been influenced by culture, technology, politics, and economics.",
+    "retrieved_context": "supermodels led to designer brands. TikTok shape fashion trends. fashion industry has environmental impact. fashion plates illustrated fashion trends. fashion trends influences society. magazines disseminated fashion trends. printing press enabled dissemination of fashion trends. fashion industry expresses self-expression. fashion industry reflects social commentary. fashion industry reflects cultural identity. Renaissance enabled by printing press. influencers shape fashion trends. bloggers shape fashion trends. turn of the millennium led to individuality. Industrial Revolution led to department stores. Instagram shape fashion trends. department stores facilitated access to fashion. supermodels led to high-end fashion. turn of the millennium led to eclectic fashion.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Clothing in ancient civilizations symbolized status and identity.",
+    "retrieved_context": "ancient civilizations include Greece. supermodels led to designer brands. fashion industry has environmental impact. TikTok shape fashion trends. mass production enabled by ready-to-wear. fashion plates illustrated fashion trends. ancient civilizations include Egypt. fashion trends influences society. Industrial Revolution led to mass production. magazines disseminated fashion trends. fashion industry reflects social commentary. fashion industry expresses self-expression. printing press enabled dissemination of fashion trends. fashion industry reflects cultural identity. Renaissance enabled by printing press. influencers shape fashion trends. bloggers shape fashion trends. turn of the millennium led to individuality. Egypt uses material wool. Industrial Revolution led to department stores. Instagram shape fashion trends. department stores facilitated access to fashion. supermodels led to high-end fashion. ancient civilizations include Rome. turn of the millennium led to eclectic fashion. Egypt uses material linen.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Wealthy individuals in ancient times wore elaborate garments made from luxurious fabrics.",
+    "retrieved_context": "ancient civilizations include Greece. supermodels led to designer brands. fashion industry has environmental impact. ancient civilizations include Egypt. fashion industry reflects social commentary. fashion industry expresses self-expression. fashion industry reflects cultural identity. peasants wear linen. turn of the millennium led to individuality. nobles wear silk. Egypt uses material wool. Industrial Revolution led to department stores. peasants wear wool. department stores facilitated access to fashion. nobles wear velvet. supermodels led to high-end fashion. ancient civilizations include Rome. turn of the millennium led to eclectic fashion. Egypt uses material linen.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Common people in ancient times wore simpler clothing made from materials like linen and wool.",
+    "retrieved_context": "ancient civilizations include Egypt. turn of the millennium led to individuality. department stores facilitated access to fashion. nobles wear silk. ancient civilizations include Greece. Middle Ages led to Catholic Church. nobles wear velvet. Egypt uses material wool. Industrial Revolution led to department stores. peasants wear wool. ancient civilizations include Rome. turn of the millennium led to eclectic fashion. Egypt uses material linen. peasants wear linen. Middle Ages regulated by sumptuary laws.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fashion trends in the Middle Ages were influenced by religion and social hierarchy.",
+    "retrieved_context": "supermodels led to designer brands. TikTok shape fashion trends. fashion industry has environmental impact. fashion plates illustrated fashion trends. Marilyn Monroe popularized cat-eye sunglasses. fashion trends influences society. magazines disseminated fashion trends. printing press enabled dissemination of fashion trends. fashion industry expresses self-expression. fashion industry reflects social commentary. fashion industry reflects cultural identity. Renaissance enabled by printing press. influencers shape fashion trends. bloggers shape fashion trends. Middle Ages led to Catholic Church. turn of the millennium led to individuality. Marilyn Monroe popularized full skirts. Industrial Revolution led to department stores. Audrey Hepburn popularized fitted bodices. Instagram shape fashion trends. department stores facilitated access to fashion. Middle Ages regulated by sumptuary laws. Audrey Hepburn popularized full skirts. Marilyn Monroe popularized fitted bodices. supermodels led to high-end fashion. turn of the millennium led to eclectic fashion. Audrey Hepburn popularized cat-eye sunglasses.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Nobles and royalty in the Middle Ages wore garments made from expensive fabrics like silk and velvet.",
+    "retrieved_context": "Middle Ages led to Catholic Church. ancient civilizations include Egypt. nobles wear silk. fashion industry has environmental impact. nobles wear velvet. Egypt uses material wool. fashion industry reflects social commentary. Industrial Revolution led to department stores. fashion industry expresses self-expression. fashion industry reflects cultural identity. peasants wear wool. department stores facilitated access to fashion. peasants wear linen. Egypt uses material linen. Middle Ages regulated by sumptuary laws.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Peasants in the Middle Ages wore humble clothing made from rougher materials.",
+    "retrieved_context": "ancient civilizations include Greece. Marilyn Monroe popularized cat-eye sunglasses. ancient civilizations include Egypt. Egypt uses material linen. peasants wear linen. Middle Ages led to Catholic Church. nobles wear silk. Egypt uses material wool. Marilyn Monroe popularized full skirts. Industrial Revolution led to department stores. peasants wear wool. Audrey Hepburn popularized fitted bodices. department stores facilitated access to fashion. Middle Ages regulated by sumptuary laws. Audrey Hepburn popularized full skirts. Marilyn Monroe popularized fitted bodices. nobles wear velvet. ancient civilizations include Rome. Audrey Hepburn popularized cat-eye sunglasses.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Renaissance period saw a resurgence of interest in art, culture, and fashion.",
+    "retrieved_context": "TikTok shape fashion trends. fashion industry has environmental impact. mass production enabled by ready-to-wear. fashion plates illustrated fashion trends. 20th century saw Roaring Twenties. 1930s led to 1930s. fashion trends influences society. Industrial Revolution led to mass production. magazines disseminated fashion trends. printing press enabled dissemination of fashion trends. fashion industry expresses self-expression. fashion industry reflects social commentary. fashion industry reflects cultural identity. Renaissance enabled by printing press. influencers shape fashion trends. bloggers shape fashion trends. turn of the millennium led to individuality. Middle Ages led to Catholic Church. Industrial Revolution led to department stores. Instagram shape fashion trends. department stores facilitated access to fashion. 20th century saw 1930s. Middle Ages regulated by sumptuary laws. turn of the millennium led to eclectic fashion.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Industrial Revolution brought about mass production of ready-to-wear clothing.",
+    "retrieved_context": "supermodels led to designer brands. fashion industry has environmental impact. TikTok shape fashion trends. mass production enabled by ready-to-wear. fashion plates illustrated fashion trends. fashion trends influences society. Industrial Revolution led to mass production. magazines disseminated fashion trends. fashion industry reflects social commentary. fashion industry expresses self-expression. printing press enabled dissemination of fashion trends. fashion industry reflects cultural identity. Renaissance enabled by printing press. influencers shape fashion trends. bloggers shape fashion trends. Industrial Revolution led to department stores. Instagram shape fashion trends. department stores facilitated access to fashion. supermodels led to high-end fashion.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Department stores and fashion magazines democratized fashion in the 18th and 19th centuries.",
+    "retrieved_context": "supermodels led to designer brands. TikTok shape fashion trends. fashion industry has environmental impact. fashion plates illustrated fashion trends. fashion trends influences society. Industrial Revolution led to mass production. magazines disseminated fashion trends. printing press enabled dissemination of fashion trends. fashion industry expresses self-expression. fashion industry reflects social commentary. fashion industry reflects cultural identity. Renaissance enabled by printing press. influencers shape fashion trends. bloggers shape fashion trends. turn of the millennium led to individuality. Industrial Revolution led to department stores. Instagram shape fashion trends. department stores facilitated access to fashion. supermodels led to high-end fashion. turn of the millennium led to eclectic fashion.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Roaring Twenties marked a shift towards more relaxed and liberating clothing styles.",
+    "retrieved_context": "TikTok shape fashion trends. fashion industry has environmental impact. fashion plates illustrated fashion trends. 20th century saw Roaring Twenties. 1930s led to 1930s. fashion trends influences society. magazines disseminated fashion trends. printing press enabled dissemination of fashion trends. fashion industry expresses self-expression. fashion industry reflects social commentary. fashion industry reflects cultural identity. Renaissance enabled by printing press. influencers shape fashion trends. bloggers shape fashion trends. turn of the millennium led to individuality. Industrial Revolution led to department stores. Instagram shape fashion trends. department stores facilitated access to fashion. 20th century saw 1930s. post-World War II led to 1950s. turn of the millennium led to eclectic fashion.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Great Depression of the 1930s led to a more conservative approach to fashion.",
+    "retrieved_context": "supermodels led to designer brands. TikTok shape fashion trends. fashion industry has environmental impact. fashion plates illustrated fashion trends. 20th century saw Roaring Twenties. 1930s led to 1930s. fashion trends influences society. magazines disseminated fashion trends. printing press enabled dissemination of fashion trends. fashion industry expresses self-expression. fashion industry reflects social commentary. fashion industry reflects cultural identity. Renaissance enabled by printing press. influencers shape fashion trends. bloggers shape fashion trends. turn of the millennium led to individuality. Industrial Revolution led to department stores. Instagram shape fashion trends. department stores facilitated access to fashion. 20th century saw 1930s. supermodels led to high-end fashion. turn of the millennium led to eclectic fashion.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The post-World War II era saw a resurgence of glamour and luxury in fashion.",
+    "retrieved_context": "supermodels led to designer brands. TikTok shape fashion trends. fashion industry has environmental impact. mass production enabled by ready-to-wear. fashion plates illustrated fashion trends. fashion trends influences society. Industrial Revolution led to mass production. magazines disseminated fashion trends. printing press enabled dissemination of fashion trends. fashion industry expresses self-expression. fashion industry reflects social commentary. fashion industry reflects cultural identity. Renaissance enabled by printing press. influencers shape fashion trends. bloggers shape fashion trends. turn of the millennium led to individuality. Industrial Revolution led to department stores. Instagram shape fashion trends. department stores facilitated access to fashion. post-World War II led to 1950s. supermodels led to high-end fashion. turn of the millennium led to eclectic fashion.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The 1950s saw the rise of iconic fashion figures like Audrey Hepburn and Marilyn Monroe.",
+    "retrieved_context": "1960s featured psychedelic prints. TikTok shape fashion trends. fashion industry has environmental impact. fashion plates illustrated fashion trends. 20th century saw Roaring Twenties. Marilyn Monroe popularized cat-eye sunglasses. fashion trends influences society. magazines disseminated fashion trends. printing press enabled dissemination of fashion trends. fashion industry expresses self-expression. fashion industry reflects social commentary. fashion industry reflects cultural identity. Renaissance enabled by printing press. influencers shape fashion trends. bloggers shape fashion trends. Marilyn Monroe popularized full skirts. 1970s featured bell-bottoms. Industrial Revolution led to department stores. 1960s featured mini skirts. Audrey Hepburn popularized fitted bodices. Instagram shape fashion trends. department stores facilitated access to fashion. 20th century saw 1930s. post-World War II led to 1950s. Audrey Hepburn popularized full skirts. Marilyn Monroe popularized fitted bodices. 1960s featured bell-bottoms. Audrey Hepburn popularized cat-eye sunglasses.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "33.33%"
+  }
+]

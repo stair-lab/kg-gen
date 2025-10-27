@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Space exploration is a fascinating and groundbreaking endeavor.",
+    "retrieved_context": "Blue Origin offers suborbital spaceflights. SpaceX developed reusable rockets. NASA operates Perseverance rover. Perseverance rover searches for extraterrestrial life. Perseverance rover landed on Mars. Virgin Galactic offers suborbital spaceflights. astronauts work at International Space Station (ISS). Voyager missions study planets. Mars rovers study planets.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Humans have constantly pushed the boundaries of what is possible in space.",
+    "retrieved_context": "Blue Origin offers suborbital spaceflights. NASA operates Perseverance rover. Perseverance rover searches for extraterrestrial life. Perseverance rover landed on Mars. Virgin Galactic offers suborbital spaceflights. astronauts work at International Space Station (ISS).",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Soviet Union launched the first artificial satellite, Sputnik 1, in 1957.",
+    "retrieved_context": "Jupiter has moons. Blue Origin offers suborbital spaceflights. Buzz Aldrin walked on moons. NASA operates Perseverance rover. Saturn has moons. Perseverance rover searches for extraterrestrial life. Perseverance rover landed on Mars. Virgin Galactic offers suborbital spaceflights. Neil Armstrong walked on moons. astronauts work at International Space Station (ISS). Soviet Union launched Sputnik 1.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The space race began between the United States and the Soviet Union.",
+    "retrieved_context": "Blue Origin offers suborbital spaceflights. SpaceX developed reusable rockets. NASA operates Perseverance rover. Perseverance rover searches for extraterrestrial life. Perseverance rover landed on Mars. Virgin Galactic offers suborbital spaceflights. astronauts work at International Space Station (ISS). Soviet Union launched Sputnik 1.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Yuri Gagarin became the first human to orbit the Earth in 1961.",
+    "retrieved_context": "Yuri Gagarin orbited Earth. Buzz Aldrin walked on moons. Saturn has moons. NASA operates Perseverance rover. Perseverance rover searches for extraterrestrial life. Apollo 11 mission involved Neil Armstrong. Perseverance rover landed on Mars. Apollo 11 mission involved Buzz Aldrin. Soviet Union launched Sputnik 1. Neil Armstrong walked on moons. astronauts work at International Space Station (ISS). Jupiter has moons.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Neil Armstrong and Buzz Aldrin were the first humans to walk on the moon in 1969.",
+    "retrieved_context": "Buzz Aldrin walked on moons. Saturn has moons. NASA operates Perseverance rover. Perseverance rover searches for extraterrestrial life. Apollo 11 mission involved Neil Armstrong. Perseverance rover landed on Mars. Apollo 11 mission involved Buzz Aldrin. Mars rovers study planets. Neil Armstrong walked on moons. astronauts work at International Space Station (ISS). Voyager missions study planets. Jupiter has moons.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Space probes were launched to study other planets in our solar system.",
+    "retrieved_context": "NASA operates Perseverance rover. Perseverance rover searches for extraterrestrial life. Perseverance rover landed on Mars. astronauts work at International Space Station (ISS). Voyager missions study planets. Mars rovers study planets.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The International Space Station (ISS) was constructed in the late 1990s.",
+    "retrieved_context": "SpaceX developed reusable rockets. Blue Origin offers suborbital spaceflights. NASA operates Perseverance rover. Perseverance rover searches for extraterrestrial life. Perseverance rover landed on Mars. Virgin Galactic offers suborbital spaceflights. astronauts work at International Space Station (ISS). Soviet Union launched Sputnik 1.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "SpaceX developed reusable rockets, reducing the cost of launching payloads into space.",
+    "retrieved_context": "SpaceX developed reusable rockets. Blue Origin offers suborbital spaceflights. NASA operates Perseverance rover. Perseverance rover searches for extraterrestrial life. Perseverance rover landed on Mars. Virgin Galactic offers suborbital spaceflights.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "NASA's Perseverance rover landed on Mars in February 2021.",
+    "retrieved_context": "Jupiter has moons. Buzz Aldrin walked on moons. NASA operates Perseverance rover. Saturn has moons. Perseverance rover searches for extraterrestrial life. Perseverance rover landed on Mars. Apollo 11 mission involved Neil Armstrong. Apollo 11 mission involved Buzz Aldrin. Neil Armstrong walked on moons. Voyager missions study planets. Mars rovers study planets.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "SpaceX plans to send humans to Mars in the coming years.",
+    "retrieved_context": "SpaceX developed reusable rockets. Blue Origin offers suborbital spaceflights. NASA operates Perseverance rover. Perseverance rover searches for extraterrestrial life. Perseverance rover landed on Mars. Virgin Galactic offers suborbital spaceflights. astronauts work at International Space Station (ISS). Voyager missions study planets. Mars rovers study planets.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Missions to explore the outer planets of our solar system are being planned.",
+    "retrieved_context": "NASA operates Perseverance rover. Perseverance rover searches for extraterrestrial life. Perseverance rover landed on Mars. Voyager missions study planets. Mars rovers study planets.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Advancements in space technology include the development of ion propulsion systems.",
+    "retrieved_context": "Blue Origin offers suborbital spaceflights. SpaceX developed reusable rockets. NASA operates Perseverance rover. Perseverance rover searches for extraterrestrial life. Perseverance rover landed on Mars. Virgin Galactic offers suborbital spaceflights. astronauts work at International Space Station (ISS).",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Space tourism is gaining traction with companies offering suborbital spaceflights.",
+    "retrieved_context": "Blue Origin offers suborbital spaceflights. SpaceX developed reusable rockets. NASA operates Perseverance rover. Perseverance rover searches for extraterrestrial life. Perseverance rover landed on Mars. Virgin Galactic offers suborbital spaceflights. astronauts work at International Space Station (ISS).",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The future of space exploration holds the promise of further discovery and innovation.",
+    "retrieved_context": "Blue Origin offers suborbital spaceflights. SpaceX developed reusable rockets. NASA operates Perseverance rover. Perseverance rover searches for extraterrestrial life. Perseverance rover landed on Mars. Virgin Galactic offers suborbital spaceflights. astronauts work at International Space Station (ISS). Voyager missions study planets. Mars rovers study planets.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "20.00%"
+  }
+]

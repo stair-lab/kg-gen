@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Modern medicine has made significant advancements over the past few centuries.",
+    "retrieved_context": "electronic health records improved healthcare providers. antibiotics treat bacterial infections. Telemedicine enables equitable access to healthcare. penicillin led to antibiotics. Alexander Fleming discovered penicillin.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Modern medicine has revolutionized healthcare practices.",
+    "retrieved_context": "electronic health records improved healthcare providers. Telemedicine enables equitable access to healthcare.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Modern medicine has improved the quality of life for individuals worldwide.",
+    "retrieved_context": "electronic health records improved healthcare providers. antibiotics treat bacterial infections. Telemedicine enables equitable access to healthcare. penicillin led to antibiotics. Alexander Fleming discovered penicillin.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The evolution of medicine can be traced back to ancient civilizations.",
+    "retrieved_context": "electronic health records improved healthcare providers. germs are the cause of infectious diseases. antibiotics treat bacterial infections. penicillin led to antibiotics. Andreas Vesalius conducted detailed dissections to understand human anatomy. Renaissance led to human anatomy. Alexander Fleming discovered penicillin. vaccines combat infectious diseases.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Primitive forms of medical treatment were practiced in ancient civilizations.",
+    "retrieved_context": "electronic health records improved healthcare providers. Telemedicine enables equitable access to healthcare. germs are the cause of infectious diseases. vaccines combat infectious diseases.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Scientific discoveries and technological innovations have paved the way for sophisticated medical practices.",
+    "retrieved_context": "laparoscopy is a type of minimally invasive procedures. electronic health records improved healthcare providers. anesthesia revolutionized surgery. CT scans is a type of medical imaging. medical imaging diagnosed pneumonia. medical imaging is a type of medical imaging. germs are the cause of infectious diseases. Wilhelm Roentgen invented medical imaging. Telemedicine enables equitable access to healthcare. William Morton introduced anesthesia. vaccines combat infectious diseases.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "One key development in modern medicine is the understanding of human anatomy and physiology.",
+    "retrieved_context": "germ theory was developed by Louis Pasteur. germ theory was explored by Robert Koch. anesthesia revolutionized surgery. CT scans is a type of medical imaging. medical imaging diagnosed pneumonia. medical imaging is a type of medical imaging. Louis Pasteur was developed by germ theory. Wilhelm Roentgen invented medical imaging. Telemedicine enables equitable access to healthcare. Andreas Vesalius conducted detailed dissections to understand human anatomy. Renaissance led to human anatomy. Robert Koch led to germ theory. William Morton introduced anesthesia.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The study of anatomy began to take shape during the Renaissance period.",
+    "retrieved_context": "laparoscopy is a type of minimally invasive procedures. CT scans is a type of medical imaging. medical imaging diagnosed pneumonia. medical imaging is a type of medical imaging. Wilhelm Roentgen invented medical imaging. Andreas Vesalius conducted detailed dissections to understand human anatomy. Renaissance led to human anatomy.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Andreas Vesalius challenged traditional beliefs and conducted detailed dissections to understand the human body.",
+    "retrieved_context": "anesthesia revolutionized surgery. CT scans is a type of medical imaging. medical imaging diagnosed pneumonia. medical imaging is a type of medical imaging. Wilhelm Roentgen invented medical imaging. Andreas Vesalius conducted detailed dissections to understand human anatomy. Renaissance led to human anatomy. William Morton introduced anesthesia.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The discovery of germs and the development of germ theory by Louis Pasteur and Robert Koch marked a milestone in medicine.",
+    "retrieved_context": "germ theory was developed by Louis Pasteur. germ theory was explored by Robert Koch. Louis Pasteur was developed by germ theory. germs are the cause of infectious diseases. Andreas Vesalius conducted detailed dissections to understand human anatomy. Renaissance led to human anatomy. Robert Koch led to germ theory. vaccines combat infectious diseases.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The identification of specific microorganisms as the cause of diseases revolutionized medicine.",
+    "retrieved_context": "CT scans is a type of medical imaging. medical imaging diagnosed pneumonia. medical imaging is a type of medical imaging. germs are the cause of infectious diseases. antibiotics treat bacterial infections. Wilhelm Roentgen invented medical imaging. penicillin led to antibiotics. Alexander Fleming discovered penicillin. vaccines combat infectious diseases.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The 20th century witnessed rapid advancements in medical technology.",
+    "retrieved_context": "laparoscopy is a type of minimally invasive procedures. electronic health records improved healthcare providers. anesthesia revolutionized surgery. CT scans is a type of medical imaging. medical imaging diagnosed pneumonia. medical imaging is a type of medical imaging. Wilhelm Roentgen invented medical imaging. Telemedicine enables equitable access to healthcare. William Morton introduced anesthesia.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The invention of the X-ray by Wilhelm Roentgen revolutionized medical imaging.",
+    "retrieved_context": "laparoscopy is a type of minimally invasive procedures. anesthesia revolutionized surgery. CT scans is a type of medical imaging. medical imaging diagnosed pneumonia. medical imaging is a type of medical imaging. Wilhelm Roentgen invented medical imaging. Andreas Vesalius conducted detailed dissections to understand human anatomy. Renaissance led to human anatomy. William Morton introduced anesthesia.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The pharmaceutical industry has played a crucial role in the development of modern medicine.",
+    "retrieved_context": "Alexander Fleming discovered penicillin. antibiotics treat bacterial infections. penicillin led to antibiotics. electronic health records improved healthcare providers.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The discovery of penicillin by Alexander Fleming revolutionized the treatment of bacterial infections.",
+    "retrieved_context": "CT scans is a type of medical imaging. medical imaging diagnosed pneumonia. medical imaging is a type of medical imaging. germs are the cause of infectious diseases. antibiotics treat bacterial infections. Wilhelm Roentgen invented medical imaging. penicillin led to antibiotics. Alexander Fleming discovered penicillin. vaccines combat infectious diseases.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "20.00%"
+  }
+]

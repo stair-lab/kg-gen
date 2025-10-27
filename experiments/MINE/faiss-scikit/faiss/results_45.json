@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Birds play a crucial role in ecosystems.",
+    "retrieved_context": "Conservation protect Ecosystem services. Birds signal shifts in Pollution. Birds promote Genetic diversity. Birds support growth of Vegetation. Seabirds deposit nutrients Guano. Seabirds enrich Soils. Birds serve as indicators of Environmental health. Birds signal shifts in Climate change. Birds deposit nutrients Soils. Birds contribute to regeneration of Plant populations. Hummingbirds pollinate Plant species. Conservation protect Biodiversity. Birds inform Conservation. Hummingbirds pollinate Pollen. Birds facilitate reproduction of Plant species. Sunbirds pollinate Plant species. Birds pollinate Seed dispersal. Birds pollinate Ecosystems. Birds contribute to Biodiversity. Birds contribute to Nutrient cycling. Birds pollinate Pollination. Hummingbirds feed on Nectar. Seabirds support Vegetation. Birds signal shifts in Habitat loss.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Birds serve as indicators of environmental health.",
+    "retrieved_context": "Conservation protect Ecosystem services. Birds signal shifts in Pollution. Birds promote Genetic diversity. Birds support growth of Vegetation. Seabirds deposit nutrients Guano. Seabirds enrich Soils. Birds serve as indicators of Environmental health. Birds signal shifts in Climate change. Birds deposit nutrients Soils. Birds contribute to regeneration of Plant populations. Hummingbirds pollinate Plant species. Conservation protect Biodiversity. Birds inform Conservation. Hummingbirds pollinate Pollen. Birds facilitate reproduction of Plant species. Sunbirds pollinate Plant species. Birds pollinate Seed dispersal. Birds pollinate Ecosystems. Birds contribute to Biodiversity. Birds contribute to Nutrient cycling. Birds pollinate Pollination. Hummingbirds feed on Nectar. Seabirds support Vegetation. Birds signal shifts in Habitat loss.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Birds contribute to biodiversity.",
+    "retrieved_context": "Conservation protect Ecosystem services. Birds signal shifts in Pollution. Birds promote Genetic diversity. Birds support growth of Vegetation. Seabirds deposit nutrients Guano. Seabirds enrich Soils. Birds serve as indicators of Environmental health. Birds signal shifts in Climate change. Birds deposit nutrients Soils. Birds contribute to regeneration of Plant populations. Hummingbirds pollinate Plant species. Conservation protect Biodiversity. Birds inform Conservation. Hummingbirds pollinate Pollen. Birds facilitate reproduction of Plant species. Sunbirds pollinate Plant species. Birds pollinate Seed dispersal. Birds pollinate Ecosystems. Birds contribute to Biodiversity. Birds contribute to Nutrient cycling. Birds pollinate Pollination. Hummingbirds feed on Nectar. Seabirds support Vegetation. Birds signal shifts in Habitat loss.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Birds help maintain balance in natural systems.",
+    "retrieved_context": "Conservation protect Ecosystem services. Birds signal shifts in Pollution. Birds promote Genetic diversity. Birds support growth of Vegetation. Seabirds deposit nutrients Guano. Seabirds enrich Soils. Birds serve as indicators of Environmental health. Birds signal shifts in Climate change. Birds deposit nutrients Soils. Birds contribute to regeneration of Plant populations. Hummingbirds pollinate Plant species. Conservation protect Biodiversity. Birds inform Conservation. Hummingbirds pollinate Pollen. Birds facilitate reproduction of Plant species. Sunbirds pollinate Plant species. Birds pollinate Seed dispersal. Birds pollinate Ecosystems. Birds contribute to Biodiversity. Birds contribute to Nutrient cycling. Birds pollinate Pollination. Hummingbirds feed on Nectar. Seabirds support Vegetation. Birds signal shifts in Habitat loss.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Birds are important for seed dispersal.",
+    "retrieved_context": "Conservation protect Ecosystem services. Birds signal shifts in Pollution. Birds support growth of Vegetation. Birds promote Genetic diversity. Seabirds deposit nutrients Guano. Seabirds enrich Soils. Birds serve as indicators of Environmental health. Birds signal shifts in Climate change. Birds deposit nutrients Soils. Birds contribute to regeneration of Plant populations. Hummingbirds pollinate Plant species. Conservation protect Biodiversity. Birds inform Conservation. Hummingbirds pollinate Pollen. Birds facilitate reproduction of Plant species. Sunbirds pollinate Plant species. Birds pollinate Seed dispersal. Birds signal shifts in Habitat loss. Birds contribute to Biodiversity. Birds contribute to Nutrient cycling. Birds pollinate Pollination. Hummingbirds feed on Nectar. Seabirds support Vegetation. Birds pollinate Ecosystems.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Birds spread seeds far and wide.",
+    "retrieved_context": "Conservation protect Ecosystem services. Birds signal shifts in Pollution. Birds support growth of Vegetation. Birds promote Genetic diversity. Seabirds deposit nutrients Guano. Seabirds enrich Soils. Birds serve as indicators of Environmental health. Birds signal shifts in Climate change. Birds deposit nutrients Soils. Birds contribute to regeneration of Plant populations. Hummingbirds pollinate Plant species. Conservation protect Biodiversity. Birds inform Conservation. Hummingbirds pollinate Pollen. Birds facilitate reproduction of Plant species. Sunbirds pollinate Plant species. Birds pollinate Seed dispersal. Birds signal shifts in Habitat loss. Birds contribute to Biodiversity. Birds contribute to Nutrient cycling. Birds pollinate Pollination. Hummingbirds feed on Nectar. Seabirds support Vegetation. Birds pollinate Ecosystems.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Birds promote genetic diversity.",
+    "retrieved_context": "Conservation protect Ecosystem services. Birds signal shifts in Pollution. Birds support growth of Vegetation. Birds promote Genetic diversity. Seabirds deposit nutrients Guano. Seabirds enrich Soils. Birds serve as indicators of Environmental health. Birds signal shifts in Climate change. Birds deposit nutrients Soils. Birds contribute to regeneration of Plant populations. Hummingbirds pollinate Plant species. Conservation protect Biodiversity. Birds inform Conservation. Hummingbirds pollinate Pollen. Birds facilitate reproduction of Plant species. Sunbirds pollinate Plant species. Birds pollinate Seed dispersal. Birds signal shifts in Habitat loss. Birds contribute to Biodiversity. Birds contribute to Nutrient cycling. Birds pollinate Pollination. Hummingbirds feed on Nectar. Seabirds support Vegetation. Birds pollinate Ecosystems.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Birds support the growth of new vegetation.",
+    "retrieved_context": "Conservation protect Ecosystem services. Birds signal shifts in Pollution. Birds promote Genetic diversity. Birds support growth of Vegetation. Seabirds deposit nutrients Guano. Seabirds enrich Soils. Birds serve as indicators of Environmental health. Birds signal shifts in Climate change. Birds deposit nutrients Soils. Birds contribute to regeneration of Plant populations. Hummingbirds pollinate Plant species. Conservation protect Biodiversity. Birds inform Conservation. Hummingbirds pollinate Pollen. Birds facilitate reproduction of Plant species. Sunbirds pollinate Plant species. Birds pollinate Seed dispersal. Birds pollinate Ecosystems. Birds contribute to Biodiversity. Birds contribute to Nutrient cycling. Birds pollinate Pollination. Hummingbirds feed on Nectar. Seabirds support Vegetation. Birds signal shifts in Habitat loss.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Birds control insect populations.",
+    "retrieved_context": "Conservation protect Ecosystem services. Birds signal shifts in Pollution. Birds promote Genetic diversity. Birds support growth of Vegetation. Seabirds deposit nutrients Guano. Seabirds enrich Soils. Birds serve as indicators of Environmental health. Birds signal shifts in Climate change. Birds deposit nutrients Soils. Birds contribute to regeneration of Plant populations. Hummingbirds pollinate Plant species. Conservation protect Biodiversity. Birds inform Conservation. Hummingbirds pollinate Pollen. Birds facilitate reproduction of Plant species. Sunbirds pollinate Plant species. Birds pollinate Seed dispersal. Birds pollinate Ecosystems. Birds contribute to Biodiversity. Birds contribute to Nutrient cycling. Birds pollinate Pollination. Hummingbirds feed on Nectar. Seabirds support Vegetation. Birds signal shifts in Habitat loss.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Birds serve as natural pest control agents.",
+    "retrieved_context": "Conservation protect Ecosystem services. Birds signal shifts in Pollution. Birds promote Genetic diversity. Birds support growth of Vegetation. Seabirds deposit nutrients Guano. Seabirds enrich Soils. Birds serve as indicators of Environmental health. Birds signal shifts in Climate change. Birds deposit nutrients Soils. Birds contribute to regeneration of Plant populations. Hummingbirds pollinate Plant species. Conservation protect Biodiversity. Birds inform Conservation. Hummingbirds pollinate Pollen. Birds facilitate reproduction of Plant species. Sunbirds pollinate Plant species. Birds pollinate Seed dispersal. Birds pollinate Ecosystems. Birds contribute to Biodiversity. Birds contribute to Nutrient cycling. Birds pollinate Pollination. Hummingbirds feed on Nectar. Seabirds support Vegetation. Birds signal shifts in Habitat loss.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Birds help prevent outbreaks of pests.",
+    "retrieved_context": "Conservation protect Ecosystem services. Birds signal shifts in Pollution. Birds promote Genetic diversity. Birds support growth of Vegetation. Seabirds deposit nutrients Guano. Seabirds enrich Soils. Birds serve as indicators of Environmental health. Birds signal shifts in Climate change. Birds deposit nutrients Soils. Birds contribute to regeneration of Plant populations. Hummingbirds pollinate Plant species. Conservation protect Biodiversity. Birds inform Conservation. Hummingbirds pollinate Pollen. Birds facilitate reproduction of Plant species. Sunbirds pollinate Plant species. Birds pollinate Seed dispersal. Birds pollinate Ecosystems. Birds contribute to Biodiversity. Birds contribute to Nutrient cycling. Birds pollinate Pollination. Hummingbirds feed on Nectar. Seabirds support Vegetation. Birds signal shifts in Habitat loss.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Birds contribute to nutrient cycling in ecosystems.",
+    "retrieved_context": "Conservation protect Ecosystem services. Birds signal shifts in Pollution. Birds support growth of Vegetation. Birds promote Genetic diversity. Seabirds deposit nutrients Guano. Seabirds enrich Soils. Birds serve as indicators of Environmental health. Birds signal shifts in Climate change. Birds deposit nutrients Soils. Birds contribute to regeneration of Plant populations. Hummingbirds pollinate Plant species. Conservation protect Biodiversity. Birds inform Conservation. Hummingbirds pollinate Pollen. Birds facilitate reproduction of Plant species. Sunbirds pollinate Plant species. Birds pollinate Seed dispersal. Birds signal shifts in Habitat loss. Birds contribute to Biodiversity. Birds contribute to Nutrient cycling. Birds pollinate Pollination. Hummingbirds feed on Nectar. Seabirds support Vegetation. Birds pollinate Ecosystems.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Seabirds enrich soils through their guano.",
+    "retrieved_context": "Conservation protect Ecosystem services. Birds signal shifts in Pollution. Birds support growth of Vegetation. Birds promote Genetic diversity. Seabirds deposit nutrients Guano. Seabirds enrich Soils. Birds serve as indicators of Environmental health. Birds signal shifts in Climate change. Birds deposit nutrients Soils. Birds contribute to regeneration of Plant populations. Hummingbirds pollinate Plant species. Conservation protect Biodiversity. Birds inform Conservation. Hummingbirds pollinate Pollen. Birds facilitate reproduction of Plant species. Sunbirds pollinate Plant species. Birds pollinate Seed dispersal. Birds pollinate Ecosystems. Birds contribute to Biodiversity. Birds contribute to Nutrient cycling. Birds pollinate Pollination. Hummingbirds feed on Nectar. Seabirds support Vegetation. Birds signal shifts in Habitat loss.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Birds redistribute nutrients through their droppings.",
+    "retrieved_context": "Conservation protect Ecosystem services. Birds signal shifts in Pollution. Birds promote Genetic diversity. Birds support growth of Vegetation. Seabirds deposit nutrients Guano. Seabirds enrich Soils. Birds serve as indicators of Environmental health. Birds signal shifts in Climate change. Birds deposit nutrients Soils. Birds contribute to regeneration of Plant populations. Hummingbirds pollinate Plant species. Conservation protect Biodiversity. Birds inform Conservation. Hummingbirds pollinate Pollen. Birds facilitate reproduction of Plant species. Sunbirds pollinate Plant species. Birds pollinate Seed dispersal. Birds pollinate Ecosystems. Birds contribute to Biodiversity. Birds contribute to Nutrient cycling. Birds pollinate Pollination. Hummingbirds feed on Nectar. Seabirds support Vegetation. Birds signal shifts in Habitat loss.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Birds play a role in pollination.",
+    "retrieved_context": "Conservation protect Ecosystem services. Birds signal shifts in Pollution. Birds support growth of Vegetation. Birds promote Genetic diversity. Seabirds deposit nutrients Guano. Seabirds enrich Soils. Birds serve as indicators of Environmental health. Birds signal shifts in Climate change. Birds deposit nutrients Soils. Birds contribute to regeneration of Plant populations. Hummingbirds pollinate Plant species. Conservation protect Biodiversity. Birds inform Conservation. Hummingbirds pollinate Pollen. Birds facilitate reproduction of Plant species. Sunbirds pollinate Plant species. Birds pollinate Seed dispersal. Birds signal shifts in Habitat loss. Birds contribute to Biodiversity. Birds contribute to Nutrient cycling. Birds pollinate Pollination. Hummingbirds feed on Nectar. Seabirds support Vegetation. Birds pollinate Ecosystems.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "60.00%"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Modern medicine has made significant advancements over the past few centuries.",
+    "retrieved_context": "Telemedicine transformed practice of medicine. Modern medicine testament to innovation. Modern medicine testament to human ingenuity. human anatomy attributed to supernatural causes. treatments genetic makeup patients. wearable devices transformed practice of medicine. pharmaceutical industry role in development of modern medicine. medical technology leading to diagnostic tools. Modern medicine has made advancements. penicillin beginning of antibiotic era. Modern medicine understanding of human anatomy. medical technology leading to treatment modalities. artificial intelligence transformed practice of medicine. technological innovations have paved the way for medical practices. scientific discoveries have paved the way for medical practices. Modern medicine understanding of physiology. penicillin discovery of Alexander Fleming. personalized medicine tailor treatments. Modern medicine revolutionizing healthcare practices. healthcare practices improved quality of life.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Modern medicine has revolutionized healthcare practices.",
+    "retrieved_context": "Telemedicine transformed practice of medicine. Modern medicine testament to innovation. Modern medicine testament to human ingenuity. human anatomy attributed to supernatural causes. technology integration of healthcare. treatments genetic makeup patients. healthcare providers among communication. wearable devices transformed practice of medicine. pharmaceutical industry role in development of modern medicine. medical technology leading to diagnostic tools. Modern medicine has made advancements. policymakers effort from healthcare. Modern medicine understanding of human anatomy. public effort from healthcare. medical technology leading to treatment modalities. artificial intelligence transformed practice of medicine. technological innovations have paved the way for medical practices. scientific discoveries have paved the way for medical practices. Modern medicine understanding of physiology. personalized medicine tailor treatments. Modern medicine revolutionizing healthcare practices. healthcare practices improved quality of life. healthcare providers diagnose and treat diseases. healthcare providers effort from healthcare.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Modern medicine has improved the quality of life for individuals worldwide.",
+    "retrieved_context": "artificial intelligence transformed practice of medicine. personalized medicine tailor treatments. technological innovations have paved the way for medical practices. healthcare quality persist disparities. Modern medicine has made advancements. wearable devices transformed practice of medicine. Modern medicine testament to innovation. Modern medicine revolutionizing healthcare practices. healthcare practices improved quality of life. Modern medicine testament to human ingenuity. Telemedicine transformed practice of medicine. scientific discoveries have paved the way for medical practices. human anatomy attributed to supernatural causes. Modern medicine understanding of human anatomy. Modern medicine understanding of physiology. treatments genetic makeup patients. pharmaceutical industry role in development of modern medicine.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The evolution of medicine can be traced back to ancient civilizations.",
+    "retrieved_context": "Telemedicine transformed practice of medicine. Modern medicine testament to innovation. Modern medicine testament to human ingenuity. marginalized communities facing barriers medical treatment. human anatomy attributed to supernatural causes. treatments genetic makeup patients. wearable devices transformed practice of medicine. pharmaceutical industry role in development of modern medicine. medical technology leading to diagnostic tools. Modern medicine has made advancements. penicillin beginning of antibiotic era. Modern medicine understanding of human anatomy. medical technology leading to treatment modalities. artificial intelligence transformed practice of medicine. technological innovations have paved the way for medical practices. scientific discoveries have paved the way for medical practices. medical treatment accessing marginalized communities. Modern medicine understanding of physiology. evolution can be traced back to ancient civilizations. ancient civilizations were practiced medical treatment. penicillin discovery of Alexander Fleming. personalized medicine tailor treatments. healthcare practices improved quality of life. Modern medicine revolutionizing healthcare practices.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Primitive forms of medical treatment were practiced in ancient civilizations.",
+    "retrieved_context": "Telemedicine transformed practice of medicine. Modern medicine testament to innovation. Modern medicine testament to human ingenuity. marginalized communities facing barriers medical treatment. human anatomy attributed to supernatural causes. wearable devices transformed practice of medicine. pharmaceutical industry role in development of modern medicine. medical technology leading to diagnostic tools. Modern medicine has made advancements. Modern medicine understanding of human anatomy. medical technology leading to treatment modalities. artificial intelligence transformed practice of medicine. technological innovations have paved the way for medical practices. scientific discoveries have paved the way for medical practices. medical treatment accessing marginalized communities. Modern medicine understanding of physiology. evolution can be traced back to ancient civilizations. ancient civilizations were practiced medical treatment. Modern medicine revolutionizing healthcare practices. healthcare practices improved quality of life.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Scientific discoveries and technological innovations have paved the way for sophisticated medical practices.",
+    "retrieved_context": "artificial intelligence transformed practice of medicine. technological innovations have paved the way for medical practices. Modern medicine has made advancements. wearable devices transformed practice of medicine. healthcare practices improved quality of life. Modern medicine revolutionizing healthcare practices. Modern medicine testament to human ingenuity. Modern medicine testament to innovation. scientific discoveries have paved the way for medical practices. Telemedicine transformed practice of medicine. human anatomy attributed to supernatural causes. Modern medicine understanding of human anatomy. Modern medicine understanding of physiology. pharmaceutical industry role in development of modern medicine. medical technology leading to treatment modalities. medical technology leading to diagnostic tools.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "One key development in modern medicine is the understanding of human anatomy and physiology.",
+    "retrieved_context": "artificial intelligence transformed practice of medicine. technological innovations have paved the way for medical practices. Modern medicine has made advancements. wearable devices transformed practice of medicine. Modern medicine revolutionizing healthcare practices. Modern medicine testament to innovation. Modern medicine testament to human ingenuity. healthcare practices improved quality of life. Telemedicine transformed practice of medicine. scientific discoveries have paved the way for medical practices. human anatomy attributed to supernatural causes. Modern medicine understanding of human anatomy. Modern medicine understanding of physiology. Renaissance period began to take shape study of anatomy. pharmaceutical industry role in development of modern medicine. medical technology leading to treatment modalities. medical technology leading to diagnostic tools.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The study of anatomy began to take shape during the Renaissance period.",
+    "retrieved_context": "artificial intelligence transformed practice of medicine. Modern medicine has made advancements. laparoscopy minimally invasive procedures surgical procedures. surgical procedures transformations in modern era. Modern medicine revolutionizing healthcare practices. Modern medicine testament to innovation. Modern medicine testament to human ingenuity. Andreas Vesalius challenging traditional beliefs. healthcare practices improved quality of life. wearable devices transformed practice of medicine. human anatomy attributed to supernatural causes. Modern medicine understanding of human anatomy. Telemedicine transformed practice of medicine. Renaissance period began to take shape study of anatomy. Modern medicine understanding of physiology. anesthesia revolutionizing surgical procedures. pharmaceutical industry role in development of modern medicine. Andreas Vesalius conducting dissections.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Andreas Vesalius challenged traditional beliefs and conducted detailed dissections to understand the human body.",
+    "retrieved_context": "Modern medicine has made advancements. Modern medicine testament to innovation. Andreas Vesalius challenging traditional beliefs. Modern medicine revolutionizing healthcare practices. Modern medicine testament to human ingenuity. healthcare practices improved quality of life. human anatomy attributed to supernatural causes. Modern medicine understanding of human anatomy. Renaissance period began to take shape study of anatomy. Modern medicine understanding of physiology. pharmaceutical industry role in development of modern medicine. Andreas Vesalius conducting dissections.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The discovery of germs and the development of germ theory by Louis Pasteur and Robert Koch marked a milestone in medicine.",
+    "retrieved_context": "Louis Pasteur development of germ theory. Modern medicine testament to innovation. Modern medicine testament to human ingenuity. human anatomy attributed to supernatural causes. healthcare providers among communication. pharmaceutical industry role in development of modern medicine. germs cause of diseases. infectious diseases poorly understood concept. Robert Koch development of germ theory. Modern medicine has made advancements. penicillin beginning of antibiotic era. Modern medicine understanding of human anatomy. germ theory discovery of germs. technological innovations have paved the way for medical practices. scientific discoveries have paved the way for medical practices. Modern medicine understanding of physiology. penicillin discovery of Alexander Fleming. healthcare practices improved quality of life. Modern medicine revolutionizing healthcare practices. healthcare providers diagnose and treat diseases. healthcare providers effort from healthcare.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The identification of specific microorganisms as the cause of diseases revolutionized medicine.",
+    "retrieved_context": "Modern medicine testament to innovation. Modern medicine testament to human ingenuity. human anatomy attributed to supernatural causes. treatments genetic makeup patients. healthcare providers among communication. pharmaceutical industry role in development of modern medicine. germs cause of diseases. antibiotics combat bacterial infections. infectious diseases poorly understood concept. Modern medicine has made advancements. penicillin beginning of antibiotic era. Modern medicine understanding of human anatomy. germ theory discovery of germs. Modern medicine understanding of physiology. penicillin discovery of Alexander Fleming. personalized medicine tailor treatments. healthcare practices improved quality of life. Modern medicine revolutionizing healthcare practices. healthcare providers diagnose and treat diseases. healthcare providers effort from healthcare.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The 20th century witnessed rapid advancements in medical technology.",
+    "retrieved_context": "Modern medicine testament to innovation. Modern medicine testament to human ingenuity. human anatomy attributed to supernatural causes. technology integration of healthcare. pharmaceutical industry role in development of modern medicine. medical technology leading to diagnostic tools. Modern medicine has made advancements. policymakers effort from healthcare. penicillin beginning of antibiotic era. Modern medicine understanding of human anatomy. public effort from healthcare. medical technology leading to treatment modalities. technological innovations have paved the way for medical practices. scientific discoveries have paved the way for medical practices. Modern medicine understanding of physiology. penicillin discovery of Alexander Fleming. healthcare practices improved quality of life. Modern medicine revolutionizing healthcare practices. healthcare providers effort from healthcare.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The invention of the X-ray by Wilhelm Roentgen revolutionized medical imaging.",
+    "retrieved_context": "X-ray diagnose tumors. technological innovations have paved the way for medical practices. pharmaceutical industry role in development of modern medicine. X-ray visualize internal structures. scientific discoveries have paved the way for medical practices. X-ray diagnose pneumonia. MRI capabilities of medical professionals. CT scans capabilities of medical professionals. X-ray diagnose fractures. medical technology leading to treatment modalities. X-ray invention of Wilhelm Roentgen. medical technology leading to diagnostic tools.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The pharmaceutical industry has played a crucial role in the development of modern medicine.",
+    "retrieved_context": "drugs treat cancer. drugs treat diabetes. Telemedicine transformed practice of medicine. Modern medicine testament to innovation. Modern medicine testament to human ingenuity. drugs treat hypertension. human anatomy attributed to supernatural causes. treatments genetic makeup patients. wearable devices transformed practice of medicine. pharmaceutical industry role in development of modern medicine. medical technology leading to diagnostic tools. Modern medicine has made advancements. penicillin beginning of antibiotic era. therapies treat medical conditions. Modern medicine understanding of human anatomy. medical technology leading to treatment modalities. artificial intelligence transformed practice of medicine. Modern medicine understanding of physiology. penicillin discovery of Alexander Fleming. personalized medicine tailor treatments. healthcare practices improved quality of life. Modern medicine revolutionizing healthcare practices. drugs treat medical conditions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The discovery of penicillin by Alexander Fleming revolutionized the treatment of bacterial infections.",
+    "retrieved_context": "antibiotics combat bacterial infections. infectious diseases poorly understood concept. Modern medicine has made advancements. healthcare practices improved quality of life. Modern medicine revolutionizing healthcare practices. Modern medicine testament to human ingenuity. Modern medicine testament to innovation. penicillin beginning of antibiotic era. human anatomy attributed to supernatural causes. Modern medicine understanding of human anatomy. Modern medicine understanding of physiology. pharmaceutical industry role in development of modern medicine. penicillin discovery of Alexander Fleming.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "93.33%"
+  }
+]

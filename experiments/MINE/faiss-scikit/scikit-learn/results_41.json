@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Conspiracy theories challenge official explanations of historical events.",
+    "retrieved_context": "September 11, 2001 terrorist attacks attacked Pentagon. hoax staged studio. U.S. government involved in September 11, 2001 terrorist attacks. September 11, 2001 terrorist attacks attacked World Trade Center. Illuminati exert control over historical events. Illuminati allegedly founded in 18th century. Illuminati manipulate institutions. Illuminati manipulate president. World Trade Center involved in controlled demolitions. Illuminati is a secret society.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Some conspiracy theories are dismissed as outlandish or baseless.",
+    "retrieved_context": "September 11, 2001 terrorist attacks attacked Pentagon. hoax staged studio. U.S. government involved in September 11, 2001 terrorist attacks. September 11, 2001 terrorist attacks attacked World Trade Center. Illuminati exert control over historical events. Illuminati allegedly founded in 18th century. Illuminati manipulate institutions. Illuminati manipulate president. John F. Kennedy was president. Illuminati is a secret society.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Conspiracy theories influence popular culture and public discourse.",
+    "retrieved_context": "Illuminati exert control over historical events. Illuminati allegedly founded in 18th century. Illuminati manipulate institutions. Illuminati manipulate president. John F. Kennedy was president. Illuminati is a secret society.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The moon landing hoax theory suggests the Apollo 11 mission was staged.",
+    "retrieved_context": "Apollo 11 mission included astronauts Neil Armstrong. hoax staged studio. Apollo 11 mission included astronauts Buzz Aldrin. Illuminati exert control over historical events. Illuminati allegedly founded in 18th century. Illuminati manipulate institutions. CIA staged moon landing. Illuminati manipulate president. Illuminati is a secret society.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Proponents of the moon landing hoax theory point to alleged discrepancies in evidence.",
+    "retrieved_context": "Apollo 11 mission included astronauts Neil Armstrong. hoax staged studio. CIA staged moon landing. Apollo 11 mission included astronauts Buzz Aldrin.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The JFK assassination conspiracy theory suggests a larger plot was at play.",
+    "retrieved_context": "Illuminati is a secret society. Lee Harvey Oswald assassinated John F. Kennedy. September 11, 2001 terrorist attacks attacked Pentagon. hoax staged studio. U.S. government involved in September 11, 2001 terrorist attacks. September 11, 2001 terrorist attacks attacked World Trade Center. World Trade Center involved in controlled demolitions. Illuminati exert control over historical events. Illuminati allegedly founded in 18th century. Illuminati manipulate institutions. CIA staged moon landing. Illuminati manipulate president. Lee Harvey Oswald shot the president from Texas School Book Depository. John F. Kennedy was president. Texas School Book Depository involved in Dallas.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Illuminati conspiracy theory alleges a secret society controls world events.",
+    "retrieved_context": "September 11, 2001 terrorist attacks attacked Pentagon. U.S. government involved in September 11, 2001 terrorist attacks. September 11, 2001 terrorist attacks attacked World Trade Center. World Trade Center involved in controlled demolitions. Illuminati exert control over historical events. Illuminati allegedly founded in 18th century. Illuminati manipulate institutions. CIA staged moon landing. Illuminati manipulate president. John F. Kennedy was president. Illuminati is a secret society.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "There is no concrete evidence to support the existence of the Illuminati.",
+    "retrieved_context": "September 11, 2001 terrorist attacks attacked Pentagon. hoax staged studio. U.S. government involved in September 11, 2001 terrorist attacks. September 11, 2001 terrorist attacks attacked World Trade Center. World Trade Center involved in controlled demolitions. Illuminati exert control over historical events. Illuminati allegedly founded in 18th century. Illuminati manipulate institutions. CIA staged moon landing. Illuminati manipulate president. John F. Kennedy was president. Illuminati is a secret society.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Conspiracy theories about 9/11 suggest government involvement in the attacks.",
+    "retrieved_context": "September 11, 2001 terrorist attacks attacked Pentagon. hoax staged studio. U.S. government involved in September 11, 2001 terrorist attacks. Illuminati manipulate president. Illuminati exert control over historical events. Illuminati allegedly founded in 18th century. Illuminati manipulate institutions. CIA staged moon landing. September 11, 2001 terrorist attacks attacked World Trade Center. World Trade Center involved in controlled demolitions. Illuminati is a secret society.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Some conspiracy theories about 9/11 point to alleged inconsistencies in official accounts.",
+    "retrieved_context": "September 11, 2001 terrorist attacks attacked Pentagon. hoax staged studio. U.S. government involved in September 11, 2001 terrorist attacks. Illuminati manipulate president. Illuminati exert control over historical events. Illuminati allegedly founded in 18th century. Illuminati manipulate institutions. September 11, 2001 terrorist attacks attacked World Trade Center. World Trade Center involved in controlled demolitions. Illuminati is a secret society.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The internet and social media have fueled the spread of conspiracy theories.",
+    "retrieved_context": "John F. Kennedy was president. September 11, 2001 terrorist attacks attacked Pentagon. hoax staged studio. September 11, 2001 terrorist attacks attacked World Trade Center. U.S. government involved in September 11, 2001 terrorist attacks. Illuminati exert control over historical events. Illuminati allegedly founded in 18th century. Illuminati manipulate institutions. CIA staged moon landing. Illuminati manipulate president. World Trade Center involved in controlled demolitions. Illuminati is a secret society.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Conspiracy theories tap into societal anxieties and distrust of authority.",
+    "retrieved_context": "Illuminati exert control over historical events. Illuminati allegedly founded in 18th century. Illuminati manipulate institutions. CIA staged moon landing. Illuminati manipulate president. John F. Kennedy was president. Illuminati is a secret society.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Some conspiracy theories provide a sense of empowerment and community to believers.",
+    "retrieved_context": "hoax staged studio. Illuminati exert control over historical events. Illuminati allegedly founded in 18th century. Illuminati manipulate institutions. Illuminati manipulate president. John F. Kennedy was president. Illuminati is a secret society.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Conspiracy theories challenge official narratives and raise questions about power and truth.",
+    "retrieved_context": "September 11, 2001 terrorist attacks attacked Pentagon. hoax staged studio. U.S. government involved in September 11, 2001 terrorist attacks. September 11, 2001 terrorist attacks attacked World Trade Center. World Trade Center involved in controlled demolitions. Illuminati exert control over historical events. Illuminati allegedly founded in 18th century. Illuminati manipulate institutions. CIA staged moon landing. Illuminati manipulate president. John F. Kennedy was president. Illuminati is a secret society.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Examining famous conspiracy theories can provide insight into human desire for alternative explanations.",
+    "retrieved_context": "September 11, 2001 terrorist attacks attacked Pentagon. September 11, 2001 terrorist attacks attacked World Trade Center. U.S. government involved in September 11, 2001 terrorist attacks. World Trade Center involved in controlled demolitions.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "53.33%"
+  }
+]

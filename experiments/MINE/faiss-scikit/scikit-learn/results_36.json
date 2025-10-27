@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Renewable energy sources gaining momentum in recent years",
+    "retrieved_context": "wind farms use wind turbines. Governments implement carbon pricing mechanisms. renewable energy targets related to Policy support. climate change is a concern air pollution. hydropower plants generate electricity. incentives related to Policy support. carbon pricing mechanisms related to Policy support. solar power convert into electricity. Geothermal power plants generate electricity. Governments implement subsidies. fossil fuels are a cause of climate change. biomass power plants generate electricity. Renewable energy sources reduce environmental impact. wind turbines capture wind power. subsidies related to Policy support. Governments implement renewable energy targets. wind power convert into electricity. Renewable energy sources reduce carbon emissions.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "World moving towards a more sustainable and environmentally friendly future",
+    "retrieved_context": "Governments implement carbon pricing mechanisms. renewable energy targets related to Policy support. climate change is a concern air pollution. Bioenergy derived from organic materials. incentives related to Policy support. carbon pricing mechanisms related to Policy support. organic materials convert into biogas. Governments implement subsidies. fossil fuels are a cause of climate change. Renewable energy sources reduce environmental impact. organic materials include waste. subsidies related to Policy support. Paris Agreement drives efforts to reduce greenhouse gas emissions. Governments implement renewable energy targets. organic materials include plants. Renewable energy sources reduce carbon emissions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Growing concerns over climate change, air pollution, and finite nature of fossil fuels",
+    "retrieved_context": "climate change is a concern air pollution. biodiesel is a Biofuels. ethanol is a Biofuels. fossil fuels are a cause of climate change. Biofuels include ethanol. Renewable energy sources reduce environmental impact. Paris Agreement drives efforts to reduce greenhouse gas emissions. Biofuels include biodiesel. Renewable energy sources reduce carbon emissions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Increased investments and advancements in renewable energy technologies",
+    "retrieved_context": "Governments implement carbon pricing mechanisms. renewable energy targets related to Policy support. batteries is a type of energy storage. incentives related to Policy support. carbon pricing mechanisms related to Policy support. solar tracking systems is a type of solar technology. pumped hydro storage is a type of energy storage. solar power convert into electricity. thin-film solar cells is a type of solar technology. Governments implement subsidies. solar panels harness solar power. Renewable energy sources reduce environmental impact. subsidies related to Policy support. Governments implement renewable energy targets. Renewable energy sources reduce carbon emissions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Solar panels harness energy from the sun and convert it into electricity",
+    "retrieved_context": "Governments implement carbon pricing mechanisms. renewable energy targets related to Policy support. hydropower plants generate electricity. incentives related to Policy support. solar tracking systems is a type of solar technology. solar power convert into electricity. Geothermal power plants generate electricity. carbon pricing mechanisms related to Policy support. thin-film solar cells is a type of solar technology. Governments implement subsidies. biomass power plants generate electricity. solar panels harness solar power. Renewable energy sources reduce environmental impact. Renewable energy sources reduce carbon emissions. subsidies related to Policy support. Governments implement renewable energy targets. wind power convert into electricity.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cost of solar panels steadily decreasing over the years",
+    "retrieved_context": "Governments implement carbon pricing mechanisms. renewable energy targets related to Policy support. hydropower plants generate electricity. incentives related to Policy support. solar tracking systems is a type of solar technology. Geothermal power plants generate electricity. solar power convert into electricity. carbon pricing mechanisms related to Policy support. thin-film solar cells is a type of solar technology. Governments implement subsidies. biomass power plants generate electricity. solar panels harness solar power. Renewable energy sources reduce environmental impact. Renewable energy sources reduce carbon emissions. subsidies related to Policy support. Governments implement renewable energy targets. wind power convert into electricity.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Advancements in solar technology improving efficiency and effectiveness of solar power generation",
+    "retrieved_context": "Governments implement carbon pricing mechanisms. renewable energy targets related to Policy support. hydropower plants generate electricity. incentives related to Policy support. solar tracking systems is a type of solar technology. solar power convert into electricity. Geothermal power plants generate electricity. carbon pricing mechanisms related to Policy support. thin-film solar cells is a type of solar technology. Governments implement subsidies. biomass power plants generate electricity. solar panels harness solar power. Renewable energy sources reduce environmental impact. Renewable energy sources reduce carbon emissions. subsidies related to Policy support. Governments implement renewable energy targets. wind power convert into electricity.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Wind turbines capture kinetic energy of the wind and convert it into electricity",
+    "retrieved_context": "wind farms use wind turbines. Governments implement carbon pricing mechanisms. renewable energy targets related to Policy support. hydropower plants generate electricity. incentives related to Policy support. carbon pricing mechanisms related to Policy support. solar power convert into electricity. Geothermal power plants generate electricity. Geothermal power plants extract heat from reservoirs. Governments implement subsidies. biomass power plants generate electricity. solar panels harness solar power. Renewable energy sources reduce environmental impact. wind turbines capture wind power. Renewable energy sources reduce carbon emissions. subsidies related to Policy support. Governments implement renewable energy targets. wind power convert into electricity.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Wind power growing in popularity as a clean and renewable resource",
+    "retrieved_context": "wind farms use wind turbines. Governments implement carbon pricing mechanisms. renewable energy targets related to Policy support. hydropower plants generate electricity. incentives related to Policy support. carbon pricing mechanisms related to Policy support. solar power convert into electricity. Geothermal power plants generate electricity. Governments implement subsidies. biomass power plants generate electricity. solar panels harness solar power. Renewable energy sources reduce environmental impact. wind turbines capture wind power. Renewable energy sources reduce carbon emissions. subsidies related to Policy support. Governments implement renewable energy targets. wind power convert into electricity.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Hydropower derived from the energy of moving water",
+    "retrieved_context": "wind farms use wind turbines. hydropower plants generate electricity. batteries is a type of energy storage. pumped hydro storage is a type of energy storage. Geothermal power plants extract heat from reservoirs. Geothermal power plants generate electricity. solar power convert into electricity. Geothermal energy derived from heat of the Earth's interior. reservoirs contain hot water. biomass power plants generate electricity. solar panels harness solar power. reservoirs related to dams. reservoirs contain steam. wind turbines capture wind power. Renewable energy sources reduce environmental impact. Renewable energy sources reduce carbon emissions. Hydropower derived from Hydropower. wind power convert into electricity.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Large-scale hydropower plants capable of generating significant amounts of electricity",
+    "retrieved_context": "Governments implement carbon pricing mechanisms. Geothermal power plants generate electricity. reservoirs related to dams. Renewable energy sources reduce environmental impact. renewable energy targets related to Policy support. hydropower plants generate electricity. wind power convert into electricity. incentives related to Policy support. carbon pricing mechanisms related to Policy support. solar power convert into electricity. reservoirs contain hot water. biomass power plants generate electricity. reservoirs contain steam. Geothermal power plants extract heat from reservoirs. Governments implement subsidies. subsidies related to Policy support. Governments implement renewable energy targets. Hydropower derived from Hydropower. Renewable energy sources reduce carbon emissions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Bioenergy derived from organic materials such as plants and waste",
+    "retrieved_context": "wind power convert into electricity. climate change is a concern air pollution. hydropower plants generate electricity. biodiesel is a Biofuels. ethanol is a Biofuels. Geothermal power plants generate electricity. biogas derived from anaerobic digestion. solar power convert into electricity. organic materials convert into biogas. fossil fuels are a cause of climate change. biomass power plants generate electricity. Biofuels include ethanol. organic materials include waste. Biofuels include biodiesel. organic materials include plants. Bioenergy derived from organic materials.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Geothermal energy derived from the heat of the Earth's interior",
+    "retrieved_context": "hydropower plants generate electricity. batteries is a type of energy storage. Geothermal power plants extract heat from reservoirs. pumped hydro storage is a type of energy storage. Geothermal power plants generate electricity. solar power convert into electricity. reservoirs contain hot water. biomass power plants generate electricity. solar panels harness solar power. reservoirs related to dams. reservoirs contain steam. Renewable energy sources reduce environmental impact. Renewable energy sources reduce carbon emissions. Paris Agreement drives efforts to reduce greenhouse gas emissions. wind power convert into electricity. Geothermal energy derived from heat of the Earth's interior.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Ongoing research and development driving innovation and efficiency improvements in renewable energy sources",
+    "retrieved_context": "Governments implement carbon pricing mechanisms. Geothermal power plants generate electricity. fossil fuels are a cause of climate change. Renewable energy sources reduce environmental impact. renewable energy targets related to Policy support. climate change is a concern air pollution. hydropower plants generate electricity. wind power convert into electricity. batteries is a type of energy storage. incentives related to Policy support. carbon pricing mechanisms related to Policy support. solar power convert into electricity. solar tracking systems is a type of solar technology. biomass power plants generate electricity. pumped hydro storage is a type of energy storage. thin-film solar cells is a type of solar technology. Governments implement subsidies. subsidies related to Policy support. Governments implement renewable energy targets. Renewable energy sources reduce carbon emissions.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Policy support and incentives essential for continued growth of renewable energy",
+    "retrieved_context": "Governments implement carbon pricing mechanisms. renewable energy targets related to Policy support. incentives related to Policy support. carbon pricing mechanisms related to Policy support. Governments implement subsidies. Renewable energy sources reduce environmental impact. subsidies related to Policy support. Governments implement renewable energy targets. Renewable energy sources reduce carbon emissions.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "60.00%"
+  }
+]

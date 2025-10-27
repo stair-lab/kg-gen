@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Sir Alexander Fleming discovered penicillin in 1928.",
+    "retrieved_context": "Penicillin treats pneumonia. Ernst Chain worked at University of Oxford. novel antimicrobial agents combat antibiotic resistance. antibiotic resistance causal_relation antibiotics. Petri dish contained Staphylococcus bacteria. Penicillin discovered 1928. Penicillin treats sepsis. St. Mary's Hospital in London located in London. Penicillin used during World War II. Howard Florey worked at University of Oxford. Ernst Chain purified in Penicillin. Penicillium contaminated Petri dish. Penicillin treats streptococcal infections. Penicillium produced Penicillin. antibiotic resistance addressed by stewardship programs. Sir Alexander Fleming worked at St. Mary's Hospital in London. Howard Florey purified in Penicillin. Penicillin inhibits Staphylococcus bacteria. Penicillin causal_relation antibiotics. Sir Alexander Fleming discovered Penicillin. Penicillin purified in early 1940s.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fleming was researching the properties of Staphylococcus bacteria.",
+    "retrieved_context": "Penicillin treats pneumonia. Ernst Chain worked at University of Oxford. novel antimicrobial agents combat antibiotic resistance. antibiotic resistance causal_relation antibiotics. Petri dish contained Staphylococcus bacteria. Penicillin discovered 1928. Penicillin treats sepsis. St. Mary's Hospital in London located in London. Penicillin used during World War II. Howard Florey worked at University of Oxford. Ernst Chain purified in Penicillin. Penicillium contaminated Petri dish. antibiotic resistance addressed by stewardship programs. Penicillium produced Penicillin. Penicillin treats streptococcal infections. Sir Alexander Fleming worked at St. Mary's Hospital in London. Howard Florey purified in Penicillin. Penicillin inhibits Staphylococcus bacteria. Penicillin causal_relation antibiotics. Sir Alexander Fleming discovered Penicillin. Penicillin purified in early 1940s.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Fleming observed that a mold contaminated a petri dish with Staphylococcus bacteria.",
+    "retrieved_context": "Penicillin treats pneumonia. Ernst Chain worked at University of Oxford. novel antimicrobial agents combat antibiotic resistance. antibiotic resistance causal_relation antibiotics. Petri dish contained Staphylococcus bacteria. Penicillin discovered 1928. Penicillin treats sepsis. Penicillin used during World War II. Howard Florey worked at University of Oxford. Ernst Chain purified in Penicillin. Penicillium contaminated Petri dish. antibiotic resistance addressed by stewardship programs. Penicillium produced Penicillin. Penicillin treats streptococcal infections. Sir Alexander Fleming worked at St. Mary's Hospital in London. Howard Florey purified in Penicillin. Penicillin inhibits Staphylococcus bacteria. Penicillin causal_relation antibiotics. Sir Alexander Fleming discovered Penicillin. Penicillin purified in early 1940s.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The mold was identified as belonging to the Penicillium genus.",
+    "retrieved_context": "Penicillin treats pneumonia. Ernst Chain worked at University of Oxford. novel antimicrobial agents combat antibiotic resistance. antibiotic resistance causal_relation antibiotics. Petri dish contained Staphylococcus bacteria. Penicillin discovered 1928. Penicillin treats sepsis. Penicillin used during World War II. Howard Florey worked at University of Oxford. Ernst Chain purified in Penicillin. Penicillium contaminated Petri dish. Penicillin treats streptococcal infections. Penicillium produced Penicillin. antibiotic resistance addressed by stewardship programs. Sir Alexander Fleming worked at St. Mary's Hospital in London. Howard Florey purified in Penicillin. Penicillin inhibits Staphylococcus bacteria. Penicillin causal_relation antibiotics. Sir Alexander Fleming discovered Penicillin. Penicillin purified in early 1940s.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The bacteria surrounding the mold were being destroyed.",
+    "retrieved_context": "Penicillin treats pneumonia. Ernst Chain worked at University of Oxford. novel antimicrobial agents combat antibiotic resistance. antibiotic resistance causal_relation antibiotics. Petri dish contained Staphylococcus bacteria. Penicillin discovered 1928. Penicillin treats sepsis. Penicillin used during World War II. Howard Florey worked at University of Oxford. Ernst Chain purified in Penicillin. Penicillium contaminated Petri dish. antibiotic resistance addressed by stewardship programs. Penicillium produced Penicillin. Penicillin treats streptococcal infections. Sir Alexander Fleming worked at St. Mary's Hospital in London. Howard Florey purified in Penicillin. Penicillin inhibits Staphylococcus bacteria. Penicillin causal_relation antibiotics. Sir Alexander Fleming discovered Penicillin. Penicillin purified in early 1940s.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Fleming hypothesized that the mold was producing a substance with antibacterial properties.",
+    "retrieved_context": "Penicillin treats pneumonia. Ernst Chain worked at University of Oxford. novel antimicrobial agents combat antibiotic resistance. antibiotic resistance causal_relation antibiotics. Petri dish contained Staphylococcus bacteria. Penicillin discovered 1928. Penicillin treats sepsis. St. Mary's Hospital in London located in London. Penicillin used during World War II. Howard Florey worked at University of Oxford. Ernst Chain purified in Penicillin. Penicillium contaminated Petri dish. antibiotic resistance addressed by stewardship programs. Penicillium produced Penicillin. Penicillin treats streptococcal infections. Sir Alexander Fleming worked at St. Mary's Hospital in London. Howard Florey purified in Penicillin. Penicillin inhibits Staphylococcus bacteria. Penicillin causal_relation antibiotics. Sir Alexander Fleming discovered Penicillin. Penicillin purified in early 1940s.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Fleming named the substance produced by the mold as penicillin.",
+    "retrieved_context": "Penicillin treats pneumonia. Ernst Chain worked at University of Oxford. novel antimicrobial agents combat antibiotic resistance. antibiotic resistance causal_relation antibiotics. Petri dish contained Staphylococcus bacteria. Penicillin discovered 1928. Penicillin treats sepsis. St. Mary's Hospital in London located in London. Penicillin used during World War II. Howard Florey worked at University of Oxford. Ernst Chain purified in Penicillin. Penicillium contaminated Petri dish. Penicillin treats streptococcal infections. Penicillium produced Penicillin. antibiotic resistance addressed by stewardship programs. Sir Alexander Fleming worked at St. Mary's Hospital in London. Howard Florey purified in Penicillin. Penicillin inhibits Staphylococcus bacteria. Penicillin causal_relation antibiotics. Sir Alexander Fleming discovered Penicillin. Penicillin purified in early 1940s.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Penicillin was the first antibiotic drug developed.",
+    "retrieved_context": "Penicillin treats pneumonia. Ernst Chain worked at University of Oxford. novel antimicrobial agents combat antibiotic resistance. antibiotic resistance causal_relation antibiotics. Petri dish contained Staphylococcus bacteria. Penicillin discovered 1928. Penicillin treats sepsis. Penicillin used during World War II. Howard Florey worked at University of Oxford. Ernst Chain purified in Penicillin. Penicillium contaminated Petri dish. Penicillin treats streptococcal infections. Penicillium produced Penicillin. antibiotic resistance addressed by stewardship programs. Sir Alexander Fleming worked at St. Mary's Hospital in London. Howard Florey purified in Penicillin. Penicillin inhibits Staphylococcus bacteria. Penicillin causal_relation antibiotics. Sir Alexander Fleming discovered Penicillin. Penicillin purified in early 1940s.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Howard Florey and Ernst Chain successfully purified penicillin in the early 1940s.",
+    "retrieved_context": "Penicillin treats pneumonia. Ernst Chain worked at University of Oxford. novel antimicrobial agents combat antibiotic resistance. antibiotic resistance causal_relation antibiotics. Petri dish contained Staphylococcus bacteria. Penicillin discovered 1928. Penicillin treats sepsis. Penicillin used during World War II. Howard Florey worked at University of Oxford. Ernst Chain purified in Penicillin. Penicillium contaminated Petri dish. Penicillin treats streptococcal infections. Penicillium produced Penicillin. antibiotic resistance addressed by stewardship programs. Sir Alexander Fleming worked at St. Mary's Hospital in London. Howard Florey purified in Penicillin. Penicillin inhibits Staphylococcus bacteria. Penicillin causal_relation antibiotics. Sir Alexander Fleming discovered Penicillin. Penicillin purified in early 1940s.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Penicillin was demonstrated to be effective in treating bacterial infections.",
+    "retrieved_context": "Penicillin treats pneumonia. Ernst Chain worked at University of Oxford. novel antimicrobial agents combat antibiotic resistance. antibiotic resistance causal_relation antibiotics. Petri dish contained Staphylococcus bacteria. Penicillin discovered 1928. Penicillin treats sepsis. Penicillin used during World War II. Howard Florey worked at University of Oxford. Ernst Chain purified in Penicillin. Penicillium contaminated Petri dish. Penicillin treats streptococcal infections. Penicillium produced Penicillin. antibiotic resistance addressed by stewardship programs. Sir Alexander Fleming worked at St. Mary's Hospital in London. Howard Florey purified in Penicillin. Penicillin inhibits Staphylococcus bacteria. Penicillin causal_relation antibiotics. Sir Alexander Fleming discovered Penicillin. Penicillin purified in early 1940s.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The discovery of penicillin coincided with World War II.",
+    "retrieved_context": "Penicillin treats pneumonia. Ernst Chain worked at University of Oxford. novel antimicrobial agents combat antibiotic resistance. antibiotic resistance causal_relation antibiotics. Petri dish contained Staphylococcus bacteria. Penicillin discovered 1928. Penicillin treats sepsis. Penicillin used during World War II. Howard Florey worked at University of Oxford. Ernst Chain purified in Penicillin. Penicillium contaminated Petri dish. Penicillin treats streptococcal infections. Penicillium produced Penicillin. antibiotic resistance addressed by stewardship programs. Sir Alexander Fleming worked at St. Mary's Hospital in London. Howard Florey purified in Penicillin. Penicillin inhibits Staphylococcus bacteria. Penicillin causal_relation antibiotics. Sir Alexander Fleming discovered Penicillin. Penicillin purified in early 1940s.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Penicillin played a crucial role in saving lives during the war.",
+    "retrieved_context": "Penicillin treats pneumonia. Ernst Chain worked at University of Oxford. novel antimicrobial agents combat antibiotic resistance. antibiotic resistance causal_relation antibiotics. Petri dish contained Staphylococcus bacteria. Penicillin discovered 1928. Penicillin treats sepsis. Penicillin used during World War II. Howard Florey worked at University of Oxford. Ernst Chain purified in Penicillin. Penicillium contaminated Petri dish. Penicillin treats streptococcal infections. Penicillium produced Penicillin. antibiotic resistance addressed by stewardship programs. Sir Alexander Fleming worked at St. Mary's Hospital in London. Howard Florey purified in Penicillin. Penicillin inhibits Staphylococcus bacteria. Penicillin causal_relation antibiotics. Sir Alexander Fleming discovered Penicillin. Penicillin purified in early 1940s.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Penicillin revolutionized the treatment of bacterial infections.",
+    "retrieved_context": "Penicillin treats pneumonia. Ernst Chain worked at University of Oxford. novel antimicrobial agents combat antibiotic resistance. antibiotic resistance causal_relation antibiotics. Petri dish contained Staphylococcus bacteria. Penicillin discovered 1928. Penicillin treats sepsis. Penicillin used during World War II. Howard Florey worked at University of Oxford. Ernst Chain purified in Penicillin. Penicillium contaminated Petri dish. Penicillin treats streptococcal infections. Penicillium produced Penicillin. antibiotic resistance addressed by stewardship programs. Sir Alexander Fleming worked at St. Mary's Hospital in London. Howard Florey purified in Penicillin. Penicillin inhibits Staphylococcus bacteria. Penicillin causal_relation antibiotics. Sir Alexander Fleming discovered Penicillin. Penicillin purified in early 1940s.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The overuse of antibiotics has led to the emergence of antibiotic-resistant bacteria.",
+    "retrieved_context": "Penicillin treats pneumonia. Ernst Chain worked at University of Oxford. novel antimicrobial agents combat antibiotic resistance. antibiotic resistance causal_relation antibiotics. Petri dish contained Staphylococcus bacteria. Penicillin discovered 1928. Penicillin treats sepsis. Penicillin used during World War II. Howard Florey worked at University of Oxford. Ernst Chain purified in Penicillin. Penicillium contaminated Petri dish. antibiotic resistance addressed by stewardship programs. Penicillium produced Penicillin. Penicillin treats streptococcal infections. Sir Alexander Fleming worked at St. Mary's Hospital in London. Howard Florey purified in Penicillin. Penicillin inhibits Staphylococcus bacteria. Penicillin causal_relation antibiotics. Sir Alexander Fleming discovered Penicillin. Penicillin purified in early 1940s.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The rise of antibiotic resistance poses a significant challenge to global public health.",
+    "retrieved_context": "Penicillin treats pneumonia. Ernst Chain worked at University of Oxford. novel antimicrobial agents combat antibiotic resistance. antibiotic resistance causal_relation antibiotics. Petri dish contained Staphylococcus bacteria. Penicillin discovered 1928. Penicillin treats sepsis. St. Mary's Hospital in London located in London. Penicillin used during World War II. Howard Florey worked at University of Oxford. Ernst Chain purified in Penicillin. Penicillium contaminated Petri dish. antibiotic resistance addressed by stewardship programs. Penicillium produced Penicillin. Penicillin treats streptococcal infections. Sir Alexander Fleming worked at St. Mary's Hospital in London. Howard Florey purified in Penicillin. Penicillin inhibits Staphylococcus bacteria. Penicillin causal_relation antibiotics. Sir Alexander Fleming discovered Penicillin. Penicillin purified in early 1940s.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "26.67%"
+  }
+]

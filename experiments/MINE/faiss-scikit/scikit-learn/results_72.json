@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Leonardo da Vinci painted the Mona Lisa in the early 16th century.",
+    "retrieved_context": "Michelangelo painted scenes from Bible. Pablo Picasso pioneer of Cubism. Michelangelo painted scenes from Creation of Adam. Frida Kahlo known for self-portraits. Vincent van Gogh known for landscapes. Michelangelo painted scenes from Last Judgment. Mona Lisa is a masterpiece of Renaissance. Michelangelo work inspires visitors to Vatican. Pablo Picasso painting Les Demoiselles d'Avignon. Leonardo da Vinci known for Mona Lisa. Michelangelo painted frescoes on the ceiling of Sistine Chapel.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Mona Lisa is considered a masterpiece of the Renaissance period.",
+    "retrieved_context": "Michelangelo painted scenes from Bible. Caravaggio famous work is Matthew. Michelangelo painted scenes from Creation of Adam. Frida Kahlo known for self-portraits. Matthew depicts Matthew. Michelangelo painted scenes from Last Judgment. Mona Lisa is a masterpiece of Renaissance. Michelangelo work inspires visitors to Vatican. Caravaggio known for dramatic use of light and shadow. Leonardo da Vinci known for Mona Lisa. Matthew depicts Jesus. Michelangelo painted frescoes on the ceiling of Sistine Chapel.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Michelangelo painted the frescoes on the ceiling of the Sistine Chapel between 1508 and 1512.",
+    "retrieved_context": "Pablo Picasso pioneer of Cubism. Leonardo da Vinci known for Mona Lisa. Michelangelo painted scenes from Creation of Adam. Michelangelo painted scenes from Last Judgment. Michelangelo work inspires visitors to Vatican. Mona Lisa is a masterpiece of Renaissance. Pablo Picasso painting Les Demoiselles d'Avignon. Michelangelo painted scenes from Bible. Michelangelo painted frescoes on the ceiling of Sistine Chapel.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The frescoes on the Sistine Chapel ceiling feature scenes from the Bible.",
+    "retrieved_context": "Leonardo da Vinci known for Mona Lisa. Michelangelo painted scenes from Creation of Adam. Michelangelo painted scenes from Last Judgment. Michelangelo work inspires visitors to Vatican. Mona Lisa is a masterpiece of Renaissance. Michelangelo painted scenes from Bible. Michelangelo painted frescoes on the ceiling of Sistine Chapel.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Caravaggio was known for his dramatic use of light and shadow in his paintings.",
+    "retrieved_context": "Leonardo da Vinci known for Mona Lisa. Caravaggio famous work is Matthew. Michelangelo painted scenes from Creation of Adam. Frida Kahlo known for self-portraits. Vincent van Gogh known for landscapes. Matthew depicts Matthew. Michelangelo work inspires visitors to Vatican. Caravaggio known for dramatic use of light and shadow. Michelangelo painted scenes from Last Judgment. Mona Lisa is a masterpiece of Renaissance. Michelangelo painted frescoes on the ceiling of Sistine Chapel. Matthew depicts Jesus. Michelangelo painted scenes from Bible.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "One of Caravaggio's famous works is 'The Calling of Saint Matthew'.",
+    "retrieved_context": "Leonardo da Vinci known for Mona Lisa. Caravaggio famous work is Matthew. Michelangelo painted scenes from Creation of Adam. Matthew depicts Matthew. Michelangelo work inspires visitors to Vatican. Caravaggio known for dramatic use of light and shadow. Michelangelo painted scenes from Last Judgment. Mona Lisa is a masterpiece of Renaissance. Michelangelo painted frescoes on the ceiling of Sistine Chapel. Matthew depicts Jesus. Michelangelo painted scenes from Bible.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Claude Monet is famous for his series of paintings of water lilies and gardens at Giverny.",
+    "retrieved_context": "Claude Monet gardens at home in Giverny. Pablo Picasso pioneer of Cubism. Claude Monet known for paintings of gardens. Frida Kahlo known for self-portraits. Vincent van Gogh known for landscapes. Claude Monet known for paintings of water lilies. Pablo Picasso painting Les Demoiselles d'Avignon.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Monet's paintings are known for their loose brushwork and vibrant colors.",
+    "retrieved_context": "Claude Monet gardens at home in Giverny. Pablo Picasso pioneer of Cubism. Claude Monet known for paintings of gardens. Frida Kahlo known for self-portraits. Vincent van Gogh known for landscapes. Mona Lisa is a masterpiece of Renaissance. Claude Monet known for paintings of water lilies. Pablo Picasso painting Les Demoiselles d'Avignon. Leonardo da Vinci known for Mona Lisa.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Pablo Picasso was a pioneer of Cubism in the 20th century.",
+    "retrieved_context": "Claude Monet gardens at home in Giverny. Pablo Picasso pioneer of Cubism. Leonardo da Vinci known for Mona Lisa. Claude Monet known for paintings of gardens. Michelangelo painted scenes from Creation of Adam. Vincent van Gogh known for landscapes. Michelangelo work inspires visitors to Vatican. Michelangelo painted scenes from Last Judgment. Mona Lisa is a masterpiece of Renaissance. Claude Monet known for paintings of water lilies. Pablo Picasso painting Les Demoiselles d'Avignon. Michelangelo painted frescoes on the ceiling of Sistine Chapel. Michelangelo painted scenes from Bible.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Picasso's painting 'Les Demoiselles d'Avignon' shattered traditional notions of perspective.",
+    "retrieved_context": "Pablo Picasso pioneer of Cubism. Frida Kahlo known for self-portraits. Vincent van Gogh known for landscapes. Mona Lisa is a masterpiece of Renaissance. Pablo Picasso painting Les Demoiselles d'Avignon. Leonardo da Vinci known for Mona Lisa.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Vincent van Gogh created emotionally charged landscapes in his artworks.",
+    "retrieved_context": "Pablo Picasso pioneer of Cubism. Frida Kahlo known for self-portraits. Vincent van Gogh known for landscapes. Mona Lisa is a masterpiece of Renaissance. Pablo Picasso painting Les Demoiselles d'Avignon. Leonardo da Vinci known for Mona Lisa.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Frida Kahlo is known for her powerful self-portraits.",
+    "retrieved_context": "Michelangelo painted scenes from Bible. Claude Monet gardens at home in Giverny. Pablo Picasso pioneer of Cubism. Claude Monet known for paintings of gardens. Michelangelo painted scenes from Creation of Adam. Frida Kahlo known for self-portraits. Michelangelo work inspires visitors to Vatican. Mona Lisa is a masterpiece of Renaissance. Michelangelo painted scenes from Last Judgment. Claude Monet known for paintings of water lilies. Pablo Picasso painting Les Demoiselles d'Avignon. Leonardo da Vinci known for Mona Lisa. Michelangelo painted frescoes on the ceiling of Sistine Chapel.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Artists like Leonardo da Vinci embodied the Renaissance ideal of the 'Renaissance man'.",
+    "retrieved_context": "Michelangelo painted scenes from Bible. Pablo Picasso pioneer of Cubism. Michelangelo painted scenes from Creation of Adam. Vincent van Gogh known for landscapes. Michelangelo painted scenes from Last Judgment. Mona Lisa is a masterpiece of Renaissance. Michelangelo work inspires visitors to Vatican. Pablo Picasso painting Les Demoiselles d'Avignon. Leonardo da Vinci known for Mona Lisa. Michelangelo painted frescoes on the ceiling of Sistine Chapel.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Michelangelo's work on the Sistine Chapel ceiling continues to inspire artists.",
+    "retrieved_context": "Leonardo da Vinci known for Mona Lisa. Michelangelo painted scenes from Creation of Adam. Michelangelo painted scenes from Last Judgment. Michelangelo work inspires visitors to Vatican. Mona Lisa is a masterpiece of Renaissance. Michelangelo painted scenes from Bible. Michelangelo painted frescoes on the ceiling of Sistine Chapel.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Impressionists aimed to capture the effects of light and color in their paintings.",
+    "retrieved_context": "Pablo Picasso pioneer of Cubism. Caravaggio famous work is Matthew. Michelangelo painted scenes from Creation of Adam. Frida Kahlo known for self-portraits. Vincent van Gogh known for landscapes. Michelangelo work inspires visitors to Vatican. Caravaggio known for dramatic use of light and shadow. Michelangelo painted scenes from Last Judgment. Pablo Picasso painting Les Demoiselles d'Avignon. Michelangelo painted frescoes on the ceiling of Sistine Chapel. Michelangelo painted scenes from Bible.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "60.00%"
+  }
+]

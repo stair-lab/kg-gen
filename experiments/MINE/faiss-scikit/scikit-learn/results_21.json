@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Astronaut is fascinated by space exploration.",
+    "retrieved_context": "astronaut engages in scientific discovery. astronaut uses sleeping bags. astronaut uses resistance machines. astronaut is fascinated by unknown mysteries of the universe. astronaut engages in exercise. astronaut pushes boundaries of human knowledge. microgravity affects human body. astronaut is fascinated by space exploration. microgravity causes muscle and bone loss. astronaut tests skills. astronaut views Earth. astronaut has a place in the universe. crew gets instructions from mission control. astronaut tests resilience. astronaut conducts scientific research. astronaut performs maintenance work. astronaut driven by passion for exploration. astronaut cleans living quarters. astronaut engages in personal reflection. astronaut tests knowledge. crew discusses mission objectives. astronaut uses treadmills. astronaut sleeps in sleeping quarters. astronaut prepares meals. astronaut lives and works in space station.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Astronaut requires dedication, intelligence, and physical fitness.",
+    "retrieved_context": "astronaut engages in scientific discovery. astronaut uses sleeping bags. astronaut uses resistance machines. astronaut is fascinated by unknown mysteries of the universe. astronaut engages in exercise. astronaut pushes boundaries of human knowledge. microgravity affects human body. astronaut is fascinated by space exploration. microgravity causes muscle and bone loss. astronaut tests skills. astronaut views Earth. astronaut has a place in the universe. crew gets instructions from mission control. astronaut tests resilience. astronaut conducts scientific research. astronaut performs maintenance work. astronaut driven by passion for exploration. astronaut cleans living quarters. astronaut engages in personal reflection. astronaut tests knowledge. crew discusses mission objectives. astronaut uses treadmills. astronaut sleeps in sleeping quarters. astronaut prepares meals. astronaut lives and works in space station.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Astronaut's day is filled with tasks like scientific experiments and maintenance work.",
+    "retrieved_context": "astronaut engages in scientific discovery. astronaut uses sleeping bags. astronaut uses resistance machines. astronaut is fascinated by unknown mysteries of the universe. astronaut engages in exercise. astronaut pushes boundaries of human knowledge. microgravity affects human body. astronaut is fascinated by space exploration. microgravity causes muscle and bone loss. astronaut tests skills. astronaut views Earth. astronaut has a place in the universe. crew gets instructions from mission control. astronaut tests resilience. astronaut conducts scientific research. astronaut performs maintenance work. astronaut driven by passion for exploration. astronaut cleans living quarters. astronaut engages in personal reflection. astronaut tests knowledge. crew discusses mission objectives. astronaut uses treadmills. astronaut sleeps in sleeping quarters. astronaut prepares meals. astronaut lives and works in space station.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Astronaut begins the day with a morning briefing with the crew.",
+    "retrieved_context": "astronaut engages in scientific discovery. astronaut uses sleeping bags. astronaut uses resistance machines. astronaut is fascinated by unknown mysteries of the universe. astronaut engages in exercise. astronaut pushes boundaries of human knowledge. astronaut is fascinated by space exploration. astronaut tests skills. astronaut views Earth. astronaut has a place in the universe. crew gets instructions from mission control. astronaut tests resilience. astronaut conducts scientific research. astronaut performs maintenance work. astronaut driven by passion for exploration. astronaut cleans living quarters. astronaut engages in personal reflection. astronaut tests knowledge. crew discusses mission objectives. astronaut uses treadmills. astronaut sleeps in sleeping quarters. astronaut prepares meals. astronaut lives and works in space station.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Astronauts have breakfast together before starting daily work assignments.",
+    "retrieved_context": "astronaut engages in scientific discovery. astronaut uses sleeping bags. astronaut uses resistance machines. astronaut is fascinated by unknown mysteries of the universe. astronaut engages in exercise. astronaut pushes boundaries of human knowledge. astronaut is fascinated by space exploration. astronaut tests skills. astronaut views Earth. astronaut has a place in the universe. crew gets instructions from mission control. astronaut tests resilience. astronaut conducts scientific research. astronaut performs maintenance work. astronaut driven by passion for exploration. astronaut cleans living quarters. astronaut engages in personal reflection. astronaut tests knowledge. crew discusses mission objectives. astronaut uses treadmills. astronaut sleeps in sleeping quarters. astronaut prepares meals. astronaut lives and works in space station.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Astronauts conduct scientific research or perform maintenance work.",
+    "retrieved_context": "astronaut engages in scientific discovery. astronaut uses sleeping bags. astronaut uses resistance machines. astronaut is fascinated by unknown mysteries of the universe. astronaut engages in exercise. astronaut pushes boundaries of human knowledge. microgravity affects human body. astronaut is fascinated by space exploration. microgravity causes muscle and bone loss. astronaut tests skills. astronaut views Earth. astronaut has a place in the universe. crew gets instructions from mission control. astronaut tests resilience. astronaut conducts scientific research. astronaut performs maintenance work. astronaut driven by passion for exploration. astronaut cleans living quarters. astronaut engages in personal reflection. astronaut tests knowledge. crew discusses mission objectives. astronaut uses treadmills. astronaut sleeps in sleeping quarters. astronaut prepares meals. astronaut lives and works in space station.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Astronauts spend at least two hours daily exercising.",
+    "retrieved_context": "astronaut engages in scientific discovery. astronaut uses sleeping bags. astronaut uses resistance machines. astronaut is fascinated by unknown mysteries of the universe. astronaut engages in exercise. astronaut pushes boundaries of human knowledge. microgravity affects human body. astronaut is fascinated by space exploration. microgravity causes muscle and bone loss. astronaut tests skills. astronaut views Earth. astronaut has a place in the universe. crew gets instructions from mission control. astronaut tests resilience. astronaut conducts scientific research. astronaut performs maintenance work. astronaut driven by passion for exploration. astronaut cleans living quarters. astronaut engages in personal reflection. astronaut tests knowledge. crew discusses mission objectives. astronaut uses treadmills. astronaut sleeps in sleeping quarters. astronaut prepares meals. astronaut lives and works in space station.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Astronauts use specialized equipment for exercise.",
+    "retrieved_context": "astronaut engages in scientific discovery. astronaut uses sleeping bags. astronaut uses resistance machines. astronaut is fascinated by unknown mysteries of the universe. astronaut engages in exercise. astronaut pushes boundaries of human knowledge. microgravity affects human body. astronaut is fascinated by space exploration. microgravity causes muscle and bone loss. astronaut tests skills. astronaut views Earth. astronaut has a place in the universe. crew gets instructions from mission control. astronaut tests resilience. astronaut conducts scientific research. astronaut performs maintenance work. astronaut driven by passion for exploration. astronaut cleans living quarters. astronaut engages in personal reflection. astronaut tests knowledge. crew discusses mission objectives. astronaut uses treadmills. astronaut sleeps in sleeping quarters. astronaut prepares meals. astronaut lives and works in space station.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Astronauts have daily chores like cleaning, meal preparation, and system checks.",
+    "retrieved_context": "astronaut engages in scientific discovery. astronaut uses sleeping bags. astronaut uses resistance machines. astronaut is fascinated by unknown mysteries of the universe. astronaut engages in exercise. astronaut pushes boundaries of human knowledge. microgravity affects human body. astronaut is fascinated by space exploration. microgravity causes muscle and bone loss. astronaut tests skills. astronaut views Earth. astronaut has a place in the universe. crew gets instructions from mission control. astronaut tests resilience. astronaut conducts scientific research. astronaut performs maintenance work. astronaut driven by passion for exploration. astronaut cleans living quarters. astronaut engages in personal reflection. astronaut tests knowledge. crew discusses mission objectives. astronaut uses treadmills. astronaut sleeps in sleeping quarters. astronaut prepares meals. astronaut lives and works in space station.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Astronauts have scheduled breaks for meals and relaxation.",
+    "retrieved_context": "astronaut engages in scientific discovery. astronaut uses sleeping bags. astronaut uses resistance machines. astronaut is fascinated by unknown mysteries of the universe. astronaut engages in exercise. astronaut pushes boundaries of human knowledge. microgravity affects human body. astronaut is fascinated by space exploration. microgravity causes muscle and bone loss. astronaut tests skills. astronaut views Earth. astronaut has a place in the universe. crew gets instructions from mission control. astronaut tests resilience. astronaut conducts scientific research. astronaut performs maintenance work. astronaut driven by passion for exploration. astronaut cleans living quarters. astronaut engages in personal reflection. astronaut tests knowledge. crew discusses mission objectives. astronaut uses treadmills. astronaut sleeps in sleeping quarters. astronaut prepares meals. astronaut lives and works in space station.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Astronauts socialize with crewmates during breaks.",
+    "retrieved_context": "astronaut engages in scientific discovery. astronaut uses sleeping bags. astronaut uses resistance machines. astronaut is fascinated by unknown mysteries of the universe. astronaut engages in exercise. astronaut pushes boundaries of human knowledge. microgravity affects human body. astronaut is fascinated by space exploration. microgravity causes muscle and bone loss. astronaut tests skills. astronaut views Earth. astronaut has a place in the universe. crew gets instructions from mission control. astronaut tests resilience. astronaut conducts scientific research. astronaut performs maintenance work. astronaut driven by passion for exploration. astronaut cleans living quarters. astronaut engages in personal reflection. crew discusses mission objectives. astronaut tests knowledge. astronaut uses treadmills. astronaut sleeps in sleeping quarters. astronaut prepares meals. astronaut lives and works in space station.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Astronauts have downtime for reading, watching movies, or gazing at Earth.",
+    "retrieved_context": "astronaut engages in scientific discovery. astronaut uses sleeping bags. astronaut uses resistance machines. astronaut is fascinated by unknown mysteries of the universe. astronaut engages in exercise. astronaut pushes boundaries of human knowledge. microgravity affects human body. astronaut is fascinated by space exploration. microgravity causes muscle and bone loss. astronaut tests skills. astronaut views Earth. astronaut has a place in the universe. crew gets instructions from mission control. astronaut tests resilience. astronaut conducts scientific research. astronaut performs maintenance work. astronaut driven by passion for exploration. astronaut cleans living quarters. astronaut engages in personal reflection. astronaut tests knowledge. crew discusses mission objectives. astronaut uses treadmills. astronaut sleeps in sleeping quarters. astronaut prepares meals. astronaut lives and works in space station.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Astronauts wind down activities in the evening and prepare for bed.",
+    "retrieved_context": "astronaut engages in scientific discovery. astronaut uses sleeping bags. astronaut uses resistance machines. astronaut is fascinated by unknown mysteries of the universe. astronaut engages in exercise. astronaut pushes boundaries of human knowledge. astronaut is fascinated by space exploration. astronaut tests skills. astronaut views Earth. astronaut has a place in the universe. crew gets instructions from mission control. astronaut tests resilience. astronaut conducts scientific research. astronaut performs maintenance work. astronaut driven by passion for exploration. astronaut cleans living quarters. astronaut engages in personal reflection. astronaut tests knowledge. crew discusses mission objectives. astronaut uses treadmills. astronaut sleeps in sleeping quarters. astronaut prepares meals. astronaut lives and works in space station.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Astronauts have a final check-in with mission control before sleeping.",
+    "retrieved_context": "astronaut engages in scientific discovery. astronaut uses sleeping bags. astronaut uses resistance machines. astronaut is fascinated by unknown mysteries of the universe. astronaut engages in exercise. astronaut pushes boundaries of human knowledge. astronaut is fascinated by space exploration. astronaut tests skills. astronaut views Earth. astronaut has a place in the universe. crew gets instructions from mission control. astronaut tests resilience. astronaut conducts scientific research. astronaut performs maintenance work. astronaut driven by passion for exploration. astronaut cleans living quarters. astronaut engages in personal reflection. crew discusses mission objectives. astronaut tests knowledge. astronaut uses treadmills. astronaut sleeps in sleeping quarters. astronaut prepares meals. astronaut lives and works in space station.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Astronauts sleep in quarters with sleeping bags attached to walls.",
+    "retrieved_context": "astronaut engages in scientific discovery. astronaut uses sleeping bags. astronaut uses resistance machines. astronaut is fascinated by unknown mysteries of the universe. astronaut engages in exercise. astronaut pushes boundaries of human knowledge. microgravity affects human body. astronaut is fascinated by space exploration. microgravity causes muscle and bone loss. astronaut tests skills. astronaut views Earth. astronaut has a place in the universe. crew gets instructions from mission control. astronaut tests resilience. astronaut conducts scientific research. astronaut performs maintenance work. astronaut driven by passion for exploration. astronaut cleans living quarters. astronaut engages in personal reflection. astronaut tests knowledge. crew discusses mission objectives. astronaut uses treadmills. astronaut sleeps in sleeping quarters. astronaut prepares meals. astronaut lives and works in space station.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "33.33%"
+  }
+]

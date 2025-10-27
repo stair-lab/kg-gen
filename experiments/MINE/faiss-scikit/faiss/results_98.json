@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Pop culture refers to the mainstream lifestyle and ideas driven by mass media and entertainment.",
+    "retrieved_context": "online shopping contributes to fashion landscape. fast fashion influence fashion trends. technology influence global trends. K-pop influence Korean culture. songs influence fashion. social media platforms influence pop culture. mass media influence fashion trends. mass media influence fashion landscape. music videos influence fashion. viral challenges influence social media platforms. magazine covers influence fashion trends. celebrity endorsements influence fashion trends. pop culture influence global trends. social media influencers influence fashion trends. K-pop influence fashion. music influence fashion. tech companies leverage global trends. pop culture influence fashion.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Pop culture influences global trends in fashion through celebrity endorsements and social media.",
+    "retrieved_context": "viral challenges influence social media platforms. magazine covers influence fashion trends. pop culture influence global trends. tech companies leverage global trends. pop culture influence fashion. music influence language. K-pop influence Korean culture. social media platforms influence pop culture. online shopping contributes to fashion landscape. fast fashion influence fashion trends. technology influence global trends. music influence fashion. songs influence fashion. mass media influence fashion trends. music videos influence fashion. social media influencers influence fashion trends. celebrity endorsements influence fashion trends. K-pop influence fashion. mass media influence fashion landscape.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fast fashion and online shopping have contributed to a more globalized fashion landscape.",
+    "retrieved_context": "viral challenges influence social media platforms. magazine covers influence fashion trends. pop culture influence global trends. tech companies leverage global trends. pop culture influence fashion. music influence language. K-pop influence Korean culture. social media platforms influence pop culture. online shopping contributes to fashion landscape. fast fashion influence fashion trends. technology influence global trends. music influence fashion. songs influence fashion. mass media influence fashion trends. music videos influence fashion. social media influencers influence fashion trends. celebrity endorsements influence fashion trends. K-pop influence fashion. mass media influence fashion landscape.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Music artists shape popular culture through songs, music videos, and public personas.",
+    "retrieved_context": "viral challenges influence social media platforms. music artists influence public personas. magazine covers influence fashion trends. pop culture influence global trends. tech companies leverage global trends. pop culture influence fashion. music influence language. social media platforms influence pop culture. online shopping contributes to fashion landscape. fast fashion influence fashion trends. technology influence global trends. music influence fashion. songs influence fashion. mass media influence fashion trends. music videos influence fashion. social media influencers influence fashion trends. celebrity endorsements influence fashion trends. K-pop influence fashion. mass media influence fashion landscape.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "K-pop has led to a surge in interest in Korean culture and fashion worldwide.",
+    "retrieved_context": "viral challenges influence social media platforms. magazine covers influence fashion trends. pop culture influence global trends. tech companies leverage global trends. pop culture influence fashion. music influence language. K-pop influence Korean culture. social media platforms influence pop culture. online shopping contributes to fashion landscape. fast fashion influence fashion trends. technology influence global trends. music influence fashion. songs influence fashion. mass media influence fashion trends. music videos influence fashion. social media influencers influence fashion trends. celebrity endorsements influence fashion trends. K-pop influence fashion. mass media influence fashion landscape.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Technology trends spread quickly across the globe with the help of social media platforms.",
+    "retrieved_context": "online shopping contributes to fashion landscape. fast fashion influence fashion trends. technology influence global trends. social media platforms influence pop culture. mass media influence fashion trends. mass media influence fashion landscape. viral challenges influence social media platforms. social media influencers influence fashion trends. magazine covers influence fashion trends. pop culture influence global trends. celebrity endorsements influence fashion trends. tech companies leverage global trends. pop culture influence fashion.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Social media is a powerful tool for spreading ideas and influencing behavior globally.",
+    "retrieved_context": "viral challenges influence social media platforms. magazine covers influence fashion trends. pop culture influence global trends. tech companies leverage global trends. pop culture influence fashion. social media platforms influence pop culture. representations influence social norms. online shopping contributes to fashion landscape. fast fashion influence fashion trends. technology influence global trends. music influence fashion. songs influence fashion. representations influence values. mass media influence fashion trends. music videos influence fashion. social media influencers influence fashion trends. celebrity endorsements influence fashion trends. K-pop influence fashion. mass media influence fashion landscape.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Tech companies leverage pop culture trends to market their products and services.",
+    "retrieved_context": "online shopping contributes to fashion landscape. fast fashion influence fashion trends. technology influence global trends. K-pop influence Korean culture. songs influence fashion. social media platforms influence pop culture. mass media influence fashion trends. mass media influence fashion landscape. music videos influence fashion. viral challenges influence social media platforms. magazine covers influence fashion trends. celebrity endorsements influence fashion trends. pop culture influence global trends. social media influencers influence fashion trends. K-pop influence fashion. music influence fashion. tech companies leverage global trends. pop culture influence fashion.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Pop culture influences societal norms and values, shaping perceptions of gender, race, and sexuality.",
+    "retrieved_context": "viral challenges influence social media platforms. magazine covers influence fashion trends. pop culture influence global trends. tech companies leverage global trends. pop culture influence fashion. K-pop influence Korean culture. social media platforms influence pop culture. representations influence social norms. fast fashion influence fashion trends. technology influence global trends. music influence fashion. songs influence fashion. representations influence values. mass media influence fashion trends. music videos influence fashion. social media influencers influence fashion trends. celebrity endorsements influence fashion trends. K-pop influence fashion. mass media influence fashion landscape.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Increased visibility of LGBTQ+ characters in media promotes acceptance and inclusivity.",
+    "retrieved_context": "viral challenges influence social media platforms. magazine covers influence fashion trends. music artists influence public personas. pop culture influence global trends. tech companies leverage global trends. pop culture influence fashion. social media platforms influence pop culture. representations influence social norms. online shopping contributes to fashion landscape. LGBTQ+ characters influence diversity. fast fashion influence fashion trends. technology influence global trends. music influence fashion. songs influence fashion. representations influence values. mass media influence fashion trends. music videos influence fashion. social media influencers influence fashion trends. celebrity endorsements influence fashion trends. K-pop influence fashion. mass media influence fashion landscape.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Pop culture critics argue it promotes superficiality and consumerism.",
+    "retrieved_context": "viral challenges influence social media platforms. magazine covers influence fashion trends. pop culture influence global trends. tech companies leverage global trends. pop culture influence fashion. social media platforms influence pop culture. representations influence social norms. online shopping contributes to fashion landscape. fast fashion influence fashion trends. technology influence global trends. music influence fashion. songs influence fashion. representations influence values. mass media influence fashion trends. music videos influence fashion. social media influencers influence fashion trends. celebrity endorsements influence fashion trends. K-pop influence fashion. mass media influence fashion landscape.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Critics raise concerns about cultural appropriation and misrepresentation in popular media.",
+    "retrieved_context": "online shopping contributes to fashion landscape. fast fashion influence fashion trends. technology influence global trends. K-pop influence Korean culture. songs influence fashion. social media platforms influence pop culture. mass media influence fashion trends. tech companies leverage global trends. music videos influence fashion. viral challenges influence social media platforms. magazine covers influence fashion trends. celebrity endorsements influence fashion trends. social media influencers influence fashion trends. pop culture influence global trends. K-pop influence fashion. music influence fashion. mass media influence fashion landscape. pop culture influence fashion.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Pop culture brings people together, sparks creativity, and drives social change.",
+    "retrieved_context": "online shopping contributes to fashion landscape. fast fashion influence fashion trends. technology influence global trends. K-pop influence Korean culture. songs influence fashion. social media platforms influence pop culture. mass media influence fashion trends. mass media influence fashion landscape. music videos influence fashion. viral challenges influence social media platforms. magazine covers influence fashion trends. celebrity endorsements influence fashion trends. pop culture influence global trends. social media influencers influence fashion trends. K-pop influence fashion. music influence fashion. tech companies leverage global trends. pop culture influence fashion.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Pop culture plays a crucial role in shaping global trends across various industries.",
+    "retrieved_context": "online shopping contributes to fashion landscape. fast fashion influence fashion trends. technology influence global trends. K-pop influence Korean culture. songs influence fashion. social media platforms influence pop culture. mass media influence fashion trends. mass media influence fashion landscape. music videos influence fashion. viral challenges influence social media platforms. magazine covers influence fashion trends. celebrity endorsements influence fashion trends. pop culture influence global trends. social media influencers influence fashion trends. K-pop influence fashion. music influence fashion. tech companies leverage global trends. pop culture influence fashion.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Understanding the influence of pop culture helps navigate the ever-changing landscape of popular culture.",
+    "retrieved_context": "online shopping contributes to fashion landscape. fast fashion influence fashion trends. technology influence global trends. K-pop influence Korean culture. songs influence fashion. social media platforms influence pop culture. mass media influence fashion trends. mass media influence fashion landscape. music videos influence fashion. viral challenges influence social media platforms. magazine covers influence fashion trends. celebrity endorsements influence fashion trends. pop culture influence global trends. social media influencers influence fashion trends. K-pop influence fashion. music influence fashion. tech companies leverage global trends. pop culture influence fashion.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "13.33%"
+  }
+]

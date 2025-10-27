@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "axolotl is a type of salamander native to Mexico",
+    "retrieved_context": "axolotl can regenerate brain. aye-aye is a type of primates. axolotl is native to Mexico. axolotl can regenerate tail. axolotl can regenerate spinal cord. mantis shrimp is a type of crustacean. mantis shrimp is found in tropical waters. aye-aye has middle finger. mantis shrimp hunts mollusks. pangolin has scales. common swift eats insects. scales protect from predators. axolotl can regenerate limbs. mantis shrimp hunts crabs. aye-aye uses finger to extract insects from tree bark. common swift is a bird. scales are made of keratin. axolotl is a type of axolotl. aye-aye is a lemur. aye-aye is native to Madagascar.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "axolotl can regenerate lost body parts, including limbs, tail, and parts of its brain and spinal cord",
+    "retrieved_context": "aye-aye has middle finger. axolotl can regenerate brain. aye-aye is a type of primates. axolotl is native to Mexico. axolotl is a type of axolotl. axolotl can regenerate tail. keratin is found in human nails. axolotl can regenerate spinal cord. aye-aye is a lemur. scales are made of keratin. keratin is found in human hair. axolotl can regenerate limbs. aye-aye is native to Madagascar. aye-aye uses finger to extract insects from tree bark.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "mantis shrimp is a colorful crustacean found in tropical waters",
+    "retrieved_context": "aye-aye has middle finger. common swift is a bird. aye-aye is a type of primates. mantis shrimp hunts mollusks. barreleye fish is a deep-sea dweller. aye-aye is a lemur. common swift eats insects. aye-aye is native to Madagascar. mantis shrimp is a type of crustacean. mantis shrimp hunts crabs. mantis shrimp is found in tropical waters. aye-aye uses finger to extract insects from tree bark.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "mantis shrimp has one of the most powerful punches in the animal kingdom",
+    "retrieved_context": "aye-aye has middle finger. common swift is a bird. aye-aye is a type of primates. mantis shrimp hunts mollusks. aye-aye is a lemur. common swift eats insects. aye-aye is native to Madagascar. mantis shrimp is a type of crustacean. mantis shrimp hunts crabs. mantis shrimp is found in tropical waters. aye-aye uses finger to extract insects from tree bark.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "pangolin has protective scales made of keratin",
+    "retrieved_context": "axolotl can regenerate brain. aye-aye is a type of primates. axolotl is native to Mexico. keratin is found in human nails. axolotl can regenerate tail. axolotl can regenerate spinal cord. keratin is found in human hair. mantis shrimp is a type of crustacean. mantis shrimp is found in tropical waters. aye-aye has middle finger. mantis shrimp hunts mollusks. pangolin has scales. scales protect from predators. axolotl can regenerate limbs. mantis shrimp hunts crabs. aye-aye uses finger to extract insects from tree bark. barreleye fish is a deep-sea dweller. scales are made of keratin. axolotl is a type of axolotl. aye-aye is a lemur. aye-aye is native to Madagascar.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "pangolin curls into a tight ball with overlapping scales when threatened",
+    "retrieved_context": "axolotl can regenerate brain. axolotl is native to Mexico. axolotl is a type of axolotl. mantis shrimp hunts mollusks. barreleye fish is a deep-sea dweller. keratin is found in human nails. axolotl can regenerate tail. axolotl can regenerate spinal cord. keratin is found in human hair. scales are made of keratin. pangolin has scales. scales protect from predators. axolotl can regenerate limbs. mantis shrimp is a type of crustacean. mantis shrimp hunts crabs. mantis shrimp is found in tropical waters.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "common swift spends almost its entire life in the air",
+    "retrieved_context": "common swift is a bird. mantis shrimp hunts mollusks. barreleye fish is a deep-sea dweller. scales are made of keratin. pangolin has scales. common swift eats insects. scales protect from predators. mantis shrimp is a type of crustacean. mantis shrimp hunts crabs. mantis shrimp is found in tropical waters.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "common swift can stay aloft for months at a time",
+    "retrieved_context": "aye-aye has middle finger. common swift is a bird. axolotl can regenerate brain. aye-aye is a type of primates. axolotl is native to Mexico. axolotl is a type of axolotl. barreleye fish is a deep-sea dweller. axolotl can regenerate tail. axolotl can regenerate spinal cord. aye-aye is a lemur. scales are made of keratin. pangolin has scales. common swift eats insects. scales protect from predators. axolotl can regenerate limbs. aye-aye is native to Madagascar. aye-aye uses finger to extract insects from tree bark.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "barreleye fish is a deep-sea dweller with a transparent head and tubular eyes",
+    "retrieved_context": "common swift is a bird. mantis shrimp hunts mollusks. barreleye fish is a deep-sea dweller. common swift eats insects. mantis shrimp is a type of crustacean. mantis shrimp hunts crabs. mantis shrimp is found in tropical waters.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "barreleye fish can see prey silhouetted against the darkness above",
+    "retrieved_context": "common swift is a bird. axolotl can regenerate brain. axolotl is native to Mexico. mantis shrimp hunts mollusks. axolotl is a type of axolotl. axolotl can regenerate limbs. barreleye fish is a deep-sea dweller. axolotl can regenerate tail. axolotl can regenerate spinal cord. scales are made of keratin. pangolin has scales. common swift eats insects. scales protect from predators. mantis shrimp is a type of crustacean. mantis shrimp hunts crabs. mantis shrimp is found in tropical waters.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "aye-aye is a lemur native to Madagascar",
+    "retrieved_context": "aye-aye has middle finger. aye-aye is a type of primates. mantis shrimp is found in tropical waters. mantis shrimp hunts mollusks. aye-aye is a lemur. mantis shrimp is a type of crustacean. mantis shrimp hunts crabs. aye-aye is native to Madagascar. aye-aye uses finger to extract insects from tree bark.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "aye-aye has an elongated middle finger used to extract insects from tree bark",
+    "retrieved_context": "aye-aye has middle finger. common swift is a bird. aye-aye is a type of primates. mantis shrimp is found in tropical waters. mantis shrimp hunts mollusks. keratin is found in human nails. aye-aye is a lemur. scales are made of keratin. keratin is found in human hair. common swift eats insects. mantis shrimp is a type of crustacean. mantis shrimp hunts crabs. aye-aye is native to Madagascar. aye-aye uses finger to extract insects from tree bark.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "animals have evolved an astonishing array of adaptations to ensure their survival",
+    "retrieved_context": "aye-aye has middle finger. common swift is a bird. aye-aye is a type of primates. barreleye fish is a deep-sea dweller. aye-aye is a lemur. scales are made of keratin. pangolin has scales. common swift eats insects. scales protect from predators. aye-aye is native to Madagascar. aye-aye uses finger to extract insects from tree bark.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "studying unusual adaptations provides valuable insights into the complexities of evolution",
+    "retrieved_context": "axolotl can regenerate brain. aye-aye is a type of primates. axolotl is native to Mexico. axolotl can regenerate tail. axolotl can regenerate spinal cord. mantis shrimp is a type of crustacean. mantis shrimp is found in tropical waters. aye-aye has middle finger. mantis shrimp hunts mollusks. pangolin has scales. common swift eats insects. scales protect from predators. axolotl can regenerate limbs. mantis shrimp hunts crabs. aye-aye uses finger to extract insects from tree bark. common swift is a bird. barreleye fish is a deep-sea dweller. scales are made of keratin. axolotl is a type of axolotl. aye-aye is a lemur. aye-aye is native to Madagascar.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "animal adaptations showcase the ingenuity and diversity of life on Earth",
+    "retrieved_context": "aye-aye has middle finger. common swift is a bird. aye-aye is a type of primates. mantis shrimp is found in tropical waters. mantis shrimp hunts mollusks. aye-aye is a lemur. scales are made of keratin. pangolin has scales. common swift eats insects. scales protect from predators. mantis shrimp is a type of crustacean. mantis shrimp hunts crabs. aye-aye is native to Madagascar. aye-aye uses finger to extract insects from tree bark.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "33.33%"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Protests challenge oppressive regimes.",
+    "retrieved_context": "civil rights movement in United States. civil rights movement challenged discrimination. civil rights movement led by Rosa Parks. civil rights movement led by Martin Luther King Jr.. civil rights movement challenged racial segregation. pro-democracy protesters in Belarus.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Protests demand political rights.",
+    "retrieved_context": "Declaration of Independence asserted all men. civil rights movement in United States. civil rights movement challenged discrimination. civil rights movement led by Rosa Parks. civil rights movement led by Martin Luther King Jr.. Declaration of Independence asserted human rights. civil rights movement challenged racial segregation. pro-democracy protesters in Belarus.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Protests fight for social justice.",
+    "retrieved_context": "civil rights movement in United States. civil rights movement challenged discrimination. civil rights movement led by Rosa Parks. civil rights movement led by Martin Luther King Jr.. civil rights movement challenged racial segregation. pro-democracy protesters in Belarus.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Protests can be peaceful demonstrations.",
+    "retrieved_context": "civil rights movement in United States. civil rights movement challenged discrimination. civil rights movement led by Rosa Parks. civil rights movement led by Martin Luther King Jr.. governments used force to silence dissent. governments used force to silence opposition. civil rights movement challenged racial segregation. pro-democracy protesters in Belarus.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Protests can be violent uprisings.",
+    "retrieved_context": "civil rights movement in United States. Black Lives Matter movement emerged in response to systemic racism. civil rights movement challenged discrimination. civil rights movement led by Rosa Parks. civil rights movement led by Martin Luther King Jr.. Black Lives Matter movement emerged in response to police brutality. civil rights movement challenged racial segregation. pro-democracy protesters in Belarus.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "American Revolution inspired global fight for freedom.",
+    "retrieved_context": "French Revolution of 1789 established republic. Declaration of Independence asserted all men. republic based on equality. Russian Revolution of 1917 brought an end to Romanov dynasty. Russian Revolution of 1917 established communist state. Russian Revolution of 1917 led by Vladimir Lenin. republic based on fraternity. republic based on liberty. Declaration of Independence asserted human rights. American Revolution of 1776 inspired people. French Revolution of 1789 overthrew monarchy. Russian Revolution of 1917 led by Bolsheviks.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "French Revolution established a republic based on liberty.",
+    "retrieved_context": "French Revolution of 1789 established republic. Declaration of Independence asserted all men. republic based on equality. Russian Revolution of 1917 brought an end to Romanov dynasty. Russian Revolution of 1917 established communist state. Russian Revolution of 1917 led by Vladimir Lenin. republic based on fraternity. republic based on liberty. Declaration of Independence asserted human rights. American Revolution of 1776 inspired people. French Revolution of 1789 overthrew monarchy. Russian Revolution of 1917 led by Bolsheviks.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Russian Revolution led to the world's first communist state.",
+    "retrieved_context": "Russian Revolution of 1917 established communist state. Russian Revolution of 1917 brought an end to Romanov dynasty. Russian Revolution of 1917 led by Vladimir Lenin. Russian Revolution of 1917 led by Bolsheviks. pro-democracy protesters in Belarus.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Civil rights movement challenged racial segregation.",
+    "retrieved_context": "civil rights movement in United States. Black Lives Matter movement emerged in response to systemic racism. civil rights movement led by Rosa Parks. civil rights movement led by Martin Luther King Jr.. Black Lives Matter movement emerged in response to police brutality. civil rights movement challenged racial segregation. civil rights movement challenged discrimination.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Arab Spring led to the overthrow of dictators.",
+    "retrieved_context": "Arab Spring overthrew dictators. Tiananmen Square massacre in China. Arab Spring spread across Middle East. Arab Spring began in Tunisia. Arab Spring began in 2010. Arab Spring spread across North Africa.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Black Lives Matter demands racial justice.",
+    "retrieved_context": "civil rights movement in United States. Black Lives Matter movement emerged in response to systemic racism. civil rights movement led by Rosa Parks. civil rights movement led by Martin Luther King Jr.. Black Lives Matter movement emerged in response to police brutality. civil rights movement challenged racial segregation. civil rights movement challenged discrimination.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Governments use force to suppress protests.",
+    "retrieved_context": "governments used force to silence opposition. pro-democracy protesters in Belarus. governments used force to silence dissent.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Protests are a tool for social and political change.",
+    "retrieved_context": "civil rights movement in United States. civil rights movement challenged discrimination. civil rights movement led by Rosa Parks. civil rights movement led by Martin Luther King Jr.. civil rights movement challenged racial segregation. pro-democracy protesters in Belarus.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Protests inspire movements for democracy.",
+    "retrieved_context": "civil rights movement in United States. civil rights movement challenged discrimination. civil rights movement led by Rosa Parks. civil rights movement led by Martin Luther King Jr.. civil rights movement challenged racial segregation. pro-democracy protesters in Belarus.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Protests remind of the power of the human spirit.",
+    "retrieved_context": "Declaration of Independence asserted all men. civil rights movement in United States. civil rights movement challenged discrimination. civil rights movement led by Rosa Parks. civil rights movement led by Martin Luther King Jr.. Declaration of Independence asserted human rights. civil rights movement challenged racial segregation. pro-democracy protesters in Belarus.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

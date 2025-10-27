@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Astronaut is fascinated by space exploration.",
+    "retrieved_context": "morning briefing precedes breakfast. crew read books. living quarters located on space station. crew watch movies. astronaut contains daily chores. microgravity causes bone loss. daily chores contains daily chores. astronaut performs exercise. microgravity causes muscle loss. astronaut performs scientific research. living quarters are equipped with sleeping bags. astronaut participates in morning briefing. daily chores contains meals. exercise uses equipment. astronaut views Earth. final check-in occurs with mission control. space station hosts space missions. astronaut retires to living quarters. morning briefing contains crew. windows offer views of Earth. daily chores contains station's systems. daily chores contains scientific research. space station contains station's systems.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Astronaut requires dedication, intelligence, and physical fitness.",
+    "retrieved_context": "morning briefing precedes breakfast. crew read books. living quarters located on space station. crew watch movies. astronaut contains daily chores. microgravity causes bone loss. daily chores contains daily chores. astronaut performs exercise. microgravity causes muscle loss. astronaut performs scientific research. living quarters are equipped with sleeping bags. astronaut participates in morning briefing. daily chores contains meals. exercise uses equipment. astronaut views Earth. final check-in occurs with mission control. space station hosts space missions. astronaut retires to living quarters. morning briefing contains crew. daily chores contains station's systems. daily chores contains scientific research. space station contains station's systems.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Astronaut's day is filled with tasks like scientific experiments and maintenance work.",
+    "retrieved_context": "morning briefing precedes breakfast. crew read books. living quarters located on space station. crew watch movies. astronaut contains daily chores. microgravity causes bone loss. daily chores contains daily chores. astronaut performs exercise. microgravity causes muscle loss. astronaut performs scientific research. living quarters are equipped with sleeping bags. astronaut participates in morning briefing. daily chores contains meals. exercise uses equipment. astronaut views Earth. final check-in occurs with mission control. space station hosts space missions. astronaut retires to living quarters. morning briefing contains crew. daily chores contains station's systems. daily chores contains scientific research. space station contains station's systems.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Astronaut begins the day with a morning briefing with the crew.",
+    "retrieved_context": "morning briefing precedes breakfast. crew read books. living quarters located on space station. crew watch movies. astronaut contains daily chores. daily chores contains daily chores. astronaut performs exercise. astronaut performs scientific research. living quarters are equipped with sleeping bags. astronaut participates in morning briefing. daily chores contains meals. exercise uses equipment. astronaut views Earth. final check-in occurs with mission control. space station hosts space missions. astronaut retires to living quarters. morning briefing contains crew. daily chores contains station's systems. daily chores contains scientific research. space station contains station's systems.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Astronauts have breakfast together before starting daily work assignments.",
+    "retrieved_context": "morning briefing precedes breakfast. crew read books. living quarters located on space station. crew watch movies. astronaut contains daily chores. daily chores contains daily chores. astronaut performs exercise. astronaut performs scientific research. living quarters are equipped with sleeping bags. astronaut participates in morning briefing. daily chores contains meals. exercise uses equipment. astronaut views Earth. space station hosts space missions. astronaut retires to living quarters. morning briefing contains crew. daily chores contains station's systems. daily chores contains scientific research. space station contains station's systems.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Astronauts conduct scientific research or perform maintenance work.",
+    "retrieved_context": "morning briefing precedes breakfast. crew read books. living quarters located on space station. crew watch movies. astronaut contains daily chores. microgravity causes bone loss. daily chores contains daily chores. astronaut performs exercise. microgravity causes muscle loss. astronaut performs scientific research. living quarters are equipped with sleeping bags. astronaut participates in morning briefing. daily chores contains meals. exercise uses equipment. astronaut views Earth. final check-in occurs with mission control. space station hosts space missions. astronaut retires to living quarters. morning briefing contains crew. daily chores contains station's systems. daily chores contains scientific research. space station contains station's systems.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Astronauts spend at least two hours daily exercising.",
+    "retrieved_context": "morning briefing precedes breakfast. crew read books. living quarters located on space station. crew watch movies. astronaut contains daily chores. microgravity causes bone loss. daily chores contains daily chores. astronaut performs exercise. microgravity causes muscle loss. astronaut performs scientific research. living quarters are equipped with sleeping bags. astronaut participates in morning briefing. daily chores contains meals. exercise uses equipment. astronaut views Earth. space station hosts space missions. astronaut retires to living quarters. morning briefing contains crew. daily chores contains station's systems. daily chores contains scientific research. space station contains station's systems.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Astronauts use specialized equipment for exercise.",
+    "retrieved_context": "morning briefing precedes breakfast. crew read books. living quarters located on space station. crew watch movies. astronaut contains daily chores. microgravity causes bone loss. daily chores contains daily chores. astronaut performs exercise. microgravity causes muscle loss. astronaut performs scientific research. living quarters are equipped with sleeping bags. astronaut participates in morning briefing. daily chores contains meals. exercise uses equipment. astronaut views Earth. final check-in occurs with mission control. space station hosts space missions. astronaut retires to living quarters. morning briefing contains crew. daily chores contains station's systems. daily chores contains scientific research. space station contains station's systems.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Astronauts have daily chores like cleaning, meal preparation, and system checks.",
+    "retrieved_context": "morning briefing precedes breakfast. crew read books. living quarters located on space station. crew watch movies. astronaut contains daily chores. microgravity causes bone loss. daily chores contains daily chores. astronaut performs exercise. microgravity causes muscle loss. astronaut performs scientific research. living quarters are equipped with sleeping bags. astronaut participates in morning briefing. daily chores contains meals. exercise uses equipment. astronaut views Earth. final check-in occurs with mission control. space station hosts space missions. astronaut retires to living quarters. morning briefing contains crew. daily chores contains station's systems. daily chores contains scientific research. space station contains station's systems. sleeping bags attach to walls.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Astronauts have scheduled breaks for meals and relaxation.",
+    "retrieved_context": "morning briefing precedes breakfast. crew read books. living quarters located on space station. crew watch movies. astronaut contains daily chores. microgravity causes bone loss. daily chores contains daily chores. astronaut performs exercise. microgravity causes muscle loss. astronaut performs scientific research. living quarters are equipped with sleeping bags. astronaut participates in morning briefing. daily chores contains meals. exercise uses equipment. astronaut views Earth. final check-in occurs with mission control. space station hosts space missions. astronaut retires to living quarters. morning briefing contains crew. daily chores contains station's systems. daily chores contains scientific research. space station contains station's systems.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Astronauts socialize with crewmates during breaks.",
+    "retrieved_context": "morning briefing precedes breakfast. crew read books. living quarters located on space station. crew watch movies. astronaut contains daily chores. microgravity causes bone loss. daily chores contains daily chores. astronaut performs exercise. microgravity causes muscle loss. astronaut performs scientific research. living quarters are equipped with sleeping bags. astronaut participates in morning briefing. daily chores contains meals. exercise uses equipment. astronaut views Earth. final check-in occurs with mission control. space station hosts space missions. astronaut retires to living quarters. morning briefing contains crew. daily chores contains station's systems. daily chores contains scientific research. space station contains station's systems.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Astronauts have downtime for reading, watching movies, or gazing at Earth.",
+    "retrieved_context": "morning briefing precedes breakfast. crew read books. living quarters located on space station. crew watch movies. astronaut contains daily chores. microgravity causes bone loss. daily chores contains daily chores. astronaut performs exercise. microgravity causes muscle loss. astronaut performs scientific research. living quarters are equipped with sleeping bags. astronaut participates in morning briefing. daily chores contains meals. exercise uses equipment. astronaut views Earth. final check-in occurs with mission control. space station hosts space missions. astronaut retires to living quarters. morning briefing contains crew. windows offer views of Earth. daily chores contains station's systems. daily chores contains scientific research. space station contains station's systems.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Astronauts wind down activities in the evening and prepare for bed.",
+    "retrieved_context": "morning briefing precedes breakfast. crew read books. living quarters located on space station. crew watch movies. astronaut contains daily chores. daily chores contains daily chores. astronaut performs exercise. astronaut performs scientific research. living quarters are equipped with sleeping bags. astronaut participates in morning briefing. daily chores contains meals. exercise uses equipment. astronaut views Earth. space station hosts space missions. astronaut retires to living quarters. morning briefing contains crew. daily chores contains station's systems. daily chores contains scientific research. space station contains station's systems. sleeping bags attach to walls.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Astronauts have a final check-in with mission control before sleeping.",
+    "retrieved_context": "morning briefing precedes breakfast. crew read books. living quarters located on space station. crew watch movies. astronaut contains daily chores. daily chores contains daily chores. astronaut performs exercise. astronaut performs scientific research. living quarters are equipped with sleeping bags. astronaut participates in morning briefing. daily chores contains meals. exercise uses equipment. astronaut views Earth. final check-in occurs with mission control. space station hosts space missions. astronaut retires to living quarters. morning briefing contains crew. daily chores contains station's systems. daily chores contains scientific research. space station contains station's systems. sleeping bags attach to walls.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Astronauts sleep in quarters with sleeping bags attached to walls.",
+    "retrieved_context": "morning briefing precedes breakfast. crew read books. living quarters located on space station. crew watch movies. astronaut contains daily chores. microgravity causes bone loss. daily chores contains daily chores. astronaut performs exercise. microgravity causes muscle loss. astronaut performs scientific research. living quarters are equipped with sleeping bags. astronaut participates in morning briefing. daily chores contains meals. exercise uses equipment. astronaut views Earth. space station hosts space missions. astronaut retires to living quarters. morning briefing contains crew. daily chores contains station's systems. daily chores contains scientific research. space station contains station's systems. sleeping bags attach to walls.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "13.33%"
+  }
+]

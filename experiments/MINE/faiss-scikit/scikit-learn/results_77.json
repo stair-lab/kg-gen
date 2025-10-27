@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Deja Vu is a mysterious phenomenon that has intrigued scientists, psychologists, and the general public for centuries.",
+    "retrieved_context": "Deja Vu is subjective experience. Deja Vu refers to current situation. Deja Vu intrigues scientists. information is processed in brain. Deja Vu is of French origin. scientists delve into consciousness. sleep deprivation is associated with Deja Vu. scientists delve into human brain. fatigue is associated with Deja Vu. current situation is reminiscent of past experience. stress is associated with Deja Vu. Deja Vu intrigues psychologists. Deja Vu refers to sensation. Deja Vu is triggered by past memory. memory-based theory attempts to explain Deja Vu. Deja Vu is phenomenon. Deja Vu intrigues general public. Deja Vu is difficult to study in laboratory setting. information is sent to two separate areas. dual processing theory suggests Deja Vu. secrets are behind Deja Vu.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The term 'deja vu' is of French origin, meaning 'already seen'.",
+    "retrieved_context": "Deja Vu is subjective experience. Deja Vu refers to current situation. Deja Vu intrigues scientists. information is processed in brain. Deja Vu is of French origin. scientists delve into consciousness. sleep deprivation is associated with Deja Vu. scientists delve into human brain. fatigue is associated with Deja Vu. current situation is reminiscent of past experience. stress is associated with Deja Vu. Deja Vu intrigues psychologists. Deja Vu refers to sensation. Deja Vu is triggered by past memory. memory-based theory attempts to explain Deja Vu. Deja Vu is phenomenon. Deja Vu intrigues general public. Deja Vu is difficult to study in laboratory setting. information is sent to two separate areas. dual processing theory suggests Deja Vu. secrets are behind Deja Vu.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Deja Vu refers to the feeling that one has experienced a current situation before, even though it is happening for the first time.",
+    "retrieved_context": "Deja Vu is subjective experience. Deja Vu refers to current situation. Deja Vu intrigues scientists. Deja Vu is of French origin. scientists delve into consciousness. sleep deprivation is associated with Deja Vu. scientists delve into human brain. fatigue is associated with Deja Vu. current situation is reminiscent of past experience. stress is associated with Deja Vu. Deja Vu intrigues psychologists. Deja Vu refers to sensation. Deja Vu is triggered by past memory. memory-based theory attempts to explain Deja Vu. Deja Vu is phenomenon. Deja Vu intrigues general public. Deja Vu is difficult to study in laboratory setting. dual processing theory suggests Deja Vu. secrets are behind Deja Vu.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Many people have experienced deja vu at some point in their lives.",
+    "retrieved_context": "Deja Vu is subjective experience. Deja Vu refers to current situation. Deja Vu intrigues scientists. Deja Vu is of French origin. scientists delve into consciousness. sleep deprivation is associated with Deja Vu. scientists delve into human brain. fatigue is associated with Deja Vu. current situation is reminiscent of past experience. stress is associated with Deja Vu. Deja Vu intrigues psychologists. Deja Vu refers to sensation. Deja Vu is triggered by past memory. memory-based theory attempts to explain Deja Vu. Deja Vu is phenomenon. Deja Vu intrigues general public. Deja Vu is difficult to study in laboratory setting. dual processing theory suggests Deja Vu. secrets are behind Deja Vu.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The science behind deja vu remains largely unexplained.",
+    "retrieved_context": "Deja Vu is subjective experience. Deja Vu refers to current situation. Deja Vu intrigues scientists. Deja Vu is of French origin. scientists delve into consciousness. sleep deprivation is associated with Deja Vu. scientists delve into human brain. fatigue is associated with Deja Vu. current situation is reminiscent of past experience. stress is associated with Deja Vu. Deja Vu intrigues psychologists. Deja Vu refers to sensation. Deja Vu is triggered by past memory. memory-based theory attempts to explain Deja Vu. Deja Vu is phenomenon. Deja Vu intrigues general public. Deja Vu is difficult to study in laboratory setting. dual processing theory suggests Deja Vu. secrets are behind Deja Vu.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The 'dual processing' theory suggests that deja vu occurs when the brain processes information in two different ways simultaneously.",
+    "retrieved_context": "Deja Vu is subjective experience. Deja Vu refers to current situation. Deja Vu intrigues scientists. information is processed in brain. Deja Vu is of French origin. scientists delve into consciousness. sleep deprivation is associated with Deja Vu. scientists delve into human brain. fatigue is associated with Deja Vu. current situation is reminiscent of past experience. stress is associated with Deja Vu. Deja Vu intrigues psychologists. Deja Vu refers to sensation. Deja Vu is triggered by past memory. memory-based theory attempts to explain Deja Vu. Deja Vu is phenomenon. Deja Vu intrigues general public. Deja Vu is difficult to study in laboratory setting. information is sent to two separate areas. dual processing theory suggests Deja Vu. secrets are behind Deja Vu.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "According to the 'dual processing' theory, a delay or discrepancy in processing can create the sensation of having experienced the current situation before.",
+    "retrieved_context": "Deja Vu is subjective experience. Deja Vu refers to current situation. Deja Vu intrigues scientists. Deja Vu is of French origin. scientists delve into consciousness. sleep deprivation is associated with Deja Vu. scientists delve into human brain. fatigue is associated with Deja Vu. current situation is reminiscent of past experience. stress is associated with Deja Vu. Deja Vu intrigues psychologists. Deja Vu refers to sensation. Deja Vu is triggered by past memory. memory-based theory attempts to explain Deja Vu. Deja Vu is phenomenon. Deja Vu intrigues general public. Deja Vu is difficult to study in laboratory setting. dual processing theory suggests Deja Vu. secrets are behind Deja Vu.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The 'memory-based' theory posits that deja vu is triggered by similarities between the current situation and a past memory.",
+    "retrieved_context": "Deja Vu is subjective experience. Deja Vu refers to current situation. Deja Vu intrigues scientists. information is processed in brain. Deja Vu is of French origin. scientists delve into consciousness. sleep deprivation is associated with Deja Vu. scientists delve into human brain. fatigue is associated with Deja Vu. current situation is reminiscent of past experience. stress is associated with Deja Vu. Deja Vu intrigues psychologists. Deja Vu refers to sensation. Deja Vu is triggered by past memory. memory-based theory attempts to explain Deja Vu. Deja Vu is phenomenon. Deja Vu intrigues general public. Deja Vu is difficult to study in laboratory setting. information is sent to two separate areas. dual processing theory suggests Deja Vu. secrets are behind Deja Vu.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "According to the 'memory-based' theory, the brain may mistakenly interpret a situation as a memory, leading to the sensation of deja vu.",
+    "retrieved_context": "Deja Vu is subjective experience. Deja Vu refers to current situation. Deja Vu intrigues scientists. information is processed in brain. Deja Vu is of French origin. scientists delve into consciousness. sleep deprivation is associated with Deja Vu. scientists delve into human brain. fatigue is associated with Deja Vu. current situation is reminiscent of past experience. stress is associated with Deja Vu. Deja Vu intrigues psychologists. Deja Vu refers to sensation. Deja Vu is triggered by past memory. memory-based theory attempts to explain Deja Vu. Deja Vu is phenomenon. Deja Vu intrigues general public. Deja Vu is difficult to study in laboratory setting. information is sent to two separate areas. dual processing theory suggests Deja Vu. secrets are behind Deja Vu.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Factors like stress, fatigue, and sleep deprivation have been associated with an increased frequency of deja vu episodes.",
+    "retrieved_context": "Deja Vu is subjective experience. Deja Vu refers to current situation. Deja Vu intrigues scientists. Deja Vu is of French origin. scientists delve into consciousness. sleep deprivation is associated with Deja Vu. scientists delve into human brain. fatigue is associated with Deja Vu. current situation is reminiscent of past experience. stress is associated with Deja Vu. Deja Vu intrigues psychologists. Deja Vu refers to sensation. Deja Vu is triggered by past memory. memory-based theory attempts to explain Deja Vu. Deja Vu is phenomenon. Deja Vu intrigues general public. Deja Vu is difficult to study in laboratory setting. dual processing theory suggests Deja Vu. secrets are behind Deja Vu.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Individuals with a higher level of creativity or imagination may be more prone to experiencing deja vu.",
+    "retrieved_context": "Deja Vu is subjective experience. Deja Vu refers to current situation. Deja Vu intrigues scientists. information is processed in brain. Deja Vu is of French origin. scientists delve into consciousness. sleep deprivation is associated with Deja Vu. scientists delve into human brain. fatigue is associated with Deja Vu. current situation is reminiscent of past experience. stress is associated with Deja Vu. Deja Vu intrigues psychologists. Deja Vu refers to sensation. Deja Vu is triggered by past memory. memory-based theory attempts to explain Deja Vu. Deja Vu is phenomenon. Deja Vu intrigues general public. Deja Vu is difficult to study in laboratory setting. information is sent to two separate areas. dual processing theory suggests Deja Vu. secrets are behind Deja Vu.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Deja vu is difficult to study in a laboratory setting due to its fleeting and subjective nature.",
+    "retrieved_context": "Deja Vu is subjective experience. Deja Vu refers to current situation. Deja Vu intrigues scientists. Deja Vu is of French origin. scientists delve into consciousness. sleep deprivation is associated with Deja Vu. scientists delve into human brain. fatigue is associated with Deja Vu. current situation is reminiscent of past experience. stress is associated with Deja Vu. Deja Vu intrigues psychologists. Deja Vu refers to sensation. Deja Vu is triggered by past memory. memory-based theory attempts to explain Deja Vu. Deja Vu is phenomenon. Deja Vu intrigues general public. Deja Vu is difficult to study in laboratory setting. dual processing theory suggests Deja Vu. secrets are behind Deja Vu.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The subjective nature of deja vu makes it challenging to measure and quantify.",
+    "retrieved_context": "Deja Vu is subjective experience. Deja Vu refers to current situation. Deja Vu intrigues scientists. Deja Vu is of French origin. scientists delve into consciousness. sleep deprivation is associated with Deja Vu. scientists delve into human brain. fatigue is associated with Deja Vu. current situation is reminiscent of past experience. stress is associated with Deja Vu. Deja Vu intrigues psychologists. Deja Vu refers to sensation. Deja Vu is triggered by past memory. memory-based theory attempts to explain Deja Vu. Deja Vu is phenomenon. Deja Vu intrigues general public. Deja Vu is difficult to study in laboratory setting. dual processing theory suggests Deja Vu. secrets are behind Deja Vu.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Variability in how deja vu is experienced and reported complicates efforts to understand its underlying mechanisms.",
+    "retrieved_context": "Deja Vu is subjective experience. Deja Vu refers to current situation. Deja Vu intrigues scientists. Deja Vu is of French origin. scientists delve into consciousness. sleep deprivation is associated with Deja Vu. scientists delve into human brain. fatigue is associated with Deja Vu. current situation is reminiscent of past experience. stress is associated with Deja Vu. Deja Vu intrigues psychologists. Deja Vu refers to sensation. Deja Vu is triggered by past memory. memory-based theory attempts to explain Deja Vu. Deja Vu is phenomenon. Deja Vu intrigues general public. Deja Vu is difficult to study in laboratory setting. dual processing theory suggests Deja Vu. secrets are behind Deja Vu.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Despite being mysterious, deja vu continues to capture the imagination of researchers and the general public.",
+    "retrieved_context": "Deja Vu is subjective experience. Deja Vu refers to current situation. Deja Vu intrigues scientists. Deja Vu is of French origin. scientists delve into consciousness. sleep deprivation is associated with Deja Vu. scientists delve into human brain. fatigue is associated with Deja Vu. current situation is reminiscent of past experience. stress is associated with Deja Vu. Deja Vu intrigues psychologists. Deja Vu refers to sensation. Deja Vu is triggered by past memory. memory-based theory attempts to explain Deja Vu. Deja Vu is phenomenon. Deja Vu intrigues general public. Deja Vu is difficult to study in laboratory setting. dual processing theory suggests Deja Vu. secrets are behind Deja Vu.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "60.00%"
+  }
+]

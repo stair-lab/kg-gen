@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Time zones shape the way we perceive and organize time across the world.",
+    "retrieved_context": "telegraphs highlighted local time. Daylight Saving Time (DST) make use of natural daylight. Time zones reflect time measurement. Daylight Saving Time (DST) implemented during World War I. Time zones shape time. technology made time. communication made time. Time zones shape world. Daylight Saving Time (DST) conserve energy. local solar time based on sun. Daylight Saving Time (DST) advancing clocks. Eastern is a Time zones. Central is a Time zones. Trains highlighted local time. Pacific is a Time zones. Greenwich Mean Time (GMT) located in London. Mountain is a Time zones. Time zones reflect events. Greenwich Meridian is a Greenwich Meridian.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The concept of time zones evolved over centuries to standardize time measurement.",
+    "retrieved_context": "telegraphs highlighted local time. Time zones shape world. Greenwich Mean Time (GMT) located in London. local solar time based on sun. Daylight Saving Time (DST) conserve energy. Time zones reflect time measurement. Daylight Saving Time (DST) make use of natural daylight. Daylight Saving Time (DST) implemented during World War I. Time zones shape time. Mountain is a Time zones. communication made time. Daylight Saving Time (DST) advancing clocks. Central is a Time zones. Trains highlighted local time. technology made time. Time zones reflect events. Pacific is a Time zones. Eastern is a Time zones.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Time zones synchronize activities across vast distances.",
+    "retrieved_context": "telegraphs highlighted local time. Daylight Saving Time (DST) make use of natural daylight. Time zones reflect time measurement. Daylight Saving Time (DST) implemented during World War I. Time zones shape time. technology made time. communication made time. Time zones shape world. Daylight Saving Time (DST) conserve energy. local solar time based on sun. Daylight Saving Time (DST) advancing clocks. Eastern is a Time zones. British railway companies adopted Railway Time. Central is a Time zones. Trains highlighted local time. Pacific is a Time zones. Greenwich Mean Time (GMT) located in London. Mountain is a Time zones. Time zones reflect events.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The need for time zones arose with the expansion of global trade and transportation networks.",
+    "retrieved_context": "telegraphs highlighted local time. Daylight Saving Time (DST) make use of natural daylight. Time zones reflect time measurement. Daylight Saving Time (DST) implemented during World War I. Time zones shape time. technology made time. communication made time. Time zones shape world. Daylight Saving Time (DST) conserve energy. local solar time based on sun. Daylight Saving Time (DST) advancing clocks. Eastern is a Time zones. British railway companies adopted Railway Time. Central is a Time zones. Trains highlighted local time. Pacific is a Time zones. Greenwich Mean Time (GMT) located in London. Mountain is a Time zones. Time zones reflect events.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Communities used local solar time before standardized time measurement.",
+    "retrieved_context": "telegraphs highlighted local time. Time zones shape world. Daylight Saving Time (DST) conserve energy. local solar time based on sun. Daylight Saving Time (DST) make use of natural daylight. Time zones reflect time measurement. Daylight Saving Time (DST) implemented during World War I. Greenwich Mean Time (GMT) located in London. Time zones shape time. Mountain is a Time zones. communication made time. Daylight Saving Time (DST) advancing clocks. Central is a Time zones. Trains highlighted local time. technology made time. Time zones reflect events. Pacific is a Time zones. Eastern is a Time zones.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Trains and telegraphs highlighted the inefficiencies of using local time across long distances.",
+    "retrieved_context": "telegraphs highlighted local time. Time zones shape world. Daylight Saving Time (DST) conserve energy. local solar time based on sun. British railway companies adopted Railway Time. Time zones reflect time measurement. Daylight Saving Time (DST) make use of natural daylight. Daylight Saving Time (DST) implemented during World War I. Time zones shape time. Mountain is a Time zones. Daylight Saving Time (DST) advancing clocks. Central is a Time zones. Trains highlighted local time. Time zones reflect events. Pacific is a Time zones. Eastern is a Time zones.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The introduction of standard time in the mid-19th century marked a major development in timekeeping.",
+    "retrieved_context": "telegraphs highlighted local time. Time zones shape world. Daylight Saving Time (DST) conserve energy. Daylight Saving Time (DST) make use of natural daylight. British railway companies adopted Railway Time. Time zones reflect time measurement. Daylight Saving Time (DST) implemented during World War I. Greenwich Mean Time (GMT) located in London. Time zones shape time. Mountain is a Time zones. communication made time. Daylight Saving Time (DST) advancing clocks. Central is a Time zones. Trains highlighted local time. technology made time. Time zones reflect events. Pacific is a Time zones. Eastern is a Time zones.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Railway Time was adopted by British railway companies in 1847.",
+    "retrieved_context": "telegraphs highlighted local time. Time zones shape world. Greenwich Mean Time (GMT) located in London. British railway companies adopted Railway Time. Time zones reflect time measurement. Time zones shape time. Mountain is a Time zones. communication made time. Central is a Time zones. Trains highlighted local time. technology made time. Time zones reflect events. Pacific is a Time zones. Eastern is a Time zones.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Sir Sandford Fleming proposed dividing the world into 24 time zones in the late 19th century.",
+    "retrieved_context": "telegraphs highlighted local time. Daylight Saving Time (DST) make use of natural daylight. Time zones reflect time measurement. Daylight Saving Time (DST) implemented during World War I. Time zones shape time. technology made time. communication made time. Time zones shape world. Daylight Saving Time (DST) conserve energy. Daylight Saving Time (DST) advancing clocks. Sir Sandford Fleming is a Canadian engineer. Eastern is a Time zones. Central is a Time zones. Trains highlighted local time. Pacific is a Time zones. Greenwich Mean Time (GMT) located in London. Mountain is a Time zones. Time zones reflect events. Greenwich Meridian is a Greenwich Meridian.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The International Meridian Conference in 1884 agreed to adopt a system of standard time zones based on Greenwich Mean Time.",
+    "retrieved_context": "telegraphs highlighted local time. Greenwich Mean Time (GMT) located in London. Time zones shape world. Daylight Saving Time (DST) conserve energy. Daylight Saving Time (DST) make use of natural daylight. Time zones reflect time measurement. Daylight Saving Time (DST) implemented during World War I. Time zones shape time. Mountain is a Time zones. communication made time. Daylight Saving Time (DST) advancing clocks. Central is a Time zones. Trains highlighted local time. technology made time. Time zones reflect events. Pacific is a Time zones. Greenwich Meridian is a Greenwich Meridian. Eastern is a Time zones.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Greenwich Meridian in London was chosen as the Prime Meridian for coordinating time globally.",
+    "retrieved_context": "telegraphs highlighted local time. Greenwich Mean Time (GMT) located in London. Time zones shape world. Daylight Saving Time (DST) conserve energy. Daylight Saving Time (DST) make use of natural daylight. Time zones reflect time measurement. Daylight Saving Time (DST) implemented during World War I. Time zones shape time. Mountain is a Time zones. communication made time. Daylight Saving Time (DST) advancing clocks. Central is a Time zones. Trains highlighted local time. technology made time. Time zones reflect events. Pacific is a Time zones. Greenwich Meridian is a Greenwich Meridian. Eastern is a Time zones.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The world was divided into 24 time zones, each spanning 15 degrees of longitude.",
+    "retrieved_context": "telegraphs highlighted local time. Daylight Saving Time (DST) make use of natural daylight. Time zones reflect time measurement. Daylight Saving Time (DST) implemented during World War I. Time zones shape time. technology made time. communication made time. Time zones shape world. Daylight Saving Time (DST) conserve energy. local solar time based on sun. Daylight Saving Time (DST) advancing clocks. Eastern is a Time zones. Central is a Time zones. Trains highlighted local time. Pacific is a Time zones. Greenwich Mean Time (GMT) located in London. Mountain is a Time zones. Time zones reflect events. Greenwich Meridian is a Greenwich Meridian.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Daylight Saving Time (DST) was introduced in the early 20th century to extend daylight hours.",
+    "retrieved_context": "telegraphs highlighted local time. Greenwich Mean Time (GMT) located in London. Daylight Saving Time (DST) conserve energy. Daylight Saving Time (DST) make use of natural daylight. Time zones shape world. Time zones reflect time measurement. Daylight Saving Time (DST) implemented during World War I. local solar time based on sun. Time zones shape time. Mountain is a Time zones. communication made time. Daylight Saving Time (DST) advancing clocks. Central is a Time zones. Trains highlighted local time. technology made time. Time zones reflect events. Pacific is a Time zones. Eastern is a Time zones.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "DST was first implemented during World War I to conserve energy.",
+    "retrieved_context": "Pacific is a Time zones. Greenwich Mean Time (GMT) located in London. Daylight Saving Time (DST) conserve energy. Daylight Saving Time (DST) make use of natural daylight. local solar time based on sun. Time zones shape world. Daylight Saving Time (DST) implemented during World War I. Time zones reflect time measurement. Time zones shape time. Mountain is a Time zones. Daylight Saving Time (DST) advancing clocks. Central is a Time zones. technology made time. Time zones reflect events. communication made time. Greenwich Meridian is a Greenwich Meridian. Eastern is a Time zones.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Advances in technology and communication have made coordinating time across different time zones easier.",
+    "retrieved_context": "telegraphs highlighted local time. Daylight Saving Time (DST) make use of natural daylight. Time zones reflect time measurement. Daylight Saving Time (DST) implemented during World War I. Time zones shape time. technology made time. communication made time. Time zones shape world. Daylight Saving Time (DST) conserve energy. local solar time based on sun. Daylight Saving Time (DST) advancing clocks. Eastern is a Time zones. British railway companies adopted Railway Time. Central is a Time zones. Trains highlighted local time. Pacific is a Time zones. Greenwich Mean Time (GMT) located in London. Mountain is a Time zones. Time zones reflect events.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "33.33%"
+  }
+]

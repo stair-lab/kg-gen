@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Social media revolutionized communication in the digital age.",
+    "retrieved_context": "social media impacts self-esteem. social media empowers underrepresented communities. social networking features allow sharing thoughts. social media has revolutionized communication. platforms are Twitter. platforms are Instagram. current events spreads through social networking sites. social media impacts mental health. platforms are Facebook. individuals engage in current events. user-generated content relates to current events. social media can drive change. social media amplifies voices. social networking features allow sharing photos. social media increases visibility. citizen journalism relates to current events. social networking features allow sharing current events. fake news is a result of social media. platforms are Snapchat.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Social media impacted relationships, behaviors, and perceptions.",
+    "retrieved_context": "social media impacts self-esteem. social media empowers underrepresented communities. social networking features allow sharing thoughts. social media has revolutionized communication. platforms are Twitter. platforms are Instagram. individuals engage in social issues. current events spreads through social networking sites. online relationships can be online relationships. social media impacts mental health. platforms are Facebook. individuals engage in current events. user-generated content relates to current events. tool has impacted perceptions. social media can drive change. social media amplifies voices. social networking features allow sharing photos. social media increases visibility. citizen journalism relates to current events. social networking features allow sharing current events. fake news is a result of social media. tool has impacted behaviors. platforms are Snapchat. tool has impacted online relationships.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Social media influenced communication positively and negatively.",
+    "retrieved_context": "social media impacts self-esteem. social media empowers underrepresented communities. social networking features allow sharing thoughts. social media has revolutionized communication. platforms are Twitter. platforms are Instagram. individuals engage in social issues. current events spreads through social networking sites. social media impacts mental health. platforms are Facebook. individuals engage in current events. user-generated content relates to current events. social media can drive change. social media amplifies voices. social networking features allow sharing photos. social media increases visibility. citizen journalism relates to current events. social networking features allow sharing current events. fake news is a result of social media. platforms are Snapchat.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Social media enables connection regardless of physical distance.",
+    "retrieved_context": "social media impacts self-esteem. social media empowers underrepresented communities. social networking features allow sharing thoughts. social media has revolutionized communication. platforms are Twitter. platforms are Instagram. current events spreads through social networking sites. online relationships can be online relationships. social media impacts mental health. platforms are Facebook. individuals engage in current events. user-generated content relates to current events. tool has impacted perceptions. social media can drive change. social media amplifies voices. social networking features allow sharing photos. social media increases visibility. citizen journalism relates to current events. social networking features allow sharing current events. fake news is a result of social media. tool has impacted behaviors. platforms are Snapchat. tool has impacted online relationships.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Platforms like Facebook, Twitter, Instagram, and Snapchat facilitate staying in touch globally.",
+    "retrieved_context": "social media impacts self-esteem. social media empowers underrepresented communities. social networking features allow sharing thoughts. platforms are Twitter. platforms are Instagram. social media has revolutionized communication. current events spreads through social networking sites. social media impacts mental health. platforms are Facebook. individuals engage in current events. user-generated content relates to current events. social media can drive change. social media amplifies voices. social networking features allow sharing photos. social media increases visibility. citizen journalism relates to current events. social networking features allow sharing current events. fake news is a result of social media. platforms are Snapchat.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Social media allows sharing updates, photos, and thoughts in real-time.",
+    "retrieved_context": "social media impacts self-esteem. social media empowers underrepresented communities. social networking features allow sharing thoughts. social media has revolutionized communication. platforms are Twitter. platforms are Instagram. current events spreads through social networking sites. social media impacts mental health. platforms are Facebook. individuals engage in current events. user-generated content relates to current events. social media can drive change. social media amplifies voices. social networking features allow sharing photos. social media increases visibility. citizen journalism relates to current events. social networking features allow sharing current events. fake news is a result of social media. platforms are Snapchat.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "News spreads rapidly through social media via citizen journalism and user-generated content.",
+    "retrieved_context": "citizen journalism relates to current events. current events spreads through social networking sites. social networking features allow sharing current events. social media impacts self-esteem. social media empowers underrepresented communities. social media can drive change. social media amplifies voices. social media impacts mental health. fake news is a result of social media. platforms are Facebook. social media has revolutionized communication. platforms are Snapchat. platforms are Twitter. platforms are Instagram. individuals engage in current events. user-generated content relates to current events. social media increases visibility.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Social media democratizes information and engages individuals in current events.",
+    "retrieved_context": "social media impacts self-esteem. social media empowers underrepresented communities. social networking features allow sharing thoughts. social media has revolutionized communication. platforms are Twitter. platforms are Instagram. current events spreads through social networking sites. social media impacts mental health. platforms are Facebook. individuals engage in current events. user-generated content relates to current events. social media can drive change. social media amplifies voices. social networking features allow sharing photos. social media increases visibility. citizen journalism relates to current events. social networking features allow sharing current events. fake news is a result of social media. platforms are Snapchat.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Twitter provides a platform for marginalized groups to share stories and advocate for change.",
+    "retrieved_context": "social media impacts self-esteem. social media empowers underrepresented communities. social networking features allow sharing thoughts. platforms are Twitter. platforms are Instagram. social media has revolutionized communication. current events spreads through social networking sites. social media impacts mental health. platforms are Facebook. individuals engage in current events. user-generated content relates to current events. social media can drive change. social media amplifies voices. social networking features allow sharing photos. social media increases visibility. citizen journalism relates to current events. social networking features allow sharing current events. fake news is a result of social media. platforms are Snapchat.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Social media amplifies voices and visibility of underrepresented communities.",
+    "retrieved_context": "social media impacts self-esteem. social media empowers underrepresented communities. social networking features allow sharing thoughts. social media has revolutionized communication. platforms are Twitter. platforms are Instagram. current events spreads through social networking sites. social media impacts mental health. platforms are Facebook. individuals engage in current events. user-generated content relates to current events. social media can drive change. social media amplifies voices. social networking features allow sharing photos. social media increases visibility. citizen journalism relates to current events. social networking features allow sharing current events. fake news is a result of social media. platforms are Snapchat.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Misinformation and fake news are challenges on social networking sites.",
+    "retrieved_context": "social media impacts self-esteem. social media empowers underrepresented communities. social networking features allow sharing thoughts. social media has revolutionized communication. platforms are Twitter. platforms are Instagram. current events spreads through social networking sites. social media impacts mental health. platforms are Facebook. individuals engage in current events. user-generated content relates to current events. social media can drive change. social media amplifies voices. social networking features allow sharing photos. social media increases visibility. citizen journalism relates to current events. social networking features allow sharing current events. fake news is a result of social media. platforms are Snapchat.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Social media promotes shallow communication forms like likes and emojis.",
+    "retrieved_context": "social media impacts self-esteem. social media empowers underrepresented communities. social networking features allow sharing thoughts. social media has revolutionized communication. platforms are Twitter. platforms are Instagram. current events spreads through social networking sites. social media impacts mental health. platforms are Facebook. individuals engage in current events. user-generated content relates to current events. social media can drive change. social media amplifies voices. social networking features allow sharing photos. social media increases visibility. citizen journalism relates to current events. social networking features allow sharing current events. fake news is a result of social media. platforms are Snapchat.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Superficial communication on social media can lead to a lack of genuine connections.",
+    "retrieved_context": "social media impacts self-esteem. social media empowers underrepresented communities. social networking features allow sharing thoughts. social media has revolutionized communication. platforms are Twitter. platforms are Instagram. individuals engage in social issues. current events spreads through social networking sites. online relationships can be online relationships. social media impacts mental health. platforms are Facebook. individuals engage in current events. user-generated content relates to current events. tool has impacted perceptions. social media can drive change. social media amplifies voices. social networking features allow sharing photos. social media increases visibility. citizen journalism relates to current events. social networking features allow sharing current events. tool has impacted behaviors. fake news is a result of social media. platforms are Snapchat. tool has impacted online relationships.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Validation through likes and comments can impact mental health and self-esteem.",
+    "retrieved_context": "social media impacts self-esteem. social media empowers underrepresented communities. comments relates to approval. social networking features allow sharing thoughts. social media has revolutionized communication. current events spreads through social networking sites. online relationships can be online relationships. social media impacts mental health. individuals engage in current events. user-generated content relates to current events. tool has impacted perceptions. social media can drive change. social media amplifies voices. social networking features allow sharing photos. social media increases visibility. citizen journalism relates to current events. social networking features allow sharing current events. likes relates to validation. fake news is a result of social media. tool has impacted behaviors. tool has impacted online relationships.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Social media shapes connectivity, information sharing, and interactions in society.",
+    "retrieved_context": "social media impacts self-esteem. social media empowers underrepresented communities. social networking features allow sharing thoughts. social media has revolutionized communication. platforms are Twitter. platforms are Instagram. individuals engage in social issues. current events spreads through social networking sites. online relationships can be online relationships. social media impacts mental health. platforms are Facebook. individuals engage in current events. user-generated content relates to current events. tool has impacted perceptions. social media can drive change. social media amplifies voices. social networking features allow sharing photos. social media increases visibility. citizen journalism relates to current events. social networking features allow sharing current events. fake news is a result of social media. tool has impacted behaviors. platforms are Snapchat. tool has impacted online relationships.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "73.33%"
+  }
+]

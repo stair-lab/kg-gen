@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Sputnik 1 was the first artificial satellite launched by the Soviet Union on October 4, 1957.",
+    "retrieved_context": "space age founded by Sputnik 1. SpaceX launched crewed missions to International Space Station. Sputnik 1 launched Soviet Union. Yuri Gagarin flew aboard Vostok 1. space shuttle program founded by NASA. United States founded by NASA. Sputnik 1 launched October 4, 1957. space shuttle program enabled International Space Station. Vostok 1 launched April 12, 1961. SpaceX plans to send humans to Mars. Elon Musk founded by SpaceX. Yuri Gagarin launched April 12, 1961. Soviet Union launched Yuri Gagarin. SpaceX founded by Elon Musk. United States raced against Soviet Union. Soviet Union became Russia.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The launch of Sputnik 1 marked the beginning of the space age.",
+    "retrieved_context": "Apollo 11 landed on Moon. Buzz Aldrin part of Apollo 11. Sputnik 1 launched Soviet Union. United States founded by NASA. space shuttle program enabled International Space Station. Apollo 11 landing date July 20, 1969. Elon Musk founded by SpaceX. Neil Armstrong part of Apollo 11. Soviet Union became Russia. SpaceX launched crewed missions to International Space Station. space shuttle program founded by NASA. Sputnik 1 launched October 4, 1957. Buzz Aldrin walked on Moon. SpaceX plans to send humans to Mars. space age founded by Sputnik 1. space tourism related to colonizing other planets. Neil Armstrong walked on Moon. SpaceX founded by Elon Musk. colonizing other planets related to space tourism. Soviet Union launched Yuri Gagarin. United States raced against Soviet Union.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The United States and the Soviet Union engaged in a race to explore space after the launch of Sputnik 1.",
+    "retrieved_context": "space age founded by Sputnik 1. SpaceX launched crewed missions to International Space Station. Sputnik 1 launched Soviet Union. colonizing other planets related to space tourism. Yuri Gagarin flew aboard Vostok 1. space shuttle program founded by NASA. United States founded by NASA. Sputnik 1 launched October 4, 1957. space shuttle program enabled International Space Station. space tourism related to colonizing other planets. SpaceX plans to send humans to Mars. Elon Musk founded by SpaceX. Yuri Gagarin launched April 12, 1961. Soviet Union launched Yuri Gagarin. SpaceX founded by Elon Musk. United States raced against Soviet Union. Soviet Union became Russia.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Yuri Gagarin was the first human to travel into space on April 12, 1961.",
+    "retrieved_context": "Apollo 11 landed on Moon. Buzz Aldrin part of Apollo 11. Sputnik 1 launched Soviet Union. United States founded by NASA. space shuttle program enabled International Space Station. Vostok 1 launched April 12, 1961. Apollo 11 landing date July 20, 1969. Elon Musk founded by SpaceX. Neil Armstrong part of Apollo 11. Soviet Union became Russia. SpaceX launched crewed missions to International Space Station. space shuttle program founded by NASA. Sputnik 1 launched October 4, 1957. Buzz Aldrin walked on Moon. SpaceX plans to send humans to Mars. space age founded by Sputnik 1. space tourism related to colonizing other planets. Neil Armstrong walked on Moon. SpaceX founded by Elon Musk. colonizing other planets related to space tourism. Yuri Gagarin flew aboard Vostok 1. Yuri Gagarin launched April 12, 1961. Soviet Union launched Yuri Gagarin. United States raced against Soviet Union.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Yuri Gagarin's flight aboard Vostok 1 was a significant milestone in human history.",
+    "retrieved_context": "Apollo 11 landed on Moon. Buzz Aldrin part of Apollo 11. Sputnik 1 launched Soviet Union. United States founded by NASA. space shuttle program enabled International Space Station. Vostok 1 launched April 12, 1961. Apollo 11 landing date July 20, 1969. Elon Musk founded by SpaceX. Neil Armstrong part of Apollo 11. Soviet Union became Russia. SpaceX launched crewed missions to International Space Station. space shuttle program founded by NASA. Sputnik 1 launched October 4, 1957. Buzz Aldrin walked on Moon. SpaceX plans to send humans to Mars. space age founded by Sputnik 1. space tourism related to colonizing other planets. Neil Armstrong walked on Moon. SpaceX founded by Elon Musk. colonizing other planets related to space tourism. Yuri Gagarin flew aboard Vostok 1. Yuri Gagarin launched April 12, 1961. Soviet Union launched Yuri Gagarin. United States raced against Soviet Union.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "NASA is the National Aeronautics and Space Administration of the United States.",
+    "retrieved_context": "Apollo 11 landed on Moon. Buzz Aldrin part of Apollo 11. Sputnik 1 launched Soviet Union. United States founded by NASA. space shuttle program enabled International Space Station. Apollo 11 landing date July 20, 1969. Elon Musk founded by SpaceX. Neil Armstrong part of Apollo 11. SpaceX launched crewed missions to International Space Station. space shuttle program founded by NASA. Sputnik 1 launched October 4, 1957. Buzz Aldrin walked on Moon. SpaceX plans to send humans to Mars. space age founded by Sputnik 1. space tourism related to colonizing other planets. Neil Armstrong walked on Moon. SpaceX founded by Elon Musk. colonizing other planets related to space tourism. United States raced against Soviet Union.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Apollo 11 landed on the moon on July 20, 1969.",
+    "retrieved_context": "space age founded by Sputnik 1. Apollo 11 landed on Moon. Buzz Aldrin part of Apollo 11. Sputnik 1 launched Soviet Union. Yuri Gagarin flew aboard Vostok 1. space shuttle program founded by NASA. United States founded by NASA. space shuttle program enabled International Space Station. Sputnik 1 launched October 4, 1957. Buzz Aldrin walked on Moon. Apollo 11 landing date July 20, 1969. Vostok 1 launched April 12, 1961. Neil Armstrong walked on Moon. Yuri Gagarin launched April 12, 1961. Soviet Union launched Yuri Gagarin. United States raced against Soviet Union. Neil Armstrong part of Apollo 11.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Neil Armstrong and Buzz Aldrin were the first humans to set foot on the moon during the Apollo 11 mission.",
+    "retrieved_context": "Apollo 11 landed on Moon. Buzz Aldrin part of Apollo 11. colonizing other planets related to space tourism. space shuttle program founded by NASA. United States founded by NASA. space shuttle program enabled International Space Station. space tourism related to colonizing other planets. Buzz Aldrin walked on Moon. Apollo 11 landing date July 20, 1969. Neil Armstrong walked on Moon. United States raced against Soviet Union. Neil Armstrong part of Apollo 11.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The space shuttle program was initiated by NASA in the 1980s.",
+    "retrieved_context": "Challenger disaster occurred in 1986. Apollo 11 landed on Moon. Buzz Aldrin part of Apollo 11. Sputnik 1 launched Soviet Union. United States founded by NASA. space shuttle program enabled International Space Station. Apollo 11 landing date July 20, 1969. Elon Musk founded by SpaceX. Neil Armstrong part of Apollo 11. SpaceX launched crewed missions to International Space Station. space shuttle program founded by NASA. Sputnik 1 launched October 4, 1957. SpaceX plans to send humans to Mars. space age founded by Sputnik 1. Columbia disaster occurred in 2003. space tourism related to colonizing other planets. SpaceX founded by Elon Musk. colonizing other planets related to space tourism. United States raced against Soviet Union.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The space shuttle program provided a reusable spacecraft for multiple missions.",
+    "retrieved_context": "Apollo 11 landed on Moon. Buzz Aldrin part of Apollo 11. Sputnik 1 launched Soviet Union. United States founded by NASA. space shuttle program enabled International Space Station. Apollo 11 landing date July 20, 1969. Elon Musk founded by SpaceX. Neil Armstrong part of Apollo 11. SpaceX launched crewed missions to International Space Station. space shuttle program founded by NASA. Sputnik 1 launched October 4, 1957. Buzz Aldrin walked on Moon. SpaceX plans to send humans to Mars. space age founded by Sputnik 1. space tourism related to colonizing other planets. Neil Armstrong walked on Moon. SpaceX founded by Elon Musk. colonizing other planets related to space tourism. United States raced against Soviet Union.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The International Space Station (ISS) was constructed as a collaborative effort between multiple countries.",
+    "retrieved_context": "space age founded by Sputnik 1. SpaceX launched crewed missions to International Space Station. Sputnik 1 launched Soviet Union. colonizing other planets related to space tourism. space shuttle program founded by NASA. United States founded by NASA. space shuttle program enabled International Space Station. Sputnik 1 launched October 4, 1957. space tourism related to colonizing other planets. Elon Musk founded by SpaceX. SpaceX plans to send humans to Mars. Soviet Union launched Yuri Gagarin. SpaceX founded by Elon Musk. United States raced against Soviet Union. Soviet Union became Russia.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "SpaceX is a private company founded by Elon Musk.",
+    "retrieved_context": "space age founded by Sputnik 1. SpaceX launched crewed missions to International Space Station. Sputnik 1 launched Soviet Union. colonizing other planets related to space tourism. space shuttle program founded by NASA. United States founded by NASA. space shuttle program enabled International Space Station. Sputnik 1 launched October 4, 1957. space tourism related to colonizing other planets. SpaceX plans to send humans to Mars. Elon Musk founded by SpaceX. Soviet Union launched Yuri Gagarin. SpaceX founded by Elon Musk. United States raced against Soviet Union. Soviet Union became Russia.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "SpaceX has successfully launched multiple crewed missions to the ISS.",
+    "retrieved_context": "Apollo 11 landed on Moon. Buzz Aldrin part of Apollo 11. Sputnik 1 launched Soviet Union. United States founded by NASA. space shuttle program enabled International Space Station. Apollo 11 landing date July 20, 1969. Elon Musk founded by SpaceX. Neil Armstrong part of Apollo 11. Soviet Union became Russia. SpaceX launched crewed missions to International Space Station. space shuttle program founded by NASA. Sputnik 1 launched October 4, 1957. Buzz Aldrin walked on Moon. SpaceX plans to send humans to Mars. space age founded by Sputnik 1. space tourism related to colonizing other planets. Neil Armstrong walked on Moon. SpaceX founded by Elon Musk. colonizing other planets related to space tourism. Soviet Union launched Yuri Gagarin. United States raced against Soviet Union.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The space shuttle Challenger disaster occurred in 1986.",
+    "retrieved_context": "Challenger disaster occurred in 1986. Columbia disaster occurred in 2003. SpaceX launched crewed missions to International Space Station. space age founded by Sputnik 1. Sputnik 1 launched Soviet Union. colonizing other planets related to space tourism. space shuttle program founded by NASA. United States founded by NASA. space shuttle program enabled International Space Station. Sputnik 1 launched October 4, 1957. space tourism related to colonizing other planets. United States raced against Soviet Union.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Plans for manned missions to Mars and the establishment of lunar bases are part of the future of human space travel.",
+    "retrieved_context": "Apollo 11 landed on Moon. Buzz Aldrin part of Apollo 11. Sputnik 1 launched Soviet Union. United States founded by NASA. space shuttle program enabled International Space Station. Apollo 11 landing date July 20, 1969. Elon Musk founded by SpaceX. Neil Armstrong part of Apollo 11. SpaceX launched crewed missions to International Space Station. space shuttle program founded by NASA. Sputnik 1 launched October 4, 1957. Buzz Aldrin walked on Moon. SpaceX plans to send humans to Mars. space age founded by Sputnik 1. space tourism related to colonizing other planets. Neil Armstrong walked on Moon. SpaceX founded by Elon Musk. colonizing other planets related to space tourism. United States raced against Soviet Union.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "33.33%"
+  }
+]

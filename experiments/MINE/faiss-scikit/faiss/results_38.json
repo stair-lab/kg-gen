@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Bread is a staple food in many cultures.",
+    "retrieved_context": "dough rises due to carbon dioxide gas. heat increases activity of yeast. oven bakes bread. gluten produces elasticity. flour contains gluten. gluten form gluten. gluten traps carbon dioxide gas. humidity produces crumb. humidity produces crust. kneading produces gluten. oven produces heat. fermentation produces carbon dioxide gas. flour is mixed with water. yeast ferments sugars. fermentation produces alcohol. yeast is a type of fungus.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Baking bread is both an art and a science.",
+    "retrieved_context": "dough rises due to carbon dioxide gas. heat increases activity of yeast. oven bakes bread. gluten produces elasticity. flour contains gluten. gluten form gluten. gluten traps carbon dioxide gas. humidity produces crumb. humidity produces crust. kneading produces gluten. oven produces heat. fermentation produces carbon dioxide gas. flour is mixed with water. yeast ferments sugars. fermentation produces alcohol. yeast is a type of fungus.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Bread is made from flour, water, yeast, and salt.",
+    "retrieved_context": "dough rises due to carbon dioxide gas. heat increases activity of yeast. oven bakes bread. gluten produces elasticity. flour contains gluten. gluten form gluten. gluten traps carbon dioxide gas. humidity produces crumb. humidity produces crust. kneading produces gluten. oven produces heat. fermentation produces carbon dioxide gas. flour is mixed with water. yeast ferments sugars. fermentation produces alcohol. yeast is a type of fungus.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Yeast plays a key role in the fermentation process of bread.",
+    "retrieved_context": "dough rises due to carbon dioxide gas. heat increases activity of yeast. oven bakes bread. Maillard reaction produces flavor compounds. gluten produces elasticity. flour contains gluten. gluten form gluten. flour is mixed with water. gluten traps carbon dioxide gas. Maillard reaction produces flavor. kneading produces gluten. oven produces heat. fermentation produces carbon dioxide gas. Maillard reaction causes Maillard reaction. yeast ferments sugars. fermentation produces alcohol. yeast is a type of fungus.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Yeast feeds on sugars in flour, producing carbon dioxide gas.",
+    "retrieved_context": "dough rises due to carbon dioxide gas. heat increases activity of yeast. gluten produces elasticity. flour contains gluten. oven bakes bread. gluten form gluten. gluten traps carbon dioxide gas. kneading produces gluten. oven produces heat. fermentation produces carbon dioxide gas. flour is mixed with water. yeast ferments sugars. fermentation produces alcohol. yeast is a type of fungus.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Carbon dioxide gas causes the dough to rise.",
+    "retrieved_context": "gluten form gluten. kneading produces gluten. flour is mixed with water. humidity produces crust. dough rises due to carbon dioxide gas. heat increases activity of yeast. gluten produces elasticity. gluten traps carbon dioxide gas. fermentation produces carbon dioxide gas. fermentation produces alcohol. oven bakes bread. Maillard reaction produces flavor. humidity produces crumb. yeast ferments sugars. Maillard reaction produces flavor compounds. flour contains gluten. oven produces heat. Maillard reaction causes Maillard reaction. yeast is a type of fungus.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fermentation process produces alcohol, contributing to bread flavor.",
+    "retrieved_context": "dough rises due to carbon dioxide gas. heat increases activity of yeast. oven bakes bread. Maillard reaction produces flavor compounds. gluten traps carbon dioxide gas. Maillard reaction produces flavor. oven produces heat. fermentation produces carbon dioxide gas. Maillard reaction causes Maillard reaction. yeast ferments sugars. fermentation produces alcohol. yeast is a type of fungus.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Longer fermentation time leads to more complex flavor in bread.",
+    "retrieved_context": "dough rises due to carbon dioxide gas. heat increases activity of yeast. oven bakes bread. Maillard reaction produces flavor compounds. gluten traps carbon dioxide gas. Maillard reaction produces flavor. oven produces heat. fermentation produces carbon dioxide gas. Maillard reaction causes Maillard reaction. yeast ferments sugars. fermentation produces alcohol. yeast is a type of fungus.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Flour contains proteins called gluten, giving bread structure.",
+    "retrieved_context": "dough rises due to carbon dioxide gas. heat increases activity of yeast. gluten produces elasticity. flour contains gluten. oven bakes bread. gluten form gluten. gluten traps carbon dioxide gas. kneading produces gluten. oven produces heat. fermentation produces carbon dioxide gas. flour is mixed with water. yeast ferments sugars. yeast is a type of fungus.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Gluten network traps carbon dioxide gas, allowing dough to rise.",
+    "retrieved_context": "dough rises due to carbon dioxide gas. heat increases activity of yeast. gluten produces elasticity. flour contains gluten. oven bakes bread. gluten form gluten. Maillard reaction produces flavor compounds. gluten traps carbon dioxide gas. Maillard reaction produces flavor. kneading produces gluten. oven produces heat. Maillard reaction causes Maillard reaction. fermentation produces carbon dioxide gas. flour is mixed with water. yeast ferments sugars. fermentation produces alcohol. yeast is a type of fungus.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Kneading strengthens gluten strands, giving bread structure.",
+    "retrieved_context": "dough rises due to carbon dioxide gas. heat increases activity of yeast. gluten produces elasticity. flour contains gluten. oven bakes bread. gluten form gluten. gluten traps carbon dioxide gas. kneading produces gluten. oven produces heat. fermentation produces carbon dioxide gas. flour is mixed with water. yeast ferments sugars. yeast is a type of fungus.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Proper kneading is crucial for bread to rise properly.",
+    "retrieved_context": "dough rises due to carbon dioxide gas. heat increases activity of yeast. oven bakes bread. flour contains gluten. gluten produces elasticity. gluten form gluten. gluten traps carbon dioxide gas. humidity produces crumb. humidity produces crust. kneading produces gluten. oven produces heat. fermentation produces carbon dioxide gas. flour is mixed with water. yeast ferments sugars. fermentation produces alcohol. yeast is a type of fungus.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Baking bread involves the interaction of heat with dough ingredients.",
+    "retrieved_context": "dough rises due to carbon dioxide gas. heat increases activity of yeast. oven bakes bread. Maillard reaction produces flavor compounds. gluten produces elasticity. flour contains gluten. gluten form gluten. flour is mixed with water. gluten traps carbon dioxide gas. Maillard reaction produces flavor. kneading produces gluten. oven produces heat. fermentation produces carbon dioxide gas. Maillard reaction causes Maillard reaction. yeast ferments sugars. fermentation produces alcohol. yeast is a type of fungus.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Heat in the oven causes yeast to become more active.",
+    "retrieved_context": "dough rises due to carbon dioxide gas. heat increases activity of yeast. oven bakes bread. Maillard reaction produces flavor compounds. gluten traps carbon dioxide gas. Maillard reaction produces flavor. oven produces heat. fermentation produces carbon dioxide gas. Maillard reaction causes Maillard reaction. yeast ferments sugars. fermentation produces alcohol. yeast is a type of fungus.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Maillard reaction is responsible for browning the crust.",
+    "retrieved_context": "dough rises due to carbon dioxide gas. heat increases activity of yeast. Maillard reaction produces flavor compounds. oven bakes bread. gluten produces elasticity. flour contains gluten. gluten form gluten. flour is mixed with water. gluten traps carbon dioxide gas. Maillard reaction produces flavor. kneading produces gluten. oven produces heat. fermentation produces carbon dioxide gas. Maillard reaction causes Maillard reaction. humidity produces crumb. fermentation produces alcohol. humidity produces crust.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "46.67%"
+  }
+]

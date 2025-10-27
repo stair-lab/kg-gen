@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Typography is the art of arranging type to make written language readable and appealing.",
+    "retrieved_context": "Johannes Gutenberg invented printing press. fonts plays a role in marketing. fonts makes written language appealing. fonts makes written language readable. Claude Garamond created fonts. fonts plays a role in communication. fonts plays a role in branding. printing press allowed for the mass production of books. Giambattista Bodoni created fonts. printing press allowed for the mass production of printed materials. Egyptians used hieroglyphics. fonts is the art and technique of arranging type.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Typography has a rich and fascinating history that dates back centuries.",
+    "retrieved_context": "Johannes Gutenberg invented printing press. fonts plays a role in marketing. fonts makes written language appealing. fonts makes written language readable. Claude Garamond created fonts. fonts plays a role in communication. fonts plays a role in branding. printing press allowed for the mass production of books. Giambattista Bodoni created fonts. printing press allowed for the mass production of printed materials. Egyptians used hieroglyphics. fonts is the art and technique of arranging type.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Typography played a crucial role in shaping the way we communicate and consume information.",
+    "retrieved_context": "fonts plays a role in marketing. fonts makes written language appealing. fonts makes written language readable. Claude Garamond created fonts. fonts plays a role in communication. fonts plays a role in branding. Giambattista Bodoni created fonts. fonts is the art and technique of arranging type.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The origins of typography can be traced back to ancient civilizations like the Egyptians.",
+    "retrieved_context": "Johannes Gutenberg invented printing press. fonts plays a role in marketing. fonts makes written language appealing. fonts makes written language readable. Claude Garamond created fonts. fonts plays a role in communication. fonts plays a role in branding. printing press allowed for the mass production of books. Giambattista Bodoni created fonts. printing press allowed for the mass production of printed materials. Egyptians used hieroglyphics. fonts is the art and technique of arranging type.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Egyptians used hieroglyphics for written communication.",
+    "retrieved_context": "Johannes Gutenberg invented printing press. fonts plays a role in marketing. fonts makes written language appealing. fonts makes written language readable. Claude Garamond created fonts. fonts plays a role in communication. fonts plays a role in branding. printing press allowed for the mass production of books. Giambattista Bodoni created fonts. printing press allowed for the mass production of printed materials. Egyptians used hieroglyphics. fonts is the art and technique of arranging type.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The development of writing systems led to the creation of various scripts and typefaces.",
+    "retrieved_context": "Johannes Gutenberg invented printing press. fonts plays a role in marketing. fonts makes written language appealing. fonts makes written language readable. Claude Garamond created fonts. fonts plays a role in communication. fonts plays a role in branding. printing press allowed for the mass production of books. Giambattista Bodoni created fonts. printing press allowed for the mass production of printed materials. Egyptians used hieroglyphics. fonts is the art and technique of arranging type.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Johannes Gutenberg invented the printing press in the 15th century.",
+    "retrieved_context": "printing press allowed for the mass production of printed materials. printing press allowed for the mass production of books. Johannes Gutenberg invented printing press.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The printing press allowed for the mass production of books and printed materials.",
+    "retrieved_context": "printing press allowed for the mass production of printed materials. printing press allowed for the mass production of books. Johannes Gutenberg invented printing press.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The printing press made information more accessible to a wider audience.",
+    "retrieved_context": "Giambattista Bodoni created fonts. fonts plays a role in marketing. fonts makes written language readable. fonts makes written language appealing. Claude Garamond created fonts. fonts plays a role in communication. fonts plays a role in branding. printing press allowed for the mass production of books. Johannes Gutenberg invented printing press. printing press allowed for the mass production of printed materials. fonts is the art and technique of arranging type.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Designers began to experiment with different fonts, sizes, and layouts for printed materials.",
+    "retrieved_context": "Giambattista Bodoni created fonts. fonts plays a role in marketing. fonts makes written language readable. fonts makes written language appealing. Neville Brody is a designer. Claude Garamond created fonts. fonts plays a role in communication. fonts plays a role in branding. Jan Tschichold is a designer. printing press allowed for the mass production of books. Johannes Gutenberg invented printing press. Paul Rand is a designer. printing press allowed for the mass production of printed materials. fonts is the art and technique of arranging type.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Claude Garamond and Giambattista Bodoni created iconic typefaces during the Renaissance period.",
+    "retrieved_context": "Johannes Gutenberg invented printing press. fonts plays a role in marketing. fonts makes written language appealing. fonts makes written language readable. Neville Brody is a designer. Claude Garamond created fonts. fonts plays a role in communication. fonts plays a role in branding. Jan Tschichold is a designer. printing press allowed for the mass production of books. Giambattista Bodoni created fonts. Paul Rand is a designer. printing press allowed for the mass production of printed materials. Egyptians used hieroglyphics. fonts is the art and technique of arranging type.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Typography evolved with an emphasis on aesthetics, readability, and functionality.",
+    "retrieved_context": "fonts plays a role in marketing. fonts makes written language appealing. fonts makes written language readable. Claude Garamond created fonts. fonts plays a role in communication. fonts plays a role in branding. Giambattista Bodoni created fonts. Egyptians used hieroglyphics. fonts is the art and technique of arranging type.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Industrial Revolution brought advancements in typography and new printing technologies.",
+    "retrieved_context": "Giambattista Bodoni created fonts. fonts plays a role in marketing. fonts makes written language readable. fonts makes written language appealing. Claude Garamond created fonts. fonts plays a role in communication. fonts plays a role in branding. printing press allowed for the mass production of books. Johannes Gutenberg invented printing press. printing press allowed for the mass production of printed materials. fonts is the art and technique of arranging type.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Designers explored new ways of using type to convey messages and evoke emotions.",
+    "retrieved_context": "fonts plays a role in marketing. fonts makes written language appealing. fonts makes written language readable. Neville Brody is a designer. Claude Garamond created fonts. fonts plays a role in communication. fonts plays a role in branding. Jan Tschichold is a designer. Paul Rand is a designer. Giambattista Bodoni created fonts. fonts is the art and technique of arranging type.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Typography plays a crucial role in branding, marketing, and communication today.",
+    "retrieved_context": "fonts plays a role in marketing. fonts makes written language appealing. fonts makes written language readable. Claude Garamond created fonts. fonts plays a role in communication. fonts plays a role in branding. Giambattista Bodoni created fonts. fonts is the art and technique of arranging type.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "66.67%"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Body language is a form of communication.",
+    "retrieved_context": "Facial expressions is part of nonverbal cues. Posture is part of nonverbal cues. nonverbal cues is used by individuals. Frowns are facial expressions. Posture can reveal thoughts. Nonverbal cues affect social interactions. Posture can reveal feelings. Touching is a romantic body language. nonverbal cues is a form of communication. Smiles are facial expressions. Romantic body language can signal intimacy. nonverbal cues can convey feelings. Gestures can convey messages without words. Romantic body language can signal attraction. nonverbal cues can convey intentions. Gazing is a romantic body language. Raised eyebrows are facial expressions. Mirroring gestures is a romantic body language. nonverbal cues is used by social interactions. nonverbal cues can help to resolve conflicts. nonverbal cues can be romantic body language. nonverbal cues is used by professional settings. Gestures is part of nonverbal cues. Nonverbal cues affect relationships. nonverbal cues can enhance communication skills.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Individuals use body language daily.",
+    "retrieved_context": "Facial expressions is part of nonverbal cues. Posture is part of nonverbal cues. nonverbal cues is used by individuals. Posture can reveal thoughts. Nonverbal cues affect social interactions. Posture can reveal feelings. Touching is a romantic body language. nonverbal cues is a form of communication. Romantic body language can signal intimacy. nonverbal cues can convey feelings. Gestures can convey messages without words. Romantic body language can signal attraction. nonverbal cues can convey intentions. Gazing is a romantic body language. Mirroring gestures is a romantic body language. nonverbal cues is used by social interactions. nonverbal cues can help to resolve conflicts. nonverbal cues can be romantic body language. nonverbal cues is used by professional settings. Gestures is part of nonverbal cues. Proxemics can convey personal cues. Nonverbal cues affect relationships. nonverbal cues can enhance communication skills. Proxemics can convey cultural cues.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Facial expressions convey emotions.",
+    "retrieved_context": "Facial expressions is part of nonverbal cues. Posture is part of nonverbal cues. nonverbal cues is used by individuals. Smile is associated with friendliness. Frowns are facial expressions. Smile is associated with happiness. Posture can reveal thoughts. Nonverbal cues affect social interactions. Posture can reveal feelings. nonverbal cues is a form of communication. Smiles are facial expressions. Touching is a romantic body language. Romantic body language can signal intimacy. nonverbal cues can convey feelings. Gestures can convey messages without words. Romantic body language can signal attraction. Gazing is a romantic body language. nonverbal cues can convey intentions. Raised eyebrows are facial expressions. Mirroring gestures is a romantic body language. nonverbal cues is used by social interactions. nonverbal cues can help to resolve conflicts. nonverbal cues can be romantic body language. nonverbal cues is used by professional settings. Gestures is part of nonverbal cues. Proxemics can convey personal cues. Nonverbal cues affect relationships. nonverbal cues can enhance communication skills. Proxemics can convey cultural cues.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Smiling is associated with happiness.",
+    "retrieved_context": "Facial expressions is part of nonverbal cues. Posture is part of nonverbal cues. nonverbal cues is used by individuals. Smile is associated with friendliness. Frowns are facial expressions. Smile is associated with happiness. Posture can reveal thoughts. Posture can reveal feelings. nonverbal cues is a form of communication. Smiles are facial expressions. Romantic body language can signal intimacy. nonverbal cues can convey feelings. Romantic body language can signal attraction. nonverbal cues can convey intentions. Raised eyebrows are facial expressions. nonverbal cues is used by social interactions. nonverbal cues can help to resolve conflicts. nonverbal cues can be romantic body language. nonverbal cues is used by professional settings. Gestures is part of nonverbal cues. nonverbal cues can enhance communication skills.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Furrowed brow may indicate confusion.",
+    "retrieved_context": "Raised eyebrows are facial expressions. Smiles are facial expressions. Furrowed brow may indicate concern. Furrowed brow may indicate confusion. Nodding can indicate thumbs up. Nodding can indicate understanding. Frowns are facial expressions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Gestures convey messages without words.",
+    "retrieved_context": "Facial expressions is part of nonverbal cues. Posture is part of nonverbal cues. nonverbal cues is used by individuals. Posture can reveal thoughts. Nonverbal cues affect social interactions. Posture can reveal feelings. nonverbal cues is a form of communication. Touching is a romantic body language. nonverbal cues can convey feelings. Gestures can convey messages without words. Thumbs up is a gesture. Gazing is a romantic body language. nonverbal cues can convey intentions. Mirroring gestures is a romantic body language. nonverbal cues is used by social interactions. nonverbal cues can help to resolve conflicts. Gestures is part of nonverbal cues. nonverbal cues is used by professional settings. nonverbal cues can be romantic body language. Nonverbal cues affect relationships. nonverbal cues can enhance communication skills.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Crossing arms may signal defensiveness.",
+    "retrieved_context": "Facial expressions is part of nonverbal cues. Posture is part of nonverbal cues. nonverbal cues is used by individuals. nonverbal cues is a form of communication. Touching is a romantic body language. nonverbal cues can convey feelings. Gazing is a romantic body language. nonverbal cues can convey intentions. Mirroring gestures is a romantic body language. Arms can signal discomfort. nonverbal cues is used by social interactions. nonverbal cues can help to resolve conflicts. nonverbal cues can be romantic body language. nonverbal cues is used by professional settings. Gestures is part of nonverbal cues. Arms can signal defensiveness. Proxemics can convey personal cues. nonverbal cues can enhance communication skills. Proxemics can convey cultural cues.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Nodding can indicate agreement.",
+    "retrieved_context": "Facial expressions is part of nonverbal cues. Posture is part of nonverbal cues. nonverbal cues is used by individuals. Nodding can indicate thumbs up. Posture can reveal thoughts. Nonverbal cues affect social interactions. Posture can reveal feelings. nonverbal cues is a form of communication. Touching is a romantic body language. Nodding can indicate understanding. Romantic body language can signal intimacy. nonverbal cues can convey feelings. Gestures can convey messages without words. Romantic body language can signal attraction. Gazing is a romantic body language. nonverbal cues can convey intentions. Mirroring gestures is a romantic body language. nonverbal cues is used by social interactions. nonverbal cues can help to resolve conflicts. nonverbal cues can be romantic body language. nonverbal cues is used by professional settings. Gestures is part of nonverbal cues. Furrowed brow may indicate concern. Furrowed brow may indicate confusion. Proxemics can convey personal cues. Nonverbal cues affect relationships. nonverbal cues can enhance communication skills. Proxemics can convey cultural cues.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Posture reveals thoughts and feelings.",
+    "retrieved_context": "Facial expressions is part of nonverbal cues. Posture is part of nonverbal cues. nonverbal cues is used by individuals. Frowns are facial expressions. Slouching may indicate disinterest. Posture can reveal thoughts. Posture can reveal feelings. nonverbal cues is a form of communication. Smiles are facial expressions. Touching is a romantic body language. Shoulders relate to posture. Romantic body language can signal intimacy. nonverbal cues can convey feelings. Romantic body language can signal attraction. nonverbal cues can convey intentions. Gazing is a romantic body language. Raised eyebrows are facial expressions. Mirroring gestures is a romantic body language. nonverbal cues is used by social interactions. nonverbal cues can help to resolve conflicts. nonverbal cues can be romantic body language. nonverbal cues is used by professional settings. Gestures is part of nonverbal cues. Slouching may indicate insecurity. Proxemics can convey personal cues. nonverbal cues can enhance communication skills. Proxemics can convey cultural cues.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Standing up straight signals confidence.",
+    "retrieved_context": "Facial expressions is part of nonverbal cues. Posture is part of nonverbal cues. nonverbal cues is used by individuals. Posture can reveal thoughts. Nonverbal cues affect social interactions. Posture can reveal feelings. nonverbal cues is a form of communication. Touching is a romantic body language. Shoulders relate to posture. Standing up straight is associated with assertiveness. nonverbal cues can convey feelings. Gestures can convey messages without words. Gazing is a romantic body language. nonverbal cues can convey intentions. Mirroring gestures is a romantic body language. nonverbal cues is used by social interactions. Standing up straight is associated with confidence. nonverbal cues can help to resolve conflicts. nonverbal cues can be romantic body language. nonverbal cues is used by professional settings. Gestures is part of nonverbal cues. Proxemics can convey personal cues. Nonverbal cues affect relationships. nonverbal cues can enhance communication skills. Proxemics can convey cultural cues.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Slouching may suggest insecurity.",
+    "retrieved_context": "Facial expressions is part of nonverbal cues. Posture is part of nonverbal cues. nonverbal cues is used by individuals. Smile is associated with friendliness. Slouching may indicate disinterest. Smile is associated with happiness. Touching is a romantic body language. nonverbal cues is a form of communication. Romantic body language can signal intimacy. Standing up straight is associated with assertiveness. nonverbal cues can convey feelings. Romantic body language can signal attraction. nonverbal cues can convey intentions. Gazing is a romantic body language. Avoiding eye contact may indicate dishonesty. Mirroring gestures is a romantic body language. nonverbal cues is used by social interactions. Standing up straight is associated with confidence. nonverbal cues can help to resolve conflicts. nonverbal cues can be romantic body language. nonverbal cues is used by professional settings. Gestures is part of nonverbal cues. Slouching may indicate insecurity. nonverbal cues can enhance communication skills.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Maintaining eye contact signals attentiveness.",
+    "retrieved_context": "Facial expressions is part of nonverbal cues. Posture is part of nonverbal cues. nonverbal cues is used by individuals. Eye contact can signal engagement. Touching is a romantic body language. nonverbal cues is a form of communication. nonverbal cues can convey feelings. Gazing is a romantic body language. nonverbal cues can convey intentions. Eye contact can signal attentiveness. Avoiding eye contact may indicate dishonesty. Mirroring gestures is a romantic body language. nonverbal cues is used by social interactions. nonverbal cues can help to resolve conflicts. nonverbal cues can be romantic body language. nonverbal cues is used by professional settings. Gestures is part of nonverbal cues. Proxemics can convey personal cues. nonverbal cues can enhance communication skills. Proxemics can convey cultural cues.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Avoiding eye contact may suggest discomfort.",
+    "retrieved_context": "Eye contact can signal attentiveness. Avoiding eye contact may indicate dishonesty. Mirroring gestures is a romantic body language. Arms can signal discomfort. Touching is a romantic body language. nonverbal cues can be romantic body language. Furrowed brow may indicate concern. Furrowed brow may indicate confusion. Eye contact can signal engagement. Arms can signal defensiveness. Gazing is a romantic body language.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Proxemics conveys cultural and personal cues.",
+    "retrieved_context": "Facial expressions is part of nonverbal cues. Posture is part of nonverbal cues. nonverbal cues is used by individuals. Posture can reveal thoughts. Nonverbal cues affect social interactions. Posture can reveal feelings. nonverbal cues is a form of communication. Touching is a romantic body language. Romantic body language can signal intimacy. nonverbal cues can convey feelings. Gestures can convey messages without words. Romantic body language can signal attraction. Gazing is a romantic body language. nonverbal cues can convey intentions. Distance is a proxemics. Mirroring gestures is a romantic body language. nonverbal cues is used by social interactions. nonverbal cues can help to resolve conflicts. nonverbal cues can be romantic body language. nonverbal cues is used by professional settings. Gestures is part of nonverbal cues. Proxemics can convey personal cues. Nonverbal cues affect relationships. nonverbal cues can enhance communication skills. Proxemics can convey cultural cues.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Body language can help navigate social situations.",
+    "retrieved_context": "Facial expressions is part of nonverbal cues. Posture is part of nonverbal cues. nonverbal cues is used by individuals. Posture can reveal thoughts. Nonverbal cues affect social interactions. Posture can reveal feelings. Touching is a romantic body language. nonverbal cues is a form of communication. Romantic body language can signal intimacy. nonverbal cues can convey feelings. Gestures can convey messages without words. Romantic body language can signal attraction. nonverbal cues can convey intentions. Gazing is a romantic body language. Mirroring gestures is a romantic body language. nonverbal cues is used by social interactions. nonverbal cues can help to resolve conflicts. nonverbal cues can be romantic body language. nonverbal cues is used by professional settings. Gestures is part of nonverbal cues. Proxemics can convey personal cues. Nonverbal cues affect relationships. nonverbal cues can enhance communication skills. Proxemics can convey cultural cues.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

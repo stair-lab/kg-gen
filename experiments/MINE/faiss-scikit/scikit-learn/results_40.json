@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "A zombie apocalypse is a terrifying scenario.",
+    "retrieved_context": "deep breathing exercises is a type of coping mechanisms. adaptability is key to chances of survival. safety prioritize above all else when dealing with zombies. zombies keep out of safe location. zombie outbreak captured the imagination of people. shelter is a type of safe location. meditation is a type of coping mechanisms. headshots are effective against zombies. mental resilience is for surviving a zombie apocalypse. knowledge is power when dealing with zombies. preparation is key to surviving a zombie apocalypse. brain destroying is way to neutralize zombies. teamwork is for survival. quick decisions make with adaptability. coping mechanisms deal with fear. joy is activity that helps with coping mechanisms. coping mechanisms deal with stress. obstacles overcome with adaptability. unfamiliar tasks take on with adaptability. behaviors of zombies are characteristics. zombie outbreak may seem like pure fiction.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "A zombie outbreak is often portrayed in movies, TV shows, and literature.",
+    "retrieved_context": "headshots are effective against zombies. mental resilience is for surviving a zombie apocalypse. teamwork is for survival. knowledge is power when dealing with zombies. safety prioritize above all else when dealing with zombies. preparation is key to surviving a zombie apocalypse. zombies keep out of safe location. behaviors of zombies are characteristics. zombie outbreak captured the imagination of people. brain destroying is way to neutralize zombies. zombie outbreak may seem like pure fiction. shelter is a type of safe location.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Preparation is key to surviving a zombie apocalypse.",
+    "retrieved_context": "multi-tool is a type of survival kit. headshots are effective against zombies. mental resilience is for surviving a zombie apocalypse. teamwork is for survival. knowledge is power when dealing with zombies. first aid kit is a type of survival kit. safety prioritize above all else when dealing with zombies. preparation is key to surviving a zombie apocalypse. zombies keep out of safe location. behaviors of zombies are characteristics. batteries is a type of survival kit. zombie outbreak captured the imagination of people. flashlight is a type of survival kit. brain destroying is way to neutralize zombies. zombie outbreak may seem like pure fiction. shelter is a type of safe location.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Stocking up on essential supplies like food, water, medical supplies, and weapons is crucial.",
+    "retrieved_context": "multi-tool is a type of survival kit. first aid kit is a type of survival kit. responsibilities are assigned to member of the group. food is a type of essential supplies. flashlight is a type of survival kit. weapons is a type of essential supplies. non-perishable food is a type of lifesaver. clean water is a type of lifesaver. batteries is a type of survival kit. water is a type of essential supplies. roles are assigned to member of the group. medical supplies is a type of essential supplies.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Having a well-equipped survival kit is important.",
+    "retrieved_context": "adaptability is key to chances of survival. safety prioritize above all else when dealing with zombies. zombies keep out of safe location. batteries is a type of survival kit. medical supplies is a type of essential supplies. multi-tool is a type of survival kit. headshots are effective against zombies. mental resilience is for surviving a zombie apocalypse. knowledge is power when dealing with zombies. weapons is a type of essential supplies. preparation is key to surviving a zombie apocalypse. teamwork is for survival. quick decisions make with adaptability. water is a type of essential supplies. flashlight is a type of survival kit. first aid kit is a type of survival kit. food is a type of essential supplies. obstacles overcome with adaptability. unfamiliar tasks take on with adaptability.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "A reliable source of clean water and non-perishable food is essential.",
+    "retrieved_context": "adequate rest is for body. clean water is a type of lifesaver. water is a type of essential supplies. weapons is a type of essential supplies. non-perishable food is a type of lifesaver. regular exercise is for body. food is a type of essential supplies. contaminated food is a type of risky behavior. contaminated water is a type of risky behavior. proper nutrition is for body. medical supplies is a type of essential supplies.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Identifying a safe location for shelter is important.",
+    "retrieved_context": "multi-tool is a type of survival kit. headshots are effective against zombies. teamwork is for survival. mental resilience is for surviving a zombie apocalypse. knowledge is power when dealing with zombies. communication is key to good health. first aid kit is a type of survival kit. safety prioritize above all else when dealing with zombies. cooperation is key to good health. escape plan is for compromised location. zombies keep out of safe location. preparation is key to surviving a zombie apocalypse. batteries is a type of survival kit. good health is a type of good health. risky behaviors jeopardize good health. flashlight is a type of survival kit. shelter is a type of safe location.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fortifying the safe location to keep zombies out is crucial.",
+    "retrieved_context": "headshots are effective against zombies. mental resilience is for surviving a zombie apocalypse. knowledge is power when dealing with zombies. safety prioritize above all else when dealing with zombies. preparation is key to surviving a zombie apocalypse. zombies keep out of safe location. behaviors of zombies are characteristics. zombie outbreak captured the imagination of people. brain destroying is way to neutralize zombies. zombie outbreak may seem like pure fiction. shelter is a type of safe location.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Teamwork is essential for survival in a zombie apocalypse.",
+    "retrieved_context": "teamwork is for survival. mental resilience is for surviving a zombie apocalypse. headshots are effective against zombies. knowledge is power when dealing with zombies. communication is key to good health. safety prioritize above all else when dealing with zombies. cooperation is key to good health. preparation is key to surviving a zombie apocalypse. zombies keep out of safe location. behaviors of zombies are characteristics. good health is a type of good health. risky behaviors jeopardize good health. zombie outbreak captured the imagination of people. brain destroying is way to neutralize zombies. zombie outbreak may seem like pure fiction. shelter is a type of safe location.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Assigning roles and responsibilities based on skills and abilities is important for group survival.",
+    "retrieved_context": "multi-tool is a type of survival kit. teamwork is for survival. responsibilities are assigned to member of the group. first aid kit is a type of survival kit. communication system is with group. batteries is a type of survival kit. trustworthy individuals is a type of group. flashlight is a type of survival kit. roles are assigned to member of the group.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Knowledge about zombies' characteristics and behaviors is crucial.",
+    "retrieved_context": "headshots are effective against zombies. mental resilience is for surviving a zombie apocalypse. knowledge is power when dealing with zombies. communication is key to good health. safety prioritize above all else when dealing with zombies. cooperation is key to good health. preparation is key to surviving a zombie apocalypse. zombies keep out of safe location. behaviors of zombies are characteristics. good health is a type of good health. risky behaviors jeopardize good health. zombie outbreak captured the imagination of people. brain destroying is way to neutralize zombies. zombie outbreak may seem like pure fiction. shelter is a type of safe location.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Aiming for headshots when attacking zombies is effective.",
+    "retrieved_context": "headshots are effective against zombies. mental resilience is for surviving a zombie apocalypse. knowledge is power when dealing with zombies. safety prioritize above all else when dealing with zombies. food is a type of essential supplies. weapons is a type of essential supplies. preparation is key to surviving a zombie apocalypse. zombies keep out of safe location. behaviors of zombies are characteristics. medical supplies is a type of essential supplies. zombie outbreak captured the imagination of people. water is a type of essential supplies. brain destroying is way to neutralize zombies. zombie outbreak may seem like pure fiction. shelter is a type of safe location.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Staying physically fit and maintaining good health is crucial.",
+    "retrieved_context": "meditation is a type of coping mechanisms. teamwork is for survival. adequate rest is for body. communication is key to good health. deep breathing exercises is a type of coping mechanisms. coping mechanisms deal with stress. cooperation is key to good health. regular exercise is for body. good health is a type of good health. risky behaviors jeopardize good health. coping mechanisms deal with fear. proper nutrition is for body. joy is activity that helps with coping mechanisms.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Mental resilience is important for surviving a zombie apocalypse.",
+    "retrieved_context": "meditation is a type of coping mechanisms. headshots are effective against zombies. mental resilience is for surviving a zombie apocalypse. teamwork is for survival. knowledge is power when dealing with zombies. deep breathing exercises is a type of coping mechanisms. coping mechanisms deal with stress. joy is activity that helps with coping mechanisms. safety prioritize above all else when dealing with zombies. preparation is key to surviving a zombie apocalypse. zombies keep out of safe location. behaviors of zombies are characteristics. coping mechanisms deal with fear. zombie outbreak captured the imagination of people. brain destroying is way to neutralize zombies. zombie outbreak may seem like pure fiction. shelter is a type of safe location.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Adaptability is key to increasing chances of survival during a zombie apocalypse.",
+    "retrieved_context": "headshots are effective against zombies. mental resilience is for surviving a zombie apocalypse. teamwork is for survival. knowledge is power when dealing with zombies. adaptability is key to chances of survival. safety prioritize above all else when dealing with zombies. quick decisions make with adaptability. obstacles overcome with adaptability. preparation is key to surviving a zombie apocalypse. unfamiliar tasks take on with adaptability. behaviors of zombies are characteristics. zombies keep out of safe location. zombie outbreak captured the imagination of people. brain destroying is way to neutralize zombies. zombie outbreak may seem like pure fiction. shelter is a type of safe location.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "93.33%"
+  }
+]

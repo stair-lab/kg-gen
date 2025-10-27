@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Bread is a staple food in many cultures.",
+    "retrieved_context": "water is ingredients. yeast contributes to fermentation. salt is ingredients. Bread is food. gluten contributes to elasticity. sugars react in Maillard reaction. flour is ingredients. proteins react in Maillard reaction. fermentation contributes to texture. Maillard reaction contributes to flavor. gluten contributes to texture. fermentation contributes to flavor. flour is made up of proteins. yeast is ingredients. yeast feeds on sugars. gluten ensures crumb structure. gluten is in flour. gluten contributes to structure. alcohol contributes to flavor. Bread is art. Bread is science. kneading process contributes to gluten. fermentation produces alcohol. yeast produces carbon dioxide gas.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Baking bread is both an art and a science.",
+    "retrieved_context": "water is ingredients. yeast contributes to fermentation. salt is ingredients. Bread is food. gluten contributes to elasticity. sugars react in Maillard reaction. flour is ingredients. proteins react in Maillard reaction. fermentation contributes to texture. Maillard reaction contributes to flavor. gluten contributes to texture. fermentation contributes to flavor. flour is made up of proteins. yeast is ingredients. yeast feeds on sugars. gluten ensures crumb structure. gluten is in flour. gluten contributes to structure. Maillard reaction contributes to crust. humidity helps to create crust. humidity helps to create interior. alcohol contributes to flavor. oven has temperature. Bread is art. oven has humidity. Bread is science. kneading process contributes to gluten. fermentation produces alcohol. yeast produces carbon dioxide gas.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Bread is made from flour, water, yeast, and salt.",
+    "retrieved_context": "water is ingredients. yeast contributes to fermentation. salt is ingredients. Bread is food. gluten contributes to elasticity. sugars react in Maillard reaction. flour is ingredients. proteins react in Maillard reaction. fermentation contributes to texture. Maillard reaction contributes to flavor. gluten contributes to texture. fermentation contributes to flavor. flour is made up of proteins. yeast is ingredients. gluten ensures crumb structure. gluten is in flour. gluten contributes to structure. yeast feeds on sugars. Maillard reaction contributes to crust. humidity helps to create crust. alcohol contributes to flavor. humidity helps to create interior. Bread is art. oven has humidity. Bread is science. kneading process contributes to gluten. fermentation produces alcohol. yeast produces carbon dioxide gas.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Yeast plays a key role in the fermentation process of bread.",
+    "retrieved_context": "water is ingredients. yeast contributes to fermentation. salt is ingredients. Bread is food. gluten contributes to elasticity. sugars react in Maillard reaction. flour is ingredients. proteins react in Maillard reaction. fermentation contributes to texture. Maillard reaction contributes to flavor. gluten contributes to texture. fermentation contributes to flavor. flour is made up of proteins. yeast is ingredients. yeast feeds on sugars. gluten ensures crumb structure. gluten is in flour. gluten contributes to structure. Maillard reaction contributes to crust. humidity helps to create crust. alcohol contributes to flavor. Bread is art. Bread is science. kneading process contributes to gluten. fermentation produces alcohol. yeast produces carbon dioxide gas.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Yeast feeds on sugars in flour, producing carbon dioxide gas.",
+    "retrieved_context": "water is ingredients. yeast contributes to fermentation. salt is ingredients. Bread is food. gluten contributes to elasticity. sugars react in Maillard reaction. flour is ingredients. proteins react in Maillard reaction. fermentation contributes to texture. Maillard reaction contributes to flavor. gluten contributes to texture. fermentation contributes to flavor. flour is made up of proteins. yeast is ingredients. yeast feeds on sugars. gluten ensures crumb structure. gluten is in flour. gluten contributes to structure. Maillard reaction contributes to crust. humidity helps to create crust. alcohol contributes to flavor. Bread is art. Bread is science. kneading process contributes to gluten. fermentation produces alcohol. yeast produces carbon dioxide gas.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Carbon dioxide gas causes the dough to rise.",
+    "retrieved_context": "water is ingredients. yeast contributes to fermentation. salt is ingredients. Bread is food. gluten contributes to elasticity. sugars react in Maillard reaction. flour is ingredients. proteins react in Maillard reaction. fermentation contributes to texture. Maillard reaction contributes to flavor. gluten contributes to texture. fermentation contributes to flavor. flour is made up of proteins. yeast feeds on sugars. yeast is ingredients. gluten ensures crumb structure. gluten is in flour. gluten contributes to structure. Maillard reaction contributes to crust. humidity helps to create crust. humidity helps to create interior. alcohol contributes to flavor. Bread is art. oven has humidity. Bread is science. kneading process contributes to gluten. yeast produces carbon dioxide gas. fermentation produces alcohol.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fermentation process produces alcohol, contributing to bread flavor.",
+    "retrieved_context": "water is ingredients. yeast contributes to fermentation. salt is ingredients. Bread is food. sugars react in Maillard reaction. flour is ingredients. proteins react in Maillard reaction. fermentation contributes to texture. Maillard reaction contributes to flavor. gluten contributes to texture. fermentation contributes to flavor. flour is made up of proteins. yeast feeds on sugars. yeast is ingredients. Maillard reaction contributes to crust. humidity helps to create crust. alcohol contributes to flavor. Bread is art. Bread is science. fermentation produces alcohol. yeast produces carbon dioxide gas.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Longer fermentation time leads to more complex flavor in bread.",
+    "retrieved_context": "water is ingredients. yeast contributes to fermentation. salt is ingredients. Bread is food. gluten contributes to elasticity. sugars react in Maillard reaction. flour is ingredients. proteins react in Maillard reaction. fermentation contributes to texture. Maillard reaction contributes to flavor. gluten contributes to texture. fermentation contributes to flavor. flour is made up of proteins. yeast feeds on sugars. yeast is ingredients. gluten ensures crumb structure. gluten is in flour. gluten contributes to structure. Maillard reaction contributes to crust. humidity helps to create crust. alcohol contributes to flavor. Bread is art. Bread is science. kneading process contributes to gluten. fermentation produces alcohol. yeast produces carbon dioxide gas.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Flour contains proteins called gluten, giving bread structure.",
+    "retrieved_context": "water is ingredients. yeast contributes to fermentation. salt is ingredients. Bread is food. gluten contributes to elasticity. sugars react in Maillard reaction. flour is ingredients. proteins react in Maillard reaction. fermentation contributes to texture. Maillard reaction contributes to flavor. gluten contributes to texture. fermentation contributes to flavor. flour is made up of proteins. yeast is ingredients. gluten ensures crumb structure. gluten is in flour. gluten contributes to structure. yeast feeds on sugars. Maillard reaction contributes to crust. Bread is art. Bread is science. kneading process contributes to gluten. fermentation produces alcohol. yeast produces carbon dioxide gas.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Gluten network traps carbon dioxide gas, allowing dough to rise.",
+    "retrieved_context": "water is ingredients. yeast contributes to fermentation. salt is ingredients. Bread is food. gluten contributes to elasticity. sugars react in Maillard reaction. flour is ingredients. proteins react in Maillard reaction. fermentation contributes to texture. Maillard reaction contributes to flavor. gluten contributes to texture. fermentation contributes to flavor. flour is made up of proteins. yeast is ingredients. gluten ensures crumb structure. gluten is in flour. gluten contributes to structure. yeast feeds on sugars. Maillard reaction contributes to crust. humidity helps to create crust. alcohol contributes to flavor. Bread is art. Bread is science. kneading process contributes to gluten. yeast produces carbon dioxide gas. fermentation produces alcohol.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Kneading strengthens gluten strands, giving bread structure.",
+    "retrieved_context": "water is ingredients. yeast contributes to fermentation. salt is ingredients. Bread is food. gluten contributes to elasticity. sugars react in Maillard reaction. flour is ingredients. proteins react in Maillard reaction. fermentation contributes to texture. Maillard reaction contributes to flavor. gluten contributes to texture. fermentation contributes to flavor. flour is made up of proteins. yeast is ingredients. gluten ensures crumb structure. gluten is in flour. gluten contributes to structure. yeast feeds on sugars. Maillard reaction contributes to crust. Bread is art. Bread is science. kneading process contributes to gluten. fermentation produces alcohol. yeast produces carbon dioxide gas.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Proper kneading is crucial for bread to rise properly.",
+    "retrieved_context": "water is ingredients. yeast contributes to fermentation. salt is ingredients. Bread is food. gluten contributes to elasticity. sugars react in Maillard reaction. flour is ingredients. proteins react in Maillard reaction. fermentation contributes to texture. Maillard reaction contributes to flavor. gluten contributes to texture. fermentation contributes to flavor. flour is made up of proteins. yeast is ingredients. gluten ensures crumb structure. gluten is in flour. gluten contributes to structure. yeast feeds on sugars. Maillard reaction contributes to crust. humidity helps to create crust. humidity helps to create interior. alcohol contributes to flavor. Bread is art. oven has humidity. Bread is science. kneading process contributes to gluten. fermentation produces alcohol. yeast produces carbon dioxide gas. heat causes starches.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Baking bread involves the interaction of heat with dough ingredients.",
+    "retrieved_context": "water is ingredients. yeast contributes to fermentation. salt is ingredients. Bread is food. gluten contributes to elasticity. sugars react in Maillard reaction. flour is ingredients. proteins react in Maillard reaction. fermentation contributes to texture. Maillard reaction contributes to flavor. gluten contributes to texture. fermentation contributes to flavor. flour is made up of proteins. yeast feeds on sugars. yeast is ingredients. gluten ensures crumb structure. gluten is in flour. gluten contributes to structure. Maillard reaction contributes to crust. humidity helps to create crust. alcohol contributes to flavor. humidity helps to create interior. oven has temperature. Bread is art. oven has humidity. Bread is science. kneading process contributes to gluten. fermentation produces alcohol. heat causes starches. yeast produces carbon dioxide gas.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Heat in the oven causes yeast to become more active.",
+    "retrieved_context": "water is ingredients. yeast contributes to fermentation. salt is ingredients. Bread is food. gluten contributes to elasticity. sugars react in Maillard reaction. flour is ingredients. proteins react in Maillard reaction. fermentation contributes to texture. Maillard reaction contributes to flavor. gluten contributes to texture. fermentation contributes to flavor. flour is made up of proteins. yeast is ingredients. yeast feeds on sugars. gluten ensures crumb structure. gluten is in flour. gluten contributes to structure. Maillard reaction contributes to crust. humidity helps to create crust. alcohol contributes to flavor. humidity helps to create interior. oven has temperature. Bread is art. oven has humidity. Bread is science. kneading process contributes to gluten. fermentation produces alcohol. yeast produces carbon dioxide gas. heat causes starches.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Maillard reaction is responsible for browning the crust.",
+    "retrieved_context": "water is ingredients. yeast contributes to fermentation. salt is ingredients. Bread is food. gluten contributes to elasticity. sugars react in Maillard reaction. flour is ingredients. proteins react in Maillard reaction. fermentation contributes to texture. Maillard reaction contributes to flavor. gluten contributes to texture. fermentation contributes to flavor. flour is made up of proteins. yeast feeds on sugars. yeast is ingredients. gluten ensures crumb structure. gluten is in flour. gluten contributes to structure. Maillard reaction contributes to crust. humidity helps to create crust. humidity helps to create interior. alcohol contributes to flavor. oven has temperature. Bread is art. oven has humidity. Bread is science. kneading process contributes to gluten. fermentation produces alcohol. yeast produces carbon dioxide gas.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "60.00%"
+  }
+]

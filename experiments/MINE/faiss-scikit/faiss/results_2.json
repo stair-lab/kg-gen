@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "AI has rapidly advanced in recent years.",
+    "retrieved_context": "Artificial Intelligence leads to inequality. accountability depends on regulations. accountability depends on ethical guidelines. biased algorithms contributes to discrimination. bias leads to discrimination. Artificial Intelligence is trained on datasets. Artificial Intelligence has potential to impact societal impact. facial recognition technology is used for surveillance. transparency is essential to accountability. facial recognition technology contributes to privacy. surveillance raises questions about privacy. governments risk of concentration of power. corporations risk of concentration of power. Artificial Intelligence is influenced by bias. Artificial Intelligence can cause Artificial Intelligence. AI system makes decisions. Artificial Intelligence contributes to well-being. AI system can cause harm.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "AI has revolutionized various industries and aspects of daily lives.",
+    "retrieved_context": "Artificial Intelligence leads to inequality. biased algorithms contributes to discrimination. bias leads to discrimination. Artificial Intelligence is trained on datasets. Artificial Intelligence has potential to impact societal impact. governments risk of concentration of power. facial recognition technology is used for surveillance. facial recognition technology contributes to privacy. surveillance raises questions about privacy. corporations risk of concentration of power. Artificial Intelligence is influenced by bias. Artificial Intelligence can cause Artificial Intelligence. AI system makes decisions. Artificial Intelligence contributes to well-being. AI system can cause harm.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Ethical dilemmas need to be addressed in the development and deployment of AI technologies.",
+    "retrieved_context": "Artificial Intelligence leads to inequality. accountability depends on regulations. accountability depends on ethical guidelines. ethical guidelines relate to regulations. bias leads to discrimination. Artificial Intelligence is trained on datasets. Artificial Intelligence has potential to impact societal impact. transparency is essential to accountability. facial recognition technology is used for surveillance. facial recognition technology contributes to privacy. surveillance raises questions about privacy. biased algorithms contributes to discrimination. Artificial Intelligence is influenced by bias. Artificial Intelligence can cause Artificial Intelligence. AI system makes decisions. Artificial Intelligence contributes to well-being. AI system can cause harm.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Ethical dilemmas stem from concerns about privacy, bias, accountability, transparency, and societal impact.",
+    "retrieved_context": "Artificial Intelligence leads to inequality. accountability depends on regulations. accountability depends on ethical guidelines. ethical guidelines relate to regulations. biased algorithms contributes to discrimination. Artificial Intelligence has potential to impact societal impact. facial recognition technology is used for surveillance. transparency is essential to accountability. Artificial Intelligence is trained on datasets. facial recognition technology contributes to privacy. surveillance raises questions about privacy. bias leads to discrimination. Artificial Intelligence is influenced by bias. Artificial Intelligence can cause Artificial Intelligence. Artificial Intelligence contributes to well-being.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Privacy is a key ethical dilemma in AI development.",
+    "retrieved_context": "Artificial Intelligence leads to inequality. accountability depends on ethical guidelines. accountability depends on regulations. ethical guidelines relate to regulations. bias leads to discrimination. Artificial Intelligence is trained on datasets. facial recognition technology is used for surveillance. transparency is essential to accountability. Artificial Intelligence has potential to impact societal impact. facial recognition technology contributes to privacy. surveillance raises questions about privacy. Artificial Intelligence is influenced by bias. Artificial Intelligence can cause Artificial Intelligence. AI system makes decisions. Artificial Intelligence contributes to well-being. AI system can cause harm.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Concerns arise about the use of data and potential privacy violations.",
+    "retrieved_context": "Artificial Intelligence leads to inequality. accountability depends on ethical guidelines. accountability depends on regulations. ethical guidelines relate to regulations. biased algorithms contributes to discrimination. Artificial Intelligence is trained on datasets. facial recognition technology is used for surveillance. transparency is essential to accountability. Artificial Intelligence has potential to impact societal impact. facial recognition technology contributes to privacy. surveillance raises questions about privacy. bias leads to discrimination. Artificial Intelligence is influenced by bias. Artificial Intelligence can cause Artificial Intelligence. Artificial Intelligence contributes to well-being.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Facial recognition technology raises questions about privacy and abuse of power.",
+    "retrieved_context": "accountability depends on ethical guidelines. accountability depends on regulations. biased algorithms contributes to discrimination. bias leads to discrimination. ethical guidelines relate to regulations. facial recognition technology is used for surveillance. transparency is essential to accountability. facial recognition technology contributes to privacy. surveillance raises questions about privacy. Artificial Intelligence is influenced by bias.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Bias is another ethical dilemma in AI development.",
+    "retrieved_context": "Artificial Intelligence leads to inequality. accountability depends on ethical guidelines. accountability depends on regulations. biased algorithms contributes to discrimination. bias leads to discrimination. Artificial Intelligence is trained on datasets. Artificial Intelligence has potential to impact societal impact. ethical guidelines relate to regulations. transparency is essential to accountability. Artificial Intelligence is influenced by bias. Artificial Intelligence can cause Artificial Intelligence. AI system makes decisions. Artificial Intelligence contributes to well-being. AI system can cause harm.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Biased data can lead to discriminatory outcomes in AI systems.",
+    "retrieved_context": "Artificial Intelligence leads to inequality. biased algorithms contributes to discrimination. bias leads to discrimination. Artificial Intelligence is trained on datasets. Artificial Intelligence has potential to impact societal impact. Artificial Intelligence is influenced by bias. Artificial Intelligence can cause Artificial Intelligence. AI system makes decisions. Artificial Intelligence contributes to well-being. AI system can cause harm.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Addressing bias is crucial for fairness and equity in decision-making.",
+    "retrieved_context": "Artificial Intelligence leads to inequality. accountability depends on regulations. accountability depends on ethical guidelines. biased algorithms contributes to discrimination. bias leads to discrimination. Artificial Intelligence is trained on datasets. Artificial Intelligence has potential to impact societal impact. ethical guidelines relate to regulations. transparency is essential to accountability. Artificial Intelligence is influenced by bias. Artificial Intelligence can cause Artificial Intelligence. AI system makes decisions. Artificial Intelligence contributes to well-being. AI system can cause harm.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Accountability is an ethical dilemma in AI development.",
+    "retrieved_context": "Artificial Intelligence leads to inequality. accountability depends on ethical guidelines. accountability depends on regulations. ethical guidelines relate to regulations. bias leads to discrimination. Artificial Intelligence is trained on datasets. Artificial Intelligence has potential to impact societal impact. transparency is essential to accountability. facial recognition technology is used for surveillance. facial recognition technology contributes to privacy. surveillance raises questions about privacy. governments risk of concentration of power. corporations risk of concentration of power. Artificial Intelligence is influenced by bias. Artificial Intelligence can cause Artificial Intelligence. AI system makes decisions. Artificial Intelligence contributes to well-being. AI system can cause harm.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Establishing clear lines of accountability is crucial as AI systems become more autonomous.",
+    "retrieved_context": "accountability depends on ethical guidelines. ethical guidelines relate to regulations. bias leads to discrimination. Artificial Intelligence is trained on datasets. facial recognition technology is used for surveillance. governments risk of concentration of power. Artificial Intelligence is influenced by bias. AI system makes decisions. biased algorithms contributes to discrimination. surveillance raises questions about privacy. Artificial Intelligence leads to inequality. accountability depends on regulations. Artificial Intelligence has potential to impact societal impact. transparency is essential to accountability. facial recognition technology contributes to privacy. Artificial Intelligence contributes to well-being. AI system can cause harm. corporations risk of concentration of power. Artificial Intelligence can cause Artificial Intelligence.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Transparency is a significant ethical dilemma in AI development.",
+    "retrieved_context": "Artificial Intelligence leads to inequality. accountability depends on ethical guidelines. accountability depends on regulations. ethical guidelines relate to regulations. bias leads to discrimination. Artificial Intelligence is trained on datasets. facial recognition technology is used for surveillance. transparency is essential to accountability. Artificial Intelligence has potential to impact societal impact. facial recognition technology contributes to privacy. surveillance raises questions about privacy. Artificial Intelligence is influenced by bias. Artificial Intelligence can cause Artificial Intelligence. AI system makes decisions. Artificial Intelligence contributes to well-being. AI system can cause harm.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Lack of transparency can lead to distrust in AI systems.",
+    "retrieved_context": "accountability depends on ethical guidelines. ethical guidelines relate to regulations. bias leads to discrimination. Artificial Intelligence is trained on datasets. facial recognition technology is used for surveillance. governments risk of concentration of power. Artificial Intelligence is influenced by bias. AI system makes decisions. biased algorithms contributes to discrimination. surveillance raises questions about privacy. Artificial Intelligence leads to inequality. accountability depends on regulations. Artificial Intelligence has potential to impact societal impact. transparency is essential to accountability. facial recognition technology contributes to privacy. Artificial Intelligence contributes to well-being. AI system can cause harm. corporations risk of concentration of power. Artificial Intelligence can cause Artificial Intelligence.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Ensuring transparency is essential for building trust and accountability.",
+    "retrieved_context": "accountability depends on ethical guidelines. accountability depends on regulations. ethical guidelines relate to regulations. facial recognition technology is used for surveillance. transparency is essential to accountability. governments risk of concentration of power. facial recognition technology contributes to privacy. surveillance raises questions about privacy. corporations risk of concentration of power.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "26.67%"
+  }
+]

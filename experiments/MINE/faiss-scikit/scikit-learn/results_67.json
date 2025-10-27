@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Climate change impacts animals' habitats.",
+    "retrieved_context": "climate change leading to spread of parasites. wildfires decimated populations of animals. global temperatures affects habitats. climate change impacting food sources. climate change leading to spread of diseases. conservation organizations involved in conserving habitats. diseases example white-nose syndrome. sea ice in Arctic. wildfires decimated populations of koalas. climate change leading to droughts. climate change threatens biodiversity. governments involved in conserving habitats. climate change leading to wildfires. polar bears facing sea ice. climate change impacting habitats. animals towards extinction. climate change poses a significant threat to animals. climate change leading to hurricanes. weather patterns affects habitats.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Animals are forced to adapt or migrate due to changing ecosystems.",
+    "retrieved_context": "climate change leading to spread of parasites. diseases example white-nose syndrome. climate change impacting habitats. climate change leading to droughts. animals towards extinction. climate change poses a significant threat to animals. climate change threatens biodiversity. governments involved in conserving habitats. wildfires decimated populations of animals. climate change leading to hurricanes. global temperatures affects habitats. climate change leading to wildfires. weather patterns affects habitats. climate change impacting food sources. climate change leading to spread of diseases. wildfires decimated populations of koalas. conservation organizations involved in conserving habitats.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Polar bears are losing sea ice in the Arctic due to warming temperatures.",
+    "retrieved_context": "climate change leading to spread of parasites. wildfires decimated populations of animals. global temperatures affects habitats. climate change impacting food sources. climate change leading to spread of diseases. diseases example white-nose syndrome. sea ice in Arctic. wildfires decimated populations of koalas. coral bleaching reduces abundance of fish. climate change leading to droughts. climate change threatens biodiversity. climate change leading to wildfires. polar bears facing sea ice. climate change impacting habitats. animals towards extinction. climate change poses a significant threat to animals. climate change leading to hurricanes. ocean temperatures causing coral bleaching. weather patterns affects habitats.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Warmer ocean temperatures cause coral bleaching, affecting fish populations.",
+    "retrieved_context": "climate change leading to spread of parasites. wildfires decimated populations of animals. global temperatures affects habitats. climate change impacting food sources. climate change leading to spread of diseases. diseases example white-nose syndrome. sea ice in Arctic. wildfires decimated populations of koalas. coral bleaching reduces abundance of fish. climate change leading to droughts. climate change threatens biodiversity. climate change leading to wildfires. polar bears facing sea ice. fish rely on coral reefs. climate change impacting habitats. animals towards extinction. climate change poses a significant threat to animals. ocean temperatures causing coral bleaching. climate change leading to hurricanes. weather patterns affects habitats.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Extreme weather events like wildfires can destroy animal habitats.",
+    "retrieved_context": "climate change leading to spread of parasites. diseases example white-nose syndrome. climate change impacting habitats. climate change leading to droughts. animals towards extinction. climate change poses a significant threat to animals. climate change threatens biodiversity. wildfires decimated populations of animals. climate change leading to hurricanes. governments involved in conserving habitats. global temperatures affects habitats. climate change leading to wildfires. weather patterns affects habitats. climate change impacting food sources. climate change leading to spread of diseases. wildfires decimated populations of koalas. conservation organizations involved in conserving habitats.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Wildfires in Australia have decimated koala populations.",
+    "retrieved_context": "climate change leading to spread of parasites. climate change impacting habitats. climate change leading to droughts. animals towards extinction. climate change poses a significant threat to animals. climate change threatens biodiversity. wildfires decimated populations of animals. climate change leading to hurricanes. governments involved in conserving habitats. global temperatures affects habitats. climate change leading to wildfires. weather patterns affects habitats. climate change impacting food sources. climate change leading to spread of diseases. wildfires decimated populations of koalas. conservation organizations involved in conserving habitats.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Climate change can lead to the spread of diseases among animals.",
+    "retrieved_context": "climate change leading to spread of parasites. diseases example white-nose syndrome. climate change impacting habitats. climate change leading to droughts. animals towards extinction. climate change poses a significant threat to animals. climate change threatens biodiversity. wildfires decimated populations of animals. climate change leading to hurricanes. white-nose syndrome affects bats. global temperatures affects habitats. fungus causing white-nose syndrome. climate change leading to wildfires. weather patterns affects habitats. climate change impacting food sources. climate change leading to spread of diseases. wildfires decimated populations of koalas.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "White-nose syndrome in bats is linked to climate change.",
+    "retrieved_context": "climate change leading to spread of parasites. wildfires decimated populations of animals. global temperatures affects habitats. fungus causing white-nose syndrome. climate change impacting food sources. climate change leading to spread of diseases. conservation organizations involved in conserving habitats. diseases example white-nose syndrome. wildfires decimated populations of koalas. climate change leading to droughts. climate change threatens biodiversity. governments involved in conserving habitats. climate change leading to wildfires. climate change impacting habitats. animals towards extinction. climate change poses a significant threat to animals. white-nose syndrome affects bats. climate change leading to hurricanes. weather patterns affects habitats.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Animals are shifting their ranges due to climate change.",
+    "retrieved_context": "climate change leading to spread of parasites. wildfires decimated populations of animals. global temperatures affects habitats. climate change impacting food sources. climate change leading to spread of diseases. conservation organizations involved in conserving habitats. diseases example white-nose syndrome. sea ice in Arctic. wildfires decimated populations of koalas. climate change leading to droughts. climate change threatens biodiversity. governments involved in conserving habitats. climate change leading to wildfires. polar bears facing sea ice. climate change impacting habitats. animals towards extinction. climate change poses a significant threat to animals. climate change leading to hurricanes. weather patterns affects habitats.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Some species are altering their breeding seasons in response to environmental changes.",
+    "retrieved_context": "climate change leading to spread of parasites. diseases example white-nose syndrome. climate change impacting habitats. climate change leading to droughts. animals towards extinction. climate change poses a significant threat to animals. climate change threatens biodiversity. wildfires decimated populations of animals. climate change leading to hurricanes. governments involved in conserving habitats. global temperatures affects habitats. climate change leading to wildfires. weather patterns affects habitats. climate change impacting food sources. climate change leading to spread of diseases. wildfires decimated populations of koalas. conservation organizations involved in conserving habitats.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Climate change threatens the survival of many animal species.",
+    "retrieved_context": "climate change leading to spread of parasites. wildfires decimated populations of animals. global temperatures affects habitats. climate change impacting food sources. climate change leading to spread of diseases. conservation organizations involved in conserving habitats. diseases example white-nose syndrome. sea ice in Arctic. wildfires decimated populations of koalas. climate change leading to droughts. climate change threatens biodiversity. governments involved in conserving habitats. climate change leading to wildfires. polar bears facing sea ice. climate change impacting habitats. animals towards extinction. climate change poses a significant threat to animals. climate change leading to hurricanes. weather patterns affects habitats.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Urgent action is needed to protect biodiversity from climate change.",
+    "retrieved_context": "climate change leading to spread of parasites. diseases example white-nose syndrome. climate change impacting habitats. climate change leading to droughts. animals towards extinction. climate change threatens biodiversity. climate change poses a significant threat to animals. wildfires decimated populations of animals. climate change leading to hurricanes. governments involved in conserving habitats. global temperatures affects habitats. climate change leading to wildfires. weather patterns affects habitats. climate change impacting food sources. climate change leading to spread of diseases. wildfires decimated populations of koalas. conservation organizations involved in conserving habitats.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Governments, conservation organizations, and individuals all have a role in addressing climate change impacts on animals.",
+    "retrieved_context": "climate change leading to spread of parasites. diseases example white-nose syndrome. climate change impacting habitats. climate change leading to droughts. animals towards extinction. climate change poses a significant threat to animals. climate change threatens biodiversity. wildfires decimated populations of animals. climate change leading to hurricanes. governments involved in conserving habitats. global temperatures affects habitats. climate change leading to wildfires. weather patterns affects habitats. climate change impacting food sources. climate change leading to spread of diseases. wildfires decimated populations of koalas. conservation organizations involved in conserving habitats.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Climate change puts pressure on animal populations worldwide.",
+    "retrieved_context": "climate change leading to spread of parasites. wildfires decimated populations of animals. global temperatures affects habitats. climate change impacting food sources. climate change leading to spread of diseases. conservation organizations involved in conserving habitats. diseases example white-nose syndrome. sea ice in Arctic. wildfires decimated populations of koalas. climate change leading to droughts. climate change threatens biodiversity. governments involved in conserving habitats. climate change leading to wildfires. polar bears facing sea ice. climate change impacting habitats. animals towards extinction. climate change poses a significant threat to animals. climate change leading to hurricanes. weather patterns affects habitats.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Action is necessary to ensure a sustainable future for all living creatures on Earth.",
+    "retrieved_context": "climate change leading to spread of parasites. wildfires decimated populations of animals. global temperatures affects habitats. climate change impacting food sources. climate change leading to spread of diseases. conservation organizations involved in conserving habitats. diseases example white-nose syndrome. sea ice in Arctic. wildfires decimated populations of koalas. climate change leading to droughts. climate change threatens biodiversity. governments involved in conserving habitats. climate change leading to wildfires. polar bears facing sea ice. climate change impacting habitats. animals towards extinction. climate change poses a significant threat to animals. climate change leading to hurricanes. weather patterns affects habitats.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "60.00%"
+  }
+]

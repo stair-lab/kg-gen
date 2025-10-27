@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Climate change impacts animals' habitats.",
+    "retrieved_context": "climate change threatens ecosystems. Climate change threatens extinction. adaptation strategies help animals. polar bears lose sea ice. wildfires destroy koalas. droughts destroy habitats. polar bears are affected by habitat loss. wildfires destroy habitats. conservation organizations have a role in implementing adaptation strategies. hurricanes destroy habitats. Climate change affects biodiversity. climate change affects breeding seasons. individuals have a role in reducing greenhouse gas emissions. governments have a role in reducing greenhouse gas emissions. Climate change threatens animals. Australia experiences wildfires. habitat conservation protects habitats. Climate change affects habitats. ecosystems are affected by climate change. species shifted ranges to elevations. Climate change affects food sources. greenhouse gas emissions drive climate change. species shifted ranges to poleward.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Animals are forced to adapt or migrate due to changing ecosystems.",
+    "retrieved_context": "climate change threatens ecosystems. Climate change threatens extinction. polar bears lose sea ice. adaptation strategies help animals. wildfires destroy koalas. droughts destroy habitats. polar bears are affected by habitat loss. wildfires destroy habitats. conservation organizations have a role in implementing adaptation strategies. hurricanes destroy habitats. Climate change affects biodiversity. climate change affects breeding seasons. Climate change threatens animals. Australia experiences wildfires. habitat conservation protects habitats. Climate change affects habitats. ecosystems are affected by climate change. species shifted ranges to elevations. Climate change affects food sources. greenhouse gas emissions drive climate change. species shifted ranges to poleward.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Polar bears are losing sea ice in the Arctic due to warming temperatures.",
+    "retrieved_context": "climate change threatens ecosystems. Climate change threatens extinction. polar bears lose sea ice. adaptation strategies help animals. sea ice melts due to global temperatures. droughts destroy habitats. polar bears are affected by habitat loss. wildfires destroy habitats. coral bleaching caused by global temperatures. conservation organizations have a role in implementing adaptation strategies. hurricanes destroy habitats. Climate change affects biodiversity. climate change affects breeding seasons. coral bleaching reduces abundance of fish. individuals have a role in reducing greenhouse gas emissions. governments have a role in reducing greenhouse gas emissions. Climate change threatens animals. habitat conservation protects habitats. Climate change affects habitats. ecosystems are affected by climate change. Climate change affects food sources. greenhouse gas emissions drive climate change.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Warmer ocean temperatures cause coral bleaching, affecting fish populations.",
+    "retrieved_context": "climate change threatens ecosystems. Climate change threatens extinction. adaptation strategies help animals. polar bears lose sea ice. sea ice melts due to global temperatures. droughts destroy habitats. coral reefs provide shelter and food for fish. wildfires destroy habitats. polar bears are affected by habitat loss. coral bleaching caused by global temperatures. hurricanes destroy habitats. Climate change affects biodiversity. climate change affects breeding seasons. coral bleaching reduces abundance of fish. individuals have a role in reducing greenhouse gas emissions. governments have a role in reducing greenhouse gas emissions. Climate change threatens animals. habitat conservation protects habitats. Climate change affects habitats. ecosystems are affected by climate change. Climate change affects food sources. greenhouse gas emissions drive climate change.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Extreme weather events like wildfires can destroy animal habitats.",
+    "retrieved_context": "Climate change affects biodiversity. Climate change threatens extinction. Climate change affects food sources. polar bears lose sea ice. adaptation strategies help animals. wildfires destroy koalas. conservation organizations have a role in implementing adaptation strategies. Australia experiences wildfires. Climate change threatens animals. habitat conservation protects habitats. Climate change affects habitats. hurricanes destroy habitats. droughts destroy habitats. polar bears are affected by habitat loss. wildfires destroy habitats.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Wildfires in Australia have decimated koala populations.",
+    "retrieved_context": "Climate change affects biodiversity. Climate change threatens extinction. species shifted ranges to elevations. Climate change affects food sources. polar bears lose sea ice. wildfires destroy koalas. Australia experiences wildfires. Climate change threatens animals. species shifted ranges to poleward. habitat conservation protects habitats. Climate change affects habitats. hurricanes destroy habitats. droughts destroy habitats. polar bears are affected by habitat loss. wildfires destroy habitats.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Climate change can lead to the spread of diseases among animals.",
+    "retrieved_context": "climate change threatens ecosystems. Climate change threatens extinction. adaptation strategies help animals. polar bears lose sea ice. sea ice melts due to global temperatures. droughts destroy habitats. polar bears are affected by habitat loss. wildfires destroy habitats. coral bleaching caused by global temperatures. conservation organizations have a role in implementing adaptation strategies. hurricanes destroy habitats. Climate change affects biodiversity. climate change affects breeding seasons. coral bleaching reduces abundance of fish. individuals have a role in reducing greenhouse gas emissions. governments have a role in reducing greenhouse gas emissions. Climate change threatens animals. habitat conservation protects habitats. Climate change affects habitats. ecosystems are affected by climate change. species shifted ranges to elevations. Climate change affects food sources. greenhouse gas emissions drive climate change. species shifted ranges to poleward.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "White-nose syndrome in bats is linked to climate change.",
+    "retrieved_context": "climate change threatens ecosystems. Climate change threatens extinction. adaptation strategies help animals. polar bears lose sea ice. sea ice melts due to global temperatures. droughts destroy habitats. polar bears are affected by habitat loss. wildfires destroy habitats. coral bleaching caused by global temperatures. conservation organizations have a role in implementing adaptation strategies. hurricanes destroy habitats. Climate change affects biodiversity. climate change affects breeding seasons. white-nose syndrome affects bats. coral bleaching reduces abundance of fish. individuals have a role in reducing greenhouse gas emissions. governments have a role in reducing greenhouse gas emissions. Climate change threatens animals. habitat conservation protects habitats. Climate change affects habitats. ecosystems are affected by climate change. Climate change affects food sources. greenhouse gas emissions drive climate change. white-nose syndrome spreads more easily with temperatures.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Animals are shifting their ranges due to climate change.",
+    "retrieved_context": "climate change threatens ecosystems. Climate change threatens extinction. adaptation strategies help animals. polar bears lose sea ice. droughts destroy habitats. polar bears are affected by habitat loss. wildfires destroy habitats. conservation organizations have a role in implementing adaptation strategies. hurricanes destroy habitats. Climate change affects biodiversity. climate change affects breeding seasons. individuals have a role in reducing greenhouse gas emissions. governments have a role in reducing greenhouse gas emissions. Climate change threatens animals. habitat conservation protects habitats. Climate change affects habitats. ecosystems are affected by climate change. species shifted ranges to elevations. Climate change affects food sources. greenhouse gas emissions drive climate change. species shifted ranges to poleward.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Some species are altering their breeding seasons in response to environmental changes.",
+    "retrieved_context": "climate change threatens ecosystems. Climate change threatens extinction. adaptation strategies help animals. polar bears lose sea ice. wildfires destroy koalas. droughts destroy habitats. polar bears are affected by habitat loss. wildfires destroy habitats. hurricanes destroy habitats. Climate change affects biodiversity. climate change affects breeding seasons. individuals have a role in reducing greenhouse gas emissions. governments have a role in reducing greenhouse gas emissions. Climate change threatens animals. Australia experiences wildfires. habitat conservation protects habitats. Climate change affects habitats. ecosystems are affected by climate change. species shifted ranges to elevations. Climate change affects food sources. greenhouse gas emissions drive climate change. species shifted ranges to poleward.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Climate change threatens the survival of many animal species.",
+    "retrieved_context": "climate change threatens ecosystems. Climate change threatens extinction. adaptation strategies help animals. polar bears lose sea ice. droughts destroy habitats. polar bears are affected by habitat loss. wildfires destroy habitats. conservation organizations have a role in implementing adaptation strategies. hurricanes destroy habitats. Climate change affects biodiversity. climate change affects breeding seasons. individuals have a role in reducing greenhouse gas emissions. governments have a role in reducing greenhouse gas emissions. Climate change threatens animals. habitat conservation protects habitats. Climate change affects habitats. ecosystems are affected by climate change. species shifted ranges to elevations. Climate change affects food sources. greenhouse gas emissions drive climate change. species shifted ranges to poleward.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Urgent action is needed to protect biodiversity from climate change.",
+    "retrieved_context": "climate change threatens ecosystems. Climate change threatens extinction. adaptation strategies help animals. droughts destroy habitats. wildfires destroy habitats. conservation organizations have a role in implementing adaptation strategies. hurricanes destroy habitats. Climate change affects biodiversity. climate change affects breeding seasons. individuals have a role in reducing greenhouse gas emissions. governments have a role in reducing greenhouse gas emissions. Climate change threatens animals. habitat conservation protects habitats. Climate change affects habitats. ecosystems are affected by climate change. species shifted ranges to elevations. Climate change affects food sources. greenhouse gas emissions drive climate change. species shifted ranges to poleward.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Governments, conservation organizations, and individuals all have a role in addressing climate change impacts on animals.",
+    "retrieved_context": "Climate change affects biodiversity. climate change threatens ecosystems. Climate change threatens extinction. ecosystems are affected by climate change. Climate change affects food sources. climate change affects breeding seasons. adaptation strategies help animals. greenhouse gas emissions drive climate change. individuals have a role in reducing greenhouse gas emissions. governments have a role in reducing greenhouse gas emissions. conservation organizations have a role in implementing adaptation strategies. Climate change threatens animals. habitat conservation protects habitats. Climate change affects habitats. hurricanes destroy habitats. droughts destroy habitats. wildfires destroy habitats.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Climate change puts pressure on animal populations worldwide.",
+    "retrieved_context": "climate change threatens ecosystems. Climate change threatens extinction. adaptation strategies help animals. polar bears lose sea ice. sea ice melts due to global temperatures. droughts destroy habitats. wildfires destroy habitats. coral bleaching caused by global temperatures. conservation organizations have a role in implementing adaptation strategies. hurricanes destroy habitats. Climate change affects biodiversity. climate change affects breeding seasons. coral bleaching reduces abundance of fish. individuals have a role in reducing greenhouse gas emissions. governments have a role in reducing greenhouse gas emissions. Climate change threatens animals. habitat conservation protects habitats. Climate change affects habitats. ecosystems are affected by climate change. species shifted ranges to elevations. Climate change affects food sources. greenhouse gas emissions drive climate change. species shifted ranges to poleward.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Action is necessary to ensure a sustainable future for all living creatures on Earth.",
+    "retrieved_context": "climate change threatens ecosystems. Climate change threatens extinction. adaptation strategies help animals. wildfires destroy koalas. droughts destroy habitats. wildfires destroy habitats. conservation organizations have a role in implementing adaptation strategies. hurricanes destroy habitats. Climate change affects biodiversity. climate change affects breeding seasons. Climate change threatens animals. Australia experiences wildfires. habitat conservation protects habitats. Climate change affects habitats. ecosystems are affected by climate change. species shifted ranges to elevations. Climate change affects food sources. greenhouse gas emissions drive climate change. species shifted ranges to poleward.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "40.00%"
+  }
+]

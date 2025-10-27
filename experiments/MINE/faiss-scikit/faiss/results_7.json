@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Space exploration is a fascinating and groundbreaking endeavor.",
+    "retrieved_context": "Space exploration benefits from ion propulsion systems. Sputnik 1 launched by Soviet Union. SpaceX developed reusable rockets. Perseverance rover belongs to NASA. Blue Origin offers suborbital spaceflights. astronauts lived and worked in International Space Station. Space exploration began with Sputnik 1. Virgin Galactic offers suborbital spaceflights. Space exploration will search for exoplanets. Sputnik 1 launched by 1957. International Space Station serves as platform for microgravity. Space exploration will include missions to Jupiter. exoplanets have the potential to host extraterrestrial life. reusable rockets reduced the cost of launching payloads. SpaceX plans to send Mars. Space exploration will include missions to Saturn. Space exploration benefits from advanced materials. International Space Station constructed in late 1990s. Perseverance rover landed on Mars.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Humans have constantly pushed the boundaries of what is possible in space.",
+    "retrieved_context": "Space exploration will include missions to Jupiter. Yuri Gagarin orbited Earth. Space exploration benefits from ion propulsion systems. exoplanets have the potential to host extraterrestrial life. Sputnik 1 launched by Soviet Union. Space exploration began with Sputnik 1. Virgin Galactic offers suborbital spaceflights. Perseverance rover belongs to NASA. Blue Origin offers suborbital spaceflights. Space exploration benefits from advanced materials. Space exploration will search for exoplanets. astronauts lived and worked in International Space Station. International Space Station constructed in late 1990s. Sputnik 1 launched by 1957. International Space Station serves as platform for microgravity. Space exploration will include missions to Saturn. Perseverance rover landed on Mars.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Soviet Union launched the first artificial satellite, Sputnik 1, in 1957.",
+    "retrieved_context": "Space exploration will include missions to Jupiter. Space exploration benefits from ion propulsion systems. Sputnik 1 launched by Soviet Union. Space exploration began with Sputnik 1. Virgin Galactic offers suborbital spaceflights. United States competed with Soviet Union. Perseverance rover belongs to NASA. Blue Origin offers suborbital spaceflights. Space exploration benefits from advanced materials. Space exploration will search for exoplanets. astronauts lived and worked in International Space Station. International Space Station constructed in late 1990s. Sputnik 1 launched by 1957. International Space Station serves as platform for microgravity. Space exploration will include missions to Saturn. Perseverance rover landed on Mars.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The space race began between the United States and the Soviet Union.",
+    "retrieved_context": "Space exploration benefits from ion propulsion systems. Sputnik 1 launched by Soviet Union. SpaceX developed reusable rockets. Perseverance rover belongs to NASA. Blue Origin offers suborbital spaceflights. astronauts lived and worked in International Space Station. Space exploration began with Sputnik 1. Virgin Galactic offers suborbital spaceflights. Space exploration will search for exoplanets. Sputnik 1 launched by 1957. International Space Station serves as platform for microgravity. Space exploration will include missions to Jupiter. exoplanets have the potential to host extraterrestrial life. reusable rockets reduced the cost of launching payloads. SpaceX plans to send Mars. Space exploration will include missions to Saturn. United States competed with Soviet Union. Space exploration benefits from advanced materials. International Space Station constructed in late 1990s. Perseverance rover landed on Mars.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Yuri Gagarin became the first human to orbit the Earth in 1961.",
+    "retrieved_context": "Yuri Gagarin orbited Earth. Space exploration will include missions to Jupiter. Space exploration benefits from ion propulsion systems. exoplanets have the potential to host extraterrestrial life. Sputnik 1 launched by Soviet Union. Space exploration began with Sputnik 1. United States competed with Soviet Union. Perseverance rover belongs to NASA. Buzz Aldrin walked on Moon. astronauts lived and worked in International Space Station. Space exploration benefits from advanced materials. Space exploration will search for exoplanets. International Space Station constructed in late 1990s. Neil Armstrong walked on Moon. Sputnik 1 launched by 1957. International Space Station serves as platform for microgravity. Space exploration will include missions to Saturn. Perseverance rover landed on Mars.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Neil Armstrong and Buzz Aldrin were the first humans to walk on the moon in 1969.",
+    "retrieved_context": "Perseverance rover belongs to NASA. Buzz Aldrin walked on Moon. astronauts lived and worked in International Space Station. Neil Armstrong walked on Moon. International Space Station constructed in late 1990s. International Space Station serves as platform for microgravity. Perseverance rover landed on Mars.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Space probes were launched to study other planets in our solar system.",
+    "retrieved_context": "Space exploration will include missions to Jupiter. Space exploration benefits from ion propulsion systems. exoplanets have the potential to host extraterrestrial life. Sputnik 1 launched by Soviet Union. Space exploration began with Sputnik 1. SpaceX developed reusable rockets. Perseverance rover belongs to NASA. Space exploration benefits from advanced materials. Space exploration will search for exoplanets. astronauts lived and worked in International Space Station. International Space Station constructed in late 1990s. SpaceX plans to send Mars. Sputnik 1 launched by 1957. International Space Station serves as platform for microgravity. Space exploration will include missions to Saturn. Perseverance rover landed on Mars.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The International Space Station (ISS) was constructed in the late 1990s.",
+    "retrieved_context": "Space exploration benefits from ion propulsion systems. SpaceX developed reusable rockets. Sputnik 1 launched by Soviet Union. Perseverance rover belongs to NASA. Blue Origin offers suborbital spaceflights. astronauts lived and worked in International Space Station. Space exploration began with Sputnik 1. Virgin Galactic offers suborbital spaceflights. Space exploration will search for exoplanets. Sputnik 1 launched by 1957. International Space Station serves as platform for microgravity. Space exploration will include missions to Jupiter. reusable rockets reduced the cost of launching payloads. SpaceX plans to send Mars. Space exploration will include missions to Saturn. United States competed with Soviet Union. Space exploration benefits from advanced materials. International Space Station constructed in late 1990s. Perseverance rover landed on Mars.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "SpaceX developed reusable rockets, reducing the cost of launching payloads into space.",
+    "retrieved_context": "Space exploration will include missions to Jupiter. Space exploration benefits from ion propulsion systems. exoplanets have the potential to host extraterrestrial life. reusable rockets reduced the cost of launching payloads. SpaceX developed reusable rockets. Sputnik 1 launched by Soviet Union. Space exploration began with Sputnik 1. Virgin Galactic offers suborbital spaceflights. Blue Origin offers suborbital spaceflights. SpaceX plans to send Mars. Space exploration benefits from advanced materials. Space exploration will search for exoplanets. Perseverance rover belongs to NASA. Sputnik 1 launched by 1957. Space exploration will include missions to Saturn. Perseverance rover landed on Mars.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "NASA's Perseverance rover landed on Mars in February 2021.",
+    "retrieved_context": "Space exploration will include missions to Jupiter. Space exploration benefits from ion propulsion systems. exoplanets have the potential to host extraterrestrial life. SpaceX developed reusable rockets. Sputnik 1 launched by Soviet Union. Space exploration began with Sputnik 1. Perseverance rover belongs to NASA. Buzz Aldrin walked on Moon. SpaceX plans to send Mars. Space exploration benefits from advanced materials. Space exploration will search for exoplanets. Neil Armstrong walked on Moon. Sputnik 1 launched by 1957. Space exploration will include missions to Saturn. Perseverance rover landed on Mars.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "SpaceX plans to send humans to Mars in the coming years.",
+    "retrieved_context": "Space exploration benefits from ion propulsion systems. SpaceX developed reusable rockets. Sputnik 1 launched by Soviet Union. Perseverance rover belongs to NASA. Blue Origin offers suborbital spaceflights. astronauts lived and worked in International Space Station. Space exploration began with Sputnik 1. Virgin Galactic offers suborbital spaceflights. Space exploration will search for exoplanets. Sputnik 1 launched by 1957. International Space Station serves as platform for microgravity. Space exploration will include missions to Jupiter. exoplanets have the potential to host extraterrestrial life. reusable rockets reduced the cost of launching payloads. SpaceX plans to send Mars. Space exploration will include missions to Saturn. Space exploration benefits from advanced materials. International Space Station constructed in late 1990s. Perseverance rover landed on Mars.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Missions to explore the outer planets of our solar system are being planned.",
+    "retrieved_context": "Space exploration will include missions to Jupiter. Space exploration benefits from ion propulsion systems. exoplanets have the potential to host extraterrestrial life. Sputnik 1 launched by Soviet Union. Space exploration began with Sputnik 1. SpaceX developed reusable rockets. Perseverance rover belongs to NASA. Space exploration benefits from advanced materials. Space exploration will search for exoplanets. SpaceX plans to send Mars. Sputnik 1 launched by 1957. Space exploration will include missions to Saturn. Perseverance rover landed on Mars.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Advancements in space technology include the development of ion propulsion systems.",
+    "retrieved_context": "Space exploration benefits from ion propulsion systems. Sputnik 1 launched by Soviet Union. SpaceX developed reusable rockets. Perseverance rover belongs to NASA. Blue Origin offers suborbital spaceflights. astronauts lived and worked in International Space Station. Space exploration began with Sputnik 1. Virgin Galactic offers suborbital spaceflights. Space exploration will search for exoplanets. Sputnik 1 launched by 1957. International Space Station serves as platform for microgravity. Space exploration will include missions to Jupiter. exoplanets have the potential to host extraterrestrial life. reusable rockets reduced the cost of launching payloads. SpaceX plans to send Mars. Space exploration will include missions to Saturn. Space exploration benefits from advanced materials. International Space Station constructed in late 1990s. Perseverance rover landed on Mars.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Space tourism is gaining traction with companies offering suborbital spaceflights.",
+    "retrieved_context": "Space exploration benefits from ion propulsion systems. Sputnik 1 launched by Soviet Union. SpaceX developed reusable rockets. Perseverance rover belongs to NASA. Blue Origin offers suborbital spaceflights. astronauts lived and worked in International Space Station. Space exploration began with Sputnik 1. Virgin Galactic offers suborbital spaceflights. Space exploration will search for exoplanets. Sputnik 1 launched by 1957. International Space Station serves as platform for microgravity. Space exploration will include missions to Jupiter. exoplanets have the potential to host extraterrestrial life. reusable rockets reduced the cost of launching payloads. SpaceX plans to send Mars. Space exploration will include missions to Saturn. Space exploration benefits from advanced materials. International Space Station constructed in late 1990s. Perseverance rover landed on Mars.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The future of space exploration holds the promise of further discovery and innovation.",
+    "retrieved_context": "Space exploration benefits from ion propulsion systems. Sputnik 1 launched by Soviet Union. SpaceX developed reusable rockets. Perseverance rover belongs to NASA. Blue Origin offers suborbital spaceflights. astronauts lived and worked in International Space Station. Space exploration began with Sputnik 1. Virgin Galactic offers suborbital spaceflights. Space exploration will search for exoplanets. Sputnik 1 launched by 1957. International Space Station serves as platform for microgravity. Space exploration will include missions to Jupiter. exoplanets have the potential to host extraterrestrial life. reusable rockets reduced the cost of launching payloads. SpaceX plans to send Mars. Space exploration will include missions to Saturn. Space exploration benefits from advanced materials. International Space Station constructed in late 1990s. Perseverance rover landed on Mars.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "33.33%"
+  }
+]

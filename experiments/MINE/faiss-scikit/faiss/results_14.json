@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Ancient Egyptian burial practices reflect Egyptians' beliefs about the afterlife.",
+    "retrieved_context": "amulets guide deceased. pyramids at Giza house pharaohs. mummification involves internal organs. spells and prayers contains Book of the Dead. embalmers participate in burial practices. mummification ensures afterlife. pyramids at Giza protect body. pyramids at Giza house other important individuals. Book of the Dead inscribed on papyrus scrolls. deceased contains clothing. Book of the Dead is a type of religious texts. deceased contains jewelry. ordinary Egyptians contains tools. ordinary Egyptians contains food. Book of the Dead guide deceased. mourners lead funeral procession. tombs constructed for other important individuals. spells and prayers guide deceased. Book of the Dead contains spells and prayers. tombs constructed for pharaohs. priests participate in burial practices. ordinary Egyptians contains personal belongings. pyramids at Giza protect possessions. deceased contains personal belongings. mummification preserves body. mummification involves salt. deceased contains food. pyramids at Giza serves as gateway to afterlife.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Elaborate tombs were constructed to house pharaohs and important individuals.",
+    "retrieved_context": "mummification preserves body. tombs constructed for other important individuals. pyramids at Giza house pharaohs. deceased contains personal belongings. pyramids at Giza house other important individuals. body contains linen bandages. tombs constructed for pharaohs. mummification ensures afterlife. ordinary Egyptians contains personal belongings. pyramids at Giza protect body. deceased contains food. pyramids at Giza protect possessions. ordinary Egyptians contains tools. ordinary Egyptians contains food. soul reunited with body. embalmers participate in burial practices. priests participate in burial practices. pyramids at Giza serves as gateway to afterlife.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Pyramids at Giza were designed to protect the deceased's body and possessions.",
+    "retrieved_context": "mummification preserves body. pyramids at Giza house pharaohs. tombs constructed for other important individuals. deceased contains personal belongings. pyramids at Giza house other important individuals. ordinary Egyptians contains food. body contains linen bandages. mummification ensures afterlife. tombs constructed for pharaohs. soul reunited with body. pyramids at Giza protect body. embalmers participate in burial practices. pyramids at Giza protect possessions. priests participate in burial practices. ordinary Egyptians contains personal belongings. deceased contains food. ordinary Egyptians contains tools. pyramids at Giza serves as gateway to afterlife.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Items like food, clothing, and jewelry were buried with the deceased.",
+    "retrieved_context": "amulets guide deceased. pyramids at Giza house pharaohs. spells and prayers contains Book of the Dead. embalmers participate in burial practices. pyramids at Giza house other important individuals. Book of the Dead inscribed on papyrus scrolls. deceased contains clothing. Book of the Dead is a type of religious texts. deceased contains jewelry. ordinary Egyptians contains tools. ordinary Egyptians contains food. Book of the Dead guide deceased. mourners lead funeral procession. tombs constructed for other important individuals. spells and prayers guide deceased. Book of the Dead contains spells and prayers. tombs constructed for pharaohs. priests participate in burial practices. ordinary Egyptians contains personal belongings. deceased contains personal belongings. deceased contains food.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Mummification was used to preserve the body for the afterlife.",
+    "retrieved_context": "amulets guide deceased. pyramids at Giza house pharaohs. mummification involves internal organs. spells and prayers contains Book of the Dead. mummification ensures afterlife. embalmers participate in burial practices. pyramids at Giza protect body. pyramids at Giza house other important individuals. Book of the Dead inscribed on papyrus scrolls. body contains linen bandages. deceased contains clothing. Book of the Dead is a type of religious texts. deceased contains jewelry. ordinary Egyptians contains food. Book of the Dead guide deceased. mourners lead funeral procession. tombs constructed for other important individuals. spells and prayers guide deceased. Book of the Dead contains spells and prayers. tombs constructed for pharaohs. soul reunited with body. priests participate in burial practices. ordinary Egyptians contains personal belongings. pyramids at Giza protect possessions. deceased contains personal belongings. mummification preserves body. mummification involves salt. deceased contains food. pyramids at Giza serves as gateway to afterlife.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Mummification involved removing internal organs and drying out the body.",
+    "retrieved_context": "amulets guide deceased. pyramids at Giza house pharaohs. mummification involves internal organs. spells and prayers contains Book of the Dead. mummification ensures afterlife. embalmers participate in burial practices. pyramids at Giza protect body. pyramids at Giza house other important individuals. Book of the Dead inscribed on papyrus scrolls. body contains linen bandages. deceased contains clothing. Book of the Dead is a type of religious texts. deceased contains jewelry. ordinary Egyptians contains food. Book of the Dead guide deceased. spells and prayers guide deceased. tombs constructed for other important individuals. Book of the Dead contains spells and prayers. tombs constructed for pharaohs. soul reunited with body. priests participate in burial practices. ordinary Egyptians contains personal belongings. pyramids at Giza protect possessions. deceased contains personal belongings. mummification preserves body. mummification involves salt. deceased contains food. pyramids at Giza serves as gateway to afterlife.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Religious texts and amulets were included in the burial chamber.",
+    "retrieved_context": "Book of the Dead guide deceased. mourners lead funeral procession. amulets guide deceased. pyramids at Giza house pharaohs. tombs constructed for other important individuals. spells and prayers guide deceased. spells and prayers contains Book of the Dead. pyramids at Giza house other important individuals. Book of the Dead inscribed on papyrus scrolls. deceased contains clothing. Book of the Dead contains spells and prayers. Book of the Dead is a type of religious texts. embalmers participate in burial practices. priests participate in burial practices. tombs constructed for pharaohs. deceased contains food. deceased contains jewelry. deceased contains personal belongings.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Book of the Dead helped the deceased navigate the afterlife.",
+    "retrieved_context": "amulets guide deceased. pyramids at Giza house pharaohs. mummification involves internal organs. spells and prayers contains Book of the Dead. mummification ensures afterlife. embalmers participate in burial practices. pyramids at Giza protect body. pyramids at Giza house other important individuals. Book of the Dead inscribed on papyrus scrolls. deceased contains clothing. Book of the Dead is a type of religious texts. deceased contains jewelry. ordinary Egyptians contains food. Book of the Dead guide deceased. mourners lead funeral procession. spells and prayers guide deceased. tombs constructed for other important individuals. Book of the Dead contains spells and prayers. tombs constructed for pharaohs. priests participate in burial practices. ordinary Egyptians contains personal belongings. pyramids at Giza protect possessions. deceased contains personal belongings. mummification preserves body. mummification involves salt. deceased contains food. pyramids at Giza serves as gateway to afterlife.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Burial process required priests, embalmers, and skilled individuals.",
+    "retrieved_context": "amulets guide deceased. pyramids at Giza house pharaohs. spells and prayers contains Book of the Dead. embalmers participate in burial practices. pyramids at Giza house other important individuals. Book of the Dead inscribed on papyrus scrolls. deceased contains clothing. Book of the Dead is a type of religious texts. deceased contains jewelry. ordinary Egyptians contains food. Book of the Dead guide deceased. mourners lead funeral procession. tombs constructed for other important individuals. spells and prayers guide deceased. Book of the Dead contains spells and prayers. tombs constructed for pharaohs. priests participate in burial practices. ordinary Egyptians contains personal belongings. deceased contains personal belongings. deceased contains food.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Professional mourners were hired to lead funeral processions.",
+    "retrieved_context": "amulets guide deceased. pyramids at Giza house pharaohs. mummification involves internal organs. spells and prayers contains Book of the Dead. embalmers participate in burial practices. mummification ensures afterlife. pyramids at Giza protect body. pyramids at Giza house other important individuals. Book of the Dead inscribed on papyrus scrolls. deceased contains clothing. Book of the Dead is a type of religious texts. deceased contains jewelry. ordinary Egyptians contains food. Book of the Dead guide deceased. mourners lead funeral procession. spells and prayers guide deceased. tombs constructed for other important individuals. Book of the Dead contains spells and prayers. tombs constructed for pharaohs. priests participate in burial practices. ordinary Egyptians contains personal belongings. pyramids at Giza protect possessions. deceased contains personal belongings. mummification preserves body. mummification involves salt. deceased contains food. pyramids at Giza serves as gateway to afterlife.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Common people in ancient Egypt were buried with care and respect.",
+    "retrieved_context": "mourners lead funeral procession. pyramids at Giza house pharaohs. tombs constructed for other important individuals. pyramids at Giza house other important individuals. pyramids at Giza protect possessions. embalmers participate in burial practices. priests participate in burial practices. ordinary Egyptians contains personal belongings. deceased contains food. tombs constructed for pharaohs. ordinary Egyptians contains tools. deceased contains personal belongings. ordinary Egyptians contains food. pyramids at Giza protect body. pyramids at Giza serves as gateway to afterlife.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Ordinary Egyptians were buried with items they would need in the afterlife.",
+    "retrieved_context": "amulets guide deceased. pyramids at Giza house pharaohs. mummification involves internal organs. spells and prayers contains Book of the Dead. embalmers participate in burial practices. mummification ensures afterlife. pyramids at Giza protect body. pyramids at Giza house other important individuals. Book of the Dead inscribed on papyrus scrolls. deceased contains clothing. Book of the Dead is a type of religious texts. deceased contains jewelry. ordinary Egyptians contains tools. ordinary Egyptians contains food. Book of the Dead guide deceased. tombs constructed for other important individuals. spells and prayers guide deceased. Book of the Dead contains spells and prayers. tombs constructed for pharaohs. priests participate in burial practices. ordinary Egyptians contains personal belongings. pyramids at Giza protect possessions. deceased contains personal belongings. mummification preserves body. mummification involves salt. deceased contains food. pyramids at Giza serves as gateway to afterlife.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Burial practices ensured the deceased's safe passage into the afterlife.",
+    "retrieved_context": "amulets guide deceased. pyramids at Giza house pharaohs. mummification involves internal organs. spells and prayers contains Book of the Dead. embalmers participate in burial practices. mummification ensures afterlife. pyramids at Giza protect body. pyramids at Giza house other important individuals. Book of the Dead inscribed on papyrus scrolls. deceased contains clothing. Book of the Dead is a type of religious texts. deceased contains jewelry. ordinary Egyptians contains food. Book of the Dead guide deceased. mourners lead funeral procession. tombs constructed for other important individuals. spells and prayers guide deceased. Book of the Dead contains spells and prayers. tombs constructed for pharaohs. priests participate in burial practices. ordinary Egyptians contains personal belongings. pyramids at Giza protect possessions. deceased contains personal belongings. mummification preserves body. mummification involves salt. deceased contains food. pyramids at Giza serves as gateway to afterlife.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Ancient Egyptians believed in the existence of a soul.",
+    "retrieved_context": "amulets guide deceased. pyramids at Giza house pharaohs. mummification involves internal organs. spells and prayers contains Book of the Dead. mummification ensures afterlife. embalmers participate in burial practices. pyramids at Giza protect body. pyramids at Giza house other important individuals. Book of the Dead inscribed on papyrus scrolls. body contains linen bandages. deceased contains clothing. Book of the Dead is a type of religious texts. deceased contains jewelry. ordinary Egyptians contains tools. ordinary Egyptians contains food. Book of the Dead guide deceased. tombs constructed for other important individuals. spells and prayers guide deceased. Book of the Dead contains spells and prayers. tombs constructed for pharaohs. soul reunited with body. ordinary Egyptians contains personal belongings. priests participate in burial practices. pyramids at Giza protect possessions. deceased contains personal belongings. mummification preserves body. mummification involves salt. deceased contains food. pyramids at Giza serves as gateway to afterlife.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Ancient Egyptian burial practices were a vital part of Egyptian culture.",
+    "retrieved_context": "amulets guide deceased. pyramids at Giza house pharaohs. spells and prayers contains Book of the Dead. embalmers participate in burial practices. pyramids at Giza protect body. pyramids at Giza house other important individuals. Book of the Dead inscribed on papyrus scrolls. deceased contains clothing. Book of the Dead is a type of religious texts. deceased contains jewelry. ordinary Egyptians contains tools. ordinary Egyptians contains food. Book of the Dead guide deceased. mourners lead funeral procession. tombs constructed for other important individuals. spells and prayers guide deceased. Book of the Dead contains spells and prayers. tombs constructed for pharaohs. priests participate in burial practices. ordinary Egyptians contains personal belongings. pyramids at Giza protect possessions. deceased contains personal belongings. deceased contains food. pyramids at Giza serves as gateway to afterlife.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "53.33%"
+  }
+]
