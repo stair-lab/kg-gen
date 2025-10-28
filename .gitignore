@@ -19,5 +19,8 @@ experiments/MINE/results
 .gcloud
 experiments/MINE/answers.json
 experiments/MINE/essays.json
-Dockerfile
-.dockerignore
+output
+logs
+experiments/MINE/faiss-scikit/faiss
+experiments/MINE/faiss-scikit/scikit-learn
+experiments/MINE/faiss-scikit/*.zip

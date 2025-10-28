@@ -690,6 +690,7 @@
     let chunkSizeInput = document.getElementById('chunkSize');
     let temperatureInput = document.getElementById('temperature');
     let clusterToggle = document.getElementById('clusterToggle');
+    let retrievalModelSelect = document.getElementById('retrievalModel');
     let contextInput = document.getElementById('context');
     let sourceText = document.getElementById('sourceText');
     let textFileInput = document.getElementById('textFile');
@@ -703,6 +704,7 @@
         chunkSizeInput: !!chunkSizeInput,
         temperatureInput: !!temperatureInput,
         clusterToggle: !!clusterToggle,
+        retrievalModelSelect: !!retrievalModelSelect,
         contextInput: !!contextInput,
         viewer: !!viewer,
         viewerWrapper: !!viewerWrapper,
@@ -719,6 +721,7 @@
         chunkSize: 'kg-gen-chunk-size',
         temperature: 'kg-gen-temperature',
         cluster: 'kg-gen-cluster',
+        retrievalModel: 'kg-gen-retrieval-model',
         context: 'kg-gen-context'
     };
 
@@ -758,6 +761,14 @@
             const cachedCluster = localStorage.getItem(CACHE_KEYS.cluster);
             if (cachedCluster !== null && clusterToggle) {
                 clusterToggle.checked = cachedCluster === 'true';
+            }
+
+            // Load retrieval model
+            const cachedRetrievalModel = localStorage.getItem(CACHE_KEYS.retrievalModel);
+            console.log('[kg-gen] Cached retrieval model:', cachedRetrievalModel);
+            if (cachedRetrievalModel && retrievalModelSelect) {
+                retrievalModelSelect.value = cachedRetrievalModel;
+                console.log('[kg-gen] Retrieval model loaded:', retrievalModelSelect.value);
             }
 
             // Load context
@@ -819,6 +830,13 @@
         if (clusterToggle) {
             clusterToggle.addEventListener('change', () => {
                 saveCachedInput(CACHE_KEYS.cluster, clusterToggle.checked);
+            });
+        }
+
+        // Retrieval model caching
+        if (retrievalModelSelect) {
+            retrievalModelSelect.addEventListener('change', () => {
+                saveCachedInput(CACHE_KEYS.retrievalModel, retrievalModelSelect.value);
             });
         }
 
@@ -1539,6 +1557,7 @@
         formData.append('api_key', apiKey);
         formData.append('model', modelSelect.value);
         formData.append('cluster', clusterToggle.checked ? 'true' : 'false');
+        formData.append('retrieval_model', retrievalModelSelect.value);
         if (pastedText) {
             formData.append('source_text', pastedText);
         }
@@ -1559,6 +1578,7 @@
         console.info('[kg-gen] Submitting generate request', {
             model: modelSelect.value,
             cluster: clusterToggle.checked,
+            retrievalModel: retrievalModelSelect.value,
             hasText: Boolean(pastedText),
             hasFile: Boolean(textFile)
         });
@@ -1938,6 +1958,7 @@
         chunkSizeInput = document.getElementById('chunkSize');
         temperatureInput = document.getElementById('temperature');
         clusterToggle = document.getElementById('clusterToggle');
+        retrievalModelSelect = document.getElementById('retrievalModel');
         contextInput = document.getElementById('context');
         sourceText = document.getElementById('sourceText');
         textFileInput = document.getElementById('textFile');

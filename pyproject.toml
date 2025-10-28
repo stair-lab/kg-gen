@@ -24,6 +24,18 @@ dependencies = [
     "sentence-transformers>=5.1.0",
     "tqdm>=4.67.1",
     "datasets>=4.1.1",
+    "semhash>=0.3.2",
+    "inflect>=7.5.0",
+    "numpy>=1.24.0",
+    "scipy>=1.10.0",
+    "scikit-learn>=1.7.2",
+    "rank-bm25>=0.2.2",
+    "networkx>=3.0",
+    "python-dotenv>=1.0.0",
+    "dspy-ai>=2.6.27",
+    "pathlib2>=2.3.7",
+    "typer>=0.17.4",
+    "ruff>=0.14.2",
 ]
 
 [dependency-groups]
@@ -32,9 +44,8 @@ dev = [
     "huggingface-hub>=0.35.0",
     "pytest>=8.4.2",
     "pytest-asyncio>=0.21.0",
-    "sentence-transformers>=5.1.0",
-    "typer>=0.17.4",
     "wikipedia-api>=0.8.1",
+    "matplotlib>=3.10.7",
 ]
 mcp = [
     "fastmcp>=2.10.6",

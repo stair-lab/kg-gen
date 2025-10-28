@@ -168,6 +168,7 @@ async def generate_graph(
     cluster: Optional[str] = Form(None),
     source_text: Optional[str] = Form(None),
     text_file: Optional[UploadFile] = File(None),
+    retrieval_model: Optional[str] = Form("sentence-transformers/all-mpnet-base-v2"),
 ) -> JSONResponse:
     text_fragments: list[str] = []
 
@@ -234,16 +235,22 @@ async def generate_graph(
         if numeric_temperature is None:
             numeric_temperature = 1.0
 
-    kg_gen.init_model(model=model, api_key=api_key, temperature=numeric_temperature)
+    kg_gen.init_model(
+        model=model,
+        api_key=api_key,
+        temperature=numeric_temperature,
+        retrieval_model=retrieval_model,
+    )
 
     logger.info(
-        "Generating graph via KGGen: model=%s cluster=%s chunk_size=%s context_len=%s text_len=%s temperature=%s",
+        "Generating graph via KGGen: model=%s cluster=%s chunk_size=%s context_len=%s text_len=%s temperature=%s retrieval_model=%s",
         model,
         _parse_bool(cluster),
         numeric_chunk,
         len((_clean_str(context) or "")),
         len(request_text),
         numeric_temperature,
+        retrieval_model,
     )
     try:
         graph = kg_gen.generate(
