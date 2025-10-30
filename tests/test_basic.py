@@ -1,9 +1,5 @@
-from dotenv import load_dotenv
 from src.kg_gen import KGGen
-import os
-import pytest
-
-load_dotenv()
+from fixtures import kg
 
 
 def match_subset(set1: set[str], set2: set[str]) -> bool:
@@ -29,16 +25,11 @@ def match_subset(set1: set[str], set2: set[str]) -> bool:
     return True
 
 
-@pytest.fixture
-def kg():
-    return KGGen(api_key=os.getenv("OPENAI_API_KEY"))
-
-
 def test_basic(kg: KGGen):
     # Generate a simple graph
     text = "Harry has two parents - his dad James Potter and his mom Lily Potter. Harry and his wife Ginny have three kids together: their oldest son James Sirius, their other son Albus, and their daughter Lily Luna."
 
-    graph = kg.generate(input_data=text, model="openai/gpt-4o")
+    graph = kg.generate(input_data=text)
 
     expected_entities = {
         "Harry",
@@ -61,13 +52,11 @@ def test_clustered(kg: KGGen):
     # Generate individual graphs
     graph1 = kg.generate(
         input_data=text1,
-        model="openai/gpt-4o",
         context="Family relationships",
     )
 
     graph2 = kg.generate(
         input_data=text2,
-        model="openai/gpt-4o",
         context="Family relationships",
     )
 
@@ -78,8 +67,6 @@ def test_clustered(kg: KGGen):
     clustered_graph = kg.cluster(
         combined_graph,
         context="Family relationships",
-        model="openai/gpt-4o",
-        api_key=os.getenv("OPENAI_API_KEY"),
     )
     expected_entities = {"Linda", "Joshua", "Josh", "Ben", "Andrew", "Judy"}
     expected_edges = {
@@ -128,8 +115,6 @@ def test_conversation(kg: KGGen):
 
     graph = kg.generate(
         input_data=messages,
-        model="openai/gpt-4o",
-        api_key=os.getenv("OPENAI_API_KEY"),
     )
     expected_entities = {"France", "Paris"}
     assert match_subset(expected_entities, graph.entities)

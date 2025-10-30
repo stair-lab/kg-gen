@@ -11,7 +11,9 @@ import json
 from pathlib import Path
 from mcp import ClientSession, StdioServerParameters
 from mcp.client.stdio import stdio_client
+from dotenv import load_dotenv
 
+load_dotenv()
 
 @pytest.fixture
 def mcp_server_path():
@@ -32,8 +34,8 @@ async def init_mcp_server(storage_path=None):
 
     # Set up environment
     env = os.environ.copy()
-    env["KG_MODEL"] = "openai/gpt-4o-mini"  # Use cheaper model for testing
-    env["KG_API_KEY"] = env.get("OPENAI_API_KEY", "test-key")
+    env["KG_MODEL"] = env.get("LLM_MODEL")  # Use cheaper model for testing
+    env["KG_API_KEY"] = env.get("LLM_API_KEY")
     if storage_path:
         env["KG_STORAGE_PATH"] = storage_path
 

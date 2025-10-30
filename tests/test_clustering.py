@@ -1,18 +1,12 @@
 from src.kg_gen import KGGen
 from src.kg_gen.models import Graph
 import os
+from fixtures import kg
+from dotenv import load_dotenv
 
+load_dotenv()
 
-# Test configurations
-TEST_MODEL = "openai/gpt-4o"
-TEST_TEMP = 0.0
-TEST_API_KEY = os.getenv("OPENAI_API_KEY", "dummy-key")
-
-
-def test_basic_clustering():
-    # Test with initialization-time configuration
-    kg_gen = KGGen(model=TEST_MODEL, temperature=TEST_TEMP, api_key=TEST_API_KEY)
-
+def test_basic_clustering(kg: KGGen):
     # Create a simple graph with redundant entities and edges
     graph = Graph(
         entities={"cat", "cats", "kitten", "dog", "dogs", "puppy"},
@@ -27,7 +21,7 @@ def test_basic_clustering():
     )
 
     # Test clustering
-    clustered = kg_gen.cluster(graph)
+    clustered = kg.cluster(graph)
 
     # Check that similar entities were clustered
     assert len(clustered.entities) < len(graph.entities)
@@ -83,10 +77,7 @@ def test_basic_clustering():
     assert len(chase_cluster) >= 1  # At least one chase-related term
 
 
-def test_method_level_configuration():
-    # Initialize without configuration
-    kg_gen = KGGen()
-
+def test_method_level_configuration(kg: KGGen):
     graph = Graph(
         entities={"cat", "cats", "dog", "dogs"},
         edges={"likes", "like"},
@@ -94,8 +85,8 @@ def test_method_level_configuration():
     )
 
     # Test clustering with method-level configuration
-    clustered = kg_gen.cluster(
-        graph, model=TEST_MODEL, temperature=TEST_TEMP, api_key=TEST_API_KEY
+    clustered = kg.cluster(
+        graph
     )
 
     print(clustered)
@@ -106,9 +97,7 @@ def test_method_level_configuration():
     assert clustered.edge_clusters is not None
 
 
-def test_case_sensitivity_clustering():
-    kg_gen = KGGen(model=TEST_MODEL, temperature=TEST_TEMP, api_key=TEST_API_KEY)
-
+def test_case_sensitivity_clustering(kg: KGGen):
     # Create a graph with case variations
     graph = Graph(
         entities={"Person", "person", "PERSON", "Book", "BOOK", "book"},
@@ -120,7 +109,7 @@ def test_case_sensitivity_clustering():
         },
     )
 
-    clustered = kg_gen.cluster(graph)
+    clustered = kg.cluster(graph)
 
     # Check that case variations were clustered
     assert len(clustered.entities) == 2  # Should cluster to just person and book
@@ -158,9 +147,7 @@ def test_case_sensitivity_clustering():
     assert found_reads
 
 
-def test_semantic_clustering():
-    kg_gen = KGGen(model=TEST_MODEL, temperature=TEST_TEMP, api_key=TEST_API_KEY)
-
+def test_semantic_clustering(kg: KGGen):
     # Create a graph with semantically similar items
     graph = Graph(
         entities={"happy", "joyful", "glad", "sad", "unhappy", "gloomy", "person"},
@@ -175,7 +162,7 @@ def test_semantic_clustering():
         },
     )
 
-    clustered = kg_gen.cluster(
+    clustered = kg.cluster(
         graph, context="cluster based on sentiment, semantic similarity"
     )
 
@@ -200,9 +187,7 @@ def test_semantic_clustering():
     assert found_positive and found_negative
 
 
-def test_no_invalid_clustering():
-    kg_gen = KGGen(model=TEST_MODEL, temperature=TEST_TEMP, api_key=TEST_API_KEY)
-
+def test_no_invalid_clustering(kg: KGGen):
     # Create a graph with distinct items that shouldn't be clustered
     graph = Graph(
         entities={"apple", "banana", "carrot", "dog", "farmer"},
@@ -214,7 +199,7 @@ def test_no_invalid_clustering():
         },
     )
 
-    clustered = kg_gen.cluster(graph)
+    clustered = kg.cluster(graph)
 
     # Check that distinct items weren't clustered
     assert len(clustered.entities) == len(graph.entities)
@@ -242,12 +227,10 @@ def test_no_invalid_clustering():
         assert found
 
 
-def test_empty_graph_clustering():
-    kg_gen = KGGen(model=TEST_MODEL, temperature=TEST_TEMP, api_key=TEST_API_KEY)
-
+def test_empty_graph_clustering(kg: KGGen):
     # Test with empty graph
     empty_graph = Graph(entities=set(), edges=set(), relations=set())
-    clustered = kg_gen.cluster(empty_graph)
+    clustered = kg.cluster(empty_graph)
 
     assert len(clustered.entities) == 0
     assert len(clustered.edges) == 0
@@ -256,9 +239,7 @@ def test_empty_graph_clustering():
     assert clustered.edge_clusters == {}
 
 
-def test_single_item_clustering():
-    kg_gen = KGGen(model=TEST_MODEL, temperature=TEST_TEMP, api_key=TEST_API_KEY)
-
+def test_single_item_clustering(kg: KGGen):
     # Test with single items
     graph = Graph(
         entities={"person", "home"},
@@ -266,7 +247,7 @@ def test_single_item_clustering():
         relations={("person", "walks", "home")},
     )
 
-    clustered = kg_gen.cluster(graph)
+    clustered = kg.cluster(graph)
 
     # Check that relations are preserved
     assert len(clustered.relations) == len(graph.relations)
@@ -296,7 +277,7 @@ def test_single_item_clustering():
 
 def test_configuration_override():
     # Initialize with one set of configurations
-    kg_gen = KGGen(model=TEST_MODEL, temperature=0.0, api_key=TEST_API_KEY)
+    kg_gen = KGGen(model="no-model", api_key="no-api-key", temperature=0.0, retrieval_model=os.getenv("RETRIEVAL_MODEL"))
 
     graph = Graph(
         entities={"cat", "cats", "food"},
@@ -307,9 +288,9 @@ def test_configuration_override():
     # Override with different configurations in cluster method
     clustered = kg_gen.cluster(
         graph,
-        model=TEST_MODEL,  # Different model
-        temperature=TEST_TEMP,  # Different temperature
-        api_key=TEST_API_KEY,
+        model=os.getenv("LLM_MODEL"),  # Different model
+        temperature=float(os.getenv("LLM_TEMPERATURE", "1.0")),  # Different temperature
+        api_key=os.getenv("LLM_API_KEY"),
     )
 
     assert len(clustered.entities) <= len(graph.entities)
@@ -318,9 +299,7 @@ def test_configuration_override():
     assert clustered.edge_clusters is not None
 
 
-def test_large_scale_clustering():
-    kg_gen = KGGen(model=TEST_MODEL, temperature=TEST_TEMP, api_key=TEST_API_KEY)
-
+def test_large_scale_clustering(kg: KGGen):
     # Create a larger graph with multiple cluster opportunities
     graph = Graph(
         entities={
@@ -392,7 +371,7 @@ def test_large_scale_clustering():
   This knowledge graph describes relationships between animals and their caretakers. Cluster different forms of the same animal
   """
 
-    clustered = kg_gen.cluster(graph, context=context)
+    clustered = kg.cluster(graph, context=context)
 
     # Basic assertions
     assert len(clustered.entities) < len(graph.entities)
@@ -444,9 +423,7 @@ def test_large_scale_clustering():
         )
 
 
-def test_clustering_with_context():
-    kg_gen = KGGen(model=TEST_MODEL, temperature=TEST_TEMP, api_key=TEST_API_KEY)
-
+def test_clustering_with_context(kg: KGGen):
     # Create a graph with potentially ambiguous terms that should be clarified by context
     graph = Graph(
         entities={
@@ -487,7 +464,7 @@ def test_clustering_with_context():
   It covers the structure of banks, their branches, and how bank employees handle customer accounts and transactions.
   """
 
-    clustered = kg_gen.cluster(graph, context=context)
+    clustered = kg.cluster(graph, context=context)
 
     # Basic assertions
     assert len(clustered.entities) < len(graph.entities)
@@ -538,7 +515,7 @@ def test_clustering_with_context():
   It covers riverbanks, geological deposits, and tree branches along the water.
   """
 
-    nature_clustered = kg_gen.cluster(graph, context=nature_context)
+    nature_clustered = kg.cluster(graph, context=nature_context)
 
     # The clustering should be different with nature context
     assert nature_clustered.entity_clusters != clustered.entity_clusters

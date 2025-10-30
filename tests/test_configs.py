@@ -1,34 +1,24 @@
 import os
 from src.kg_gen import KGGen
 from dotenv import load_dotenv
+import pytest
+from fixtures import kg
 
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 API_BASE = os.getenv("API_BASE")
 
-load_dotenv()
-
-
 # Custom API BAse
-def test_custom_api_base():
-    # Example usage
-    kg = KGGen(api_key=OPENAI_API_KEY, api_base=API_BASE, model="gpt-4o-mini")
-
+def test_custom_api_base(kg: KGGen):
     # Generate a simple graph
     text = "Harry has two parents - his dad James Potter and his mom Lily Potter. Harry and his wife Ginny have three kids together: their oldest son James Sirius, their other son Albus, and their daughter Lily Luna."
 
     graph = kg.generate(
         input_data=text,
-        api_key=OPENAI_API_KEY,
         api_base=API_BASE,
-        model="gpt-4o-mini",
     )
     print(graph)
 
 
-def test_gen_clus_agg():
-    # Initialize KGGen
-    kg = KGGen()
-
+def test_gen_clus_agg(kg: KGGen):
     # Test texts
     text1 = "Linda is Joshua's mother. Ben is Josh's brother. Andrew is Josh's father."
     text2 = "Judy is Andrew's sister. Josh is Judy's nephew. Judy is Josh's aunt. Josh also goes by Joshua."
@@ -36,15 +26,11 @@ def test_gen_clus_agg():
     # Generate individual graphs
     graph1 = kg.generate(
         input_data=text1,
-        model="openai/gpt-4o",
-        api_key=os.getenv("OPENAI_API_KEY"),
         context="Family relationships",
     )
 
     graph2 = kg.generate(
         input_data=text2,
-        model="openai/gpt-4o",
-        api_key=os.getenv("OPENAI_API_KEY"),
         context="Family relationships",
     )
 
@@ -55,8 +41,6 @@ def test_gen_clus_agg():
     clustered_graph = kg.cluster(
         combined_graph,
         context="Family relationships",
-        model="openai/gpt-4o",
-        api_key=os.getenv("OPENAI_API_KEY"),
     )
 
     # Print results
@@ -83,10 +67,7 @@ def test_gen_clus_agg():
     print("Edge Clusters:", clustered_graph.edge_clusters)
 
 
-def test_multiple_models():
-    # Example usage
-    kg = KGGen()
-
+def test_multiple_models(kg: KGGen):
     # Test text input
     text = "Linda is Josh's mother. Ben is Josh's brother. Andrew is Josh's father. Judy is Andrew's sister. Josh is Judy's nephew. Judy is Josh's aunt."
     # Test with different models and their corresponding API keys

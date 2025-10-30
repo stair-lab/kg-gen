@@ -6,14 +6,16 @@ import pytest
 import os
 import tempfile
 from pathlib import Path
+from dotenv import load_dotenv
 
+load_dotenv()
 
 @pytest.fixture(scope="session")
 def test_api_key():
     """Get API key for testing, with helpful error if missing."""
-    api_key = os.environ.get("OPENAI_API_KEY")
+    api_key = os.environ.get("LLM_API_KEY")
     if not api_key:
-        pytest.skip("OPENAI_API_KEY environment variable not set")
+        pytest.skip("LLM_API_KEY environment variable not set")
     return api_key
 
 

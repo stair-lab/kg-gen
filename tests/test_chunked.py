@@ -1,14 +1,6 @@
-from dotenv import load_dotenv
 from src.kg_gen import KGGen
 import os
-import pytest
-
-load_dotenv()
-
-
-@pytest.fixture
-def kg():
-    return KGGen(api_key=os.getenv("OPENAI_API_KEY"))
+from fixtures import kg
 
 
 def test_chunked(kg: KGGen):
@@ -17,8 +9,6 @@ def test_chunked(kg: KGGen):
 
     graph = kg.generate(
         input_data=text,
-        model="openai/gpt-4o",
-        api_key=os.getenv("OPENAI_API_KEY"),
     )
     print("Without chunking:")
     print("Entities:", graph.entities)
@@ -28,8 +18,6 @@ def test_chunked(kg: KGGen):
     # Generate graph from wiki text with chunking
     graph_chunked = kg.generate(
         input_data=text,
-        model="openai/gpt-4o",
-        api_key=os.getenv("OPENAI_API_KEY"),
         chunk_size=1000,
     )
     print("\nWith chunking:")
@@ -68,8 +56,6 @@ def test_chunk_and_cluster(kg: KGGen):
     # # Generate graph from wiki text with chunking
     graph = kg.generate(
         input_data=text,
-        model="openai/gpt-4o",
-        api_key=os.getenv("OPENAI_API_KEY"),
         chunk_size=5000,
         cluster=True,
     )
