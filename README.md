@@ -243,6 +243,19 @@ And relations like:
 - (assistant, "states", "Paris")
 - (Paris, "is capital of", "France")
 
+### Citing
+If you find KGGen useful, please consider citing:
 
+```
+@misc{mo2025kggenextractingknowledgegraphs,
+      title={KGGen: Extracting Knowledge Graphs from Plain Text with Language Models}, 
+      author={Belinda Mo and Kyssen Yu and Joshua Kazdan and Joan Cabezas and Proud Mpala and Lisa Yu and Chris Cundy and Charilaos Kanatsoulis and Sanmi Koyejo},
+      year={2025},
+      eprint={2502.09956},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2502.09956}, 
+}
+```
 ## License
 The MIT License.
