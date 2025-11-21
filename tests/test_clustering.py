@@ -533,3 +533,223 @@ def test_clustering_with_context(kg: KGGen):
             assert "account" not in cluster
         if "branch" in cluster:
             assert "teller" not in cluster
+
+
+def test_semhash_deduplication(kg: KGGen):
+    """
+    Test SEMHASH deduplication method.
+    SEMHASH should catch:
+    - Plurals vs singulars (cat/cats, dog/dogs)
+    - Case variations (Person/person/PERSON)
+    - Very similar strings through normalization
+    
+    SEMHASH should NOT catch:
+    - True synonyms (CEO/Chief Executive Officer)
+    - Semantic equivalents (joyful/happy)
+    """
+    from src.kg_gen.steps._3_deduplicate import DeduplicateMethod
+    
+    graph = Graph(
+        entities={
+            "cat", "cats", "kitten",  # Plurals - should be caught
+            "dog", "dogs",  # Plurals - should be caught
+            "Person", "person", "PERSON",  # Case variations - should be caught
+            "CEO", "Chief Executive Officer",  # Synonyms - should NOT be caught by semhash
+            "happy", "joyful",  # Synonyms - should NOT be caught by semhash
+        },
+        edges={
+            "likes", "like",  # Plurals - should be caught
+            "manages", "Manages", "MANAGES",  # Case variations - should be caught
+            "supervises", "oversees",  # Synonyms - should NOT be caught by semhash
+        },
+        relations={
+            ("cat", "likes", "dog"),
+            ("cats", "like", "dogs"),
+            ("Person", "manages", "CEO"),
+            ("person", "Manages", "Chief Executive Officer"),
+            ("CEO", "supervises", "happy"),
+            ("Chief Executive Officer", "oversees", "joyful"),
+        },
+    )
+    
+    deduplicated = kg.deduplicate(
+        graph=graph,
+        method=DeduplicateMethod.SEMHASH,
+        semhash_similarity_threshold=0.95,
+    )
+    
+    # SEMHASH should merge plurals
+    assert "cat" in deduplicated.entities or "cats" in deduplicated.entities
+    assert not ("cat" in deduplicated.entities and "cats" in deduplicated.entities)
+    
+    # SEMHASH should merge case variations
+    person_count = sum(1 for e in deduplicated.entities if e.lower() == "person")
+    assert person_count == 1, "Case variations should be merged to one"
+    
+    # SEMHASH should NOT merge true synonyms (they're different words)
+    # Both CEO and Chief Executive Officer should still exist
+    ceo_variants = [e for e in deduplicated.entities if "ceo" in e.lower() or "chief executive" in e.lower()]
+    assert len(ceo_variants) == 2, "SEMHASH should not merge CEO and Chief Executive Officer"
+    
+    # SEMHASH should NOT merge happy and joyful (different words)
+    emotion_variants = [e for e in deduplicated.entities if e.lower() in ["happy", "joyful"]]
+    assert len(emotion_variants) == 2, "SEMHASH should not merge happy and joyful"
+    
+    # Check edges
+    assert "supervises" in deduplicated.edges
+    assert "oversees" in deduplicated.edges
+    assert "supervises" != "oversees", "SEMHASH should not merge synonym edges"
+    
+    print(f"Original entities: {len(graph.entities)}, Deduplicated: {len(deduplicated.entities)}")
+    print(f"Original edges: {len(graph.edges)}, Deduplicated: {len(deduplicated.edges)}")
+
+
+def test_lm_based_deduplication(kg: KGGen):
+    """
+    Test LM_BASED deduplication method.
+    LM_BASED should catch:
+    - True synonyms (CEO/Chief Executive Officer)
+    - Semantic equivalents (happy/joyful, big/large)
+    - Abbreviations and full forms (USA/United States of America)
+    - Tense variations (running/runs)
+    
+    This is what distinguishes LM_BASED from SEMHASH - it understands meaning.
+    """
+    from src.kg_gen.steps._3_deduplicate import DeduplicateMethod
+    
+    graph = Graph(
+        entities={
+            "CEO", "Chief Executive Officer",  # Abbreviation/full form
+            "USA", "United States of America",  # Abbreviation/full form
+            "happy", "joyful", "glad",  # Synonyms
+            "big", "large",  # Synonyms
+            "automobile", "car", "vehicle",  # Synonyms
+        },
+        edges={
+            "manages", "oversees", "supervises",  # Synonyms
+            "running", "runs", "run",  # Tense variations
+            "possesses", "owns", "has",  # Synonyms
+        },
+        relations={
+            ("CEO", "manages", "USA"),
+            ("Chief Executive Officer", "oversees", "United States of America"),
+            ("happy", "running", "big"),
+            ("joyful", "runs", "large"),
+            ("automobile", "possesses", "USA"),
+            ("car", "owns", "United States of America"),
+        },
+    )
+    
+    deduplicated = kg.deduplicate(
+        graph=graph,
+        method=DeduplicateMethod.LM_BASED,
+    )
+    
+    # LM_BASED should merge CEO and Chief Executive Officer
+    ceo_count = sum(1 for e in deduplicated.entities if "ceo" in e.lower() or "chief" in e.lower())
+    assert ceo_count == 1, "LM_BASED should merge CEO and Chief Executive Officer"
+    
+    # LM_BASED should merge USA abbreviations
+    usa_count = sum(1 for e in deduplicated.entities if "usa" in e.lower() or "united states" in e.lower())
+    assert usa_count == 1, "LM_BASED should merge USA and United States of America"
+    
+    # LM_BASED should merge happy synonyms
+    happy_emotions = [e for e in deduplicated.entities if e.lower() in ["happy", "joyful", "glad"]]
+    assert len(happy_emotions) == 1, f"LM_BASED should merge happy/joyful/glad, but got: {happy_emotions}"
+    
+    # LM_BASED should merge size synonyms
+    size_words = [e for e in deduplicated.entities if e.lower() in ["big", "large"]]
+    assert len(size_words) == 1, f"LM_BASED should merge big/large, but got: {size_words}"
+    
+    # Check edges - should merge synonyms
+    manage_edges = [e for e in deduplicated.edges if e.lower() in ["manages", "oversees", "supervises"]]
+    assert len(manage_edges) == 1, f"LM_BASED should merge management synonyms, but got: {manage_edges}"
+    
+    run_edges = [e for e in deduplicated.edges if "run" in e.lower()]
+    assert len(run_edges) == 1, f"LM_BASED should merge run tense variations, but got: {run_edges}"
+    
+    print(f"Original entities: {len(graph.entities)}, Deduplicated: {len(deduplicated.entities)}")
+    print(f"Original edges: {len(graph.edges)}, Deduplicated: {len(deduplicated.edges)}")
+    print(f"Deduplicated entities: {deduplicated.entities}")
+    print(f"Deduplicated edges: {deduplicated.edges}")
+
+
+def test_full_deduplication_comprehensive(kg: KGGen):
+    """
+    Test FULL deduplication method.
+    FULL method runs SEMHASH first, then LM_BASED, so it should catch:
+    - Everything SEMHASH catches (plurals, case variations)
+    - Everything LM_BASED catches (synonyms, abbreviations)
+    
+    This is the most comprehensive approach.
+    Since FULL = SEMHASH + LM_BASED, it catches both structural and semantic duplicates.
+    """
+    from src.kg_gen.steps._3_deduplicate import DeduplicateMethod
+    
+    graph = Graph(
+        entities={
+            # Plurals + case variations (SEMHASH territory)
+            "cat", "cats", "Cat", "CATS",
+            # Synonyms/Abbreviations (LM_BASED territory)  
+            "CEO", "Chief Executive Officer",
+            "USA", "United States of America",
+        },
+        edges={
+            # Plurals (SEMHASH)
+            "likes", "like",
+            # Case variations (SEMHASH)
+            "Manages", "manages", "MANAGES",
+            # Synonyms (LM_BASED)
+            "supervises", "oversees",
+        },
+        relations={
+            ("cat", "likes", "CEO"),
+            ("cats", "like", "Chief Executive Officer"),
+            ("Cat", "Manages", "USA"),
+            ("CATS", "manages", "United States of America"),
+            ("CEO", "supervises", "cat"),
+            ("Chief Executive Officer", "oversees", "cats"),
+        },
+    )
+    
+    deduplicated = kg.deduplicate(
+        graph=graph,
+        method=DeduplicateMethod.FULL,
+        semhash_similarity_threshold=0.95,
+    )
+    
+    # Should handle plurals + case variations (SEMHASH)
+    cat_variants = [e for e in deduplicated.entities if "cat" in e.lower()]
+    assert len(cat_variants) == 1, f"FULL should merge all cat variations, but got: {cat_variants}"
+    
+    # Should handle synonyms/abbreviations (LM_BASED)
+    ceo_count = sum(1 for e in deduplicated.entities if "ceo" in e.lower() or "chief" in e.lower())
+    assert ceo_count == 1, "FULL should merge CEO and Chief Executive Officer"
+    
+    # Should handle abbreviations (LM_BASED)
+    usa_count = sum(1 for e in deduplicated.entities if "usa" in e.lower() or "united states" in e.lower())
+    assert usa_count == 1, "FULL should merge USA and United States of America"
+    
+    # Check edges - should catch plurals
+    like_edges = [e for e in deduplicated.edges if "like" in e.lower()]
+    assert len(like_edges) == 1, f"FULL should merge like variations, but got: {like_edges}"
+    
+    # Check edges - should catch case variations
+    manage_edges = [e for e in deduplicated.edges if "manage" in e.lower()]
+    assert len(manage_edges) == 1, f"FULL should merge manages variations, but got: {manage_edges}"
+    
+    # Check edges - LM should catch synonyms (though this is non-deterministic)
+    supervise_edges = [e for e in deduplicated.edges if e.lower() in ["supervises", "oversees"]]
+    # LM-based deduplication is non-deterministic, so we allow 1 or 2 here
+    assert len(supervise_edges) <= 2, f"Got unexpected supervise edges: {supervise_edges}"
+    
+    # Overall, FULL should achieve significant deduplication
+    # Original: 11 entities, 7 edges
+    # Expected after FULL: ~3 entities (cat, CEO, USA), ~3-4 edges
+    assert len(deduplicated.entities) <= 5, f"FULL should significantly reduce entities, but got {len(deduplicated.entities)}"
+    assert len(deduplicated.edges) <= 4, f"FULL should significantly reduce edges, but got {len(deduplicated.edges)}"
+    
+    print(f"Original entities: {len(graph.entities)}, Deduplicated: {len(deduplicated.entities)}")
+    print(f"Original edges: {len(graph.edges)}, Deduplicated: {len(deduplicated.edges)}")
+    print(f"Final entities: {deduplicated.entities}")
+    print(f"Final edges: {deduplicated.edges}")

@@ -7,12 +7,11 @@ import enum
 
 
 class DeduplicateMethod(enum.Enum):
-    SEMHASH = "semhash"
-    "Deduplicate using deterministic rules and semantic hashing"
-    LM_BASED = "lm_based"
-    "Deduplicate using KNN clustering + Intra cluster LM deduplication"
-    FULL = "full"
-    "Deduplicate using both semantic hashing and KNN clustering + Intra cluster LM deduplication"
+    SEMHASH = "semhash"  # Deduplicate using deterministic rules and semantic hashing
+    LM_BASED = (
+        "lm_based"  # Deduplicate using KNN clustering + Intra cluster LM deduplication
+    )
+    FULL = "full"  # Deduplicate using both semantic hashing and KNN clustering + Intra cluster LM deduplication
 
 
 def run_deduplication(
@@ -40,4 +39,5 @@ def run_deduplication(
         llm_deduplicate = LLMDeduplicate(retrieval_model, lm, deduplicated_graph)
         llm_deduplicate.cluster()
         deduplicated_graph = llm_deduplicate.deduplicate()
+
     return deduplicated_graph
