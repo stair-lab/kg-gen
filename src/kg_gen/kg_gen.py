@@ -2,7 +2,7 @@ from typing import Union, List, Dict, Optional
 
 from kg_gen.steps._1_get_entities import get_entities
 from kg_gen.steps._2_get_relations import get_relations
-from kg_gen.steps._3_deduplicate import dedup_cluster_graph
+from kg_gen.steps._3_deduplicate import dedup_cluster_graph, DeduplicationStrategy
 from kg_gen.utils.chunk_text import chunk_text
 from kg_gen.utils.visualize_kg import visualize as visualize_kg
 from kg_gen.models import Graph
@@ -260,6 +260,7 @@ class KGGen:
 
         return graph
 
+
     def cluster(
         self,
         graph: Graph,
@@ -268,7 +269,27 @@ class KGGen:
         temperature: float = None,
         api_key: str = None,
         api_base: str = None,
+        dedup_strategy: DeduplicationStrategy = DeduplicationStrategy.SEMANTIC_HASH,
     ) -> Graph:
+        """
+        Cluster and deduplicate a knowledge graph.
+        
+        Args:
+            graph: Graph to cluster and deduplicate
+            context: Optional context for clustering
+            model: Optional model override
+            temperature: Optional temperature override
+            api_key: Optional API key override
+            api_base: Optional API base override
+            dedup_strategy: Strategy for initial deduplication before LLM clustering.
+                Options:
+                - DETERMINISTIC: Fast fuzzy hash-based matching
+                - SEMANTIC_HASH: Existing semantic hashing (default)
+                - BOTH: Run deterministic first, then semantic hash
+        
+        Returns:
+            Clustered and deduplicated graph
+        """
         # Reinitialize dspy with new parameters if any are provided
         if any([model, temperature, api_key, api_base]):
             self.init_model(
@@ -281,7 +302,10 @@ class KGGen:
         if self.retrieval_model is None:
             raise ValueError("No retrieval model provided")
         return dedup_cluster_graph(
-            retrieval_model=self.retrieval_model, lm=self.lm, graph=graph
+            retrieval_model=self.retrieval_model,
+            lm=self.lm,
+            graph=graph,
+            dedup_strategy=dedup_strategy,
         )
 
     def aggregate(self, graphs: list[Graph]) -> Graph:
