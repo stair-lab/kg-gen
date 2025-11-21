@@ -235,7 +235,7 @@ class KGGen:
         )
 
         if cluster:
-            graph = self.cluster(graph, context)
+            graph = self.cluster(graph)  # TODO: implement context
 
         if output_folder:
             os.makedirs(output_folder, exist_ok=True)
