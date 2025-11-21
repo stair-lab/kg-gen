@@ -5,14 +5,17 @@ Integration tests for deduplication in the KGGen pipeline.
 import pytest
 from src.kg_gen import KGGen
 from src.kg_gen.models import Graph
+from src.kg_gen.steps._3_deduplicate import (
+    DeduplicationStrategy,
+    _apply_deterministic_deduplication_to_graph,
+)
 
 
 class TestDeduplicationIntegration:
+    """Test that deduplication strategies work in the pipeline."""
     
     def test_deterministic_deduplication_helper(self):
-        """Test the _apply_deterministic_deduplication helper method."""
-        kg = KGGen(model="no-model", api_key="no-key")
-        
+        """Test the _apply_deterministic_deduplication_to_graph helper function."""
         # Create a graph with obvious duplicates
         test_graph = Graph(
             entities={"Stanford", "stanford", "MIT", "  MIT  "},
@@ -24,7 +27,7 @@ class TestDeduplicationIntegration:
         )
         
         # Apply deterministic deduplication
-        deduped = kg._apply_deterministic_deduplication(test_graph)
+        deduped = _apply_deterministic_deduplication_to_graph(test_graph)
         
         # Should reduce entities and edges
         assert len(deduped.entities) < len(test_graph.entities)
@@ -40,9 +43,8 @@ class TestDeduplicationIntegration:
             assert obj in deduped.entities
     
     def test_deduplication_preserves_graph_structure(self):
-        kg = KGGen(model="no-model", api_key="no-key")
-        
-        # Graph with various duplicates
+        """Test that deduplication preserves graph structure."""
+        # Create a graph with various duplicates
         test_graph = Graph(
             entities={"Alice", "alice", "Bob", "BOB", "Charlie"},
             edges={"knows", "KNOWS", "loves"},
@@ -53,7 +55,7 @@ class TestDeduplicationIntegration:
             },
         )
         
-        deduped = kg._apply_deterministic_deduplication(test_graph)
+        deduped = _apply_deterministic_deduplication_to_graph(test_graph)
         
         # Should have fewer entities/edges but same logical structure
         assert len(deduped.entities) >= 1  # At least one unique entity
@@ -68,8 +70,6 @@ class TestDeduplicationIntegration:
     
     def test_no_duplicates_unchanged(self):
         """Test that graphs without duplicates remain unchanged."""
-        kg = KGGen(model="no-model", api_key="no-key")
-        
         # Graph with no duplicates
         test_graph = Graph(
             entities={"Alice", "Bob", "Charlie"},
@@ -80,7 +80,7 @@ class TestDeduplicationIntegration:
             },
         )
         
-        deduped = kg._apply_deterministic_deduplication(test_graph)
+        deduped = _apply_deterministic_deduplication_to_graph(test_graph)
         
         # Should have same number of entities and edges
         assert len(deduped.entities) == len(test_graph.entities)
@@ -88,17 +88,21 @@ class TestDeduplicationIntegration:
         assert len(deduped.relations) == len(test_graph.relations)
     
     def test_empty_graph(self):
-        kg = KGGen(model="no-model", api_key="no-key")
-        
+        """Test handling of empty graph."""
         test_graph = Graph(
             entities=set(),
             edges=set(),
             relations=set(),
         )
         
-        deduped = kg._apply_deterministic_deduplication(test_graph)
+        deduped = _apply_deterministic_deduplication_to_graph(test_graph)
         
         assert len(deduped.entities) == 0
         assert len(deduped.edges) == 0
         assert len(deduped.relations) == 0
-
+    
+    def test_deduplication_strategy_enum(self):
+        """Test that DeduplicationStrategy enum works correctly."""
+        assert DeduplicationStrategy.DETERMINISTIC.value == "deterministic"
+        assert DeduplicationStrategy.SEMANTIC_HASH.value == "semantic_hash"
+        assert DeduplicationStrategy.BOTH.value == "both"
