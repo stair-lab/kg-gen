@@ -6,6 +6,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+
 def test_basic_clustering(kg: KGGen):
     # Create a simple graph with redundant entities and edges
     graph = Graph(
@@ -85,9 +86,7 @@ def test_method_level_configuration(kg: KGGen):
     )
 
     # Test clustering with method-level configuration
-    clustered = kg.cluster(
-        graph
-    )
+    clustered = kg.cluster(graph)
 
     print(clustered)
 
@@ -277,7 +276,12 @@ def test_single_item_clustering(kg: KGGen):
 
 def test_configuration_override():
     # Initialize with one set of configurations
-    kg_gen = KGGen(model="no-model", api_key="no-api-key", temperature=0.0, retrieval_model=os.getenv("RETRIEVAL_MODEL"))
+    kg_gen = KGGen(
+        model="no-model",
+        api_key="no-api-key",
+        temperature=0.0,
+        retrieval_model=os.getenv("RETRIEVAL_MODEL"),
+    )
 
     graph = Graph(
         entities={"cat", "cats", "food"},

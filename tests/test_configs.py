@@ -6,6 +6,7 @@ from fixtures import kg
 
 API_BASE = os.getenv("API_BASE")
 
+
 # Custom API BAse
 def test_custom_api_base(kg: KGGen):
     # Generate a simple graph

@@ -5,6 +5,7 @@ import pytest
 
 load_dotenv()
 
+
 @pytest.fixture
 def kg():
     return KGGen(
@@ -13,4 +14,3 @@ def kg():
         temperature=float(os.getenv("LLM_TEMPERATURE", "1.0")),
         retrieval_model=os.getenv("RETRIEVAL_MODEL", "all-MiniLM-L6-v2"),
     )
-
