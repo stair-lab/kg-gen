@@ -2,7 +2,7 @@ from typing import Union, List, Dict, Optional
 
 from kg_gen.steps._1_get_entities import get_entities
 from kg_gen.steps._2_get_relations import get_relations
-from kg_gen.steps._3_deduplicate import dedup_cluster_graph
+from kg_gen.steps._3_deduplicate import run_deduplication, DeduplicateMethod
 from kg_gen.utils.chunk_text import chunk_text
 from kg_gen.utils.visualize_kg import visualize as visualize_kg
 from kg_gen.models import Graph
@@ -263,6 +263,15 @@ class KGGen:
     def cluster(
         self,
         graph: Graph,
+        **kwargs,
+    ) -> Graph:
+        return self.deduplicate(graph, **kwargs)
+
+    def deduplicate(
+        self,
+        graph: Graph,
+        method: DeduplicateMethod = DeduplicateMethod.FULL,
+        semhash_similarity_threshold: float = 0.95,  # recommended to keep at 0.95
         context: str = "",
         model: str = None,
         temperature: float = None,
@@ -278,10 +287,12 @@ class KGGen:
                 api_base=api_base or self.api_base,
             )
 
-        if self.retrieval_model is None:
-            raise ValueError("No retrieval model provided")
-        return dedup_cluster_graph(
-            retrieval_model=self.retrieval_model, lm=self.lm, graph=graph
+        return run_deduplication(
+            lm=self.lm,
+            graph=graph,
+            method=method,
+            retrieval_model=self.retrieval_model,
+            semhash_similarity_threshold=semhash_similarity_threshold,
         )
 
     def aggregate(self, graphs: list[Graph]) -> Graph:
