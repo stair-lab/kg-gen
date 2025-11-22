@@ -15,6 +15,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+
 @pytest.fixture
 def mcp_server_path():
     """Get the path to the MCP server file."""

@@ -10,6 +10,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+
 @pytest.fixture(scope="session")
 def test_api_key():
     """Get API key for testing, with helpful error if missing."""

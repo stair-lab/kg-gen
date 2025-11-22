@@ -7,7 +7,7 @@ from sentence_transformers import SentenceTransformer
 import typer
 
 from kg_gen.utils.llm_deduplicate import LLMDeduplicate
-from kg_gen.utils.deduplicate import deduplicate_graph
+from kg_gen.utils.deduplicate import run_semhash_deduplication
 from kg_gen.models import Graph
 
 app = typer.Typer()
@@ -39,7 +39,7 @@ def main(
 
     # Deduplicate the graph using semantic hashing
     start_time = time.time()
-    deduplicated_graph = deduplicate_graph(graph)
+    deduplicated_graph = run_semhash_deduplication(graph)
     end_time = time.time()
     semhash_time = end_time - start_time
     deduplicated_graph.to_file("output/deduplicated_graph.json")
