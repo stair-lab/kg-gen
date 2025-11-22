@@ -32,6 +32,7 @@ class KGGen:
         api_key: str = None,
         api_base: str = None,
         retrieval_model: Optional[str] = None,
+        disable_cache: bool = False,
     ):
         """Initialize KGGen with optional model configuration
 
@@ -49,6 +50,7 @@ class KGGen:
         self.api_base = api_base
         self.retrieval_model: Optional[SentenceTransformer] = None
         self.lm = None
+        self.disable_cache = disable_cache
 
         self.init_model(
             model=model,
@@ -126,6 +128,7 @@ class KGGen:
                 temperature=self.temperature,
                 max_tokens=self.max_tokens,
                 api_base=self.api_base,
+                cache=not self.disable_cache,
             )
         else:
             self.lm = dspy.LM(
@@ -134,6 +137,7 @@ class KGGen:
                 max_tokens=self.max_tokens,
                 api_base=self.api_base,
                 reasoning_effort=self.reasoning_effort,
+                cache=not self.disable_cache,
             )
 
     @staticmethod
