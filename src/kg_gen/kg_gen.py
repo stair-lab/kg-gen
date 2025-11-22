@@ -414,3 +414,30 @@ class KGGen:
 
         explore_neighbors(node, 1)
         return list(context)
+
+    # ====== Token Usage ======
+    def reset_token_usage(self):
+        self.lm.history = []
+
+    def extract_token_usage_from_history(self) -> Dict[str, int]:
+        """Extract token usage from dspy LM history."""
+
+        total_prompt_tokens = 0
+        total_completion_tokens = 0
+        total_tokens = 0
+
+        for entry in self.lm.history:
+            if isinstance(entry, dict):
+                # Check for usage information in various possible locations
+                usage = entry.get("usage") or entry.get("response", {}).get("usage")
+
+                if usage:
+                    total_prompt_tokens += usage.get("prompt_tokens", 0)
+                    total_completion_tokens += usage.get("completion_tokens", 0)
+                    total_tokens += usage.get("total_tokens", 0)
+
+        return {
+            "prompt_tokens": total_prompt_tokens,
+            "completion_tokens": total_completion_tokens,
+            "total_tokens": total_tokens,
+        }
