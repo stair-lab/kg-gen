@@ -78,6 +78,7 @@ def get_relations(
         return [(r.subject, r.predicate, r.object) for r in result.relations]
 
     except Exception as _:
+        # print("get_relations: fallback extraction")
         Relation, ExtractRelations = fallback_extraction_sig(
             entities, is_conversation, context
         )

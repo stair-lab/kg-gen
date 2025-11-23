@@ -24,3 +24,5 @@ logs
 experiments/MINE/faiss-scikit/faiss
 experiments/MINE/faiss-scikit/scikit-learn
 experiments/MINE/faiss-scikit/*.zip
+mlruns/
+examples/wikipedia/
