@@ -158,6 +158,17 @@ def plot_all_directories_comparison(
 ):
     """Plot a comprehensive comparison of all directories."""
 
+    # Filter out empty results
+    results_dict = {
+        name: data
+        for name, data in results_dict.items()
+        if len(data["accuracies"]) > 0
+    }
+    
+    if not results_dict:
+        print("Warning: No valid results to plot")
+        return
+
     # Set style for better-looking plots
     plt.style.use("seaborn-v0_8-darkgrid")
 
@@ -252,22 +263,30 @@ def plot_all_directories_comparison(
     print("-" * 80)
     for name, data in results_dict.items():
         accuracies = data["accuracies"]
-        print(
-            f"{name:<40} {np.mean(accuracies):<10.2f} {np.median(accuracies):<10.2f} "
-            f"{np.std(accuracies):<10.2f} {np.min(accuracies):<10.2f} {np.max(accuracies):<10.2f}"
-        )
+        if len(accuracies) > 0:
+            print(
+                f"{name:<40} {np.mean(accuracies):<10.2f} {np.median(accuracies):<10.2f} "
+                f"{np.std(accuracies):<10.2f} {np.min(accuracies):<10.2f} {np.max(accuracies):<10.2f}"
+            )
+        else:
+            print(f"{name:<40} {'N/A':<10} {'N/A':<10} {'N/A':<10} {'N/A':<10} {'N/A':<10}")
     print("=" * 80)
 
     # Rank experiments by mean accuracy
     ranked = sorted(
-        results_dict.items(), key=lambda x: np.mean(x[1]["accuracies"]), reverse=True
+        results_dict.items(), 
+        key=lambda x: np.mean(x[1]["accuracies"]) if len(x[1]["accuracies"]) > 0 else -1, 
+        reverse=True
     )
     print("\n" + "=" * 80)
     print("RANKING (by Mean Accuracy)")
     print("=" * 80)
     for rank, (name, data) in enumerate(ranked, 1):
-        mean_acc = np.mean(data["accuracies"])
-        print(f"{rank}. {name:<50} {mean_acc:.2f}%")
+        if len(data["accuracies"]) > 0:
+            mean_acc = np.mean(data["accuracies"])
+            print(f"{rank}. {name:<50} {mean_acc:.2f}%")
+        else:
+            print(f"{rank}. {name:<50} N/A (no data)")
     print("=" * 80)
 
 
@@ -291,27 +310,40 @@ def write_summary_file(results_dict, output_file="results/summary.txt"):
 
         for name, data in results_dict.items():
             accuracies = data["accuracies"]
-            f.write(
-                f"{name:<45} "
-                f"{np.mean(accuracies):>10.2f} "
-                f"{np.median(accuracies):>10.2f} "
-                f"{np.std(accuracies):>10.2f} "
-                f"{np.min(accuracies):>10.2f} "
-                f"{np.max(accuracies):>10.2f}\n"
-            )
+            if len(accuracies) > 0:
+                f.write(
+                    f"{name:<45} "
+                    f"{np.mean(accuracies):>10.2f} "
+                    f"{np.median(accuracies):>10.2f} "
+                    f"{np.std(accuracies):>10.2f} "
+                    f"{np.min(accuracies):>10.2f} "
+                    f"{np.max(accuracies):>10.2f}\n"
+                )
+            else:
+                f.write(
+                    f"{name:<45} "
+                    f"{'N/A':>10} "
+                    f"{'N/A':>10} "
+                    f"{'N/A':>10} "
+                    f"{'N/A':>10} "
+                    f"{'N/A':>10}\n"
+                )
         f.write("-" * 100 + "\n\n")
 
         # Ranking
         ranked = sorted(
             results_dict.items(),
-            key=lambda x: np.mean(x[1]["accuracies"]),
+            key=lambda x: np.mean(x[1]["accuracies"]) if len(x[1]["accuracies"]) > 0 else -1,
             reverse=True,
         )
         f.write("RANKING (by Mean Accuracy)\n")
         f.write("-" * 100 + "\n")
         for rank, (name, data) in enumerate(ranked, 1):
-            mean_acc = np.mean(data["accuracies"])
-            f.write(f"{rank}. {name:<60} {mean_acc:>10.2f}%\n")
+            if len(data["accuracies"]) > 0:
+                mean_acc = np.mean(data["accuracies"])
+                f.write(f"{rank}. {name:<60} {mean_acc:>10.2f}%\n")
+            else:
+                f.write(f"{rank}. {name:<60} {'N/A':>10}\n")
         f.write("-" * 100 + "\n\n")
 
         # Pairwise comparisons
@@ -329,6 +361,14 @@ def write_summary_file(results_dict, output_file="results/summary.txt"):
 
             # Truncate to same length if needed
             min_len = min(len(accuracies1), len(accuracies2))
+            
+            # Skip if no data to compare
+            if min_len == 0:
+                f.write(f"{name2} vs {name1}\n")
+                f.write("-" * 100 + "\n")
+                f.write("  No data available for comparison\n\n")
+                continue
+            
             acc1 = accuracies1[:min_len]
             acc2 = accuracies2[:min_len]
 
@@ -380,14 +420,17 @@ def write_summary_file(results_dict, output_file="results/summary.txt"):
             f.write("-" * 100 + "\n")
             for name, data in results_dict.items():
                 accuracies = data["accuracies"]
-                in_range = [
-                    acc
-                    for acc in accuracies
-                    if low <= acc < high or (high == 100 and acc == 100)
-                ]
-                count = len(in_range)
-                percentage = 100 * count / len(accuracies) if accuracies else 0
-                f.write(f"  {name:<60} {count:>4} cases ({percentage:>5.1f}%)\n")
+                if len(accuracies) > 0:
+                    in_range = [
+                        acc
+                        for acc in accuracies
+                        if low <= acc < high or (high == 100 and acc == 100)
+                    ]
+                    count = len(in_range)
+                    percentage = 100 * count / len(accuracies)
+                    f.write(f"  {name:<60} {count:>4} cases ({percentage:>5.1f}%)\n")
+                else:
+                    f.write(f"  {name:<60} {'N/A':>4}\n")
             f.write("\n")
 
         # Key insights
@@ -395,48 +438,64 @@ def write_summary_file(results_dict, output_file="results/summary.txt"):
         f.write("KEY INSIGHTS\n")
         f.write("=" * 100 + "\n\n")
 
-        best_model = ranked[0][0]
-        worst_model = ranked[-1][0]
-        best_mean = np.mean(ranked[0][1]["accuracies"])
-        worst_mean = np.mean(ranked[-1][1]["accuracies"])
+        # Filter out empty results for insights
+        valid_ranked = [(name, data) for name, data in ranked if len(data["accuracies"]) > 0]
+        
+        if len(valid_ranked) >= 2:
+            best_model = valid_ranked[0][0]
+            worst_model = valid_ranked[-1][0]
+            best_mean = np.mean(valid_ranked[0][1]["accuracies"])
+            worst_mean = np.mean(valid_ranked[-1][1]["accuracies"])
 
-        f.write(f"1. BEST PERFORMER: {best_model}\n")
-        f.write(f"   - Mean accuracy: {best_mean:.2f}%\n")
-        f.write(
-            f"   - Outperforms others by {best_mean - worst_mean:.2f}% on average\n\n"
-        )
+            f.write(f"1. BEST PERFORMER: {best_model}\n")
+            f.write(f"   - Mean accuracy: {best_mean:.2f}%\n")
+            f.write(
+                f"   - Outperforms others by {best_mean - worst_mean:.2f}% on average\n\n"
+            )
 
-        f.write(f"2. LOWEST PERFORMER: {worst_model}\n")
-        f.write(f"   - Mean accuracy: {worst_mean:.2f}%\n\n")
+            f.write(f"2. LOWEST PERFORMER: {worst_model}\n")
+            f.write(f"   - Mean accuracy: {worst_mean:.2f}%\n\n")
+        elif len(valid_ranked) == 1:
+            best_model = valid_ranked[0][0]
+            best_mean = np.mean(valid_ranked[0][1]["accuracies"])
+            f.write(f"1. ONLY VALID PERFORMER: {best_model}\n")
+            f.write(f"   - Mean accuracy: {best_mean:.2f}%\n\n")
+        else:
+            f.write("No valid results to analyze.\n\n")
 
         # Check for unexpected patterns
-        if "minimal" in best_model.lower():
-            f.write("3. ⚠️  UNEXPECTED FINDING:\n")
-            f.write(
-                "   The 'minimal' configuration outperforms configurations with more reasoning.\n"
-            )
-            f.write("   This suggests:\n")
-            f.write(
-                "   - More reasoning tokens may introduce noise or hallucinations\n"
-            )
-            f.write("   - The task may benefit from concise, focused retrieval\n")
-            f.write("   - Over-reasoning might dilute the key information\n")
-            f.write(
-                "   - The embedding/retrieval system may work better with simpler representations\n\n"
-            )
+        if len(valid_ranked) >= 1:
+            best_model = valid_ranked[0][0]
+            if "minimal" in best_model.lower():
+                f.write("3. ⚠️  UNEXPECTED FINDING:\n")
+                f.write(
+                    "   The 'minimal' configuration outperforms configurations with more reasoning.\n"
+                )
+                f.write("   This suggests:\n")
+                f.write(
+                    "   - More reasoning tokens may introduce noise or hallucinations\n"
+                )
+                f.write("   - The task may benefit from concise, focused retrieval\n")
+                f.write("   - Over-reasoning might dilute the key information\n")
+                f.write(
+                    "   - The embedding/retrieval system may work better with simpler representations\n\n"
+                )
 
         # Consistency analysis
         f.write("4. CONSISTENCY ANALYSIS:\n")
         for name, data in results_dict.items():
             accuracies = data["accuracies"]
-            std = np.std(accuracies)
-            f.write(f"   {name}: Std Dev = {std:.2f}% ")
-            if std < 15:
-                f.write("(Very consistent)\n")
-            elif std < 20:
-                f.write("(Moderately consistent)\n")
+            if len(accuracies) > 0:
+                std = np.std(accuracies)
+                f.write(f"   {name}: Std Dev = {std:.2f}% ")
+                if std < 15:
+                    f.write("(Very consistent)\n")
+                elif std < 20:
+                    f.write("(Moderately consistent)\n")
+                else:
+                    f.write("(High variance)\n")
             else:
-                f.write("(High variance)\n")
+                f.write(f"   {name}: N/A (No data)\n")
 
         f.write("\n" + "=" * 100 + "\n")
         f.write("End of Summary\n")
@@ -461,6 +520,12 @@ def compare_all_pairs(results_dict, output_dir="pairwise_comparisons"):
 
         accuracies1 = data1["accuracies"]
         accuracies2 = data2["accuracies"]
+        
+        # Skip if either dataset is empty
+        if len(accuracies1) == 0 or len(accuracies2) == 0:
+            print(f"  Skipping {name1} vs {name2}: Empty dataset")
+            continue
+        
         file_paths1 = data1["file_paths"]
         file_paths2 = data2["file_paths"]
 
@@ -478,15 +543,15 @@ def compare_all_pairs(results_dict, output_dir="pairwise_comparisons"):
         safe_name2 = name2.replace("/", "_").replace(" ", "_")
         output_file = output_path / f"{safe_name1}_vs_{safe_name2}.png"
 
-    plot_comparison(
-        accuracies1,
-        file_paths1,
-        name1,
-        accuracies2,
-        file_paths2,
-        name2,
-        str(output_file),
-    )
+        plot_comparison(
+            accuracies1,
+            file_paths1,
+            name1,
+            accuracies2,
+            file_paths2,
+            name2,
+            str(output_file),
+        )
 
     print(f"✓ All pairwise comparisons saved to {output_dir}/")
 

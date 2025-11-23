@@ -81,10 +81,21 @@ def main():
 
     model_names = list(all_results.keys())
 
-    # Essay selector
+    # Find essays that have results for at least one model
+    available_essays = set()
+    for model_name, model_results in all_results.items():
+        available_essays.update(model_results.keys())
+    
+    available_essays = sorted(list(available_essays))
+    
+    if not available_essays:
+        st.error("No essay results found")
+        return
+
+    # Essay selector (only show essays with results)
     essay_idx = st.selectbox(
         "Select Essay",
-        range(len(dataset)),
+        available_essays,
         format_func=lambda x: f"Essay {x}: {dataset[x].get('essay_topic', 'Unknown')}",
     )
 
@@ -92,6 +103,12 @@ def main():
     queries = essay_data.get("generated_queries", [])
 
     st.subheader(f"Essay Topic: {essay_data.get('essay_topic', 'Unknown')}")
+    
+    # Show which models have data for this essay
+    models_without_data = [name for name in model_names if essay_idx not in all_results.get(name, {})]
+    
+    if models_without_data:
+        st.info(f"⚠️ {len(models_without_data)} model(s) missing results for this essay: {', '.join(models_without_data)}")
 
     # Build table data
     table_data = []
