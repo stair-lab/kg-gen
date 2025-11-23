@@ -19,8 +19,9 @@ load_dotenv()
 
 # Configure DSPy with OpenAI
 lm = dspy.LM(
-    model=os.getenv("LLM_MODEL"),
-    api_key=os.getenv("LLM_API_KEY"),
+    model="openai/gpt-5",
+    api_key=os.getenv("OPENAI_API_KEY"),
+    reasoning_effort="high",
     temperature=1.0,
     max_tokens=16000,
 )
@@ -48,14 +49,10 @@ class ResponseEvaluator(dspy.Module):
         return self.evaluate(context=context, correct_answer=correct_answer)
 
 
-# Initialize the evaluator
-evaluator = ResponseEvaluator()
-
-
 def gpt_evaluate_response(correct_answer: str, context: str) -> int:
-    """Evaluate if the context contains the correct answer using DSPy with GPT-5-nano."""
+    evaluator = ResponseEvaluator()
     result = evaluator.forward(context=context, correct_answer=correct_answer)
-    return int(result.evaluation)
+    return int(result.evaluation.value)
 
 
 def evaluate_accuracy(
@@ -97,10 +94,26 @@ def process_single_evaluation(
     queries: list[dict],
     kggen: KGGen,
     evaluation_model: str,
+    model_name: str,
+    reasoning_effort: str | None,
+    temperature: float,
     deduplication_method: Literal["semhash", "full"] | None = "full",
 ) -> tuple[int, bool, str]:
     """Process a single evaluation task. Returns (index, success, message)."""
-    output_file = f"experiments/MINE/results/{evaluation_model}/results_{i}.json"
+    # Build directory name based on evaluation model
+    if evaluation_model == "local":
+        # Build directory name from model config
+        dir_name = model_name.replace("/", "-")
+        if reasoning_effort:
+            dir_name += f"-{reasoning_effort}"
+        dir_name += f"-{temperature}"
+        if deduplication_method:
+            dir_name += f"-{deduplication_method}"
+    else:
+        # For pre-generated KGs from HuggingFace dataset
+        dir_name = f"hf-{evaluation_model}"
+
+    output_file = f"experiments/MINE/results/{dir_name}/results_{i}.json"
     try:
         # Create the output directory if it doesn't exist
         os.makedirs(os.path.dirname(output_file), exist_ok=True)
@@ -138,10 +151,12 @@ def main(
     model: str = "openai/gpt-5-nano",
     api_key_env: str = "OPENAI_API_KEY",
     api_base_url: str | None = None,
+    # local: means re-run the KG generation step
+    # kggen: means use the KG generated and saved in the huggingface dataset, same for graphrag and openie
     evaluation_model: Literal["local", "kggen", "graphrag", "openie"] = "local",
     reasoning_effort: str = None,
     temperature: float = 1.0,
-    deduplication_method: Literal["semhash", "full"] | None = "full",
+    deduplication_method: Literal["semhash", "full"] | None = "semhash",
     max_workers: int = 64,
 ):
     # Load data from Hugging Face (with local fallback)
@@ -164,6 +179,7 @@ def main(
         model=model,
         api_key=os.getenv(api_key_env),
         api_base=api_base_url,
+        max_tokens=64000,
     )
     valid_pairs = [
         (kg, queries) for kg, queries in zip(kg_data, queries) if kg is not None
@@ -182,6 +198,9 @@ def main(
                 queries,
                 kggen,
                 evaluation_model,
+                model,
+                reasoning_effort,
+                temperature,
                 deduplication_method,
             ): i
             for i, (kg, queries) in enumerate(valid_pairs)
