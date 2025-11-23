@@ -1,6 +1,7 @@
 from dotenv import load_dotenv
 import dspy
 from datasets import load_dataset
+from kg_gen.steps._3_deduplicate import DeduplicateMethod
 import numpy as np
 import networkx as nx
 from kg_gen.kg_gen import KGGen
@@ -8,6 +9,8 @@ import json
 import sys
 import os
 from typing import Literal
+import typer
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # Add the src directory to Python path to import from source code
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "src"))
@@ -88,7 +91,59 @@ def evaluate_accuracy(
     print(f"Results saved to {output_file}")
 
 
-def main(evaluation_model: Literal["local", "kggen", "graphrag", "openie"] = "local"):
+def process_single_evaluation(
+    i: int,
+    data: dict | str,
+    queries: list[dict],
+    kggen: KGGen,
+    evaluation_model: str,
+    deduplication_method: Literal["semhash", "full"] | None = "full",
+) -> tuple[int, bool, str]:
+    """Process a single evaluation task. Returns (index, success, message)."""
+    output_file = f"experiments/MINE/results/{evaluation_model}/results_{i}.json"
+    try:
+        # Create the output directory if it doesn't exist
+        os.makedirs(os.path.dirname(output_file), exist_ok=True)
+
+        if not deduplication_method:
+            method = None
+        else:
+            method = (
+                DeduplicateMethod.SEMHASH
+                if deduplication_method == "semhash"
+                else DeduplicateMethod.FULL
+            )
+
+        if evaluation_model == "local":
+            # Generate the graph from text
+            graph = kggen.generate(data, deduplication_method=method)
+        else:
+            graph = kggen.from_dict(data)
+
+        nxGraph = kggen.to_nx(graph)
+        node_embeddings, _ = kggen.generate_embeddings(nxGraph)
+        evaluate_accuracy(
+            kggen,
+            queries,
+            node_embeddings,
+            nxGraph,
+            output_file,
+        )
+        return (i, True, f"Successfully processed {output_file}")
+    except Exception as e:
+        return (i, False, f"Error processing {output_file}: {str(e)}")
+
+
+def main(
+    model: str = "openai/gpt-5-nano",
+    api_key_env: str = "OPENAI_API_KEY",
+    api_base_url: str | None = None,
+    evaluation_model: Literal["local", "kggen", "graphrag", "openie"] = "local",
+    reasoning_effort: str = None,
+    temperature: float = 1.0,
+    deduplication_method: Literal["semhash", "full"] | None = "full",
+    max_workers: int = 64,
+):
     # Load data from Hugging Face (with local fallback)
     dataset = load_dataset("josancamon/kg-gen-MINE-evaluation-dataset")["train"]
     queries = [item["generated_queries"] for item in dataset.to_list()]
@@ -102,41 +157,46 @@ def main(evaluation_model: Literal["local", "kggen", "graphrag", "openie"] = "lo
     elif evaluation_model == "openie":
         kg_data = [item["openie_kg"] for item in dataset.to_list()]
 
-    kggen = KGGen(retrieval_model="all-MiniLM-L6-v2")
+    kggen = KGGen(
+        retrieval_model="all-MiniLM-L6-v2",
+        reasoning_effort=reasoning_effort,
+        temperature=temperature,
+        model=model,
+        api_key=os.getenv(api_key_env),
+        api_base=api_base_url,
+    )
     valid_pairs = [
         (kg, queries) for kg, queries in zip(kg_data, queries) if kg is not None
     ]
 
-    for i, (kg, queries) in enumerate(valid_pairs):
-        output_file = f"experiments/MINE/results/{evaluation_model}/results_{i}.json"
-        try:
-            # Create the output directory if it doesn't exist
-            os.makedirs(os.path.dirname(output_file), exist_ok=True)
+    print(f"Processing {len(valid_pairs)} evaluations with {max_workers} workers...")
 
-            if evaluation_model == "local":
-                # Generate the graph from text
-                graph = kggen.generate(
-                    kg,
-                    model=os.getenv("LLM_MODEL"),
-                    api_key=os.getenv("LLM_API_KEY"),
-                    cluster=True,
-                    temperature=1.0,
-                )
-            else:
-                graph = kggen.from_dict(kg)
-
-            nxGraph = kggen.to_nx(graph)
-            node_embeddings, _ = kggen.generate_embeddings(nxGraph)
-            evaluate_accuracy(
-                kggen,
+    # Process evaluations in parallel using ThreadPoolExecutor
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        # Submit all tasks
+        futures = {
+            executor.submit(
+                process_single_evaluation,
+                i,
+                kg,
                 queries,
-                node_embeddings,
-                nxGraph,
-                output_file,
-            )
-        except Exception as e:
-            print(f"Error processing file {output_file}: {str(e)}, skipping...")
+                kggen,
+                evaluation_model,
+                deduplication_method,
+            ): i
+            for i, (kg, queries) in enumerate(valid_pairs)
+        }
+
+        # Process results as they complete
+        completed = 0
+        for future in as_completed(futures):
+            completed += 1
+            i, success, message = future.result()
+            status = "✓" if success else "✗"
+            print(f"[{completed}/{len(valid_pairs)}] {status} {message}")
+
+    print(f"\nCompleted all {len(valid_pairs)} evaluations!")
 
 
 if __name__ == "__main__":
-    main()
+    typer.run(main)
