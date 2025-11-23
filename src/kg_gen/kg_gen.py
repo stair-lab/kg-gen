@@ -244,27 +244,7 @@ class KGGen:
             )
 
         if output_folder:
-            os.makedirs(output_folder, exist_ok=True)
-            # TODO, wtf this name
-            output_path = os.path.join(output_folder, "graph.json")
-
-            graph_dict = {
-                "entities": list(entities),
-                "relations": list(relations),
-                "edges": list(graph.edges),
-                "entity_clusters": {
-                    k: list(v) for k, v in graph.entity_clusters.items()
-                }
-                if graph.entity_clusters
-                else None,
-                "edge_clusters": {k: list(v) for k, v in graph.edge_clusters.items()}
-                if graph.edge_clusters
-                else None,
-            }
-
-            with open(output_path, "w") as f:
-                json.dump(graph_dict, f, indent=2)
-
+            self.export_graph(graph, os.path.join(output_folder, "graph.json"))
         return graph
 
     @deprecated("Use KGGen.deduplicate() method instead")
@@ -418,6 +398,24 @@ class KGGen:
 
         explore_neighbors(node, 1)
         return list(context)
+
+    @staticmethod
+    def export_graph(graph: Graph, output_path: str):
+        os.makedirs(os.path.dirname(output_path), exist_ok=True)
+        graph_dict = {
+            "entities": list(graph.entities),
+            "relations": list(graph.relations),
+            "edges": list(graph.edges),
+            "entity_clusters": {k: list(v) for k, v in graph.entity_clusters.items()}
+            if graph.entity_clusters
+            else None,
+            "edge_clusters": {k: list(v) for k, v in graph.edge_clusters.items()}
+            if graph.edge_clusters
+            else None,
+        }
+
+        with open(output_path, "w") as f:
+            json.dump(graph_dict, f, indent=2)
 
     # ====== Token Usage ======
     def reset_token_usage(self):
