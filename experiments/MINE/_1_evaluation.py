@@ -221,3 +221,4 @@ def main(
 
 if __name__ == "__main__":
     typer.run(main)
+    # uv run experiments/MINE/_1_evaluation.py --model together_ai/openai/gpt-oss-20b --reasoning-effort low --deduplication-method semhash --max-workers 110 --api-base-url https://api.together.xyz/v1 --api-key-env TOGETHER_API_KEY

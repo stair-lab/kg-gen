@@ -19,6 +19,8 @@ import numpy as np
 # Configure dspy logging to only show errors
 import logging
 
+logger = logging.getLogger(__name__)
+
 dspy_logger = logging.getLogger("dspy")
 dspy_logger.setLevel(logging.CRITICAL)
 
@@ -216,8 +218,18 @@ class KGGen:
                 return entities, relations
 
         if not chunk_size:
-            entities, relations = _process(processed_input, self.lm)
-        else:
+            try:
+                entities, relations = _process(processed_input, self.lm)
+            except Exception as e:
+                if "context length" in str(e).lower():
+                    logger.warning(
+                        f"Context length error: {e}. Chunking text with chunk size 16384."
+                    )
+                    chunk_size = 16384
+                else:
+                    raise e
+
+        if chunk_size:
             chunks = chunk_text(processed_input, chunk_size)
             entities = set()
             relations = set()
@@ -336,6 +348,7 @@ class KGGen:
         node_embeddings = {node: model.encode(node).tolist() for node in graph.nodes}
         relation_embeddings = {
             rel: model.encode(rel).tolist()
+            # TODO: this is triggering index out of range error
             for rel in set(edge[2]["relation"] for edge in graph.edges(data=True))
         }
         return node_embeddings, relation_embeddings
