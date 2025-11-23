@@ -8,6 +8,8 @@ import json
 from pathlib import Path
 from datasets import load_dataset
 import pandas as pd
+from kg_gen import KGGen
+from kg_gen.models import Graph
 
 st.set_page_config(page_title="KG Evaluation Results", layout="wide")
 
@@ -67,6 +69,31 @@ def load_all_results(results_folder="experiments/MINE/results"):
     return all_results
 
 
+def load_kg_file(model_name: str, essay_idx: int, results_folder="experiments/MINE/results"):
+    """Load knowledge graph file for a specific model and essay."""
+    kg_path = Path(results_folder) / model_name / f"kg_{essay_idx}.json"
+    if kg_path.exists():
+        with open(kg_path, "r") as f:
+            kg_data = json.load(f)
+        return Graph(**kg_data)
+    return None
+
+
+def visualize_kg_in_browser(graph: Graph, model_name: str, essay_idx: int):
+    """Generate and open KG visualization in a new browser window."""
+    if graph is None or not graph.entities:
+        st.warning(f"No knowledge graph available for {model_name}")
+        return
+    
+    # Generate HTML visualization with a descriptive filename
+    output_dir = Path("experiments/MINE/results") / model_name
+    output_path = output_dir / f"kg_{essay_idx}_visualization.html"
+    
+    KGGen.visualize(graph, str(output_path), open_in_browser=True)
+    st.success("✅ Knowledge graph visualization opened in a new browser window!")
+    st.caption(f"File saved to: {output_path}")
+
+
 def main():
     st.title("Knowledge Graph Evaluation Results")
 
@@ -79,17 +106,31 @@ def main():
         st.error("No results found in experiments/MINE/results/")
         return
 
-    model_names = list(all_results.keys())
+    model_names = sorted(list(all_results.keys()))
 
-    # Find essays that have results for at least one model
+    # Model selector
+    st.subheader("Select Models to Compare")
+    selected_models = st.multiselect(
+        "Models",
+        model_names,
+        default=model_names,
+        label_visibility="collapsed",
+    )
+    
+    if not selected_models:
+        st.warning("Please select at least one model to view results.")
+        return
+
+    # Find essays that have results for at least one selected model
     available_essays = set()
-    for model_name, model_results in all_results.items():
-        available_essays.update(model_results.keys())
+    for model_name in selected_models:
+        if model_name in all_results:
+            available_essays.update(all_results[model_name].keys())
     
     available_essays = sorted(list(available_essays))
     
     if not available_essays:
-        st.error("No essay results found")
+        st.error("No essay results found for selected models")
         return
 
     # Essay selector (only show essays with results)
@@ -104,8 +145,8 @@ def main():
 
     st.subheader(f"Essay Topic: {essay_data.get('essay_topic', 'Unknown')}")
     
-    # Show which models have data for this essay
-    models_without_data = [name for name in model_names if essay_idx not in all_results.get(name, {})]
+    # Show which selected models have data for this essay
+    models_without_data = [name for name in selected_models if essay_idx not in all_results.get(name, {})]
     
     if models_without_data:
         st.info(f"⚠️ {len(models_without_data)} model(s) missing results for this essay: {', '.join(models_without_data)}")
@@ -119,8 +160,8 @@ def main():
             "Query": query,
         }
 
-        # Add columns for each model's retrieved context and evaluation
-        for model_name in model_names:
+        # Add columns for each selected model's retrieved context and evaluation
+        for model_name in selected_models:
             model_results = all_results.get(model_name, {}).get(essay_idx, [])
 
             if query_idx < len(model_results):
@@ -143,9 +184,43 @@ def main():
     else:
         st.warning("No queries found for this essay.")
 
+    # Knowledge Graph Visualization Section
+    st.markdown("---")
+    st.subheader("🔍 View Knowledge Graph")
+    
+    # Find which models have KG files for this essay
+    models_with_kg = []
+    for model_name in selected_models:
+        kg_path = Path("experiments/MINE/results") / model_name / f"kg_{essay_idx}.json"
+        if kg_path.exists():
+            models_with_kg.append(model_name)
+    
+    if models_with_kg:
+        col1, col2 = st.columns([3, 1])
+        with col1:
+            selected_kg_model = st.selectbox(
+                "Select model to view knowledge graph",
+                models_with_kg,
+                key="kg_model_selector",
+                label_visibility="collapsed"
+            )
+        
+        with col2:
+            if st.button("🔍 View Graph", type="primary", use_container_width=True):
+                with st.spinner(f"Loading knowledge graph for {selected_kg_model}..."):
+                    graph = load_kg_file(selected_kg_model, essay_idx)
+                    if graph:
+                        st.caption(f"Entities: {len(graph.entities)} | Relations: {len(graph.relations)}")
+                        visualize_kg_in_browser(graph, selected_kg_model, essay_idx)
+                    else:
+                        st.error(f"Failed to load knowledge graph for {selected_kg_model}")
+    else:
+        st.info("No knowledge graph files available for the selected models and essay.")
+
     # Show essay content in toggleable expander (default open)
+    st.markdown("---")
     essay_content = essay_data.get("essay_content", "N/A")
-    with st.expander("Essay Content", expanded=True):
+    with st.expander("📄 Essay Content", expanded=True):
         st.text(essay_content.replace("```", ""))
 
 
