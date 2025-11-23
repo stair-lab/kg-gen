@@ -47,6 +47,7 @@ dev = [
     "pytest-asyncio>=0.21.0",
     "wikipedia-api>=0.8.1",
     "matplotlib>=3.10.7",
+    "mlflow>=3.6.0",
 ]
 mcp = [
     "fastmcp>=2.10.6",

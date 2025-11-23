@@ -5,7 +5,6 @@ import inflect
 
 
 class DeduplicateList:
-    threshold: float = 0.95
     inflect_engine: inflect.engine
     original_map: dict[str, str]
     items_map: dict[str, str]
@@ -94,14 +93,17 @@ class DeduplicateList:
         return f"Total items: {self.total_items}; Deduplicated items: {self.deduplicated_items}; Duplicate items: {self.duplicate_items}; Reduction: {self.reduction:.1f}"
 
 
-def deduplicate_graph(graph: Graph) -> Graph:
+def run_semhash_deduplication(
+    graph: Graph,
+    similarity_threshold: float = 0.95,
+) -> Graph:
     """
     Deduplicate the graph.
     """
     # Deduplicate each graph components
-    entities_dedup = DeduplicateList()
+    entities_dedup = DeduplicateList(similarity_threshold)
     entities_dedup.deduplicate(graph.entities)
-    edges_dedup = DeduplicateList()
+    edges_dedup = DeduplicateList(similarity_threshold)
     edges_dedup.deduplicate(graph.edges)
 
     def _get_relation(relation: list[str]) -> list[str]:

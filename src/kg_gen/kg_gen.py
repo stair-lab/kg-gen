@@ -2,7 +2,7 @@ from typing import Union, List, Dict, Optional
 
 from kg_gen.steps._1_get_entities import get_entities
 from kg_gen.steps._2_get_relations import get_relations
-from kg_gen.steps._3_deduplicate import dedup_cluster_graph
+from kg_gen.steps._3_deduplicate import run_deduplication, DeduplicateMethod
 from kg_gen.utils.chunk_text import chunk_text
 from kg_gen.utils.visualize_kg import visualize as visualize_kg
 from kg_gen.models import Graph
@@ -32,6 +32,7 @@ class KGGen:
         api_key: str = None,
         api_base: str = None,
         retrieval_model: Optional[str] = None,
+        disable_cache: bool = False,
     ):
         """Initialize KGGen with optional model configuration
 
@@ -49,6 +50,7 @@ class KGGen:
         self.api_base = api_base
         self.retrieval_model: Optional[SentenceTransformer] = None
         self.lm = None
+        self.disable_cache = disable_cache
 
         self.init_model(
             model=model,
@@ -126,6 +128,8 @@ class KGGen:
                 temperature=self.temperature,
                 max_tokens=self.max_tokens,
                 api_base=self.api_base,
+                cache=not self.disable_cache,
+                model_type="responses" if self.model.startswith("gpt-5") else "chat",
             )
         else:
             self.lm = dspy.LM(
@@ -134,6 +138,8 @@ class KGGen:
                 max_tokens=self.max_tokens,
                 api_base=self.api_base,
                 reasoning_effort=self.reasoning_effort,
+                cache=not self.disable_cache,
+                model_type="responses" if self.model.startswith("gpt-5") else "chat",
             )
 
     @staticmethod
@@ -235,7 +241,7 @@ class KGGen:
         )
 
         if cluster:
-            graph = self.cluster(graph, context)
+            graph = self.cluster(graph)  # TODO: implement context
 
         if output_folder:
             os.makedirs(output_folder, exist_ok=True)
@@ -263,6 +269,15 @@ class KGGen:
     def cluster(
         self,
         graph: Graph,
+        **kwargs,
+    ) -> Graph:
+        return self.deduplicate(graph, **kwargs)
+
+    def deduplicate(
+        self,
+        graph: Graph,
+        method: DeduplicateMethod = DeduplicateMethod.FULL,
+        semhash_similarity_threshold: float = 0.95,  # recommended to keep at 0.95
         context: str = "",
         model: str = None,
         temperature: float = None,
@@ -278,10 +293,12 @@ class KGGen:
                 api_base=api_base or self.api_base,
             )
 
-        if self.retrieval_model is None:
-            raise ValueError("No retrieval model provided")
-        return dedup_cluster_graph(
-            retrieval_model=self.retrieval_model, lm=self.lm, graph=graph
+        return run_deduplication(
+            lm=self.lm,
+            graph=graph,
+            method=method,
+            retrieval_model=self.retrieval_model,
+            semhash_similarity_threshold=semhash_similarity_threshold,
         )
 
     def aggregate(self, graphs: list[Graph]) -> Graph:
@@ -399,3 +416,30 @@ class KGGen:
 
         explore_neighbors(node, 1)
         return list(context)
+
+    # ====== Token Usage ======
+    def reset_token_usage(self):
+        self.lm.history = []
+
+    def extract_token_usage_from_history(self) -> Dict[str, int]:
+        """Extract token usage from dspy LM history."""
+
+        total_prompt_tokens = 0
+        total_completion_tokens = 0
+        total_tokens = 0
+
+        for entry in self.lm.history:
+            if isinstance(entry, dict):
+                # Check for usage information in various possible locations
+                usage = entry.get("usage") or entry.get("response", {}).get("usage")
+
+                if usage:
+                    total_prompt_tokens += usage.get("prompt_tokens", 0)
+                    total_completion_tokens += usage.get("completion_tokens", 0)
+                    total_tokens += usage.get("total_tokens", 0)
+
+        return {
+            "prompt_tokens": total_prompt_tokens,
+            "completion_tokens": total_completion_tokens,
+            "total_tokens": total_tokens,
+        }
