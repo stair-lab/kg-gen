@@ -10,8 +10,54 @@ from datasets import load_dataset
 import pandas as pd
 from kg_gen import KGGen
 from kg_gen.models import Graph
+import urllib.request
+import zipfile
 
 st.set_page_config(page_title="KG Evaluation Results", layout="wide")
+
+RESULTS_URL = "https://github.com/stair-lab/kg-gen/releases/download/MINE-evaluations-expanded/results.zip"
+RESULTS_DIR = Path("experiments/MINE/results")
+
+
+def ensure_results_exist():
+    """Download and extract results if the directory doesn't exist or is empty."""
+    # Check if results directory exists and has content
+    if RESULTS_DIR.exists():
+        # Check if directory has any subdirectories (model results)
+        subdirs = [
+            d for d in RESULTS_DIR.iterdir() if d.is_dir() and d.name != "comparisons"
+        ]
+        if subdirs:
+            return  # Results already exist
+
+    # Results don't exist or directory is empty - download them
+    st.info("📥 Downloading evaluation results (first time setup)...")
+
+    try:
+        # Create MINE directory if it doesn't exist
+        mine_dir = Path("experiments/MINE")
+        mine_dir.mkdir(parents=True, exist_ok=True)
+
+        # Download the zip file
+        zip_path = mine_dir / "results.zip"
+
+        with st.spinner("Downloading results.zip..."):
+            urllib.request.urlretrieve(RESULTS_URL, zip_path)
+
+        # Extract the zip file
+        with st.spinner("Extracting results..."):
+            with zipfile.ZipFile(zip_path, "r") as zip_ref:
+                zip_ref.extractall(mine_dir)
+
+        # Clean up the zip file
+        zip_path.unlink()
+
+        st.success("✅ Results downloaded and extracted successfully!")
+
+    except Exception as e:
+        st.error(f"❌ Failed to download results: {str(e)}")
+        st.info("Please manually download from: " + RESULTS_URL)
+        raise
 
 
 @st.cache_data
@@ -22,8 +68,10 @@ def load_hf_dataset():
 
 
 @st.cache_data
-def discover_result_directories(results_folder="experiments/MINE/results"):
+def discover_result_directories(results_folder=None):
     """Discover all directories in the results folder."""
+    if results_folder is None:
+        results_folder = RESULTS_DIR
     results_path = Path(results_folder)
     if not results_path.exists():
         return []
@@ -34,8 +82,10 @@ def discover_result_directories(results_folder="experiments/MINE/results"):
 
 
 @st.cache_data
-def load_all_results(results_folder="experiments/MINE/results"):
+def load_all_results(results_folder=None):
     """Load all results from all directories."""
+    if results_folder is None:
+        results_folder = RESULTS_DIR
     results_path = Path(results_folder)
     all_results = {}
 
@@ -69,8 +119,10 @@ def load_all_results(results_folder="experiments/MINE/results"):
     return all_results
 
 
-def load_kg_file(model_name: str, essay_idx: int, results_folder="experiments/MINE/results"):
+def load_kg_file(model_name: str, essay_idx: int, results_folder=None):
     """Load knowledge graph file for a specific model and essay."""
+    if results_folder is None:
+        results_folder = RESULTS_DIR
     kg_path = Path(results_folder) / model_name / f"kg_{essay_idx}.json"
     if kg_path.exists():
         with open(kg_path, "r") as f:
@@ -86,9 +138,9 @@ def visualize_kg_in_browser(graph: Graph, model_name: str, essay_idx: int):
         return
     
     # Generate HTML visualization with a descriptive filename
-    output_dir = Path("experiments/MINE/results") / model_name
+    output_dir = RESULTS_DIR / model_name
     output_path = output_dir / f"kg_{essay_idx}_visualization.html"
-    
+
     KGGen.visualize(graph, str(output_path), open_in_browser=True)
     st.success("✅ Knowledge graph visualization opened in a new browser window!")
     st.caption(f"File saved to: {output_path}")
@@ -96,6 +148,9 @@ def visualize_kg_in_browser(graph: Graph, model_name: str, essay_idx: int):
 
 def main():
     st.title("Knowledge Graph Evaluation Results")
+
+    # Ensure results exist (download if needed)
+    ensure_results_exist()
 
     # Load data
     with st.spinner("Loading data..."):
@@ -116,7 +171,7 @@ def main():
         default=model_names,
         label_visibility="collapsed",
     )
-    
+
     if not selected_models:
         st.warning("Please select at least one model to view results.")
         return
@@ -126,9 +181,9 @@ def main():
     for model_name in selected_models:
         if model_name in all_results:
             available_essays.update(all_results[model_name].keys())
-    
+
     available_essays = sorted(list(available_essays))
-    
+
     if not available_essays:
         st.error("No essay results found for selected models")
         return
@@ -144,12 +199,16 @@ def main():
     queries = essay_data.get("generated_queries", [])
 
     st.subheader(f"Essay Topic: {essay_data.get('essay_topic', 'Unknown')}")
-    
+
     # Show which selected models have data for this essay
-    models_without_data = [name for name in selected_models if essay_idx not in all_results.get(name, {})]
-    
+    models_without_data = [
+        name for name in selected_models if essay_idx not in all_results.get(name, {})
+    ]
+
     if models_without_data:
-        st.info(f"⚠️ {len(models_without_data)} model(s) missing results for this essay: {', '.join(models_without_data)}")
+        st.info(
+            f"⚠️ {len(models_without_data)} model(s) missing results for this essay: {', '.join(models_without_data)}"
+        )
 
     # Build table data
     table_data = []
@@ -187,14 +246,14 @@ def main():
     # Knowledge Graph Visualization Section
     st.markdown("---")
     st.subheader("🔍 View Knowledge Graph")
-    
+
     # Find which models have KG files for this essay
     models_with_kg = []
     for model_name in selected_models:
-        kg_path = Path("experiments/MINE/results") / model_name / f"kg_{essay_idx}.json"
+        kg_path = RESULTS_DIR / model_name / f"kg_{essay_idx}.json"
         if kg_path.exists():
             models_with_kg.append(model_name)
-    
+
     if models_with_kg:
         col1, col2 = st.columns([3, 1])
         with col1:
@@ -202,18 +261,22 @@ def main():
                 "Select model to view knowledge graph",
                 models_with_kg,
                 key="kg_model_selector",
-                label_visibility="collapsed"
+                label_visibility="collapsed",
             )
-        
+
         with col2:
             if st.button("🔍 View Graph", type="primary", use_container_width=True):
                 with st.spinner(f"Loading knowledge graph for {selected_kg_model}..."):
                     graph = load_kg_file(selected_kg_model, essay_idx)
                     if graph:
-                        st.caption(f"Entities: {len(graph.entities)} | Relations: {len(graph.relations)}")
+                        st.caption(
+                            f"Entities: {len(graph.entities)} | Relations: {len(graph.relations)}"
+                        )
                         visualize_kg_in_browser(graph, selected_kg_model, essay_idx)
                     else:
-                        st.error(f"Failed to load knowledge graph for {selected_kg_model}")
+                        st.error(
+                            f"Failed to load knowledge graph for {selected_kg_model}"
+                        )
     else:
         st.info("No knowledge graph files available for the selected models and essay.")
 
