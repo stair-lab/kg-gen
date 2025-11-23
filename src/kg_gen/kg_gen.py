@@ -1,4 +1,5 @@
 from typing import Union, List, Dict, Optional
+from typing_extensions import deprecated
 
 from kg_gen.steps._1_get_entities import get_entities
 from kg_gen.steps._2_get_relations import get_relations
@@ -62,12 +63,6 @@ class KGGen:
             retrieval_model=retrieval_model,
         )
 
-    def validate_reasoning_effort(self, reasoning_effort: str):
-        if "gpt-5" not in self.model and reasoning_effort is not None:
-            raise ValueError(
-                "Reasoning effort is only supported for gpt-5 family models"
-            )
-
     def validate_temperature(self, temperature: float):
         if "gpt-5" in self.model and temperature < 1.0:
             raise ValueError("Temperature must be 1.0 for gpt-5 family models")
@@ -116,7 +111,6 @@ class KGGen:
             self.retrieval_model = SentenceTransformer(retrieval_model)
 
         self.validate_temperature(self.temperature)
-        self.validate_reasoning_effort(self.reasoning_effort)
         self.validate_max_tokens(self.max_tokens)
 
         # Initialize dspy LM with current settings
@@ -130,6 +124,7 @@ class KGGen:
                 api_base=self.api_base,
                 cache=not self.disable_cache,
                 model_type="responses" if self.model.startswith("gpt-5") else "chat",
+                allowed_openai_params=["reasoning_effort"],
             )
         else:
             self.lm = dspy.LM(
@@ -140,6 +135,7 @@ class KGGen:
                 reasoning_effort=self.reasoning_effort,
                 cache=not self.disable_cache,
                 model_type="responses" if self.model.startswith("gpt-5") else "chat",
+                allowed_openai_params=["reasoning_effort"],
             )
 
     @staticmethod
@@ -160,7 +156,8 @@ class KGGen:
         api_base: str = None,
         context: str = "",
         chunk_size: Optional[int] = None,
-        cluster: bool = False,
+        reasoning_effort: str = None,
+        deduplication_method: DeduplicateMethod | None = DeduplicateMethod.SEMHASH,
         temperature: float = None,
         output_folder: Optional[str] = None,
     ) -> Graph:
@@ -201,12 +198,13 @@ class KGGen:
             processed_input = input_data
 
         # Reinitialize dspy with new parameters if any are provided
-        if any([model, temperature, api_key, api_base]):
+        if any([model, temperature, api_key, api_base, reasoning_effort]):
             self.init_model(
                 model=model or self.model,
                 temperature=temperature or self.temperature,
                 api_key=api_key or self.api_key,
                 api_base=api_base or self.api_base,
+                reasoning_effort=reasoning_effort or self.reasoning_effort,
             )
 
         def _process(content, lm):
@@ -240,11 +238,14 @@ class KGGen:
             edges={relation[1] for relation in relations},
         )
 
-        if cluster:
-            graph = self.cluster(graph)  # TODO: implement context
+        if deduplication_method:
+            graph = self.deduplicate(
+                graph, method=deduplication_method, context=context
+            )
 
         if output_folder:
             os.makedirs(output_folder, exist_ok=True)
+            # TODO, wtf this name
             output_path = os.path.join(output_folder, "graph.json")
 
             graph_dict = {
@@ -266,6 +267,7 @@ class KGGen:
 
         return graph
 
+    @deprecated("Use KGGen.deduplicate() method instead")
     def cluster(
         self,
         graph: Graph,
@@ -278,11 +280,11 @@ class KGGen:
         graph: Graph,
         method: DeduplicateMethod = DeduplicateMethod.FULL,
         semhash_similarity_threshold: float = 0.95,  # recommended to keep at 0.95
-        context: str = "",
         model: str = None,
         temperature: float = None,
         api_key: str = None,
         api_base: str = None,
+        context: str = "",  # TODO: implement context
     ) -> Graph:
         # Reinitialize dspy with new parameters if any are provided
         if any([model, temperature, api_key, api_base]):
