@@ -46,6 +46,7 @@ dev = [
     "wikipedia-api>=0.8.1",
     "matplotlib>=3.10.7",
     "mlflow>=3.6.0",
+    "streamlit>=1.51.0",
 ]
 mcp = ["fastmcp>=2.10.6", "mcp>=1.12.1"]
 

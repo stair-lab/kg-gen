@@ -38,7 +38,7 @@ def read_accuracies_from_folder(folder_path):
         raise FileNotFoundError(f"Folder does not exist: {folder_path}")
 
     # Get all JSON files and sort them
-    json_files = sorted(folder.glob("*.json"))
+    json_files = sorted(folder.glob("results_*.json"))
 
     for json_file in json_files:
         try:

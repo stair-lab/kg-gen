@@ -52,7 +52,7 @@ class ResponseEvaluator(dspy.Module):
 def gpt_evaluate_response(correct_answer: str, context: str) -> int:
     evaluator = ResponseEvaluator()
     result = evaluator.forward(context=context, correct_answer=correct_answer)
-    return int(result.evaluation.value)
+    return result.evaluation
 
 
 def evaluate_accuracy(
@@ -130,6 +130,8 @@ def process_single_evaluation(
         if evaluation_model == "local":
             # Generate the graph from text
             graph = kggen.generate(data, deduplication_method=method)
+            kg_output_file = f"experiments/MINE/results/{dir_name}/kg_{i}.json"
+            KGGen.export_graph(graph, kg_output_file)
         else:
             graph = kggen.from_dict(data)
 
