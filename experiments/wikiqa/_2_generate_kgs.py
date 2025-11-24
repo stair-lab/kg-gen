@@ -7,7 +7,7 @@ import os
 import dspy
 import typer
 
-from scripts._1_wikiqa_download import sanitize_filename
+from experiments.wikiqa._1_download_articles import sanitize_filename
 
 
 BASE_PATH = "data/wiki_qa"
@@ -19,10 +19,11 @@ DEFAULT_WIKIPEDIA_USER_AGENT = "MyWikiQADataFetcher/1.0 (example@example.com)"
 # ------
 # Remove rows where the article doesn't contain the correct answer
 lm = dspy.LM(
-    "gemini/gemini-2.5-flash-preview-04-17",
-    api_key=os.getenv("GOOGLE_API_KEY"),
+    "openai/gpt-5-nano",
+    api_key=os.getenv("OPENAI_API_KEY"),
     temperature=0,
-    max_tokens=1000000,
+    max_tokens=100000,
+    reasoning_effort="high",
 )
 dspy.configure(lm=lm)
 
@@ -101,7 +102,8 @@ def clean_rows_article_no_response(split_name: Literal["train", "test", "validat
 # Generate a KG from the cleaned dataset
 
 
-def main(split_name: str, thread_count: int = 1):
+def main(split_name: str):
+    thread_count = 100
     if split_name not in ["train", "test", "validation"]:
         raise ValueError(f"Invalid split name: {split_name}")
 

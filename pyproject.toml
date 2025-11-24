@@ -18,12 +18,10 @@ dependencies = [
     "pydantic>=2.0.0",
     "pre-commit>=4.3.0",
     "ty>=0.0.1a21",
-    "dspy>=2.6.27",
     "openai>=1.108.1",
-    "pyvis>=0.3.2",
     "sentence-transformers>=5.1.0",
     "tqdm>=4.67.1",
-    "datasets>=4.1.1",
+    "datasets>=4.4.1",
     "semhash>=0.3.2",
     "inflect>=7.5.0",
     "numpy>=1.24.0",
@@ -32,7 +30,7 @@ dependencies = [
     "rank-bm25>=0.2.2",
     "networkx>=3.0",
     "python-dotenv>=1.0.0",
-    "dspy-ai>=2.6.27",
+    "dspy-ai>=3.0.4",
     "pathlib2>=2.3.7",
     "typer>=0.17.4",
     "ruff>=0.14.2",
@@ -48,11 +46,9 @@ dev = [
     "wikipedia-api>=0.8.1",
     "matplotlib>=3.10.7",
     "mlflow>=3.6.0",
+    "streamlit>=1.51.0",
 ]
-mcp = [
-    "fastmcp>=2.10.6",
-    "mcp>=1.12.1",
-]
+mcp = ["fastmcp>=2.10.6", "mcp>=1.12.1"]
 
 [project.scripts]
 kggen = "kg_gen.cli:main"

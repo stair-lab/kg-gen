@@ -4,17 +4,43 @@ MINE now automatically loads evaluation data from Hugging Face, making it easier
 
 ## Quick Start
 
+### 1. Run Evaluation
+
 1. Set your OpenAI API key as an environment variable:
    - **Windows PowerShell:** `$env:OPENAI_API_KEY="your_actual_key_here"`
    - **Linux/Mac:** `export OPENAI_API_KEY="your_actual_key_here"`
 
-2. Use your KG generator to generate a KG from each of the essays. The essays are available on Hugging Face at [kg-gen-evaluation-essays](https://huggingface.co/datasets/kyssen/kg-gen-evaluation-essays), and the evaluation data (questions and answers) will be automatically downloaded from Hugging Face.
+2. Run the evaluation script:
+   ```bash
+   python _1_evaluation.py --model openai/gpt-5-nano --evaluation-model local
+   ```
 
-3. Name the generated KGs `1.json`, `2.json`, ..., `106.json` in order and place them in the `results/kggen/` folder in this directory.
+3. Results will be saved in `results/{model-config}/`:
+   - `results_{i}.json` - Evaluation results for each essay
+   - `kg_{i}.json` - Generated knowledge graph for each essay
 
-4. Run `python evaluation.py`.
+### 2. Compare Results
 
-5. Look for the results in `1_results.json`, ..., `106_results.json` in the `results/kggen/` folder.
+Generate comprehensive comparison charts and statistics:
+```bash
+python _2_compare_results.py
+```
+
+This creates:
+- `results/results.png` - Comprehensive comparison plot
+- `results/summary.txt` - Detailed statistics and rankings
+- `results/comparisons/` - Pairwise comparison plots
+
+### 3. Interactive Visualization Dashboard
+
+Launch the Streamlit dashboard to explore results interactively:
+```bash
+streamlit run _3_visualize.py
+```
+
+The dashboard provides:
+- 📄 **Essay Browser** - View essay topics and content
+- 🔍 **Query Analysis** - See retrieved contexts and evaluations for each query
 
 ## Data Loading
 
