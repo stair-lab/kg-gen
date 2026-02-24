@@ -6,6 +6,7 @@ from kg_gen.steps._2_get_relations import get_relations
 from kg_gen.steps._3_deduplicate import run_deduplication, DeduplicateMethod
 from kg_gen.utils.chunk_text import chunk_text
 from kg_gen.utils.visualize_kg import visualize as visualize_kg
+from kg_gen.utils.score_relations import run_relation_scoring
 from kg_gen.models import Graph
 import dspy
 import json
@@ -323,6 +324,7 @@ class KGGen:
         all_relations = set()
         all_edges = set()
         all_entity_metadata: dict[str, set[str]] = {}
+        all_relation_scores: dict[str, float] = {}
 
         # Combine all graphs
         for graph in graphs:
@@ -335,6 +337,12 @@ class KGGen:
                         all_entity_metadata[entity].update(metadata_set)
                     else:
                         all_entity_metadata[entity] = metadata_set.copy()
+            if graph.relation_scores:
+                for key, score in graph.relation_scores.items():
+                    # Keep highest confidence when same relation appears in multiple graphs
+                    all_relation_scores[key] = max(
+                        all_relation_scores.get(key, 0.0), score
+                    )
 
         # Create and return aggregated graph
         return Graph(
@@ -342,6 +350,7 @@ class KGGen:
             relations=all_relations,
             edges=all_edges,
             entity_metadata=all_entity_metadata if all_entity_metadata else None,
+            relation_scores=all_relation_scores if all_relation_scores else None,
         )
 
     @staticmethod
@@ -446,6 +455,50 @@ class KGGen:
         explore_neighbors(node, 1)
         return list(context)
 
+    def score_relations(
+        self,
+        graph: Graph,
+        source_text: str,
+        batch_size: int = 15,
+        context: str = "",
+        model: str = None,
+        temperature: float = None,
+        api_key: str = None,
+        api_base: str = None,
+    ) -> Graph:
+        """Attach confidence scores to each relation using the LM and source text.
+
+        Useful for RAG (filter by confidence), evaluation at different thresholds,
+        and human-in-the-loop review of low-confidence triples.
+
+        Args:
+            graph: Knowledge graph to score.
+            source_text: Original text the graph was extracted from.
+            batch_size: Number of relations per LM call.
+            context: Optional domain context for scoring.
+            model: Optional model override.
+            temperature: Optional temperature override.
+            api_key: Optional API key override.
+            api_base: Optional API base override.
+
+        Returns:
+            New Graph with relation_scores populated (same structure).
+        """
+        if any([model, temperature, api_key, api_base]):
+            self.init_model(
+                model=model or self.model,
+                temperature=temperature or self.temperature,
+                api_key=api_key or self.api_key,
+                api_base=api_base or self.api_base,
+            )
+        return run_relation_scoring(
+            lm=self.lm,
+            graph=graph,
+            source_text=source_text,
+            batch_size=batch_size,
+            context=context,
+        )
+
     @staticmethod
     def export_graph(graph: Graph, output_path: str):
         os.makedirs(os.path.dirname(output_path), exist_ok=True)
@@ -460,6 +513,7 @@ class KGGen:
             if graph.edge_clusters
             else None,
             "entity_metadata": graph.entity_metadata,
+            "relation_scores": graph.relation_scores,
         }
 
         with open(output_path, "w") as f:

@@ -2,6 +2,23 @@ import json
 from pydantic import BaseModel, Field
 from typing import Any, Tuple, Optional
 
+# Delimiter for relation_scores dict key (subject, predicate, object) -> string.
+# Used so keys are JSON-serializable and unambiguous.
+_REL_KEY_SEP = "||"
+
+
+def _relation_to_key(relation: Tuple[str, str, str]) -> str:
+    """Encode a (subject, predicate, object) triple as a string key."""
+    return _REL_KEY_SEP.join([relation[0], relation[1], relation[2]])
+
+
+def _key_to_relation(key: str) -> Tuple[str, str, str]:
+    """Decode a string key back to (subject, predicate, object)."""
+    parts = key.split(_REL_KEY_SEP, 2)
+    if len(parts) != 3:
+        raise ValueError(f"Invalid relation key: {key}")
+    return (parts[0], parts[1], parts[2])
+
 
 # ~~~ DATA STRUCTURES ~~~
 class Graph(BaseModel):
@@ -16,6 +33,10 @@ class Graph(BaseModel):
     edge_clusters: Optional[dict[str, set[str]]] = None
 
     entity_metadata: dict[str, set[str]] | None = None
+    relation_scores: Optional[dict[str, float]] = Field(
+        default=None,
+        description="Optional confidence score per relation. Keys are 'subject||predicate||object', values in [0.0, 1.0].",
+    )
 
     @staticmethod
     def from_file(file_path: str) -> "Graph":
@@ -44,6 +65,13 @@ class Graph(BaseModel):
         """
         with open(file_path, "w", encoding="utf-8") as f:
             f.write(self.model_dump_json(indent=2))
+
+    def get_relation_score(self, relation: Tuple[str, str, str]) -> Optional[float]:
+        """Return confidence score for a relation triple, or None if not scored."""
+        if not self.relation_scores:
+            return None
+        key = _relation_to_key(relation)
+        return self.relation_scores.get(key)
 
     def stats(self, name: Optional[str] = None):
         """
