@@ -2,8 +2,6 @@
 
 📄 [**Paper**](https://arxiv.org/abs/2502.09956) | 🐍 [**Package**](https://pypi.org/project/kg-gen/) | 🤖 [**MCP**](https://github.com/stair-lab/kg-gen/tree/main/mcp/) | 🔬 [**Experiments**](https://github.com/stair-lab/kg-gen/tree/main/experiments/) | 👩🏻‍💻 [**Dataset**](https://huggingface.co/datasets/belindamo/wiki_qa_kggen) | 🐦 [**X Updates**](https://x.com/belindmo)
 
-> 💡New! Try KGGen's visualizer at [kg-gen.org](https://kg-gen.org)
-
 Welcome! `kg-gen` helps you extract knowledge graphs from any plain text using AI. It can process both small and large text inputs, and it can also handle messages in a conversation format.
 
 Why generate knowledge graphs? `kg-gen` is great if you want to:
