@@ -69,11 +69,11 @@ class DeduplicateList:
         deduplication_result = semhash.self_deduplicate(threshold=self.threshold)
 
         self.deduplicated_items = len(deduplication_result.selected)
-        self.duplicate_items = len(deduplication_result.duplicates)
+        self.duplicate_items = len(deduplication_result.filtered)
         self.reduction = (self.duplicate_items / self.total_items) * 100
 
         # Map back to original strings
-        duplicates = deduplication_result.duplicates
+        duplicates = deduplication_result.filtered
         for duplicate in duplicates:
             original = duplicate.record
             # Check if duplicates list is not empty before accessing
